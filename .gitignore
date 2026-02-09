@@ -1,0 +1,10 @@
+# bmad-assist artifacts (auto-generated, never commit)
+.bmad-assist/cache/
+*.meta.yaml
+*.tpl.xml
+.makemd/
+.obsidian/
+.opencode/
+.sisyphus/
+.space/
+.windsurf/

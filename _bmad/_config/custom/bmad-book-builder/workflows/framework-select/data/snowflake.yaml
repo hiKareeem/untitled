@@ -1,0 +1,183 @@
+---
+name: "Snowflake Method"
+shortName: "snowflake"
+author: "Randy Ingermanson"
+type: "recursive-organic"
+origin: "Writing Fiction for Dummies (2002)"
+adaptedFor: "Novels, character-driven stories"
+
+# Framework Overview
+description: "Randy Ingermanson's recursive method that builds stories from small to large. Emphasizes character-first, organic development through iterative refinement."
+
+bestFor:
+  genres:
+    - "Literary fiction"
+    - "Character-driven stories"
+    - "Ensemble cast narratives"
+    - "Complex relationship stories"
+    - "Multi-POV novels"
+  storyTypes:
+    - "Character-driven narratives"
+    - "Internal journey stories"
+    - "Relationship-focused plots"
+    - "Organic, unfolding stories"
+  authorLevels:
+    - "First-time novelists"
+    - "Discovery writers"
+    - "Character-focused authors"
+
+# Key Characteristics
+characteristics:
+  - "10-step recursive process"
+  - "Character-first approach"
+  - "Small-to-large progression"
+  - "Organic story emergence"
+  - "Iterative refinement"
+
+# Structural Elements
+structure:
+  totalSteps: 10
+  phases: 3 # Foundation, Characters, Structure
+  pacing: "Organic, character-driven"
+
+# Steps
+steps:
+  - name: "One-Sentence Summary"
+    number: 1
+    purpose: "Distill the story into a single sentence (15 words or less)"
+    phase: "Foundation"
+    output: "sentence-summary.md"
+    keyQuestions:
+      - "Who is the protagonist?"
+      - "What do they want?"
+      - "What stops them?"
+      - "What's at stake?"
+
+  - name: "One-Paragraph Summary"
+    number: 2
+    purpose: "Expand the sentence into five sentences: setup, three disasters, ending"
+    phase: "Foundation"
+    output: "paragraph-summary.md"
+    keyQuestions:
+      - "What's the setup?"
+      - "What are the three major disasters?"
+      - "How does it end?"
+
+  - name: "Character Sheets"
+    number: 3
+    purpose: "Create one-page summaries for each major character"
+    phase: "Characters"
+    output: "character-sheets/"
+    keyQuestions:
+      - "Who are the major characters?"
+      - "What's each character's story goal?"
+      - "What's their motivation?"
+      - "What's their conflict?"
+      - "What's their epiphany?"
+
+  - name: "One-Page Synopsis"
+    number: 4
+    purpose: "Expand the paragraph into a full-page synopsis"
+    phase: "Structure"
+    output: "synopsis-one-page.md"
+    keyQuestions:
+      - "What's the full story arc?"
+      - "How do the disasters escalate?"
+      - "What's the resolution?"
+
+  - name: "Character Descriptions"
+    number: 5
+    purpose: "Create full character bible with detailed descriptions"
+    phase: "Characters"
+    output: "character-bible/"
+    keyQuestions:
+      - "What's each character's backstory?"
+      - "What's their personality?"
+      - "What's their story arc?"
+      - "How do they relate to other characters?"
+
+  - name: "Synopsis Expansion"
+    number: 6
+    purpose: "Expand synopsis to include character storylines and subplots"
+    phase: "Structure"
+    output: "synopsis-expanded.md"
+    keyQuestions:
+      - "What are the major storylines?"
+      - "How do they interweave?"
+      - "What are the subplots?"
+
+  - name: "Character Charts"
+    number: 7
+    purpose: "Create spreadsheets with detailed character information"
+    phase: "Characters"
+    output: "character-charts.xlsx"
+    keyQuestions:
+      - "What are all character details in organized format?"
+      - "How do characters relate to each other?"
+      - "What are character arcs?"
+
+  - name: "Scene List"
+    number: 8
+    purpose: "List all scenes in spreadsheet format with purpose and POV"
+    phase: "Structure"
+    output: "scene-list.xlsx"
+    keyQuestions:
+      - "What scenes tell the story?"
+      - "What's each scene's purpose?"
+      - "Which character's POV?"
+
+  - name: "Scene Planning"
+    number: 9
+    purpose: "Create narrative description of each scene before writing"
+    phase: "Planning"
+    output: "scene-plans/"
+    keyQuestions:
+      - "What happens in each scene?"
+      - "What's the conflict?"
+      - "How does it move the story forward?"
+
+  - name: "First Draft"
+    number: 10
+    purpose: "Write the novel using the scene plans as a guide"
+    phase: "Drafting"
+    output: "chapters/"
+    keyQuestions:
+      - "How does the story unfold?"
+      - "What discoveries emerge during drafting?"
+
+# Act Breakpoints (for Foundation workflow)
+# Snowflake doesn't have traditional act breaks
+# Use completion milestones instead
+actBreakpoints:
+  - "One-Page Synopsis" # Foundation complete
+  - "Character Descriptions" # Character work complete
+  - "Scene List" # Structure complete
+
+# Strengths
+strengths:
+  - "Character-first approach"
+  - "Organic story development"
+  - "Prevents writer's block"
+  - "Flexible and adaptable"
+  - "Works well for discovery writers"
+  - "Strong character development"
+
+# Considerations
+considerations:
+  - "Requires patience and iteration"
+  - "May feel slow for plot-focused writers"
+  - "Less structured than beat sheets"
+  - "Character work can delay plotting"
+  - "Best for character-driven stories"
+
+# Foundation Integration
+# Snowflake is process-based rather than structure-based
+# Foundation will use the progression milestones
+foundationConfig:
+  applyToChapterPlan: true
+  beatLabelsInPlan: false # Snowflake doesn't use beat labels
+  actBreakpoints: ["One-Page Synopsis", "Character Descriptions", "Scene List"]
+  autoProgression: false # Snowflake is iterative, not linear
+  validationEnabled: true
+  useCharacterSheets: true
+  scenePlanningRequired: true

@@ -1,0 +1,535 @@
+# Style Profile YAML Templates
+# Templates for generating the style-profile.yaml output file
+
+> **Purpose:** This document contains the YAML structure templates used by Style Coach to generate the final style-profile.yaml file.
+
+---
+
+## Complete Profile Template
+
+### Frontmatter Section
+
+```yaml
+---
+stepsCompleted: ['step-01-collect', 'step-02-analyze-quant', 'step-03-analyze-qual', 'step-04-detect-antipatterns', 'step-05-generate', 'step-06-review']
+lastStep: 'step-06-review'
+date: '{current_date}'
+user_name: '{user_name}'
+sampleWordCount: {word_count}
+profileAccepted: true
+---
+```
+
+### Header Section
+
+```markdown
+# Style Profile
+
+**Generated:** {current_date}
+**Author:** {user_name}
+**Samples Analyzed:** {sample_count} files, {word_count} words
+**Reviewer:** Style Coach
+```
+
+**Optional Metadata:**
+- **Genre:** {genre} (if provided in step 01)
+- **Sample Context:** {sample_context} (if provided)
+- **Style Goals:** {style_goals} (if provided)
+
+---
+
+## Quantitative Metrics Template
+
+### TTR Section
+
+```markdown
+### Type-Token Ratio (TTR)
+
+**Current:** {ttr_value}
+**Target:** > 0.175
+**Status:** {PASS/ALERT}
+
+**Assessment:** {ttr_assessment}
+```
+
+**Assessment Templates:**
+- **If PASS:** "Good lexical diversity. Your vocabulary shows healthy variety."
+- **If ALERT:** "Below recommended threshold. Consider expanding vocabulary diversity for richer expression."
+
+### Sentence Length Section
+
+```markdown
+### Average Sentence Length
+
+**Current:** {avg_sentence_length} words
+**Target:** 20-24 words
+**Status:** {PASS/ALERT}
+
+**Assessment:** {sentence_assessment}
+```
+
+**Assessment Templates:**
+- **If PASS:** "Ideal sentence length for readability and rhythm."
+- **If below 20:** "Shorter sentences. Creates punchy, fast-paced rhythm."
+- **If above 24:** "Longer sentences. Creates flowing, complex rhythm."
+
+### Complexity Ratio Section
+
+```markdown
+### Sentence Complexity Ratio
+
+**Complex:** {complex_percentage}%
+**Simple:** {simple_percentage}%
+**Target:** 80% complex / 20% simple
+**Status:** {PASS/ALERT}
+
+**Assessment:** {complexity_assessment}
+```
+
+**Assessment Templates:**
+- **If PASS:** "Good balance of complexity and clarity."
+- **If above 90%:** "Highly complex. Consider more simple sentences for contrast."
+- **If below 70%:** "Simpler structure. Consider adding variety with complex constructions."
+
+### Paragraph Variation Section
+
+```markdown
+### Paragraph Length Variation
+
+**Short (< 3 sentences):** {short_paragraph_pct}%
+**Medium (3-6 sentences):** {medium_paragraph_pct}%
+**Long (> 6 sentences):** {long_paragraph_pct}%
+**Status:** {MIXED/VARIATION_NEEDED}
+
+**Assessment:** {paragraph_assessment}
+```
+
+**Assessment Templates:**
+- **If MIXED:** "Good paragraph variation creates engaging rhythm."
+- **If SHORT dominates:** "Mostly short paragraphs. Creates staccato, fast-paced feel."
+- **If MEDIUM dominates:** "Consistent medium length. Even, steady rhythm."
+- **If LONG dominates:** "Mostly long paragraphs. Creates flowing, immersive feel."
+
+---
+
+## Qualitative Patterns Template
+
+### Favorite Words
+
+```markdown
+### Favorite Words
+
+{For each word: word + 2-3 example sentences}
+```
+
+**Format:**
+```markdown
+**Word:** "{word}"
+- Example: "{sentence 1}"
+- Example: "{sentence 2}"
+- Example: "{sentence 3}"
+```
+
+### Characteristic Phrases
+
+```markdown
+### Characteristic Phrases
+
+{For each phrase: phrase + 2-3 example sentences}
+```
+
+**Format:**
+```markdown
+**Phrase:** "{phrase}"
+- Example: "{sentence 1}"
+- Example: "{sentence 2}"
+- Example: "{sentence 3}"
+```
+
+### Imagery Themes
+
+```markdown
+### Imagery Themes
+
+{For each theme: theme + 2-3 example sentences}
+```
+
+**Format:**
+```markdown
+**Theme:** "{theme}"
+- Example: "{sentence 1}"
+- Example: "{sentence 2}"
+- Example: "{sentence 3}"
+```
+
+### Transition Patterns
+
+```markdown
+### Transition Patterns
+
+{For each pattern: pattern + 2-3 example sentences}
+```
+
+**Format:**
+```markdown
+**Pattern:** "{pattern}"
+- Example: "{sentence 1}"
+- Example: "{sentence 2}"
+- Example: "{sentence 3}"
+```
+
+**Validation Note:**
+```markdown
+**Note:** All examples validated by author in review step.
+```
+
+---
+
+## Anti-Patterns Template
+
+### Excessive Adverbs
+
+```markdown
+### Excessive Adverbs
+
+{For each pattern: pattern + examples with alternatives}
+```
+
+**Format:**
+```markdown
+**Pattern:** "{adverb or intensifier}"
+- Original: "{sentence with adverb}"
+- Alternative: "{stronger verb replacement}"
+```
+
+**If None Detected:**
+```markdown
+### Excessive Adverbs
+
+✅ **No excessive adverbs detected.** Your verb choices are strong and precise.
+```
+
+### Passive Voice Overuse
+
+```markdown
+### Passive Voice Overuse
+
+{For each example: original + alternative}
+```
+
+**Format:**
+```markdown
+**Example:** {count}
+- Original: "{passive sentence}"
+- Alternative: "{active alternative}"
+```
+
+**If Acceptable:**
+```markdown
+### Passive Voice Overuse
+
+✅ **Passive voice used appropriately.** Good balance of active and passive constructions.
+```
+
+### Cliché Phrases
+
+```markdown
+### Cliché Phrases
+
+{For each cliché: original + alternative}
+```
+
+**Format:**
+```markdown
+**Cliché:** "{cliché expression}"
+- Original: "{sentence with cliché}"
+- Alternative: "{fresh alternative}"
+```
+
+**If None Detected:**
+```markdown
+### Cliché Phrases
+
+✅ **Few clichés detected.** Your language feels original and fresh.
+```
+
+### Generic Dialogue
+
+```markdown
+### Generic Dialogue
+
+{For each example: original + alternative}
+```
+
+**Format:**
+```markdown
+**Issue:** "{dialogue problem}"
+- Original: "{generic dialogue line}"
+- Alternative: "{specific, natural alternative}"
+```
+
+**If Natural:**
+```markdown
+### Generic Dialogue
+
+✅ **Dialogue feels natural.** No generic patterns detected.
+```
+
+### Slop Patterns
+
+```markdown
+### Slop Patterns
+
+{For each pattern: original + alternative}
+```
+
+**Format:**
+```markdown
+**Slop Type:** "{pattern}"
+- Original: "{sloppy phrase}"
+- Alternative: "{precise alternative}"
+```
+
+**If None Detected:**
+```markdown
+### Slop Patterns
+
+✅ **Precise writing.** No slop patterns detected.
+```
+
+**Reference:**
+```markdown
+**Reference:** Humanizer tool (https://github.com/blader/humanizer) for anti-slop guidance
+```
+
+---
+
+## Recommendations Template
+
+### Style Preservation
+
+```markdown
+## Recommendations
+
+### Style Preservation
+
+Based on your quantitative and qualitative analysis, your distinctive voice characteristics include:
+
+{Summarize 3-5 key voice characteristics from findings}
+
+**To maintain your voice:**
+- {Specific guidance based on TTR findings}
+- {Specific guidance based on sentence length}
+- {Specific guidance based on complexity patterns}
+- {Specific guidance based on qualitative patterns}
+```
+
+**Style Preservation Templates:**
+
+**Based on TTR:**
+- If TTR > 0.175: "Maintain your rich vocabulary variety. Avoid becoming repetitive."
+- If TTR < 0.175: "Expand vocabulary diversity. Seek fresh word choices rather than repeating favorites."
+
+**Based on Sentence Length:**
+- If 20-24 words: "Maintain your balanced sentence rhythm."
+- If < 20 words: "Your punchy rhythm works well. Consider mixing in longer sentences for contrast."
+- If > 24 words: "Your flowing, complex style is distinctive. Consider shorter sentences for emphasis."
+
+**Based on Complexity:**
+- If 70-90% complex: "Maintain this balance. It creates engaging rhythm."
+- If > 90% complex: "Consider adding simple sentences for punch and clarity."
+- If < 70% complex: "Consider adding complex constructions for variety."
+
+### Quality Improvements
+
+```markdown
+### Quality Improvements
+
+Based on anti-pattern detection, consider these improvements:
+
+{List 3-5 specific improvements from anti-pattern findings}
+
+**Priority areas:**
+- {If TTR below threshold: Expand vocabulary diversity}
+- {If excessive adverbs: Use stronger verbs instead of -ly adverbs}
+- {If passive overuse: Prefer active voice constructions}
+- {If clichés detected: Seek fresher, original expressions}
+- {If slop detected: Eliminate filler phrases and wordiness}
+```
+
+**Priority Templates:**
+
+**TTR Below Threshold:**
+```markdown
+- **Expand vocabulary diversity.** Your TTR is below the recommended threshold. Seek varied word choices.
+```
+
+**Excessive Adverbs:**
+```markdown
+- **Use stronger verbs.** Replace -ly adverbs with more precise, evocative verbs (e.g., "sauntered" instead of "walked slowly").
+```
+
+**Passive Voice Overuse:**
+```markdown
+- **Prefer active voice.** Make subjects perform actions directly. Passive hides agency and weakens impact.
+```
+
+**Clichés Detected:**
+```markdown
+- **Seek fresh expressions.** Replace time-worn phrases with original, specific language that surprises readers.
+```
+
+**Slop Detected:**
+```markdown
+- **Eliminate filler phrases.** Remove "in order to," "due to the fact that," and other wordiness. Be direct and precise.
+```
+
+---
+
+## Additional Insights Template (Conditional)
+
+### Temporal Tracking (if samples span time periods)
+
+```markdown
+## Additional Insights
+
+### Temporal Tracking
+
+Your samples span {time range}. Style evolution detected:
+{Analysis of how style has changed over time if detectable}
+
+**Evolution patterns:**
+- {Specific changes observed}
+- {Consistent elements maintained}
+```
+
+### Genre Context (if genre provided)
+
+```markdown
+### Genre Context
+
+Your style aligns with {genre} conventions in these ways:
+{Analysis of how style fits genre}
+
+**Genre-specific considerations:**
+{Any genre-specific patterns or adjustments}
+```
+
+**If Neither Applies:**
+```markdown
+## Additional Insights
+
+No additional context available. (Temporal tracking and genre analysis require additional input.)
+```
+
+---
+
+## Footer Template
+
+```markdown
+---
+
+_This profile was generated by the Style Capture workflow of the bmad-book-builder module._
+```
+
+---
+
+## Complete File Structure
+
+The final style-profile.yaml file should follow this exact structure:
+
+```yaml
+---
+{frontmatter}
+---
+
+# Style Profile
+
+{header with metadata}
+
+---
+
+## Quantitative Metrics
+
+### Type-Token Ratio (TTR)
+{content}
+
+### Average Sentence Length
+{content}
+
+### Sentence Complexity Ratio
+{content}
+
+### Paragraph Length Variation
+{content}
+
+---
+
+## Qualitative Patterns
+
+### Favorite Words
+{content}
+
+### Characteristic Phrases
+{content}
+
+### Imagery Themes
+{content}
+
+### Transition Patterns
+{content}
+
+**Note:** All examples validated by author in review step.
+
+---
+
+## Anti-Patterns Detected
+
+### Excessive Adverbs
+{content}
+
+### Passive Voice Overuse
+{content}
+
+### Cliché Phrases
+{content}
+
+### Generic Dialogue
+{content}
+
+**Reference:** Humanizer tool (https://github.com/blader/humanizer) for anti-slop guidance
+
+---
+
+## Recommendations
+
+### Style Preservation
+{content}
+
+### Quality Improvements
+{content}
+
+---
+
+## Additional Insights
+
+{conditional content}
+
+---
+
+_This profile was generated by the Style Capture workflow of the bmad-book-builder module._
+```
+
+---
+
+## Usage Notes
+
+- **Follow structure exactly:** Deviations break workflow integration
+- **Replace all placeholders:** All {placeholders} must be replaced with actual data
+- **Validate YAML syntax:** Check indentation, quotes, brackets before saving
+- **Include all sections:** Even if empty, include section headers (or note "none detected")
+- **Conditional sections:** Only include Additional Insights if applicable
+
+---
+
+*Template document for BMad Book Builder Style Coach - Profile Generation*

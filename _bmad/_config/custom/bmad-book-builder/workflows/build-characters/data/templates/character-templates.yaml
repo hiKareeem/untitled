@@ -1,0 +1,299 @@
+# Character Templates Reference
+# This file contains all character sheet templates used in the build-characters workflow
+
+# Basic character template with all 9 sections
+basic_template: |
+  # {character_name}
+
+  ## Basic Information
+
+  **Name:** {character_name}
+
+  **Age:** {age}
+
+  **Profession/Status:** {profession}
+
+  **Social Origin:** {social_origin}
+
+  ---
+
+  ## Physical Appearance
+
+  **General Description:**
+  {physical_description}
+
+  **Distinctive Physical Features:**
+  {distinctive_features}
+
+  **Adaptation to the Story:**
+  {adaptation_notes}
+
+  ---
+
+  ## Personality
+
+  **Dominant Traits:**
+  {personality_traits}
+
+  **Strengths:**
+  {strengths}
+
+  **Weaknesses:**
+  {weaknesses}
+
+  **Internal Contradictions:**
+  {contradictions}
+
+  ---
+
+  ## Desires and Fears
+
+  **What They Want (Conscious):**
+  {conscious_desires}
+
+  **What They Want (Unconscious):**
+  {unconscious_desires}
+
+  **Greatest Fears:**
+  {fears}
+
+  **Blind Spots:**
+  {blind_spots}
+
+  ---
+
+  ## Transformation Arc
+
+  **Starting Point:**
+  {starting_point}
+
+  **Change Catalysts:**
+  {catalysts}
+
+  **Transformation:**
+  {transformation}
+
+  **Ending Point:**
+  {ending_point}
+
+  ---
+
+  ## Skills and Incompetencies
+
+  **Useful Skills:**
+  {skills}
+
+  **Notable Incompetencies:**
+  {incompetencies}
+
+  ---
+
+  ## Relationships and Connections
+
+  **Before the Story:**
+  {relationships_before}
+
+  **During the Story:**
+  {relationships_during}
+
+  **Evolutionary Dynamics:**
+  {relationship_evolution}
+
+  ---
+
+  ## Voice and Way of Being
+
+  **How They Speak:**
+  {speech_patterns}
+
+  **How They Think:**
+  {thought_patterns}
+
+  **Tics, Habits, Peculiarities:**
+  {mannerisms}
+
+  ---
+
+  ## Themes Explored
+
+  **Main Contradictions:**
+  {thematic_contradictions}
+
+  **Central Question:**
+  {central_question}
+
+# Personality section template
+personality_template: |
+  ## Personality
+
+  **Dominant Traits:**
+  [Key personality traits from responses]
+
+  **Strengths:**
+  - [Strength 1]
+  - [Strength 2]
+
+  **Weaknesses:**
+  - [Weakness 1]
+  - [Weakness 2]
+
+  **Internal Contradictions (MINIMUM 5 REQUIRED):**
+
+  > **🎯 CRITICAL REQUIREMENT — Based on AgentAdam vs BBB Analysis**
+  >
+  > AgentAdam requires **5+ contradictions per character** to create authentic psychological depth. Characters are interesting because they are contradictory.
+  >
+  > **Reference:** `_bmad-output/bmb-creations/analysis/agentadam-vs-bbb-comparison.md` (sections 2, 9, 10)
+  >
+  > **Types of contradictions to explore:**
+  > 1. **Values vs Actions** — What do they believe vs what do they actually do?
+  > 2. **Self-Image vs Reality** — How do they see themselves vs how are they?
+  > 3. **Conscious vs Unconscious** — What they want vs what they actually need?
+  > 4. **Idealism vs Pragmatism** — What principles vs what compromises?
+  > 5. **Past vs Present** — Who were they vs who are they becoming?
+  >
+  > **For each contradiction:**
+  > - Explain the tension
+  > - Give examples of situations where it emerges
+  > - Show how it affects relationships
+  > - Connect it to the transformation arc
+
+  - [Contradiction 1 - Values vs Actions: ...]
+  - [Contradiction 2 - Self-Image vs Reality: ...]
+  - [Contradiction 3 - Conscious vs Unconscious: ...]
+  - [Contradiction 4 - Idealism vs Pragmatism: ...]
+  - [Contradiction 5 - Past vs Present: ...]
+  - [Contradiction 6+ - Other tensions identified: ...]
+
+# Desires and fears section template
+desires_fears_template: |
+  ## Desires and Fears
+
+  **What They Want (Conscious):**
+  [What {characterName} thinks they want]
+
+  **What They Want (Unconscious):**
+  [What they ACTUALLY want — the deeper need]
+
+  **Greatest Fears:**
+  [The core fears that drive and limit them]
+
+  **Blind Spots:**
+  - [Blind spot 1]
+  - [Blind spot 2]
+  - [What they can't see about themselves]
+
+# Arc section template
+arc_template: |
+  ## Transformation Arc
+
+  **Starting Point:**
+  [Who {characterName} is at the start — beliefs, emotional state, flaw/misapprehension]
+
+  **Change Catalysts:**
+  - [Inciting incident or disruption]
+  - [Key challenges that force them to question themselves]
+  - [The moment that breaks them open]
+
+  **Transformation:**
+  [Arc type — Growth/Fall/Flat/Transformation/Complex]
+  [Journey of change — what they resist, what they release, point of no return]
+  [What they learn, how they change, what it costs]
+
+  **Ending Point:**
+  [Who {characterName} becomes by the end — new beliefs, new worldview, what's different]
+  [What remains unresolved]
+
+  **Theme:**
+  [What the arc is ABOUT — the human truth or question the story explores through this character]
+
+# Thematic section template
+themes_template: |
+  ## Themes Explored
+
+  **Main Contradictions:**
+  [List the key contradictions that drive the character]
+
+  **Central Question:**
+  [What question does this character and their arc pose? What human truth does the story explore through them?]
+
+  **Theme:**
+  [The larger theme this character embodies or explores]
+
+# Character index entry template
+index_entry_template: |
+  ## {characterName}
+
+  **File:** [{character_name}-dossier.md](./{character_name}-dossier.md)
+
+  **Created:** {completion_date}
+
+  **Role:** [story role from dossier]
+
+  **Status:** COMPLETE
+
+  **Summary:** [Brief 2-3 sentence summary of the character]
+
+# Character index file template
+index_file_template: |
+  # Character Index
+
+  This index tracks all characters in the story bible.
+
+  ---
+
+  {character_entries}
+
+  ---
+
+  _Last updated: {current_date}_
+
+# Frontmatter templates
+frontmatter_init: |
+  ---
+  stepsCompleted: ['step-01-init']
+  lastStep: 'step-01-init'
+  mode: '{mode}'
+  single: {single}
+  characterName: {character_name}
+  date: {current_date}
+  user_name: {user_name}
+  status: IN_PROGRESS
+  ---
+
+frontmatter_complete_mode_a: |
+  ---
+  stepsCompleted: ['step-01-init', 'step-02a-concept', 'step-03a-physical', 'step-04a-background', 'step-05a-psychology', 'step-06a-voice', 'step-07a-relationships', 'step-08a-arc', 'step-09a-polish', 'step-10a-complete']
+  lastStep: 'step-10a-complete'
+  mode: A
+  characterName: {character_name}
+  date: {start_date}
+  completedDate: {current_date}
+  user_name: {user_name}
+  status: COMPLETE
+  ---
+
+frontmatter_complete_mode_b: |
+  ---
+  stepsCompleted: ['step-01-init', 'step-02b-input', 'step-03b-generate', 'step-04b-review', 'step-05b-complete']
+  lastStep: 'step-05b-complete'
+  mode: B
+  characterName: {character_name}
+  date: {start_date}
+  completedDate: {current_date}
+  user_name: {user_name}
+  status: COMPLETE
+  ---
+
+frontmatter_complete_mode_c: |
+  ---
+  stepsCompleted: ['step-01-init', 'step-02c', 'step-03c-complete']
+  lastStep: 'step-03c-complete'
+  mode: C
+  single: {single}
+  characterName: {character_name}
+  date: {start_date}
+  completedDate: {current_date}
+  user_name: {user_name}
+  status: COMPLETE
+  ---

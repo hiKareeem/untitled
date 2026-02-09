@@ -1,0 +1,211 @@
+---
+name: "Save the Cat"
+shortName: "save-the-cat"
+author: "Blake Snyder"
+type: "beat-sheet"
+origin: "Screenwriting (Save the Cat! , 2005)"
+adaptedFor: "Novels and commercial fiction"
+
+# Framework Overview
+description: "Blake Snyder's 15-beat structure for screenplays, adapted for novels. Emphasizes pacing, clear act breaks, and commercial story structure."
+
+bestFor:
+  genres:
+    - "Thriller"
+    - "Romance"
+    - "Mystery"
+    - "Adventure"
+    - "Commercial fiction"
+  storyTypes:
+    - "External goal stories"
+    - "Protagonist-centered narratives"
+    - "Genre fiction"
+    - "Plot-driven stories"
+  authorLevels:
+    - "First-time novelists"
+    - "Intermediate authors"
+    - "Commercial fiction authors"
+
+# Key Characteristics
+characteristics:
+  - "Clear 15-beat structure"
+  - "Four distinct acts (Setup, Response, Attack, Resolution)"
+  - "Emphasis on pacing and turning points"
+  - "External goal focus"
+  - "Commercial appeal"
+
+# Structural Elements
+structure:
+  totalBeats: 15
+  acts: 4
+  pacing: "Fast, with clear turning points"
+
+# Beats
+beats:
+  - name: "Opening Image"
+    number: 1
+    purpose: "Set the tone and show the protagonist's current state before the adventure begins"
+    chapterTarget: 1
+    act: "Setup"
+    keyQuestions:
+      - "What does the protagonist's world look like now?"
+      - "What's the emotional state?"
+      - "What's 'wrong' with this picture?"
+
+  - name: "Theme Stated"
+    number: 2
+    purpose: "Hint at the central theme, usually stated by a secondary character"
+    chapterTarget: 1-2
+    act: "Setup"
+    keyQuestions:
+      - "What is the story really about?"
+      - "What lesson does the protagonist need to learn?"
+
+  - name: "Setup"
+    number: 3
+    purpose: "Introduce main characters, establish stakes, and define the protagonist's goal"
+    chapterTarget: 1-5
+    act: "Setup"
+    keyQuestions:
+      - "Who is the protagonist?"
+      - "What do they want?"
+      - "What happens if they fail?"
+
+  - name: "Catalyst"
+    number: 4
+    purpose: "Inciting incident that disrupts the status quo and presents a call to action"
+    chapterTarget: 2-3
+    act: "Setup"
+    keyQuestions:
+      - "What happens to change everything?"
+      - "Why can't life continue as before?"
+
+  - name: "Debate"
+    number: 5
+    purpose: "Protagonist hesitates, weighs options, and ultimately decides to act"
+    chapterTarget: 3-5
+    act: "Setup"
+    keyQuestions:
+      - "Why is this a difficult decision?"
+      - "What fears must be overcome?"
+
+  - name: "Break into Two"
+    number: 6
+    purpose: "Protagonist leaves the comfort zone and enters the new world"
+    chapterTarget: 5-6
+    act: "Response"
+    keyQuestions:
+      - "What marks the point of no return?"
+      - "How is the new world different?"
+
+  - name: "B Story"
+    number: 7
+    purpose: "Introduction of secondary storyline (often romance or mentor relationship)"
+    chapterTarget: 6-8
+    act: "Response"
+    keyQuestions:
+      - "What secondary relationship develops?"
+      - "How does it reflect or contrast with the main story?"
+
+  - name: "Fun and Games"
+    number: 8
+    purpose: "Explore the new world; this is the core story promised by the premise"
+    chapterTarget: 8-15
+    act: "Response"
+    keyQuestions:
+      - "What's the core experience of this new world?"
+      - "What are the trials and triumphs?"
+
+  - name: "Midpoint"
+    number: 9
+    purpose: "False victory or false defeat that raises the stakes and shifts context"
+    chapterTarget: 15-16
+    act: "Attack"
+    keyQuestions:
+      - "What changes the game?"
+      - "How are stakes raised?"
+
+  - name: "Bad Guys Close In"
+    number: 10
+    purpose: "Pressure builds, obstacles mount, and the protagonist's situation deteriorates"
+    chapterTarget: 16-18
+    act: "Attack"
+    keyQuestions:
+      - "How does opposition strengthen?"
+      - "What internal conflicts emerge?"
+
+  - name: "All Is Lost"
+    number: 11
+    purpose: "Major defeat that seems like the end; often includes a whiff of death"
+    chapterTarget: 18-19
+    act: "Attack"
+    keyQuestions:
+      - "What's the lowest point?"
+      - "What makes this feel like the end?"
+
+  - name: "Dark Night of the Soul"
+    number: 12
+    purpose: "Moment of despair where the protagonist processes the defeat and finds hope"
+    chapterTarget: 19-20
+    act: "Attack"
+    keyQuestions:
+      - "How does the protagonist respond to defeat?"
+      - "What realization leads to hope?"
+
+  - name: "Break into Three"
+    number: 13
+    purpose: "Realization, new understanding, or solution emerges"
+    chapterTarget: 20-21
+    act: "Resolution"
+    keyQuestions:
+      - "What's the breakthrough?"
+      - "How is this different from before?"
+
+  - name: "Finale"
+    number: 14
+    purpose: "Climax where the protagonist confronts the problem and wins (or loses meaningfully)"
+    chapterTarget: 21-24
+    act: "Resolution"
+    keyQuestions:
+      - "How is the core problem resolved?"
+      - "What has the protagonist learned?"
+
+  - name: "Final Image"
+    number: 15
+    purpose: "Contrast with opening image to show the protagonist's transformation"
+    chapterTarget: 24
+    act: "Resolution"
+    keyQuestions:
+      - "How has the protagonist changed?"
+      - "What's different from the opening?"
+
+# Act Breakpoints (for Foundation workflow)
+actBreakpoints:
+  - "Catalyst" # End of Act 1
+  - "Break into Two" # Start of Act 2
+  - "Midpoint" # Middle
+  - "All Is Lost" # End of Act 2
+  - "Break into Three" # Start of Act 3
+
+# Strengths
+strengths:
+  - "Excellent pacing guidance"
+  - "Clear act structure"
+  - "Commercial appeal"
+  - "Easy to understand and apply"
+  - "Works well for genre fiction"
+
+# Considerations
+considerations:
+  - "Can feel formulaic if applied rigidly"
+  - "Emphasis on external plot over internal arc"
+  - "Best for stories with clear protagonists and goals"
+  - "May require adaptation for literary fiction"
+
+# Foundation Integration
+foundationConfig:
+  applyToChapterPlan: true
+  beatLabelsInPlan: true
+  actBreakpoints: ["Catalyst", "Break into Two", "Midpoint", "All Is Lost", "Break into Three"]
+  autoProgression: true
+  validationEnabled: true

@@ -1,0 +1,123 @@
+# Reality Check Templates
+
+## Severity Assessment Criteria
+
+### HIGH Severity
+**Criteria:**
+- Breaks story credibility completely
+- Factual impossibility or anachronism
+- Professional procedure completely wrong
+- Readers will definitely notice and lose trust
+
+**Examples:**
+- Medical procedure performed by unqualified character
+- Historical anachronism (technology before it existed)
+- Physical impossibility presented as normal
+- Professional procedure completely invented
+
+### MEDIUM Severity
+**Criteria:**
+- Stretches believability but not impossible
+- Minor technical inaccuracies
+- Timeline issues that could be explained
+- Some readers might notice
+
+**Examples:**
+- Timeline compression (travel too fast)
+- Minor technical detail wrong
+- Geographic detail inaccurate
+- Professional detail slightly off
+
+### LOW Severity
+**Criteria:**
+- Minor nitpicks, polish-level issues
+- Small details that don't affect credibility
+- Optional corrections for perfection
+
+**Examples:**
+- Minor geographic detail
+- Background description slightly off
+- Minor timeline quirk
+
+### INFO Level
+**Criteria:**
+- Verified accurate, no issue
+- Confirms correctness
+- Builds confidence
+
+## Issue Template
+```yaml
+issue_id: "{incremental number: I001, I002, etc.}"
+source_claim: "{original claim_id}"
+category: "{technical|factual|logical}"
+subcategory: "{specific type}"
+location:
+  chapter: "{number}"
+  scene: "{number}"
+  excerpt: "{relevant quote}"
+problem: "{detailed explanation}"
+evidence:
+  - source: "{dossier or web source}"
+    finding: "{what the source says}"
+severity: "{HIGH|MEDIUM|LOW}"
+corrections:
+  - option_1: "{specific correction suggestion}"
+  - option_2: "{alternative correction}"
+  - option_3: "{another alternative if applicable}"
+impact: "{how this affects story credibility}"
+```
+
+## Correction Examples
+
+### Issue: Engineer performs tracheotomy
+```yaml
+corrections:
+  - option_1: "Give Marc medical background (former medic, combat medic training, emergency medical training)"
+  - option_2: "Change scene: Marc assists actual doctor who talks him through basic stabilization"
+  - option_3: "Use Marc's engineering skills instead (improvises medical equipment, creates structural solution)"
+```
+
+### Issue: Timeline inconsistency
+```yaml
+corrections:
+  - option_1: "Adjust travel time to 2 hours (realistic for highway driving)"
+  - option_2: "Reduce distance to 50km (consistent with 30-minute travel)"
+  - option_3: "Add explanation (helicopter transport, extreme emergency with empty roads)"
+```
+
+### Issue: Physical impossibility
+```yaml
+corrections:
+  - option_1: "Reduce jump to 5-6 meters (realistic for athletic human)"
+  - option_2: "Add justification (character has parkour training, adrenaline surge)"
+  - option_3: "Change scene to use alternative traversal method"
+```
+
+## Correction Principles
+- Be specific and actionable
+- Offer multiple options when possible
+- Respect story context and character
+- Prioritize minimal disruption to narrative
+- Maintain story tone and style
+
+## Research Dossier Template
+
+```yaml
+dossier_topic: "{topic}"
+fact_count: {number}
+chapters_involved: [{list}]
+facts:
+  - claim_id: "{ID}"
+    fact: "{verified fact}"
+    source: "{source}"
+  - claim_id: "{ID}"
+    fact: "{verified fact}"
+    source: "{source}"
+justification: "{why this topic warrants a dossier}"
+```
+
+## Dossier Creation Criteria
+- Multiple verified facts on same topic (3+ facts)
+- High-stakes domain (medical, legal, technical, historical)
+- Topic appears in multiple chapters
+- Complex subject warranting ongoing reference

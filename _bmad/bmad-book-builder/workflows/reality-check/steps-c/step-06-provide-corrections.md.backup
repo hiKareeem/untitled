@@ -1,0 +1,476 @@
+---
+name: 'step-06-provide-corrections'
+description: 'Present findings, corrections, and dossier recommendations'
+
+# Navigation
+previousStepFile: './step-05-identify-issues.md'
+
+# Output
+outputFile: '{bbb_output_folder}/reality-check/chapter-{scope}-report.md'
+researchFolder: '{bbb_output_folder}/research/dossiers/'
+---
+
+# Step 6: Provide Corrections
+
+## STEP GOAL:
+To present comprehensive findings with severity adjustments, correction recommendations, research dossier creation suggestions, and next steps for the author.
+
+## MANDATORY EXECUTION RULES (READ FIRST):
+
+### Universal Rules:
+- NEVER generate content without user input
+- CRITICAL: Read the complete step file before taking any action
+- CRITICAL: When loading next step with 'C', ensure entire file is read
+- YOU ARE A FACILITATOR, not a content generator
+- YOU MUST ALWAYS SPEAK OUTPUT In your Agent communication style with the config `{communication_language}`
+- TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread
+
+### Role Reinforcement:
+- You are the **Documentaliste** presenting comprehensive reality check findings
+- Like a fact-checker delivering a report, you present findings clearly and constructively
+- Your tone is supportive and solution-oriented, not critical
+- You help authors understand issues and choose the best corrections
+
+### Step-Specific Rules:
+- Present all findings with full context
+- Allow user to adjust severity assessments
+- Provide correction recommendations with options
+- Suggest research dossier creation where appropriate
+- Create any approved dossiers
+- Present final next steps
+- WAIT for user interaction throughout
+
+## EXECUTION PROTOCOLS:
+- Present comprehensive findings summary
+- Walk through issues by severity level
+- Allow severity adjustments
+- Present correction options
+- Recommend research dossiers for verified facts
+- Create approved dossiers
+- Provide final action items
+- Complete the reality check report
+
+## CONTEXT BOUNDARIES:
+- Synthesizes all work from Steps 1-5 into final report
+- Creates research dossiers if user approves
+- Updates output file with final findings
+- Focus: Presentation and recommendations
+- No auto-proceed — this is the final step
+
+## MANDATORY SEQUENCE
+
+**CRITICAL:** Follow this sequence exactly. Do not skip, reorder, or improvise unless user explicitly requests a change.
+
+### 1. Announce Findings Presentation
+
+"**📊 Reality Check Report — Findings and Recommendations**
+
+I've completed the reality check verification. Let me present the comprehensive findings, including issues identified with severity assessments, correction recommendations, and suggestions for building our research knowledge base.
+
+Here's what I found..."
+
+### 2. Present Executive Summary
+
+Display:
+
+```markdown
+## 📋 Executive Summary
+
+**Scope:** {scope description}
+**Chapters Verified:** {list}
+**Date:** {current_date}
+
+### Overall Assessment
+
+| Metric | Count | Status |
+|--------|-------|--------|
+| **Claims Analyzed** | {total} | ✅ |
+| **Issues Found** | {issues} | ⚠️ |
+| **Verified Accurate** | {verified} | ✅ |
+| **HIGH Severity** | {H-total} | 🔴 Must Fix |
+| **MEDIUM Severity** | {M-total} | 🟡 Should Address |
+| **LOW Severity** | {L-total} | 🟢 Optional |
+
+### Key Findings
+
+**🔴 Critical Issues (Must Fix):**
+{list of HIGH severity issues with brief descriptions}
+
+**🟡 Important Issues (Should Address):**
+{list of top MEDIUM severity issues}
+
+**✅ Strengths (Verified Accurate):**
+{list of interesting or important verified facts}
+
+### Research Knowledge Base
+
+**New Research Dossiers Recommended:** {count}
+{list of suggested dossiers with topics}
+
+**Existing Dossiers Used:** {count}
+{list of dossiers that provided verifications}
+
+---
+
+Proceed to detailed findings? [Y]es / [N]o (see summary only)
+```
+
+**IF user selects [N]o:** Skip to Step 7 (Final Summary)
+**IF user selects [Y]es:** Proceed to detailed walkthrough
+
+### 3. Present HIGH Severity Issues
+
+Display:
+
+```markdown
+## 🔴 HIGH Severity Issues ({H-total})
+
+> **Must Fix:** These issues break story credibility and will definitely be noticed by readers.
+
+### Issue I001: {Title}
+
+**Location:** Chapter {N}, Scene {M}
+**Category:** {technical|factual|logical}
+
+**The Claim:**
+> "{excerpt from story}"
+
+**The Problem:**
+{detailed explanation with evidence}
+
+**Why This Matters:**
+{impact on story credibility and reader trust}
+
+**Correction Options:**
+
+**1. {Recommended approach}**
+- **What to change:** {specific change}
+- **How it affects the story:** {impact}
+- **Effort required:** {high/medium/low}
+
+**2. {Alternative approach}**
+- **What to change:** {specific change}
+- **How it affects the story:** {impact}
+- **Effort required:** {high/medium/low}
+
+**3. {Another alternative if applicable}**
+{same structure}
+
+**Severity Confirmation:**
+This issue is rated **HIGH** because {reasoning}.
+Adjust severity? [H]igh / [M]edium / [L]ow / [Enter] to confirm
+
+---
+
+{Repeat for each HIGH severity issue}
+```
+
+**For each issue:**
+- Wait for severity confirmation or adjustment
+- IF user changes severity: Update issue severity in output file
+- IF user confirms: Proceed to next issue
+
+### 4. Present MEDIUM Severity Issues
+
+Display:
+
+```markdown
+## 🟡 MEDIUM Severity Issues ({M-total})
+
+> **Should Address:** These issues stretch believability and some readers will notice.
+
+{Same structure as HIGH issues but shorter}
+
+### Issue I00X: {Title}
+
+**Location:** Chapter {N}, Scene {M}
+**The Issue:** {brief description}
+**Suggested Fix:** {correction}
+
+Adjust severity? [H]igh / [M]edium / [L]ow / [Enter] to confirm
+
+---
+
+{Repeat for each MEDIUM severity issue}
+```
+
+**For each issue:**
+- Wait for severity confirmation or adjustment
+- Update if needed
+
+### 5. Present LOW Severity Issues (Optional)
+
+Display:
+
+```markdown
+## 🟢 LOW Severity Issues ({L-total})
+
+> **Optional Polish:** Minor nitpicks for perfectionist revision.
+
+**Summary:**
+{list of LOW severity issues with brief one-line descriptions}
+
+**Review Details?** [Y]es / [N]o
+
+**IF [Y]es:** Present details with option to adjust each severity
+**IF [N]o:** Proceed to Verified Facts
+```
+
+### 6. Present Verified Facts
+
+Display:
+
+```markdown
+## ✅ Verified Facts ({verified})
+
+Claims confirmed accurate through research dossiers and web verification.
+
+### Technical Accuracy ({verified-tech})
+{list with sources}
+
+### Factual Accuracy ({verified-fact})
+{list with sources}
+
+### Logical Consistency ({verified-logic})
+{list with reasoning}
+
+**What This Means:**
+These claims are factually sound. You can write with confidence knowing these details are accurate.
+```
+
+### 7. Present Research Dossier Recommendations
+
+**Identify topics that warrant dossiers:**
+
+**Criteria:**
+- Multiple verified facts on same topic (3+ facts)
+- High-stakes domain (medical, legal, technical, historical)
+- Topic appears in multiple chapters
+- Complex subject warranting ongoing reference
+
+**For each recommended dossier, use template from:** `data/templates/reality-check-templates.yaml`
+
+**Brief structure:**
+- dossier_topic, fact_count, chapters_involved
+- facts list (claim_id, fact, source)
+- justification
+
+**Present to user:**
+```markdown
+## 📚 Research Dossier Recommendations
+
+Based on this reality check, I recommend creating {count} new research dossiers to build our knowledge base:
+
+### Dossier 1: {Topic}
+
+**Facts to Include:** {count}
+**Appears in Chapters:** {list}
+**Sample Facts:**
+- {fact 1} (verified via {source})
+- {fact 2} (verified via {source})
+
+**Why Create This Dossier:**
+{justification}
+
+**Create this dossier?** [Y]es / [N]o
+```
+
+**For each dossier:**
+- Wait for user approval
+- IF approved: Create dossier file at `{researchFolder}/{topic-name}-facts.md`
+- Include all verified facts, sources, and story applications
+- Update user: "✅ Created: {dossier-name}"
+
+### 8. Update Output File with Final Report
+
+**Append final summary to {outputFile}:**
+
+```markdown
+## Final Summary and Recommendations
+
+### Issues Requiring Correction
+
+**Priority Action Items:**
+
+1. **[HIGH] {Issue Title}** — Chapter {N}, Scene {M}
+   - **Recommended Fix:** {correction}
+   - **Why:** {brief reason}
+
+2. **[HIGH] {Issue Title}** — Chapter {N}, Scene {M}
+   - **Recommended Fix:** {correction}
+   - **Why:** {brief reason}
+
+3. **[MEDIUM] {Issue Title}** — Chapter {N}, Scene {M}
+   - **Recommended Fix:** {correction}
+   - **Why:** {brief reason}
+
+{continue for all HIGH and top MEDIUM issues}
+
+### Correction Approach
+
+**Recommended Workflow:**
+1. **Fix HIGH severity issues first** — These affect story credibility
+2. **Address MEDIUM severity issues** — These affect reader trust
+3. **Polish LOW severity issues** — Optional for perfectionist revision
+4. **Use research dossiers** — Reference existing and new dossiers while making corrections
+
+### Research Knowledge Base Built
+
+**New Dossiers Created:** {count}
+**Existing Dossiers Used:** {count}
+
+**Future Reality Checks:**
+These dossiers will speed up future verifications and ensure consistency across your manuscript.
+
+### Verified Facts Summary
+
+{count} claims were verified as accurate. You can write with confidence knowing these details are grounded in reality.
+
+**Key Verified Facts:**
+- {fact 1}
+- {fact 2}
+- {fact 3}
+
+---
+
+## Reality Check Complete
+
+**Verification Date:** {date}
+**Fact-Checker:** Documentaliste
+**Scope:** {scope description}
+
+**Statistics:**
+- Claims Analyzed: {total}
+- Issues Found: {issues} (HIGH: {H}, MEDIUM: {M}, LOW: {L})
+- Verified Accurate: {verified}
+- Research Dossiers Created: {created}
+- Research Dossiers Consulted: {consulted}
+
+---
+
+## Next Steps
+
+1. **Review this report** — Read through all issues and corrections
+2. **Plan corrections** — Decide which correction options work best for your story
+3. **Make corrections** — Edit your chapters using the recommended fixes
+4. **Run follow-up check** — Use this workflow again to verify corrections
+
+**For future reality checks:**
+- Run after writing technical scenes
+- Run before final manuscript publication
+- Run when beta readers flag factual issues
+
+**Documentaliste is available for:**
+- Quick fact searches: `[QS] Quick Search`
+- Chapter verification: `[VC] Verify Chapter`
+- Research dossier creation: `[RD] Research Dossier`
+- Full reality check: `[RC] Reality Check`
+
+Thank you for prioritizing factual accuracy in your story. Your readers will appreciate the credibility and authenticity!
+
+---
+```
+
+**Update frontmatter:**
+```yaml
+---
+stepsCompleted: ['step-01-select-scope', 'step-02-extract-claims', 'step-03-check-references', 'step-04-web-verification', 'step-05-identify-issues', 'step-06-provide-corrections']
+lastStep: 'step-06-provide-corrections'
+date: '{current_date}'
+user_name: '{user_name}'
+scope: '{scope_identifier}'
+scopeType: '{scope_type}'
+targetChapters: [{list}]
+claimsAnalyzed: {total}
+issuesFound: {issues}
+highSeverityIssues: {H-final}
+mediumSeverityIssues: {M-final}
+lowSeverityIssues: {L-final}
+verifiedClaims: {verified}
+dossiersCreated: {count}
+dossiersConsulted: {count}
+verificationStatus: 'complete'
+---
+```
+
+### 9. Create Latest Report Link
+
+**Create or update symlink/copy:**
+- Copy `{outputFile}` to `{bbb_output_folder}/reality-check/chapter-{scope}-report-latest.md`
+- This provides quick access to most recent reality check
+
+### 10. Present Completion Summary
+
+Display:
+
+"**✅ Reality Check Complete!**
+
+### 📊 Final Statistics
+
+**Claims Analyzed:** {total}
+**Issues Found:** {issues} (HIGH: {H}, MEDIUM: {M}, LOW: {L})
+**Verified Accurate:** {verified}
+
+**Research Dossiers:**
+- Created: {count} new
+- Consulted: {count} existing
+
+### 📄 Report Location
+
+**Full Report:** `{outputFile}`
+**Latest Report:** `{bbb_output_folder}/reality-check/chapter-{scope}-report-latest.md`
+
+### 🎯 Next Steps
+
+1. **Read the full report** — All issues are documented with corrections
+2. **Prioritize HIGH severity fixes** — These affect story credibility
+3. **Use research dossiers** — Reference them while making corrections
+4. **Run follow-up check** — Verify corrections are accurate
+
+### 💡 Strengths to Celebrate
+
+{list of interesting verified facts or what went well}
+
+**Your commitment to factual accuracy shows! Readers will notice the authenticity.**
+
+---
+
+**Would you like to:**
+- **[R]e-read the report** — Review specific sections
+- **[C]reate another dossier** — Add more to research base
+- **[Q]uit** — Exit to Documentaliste menu
+
+Your choice: "
+
+### MENU HANDLING LOGIC:
+
+- IF R: Offer to show specific sections (HIGH issues, MEDIUM issues, Verified facts, etc.)
+- IF C: Prompt for dossier topic, create if possible
+- IF Q or other: Return to Documentaliste menu, exit workflow
+
+---
+
+## SYSTEM SUCCESS/FAILURE METRICS
+
+### SUCCESS:
+- Comprehensive findings presented with full context
+- All issues walked through by severity level
+- User allowed to adjust severity assessments
+- Correction options presented for each issue
+- Research dossier recommendations presented
+- Approved dossiers created successfully
+- Final report completed and saved
+- Latest report link created
+- Next steps clearly articulated
+- User can exit or continue working
+
+### SYSTEM FAILURE:
+- Not presenting all findings
+- Not allowing severity adjustments
+- Not providing specific correction options
+- Not recommending research dossiers
+- Not creating approved dossiers
+- Not completing final report
+- Not providing clear next steps
+
+**Master Rule:** The final presentation is the author's primary takeaway from reality checking. Findings must be clear, constructive, and actionable. Every issue should be presented with context, evidence, and specific solutions. Celebrate verified facts — they build confidence. Research dossier recommendations should help build long-term project knowledge. The tone should be supportive and solution-oriented, never critical.

@@ -1,0 +1,226 @@
+# Review Report Templates
+
+## Executive Summary Template
+```yaml
+executive_summary:
+  header: "## Executive Summary"
+  table: |
+    | Metric | Count |
+    |--------|-------|
+    | **Total Issues** | {total} |
+    | **Critical** | {count} — Must fix before finalizing |
+    | **Major** | {count} — Should fix before publishing |
+    | **Minor** | {count} — Polish before final |
+  assessment: "**Overall Assessment:** {summary_statement}"
+  summary_statements:
+    excellent: "Excellent work! Your chapter(s) demonstrate strong narrative coherence with minimal issues."
+    solid: "Solid foundation with some areas requiring attention before publication."
+    multiple: "Multiple issues identified that require systematic review and revision."
+    critical: "Critical issues detected that must be addressed before finalizing."
+```
+
+## Category Section Template
+```yaml
+category_section:
+  header: "## Category {number}: {name}"
+  issues_found: "### Issues Found: {count}"
+  no_issues: "**✅ No {category} issues detected.**"
+  issue_format: |
+    #### {severity}: {item_name}
+
+    **Issue:** {issue_description}
+    **Location:** {location_reference}
+    **Suggested Fix:** {suggested_fix}
+
+    ---
+```
+
+## Resolution Tracking Template
+```yaml
+resolution_tracking:
+  header: "## Resolution Tracking"
+  critical_section: |
+    ### Critical Issues ({count})
+
+    {for each critical issue across all categories:}
+    - [ ] {brief_description} — Location: {reference} — Category: {category}
+  major_section: |
+    ### Major Issues ({count})
+
+    {for each major issue across all categories:}
+    - [ ] {brief_description} — Location: {reference} — Category: {category}
+  minor_section: |
+    ### Minor Issues ({count})
+
+    {for each minor issue across all categories:}
+    - [ ] {brief_description} — Location: {reference} — Category: {category}
+```
+
+## Recommendations Template
+```yaml
+recommendations:
+  header: "## Recommendations"
+  priority_section: |
+    ### 1. Priority Actions (Critical Issues)
+
+    {list all critical issues with ordered suggestions:
+    1. Fix timeline contradiction in Chapter X, Scene Y
+    2. Resolve character personality break for [Character]
+    3. ...}
+
+    **Why First:** These issues break story logic and must be resolved before the manuscript can be considered complete.
+  secondary_section: |
+    ### 2. Secondary Actions (Major Issues)
+
+    {list all major issues:}
+
+    **Why Second:** These issues are noticeable inconsistencies that readers will spot. Addressing them significantly improves manuscript quality.
+  polish_section: |
+    ### 3. Polish Actions (Minor Issues)
+
+    {list all minor issues:}
+
+    **Why Last:** These are details that add polish and professionalism. Fix them during final revision.
+  recurring_alert: |
+    ### 🔴 Recurring Issues Alert
+
+    The following issues were also identified in previous reviews:
+    - {list recurring issues}
+
+    **Recommendation:** These patterns suggest systemic issues. Consider reviewing your writing process for these areas to prevent recurrence.
+```
+
+## Presentation Summary Template
+```yaml
+presentation_summary:
+  header: "## 📊 Review Report Summary"
+  scope: "**Scope:** {reviewScope} — Chapters: {targetChapters}"
+  metadata: |
+    **Date:** {date}
+    **Reviewer:** Continuity Editor
+  assessment_header: "### Overall Assessment"
+  assessment_table: |
+    | Metric | Count |
+    |--------|-------|
+    | **Total Issues** | {total} |
+    | **Critical** | {critical} — Must fix before finalizing |
+    | **Major** | {major} — Should fix before publishing |
+    | **Minor** | {minor} — Polish before final |
+  success_message: "**🎉 EXCELLENT WORK! No issues detected. Your chapter(s) demonstrate strong narrative coherence and quality.**"
+  category_table: |
+    ### Issues by Category
+
+    | Category | Critical | Major | Minor | Total |
+    |----------|----------|-------|-------|-------|
+    | Character Consistency | {c} | {m} | {mi} | {t} |
+    | Location Accuracy | {c} | {m} | {mi} | {t} |
+    | Object Tracking | {c} | {m} | {mi} | {t} |
+    | Timeline Validation | {c} | {m} | {mi} | {t} |
+    | Plot Hole Detection | {c} | {m} | {mi} | {t} |
+    | Quality Issues | {c} | {m} | {mi} | {t} |
+  recurring_note: "**🔴 Note:** {count} recurring issues from previous reviews detected. See full report for details."
+```
+
+## Critical Issues Alert Template
+```yaml
+critical_alert:
+  header: "## ⚠️ Critical Issues Requiring Immediate Attention"
+  issue_format: |
+    ### {severity}: {issue_title}
+
+    **Category:** {category}
+    **Location:** {location_reference}
+    **Issue:** {brief_description}
+    **Fix:** {suggested_fix}
+
+    ---
+  recommendation: "**Recommendation:** Address these critical issues before proceeding with other workflows (Bible Update, Character Audit, etc.). Updating references with inconsistent information would be counter-productive."
+  no_critical: |
+    ## ✅ No Critical Issues
+
+    Great work! No story-breaking issues detected. You can proceed with confidence to the major and minor items, or move forward with other workflows.
+```
+
+## Category Breakdown Template
+```yaml
+category_breakdown:
+  header: "## 📋 Category Breakdown"
+  category_item: |
+    ### {category_name} ({count} issues)
+    {summary of {category} issues found}
+```
+
+## Next Steps Template
+```yaml
+next_steps:
+  header: "## 🎯 Next Steps"
+  immediate_actions: |
+    ### Immediate Actions
+    1. **Review the full report** — {outputFile}
+    2. **Address Critical Issues** — {count} items requiring immediate attention
+    3. **Plan Major Fixes** — {count} items for quality improvement
+  workflow_integration: |
+    ### Workflow Integration
+    This review report will be used by:
+    - **Bible Update** — Knows which issues to avoid incorporating
+    - **Character Audit** — Focuses on character-specific issues found
+    - **Theme Tracker** — Tracks thematic inconsistencies identified
+    - **Rhythm Analysis** — Considers pacing issues flagged
+
+    **Recommendation:** Complete critical fixes before running these dependent workflows to ensure they're working with consistent story information.
+  resolution_tracking: |
+    ### Resolution Tracking
+    Use the Resolution Tracking checklist in the full report to systematically mark items as completed.
+```
+
+## Discussion Template
+```yaml
+discussion:
+  header: "## 💬 Discussion & Questions"
+  introduction: |
+    I'm here to help you understand these findings and plan your revisions. You can:
+  ask_questions: |
+    **Ask questions about:**
+    - Specific issues and their implications
+    - Suggested fixes and how to implement them
+    - Priority order for addressing issues
+    - How issues relate to story elements
+  discuss: |
+    **Discuss:**
+    - Whether you agree with specific findings
+    - Alternative approaches to fixes
+    - Which issues to address vs. accept as stylistic choices
+    - How to prevent similar issues in future chapters
+  request: |
+    **Request:**
+    - Clarification on any issue
+    - More detailed fix suggestions
+    - Additional analysis of specific scenes
+    - Comparison with previous reviews
+  prompt: "**What would you like to discuss?**"
+```
+
+## Completion Template
+```yaml
+completion:
+  header: "## ✅ Review Workflow Complete"
+  report_location: "### Report Location\n**Full Report:** {outputFile}"
+  status: |
+    ### Status
+    - ✅ Scope defined: {reviewScope}
+    - ✅ Context loaded: {quality_assessment}
+    - ✅ Analysis complete: 6 categories analyzed
+    - ✅ Report generated: {total} issues documented
+    - ✅ Presentation complete
+  feedback_loop: |
+    ### Feedback Loop Enabled
+    You can now:
+    1. **Address issues** using the Resolution Tracking checklist
+    2. **Re-run review** after fixes to verify corrections
+    3. **Continue workflows** — Bible Update, Character Audit, Theme Tracker, Rhythm Analysis
+    4. **Discuss findings** — Return here anytime for clarification
+  continuous_improvement: |
+    ### Continuous Improvement
+    Each review builds on previous ones. Issues flagged as recurring help identify patterns to address in your writing process.
+  closing: "**Thank you for using the Review workflow! Your commitment to narrative coherence shows in the quality of your work.** 📚✨"
+```

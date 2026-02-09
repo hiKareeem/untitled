@@ -1,0 +1,183 @@
+---
+name: "Hero's Journey"
+shortName: "heros-journey"
+author: "Joseph Campbell"
+type: "stage-journey"
+origin: "The Hero with a Thousand Faces (1949)"
+adaptedFor: "Novels, epic fantasy, adventure stories"
+
+# Framework Overview
+description: "Joseph Campbell's monomyth structure based on his analysis of myths worldwide. Emphasizes transformation and the hero's internal journey."
+
+bestFor:
+  genres:
+    - "Fantasy"
+    - "Science Fiction"
+    - "Adventure"
+    - "Mythic fiction"
+    - "Epic narratives"
+  storyTypes:
+    - "Transformation arcs"
+    - "Quest stories"
+    - "Coming-of-age tales"
+    - "Hero vs. villain narratives"
+  authorLevels:
+    - "Intermediate authors"
+    - "Experienced authors"
+    - "Epic fiction authors"
+
+# Key Characteristics
+characteristics:
+  - "12-stage journey structure"
+  - "Three phases: Departure, Initiation, Return"
+  - "Emphasis on internal transformation"
+  - "Mythic proportions and archetypes"
+  - "Hero-centered narrative"
+
+# Structural Elements
+structure:
+  totalStages: 12
+  phases: 3
+  pacing: "Epic, with mythic resonance"
+
+# Stages
+stages:
+  - name: "Ordinary World"
+    number: 1
+    purpose: "Show the hero's normal life before the adventure begins"
+    chapterTarget: 1
+    phase: "Departure"
+    keyQuestions:
+      - "What's the hero's everyday life like?"
+      - "What's lacking or wrong?"
+      - "What's the hero's current state?"
+
+  - name: "Call to Adventure"
+    number: 2
+    purpose: "Inciting incident presents a challenge that disrupts the ordinary world"
+    chapterTarget: 1-2
+    phase: "Departure"
+    keyQuestions:
+      - "What disrupts the hero's ordinary life?"
+      - "What challenge or opportunity appears?"
+
+  - name: "Refusal of the Call"
+    number: 3
+    purpose: "Hero initially hesitates, fears, or refuses the challenge"
+    chapterTarget: 2-3
+    phase: "Departure"
+    keyQuestions:
+      - "Why does the hero hesitate?"
+      - "What fears must be overcome?"
+
+  - name: "Meeting the Mentor"
+    number: 4
+    purpose: "Guide appears to provide advice, tools, or encouragement"
+    chapterTarget: 3-4
+    phase: "Departure"
+    keyQuestions:
+      - "Who guides the hero?"
+      - "What wisdom or tools are provided?"
+
+  - name: "Crossing the Threshold"
+    number: 5
+    purpose: "Hero leaves the ordinary world and enters the special world"
+    chapterTarget: 4-5
+    phase: "Initiation"
+    keyQuestions:
+      - "What marks the point of no return?"
+      - "How is the special world different?"
+
+  - name: "Tests, Allies, Enemies"
+    number: 6
+    purpose: "Hero learns the rules of the special world, makes friends, and faces foes"
+    chapterTarget: 5-10
+    phase: "Initiation"
+    keyQuestions:
+      - "What challenges does the hero face?"
+      - "Who becomes an ally? Who is an enemy?"
+
+  - name: "Approach to Inmost Cave"
+    number: 7
+    purpose: "Hero and allies prepare for the major challenge in the special world"
+    chapterTarget: 10-12
+    phase: "Initiation"
+    keyQuestions:
+      - "What's the plan?"
+      - "What preparations are made?"
+
+  - name: "Ordeal"
+    number: 8
+    purpose: "Major confrontation near the center of the story; hero faces death or great danger"
+    chapterTarget: 12-14
+    phase: "Initiation"
+    keyQuestions:
+      - "What's the great confrontation?"
+      - "How does the hero face death or danger?"
+
+  - name: "Reward"
+    number: 9
+    purpose: "Hero survives ordeal and seizes the sword (achieves goal)"
+    chapterTarget: 14-16
+    phase: "Return"
+    keyQuestions:
+      - "What does the hero achieve?"
+      - "What's the reward?"
+
+  - name: "The Road Back"
+    number: 10
+    purpose: "Hero returns to the ordinary world, facing consequences and new challenges"
+    chapterTarget: 16-18
+    phase: "Return"
+    keyQuestions:
+      - "What's the return journey like?"
+      - "What consequences must be faced?"
+
+  - name: "Resurrection"
+    number: 11
+    purpose: "Final test where hero is transformed and the old self dies"
+    chapterTarget: 18-20
+    phase: "Return"
+    keyQuestions:
+      - "What's the final test?"
+      - "How is the hero transformed?"
+
+  - name: "Return with Elixir"
+    number: 12
+    purpose: "Hero returns with something that benefits the ordinary world"
+    chapterTarget: 20-24
+    phase: "Return"
+    keyQuestions:
+      - "What does the hero bring back?"
+      - "How is the world improved?"
+
+# Act Breakpoints (for Foundation workflow)
+actBreakpoints:
+  - "Call to Adventure" # Inciting incident
+  - "Crossing the Threshold" # Enter special world
+  - "Ordeal" # Major confrontation
+  - "Resurrection" # Final test
+
+# Strengths
+strengths:
+  - "Powerful transformational arc"
+  - "Mythic resonance and universality"
+  - "Works for epic and adventure stories"
+  - "Clear hero's journey structure"
+  - "Emphasis on internal growth"
+
+# Considerations
+considerations:
+  - "Best for epic or adventure narratives"
+  - "Can feel cliched if overused in fantasy"
+  - "Requires clear hero and special world"
+  - "May need adaptation for non-epic stories"
+  - "Emphasis on external journey with internal meaning"
+
+# Foundation Integration
+foundationConfig:
+  applyToChapterPlan: true
+  beatLabelsInPlan: true
+  actBreakpoints: ["Call to Adventure", "Crossing the Threshold", "Ordeal", "Resurrection"]
+  autoProgression: true
+  validationEnabled: true

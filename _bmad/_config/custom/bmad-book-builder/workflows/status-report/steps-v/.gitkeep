@@ -1,0 +1,5 @@
+# Validation Steps Directory
+
+This directory is reserved for validation step files in the BMAD workflow architecture.
+For the Status Report workflow, validation is not applicable as this is a create-only
+workflow that generates fresh reports on each run without separate edit/validate modes.

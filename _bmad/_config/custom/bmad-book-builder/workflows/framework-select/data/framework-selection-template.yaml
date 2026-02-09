@@ -1,0 +1,45 @@
+---
+stepsCompleted: []
+lastStep: ''
+date: ''
+user_name: ''
+workflow: 'framework-select'
+version: '1.0.0'
+
+# Framework Selection (populated by workflow)
+selectedFramework: null
+frameworkReasoning: ''
+
+# Framework Structure (populated in Step 5)
+frameworkStructure: null
+
+# Foundation Integration (populated in Step 5)
+foundationConfig:
+  applyToChapterPlan: true
+  beatLabelsInPlan: true
+  actBreakpoints: []
+  autoProgression: true
+  validationEnabled: true
+
+# Story Analysis (populated in Step 1)
+storyAnalysis:
+  concept: ''
+  genre: ''
+  scope: ''
+  audience: null
+  experienceLevel: null
+
+# Recommendations (populated in Step 2)
+recommendations:
+  primary: null
+  secondary: []
+  reasoning: ''
+
+# Custom Framework (populated if custom selected)
+customFramework: null
+
+# Metadata
+selectionDate: null
+configuredFor: 'Foundation workflow'
+status: 'incomplete'
+---

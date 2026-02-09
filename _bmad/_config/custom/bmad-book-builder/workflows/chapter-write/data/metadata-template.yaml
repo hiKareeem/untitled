@@ -1,0 +1,51 @@
+# Chapter Metadata Template
+# Used by step-07-finalize to generate chapter metadata files
+
+---
+chapter: {chapter_number}
+title: "{chapter_title}"
+wordCount: {actual_count}
+pov: "{pov_character}"
+timeline: "{when_in_story}"
+
+summary: |
+  {paragraph 1 - main events}
+
+  {paragraph 2 - character focus}
+
+  {paragraph 3 - chapter conclusion/state}
+
+keyPoints:
+  - {key point 1}
+  - {key point 2}
+  - {key point 3}
+
+characters:
+  - {character 1}
+  - {character 2}
+
+locations:
+  - {location 1}
+  - {location 2}
+
+newElements:
+  - {new element 1 - if any}
+
+reviewResults:
+  continuityEditor:
+    pass: {true/false}
+    issues: {count}
+  documentaliste:
+    pass: {true/false}
+    factsChecked: {count}
+  styleCoach:
+    pass: {true/false}
+    voiceScore: {score}
+  characterKeeper:
+    pass: {true/false}
+    inconsistencies: {count}
+
+createdDate: "{date}"
+lastModified: "{date}"
+author: "{author}"
+status: "final"

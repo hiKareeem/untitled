@@ -1,0 +1,26 @@
+# Act Breakpoints by Framework
+
+# Save the Cat
+saveTheCatBreakpoints:
+  - "Catalyst" # End of Act 1
+  - "Break into Two" # Start of Act 2
+  - "Midpoint" # Middle
+  - "All Is Lost" # End of Act 2
+  - "Break into Three" # Start of Act 3
+
+# Hero's Journey
+herosJourneyBreakpoints:
+  - "Call to Adventure" # Inciting incident
+  - "Crossing the Threshold" # Enter special world
+  - "Ordeal" # Major confrontation
+  - "Resurrection" # Final test
+
+# Snowflake Method
+snowflakeBreakpoints:
+  - "One-Page Synopsis" # End of foundation
+  - "Character Descriptions" # End of character work
+  - "Scene List" # Structure complete
+
+# Custom Framework
+customBreakpoints: []
+  # Empty for custom — Foundation will identify natural breaks

@@ -1,0 +1,5 @@
+# Execution Steps Directory
+
+This directory is reserved for execution step files in the BMAD workflow architecture.
+For the Status Report workflow, all execution logic is contained in the steps-c directory
+as this is a create-only workflow without separate validation or execution modes.

@@ -1,0 +1,56 @@
+# Hero's Journey Structure Template
+
+frameworkStructure:
+  name: "Hero's Journey"
+  type: "stage-journey"
+  totalStages: 12
+  phases: 3
+  stages:
+    - name: "Ordinary World"
+      purpose: "Show protagonist's normal life"
+      chapterTarget: 1
+      phase: "Departure"
+    - name: "Call to Adventure"
+      purpose: "Inciting incident, challenge appears"
+      chapterTarget: 1-2
+      phase: "Departure"
+    - name: "Refusal of the Call"
+      purpose: "Initial hesitation or fear"
+      chapterTarget: 2-3
+      phase: "Departure"
+    - name: "Meeting the Mentor"
+      purpose: "Guide provides advice/tools"
+      chapterTarget: 3-4
+      phase: "Departure"
+    - name: "Crossing the Threshold"
+      purpose: "Leave ordinary world, enter special world"
+      chapterTarget: 4-5
+      phase: "Initiation"
+    - name: "Tests, Allies, Enemies"
+      purpose: "Learn rules, make friends, face foes"
+      chapterTarget: 5-10
+      phase: "Initiation"
+    - name: "Approach to Inmost Cave"
+      purpose: "Plan for the major challenge"
+      chapterTarget: 10-12
+      phase: "Initiation"
+    - name: "Ordeal"
+      purpose: "Major confrontation, near-death experience"
+      chapterTarget: 12-14
+      phase: "Initiation"
+    - name: "Reward"
+      purpose: "Seize the sword, achieve goal"
+      chapterTarget: 14-16
+      phase: "Return"
+    - name: "The Road Back"
+      purpose: "Return to ordinary world, consequences"
+      chapterTarget: 16-18
+      phase: "Return"
+    - name: "Resurrection"
+      purpose: "Final test, transformation complete"
+      chapterTarget: 18-20
+      phase: "Return"
+    - name: "Return with Elixir"
+      purpose: "Return transformed, benefit others"
+      chapterTarget: 20-24
+      phase: "Return"

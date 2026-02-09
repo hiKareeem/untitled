@@ -1,0 +1,18 @@
+# Custom Framework Template
+
+frameworkStructure:
+  name: "Custom Framework"
+  type: "custom"
+  description: "{author's description}"
+  elements:
+    - name: "{Element 1 extracted from description}"
+      purpose: "{Purpose based on description}"
+      notes: "How to apply this"
+    - name: "{Element 2 extracted from description}"
+      purpose: "{Purpose based on description}"
+      notes: "How to apply this"
+    # Continue for all identifiable elements
+  guidance: |
+    Foundation will use this custom framework as a flexible guide.
+    Adapt the structure to support your storytelling while maintaining
+    the key elements you've described.

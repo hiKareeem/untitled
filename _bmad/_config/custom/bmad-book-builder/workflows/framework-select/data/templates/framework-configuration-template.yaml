@@ -1,0 +1,48 @@
+# Framework Configuration Template
+# This template defines the structure for framework configuration output
+
+---
+stepsCompleted: []
+lastStep: ''
+date: '{current_date}'
+user_name: '{user_name}'
+workflow: 'framework-select'
+version: '1.0.0'
+
+# Framework Selection
+selectedFramework: null
+frameworkReasoning: null
+
+# Framework Structure
+frameworkStructure: null
+
+# Foundation Integration
+foundationConfig:
+  applyToChapterPlan: true
+  beatLabelsInPlan: true
+  actBreakpoints: []
+  autoProgression: true
+  validationEnabled: true
+
+# Story Analysis
+storyAnalysis:
+  concept: null
+  genre: null
+  scope: null
+  audience: null
+  experienceLevel: null
+
+# Recommendations
+recommendations:
+  primary: null
+  secondary: []
+  reasoning: null
+
+# Custom Framework (if applicable)
+customFramework: null
+
+# Metadata
+selectionDate: null
+configuredFor: 'Foundation workflow'
+status: 'in-progress'
+---

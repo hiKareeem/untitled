@@ -1,0 +1,35 @@
+# character-keeper Sidecar Configuration
+# Bible Guardian Memory Structure
+
+sidecar:
+  module: "bmad-book-builder"
+  initialization:
+    workflow: "bible-init"
+    required: false  # Bible initializes on first use
+
+  workflows:
+    - name: "build-characters"
+      path: "workflows/build-characters/workflow.md"
+      type: "primary"
+      dependencies: []
+
+    - name: "bible-update"
+      path: "workflows/bible-update/workflow.md"
+      type: "primary"
+      dependencies: []
+
+    - name: "export-bible"
+      path: "workflows/export-bible/workflow.md"
+      type: "support"
+      dependencies: ["build-characters", "bible-update"]
+
+  agent:
+    path: "character-keeper.agent.yaml"
+
+# Memory Structure (created at runtime)
+# /_bmad/_memory/character-keeper-sidecar/
+#   ├── bible.md           # Main story bible
+#   ├── instructions.md    # Project-specific instructions
+#   ├── raw/               # Raw extractions from chapters
+#   ├── curated/           # Validated entries (dossiers, timelines)
+#   └── exports/           # Formatted outputs (print_bible.md, reference.json)
