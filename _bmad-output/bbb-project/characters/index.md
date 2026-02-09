@@ -48,4 +48,18 @@ This index tracks all characters in the story bible.
 
 ---
 
+## Zeyad Al-Fahim
+
+**File:** [zeyad-al-fahim-dossier.md](./zeyad-al-fahim-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #4 — UGC diplomat/ambassador, New Geneva, 4-5 chapters, Dutiful Diplomat → Disgraced Whistleblower
+
+**Status:** COMPLETE (Autonomous Mode)
+
+**Summary:** Third-generation diplomatic dynasty, grandson of the man who drafted the Nitro Accords. A mid-level UGC ambassador who is the only person inside the global governance apparatus still asking questions about Alpha-7. Operates through memos, summits, emergency clauses, and a back-channel with journalist Mirelle Dubois. His Lie — "if the record is complete, justice is possible" — drives him through escalating procedural attempts to force transparency while the committee votes to monitor. Mirelle's absorption mid-transmission during BLACKWEIR breaks his institutional faith; he publishes everything. The Accords — his grandfather's Accords — contain the legal framework for his prosecution. The record-keeper is destroyed by the institution he tried to make function as designed. The record is public. Nobody acts on it. Trajectory: radicalization of method, not ideology — the bureaucrat who knows exactly how the building is wired.
+
+---
+
 _Last updated: 2026-02-09_
