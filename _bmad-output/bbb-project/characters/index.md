@@ -62,4 +62,18 @@ This index tracks all characters in the story bible.
 
 ---
 
+## Nikolai Volkov
+
+**File:** [nikolai-volkov-dossier.md](./nikolai-volkov-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #5 — Void Stalker field commander, Sword faction (EAEB origin), 4-5 chapters, Doctrine → Broken Doctrinaire
+
+**Status:** COMPLETE (Autonomous Mode)
+
+**Summary:** Twenty-year veteran of breach containment, commanding Stalker-7 in the Neo-Shanghai garrison. Follows military doctrine — the absorbed are dead, the void is hostile, contain and kill — while privately maintaining a field log of fifteen years of observations that contradict everything he officially believes. His Lie — "following protocol means you aren't responsible for what protocol requires" — sustains him through escalating deployments until BLACKWEIR, where he turns the military key, seals the Sump, and watches Corporal Jarek Kowalski absorbed in the operational zone — Jarek saying Nikolai's name, not mimicry, recognition. The after-action report says "Corporal Kowalski, absorbed, timestamp 16:47." It does not mention the name. Doctrine intact on paper. Shattered underneath. Trajectory: the void vocalizes at scale, the unit fractures, the partition between knowing and acknowledging collapses — the soldier's choice is whether the enemy was ever an enemy.
+
+---
+
 _Last updated: 2026-02-09_
