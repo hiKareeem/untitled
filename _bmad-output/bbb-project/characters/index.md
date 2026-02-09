@@ -32,4 +32,20 @@ This index tracks all characters in the story bible.
 
 ---
 
+## Nephthys
+
+**File:** [nephthys-dossier.md](./nephthys-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #3 — Former High Priestess (excommunicated), Flame faction, 5-6 chapters, Seeker → Prophet
+
+**Status:** COMPLETE (Autonomous Mode + Collaborative Review)
+
+**Summary:** Excommunicated High Priestess of the Cathedral of the Blessed Spark, branded and cast into the Outlands for insisting the chorus — her anomalous neurological sensitivity to void-proximate nitro fields — is revelation rather than psychosis. Pilgrimage eastward with companion Imani, through Void Witness communities, to Neo-Shanghai's Cathedral of Living Sound. Witnesses BLACKWEIR from the Cathedral doorway; her theological framework holds while thousands are absorbed. Inherits the abandoned Cathedral post-BLACKWEIR, becoming a prophet with a first congregation. Her Lie — "understanding the void means being safe from it" — is not refuted but separated: understanding and safety turn out to be independent variables. The seeker-to-prophet transition seeds the institutional recursion she cannot see. Trajectory: her followers will die of her theology the way Margaux died of the Church's.
+
+**Open questions:** Pilgrimage duration and story entry point (left flexible).
+
+---
+
 _Last updated: 2026-02-09_
