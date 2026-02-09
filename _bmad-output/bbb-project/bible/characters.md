@@ -1,0 +1,609 @@
+---
+title: "Characters"
+type: bible-dimension
+dimension: characters
+lastUpdated: "2026-02-09"
+lastChapter: 0
+totalCharacters: 10
+project_name: "Untitled"
+---
+
+# Characters
+
+> Living Narrative Bible — Human Dimension
+> Tracking psychological states, relationships, and arc progression
+
+---
+
+## Usage Instructions
+
+This bible dimension tracks **current character states**:
+
+- **Psychological States**: current phase, emotions, beliefs
+- **Relationships**: dynamics between characters
+- **Arcs**: progression toward transformation
+- **Appearances**: last and next scene
+
+### Psychological Phases
+
+| Phase | Name | Description |
+|-------|------|-------------|
+| 1/5 | Equilibrium | Established personality, no internal conflict |
+| 2/5 | Disruption | First challenge to beliefs |
+| 3/5 | Turning Point | Crisis, difficult choice |
+| 4/5 | Transformation | Change in progress |
+| 5/5 | New Equilibrium | Arc completed |
+
+### Entry Format
+
+```markdown
+### [Character Name]
+
+**Current Psychological State:**
+- Phase: [X/5] ([Phase Name])
+- Emotional State: [Description]
+- Dominant Beliefs: "[Internal quote]"
+- Internal Contradictions: [Tensions]
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| [Name] | [Type] | [Level] | [Description] |
+
+**Current Arc:** [Arc name]
+- Current Phase: [X/5]
+- Progression: [Progressing/Blocked/Regressing]
+- Next Step: [Description]
+
+**Appearances:**
+- Last Appearance: Chapter [N]
+- Next Planned Appearance: Chapter [M]
+
+**Recent History:**
+- Chapter [N]: [Psychological event]
+```
+
+---
+
+## Characters
+
+<!-- Character entries begin here -->
+
+### Dr. Elise Vantanen
+
+**Role:** Prologue POV (standalone)
+**Faction:** None (researcher)
+**Primary Location:** Arctic-7
+
+**Current Psychological State:**
+- Phase: 1/5 → 4/5 (Equilibrium → Transformation — compressed)
+- Emotional State: Curiosity → breach → absorbed
+- Dominant Beliefs: "I can understand this. I can be the discoverer."
+- Internal Contradictions: Scientific curiosity as ego; the desire to understand as the desire to be the one who understands
+
+**The Lie:** Being the discoverer means being safe from the discovery
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| None | Standalone | — | Exists to establish void rules |
+
+**Current Arc:** Curiosity → Absorption
+- Current Phase: Complete (prologue only)
+- Progression: Complete
+- Next Step: N/A — absorbed. Exists to establish: this can happen to anyone, including the protagonist of their own story.
+
+**Appearances:**
+- Last Appearance: Prologue
+- Next Planned Appearance: N/A
+
+**Recent History:**
+- [To be populated when prologue is written]
+
+---
+
+### Aurielle Vasquez
+
+**Role:** POV #1 (heaviest thread, 7–8 chapters)
+**Faction:** Grid (NitroCore)
+**Primary Location:** Neo-Shanghai Spires / Singapore
+**Lens:** Institutional machinery, reluctant tyrant
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Grieving (suppressed), confident (performed), suspicious (partitioned)
+- Dominant Beliefs: "Competence and good intentions are sufficient to prevent atrocity."
+- Internal Contradictions: Conflates institutional survival with moral necessity. Wants to reform from within but inherits a machine designed to resist reform. Suspects Thorne orchestrated her father's assassination but depends on him to run NitroCore — both facts coexist without resolution.
+- Key Backstory: Father Eduardo Vasquez assassinated at a corporate gala weeks before story begins. Official story: disgruntled employee, workplace violence. Aurielle suspects corporate orchestration. Thorne handed her a white handkerchief, told her not to run, told her the cameras were recording. She walked.
+
+**The Lie:** Competence and good intentions are sufficient to prevent atrocity
+
+**Conscious Want:** Prove she earned her position; modernize NitroCore from within
+**Unconscious Want:** Be told the machine is clean so she can run it guilt-free
+**Flaw:** Conflates institutional survival with moral necessity
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Marcus Thorne | Mentor/Foil/Suspect | Very High | Deference that feels like respect but is assessment. Handed her a handkerchief at the gala while Eduardo's blood was still warm. She suspects he arranged the assassination — timing too clean, succession too smooth. Cannot prove it. Cannot stop needing him. |
+| NitroCore Board | Institutional | Moderate | Expects continuity; she wants reform |
+
+**Current Arc:** Idealist → Reluctant Tyrant
+- Current Phase: 1/5 (Equilibrium — new executive, weeks post-assassination, still tasting salt)
+- Progression: Beginning
+- Next Step: Discovers infrastructure's true cost via Thorne's briefings
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | New executive, idealist wrapped in grief wrapped in suspicion | Father assassinated at gala; Thorne's handkerchief; first board meeting; "Sump lifecycle management" slide she doesn't understand |
+| 2/5 | Confronted with cost, rationalizing | Thorne shows her the real numbers; reform = Spire blackouts |
+| 3/5 | Moral laddering — each threshold crossed makes the next smaller | 2170 VEC report; "alternatives analysis"; "humanitarian" BLACKWEIR modifications (cosmetic) |
+| 4/5 | Authorizes BLACKWEIR | Signs the authorization. "Welcome to the throne." |
+| 5/5 | Functional tyrant. Knows. Continues. | Congratulated. Stock recovers. She will authorize the next one too. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1, Chapter ~2
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Mirelle Dubois
+
+**Role:** POV #2 (6–7 chapters, absorbed Phase 4)
+**Faction:** Lens (journalist)
+**Primary Location:** Neo-Shanghai (mobile — Sump, Mid-Levels)
+**Lens:** Truth-seeking → absorbed
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Driven, paranoid, professional
+- Dominant Beliefs: "If people know, they'll act."
+- Internal Contradictions: Treats the story as more real than the people in it
+
+**The Lie:** If people know, they'll act
+
+**Conscious Want:** Publish the suppressed 2170 VEC report; expose the Sump sacrifice
+**Unconscious Want:** Prove that truth matters — that revealing it changes something
+**Flaw:** Treats the story as more real than the people in it
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Zeyad Al-Fahim | Information exchange | Growing | Encrypted channel; mutual distrust softening — he's institutional, she's Lens |
+| Black Babel | Source network | Professional | Dead-drop trades; compartmentalized |
+| Editor | Institutional | Strained | Dismisses her Sump demographics as "correlation not causation" |
+
+**Current Arc:** Hunter → Absorbed
+- Current Phase: 1/5 (Equilibrium — working the Sump story)
+- Progression: Beginning
+- Next Step: Evidence trail strengthens; paranoia justified
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Working Sump demographics story, sources disappearing | Plants first dead-drop with Black Babel |
+| 2/5 | Evidence mounting, paranoia justified | Matched-district datasets; Black Babel contact; Zeyad exchange |
+| 3/5 | Deep Sump — finds pre-installed BLACKWEIR infrastructure | Photographs flood valves; plants final cache; "72 more hours" |
+| 4/5 | Absorbed mid-sentence during BLACKWEIR | Transmission to Black Babel cut mid-word: "The infrastructure was always designed to—" |
+| 5/5 | Gone. Dead-hand evidence persists. | Evidence released posthumously; her Lie tested — the world knows, the world shrugs |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1, early chapter
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Nephthys
+
+**Role:** POV #3 (5–6 chapters)
+**Faction:** Flame (excommunicated)
+**Primary Location:** European Outlands → Neo-Shanghai Sump
+**Lens:** Faith as epistemology, the Kellhus figure
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Certain, physically suffering, intellectually alive
+- Dominant Beliefs: "The void is not demonic but something the Church has catastrophically misread."
+- Internal Contradictions: Intellectual certainty hardening into messianic conviction. Seekers ask questions; prophets give answers.
+
+**The Lie:** Understanding the void means being safe from it
+
+**Conscious Want:** Reach the Cathedral of Living Sound; understand the chorus
+**Unconscious Want:** Be proven right — that the void is not demonic
+**Flaw:** Intellectual certainty hardening into messianic conviction
+
+**Biological Mechanism:** Anomalous neurological sensitivity to void-proximate Nitro fields. Manifests as "the chorus" — migraines, nosebleeds, perceived voices. Diagnosed as Nitro-Psychosis brain tumor. She's right about what she hears, but not for the reasons she thinks, and only by chance.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Imani | Companion/Counterweight | High | ~20, former acolyte who followed her into exile. Practical counterweight to Nephthys's intensity. Worries about her health. |
+| Arch-Prelate Malachi | Antagonist (absent) | Background | Excommunicated her. Pragmatic suppressor who already knew she was right. Backstory presence Book 1; potential POV Books 2–3. |
+| Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
+
+**Current Arc:** Seeker → Prophet
+- Current Phase: 1/5 (Equilibrium — excommunicated, on pilgrimage)
+- Progression: Beginning
+- Next Step: Chorus intensifies toward Neo-Shanghai; Void Witness validation
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Excommunicated, traveling Outlands, chorus intermittent | Walking through dead Outlands town; chorus flares at old void scar |
+| 2/5 | Chorus intensifies; grassroots validation | Void Witness commune; shared testimony; boards transport to Neo-Shanghai |
+| 3/5 | Arrives Neo-Shanghai Sump; Cathedral of Living Sound | Cathedral's acoustic architecture resolves the chorus into harmony |
+| 4/5 | BLACKWEIR — witnesses mass absorption from Cathedral doorway | Feels thousands being absorbed; Cathedral protects her; "They are all still here" |
+| 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1, early chapter
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Zeyad Al-Fahim
+
+**Role:** POV #4 (4–5 chapters)
+**Faction:** UGC (diplomat)
+**Primary Location:** New Geneva
+**Lens:** Institutional impotence
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Dutiful, following procedure
+- Dominant Beliefs: "If the record is complete, justice is possible."
+- Internal Contradictions: Mistakes documentation for action; paper trails for accountability
+
+**The Lie:** If the record is complete, justice is possible
+
+**Conscious Want:** Navigate the diplomatic crisis without compromising the Accords his grandfather drafted
+**Unconscious Want:** Believe that institutions — his family's life work — can contain this
+**Flaw:** Mistakes documentation for action; paper trails for accountability
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Mirelle Dubois | Information exchange | Growing | Encrypted back-channel; she has Sump data, he has Arctic-7 fragment |
+| Grandfather's legacy | Inherited duty | Deep | The Accords are his inheritance; the portrait hangs in the chamber |
+| UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
+
+**Current Arc:** Dutiful Diplomat → Disgraced Whistleblower
+- Current Phase: 1/5 (Equilibrium — routine compliance)
+- Progression: Beginning
+- Next Step: Classified Arctic-7 briefing mention; request denied
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Routine Accord compliance; Arctic-7 mentioned in passing | Classification request denied; grandfather's portrait |
+| 2/5 | Leaked Arctic-7 summary; Mirelle contact | First information bridge; shapes emerging |
+| 3/5 | Mirelle sends infrastructure findings; BLACKWEIR confirmed imminent | Invokes emergency clause; committee votes to "monitor" |
+| 4/5 | Mirelle's last transmission arrives — partial, mid-sentence | Writes public statement; publishes everything |
+| 5/5 | Suspended, prosecuted for leaking. The Accords punish the enforcer. | The record is public. The institution punishes the recorder. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Nikolai
+
+**Role:** POV #5 (4–5 chapters, enters Phase 2)
+**Faction:** Sword (Void Stalker)
+**Primary Location:** Neo-Shanghai (deployed)
+**Lens:** Doctrine as survival
+
+**Current Psychological State:**
+- Phase: Pre-introduction (enters Phase 2)
+- Emotional State: Disciplined, competent, suppressing 20 years of accumulated evidence
+- Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires."
+- Internal Contradictions: Refuses to process what he's seen across 20 years; doctrine as emotional anesthetic
+
+**The Lie:** Following protocol means you aren't responsible for what protocol requires
+
+**Conscious Want:** Execute the mission; keep his unit alive
+**Unconscious Want:** Believe doctrine is sufficient
+**Flaw:** Refuses to process what he's seen; doctrine as emotional anesthetic
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Jarek | Corporal/Subordinate | Professional → personal | Jarek cracks first — hears the name. Lost to absorption during BLACKWEIR. Says Nikolai's name as he's taken. |
+| His unit | Command | Professional | He enforces doctrine on them while privately doubting |
+| Civic containment engineer | BLACKWEIR co-key holder | Brief | The engineer cries. Nikolai doesn't. |
+
+**Current Arc:** Doctrine → Broken Doctrinaire
+- Current Phase: Pre-introduction
+- Progression: Not yet active
+- Next Step: Mid-Levels incursion deployment (Phase 1→2 transition)
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 2/5 | Deployed; Mid-Levels incursion; absorbed speaks a name | "Acoustic mimicry. Doctrine is clear." |
+| 3/5 | Accelerating ops tempo; pre-authorization received; two-key delivery | Understands what he's agreed to carry |
+| 4/5 | Turns the key. Executes BLACKWEIR. Loses Jarek. | Jarek absorbed, says Nikolai's name. Not mimicry. Recognition. |
+| 5/5 | Files after-action report. Signs it. The report lies. | Alive. Doctrine intact on paper. Shattered underneath. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1→2 transition
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Fuxi
+
+**Role:** POV #6 (4–5 chapters)
+**Faction:** Root (Sump conduit tech)
+**Primary Location:** Neo-Shanghai Sump / Deep Sump
+**Lens:** Complicity in systems
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Dutiful, suppressing suspicion
+- Dominant Beliefs: "Keeping your head down keeps the people you love safe."
+- Internal Contradictions: Loyalty to Nuwa makes him complicit in systems he'd otherwise resist
+
+**The Lie:** Keeping your head down keeps the people you love safe
+
+**Conscious Want:** Keep the conduits running; provide for Nuwa
+**Unconscious Want:** Believe the system he maintains isn't what he suspects it is
+**Flaw:** Loyalty to his sister makes him complicit in systems he'd otherwise resist
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nuwa | Sibling | Deep | Provides for her; she wants Mid-Level transfer; he can't without losing seniority |
+| Kindling (group) | Recruiter → Ally | Growing | "You see it too, don't you?" — radicalization pathway |
+| Shift supervisor | Institutional | Professional | "They always self-correct" — institutional dismissal |
+
+**Current Arc:** Maintenance Man → Radical
+- Current Phase: 1/5 (Equilibrium — routine conduit maintenance)
+- Progression: Beginning
+- Next Step: Strange trunk-line readings that don't self-correct
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Routine maintenance; strange readings self-correct; Nuwa wants transfer | RCI fluctuation on monitor 6; domestic scene with Nuwa |
+| 2/5 | Readings worse; keeping private log; Kindling approaches | Fluctuations correlate with disappearances |
+| 3/5 | Confirms what the pipes carry; finds BLACKWEIR flood valves | Kindling offers sabotage; no good options; tells Nuwa to pack |
+| 4/5 | Watches BLACKWEIR through his own monitoring systems | Sees Nuwa's block on infrastructure map; can't reach her |
+| 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1, early chapter
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Sofia Reyes
+
+**Role:** POV #7 (4–5 chapters)
+**Faction:** VEC (researcher)
+**Primary Location:** Neo-Shanghai / VEC HQ
+**Lens:** Moral obligation, scientific discovery
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Curious, methodical, trusting her institution
+- Dominant Beliefs: "Science is inherently moral — if we caused this, studying it is the responsible act."
+- Internal Contradictions: Conflates understanding with control; believes knowing the mechanism means you can fix it
+
+**The Lie:** Science is inherently moral
+
+**Conscious Want:** Understand the anomalous atmospheric data; publish findings
+**Unconscious Want:** Be the scientist who solves it — moral obligation as identity
+**Flaw:** Conflates understanding with control
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Dr. Liang | Supervisor | Professional → Antagonistic | Dismisses anomalies as instrument drift; later suppresses her paper |
+| Black Babel | Source network | New (Phase 3) | Her first rogue act — providing atmospheric convergence data |
+| Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
+
+**Current Arc:** Institutional Scientist → Rogue Scientist
+- Current Phase: 1/5 (Equilibrium — atmospheric monitoring)
+- Progression: Beginning
+- Next Step: Anomalous low-frequency data that correlates with nothing
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Atmospheric monitoring; anomalous data; supervisor dismisses | Flags data for Liang; told to check instruments; instruments are fine |
+| 2/5 | Timestamp correlation with Stalker deployments (0.94) | Preliminary paper held for "methodology review" |
+| 3/5 | Directional pattern points at Confluence; VEC classifies paper | Contacts Black Babel; goes rogue |
+| 4/5 | Instruments confirm mass absorption; locked out of classified briefing | Has Mirelle's dead-drop + her own data; no institution will use it |
+| 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Kira
+
+**Role:** POV #8 (3–4 chapters, enters late Phase 1 or early Phase 2)
+**Faction:** Mage (Chén Academy)
+**Primary Location:** Neo-Shanghai Mid-Levels
+**Lens:** Personhood, platform, the scream
+
+**Current Psychological State:**
+- Phase: Pre-introduction (enters late Phase 1 or early Phase 2)
+- Emotional State: Performing, guarded
+- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is."
+- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy
+
+**The Lie:** If she controls the platform, she controls the narrative of what she is
+
+**Conscious Want:** Stay relevant; maintain the streaming audience that gives her independence from the Academy
+**Unconscious Want:** Be seen as a person, not a product — not a weapon, not a performer, not a case study
+**Flaw:** Uses performance as armor; substitutes audience for intimacy
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Academy mages | Confidante network | Growing | Private messages; comparing notes on implant signals during incursions |
+| Streaming audience | Performance | Surface | Hundreds of thousands of viewers; armor and cage |
+| Chén Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
+
+**Current Arc:** Performer → Witness
+- Current Phase: Pre-introduction
+- Progression: Not yet active
+- Next Step: Introduction on stream; minor scream suppression
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1→2/5 | Streaming from Academy; suppressing minor scream episodes | Introduction; performance as normalcy |
+| 2/5 | Mage confides — felt absorbed "pulling" at implant during incursion | Private mage chat; structured patterns like language |
+| 3/5 | Larger incursion; scream overwhelming; barely holds on stream | The scream has meaning — implants encode neural signatures |
+| 4/5 | BLACKWEIR — the scream is catastrophic; 11 seconds live | Every absorbed person's signature through her implant simultaneously |
+| 5/5 | Medical recovery; Academy pressure; refuses to sign retraction | Silent witness. The scream is public. She is not. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Late Phase 1 or early Phase 2
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+### Nuwa
+
+**Role:** POV #9 (3–4 chapters; may appear through Fuxi's POV early)
+**Faction:** Unaffiliated (Sump civilian)
+**Primary Location:** Neo-Shanghai Sump
+**Lens:** Cost of survival, expendability
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Grinding, dreaming of escape she's realistic enough to call dreams
+- Dominant Beliefs: "If you're small enough, the system doesn't notice you."
+- Internal Contradictions: Has accepted the terms of a system designed to use her up
+
+**The Lie:** If you're small enough, the system doesn't notice you
+
+**Conscious Want:** Get through the day. Save enough for a better implant, a better Frame.
+**Unconscious Want:** Get out of the Sump
+**Flaw:** Has accepted the terms of a system designed to use her up
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Fuxi | Sibling | Deep | He provides; she dreams of Mid-Level transfer; neither acknowledges the shimmer |
+| The system | Institutional | Invisible | Designed to use her up; transit permits denied; biometric tracking |
+
+**Current Arc:** Invisible → Deliberately Invisible
+- Current Phase: 1/5 (Equilibrium — daily Sump grind)
+- Progression: Beginning
+- Next Step: Environment deteriorates; dreams of better implant
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Daily grind; saving for better implant; the hum is white noise | Domestic scene with Fuxi; shimmer they don't acknowledge |
+| 2/5 | (Through Fuxi's POV or own) Environment degrading; neighbor's child disappears | Feed says "relocated"; Nuwa doesn't believe it, can't afford not to |
+| 3/5 | Transit permit denied; trapped; biometric mismatch | System knows exactly where she is; exits closed |
+| 4/5 | Survives BLACKWEIR by doing nothing; wet cloth over face; stillness | Watches neighbors die through the window; doesn't go to look for Fuxi |
+| 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Phase 1 (possibly through Fuxi's POV)
+
+**Recent History:**
+- [To be populated as chapters are written]
+
+---
+
+## Summary Table
+
+| Character | Phase | Arc | Key Relationships | Last Change |
+|-----------|-------|-----|-------------------|-------------|
+| Dr. Vantanen | Complete | Curiosity → Absorbed | None (standalone) | Prologue |
+| Aurielle | 1/5 | Idealist → Reluctant Tyrant | Thorne (mentor/foil), Board | Initial |
+| Mirelle | 1/5 | Hunter → Absorbed | Zeyad (info exchange), Black Babel, Editor | Initial |
+| Nephthys | 1/5 | Seeker → Prophet | Imani (companion), Malachi (absent antagonist) | Initial |
+| Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
+| Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
+| Fuxi | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (recruiter) | Initial |
+| Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
+| Kira | Pre-intro | Performer → Witness | Mage network, Audience, Academy | Not yet active |
+| Nuwa | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system | Initial |
+
+---
+
+## Relationship Matrix
+
+> Intensity: ++ (very positive), + (positive), = (neutral), - (negative), -- (very negative)
+
+| | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi | Sofia | Kira | Nuwa |
+|---|----------|---------|----------|-------|---------|------|-------|------|------|
+| **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
+| **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware |
+| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | unaware | unaware |
+| **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware |
+| **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware |
+| **Fuxi** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) |
+| **Sofia** | unaware | unaware (inherits posthumously) | unaware | unaware | unaware | unaware | — | unaware | unaware |
+| **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware |
+| **Nuwa** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — |
+
+**Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does.
+
+---
+
+## Current Arcs
+
+| Character | Arc | Phase | Next Trigger |
+|-----------|-----|-------|--------------|
+| Dr. Vantanen | Curiosity → Absorbed | Complete | N/A |
+| Aurielle | Idealist → Reluctant Tyrant | 1/5 | Thorne's real briefing |
+| Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
+| Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
+| Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
+| Nikolai | Doctrine → Broken Doctrinaire | Pre-intro | Mid-Levels deployment |
+| Fuxi | Maintenance → Radical | 1/5 | Trunk-line anomalies |
+| Sofia | Institutional → Rogue | 1/5 | Anomalous data dismissed |
+| Kira | Performer → Witness | Pre-intro | Scream suppression |
+| Nuwa | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
+
+---
+
+## Recent Changes
+
+| Character | Type | Before | After | Chapter |
+|-----------|------|--------|-------|---------|
+| - | - | - | - | - |
+
+---
+
+_Last updated: 2026-02-09_
+_Updated by: Living Bible Workflow_
