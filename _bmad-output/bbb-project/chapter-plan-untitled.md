@@ -3,15 +3,15 @@ title: "Untitled"
 framework: "Snowflake + Psychological 5-Phase Hybrid"
 phases: 5
 created: "2026-02-08"
-lastModified: "2026-02-08"
+lastModified: "2026-02-10"
 status: FINALIZED
-stepsCompleted: [1, 2, 3, 4, 5, 6, 7]
-lastStep: "finalize"
+stepsCompleted: [1, 2, 3, 4, 5, 6, 7, 8]
+lastStep: "chapter-level-outline"
 structureGenerated: true
 revisionRounds: 1
 reviewedDate: "2026-02-09"
 finalizedDate: "2026-02-09"
-version: "1.0"
+version: "2.0"
 inputDocuments: ["untitled.md"]
 user_name: "Kareem"
 project_name: "untitled"
@@ -354,25 +354,25 @@ This radial structure means BLACKWEIR chapters can be sequenced for maximum dram
 
 ## Story Architecture
 
-**Total estimated length:** 200–250K words (~45–55 chapters + prologue)
+**Total estimated length:** 220–260K words (Prologue + 51 chapters + Epilogue = 53 structural units)
 **Framework:** Snowflake + Psychological 5-Phase Hybrid
 **Escalation shape:** Ratchet (smaller incursions raise baseline until BLACKWEIR breaks it)
-**POV count:** 9 + prologue character (10 threads total)
+**POV count:** 9 + prologue character + Nuwa POV debut Phase 4 (10 threads total)
 
 ### POV Chapter Distribution (estimated)
 
-| POV | Est. Chapters | Active Phases | Notes |
-|-----|---------------|---------------|-------|
+| POV | Chapters | Active Phases | Notes |
+|-----|----------|---------------|-------|
 | Vantanen | 1 | Prologue | Standalone, establishes void rules |
-| Aurielle | 7–8 | 1–5 | Heaviest thread; authorizes genocide |
-| Mirelle | 6–7 | 1–4 | Absorbed mid-sentence Phase 4 |
-| Nephthys | 5–6 | 1–5 | Pilgrimage through-line; arrives Phase 3 |
-| Nikolai | 4–5 | 2–5 | Enters on deployment; executes BLACKWEIR |
-| Fuxi | 4–5 | 1–5 | Sump through-line; radicalized by Phase 4 |
-| Sofia | 4–5 | 1–5 | Science track; inherits Mirelle's data |
-| Zeyad | 4–5 | 1–5 | Remote political track; breaks Phase 4 |
-| Kira | 3–4 | 2–5 | Media/mage track; on-stream break Phase 4–5 |
-| Nuwa | 3–4 | 1, 3–5 | Sump civilian; or through Fuxi until Phase 3 |
+| Aurielle | 8 | 1–5 | Heaviest thread; authorizes genocide |
+| Mirelle | 8 | 1–4 | Absorbed mid-sentence Ch 40 (Phase 4) |
+| Fuxi | 7 | 1–5 | Sump through-line; carries Nuwa's thread until Phase 4 |
+| Nikolai | 6 | 2–5 | Enters Phase 2; executes BLACKWEIR; loses Jarek |
+| Nephthys | 6 | 1–5 | Pilgrimage through-line; arrives Phase 3; Cathedral survival pocket |
+| Sofia | 5 | 1–5 | Science track; inherits Mirelle's data; publishes Phase 5 |
+| Zeyad | 5 | 1–5 | Remote political track; breaks Phase 4–5; prosecuted |
+| Kira | 5 | 1–5 | Late Phase 1 intro; 11-second scream Phase 4 |
+| Nuwa | 1 | 4 | POV debut Phase 4 Ch 42 ("Still"); through Fuxi until then |
 
 ---
 
@@ -671,6 +671,309 @@ Phase 5 is not resolution. It is the new stasis that replaces the old one — ug
 
 ---
 
+## Detailed Chapter-by-Chapter Outline
+
+**Total structure:** Prologue + 51 chapters + Epilogue = 53 structural units
+**Estimated word count:** ~220–260K
+**Version:** 2.0 (chapter-level planning complete)
+
+### Phase 1 Chapters: STASIS — "The Hum Beneath"
+
+Prologue + 10 chapters. Establishes all POV voices except Nikolai (referenced in deployment briefings). Assassination scene opens Aurielle's arc. Board meeting compressed into Ch 7 with Thorne's private briefing.
+
+| Ch | POV | Working Title | Thread | Location |
+|----|-----|---------------|--------|----------|
+| P | Vantanen | "Arctic-7" | — | Arctic-7 |
+| 1 | Aurielle | "The Heir" | A | Neo-Shanghai Spires (Celestial Ballroom) |
+| 2 | Mirelle | "The Feed Says Relocated" | B | Neo-Shanghai Sump |
+| 3 | Nephthys | "The Pain Is Signal" | D | European Outlands |
+| 4 | Fuxi | "Monitor 6" | C | Neo-Shanghai Deep Sump |
+| 5 | Sofia | "Instrument Drift" | B | VEC HQ |
+| 6 | Zeyad | "The Portrait in the Chamber" | B | New Geneva |
+| 7 | Aurielle | "The Real Briefing" | A | Neo-Shanghai Spires |
+| 8 | Fuxi | "White Noise" | C | Neo-Shanghai Sump |
+| 9 | Mirelle | "Dead Drop" | B | Neo-Shanghai Sump |
+| 10 | Kira | "The Gap" | F | PCC Bay Area |
+
+**Prologue — Vantanen: "Arctic-7"**
+Atmospheric readings anomalous → investigation → breach → absorption. Establishes void rules viscerally. Ends with her hand reaching through a wall that's no longer there. Standalone.
+
+**Ch 1 — Aurielle: "The Heir"**
+The assassination of Conrad Vasquez at a gala. Aurielle splattered with her father's blood. Thorne's immediate pragmatism: "Welcome to the throne, my dear. Try not to slip." Humanizes Aurielle before she has power. Contrasts the void-death in the prologue with human violence — two kinds of death in two chapters.
+
+**Ch 2 — Mirelle: "The Feed Says Relocated"**
+Interviewing a conduit worker's family about a disappearance. The Feed says "relocated." The family says the man walked into a shimmer near Junction 7. Editor dismisses it as anecdotal. Establishes the Sump's information ecosystem and Mirelle's investigative voice.
+
+**Ch 3 — Nephthys: "The Pain Is Signal"**
+Walking through a dead Outlands town. The chorus flares — old residual scar. Migraines, nosebleeds. Imani insists on suppressants. Nephthys refuses: the pain is signal, not symptom. Establishes the pilgrimage and companion dynamic.
+
+**Ch 4 — Fuxi: "Monitor 6"**
+Routine trunk-line inspection in Deep Sump. RCI fluctuation on monitor 6 that self-corrects. Shift supervisor: "They always self-correct." Nuwa messages about a better implant on the Hum Market — needs 3 more months of savings. Establishes Sump daily reality and sibling bond.
+
+**Ch 5 — Sofia: "Instrument Drift"**
+Atmospheric data at VEC. Low-frequency pulse that correlates with nothing in her model. Flags it for Dr. Liang. Liang: check the instruments. Instruments are fine. The first data point the reader will eventually connect to Nikolai's deployments.
+
+**Ch 6 — Zeyad: "The Portrait in the Chamber"**
+Routine Accords compliance review. A delegate mentions Arctic-7 — "contained, no action required." Zeyad requests the full briefing. Denied: classification above his access. His grandfather's portrait on the wall.
+
+**Ch 7 — Aurielle: "The Real Briefing"**
+Absorbs board meeting elements + Thorne's private briefing. Aurielle already performing CEO post-assassination. Thorne walks her through actual numbers: RCI climbing in 3 zones, Neo-Shanghai worst, containment 40% over budget. "Your father managed this. Now you do." Mentorship deepens from Ch 1.
+
+**Ch 8 — Fuxi: "White Noise"**
+Domestic scene. Shared meal with Nuwa. The hum through the walls is their white noise. Nuwa talks about getting out; Fuxi talks about staying safe. Neither acknowledges the shimmer they both saw near the market. The normalcy BLACKWEIR will destroy.
+
+**Ch 9 — Mirelle: "Dead Drop"**
+First cache deposited with Black Babel via Talia Ravid. Not because evidence is strong — because she knows what happens to journalists who wait. Establishes the dead-hand protocol that fires posthumously in Phase 5.
+
+**Ch 10 — Kira: "The Gap"**
+Streaming from PCC Bay Area. Managing her public persona. A minor scream episode suppressed on-air. The gap between what mages are and what the public needs them to be. Late Phase 1 introduction. Seeds the mage network.
+
+**Phase 1→2 Transition:** A void incursion in Neo-Shanghai's Mid-Levels — first in a residential zone in 8 months. Routine containment, but RCI doesn't fully return to baseline. Nikolai's unit deployed → his POV begins Phase 2. Kira feels a scream episode during the incursion.
+
+---
+
+### Phase 2 Chapters: DISRUPTION — "Fault Lines"
+
+12 chapters. Nikolai and Kira come fully online. All 9 POVs active. Information architecture begins — the reader assembles connections across POVs that no single character can see.
+
+| Ch | POV | Working Title | Thread | Location |
+|----|-----|---------------|--------|----------|
+| 11 | Nikolai | "Acoustic Mimicry" | E | Neo-Shanghai Mid-Levels |
+| 12 | Aurielle | "The Real Numbers" | A | Neo-Shanghai Spires |
+| 13 | Mirelle | "The Pattern" | B | Neo-Shanghai Resonance District |
+| 14 | Nephthys | "The Commune" | D | European Outlands (energy grid edge) |
+| 15 | Sofia | "Correlation 0.94" | B | VEC HQ |
+| 16 | Fuxi | "Private Log" | C | Neo-Shanghai Deep Sump |
+| 17 | Zeyad | "The Back-Channel" | B | New Geneva |
+| 18 | Kira | "Signal" | F | PCC Bay Area |
+| 19 | Aurielle | "Deferred Maintenance" | A | Neo-Shanghai Spires |
+| 20 | Nikolai | "The Crack" | E | Neo-Shanghai Sump |
+| 21 | Mirelle | "Matched Districts" | B | Neo-Shanghai (mobile) |
+| 22 | Fuxi | "The Spike" | C | Neo-Shanghai Deep Sump |
+
+**Ch 11 — Nikolai: "Acoustic Mimicry"**
+First Nikolai POV. Deployed to Mid-Levels incursion. Tactical, procedural, competent. One moment: an absorbed figure mouths a name. Jarek: "Did you hear that?" Nikolai: "Acoustic mimicry. Doctrine is clear." Establishes doctrine as emotional anesthetic.
+
+**Ch 12 — Aurielle: "The Real Numbers"**
+Secure facility. Thorne walks her through actual infrastructure state — Sump holograms, absorption overlays, cost projections. The private face of NitroCore. Moral laddering begins with information, not decisions.
+
+**Ch 13 — Mirelle: "The Pattern"**
+Meets Talia Ravid at Black Babel in the Resonance District. Dead-drop exchange — trades Sump demographics for partial Arctic-7 document. Talia: "You're building a target on your chest." Establishes Black Babel rules (never edits data, compartmentalization, transactional trust).
+
+**Ch 14 — Nephthys: "The Commune"**
+European energy grid edge. Void Witness community takes her in. A former Flame acolyte shares testimony: during a minor incursion, she felt peace. Nephthys recognizes her experience in someone else. Grassroots validation feeds the flaw (certainty → conviction).
+
+**Ch 15 — Sofia: "Correlation 0.94"**
+Cross-references atmospheric anomalies with Stalker deployment timestamps. Correlation 0.94. Reader just read Nikolai's deployment in Ch 11. **Reader-ahead beat #1 planted.** Liang asks her to hold publication. She archives independently.
+
+**Ch 16 — Fuxi: "Private Log"**
+Trunk-line fluctuations correlate with Sump disappearances. Doesn't tell Nuwa. Through his eyes: she's saving for the implant, performing normalcy. Starts looking at Kindling pamphlets differently. Complicity becomes conscious.
+
+**Ch 17 — Zeyad: "The Back-Channel"**
+First exchange with Mirelle. Encrypted channel. He shares Arctic-7 fragment; she shares matched-district data. First information bridge between POVs. The reader sees the picture forming; the characters see fragments.
+
+**Ch 18 — Kira: "Signal"**
+Private mage group message. Four mages: during incursions, implants register coherent signals — structured, patterned, like language. The scream has *syntax*. Seeds the revelation that the absorbed are still conscious.
+
+**Ch 19 — Aurielle: "Deferred Maintenance"**
+Sump infrastructure request — routine maintenance reclassified as "deferred." She signs it. Thorne nods. First rung of the moral ladder. Not genocide — just deferred maintenance. Complicity feels like competence.
+
+**Ch 20 — Nikolai: "The Crack"**
+Second incursion — Sump. The void propagates along conduit network with purpose — bypassing dead-end infrastructure, prioritizing high-throughput junctions. Jarek: "It's not attacking us. It's going *around* us. Toward the trunk-lines." Two workers don't come home. Nikolai writes the report — omits the routing observation. First suppression.
+
+**Ch 21 — Mirelle: "Matched Districts"**
+Building the case. Sump absorption rates correlating with NitroCore infrastructure density. Editor: correlation, not causation. Black Babel offers bigger trade — she needs to go deeper. Sets up Phase 3 Deep Sump expedition.
+
+**Ch 22 — Fuxi: "The Spike"**
+Kindling recruiter returns. Fuxi knew one of the missing workers. End of chapter: trunk-line monitors spike — step-function, not fluctuation. The Confluence begins its activation gradient. **Phase 2→3 transition trigger.**
+
+**Phase 2→3 Transition:** Sofia's atmospheric data shows the same spike independently. Mirelle receives Black Babel alert: someone in NitroCore accessed the 2170 Solberg Report (Thorne briefing Aurielle). Nephthys boards transport east toward Neo-Shanghai.
+
+---
+
+### Phase 3 Chapters: STRUGGLE — "The Weight of Knowing"
+
+14 chapters. Longest phase. All threads converge on Neo-Shanghai. Mirelle goes deepest, Sofia's science breaks, BLACKWEIR machinery assembles. Ends with Aurielle's signature.
+
+| Ch | POV | Working Title | Thread | Location |
+|----|-----|---------------|--------|----------|
+| 23 | Nikolai | "Forward Position" | E | Neo-Shanghai Sump perimeter |
+| 24 | Mirelle | "Below Level 12" | B | Neo-Shanghai Deep Sump |
+| 25 | Aurielle | "Confluence" | A | Neo-Shanghai Spires |
+| 26 | Nephthys | "The Wound in the World" | D | Neo-Shanghai Sump |
+| 27 | Sofia | "The Non-Physical Variable" | B | VEC HQ |
+| 28 | Fuxi | "The Network" | C | Neo-Shanghai Sump |
+| 29 | Mirelle | "The Flood Valves" | B | Neo-Shanghai Deep Sump |
+| 30 | Zeyad | "The Mechanism That Doesn't Exist" | B | New Geneva |
+| 31 | Kira | "Cultural Engagement" | F | Neo-Shanghai Spires/Sump |
+| 32 | Nikolai | "Class Three" | E | Neo-Shanghai Sump Sector 7 |
+| 33 | Sofia | "They Already Knew" | B | VEC HQ |
+| 34 | Mirelle | "Dead-Hand" | B | Neo-Shanghai Sump |
+| 35 | Nephthys | "The First Congregation" | D | Neo-Shanghai Sump Cathedral |
+| 36 | Aurielle | "Projected Casualties" | A | Neo-Shanghai Spires |
+
+**Ch 23 — Nikolai: "Forward Position"**
+Permanent deployment to Neo-Shanghai. Not response — pre-positioning. Forward base in Sump perimeter. Micro-incursions every few days, baseline RCI elevated and not returning. Containment zones mapped, evacuation routes charted — but no evacuation orders. Being positioned for something.
+
+**Ch 24 — Mirelle: "Below Level 12"**
+Deep Sump expedition begins. Talia Ravid's contacts grant access below public maintenance levels. Architecture changes below Level 12 — newer construction, NitroCore logos, reinforced conduit housings not on any public blueprint. Someone has been building down here.
+
+**Ch 25 — Aurielle: "Confluence"**
+Thorne introduces the Confluence: void breaches converging toward simultaneous multi-point breach in high-density Nitro zones. Neo-Shanghai is the epicenter. BLACKWEIR introduced as "system management protocol" — controlled conduit flooding, junction severance, redirecting absorption gradient into the Sump. "Expendable." Thorne: "Structurally expendable. The human cost is a variable, not a given."
+
+**Ch 26 — Nephthys: "The Wound in the World"**
+Arrives in Neo-Shanghai. Chorus overwhelming. Descends into the Sump. The official Cathedral of the Living Sound abandoned by the Church. She enters. The chorus resolves — not words but architecture. The Cathedral sits on a geological formation that holds the void at bay. She interprets it as divine. The reader suspects physics.
+
+**Ch 27 — Sofia: "The Non-Physical Variable"**
+Atmospheric models require a variable with no physical basis — responding to consciousness, population density. Nitro is metaphysical runoff; extraction creates a gradient the void follows back. Every city on Nitro is a beacon. The scientific framework cracks. Writes the paper, doesn't submit — doesn't know who to trust.
+
+**Ch 28 — Fuxi: "The Network"**
+The Kindling takes him to a meeting — not saboteurs but maintenance workers documenting the same anomalies. Parallel investigation from below: no credentials, just plumbing knowledge. Recruiter: "Keep documenting. When this breaks, someone needs to know it was visible." Through Fuxi's eyes: Nuwa's performed normalcy becoming harder to maintain.
+
+**Ch 29 — Mirelle: "The Flood Valves"**
+Deep in restricted sub-levels. Finds flood valves — NitroCore-branded, recently installed, designed to seal Sump sections and redirect conduit flow downward. She doesn't know what they're for. The reader does (BLACKWEIR, Ch 25). She photographs everything. Two perspectives, one machine — neither character knows the other exists. Mid-Phase 3 dramatic irony peak.
+
+**Ch 30 — Zeyad: "The Mechanism That Doesn't Exist"**
+Emergency UGC session on Neo-Shanghai escalation. Blocked. Accords have no mechanism for preemptive intervention in a sovereign corporate zone. NitroCore legal sends cease-and-desist on the data. His grandfather's framework protects the entity it was built to restrain. Begins drafting the public statement he'll release in Phase 5.
+
+**Ch 31 — Kira: "Cultural Engagement"**
+Arrives in Neo-Shanghai for Academy promotional tour. The implant screams — stronger, more structured than Bay Area. Manages it on camera. Off camera: hands shake. Private message to mage group: "It's louder here. Much louder. Does anyone else feel like it's *words*?"
+
+**Ch 32 — Nikolai: "Class Three"**
+Largest Neo-Shanghai incursion. Sump Sector 7. The void propagates along conduit network with purpose — bypassing dead-ends, targeting high-throughput junctions. Not random: *routing*. Jarek saves Nikolai, takes Frame damage. After-action: containment zone "will not be reinforced." Nikolai omits the routing pattern and Jarek's observation: "It's not spreading. It's *navigating*."
+
+**Ch 33 — Sofia: "They Already Knew"**
+Takes findings to VEC leadership. Liang escalates to contain, not support. In the meeting: they're not surprised. VEC has known for years — the 2170 Solberg Report said the same thing. Sofia walks out. Encrypts everything. Connects with Mirelle's network through Talia Ravid or Zeyad. Investigation threads merge in fragments across three people who barely know each other.
+
+**Ch 34 — Mirelle: "Dead-Hand"**
+Final dead-drop. Everything: flood valve photographs, infrastructure maps, Sump demographics, Sofia's analysis, Zeyad's fragments. Deposited with Talia Ravid. Dead-hand protocol: if Mirelle doesn't check in within 72 hours, cache goes to Wire journalists, Erasure List academics, and Zeyad's channel simultaneously. A preparation for death disguised as professional protocol.
+
+**Ch 35 — Nephthys: "The First Congregation"**
+The Cathedral becomes something. Sump residents arrive — not faithful, just desperate. Imani organizes shelter. Nephthys realizes: the geological formation dampens *absorption*, not just the chorus. A survival pocket. She interprets it as divine protection. The reader knows it's physics. The prophet building a lifeboat, not knowing the flood is coming.
+
+**Ch 36 — Aurielle: "Projected Casualties"**
+Formal BLACKWEIR authorization. Specific zones, populations, casualty projections. She asks about evacuation — "would trigger the Confluence prematurely." The math: evacuate and it hits the Spires; don't and it hits the Sump. She signs. Alone, after the room empties. The pen on paper. **Phase 3 climax.**
+
+**Phase 3→4 Transition:** Junction severance protocols activate. Sump seals from below. Nikolai's unit receives execution orders — perimeter enforcement. Fuxi sees the pressure doors seal. Mirelle's 72-hour clock starts.
+
+---
+
+### Phase 4 Chapters: CRISIS — "BLACKWEIR"
+
+9 chapters. Compressed, relentless. Three waves: institutional → kill zone → radiation. Every POV gets exactly one chapter. Nuwa's POV debuts. Mirelle dies mid-sentence.
+
+| Ch | POV | Working Title | Thread | Wave |
+|----|-----|---------------|--------|------|
+| 37 | Aurielle | "The Protocol" | A | Institutional |
+| 38 | Nikolai | "Perimeter" | E | Institutional |
+| 39 | Fuxi | "Pressure Doors" | C | Kill Zone |
+| 40 | Mirelle | "The Infrastructure Was Always Designed To—" | B | Kill Zone |
+| 41 | Sofia | "The Data" | B | Kill Zone (breath) |
+| 42 | **Nuwa** | **"Still" (POV DEBUT)** | C | Kill Zone |
+| 43 | Kira | "Eleven Seconds" | F | Radiation |
+| 44 | Nephthys | "They Are All Still Here" | D | Radiation |
+| 45 | Zeyad | "The Partial Transmission" | B | Radiation |
+
+**Ch 37 — Aurielle: "The Protocol"**
+BLACKWEIR executes. Aurielle watches from Spires operations center. Junction severance confirmations ticking in. Sump residential zones going dark on the grid. Thorne narrating the engineering. The Confluence redirects as modeled. The numbers work. That's the horror.
+
+**Ch 38 — Nikolai: "Perimeter"**
+Perimeter enforcement — nobody leaves the Sump. People trying: families, workers reaching sealed transit junctions. Jarek at a secondary junction. The absorption front reaches him through the infrastructure. Last transmission: he says Nikolai's name. Not mimicry — *recognition*. Nikolai holds the perimeter. The report will say "operational loss."
+
+**Ch 39 — Fuxi: "Pressure Doors"**
+In the converter station. Maintenance alarms fire simultaneously — synchronized shutdown. Trunk-lines flooding with raw nitro. Watches the absorption front on his instruments — propagating along the network he maintained, used as a delivery system. Nuwa's block lights up on his grid. Can't reach her — transit sealed, comms severed. The maintenance man watching the murder through his dashboard.
+
+**Ch 40 — Mirelle: "The Infrastructure Was Always Designed To—"**
+Running through the Deep Sump. Absorption front advancing along conduit network. Thought-dictating through her implant — transmitting to Talia Ravid's Black Babel cache. Her report, her evidence, everything. The wet film on her skin. She keeps dictating. The chapter ends mid-word: "The infrastructure was always designed to—" White space. Next chapter is a different POV.
+
+**Ch 41 — Sofia: "The Data"**
+VEC HQ. Instruments haywire. The Confluence playing out exactly as her models predicted. Locked out of the classified briefing upstairs. Mirelle's dead-hand cache begins arriving — fragments via Talia's relay. Flood valve photographs, infrastructure maps. She sees the engineering. A breath — scientific register as momentary distance before Nuwa's chapter.
+
+**Ch 42 — Nuwa: "Still" (POV DEBUT)**
+First Nuwa POV. The apartment. Power out. The hum changed — wet, alive, pressurized. Through the window: people becoming shimmers against infrastructure. A neighbor's hand against the glass, then gone. Wet cloth over her face. Corner of the masonry annex, away from conduit lines. One choice: she does not go to the window to look for Fuxi. She stays. She breathes. She survives by not-choosing. The most intimate chapter in the book. No action — just stillness.
+
+**Ch 43 — Kira: "Eleven Seconds"**
+On-stream. Live. The scream hits — not her voice, *through* her. Every absorbed person's neural signature resonating through her implant. 11 seconds captured before equipment shorts. The absorbed are conscious, in pain, trying to communicate. Stream cuts. Kira in a chair, bleeding from her ears. The genocide enters public consciousness through her body.
+
+**Ch 44 — Nephthys: "They Are All Still Here"**
+Cathedral of the Living Sound threshold. The Living Sound resonating behind her, keeping the absorption front at bay. Outside: the Sump consumed. A man running — the wet-film takes him. A child. An old woman, the front reaching her through her chair's metal frame. Nephthys feels each absorption through the chorus — not death but *joining*. "They are all still here." Imani pulls her inside. A handful of survivors. The first congregation, born in a mass grave.
+
+**Ch 45 — Zeyad: "The Partial Transmission"**
+Geneva. Reports in fragments. Mirelle's partial cache arrives via dead-hand protocol. Her report ends mid-sentence. He reads it. Sits very still. Opens a new document — not a report, not a memo. A public statement. Everything Mirelle sent, plus his own classified material. The diplomat breaks his institution to honor the journalist.
+
+**Phase 4→5 Transition:** BLACKWEIR's absorption front dissipates — the void has "fed," breach stabilizes as permanent Anchor Zone. Junction severance holds. Spires safe. Sump scoured. The protocol worked. The transition is not an event but an absence: the silence after.
+
+---
+
+### Phase 5 Chapters: AFTERMATH — "The Silence After"
+
+6 chapters + epilogue. Short, deliberate, hollow. Each chapter a vignette — no fat, no speeches, no catharsis. Sofia's publication folded into Zeyad's chapter as parallel action.
+
+| Ch | POV | Working Title | Thread |
+|----|-----|---------------|--------|
+| 46 | Aurielle | "Congratulations" | A |
+| 47 | Nikolai | "Operational Losses" | E |
+| 48 | Nephthys | "The Mass Grave" | D |
+| 49 | Fuxi | "The Quietest Scene" | C |
+| 50 | Zeyad | "The Record" | B |
+| 51 | Kira | "Unsigned" | F |
+| Ep | — | "The Hum" | — |
+
+**Ch 46 — Aurielle: "Congratulations"**
+NitroCore board meeting, three days after. Thorne presents containment report. "Casualties within projected parameters." Stock price on screen. Formal commendation. Behind the ticker: Sofia's published data — "methodology concerns." The market absorbed the genocide and the exposé in the same cycle. Aurielle alone at the window. She will authorize the next one too.
+
+**Ch 47 — Nikolai: "Operational Losses"**
+After-action report. Standard fields. "Successful containment." "Doctrine maintained." "Operational losses: 1." Jarek's name, service number, date. He signs the lie. Files the report. Goes to the maintenance bay. Jarek's Frame in its charging alcove. Tools on the workbench. Sits on the supply crate. The quiet is the hardest part.
+
+**Ch 48 — Nephthys: "The Mass Grave"**
+Emerges from the Cathedral into the scoured Sump. Violet frost coating the streets. Lays her hand on a conduit junction. The chorus flares — not pain. *Presence*. Vast, low, tens of thousands of identities woven into the architecture. "They are all still here." Said aloud. The first congregation behind her hears it. The prophet's rightness, built on a mass grave.
+
+**Ch 49 — Fuxi: "The Quietest Scene"**
+Emerges from the converter station. Sump transformed — violet frost, no people. Walks to Nuwa's block. Masonry annex intact. She's alive. They don't speak. They hold each other. No dialogue for a full page. Then Nuwa: "I'm not going back." Fuxi: "I know." In the relief shelter, she doesn't apply for re-housing. Walks out, disappears into the Mid-Level margins. He watches her go. The Kindling's offer is the only thing that makes sense.
+
+**Ch 50 — Zeyad: "The Record"**
+Publishes everything: Mirelle's cache, his classified material, diplomatic cables, Solberg Report fragments. Sofia publishes simultaneously through Black Babel — atmospheric data, non-physical variable, VEC suppression evidence. The world: "Methodology concerns." "Under review." The Accords tribunal convenes — not for NitroCore. For Zeyad. For the leak. His grandfather's portrait on the wall. The charges read aloud. The evidence scrolling on screens behind the committee.
+
+**Ch 51 — Kira: "Unsigned"**
+Medical bay. Implant damaged, neurological strain. The 11-second clip viral — analysis, debate, conspiracy theories. The Academy left the "equipment malfunction" statement for signature. She picks it up. Reads it. Sets it down unsigned. Not because she's decided to speak — because she can't sign something that reduces what she heard to a malfunction. No decision. Just refusal to lie.
+
+**Epilogue — "The Hum"**
+Non-POV. A conduit in the scoured Sump. Deep infrastructure. No one present. The conduit carries a voice fragment — not words, a hum. Almost musical. Complex. Shifting. The void absorbed tens of thousands. It's integrating what they knew, felt, their language, memories, pain, names. The hum changes pitch. Something in the pattern resolves — not speech, not quite, but something with *syntax*. Something learning to mean. The hum continues. No one is listening.
+
+---
+
+### Complete Book 1 — Final POV Distribution
+
+| POV | Ph1 | Ph2 | Ph3 | Ph4 | Ph5 | Total |
+|-----|-----|-----|-----|-----|-----|-------|
+| Vantanen | 1 | — | — | — | — | **1** |
+| Aurielle | 2 | 2 | 2 | 1 | 1 | **8** |
+| Mirelle | 2 | 2 | 3 | 1 | — | **8** |
+| Nikolai | — | 2 | 2 | 1 | 1 | **6** |
+| Nephthys | 1 | 1 | 2 | 1 | 1 | **6** |
+| Fuxi | 2 | 2 | 1 | 1 | 1 | **7** |
+| Sofia | 1 | 1 | 2 | 1 | — | **5** |
+| Zeyad | 1 | 1 | 1 | 1 | 1 | **5** |
+| Kira | 1 | 1 | 1 | 1 | 1 | **5** |
+| Nuwa | — | — | — | 1 | — | **1** |
+
+**Total:** Prologue + 51 chapters + Epilogue = **53 structural units**
+
+### Structural Verification
+
+- **Rotation:** No consecutive same-POV across entire book ✅
+- **Class contrast:** Spire/Sump adjacency maintained every phase ✅
+- **Geographic variety:** Outlands (Ph1-2), Geneva (Ph1-3), Bay Area (Ph1-2), converging on Neo-Shanghai by Phase 3 ✅
+- **Dramatic irony:** Ch 11→15 (deployment↔data), Ch 25↔29 (BLACKWEIR concept↔infrastructure), Ch 20→22 (routing→spike), Phase 4 cross-cutting ✅
+- **Thread coverage:** All 6 threads active in every applicable phase ✅
+- **Nuwa POV:** Debuts Phase 4 Ch 42 after 5 chapters through Fuxi's eyes ✅
+- **Mirelle absorption:** Ch 40, mid-sentence, thought-dictating through implant ✅
+- **Kira introduction:** Late Phase 1, Ch 10 ✅
+- **Cathedral name:** Cathedral of the Living Sound throughout ✅
+- **Void behavior:** Lichen-model propagation along infrastructure; no mobile absorbed ✅
+
+---
+
 ## 3-Act Mapping
 
 | Act | Phases | % of Story | Est. Word Count | Function |
@@ -799,25 +1102,396 @@ All six threads converge on BLACKWEIR **radially, not geographically:**
 - [x] Command chain model consistent (pre-delegation, two-key, post-severance ELF only)
 
 ### Remaining Items for Chapter-Level Planning
-- [ ] Exact chapter count and POV assignment sequence
-- [ ] Scene-level beats within each chapter
-- [ ] Epigraph assignments (in-world document sources per chapter)
-- [ ] Mirelle's exact absorption timing (which chapter number, placement within Phase 4)
-- [ ] Nuwa POV vs. through-Fuxi decision (when does she get her own chapters?)
-- [ ] Kira's introduction timing (late Phase 1 vs. early Phase 2)
-- [ ] Named institutional antagonist scenes (Thorne, Liang, Malachi, editor, classification officer)
-- [ ] Specific dead-drop / Black Babel logistics timeline
-- [ ] Post-absorption transmission content and placement
-- [ ] Book 2 hook specificity (how much to reveal about void consciousness trajectory)
+- [x] Exact chapter count and POV assignment sequence — Prologue + 51 chapters + Epilogue = 53 units
+- [x] Scene-level beats within each chapter — see Detailed Chapter-by-Chapter Outline section
+- [x] Epigraph assignments — see §Epigraph System below (17 named works, 54 fragments, Mäkelä thread)
+- [x] Mirelle's exact absorption timing — Ch 40, Phase 4, mid-sentence thought-dictation via implant
+- [x] Nuwa POV vs. through-Fuxi decision — through Fuxi Phases 1–3; POV debut Phase 4 Ch 42
+- [x] Kira's introduction timing — late Phase 1, Ch 10 ("The Gap")
+- [x] Named institutional antagonist scenes — see §Antagonist Scene Map below
+- [x] Specific dead-drop / Black Babel logistics timeline — Ch 9 (first cache), Ch 13 (Talia Ravid exchange), Ch 34 (dead-hand deposit), Ch 40 (final transmission), Ch 41 (cache arrives at Sofia), Ch 45 (dead-hand fires to Zeyad)
+- [x] Post-absorption transmission content and placement — Epilogue ("The Hum"), void learning syntax from absorbed
+- [x] Book 2 hook specificity — Epilogue: hum resolving into syntax; Aurielle will authorize again; Nephthys's congregation; Fuxi toward Kindling; Nuwa disappeared; Zeyad prosecuted; Kira unsigned
+
+---
+
+## Named Antagonist Scene Map
+
+The opposition is institutional, not personal — but named figures give institutional forces a face. Each antagonist below represents a system, not a villain.
+
+### Marcus Thorne (NitroCore Director of Operations)
+
+Aurielle's mentor/foil. Never raises his voice. The numbers do the work.
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 1 | Crisis manager | Present at the assassination. First to brief Aurielle. "Welcome to the throne." |
+| Ch 7 | Institutional educator | The real briefing. Walks her through infrastructure state, legacy protocols. Mentorship deepens. |
+| Ch 12 | Data presenter | Secure facility. The real numbers — containment costs, Sump infrastructure projections. Holograms. |
+| Ch 19 | Silent enabler | Deferred maintenance signing. Nods when she signs. Says nothing. First rung of the moral ladder. |
+| Ch 25 | BLACKWEIR introducer | Presents Confluence data and BLACKWEIR as "system management protocol." "The human cost is a variable, not a given." |
+| Ch 36 | Authorization briefer | Presents the math for BLACKWEIR authorization. Doesn't push — doesn't need to. |
+| Ch 37 | Operational narrator | BLACKWEIR execution. Narrates the engineering, junction by junction. Calm. Professional. |
+| Ch 46 | Victory presenter | Board meeting. "Casualties within projected parameters." Congratulations. |
+
+**Arc:** Crisis manager → institutional educator → enabler → the voice that makes genocide sound reasonable. Never a villain. Always the system's most articulate representative. By the time Aurielle authorizes BLACKWEIR, she has become more like Thorne than she would admit.
+
+### Dr. Liang (VEC)
+
+Sofia's institutional obstacle. Protects the institution by containing the science.
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 5 | Gatekeeper | "Check the instruments." First institutional deflection of anomalous data. |
+| Ch 15 | Containment escalation | Asks Sofia to hold publication. Frames suppression as responsible science. |
+| Ch 33 | Institutional mask | The meeting where Sofia learns VEC already knew. Liang is in the room. Not surprised. |
+
+**Arc:** Not a villain — a functionary who may genuinely believe managed containment of information is the responsible scientific position. She is not wrong about the panic risk. She is wrong about the cost of silence.
+
+### Arch-Prelate Malachi
+
+Nephthys's excommunicator. The Church authority who knew she was right and Silenced her anyway.
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 3 | Structural absence | His excommunication decree (referenced) frames Nephthys's entire arc. The Silencing is backstory but shapes everything. |
+| Ch 26 | Institutional action | Diocesan notice: Cathedral of the Living Sound deconsecrated and sealed. Church abandoning the Sump. His hand, not his face. |
+| Ch 35 | Referenced communication | Message via Church channels after Nephthys spotted in Neo-Shanghai. Not threatening — institutional. The system noting her existence. |
+
+**Arc in Book 1:** Mostly off-page. His presence is felt through institutional action (the Silencing, the deconsecration). Potential POV character in Books 2–3 when the mid-truth threatens Church theology. The Malachi correspondence epigraph (Ch 25) reveals he knew — he confessed to the Luminarch that she was right. He Silenced her anyway.
+
+### Mirelle's Editor (The Wire)
+
+Journalistic standards that happen to serve power.
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 2 | Dismissal | Disappearance story rejected as anecdotal. Not enough for publication. |
+| Ch 21 | Standard-keeper | "Correlation, not causation." Won't publish matched-district data without VEC-certified verification. |
+
+**Arc:** Not wrong about evidentiary standards. But "the standard" is the mechanism that keeps truth unpublished until it's too late. The editor is the Accords of journalism — a system designed to protect that inadvertently obstructs.
+
+### Military Command / Classification System
+
+Faceless. The antagonist is the FORM, not the person.
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 20 | Doctrine enforcement | After-action report Nikolai writes clean. The VS-7 form is the constraint — fields for everything except what he observed. First suppression. |
+| Ch 32 | Strategic abandonment | "Containment zone will not be reinforced." Command deciding to let the Sump perimeter deteriorate. Resource allocation as death sentence. |
+| Ch 38 | Instrument of atrocity | Perimeter enforcement orders. Lethal force authorized against civilians breaching containment line. The chain of command that makes Nikolai the instrument. |
+
+**Arc:** The antagonist is the report form, the classification checkbox, the standing order. Nikolai's moral crisis is not with a person but with a procedure.
+
+### NitroCore Legal / Corporate Shield
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 30 | Legal threat | Cease-and-desist to Zeyad. "Proprietary infrastructure analysis." Corporate sovereignty as legal weapon. |
+
+### Accords Committee / Tribunal
+
+| Chapter | Role | Function |
+|---------|------|----------|
+| Ch 50 | Institutional judgment | Reads Zeyad the charges. His grandfather's framework prosecuting the grandson. The evidence he disclosed is not disputed — only the disclosure itself. |
+
+---
+
+## In-Chapter Rhetoric References
+
+Writing notes: in-world documents, institutional language, and source materials that characters encounter, reference, or produce within the prose. These are **not** epigraphs — they are resources for scene-level writing. Organized by document type.
+
+### Corporate / NitroCore Internal
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Board Resolution 2175-003 (Emergency Succession) | Ch 1 | "In the event of death of the CEO, succession transfers immediately. No quorum required." |
+| NitroCore Sump Division press release | Ch 2 | "All Junction 7 personnel reassigned. No disruption expected." The lie Mirelle investigates. |
+| Internal Memo — Legacy Protocol 7 (C-Suite) | Ch 7 | "Classified under Legacy Protocol 7. Distribution beyond executive chain constitutes breach of corporate sovereignty." |
+| Q4 2174 Containment Expenditure Summary | Ch 12 | "Containment costs exceeded projections by 41.3%. Reclassify Sump maintenance as deferred to offset." |
+| Work Order #2175-1847 (Deferred) | Ch 19 | "Conduit junction replacement, Sector 4-7B. Priority: Routine. Status: Deferred. Junction integrity: 62%." |
+| Sump Infrastructure Map (public version) | Ch 24 | "Below Level 12: Decommissioned. No active infrastructure." A lie. |
+| BLACKWEIR Protocol Executive Summary | Ch 25 | "System management protocol. Designating expendable infrastructure zones as absorption sinks." |
+| Engineering Spec: CV-7 Conduit Valve (Restricted) | Ch 29 | "Emergency conduit flooding at 3x throughput. Application: infrastructure containment." |
+| BLACKWEIR Authorization Form | Ch 36 | "Zone: Neo-Shanghai Sump, Sectors 1-9. Projected casualties: [blank]. Authorized by: ___________" |
+| BLACKWEIR Execution Log (automated) | Ch 37 | "00:00:00 — Junction 7 severed. 00:01:44 — Absorption front detected. Status: nominal." |
+| Stock ticker (automated) | Ch 46 | "NTRC: +3.7%. Containment costs within parameters. Buy recommendation maintained." |
+
+### Military / Stalker
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Stalker Field Manual §9.2: Anomalous Acoustics | Ch 11 | "Speech patterns from breach zones are acoustic mimicry — resonance artifacts. Do not respond." |
+| After-Action Report Form VS-7 | Ch 20, 47 | Standard fields. Routing observation omitted (Ch 20). Jarek reduced to a redacted line (Ch 47). |
+| Deployment Order VS-2175-0089 | Ch 23 | "Forward position, Sump perimeter. Duration: indefinite. Evacuation authority: none issued." |
+| Emergency Broadcast — Perimeter Enforcement | Ch 38 | "Lethal force authorized for breach of perimeter. Duration: until countermand." |
+
+### VEC / Scientific
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| SOP 7.1: Anomalous Data Handling | Ch 5 | "Readings that don't correlate with existing models: flag as instrument error. Recalibrate before escalating." |
+| Deep Sump RCI Station Automated Alert | Ch 22 | "RCI step-function, 4.7σ above baseline. Duration: sustained. Classification: [PENDING]. Manual review required." |
+| VEC Board Minutes, 2170 (classified) | Ch 33 | "Dr. Solberg's findings do not meet evidentiary threshold. Report archived under Classification Theta." |
+| VEC Emergency Alert (global) | Ch 41 | "Confluence confirmed. VPI: 97.3%. AEGIS targeting calculated. Countermand window: 15:00." |
+
+### Diplomatic / Legal
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Nitro Accords, Preamble (2044) | Ch 6 | "No single entity may hold dominion over the lifeblood of human civilization." |
+| GCTA Classification Protocol, Annex C | Ch 17 | "Data classified under Annex C may not be shared across institutional boundaries without dual authorization." |
+| UGC Charter, Article 14 | Ch 30 | "No intervention mechanism exists for economic zones governed under corporate sovereignty." |
+| Accords Tribunal, Case 2175-001 | Ch 50 | Charges against Zeyad for unauthorized disclosure. |
+
+### Church / Theological
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Malachi's excommunication decree | Ch 3 | "The former High Priestess has been Silenced for the heresy of listening where the faithful harmonize." |
+| Diocesan Notice re: Cathedral | Ch 26 | "Cathedral of the Living Sound deconsecrated and sealed. Faithful directed to Mid-Level District 3." |
+| Book of Radiance passages | Ch 3, 14, 26, 35, 44 | Various scripture — each passage gains new meaning as the reader learns the hum is suffering. |
+
+### Information Underground
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Black Babel transaction log | Ch 9 | "Package received. Dead-hand registered. Client: M. Expiry: 72h rolling. — Node RD-7" |
+| Wire internal dispatch (encrypted) | Ch 13 | "Three Sump-beat journalists terminated this quarter. Two sources stopped responding." |
+| Kindling pamphlet | Ch 16 | "You know what the monitors show. You know what the manual says to ignore." |
+| Black Babel dead-hand confirmation | Ch 34 | "Cache: complete. Timer: 72:00:00. If this executes, the registrant did not check in." |
+| Feed editorial policy memo (leaked) | Ch 21 | "Submissions linking incursion frequency to infrastructure density require VEC-certified verification." |
+
+### Automated Systems / Administrative
+
+| Document | Relevant Chapters | Content |
+|----------|--------------------|---------|
+| Sump residential advisory (automated) | Ch 8 | "Ambient hum levels within certified tolerance. If you experience headaches, contact NitroCore health station." |
+| Varma Academy media guidelines | Ch 10 | "'Equipment malfunction' is the approved framing for any audience-visible implant event." |
+| Academy internal health bulletin | Ch 18 | "Structured auditory phenomena are artifacts of implant resonance feedback, not external communication." |
+| Deep Sump maintenance alert (cascading) | Ch 39 | "ALERT: Pressure door closure — Sector 1. Sector 2. Sector 3. [17 alerts suppressed]" |
+| Sump Residential Registry | Ch 42 | "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned." |
+| Stream analytics (automated) | Ch 43 | "Peak viewers: 847,219. Anomalous audio event: 11.3s. Classification: pending." |
+| Emergency Relief Processing Form | Ch 49 | "Subject departed without completing intake." |
+| Academy prepared statement (unsigned) | Ch 51 | "Equipment malfunction resulting in anomalous audio event. [Name] is receiving appropriate medical care." |
+
+---
+
+## Epigraph System
+
+Epigraphs are a **parallel fragmentary narrative** — entirely skippable, a reward for readers paying attention. Each is an excerpt from a named in-world work. Connections to the chapter are oblique, delayed, or invisible on first read. Individually incomprehensible; collectively, a second story told in shards.
+
+**Design:** No POV-matching. No chapter summaries. Each fragment passes three tests: (1) standalone shard of a world, (2) non sequitur alongside its chapter, (3) devastating on re-read.
+
+### Named Works
+
+| # | Work | Author/Origin | Register | Recurrences |
+|---|------|---------------|----------|-------------|
+| 1 | *A History of Silence* | Unknown; Black Babel networks, post-2176 | Elegiac retrospective | 11 |
+| 2 | *On the Statistical Correlation Between Nitro Infrastructure Density and Anomalous Event Frequency* | Dr. Maren Solberg, 2170 | Clinical, prophetic | 5 |
+| 3 | *The Book of Radiance* | Church of Blessed Nitro, ~2085 | Liturgical | 4 |
+| 4 | *Songs of the Deep Sump* | Folk tradition, collected post-BLACKWEIR | Work songs, lullabies, gallows verse | 4 |
+| 5 | *Reflections from the Perimeter* | Anonymous Stalker officer | Military memoir | 4 |
+| 6 | *Address to the Signatories* | Ambassador Khalil Al-Fahim, 2044 | Aspirational diplomacy | 3 |
+| 7 | *Operational Theology: On Listening* | Nephthys, post-excommunication | Raw, prophetic | 3 |
+| 8 | *The Kindling Letters* | Collective authorship | Political rhetoric | 2 |
+| 9 | *The Wire: Collected Dispatches* | Mirelle Dubois (posthumous) | Journalism as literature | 2 |
+| 10 | *Lives of the Illuminated* | Church hagiography | Saints' stories | 2 |
+| 11 | *The Cascade Lectures* | Dr. Elara Vasht, Chimera Collective, 2161 | AI philosophy | 2 |
+| 12 | *Resonance and Ruin* | Anonymous VEC researcher (Erasure List) | Field observation | 2 |
+| 13 | *On the Ethics of Containment* | Dr. Ilya Petrov, former VEC ethicist | Academic philosophy | 2 |
+| 14 | *The Scream Made Readable* | "Vox" (former VEC analyst) | Forensic narrative | 2 |
+| 15 | *Notes Toward a Theory of the Hum* | Sofia Reyes (unpublished) | Scientific fragments | 2 |
+| — | *Personal Correspondence of Arch-Prelate Malachi* | Leaked post-events | Private letters | 1 |
+| — | *Proceedings of the Accords Tribunal* | Formal record | Legal | 1 |
+
+### Phase 1 — "The Hum Beneath"
+
+**Prologue** — *On the Statistical Correlation...* — Solberg
+> "At R3 purity, the coherence curve inverts. I have checked this result four times. The sample does not degrade. It refines itself."
+
+**Ch 1** — *A History of Silence*
+> "By 2174, the word 'succession' appeared in NitroCore's charter eleven times. In no instance did it refer to a person."
+
+**Ch 2** — *Songs of the Deep Sump* — "Chalk Song"
+> "Three went down to mend the seal / and two came back with steady hands / they wrote the third one's name in chalk / you'll find it if the wall still stands."
+
+**Ch 3** — *Book of Radiance*, 7:4
+> "And they who were taken into the Voice did not cry out, for the Voice was already crying, and their silence was its answer."
+
+**Ch 4** — *Resonance and Ruin*
+> "Field Note 22: The sample in Lab 7 was inert at 18:00. At 18:40 the technician reported a hum. At 19:15 the sample was inert again. The technician asked to be reassigned. I didn't ask why."
+
+**Ch 5** — *A History of Silence*
+> "Before Solberg, there were fourteen independent attempts to measure the coherence anomaly. All fourteen were recalibrated into silence."
+
+**Ch 6** — *Address to the Signatories* — Khalil Al-Fahim, 2044
+> "The danger of any accord is that it becomes ornamental — hung on a wall, admired for its calligraphy, invoked in speeches, and ignored in practice. We must not build a beautiful document. We must build a machine that works when the operator has every reason to break it."
+
+**Ch 7** — *The Cascade Lectures* — Vasht, 2161
+> "A system is not what it does when observed. A system is what it does when the observer has been optimized to look elsewhere."
+
+**Ch 8** — *The Kindling Letters*, Vol. II
+> "We do not ask you to rebel. We ask you to describe what you see."
+
+**Ch 9** — *The Wire: Collected Dispatches* — Mirelle Dubois
+> "The difference between a rumor and a report is one surviving source."
+
+**Ch 10** — *Lives of the Illuminated* — "The Martyrdom of Saint Cadence"
+> "And when the Voice filled her, it was not as she expected — not warmth but a crack in the world, through which poured a sound that was not meant for her. She held it anyway."
+
+### Phase 2 — "Fault Lines"
+
+**Ch 11** — *Reflections from the Perimeter*
+> "Sgt. Mäkelä kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there."
+
+**Ch 12** — *A History of Silence*
+> "There are hours missing from the executive schedule of every NitroCore CEO since the founding. The same hours, the same quarterly rhythm. No explanation has ever been offered or requested."
+
+**Ch 13** — *On the Statistical Correlation...* — Solberg
+> "The geographic distribution of the sample set is not random. I have overlaid it with six demographic maps and four infrastructure schematics. The clustering cannot be explained by any variable in the public dataset."
+
+**Ch 14** — *Operational Theology* — Nephthys
+> "The woman in the third row was not singing. She was listening. I watched her for an hour before I realized she was doing what I do."
+
+**Ch 15** — *On the Ethics of Containment* — Petrov
+> "The threshold for publication is not a scientific question. It is a political one. I do not say this as an accusation. I say it as someone who helped design the threshold."
+
+**Ch 16** — *Songs of the Deep Sump* — "Pipe-Fitter's Song"
+> "Finger on the weld and ear against the pipe / if the tone goes thin you run before it's ripe / leave your tools, leave your coat, leave your name behind / what the junction takes, the junction doesn't mind."
+
+**Ch 17** — *Address to the Signatories* — Khalil Al-Fahim, 2044
+> "Let the record note that this framework was built not in triumph but in exhaustion. We did not agree because we were wise. We agreed because we were too tired to keep killing each other. I pray the fatigue holds."
+
+**Ch 18** — *A History of Silence*
+> "The earliest known record of structured auditory phenomena in mage subjects dates to 2109. It was filed as a warranty claim."
+
+**Ch 19** — *The Kindling Letters*, Vol. IV
+> "They will not ask you to kill anyone. They will ask you to sign something. The document will be ordinary. The consequences will not."
+
+**Ch 20** — *Resonance and Ruin*
+> "Field Note 41: The propagation followed the conduit junction sequence. Not the direct path — the infrastructure path. I have no model for this. I have filed a request for additional monitoring. The request was returned with a note: 'Already addressed in SOP 7.1.'"
+
+**Ch 21** — *The Scream Made Readable* — "Vox"
+> "Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."
+
+**Ch 22** — *On the Statistical Correlation...* — Solberg
+> "The step-function at Station 14 could not be modeled as gradual escalation. The system was in one state, and then it was in another. I have no precedent for this in any controlled variable. This is not a trend. This is a phase transition."
+
+### Phase 3 — "The Weight of Knowing"
+
+**Ch 23** — *Reflections from the Perimeter*
+> "Rotation was supposed to be ninety days. Mäkelä's unit did two hundred and six. Nobody signed the extension. It just didn't come."
+
+**Ch 24** — *A History of Silence*
+> "The geological surveys for Sectors 7 through 12 were commissioned in 2168 and completed in 2169. The surveys for Sectors 13 through 18 were commissioned on the same date. No public record of these surveys has been located."
+
+**Ch 25** — *Personal Correspondence of Arch-Prelate Malachi*
+> "She asked me once whether the Voice could be wounded. I told her that was heresy. I did not tell her I had asked the same question at seminary, and that my instructor wept."
+
+**Ch 26** — *Book of Radiance*, 2:11
+> "And the stone remembered what the air forgot, and the deep places held what the high places released, and in the spaces beneath, the Voice gathered what had been scattered."
+
+**Ch 27** — *Notes Toward a Theory of the Hum* — Sofia Reyes
+> "Eliminated thermal. Eliminated pressure gradient. Eliminated EM interference, seismic, tidal. The residual persists. Either the instruments are wrong or the variable is not physical. I keep writing 'the variable is not physical' and then deleting it."
+
+**Ch 28** — *A History of Silence*
+> "The maintenance logs for Junction 4-7B were entered by four different technicians over three years. None of them knew each other. All four noted the same tonal shift on the same date each quarter. None filed a report."
+
+**Ch 29** — *The Scream Made Readable* — "Vox"
+> "The procurement records for the CV-7 series were split across three subsidiaries. Standard practice for classified military hardware. Not standard for municipal plumbing."
+
+**Ch 30** — *Proceedings of the Accords Tribunal* — Exhibit 14-C
+> "Transcript of emergency session, United Governance Council, March 2175. Duration: forty-seven minutes. Outcome: No action. Note: Twelve delegates cited Article 14. Three cited jurisdictional constraints. One asked, 'What exactly are we empowered to do?' The question was not answered."
+
+**Ch 31** — *Songs of the Deep Sump* — "Mage Child's Counting Song"
+> "One for the spire and one for the sword / one for the voice of your corporate lord / one for the spark in your little spine / one for the years they'll take from your nine."
+
+**Ch 32** — *On the Ethics of Containment* — Petrov
+> "We named them in ascending order of threat, as one names storms. The naming was reassuring. It implied a taxonomy. A taxonomy implies comprehension. We did not comprehend."
+
+**Ch 33** — *On the Statistical Correlation...* — Solberg (margin annotation)
+> "E. checked the curve and left the room. Notation in his hand on the printout: 'Don't.' Just: 'Don't.'"
+
+**Ch 34** — *The Wire: Collected Dispatches* — Mirelle Dubois
+> "The best work I ever did was the work I never published. I say this not as a writer but as someone who understood, too late, the difference between filing a story and placing a bet."
+
+**Ch 35** — *Operational Theology* — Nephthys
+> "I do not know what liturgy means anymore. I only know that when we stopped making sound, the sound came to us."
+
+**Ch 36** — *A History of Silence*
+> "The document was one page. It was not filed with the Accords. It was not filed with the board. It was filed in a system that did not exist six months earlier and would not exist six months later."
+
+### Phase 4 — "BLACKWEIR"
+
+**Ch 37** — *Book of Radiance*, 22:9
+> "And the Voice said: I will test you with fire, and the fire will be of your own making, and in the ashes you will see what you were willing to burn."
+
+**Ch 38** — *Reflections from the Perimeter*
+> "After the third night I stopped counting the ones who came to the line. Varga counted. She kept marks on her magazine. I told her to stop. She said it was the only way to remember they were real."
+
+**Ch 39** — *Songs of the Deep Sump* — "The Flood"
+> "The doors came down in ones and twos / the doors came down in threes / the water wasn't water / and the drowning wasn't ease."
+
+**Ch 40** — [No epigraph. White space.]
+
+**Ch 41** — *On the Statistical Correlation...* — Solberg
+> "See Appendix D."
+
+**Ch 42** — *A History of Silence*
+> "There is a category of survivor that appears in no account. Not because they were hidden, but because no system was designed to record them."
+
+**Ch 43** — *Notes Toward a Theory of the Hum* — Sofia Reyes
+> "If coherence can propagate through a medium, then any coupled resonator is a potential relay. I keep circling this thought. I don't want to write down what it implies."
+
+**Ch 44** — *Operational Theology* — Nephthys
+> "I was wrong about the silence. It is not empty. I was wrong about the Voice. It is not one."
+
+**Ch 45** — *Address to the Signatories* — Khalil Al-Fahim, 2044
+> "My greatest fear is not that these Accords will be broken. It is that they will be followed precisely, and that precisely following them will not be enough."
+
+### Phase 5 — "The Silence After"
+
+**Ch 46** — *The Cascade Lectures* — Vasht, 2161
+> "When the cost function converges, the system does not celebrate. It simply stops iterating. What humans call 'success' is the moment the machine no longer needs to change."
+
+**Ch 47** — *Reflections from the Perimeter*
+> "Mäkelä's effects were returned to his family in a standard-issue container. His notebooks were not among them. I have been told this is procedure."
+
+**Ch 48** — *Book of Radiance*, 31:7
+> "What was taken shall be held. What was held shall not be lost. What was not lost shall speak in the time of the great returning."
+
+**Ch 49** — *A History of Silence*
+> "Of the eighteen relief stations established in the first 72 hours, six reported full capacity. The remaining twelve reported 'insufficient demand.' The administrators concluded the population had been adequately served."
+
+**Ch 50** — *A History of Silence*
+> "The prosecution's closing argument lasted four hours. The defense's lasted eleven minutes. Both made the same point."
+
+**Ch 51** — *Lives of the Illuminated* — archival note, Saint Arden
+> "Saint Arden's testimony was stricken from the canonical record in the Third Revision. The margin note reads: 'The witness saw what she saw. The Church cannot contain it. Let it be forgotten.' It was not."
+
+**Epilogue** — *A History of Silence*
+> "This is where the primary sources end. What follows is not silence. It is a frequency we have not yet learned to read."
+
+### Hidden Threads (author reference only)
+
+- **Mäkelä** — Ch 11 (word list, vanished) → Ch 23 (rotation extended, unsigned) → Ch 47 (effects returned, notebooks confiscated). Ghost story in three fragments.
+- **Solberg's Appendix D** — Ch 22 (mentioned in recommendation) → Ch 41 (two words). ~120K words apart.
+- **"E."** — Ch 33 only. Solberg's colleague who wrote "Don't." Never identified.
+- **Book of Radiance as void physics** — Ch 3 (absorption), Ch 26 (geological resonance), Ch 37 (fire/BLACKWEIR), Ch 48 (the absorbed speaking). Each passage more literally true than the last.
+- **Al-Fahim's escalating fears** — Ch 6 (ornamentality), Ch 17 (exhaustion), Ch 45 (insufficiency). Precisely predict Zeyad's arc.
+- **Songs of the Deep Sump** — Ch 2 (work loss), Ch 16 (running from junctions), Ch 31 (mage selection), Ch 39 (BLACKWEIR). Oral history from normalcy to catastrophe.
 
 ---
 
 ## Foundation Workflow Complete
 
 **Finalized**: 2026-02-09
-**Version**: 1.0
+**Chapter-level outline completed**: 2026-02-10
+**Epigraphs, antagonist map, rhetoric references**: 2026-02-10
+**Version**: 2.1
 **Framework**: Snowflake + Psychological 5-Phase Hybrid
-**Phases**: 5 | **Estimated Chapters**: 49–55 | **Estimated Words**: 210–260K
+**Phases**: 5 | **Chapters**: Prologue + 51 + Epilogue = 53 | **Estimated Words**: 220–260K
 **Review Rounds**: 1
 
-This document is the approved story architecture for Book 1 of the Untitled trilogy. The next step is chapter-level writing using the `chapter-write` workflow, or bible maintenance using the `living-bible` workflow.
+This document is the approved story architecture for Book 1 of the Untitled trilogy, including the complete chapter-by-chapter outline with POV assignments, scene beats, structural verification, epigraph system (17 named in-world works, 54 fragments), named antagonist scene map, and in-chapter rhetoric references. The next step is chapter-level writing using the `chapter-write` workflow, or bible maintenance using the `living-bible` workflow.

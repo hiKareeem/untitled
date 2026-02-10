@@ -155,15 +155,17 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 - **Key Detail:** Targeting AI is the most advanced system Chimera Collective has ever built. Whether AEGIS is truly conscious remains classified
 - **Consequence:** Orbital Weapons Governance Board established. Autonomous strike authorized at VPI > 85% sustained with no countermand within 15 minutes
 
-### 2160s — First Urban Breach
+### 2163 — First Urban Breach (São Paulo)
 
-- **Event:** First breach in a populated area (location TBD — not Neo-Shanghai). Contained through aggressive trunk-line severance and partial district evacuation
-- **Consequence:** Cover story holds. VEC now has unmistakable data: breaches are following the nitro grid into cities
+- **Event:** First breach in a populated area — São Paulo's Zona Industrial conduit corridor. Fourteen workers absorbed; 200+ displaced. Contained through aggressive trunk-line severance and partial district evacuation
+- **Cover Story:** "Subsurface geological instability triggered by deep-excavation infrastructure work." Holds — São Paulo's industrial zones are dense enough that a district evacuation doesn't make international news
+- **Consequence:** VEC now has unmistakable data: breaches are following the nitro grid into cities
 
-### 2170 — The Suppressed VEC Report
+### 2170 — The Suppressed VEC Report (The Solberg Report)
 
-- **Event:** VEC Director (name TBD) compiles comprehensive report documenting the statistical link between nitro infrastructure density and breach frequency. Report recommends global throughput reduction
-- **Consequence:** Report buried by corporate board members. Director resigns in protest and disappears. Mirelle is hunting for this report. Sofia has heard rumors of it
+- **Event:** VEC Director **Dr. Maren Solberg** compiles comprehensive report documenting the statistical link between nitro infrastructure density and breach frequency. Recommends 40% reduction in metropolitan throughput density over ten years
+- **Key Figure:** Dr. Maren Solberg — Norwegian, mid-50s, career VEC scientist who rose through field operations to directorship
+- **Consequence:** Report buried by corporate board members who calculate economic cost as "civilizationally unacceptable." Solberg resigns in protest and disappears — voluntary withdrawal or something more sinister. Mirelle is hunting for this report and this person. Sofia has heard rumors of it
 
 ### 2174, December — Arctic-7
 

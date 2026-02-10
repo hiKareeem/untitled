@@ -1002,18 +1002,18 @@ GRRM's complexity comes from multiple factions with internally coherent motivati
 
 **Vulnerabilities:** Their entire theology is built on a misunderstanding. They're worshipping the scream. When that truth arrives, they have no prepared response.
 
-⚠️ **Core tenets, liturgical practices, and ritual details** need development before writing Church scenes. At minimum: What does a service look like? What are the sacred texts or founding stories? What rituals involve nitro directly?
+✅ **RESOLVED — See `lexicon.md` §1 for full Church liturgy.** Summary: Catholic-modeled. The Luminarch (Pope), Arch-Prelates (Cardinals), Prelates (Priests). Seven Resonances (sacraments): Awakening (baptism), Attunement (confirmation), Anointing (eucharist — blessed nitro to forehead), Unburdening (confession in nitro-walled booth), Binding (marriage), Calling (ordination), Returning (last rites). Weekly service = "The Radiance." Sacred text = "The Book of Radiance" (~2085). Core gesture = forehead, chest, each ear: "I hear. I hold. I carry." Liturgical calendar: Cascade Remembrance (Lent), First Light (Easter), The Uplift (Pentecost), Breach Vigils. Nephthys's counter-liturgy replaces "The Voice" with "The Chorus," abolishes nitro anointing, replaces harmonization with listening.
 
 ---
 
 #### THE ROOT — Anti-Corporate / Democratic Liberation Movement
 
-**Named entities:** ⚠️ Needs named organizations. Working candidates:
+**Named entities:** ✅ CONFIRMED:
 
-- **The Kindling** (labor movement / unionized workers in extraction and maintenance)
-- **Ironflower** (mage liberation network — overlaps with Root but has distinct agenda)
-- **Open Grid Initiative** (techno-democratic movement advocating public ownership of nitro infrastructure)
-- **Free African States' external advocacy networks** (supporting resistance to full nitro integration)
+- **The Kindling** (labor movement / unionized workers in extraction and maintenance — born in the Resource Wars extraction camps, 2053)
+- **Ironflower** (mage liberation network — overlaps with Root but has distinct agenda; advocates for mage candidates' right to refuse selection)
+- **Open Grid Initiative** (techno-democratic movement advocating public ownership of nitro infrastructure and refinement technology)
+- **Voix Libre** (FAS external advocacy network — francophone African roots, supporting resistance to full nitro integration and amplifying FAS model internationally)
 
 **Geopolitical alignment:** Strongest in the Free African States, labor districts, Sump communities, and among displaced populations. Has sympathizers within the VEC and even some corporate middle management.
 
@@ -1061,11 +1061,11 @@ GRRM's complexity comes from multiple factions with internally coherent motivati
 
 #### THE LENS — Truth-Seekers and Information Disseminators
 
-**Named entities:** ⚠️ Needs named organizations. Working candidates:
+**Named entities:** ✅ CONFIRMED:
 
-- **Black Babel** (data-broker collective and information warfare network — this resolves the earlier undefined reference; see 9.3 below)
-- **Independent journalist networks** (Mirelle's affiliation)
-- **Dissident academic circles** (researchers who've been reassigned or silenced)
+- **Black Babel** (data-broker collective and information warfare network — see 9.3 below)
+- **The Wire** (independent journalist network — Mirelle's affiliation. Encrypted, distributed, no corporate funding. Named for the most basic unit of information transfer.)
+- **The Erasure List** (dissident academic collective — researchers reassigned or silenced for inconvenient findings. Named for what happens to careers that publish truth. Sofia's future allies.)
 - **VEC internal whistleblowers** (individuals, not an organization — but they feed the Lens)
 
 **Geopolitical alignment:** Dispersed. No institutional home. Operate through encrypted networks, dead drops, distributed publishing platforms.
@@ -1098,7 +1098,17 @@ Relationship to the Lens: Black Babel is the Lens's primary infrastructure provi
 
 Narrative function: A faction that embodies the amorality of information itself. Truth is their product, but they sell it without regard for consequences. They are both the most important ally and the most dangerous enabler in the story.
 
-⚠️ Needs a key character or representative figure to anchor this faction in scenes.
+✅ **RESOLVED — Key figure: Talia Ravid.**
+
+**Talia Ravid** — Ghanaian-Israeli heritage. Former GCTA intelligence analyst who went freelance when she realized the GCTA was using her analysis to help corporations bury evidence rather than act on it. Now runs one of Black Babel's most active nodes out of Neo-Shanghai's Resonance District. She doesn't have ideology — she has a price list and a reputation.
+
+**Function:** Mirelle's primary contact within Black Babel. Not a friend — a professional relationship. Talia stores Mirelle's dead-drops, sells Mirelle access to classified data streams, and occasionally tips her off when something interesting crosses the node. She also sells information to NitroCore, the VEC, and the Hollow — sometimes the same information, sometimes simultaneously.
+
+**Why Mirelle trusts her:** Talia has a code — she never edits data, never fabricates, never names a source to a buyer. The data is the data. What you do with it is your problem. This makes her reliable in the only way that matters to Mirelle: the information is real.
+
+**Why Talia keeps Mirelle as a client:** Mirelle actually publishes. This makes Talia's other clients nervous, which raises prices for everyone. Talia profits from the chaos Mirelle creates. It's not altruism — it's good business.
+
+**Personality:** Calm, transactional, occasionally sardonic. Speaks in prices and probabilities. The only time emotion surfaces is when someone wastes her time or threatens her node's integrity. Age indeterminate (augmentation). Prefers data to people but has a grudging respect for Mirelle's craft — Mirelle is one of the few people who uses information the way Talia thinks it should be used: without flinching.
 
 ### 9.4 — The VEC (Cross-Factional Institution)
 
@@ -1193,10 +1203,10 @@ Void events increase from annual to monthly to weekly, concentrated at remote ex
 Orbital kinetic bombardment platform goes online. Justified as a planetary defense system against "geological catastrophic events." The targeting AI is the most advanced system Chimera Collective has ever built. Governance structure established: the Orbital Weapons Governance Board.
 
 **2160s — Urban Breaches Begin**  
-The first breach in a populated area (⚠️ location TBD — not Neo-Shanghai, which is reserved for Book 1's climax). Contained through aggressive trunk-line severance and partial district evacuation. Cover story holds. But the VEC now has unmistakable data: breaches are following the nitro grid into cities.
+The first breach in a populated area — ✅ **São Paulo, 2163** — in the Zona Industrial conduit corridor. Contained through aggressive trunk-line severance and partial district evacuation. Fourteen workers absorbed; 200+ displaced. Cover story: "subsurface geological instability triggered by deep-excavation infrastructure work." Cover story holds — São Paulo's industrial zones are dense enough that a district evacuation doesn't make international news. But the VEC now has unmistakable data: breaches are following the nitro grid into cities.
 
 **2170 — The Suppressed Report**  
-VEC Director ⚠️ [name TBD] compiles a comprehensive report documenting the statistical link between nitro infrastructure density and breach frequency. The report recommends global throughput reduction. The report is buried by corporate board members. The Director resigns in protest and disappears from public life. Mirelle is hunting for this report and this person.
+VEC Director **Dr. Maren Solberg** ✅ compiles a comprehensive report documenting the statistical link between nitro infrastructure density and breach frequency. The report recommends global throughput reduction — a 40% reduction in metropolitan throughput density over ten years. The report is buried by corporate board members who calculate the economic cost as "civilizationally unacceptable." Solberg resigns in protest and disappears from public life. Norwegian, mid-50s at resignation, career VEC scientist who rose through field operations to directorship. Her disappearance is ambiguous — voluntary withdrawal or something more sinister. Mirelle is hunting for this report and this person.
 
 **2174 — Arctic-7**  
 The largest void incursion to date occurs at an arctic nitro extraction station. The entire facility and crew are absorbed. This is the Book 1 prologue.

@@ -4,7 +4,7 @@ type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-10"
 lastChapter: 0
-totalCharacters: 13
+totalCharacters: 14
 project_name: "Untitled"
 ---
 
@@ -629,6 +629,41 @@ This bible dimension tracks **current character states**:
 
 ---
 
+### Talia Ravid
+
+**Role:** Supporting — Black Babel node operator, Mirelle's primary contact
+**Faction:** The Lens (Black Babel)
+**Primary Location:** Neo-Shanghai, Resonance District
+**Lens:** Information as commodity — the amorality of truth when truth has a price
+
+**Background:** Ghanaian-Israeli heritage. Former GCTA intelligence analyst who went freelance when she realized the GCTA was using her analysis to help corporations bury evidence rather than act on it. Now runs one of Black Babel's most active nodes. She doesn't have ideology — she has a price list and a reputation.
+
+**Current Psychological State:**
+- **Phase:** N/A (supporting — no arc)
+- **Core Trait:** Transactional clarity. Data is data. What you do with it is your problem.
+- **Code:** Never edits data. Never fabricates. Never names a source to a buyer.
+
+**Function:**
+- Stores Mirelle's dead-drops. Sells Mirelle access to classified data streams. Tips her off when something interesting crosses the node.
+- Also sells information to NitroCore, the VEC, and the Hollow — sometimes the same information, sometimes simultaneously.
+- Mirelle is one of her best clients — not because Mirelle pays well (she doesn't) but because Mirelle actually publishes, which makes Talia's other clients nervous, which raises prices for everyone. Talia profits from the chaos Mirelle creates.
+- After Mirelle's absorption: Talia inherits the dead-drop archive. What she does with it — sell it, publish it, bury it — is one of Book 2's information-warfare threads.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Mirelle | Professional contact | = (transactional) | Mutual respect, no sentiment. Talia profits from Mirelle's courage. |
+| Sofia | Unknown to each other | None | Post-Mirelle: Talia becomes Sofia's link to the dead-drop archive |
+| NitroCore | Client | = (transactional) | Sells them data. Sells data about them. No contradiction in her mind. |
+
+**Speech Register:** Calm, transactional, occasionally sardonic. Speaks in prices and probabilities. Emotion surfaces only when someone wastes her time or threatens her node. Age indeterminate (augmentation).
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Mirelle's dead-drop scene (Phase 1); Mirelle's investigation scenes
+
+---
+
 ## Summary Table
 
 | Character | Phase | Arc | Key Relationships | Last Change |
@@ -647,6 +682,7 @@ This bible dimension tracks **current character states**:
 | Marcus Thorne | N/A | (No arc — already finished) | Aurielle (mentee), Eduardo (deceased), Board | Initial |
 | Imani | N/A | (Supporting) | Nephthys (companion), Void Witnesses | Initial |
 | Malachi | N/A | (Absent Book 1) | Nephthys (excommunicated), Church hierarchy | Initial |
+| Talia Ravid | N/A | (Supporting) | Mirelle (client), Black Babel, NitroCore (client) | Initial |
 
 ---
 
