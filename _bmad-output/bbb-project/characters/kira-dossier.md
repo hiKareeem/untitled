@@ -13,7 +13,7 @@ user_name: Kareem
 
 ## Basic Information
 
-**Name:** Kira
+**Name:** Kira Calloway
 
 **Age:** 20 (born 2155)
 
