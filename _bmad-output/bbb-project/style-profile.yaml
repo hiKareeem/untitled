@@ -1,0 +1,414 @@
+---
+stepsCompleted: ['step-01-collect', 'step-02-analyze-quant', 'step-03-analyze-qual', 'step-04-detect-antipatterns', 'step-05-generate', 'step-06-review']
+lastStep: 'step-06-review'
+date: '2026-02-10'
+user_name: 'Kareem'
+sampleWordCount: 21783
+sampleSources:
+  - file: '_bmad-output/bbb-project/chapters/prologue-arctic-7.md'
+    words: 1936
+    role: 'primary voice target (polished, current style)'
+  - file: 'book1.md'
+    words: 19847
+    role: 'earlier draft (14 chapters, rougher, AI-assisted passages)'
+profileAccepted: true
+---
+
+# Style Profile — Kareem
+
+**Generated:** 2026-02-10
+**Author:** Kareem
+**Samples Analyzed:** 2 files, ~21,783 words of fiction prose
+**Primary Voice Target:** `prologue-arctic-7.md` (polished, current style)
+**Comparison Source:** `book1.md` (earlier draft, evolution baseline)
+**Reviewer:** Style Coach (Samantha)
+
+---
+
+## Quantitative Metrics
+
+### Type-Token Ratio (TTR)
+
+**Prologue:** 0.40
+**Book1 (combined):** 0.217
+**Target:** > 0.175
+**Status:** PASS (both samples)
+
+**Assessment:** The prologue's TTR of 0.40 reflects strong lexical diversity in a focused, single-POV piece. The book1 combined TTR of 0.217 is expected for a longer multi-chapter work where thematic vocabulary necessarily repeats. Both comfortably exceed the 0.175 minimum. The author's vocabulary is specialized (scientific/industrial) but varied within that register. No intervention needed.
+
+### Average Sentence Length
+
+**Prologue:** 12.6 words
+**Book1:** ~14-16 words (adjusted for dialogue-heavy chapters)
+**Target:** 20-24 words
+**Status:** BELOW TARGET — by design
+
+**Assessment:** The author writes significantly shorter sentences than the literary average. This is a **deliberate stylistic choice**, not a deficiency. The short average is driven by:
+- Heavy use of single-clause declarative sentences for impact
+- Deliberate sentence fragments as rhythmic devices
+- Terse, clipped dialogue exchanges
+- The "punch line" technique (short sentence after long buildup)
+
+Long sentences (25+ words) are reserved for atmospheric description and cosmic-scale imagery. The short average creates a thriller-like pacing that accelerates through tension sequences. **Do not "correct" toward the 20-24 target — this rhythm IS the voice.**
+
+**Effective range:** 8-16 words average per chapter, with individual sentences ranging from 1-word fragments to 60+ word atmospheric passages.
+
+### Sentence Complexity Ratio
+
+**Prologue:**
+- Simple: 55%
+- Complex: 32%
+- Compound: 13%
+
+**Book1:**
+- Simple: 58%
+- Complex: 21%
+- Compound: 21%
+
+**Target:** 80% complex / 20% simple
+**Status:** INVERTED — by design
+
+**Assessment:** The author's prose is **paratactic** — favoring short, independent clauses placed side-by-side rather than nested subordination. This is a defining feature of the voice, not a weakness. The simple-sentence dominance creates:
+- Clinical, observational tone (scientist cataloging phenomena)
+- Rapid pacing through tension sequences
+- Weight and impact on each individual statement
+
+Complex sentences appear during atmospheric description and cosmic-horror passages, where subordination mirrors the layering of perception. **Do not increase complexity ratio — the paratactic structure IS the voice.**
+
+### Paragraph Length Variation
+
+**Prologue:**
+- 1 line: 29%
+- 2-3 lines: 25%
+- 4-6 lines: 28%
+- 7+ lines: 18%
+
+**Book1:**
+- 1 line: 60%
+- 2-3 lines: 28%
+- 4-6 lines: 10%
+- 7+ lines: 3%
+
+**Status:** GOOD VARIATION (prologue); SKEWED SHORT (book1)
+
+**Assessment:** The prologue shows excellent "bimodal" paragraph strategy — alternating between dense atmospheric blocks and single-line "punch" paragraphs. Book1 is heavily skewed toward single-line paragraphs due to dialogue density. **Target the prologue distribution for future chapters.** Single-line paragraphs should be ~25-30% (for emphasis), with substantial 4-6 line blocks for atmospheric immersion.
+
+### Transition Analysis
+
+**Dominant Transitions:**
+- "But" (high frequency, often sentence-initial)
+- Temporal markers: "By 2200 hours," "At 2300"
+- "Not" (iterative negation — signature technique)
+- "Then" (sequential action)
+
+**Frequency:** ~14 transitions per 1,000 words (prologue)
+**Transition Diversity:** MEDIUM — relies heavily on contrast ("but," "not") and temporal markers
+
+**Signature Transition: Negation Chains**
+The author's most distinctive transition technique is defining by negation before positive assertion:
+> "Not louder. Not quieter. *Thinner.*"
+
+This should be preserved as a core voice marker.
+
+### Show vs Tell Ratio
+
+**Prologue:** 65% show / 35% tell
+**Book1:** 72% show / 28% tell
+
+**Assessment:** Strong showing in both samples. The "tell" segments in the prologue are filtered through professional expertise (technical exposition as character voice), which makes them feel like showing. Book1's higher show percentage reflects its action-heavy pacing. **Target: 65-70% show, with tell segments always filtered through POV character's professional/personal lens.**
+
+---
+
+## Qualitative Patterns
+
+### Voice Description
+
+**Core Identity:** A scientist at the edge of comprehension — someone who thinks in measurements and protocols, who catalogs the uncanny even as it overwhelms them. The prose is sensory-dense but precise, using technical vocabulary alongside poetic description.
+
+**Tone:** Dread through accumulation. Small wrongnesses pile up until catastrophe feels inevitable. Awe without comfort — the terrible and the beautiful coexist.
+
+**Narrative Distance:** Extremely close third-person. The POV doesn't just report what characters see — it reports what they feel in their skeleton, their inner ear, their nervous system.
+
+**Emotional Resonance:** Indirect. Emotions are conveyed through physical sensation, never named directly. The reader infers fear from "cold settling in the chest" — never told "she felt afraid."
+
+**Register:** Professional calm masking growing unease. Characters speak in technical language while the reader feels mounting horror. Competence under pressure, not melodrama.
+
+### Signature Words & Phrases
+
+| Word/Phrase | Function | Notes |
+|-------------|----------|-------|
+| hum/humming | Central motif | The sound beneath reality |
+| frequency/frequencies | Technical precision | Scientific register |
+| coherence/incoherent | Core concept | Order vs chaos |
+| pulse/pulsing | Rhythmic, alive quality | Biological metaphor |
+| pattern | Structured chaos | Recurring across all POVs |
+| resonance/resonating | Sound-as-meaning | Bridges technical and poetic |
+| threshold | Boundary vocabulary | Liminal spaces |
+| amber/orange | Nitro color | Visual signature |
+| violet/purple-black | Void color | Visual signature |
+| containment | Bureaucratic failure | Institutional language |
+| geometry | Mathematical sublime | Cosmic horror register |
+| cold | Temperature dominant | Primary environmental sense |
+| steady (as) | Stability comparisons | Simile anchor |
+| structured | Order vs chaos | Key descriptor |
+| translucent | Transformation marker | Absorption vocabulary |
+
+### Deliberate Echo Patterns
+
+The three-pulse pattern is verbally echoed throughout the prologue:
+> "spike, decay, spike, decay, spike, longer decay"
+> "Brighten. Dim. Brighten. Dim. Brighten. Long dim."
+> "Three-pulse. Three-pulse. Three-pulse. Breathing. Waiting."
+
+**Technique:** Textual rhythm mirrors story content. When the narrative describes a pattern, the prose itself enacts that pattern. This should be preserved and extended to other POVs with their own rhythmic signatures.
+
+### Imagery Themes
+
+**Primary Metaphor Families (in order of frequency):**
+
+1. **Music/Sound** — "sang through the stabilization tanks like a struck bell"; "a voice inside a choir, distinct but interwoven"; "My daughter's cello — the A string vibrates in sympathy"
+2. **Body/Organic** — "steady as a heartbeat"; "steady as breathing"; "like the surface of a living thing seen through a microscope"
+3. **Water/Fluid** — "like water toward a drain"; "the way an ocean incorporates a single drop of rain"; "a rising tide of silence"
+4. **Architecture/Geometry** — "fracture geometry"; "felt architecture of intent"; "the shape of the solution is present in the mind before any of its terms"
+5. **Glass/Crystal** — "the air had come apart along a seam"; "cracks in glass spreading through air"
+
+**Simile vs Metaphor:** Both, strategically deployed. Similes ground the unfamiliar ("like a struck bell"). Metaphors convey the cosmic/impossible ("the darkness deepening from absence to presence, from a line into a fissure, from a fissure into a mouth"). The shift from simile to metaphor tracks escalation from normal to uncanny.
+
+### Sensory Hierarchy
+
+1. **Sound/Vibration** (DOMINANT) — hum, frequency, resonance, harmonic, pitch. Sound experienced as physical vibration is the defining sensory mode.
+2. **Temperature** — cold, warm, frost, heat. Always precise about the *quality* of cold.
+3. **Tactile/Proprioceptive** — vibration in bones, pressure, skeletal sensation. The body as instrument.
+4. **Visual** — glow, amber, violet, shimmer, translucent. Color is precise and limited to the nitro/void palette.
+5. **Taste** (rare) — blood/salt, ash. Reserved for visceral moments.
+
+### Dialogue Style
+
+**Tags:** Minimalist. Almost exclusively "said" with rare "whispered," "asked," "reported." No melodramatic tags (exclaimed, growled, muttered).
+
+**Ratio:** Extremely narration-heavy. Dialogue serves as punctuation in extended sensory passages, not as the primary vehicle for information.
+
+**Character Voice:** Professional technical register dominates. Characters speak protocol:
+> "RCI is up again. Forty-one point three. Advisory threshold."
+> "Already checked. Phase-lock is nominal."
+
+Voice differentiation comes through *what* characters notice and *how much* they say, not through dialect or verbal tics.
+
+**Rhythm:** Short, clipped exchanges followed by long narration blocks. Dialogue is terse; the prose between dialogue carries the weight.
+
+### Punctuation Habits
+
+**Em Dashes (HEAVY — signature usage):**
+Three distinct functions:
+1. **Emphasis/clarification:** "the crude came up so hot it sang through the stabilization tanks — a column of orange light"
+2. **Dramatic pivot:** "Not louder. Not quieter. *Thinner.* As if someone had taken a blade to the frequency —"
+3. **Parenthetical precision:** "A hairline crack appeared in the air — not in the glass. In the *air.*"
+
+Frequency: 1-2 per paragraph. This is a voice feature, not overuse.
+
+**Italics (4 functions):**
+1. Internal thought/perception: "*Thinner.*"
+2. Emphasis on the key word: "She was not consumed. She was *included.*"
+3. Technical/significant terms: "The sample was refining *itself.*"
+4. The payoff word in a negation sequence: "Not louder. Not quieter. *Thinner.*"
+
+**Ellipsis:** Rare. Em dashes preferred for interruption; fragments for trailing off.
+
+**Fragments:** Deliberate and frequent. Used for rhythmic impact and perceptual immediacy:
+> "Not louder. Not quieter."
+> "Repeating."
+> "The cold was absolute. The hum was everything."
+
+---
+
+## The Negation-Before-Assertion Technique (SIGNATURE)
+
+This is the author's **single most distinctive stylistic choice** and must be preserved in all generated prose. The pattern: define something by what it is NOT, then reveal what it IS — often with the positive assertion in italics or after an em-dash.
+
+### Canonical Examples:
+
+1. **"Not louder. Not quieter. *Thinner.*"**
+2. **"Not in the glass. In the *air.*"**
+3. **"Not facility-cold. Cold the way space is cold — a radiative absence of warmth rather than the presence of chill."**
+4. **"It didn't open like a door or split like a wound. It *asserted* itself —"**
+5. **"Not words. Not meaning she could articulate. A felt architecture of intent"**
+6. **"Not *her.* Not Elise Vantanen, station commander, Arctic-7. Not anyone."**
+7. **"She was not consumed. She was *included.*"**
+8. **"It didn't hurt. There was no boundary, no resistance, no membrane to pierce. The transition was ontological, not physical —"**
+9. **"Not because she wanted to. Not because she was brave. Because the hum... carried with it a *proposition.*"**
+10. **"Not a sound you heard with your ears but a pressure you felt behind your sternum"**
+
+### Why It Works:
+- Slows reading to force attention
+- Eliminates easy categorization before naming the uncanny
+- Creates a sense of groping toward expression — perfect for cosmic horror
+- The positive assertion arrives with more weight after negations clear space
+- Mirrors the scientific method: ruling out hypotheses before stating findings
+
+### Usage Guidelines:
+- Deploy 2-4 times per chapter in key moments
+- Reserve for perceptual shifts, cosmic phenomena, and emotional revelations
+- Do NOT overuse — the technique loses power if every paragraph uses it
+- The final positive term should carry genuine surprise or precision
+
+---
+
+## Rhythm & Pacing Rules
+
+### The Long-Long-Long-SHORT Pattern
+
+The author's primary pacing technique: build with long, sensory-dense sentences, then punctuate with a short declarative:
+
+> "It didn't open like a door or split like a wound. It *asserted* itself — expanding its claim on the space around it, the darkness deepening from absence to presence, from a line into a fissure, from a fissure into a mouth. Purple-black. The color of the space between stars, if that space had texture."
+>
+> **"The monitoring bay's lights flickered."** ← Short reset.
+
+### Single-Sentence Paragraph Isolation
+
+For maximum impact, isolate a short sentence as its own paragraph:
+> "She wasn't laughing."
+> "The hum did not diminish."
+> "Her hand reached through a wall that was no longer there."
+
+### Scene Transition Techniques
+1. **Time-stamp jumps:** "By 2200 hours..."
+2. **Horizontal rules** for major breaks
+3. **Perspective reset:** Jump to external observer for dramatic irony
+
+---
+
+## Anti-Patterns Detected
+
+### Patterns to AVOID (found in book1.md, absent from prologue)
+
+**1. "Something shifted/changed" — MEDIUM-HIGH severity**
+Repeated 6+ times in book1.md:
+- "something shifted behind his eyes"
+- "Something that might have been a smile crossed his face" (3 times!)
+- "something that might have been respect"
+
+**Fix:** Replace with specific physical description. Instead of "something shifted behind his eyes," describe what the eyes actually did — narrowed, went distant, lost focus.
+
+**2. Telling Emotions Directly — MEDIUM severity**
+- "Imani looked terrified"
+- "looking at her with wide, uncomprehending eyes"
+- "She could see the terror in his eyes"
+
+**Fix:** Show the emotion through physical response, as the prologue does: "Elise felt something cold settle in her chest" instead of "Elise felt afraid."
+
+**3. Negative Parallelisms (AI pattern) — MEDIUM severity**
+- "It's not a leak. It's a conversation."
+- "It's not just X, it's Y" structure repeated
+
+**Note:** This overlaps with the author's legitimate negation-before-assertion technique but in book1.md it appears in a flatter, more formulaic way. The prologue version is richer (multiple negations, italicized payoff). Ensure the technique retains its layered, groping-toward-expression quality.
+
+**4. Quippy Dialogue — LOW-MEDIUM severity**
+- "Can I breach? Is the Pope a hologram?"
+- "Don't anthropomorphize the geology, Kaito."
+
+**Fix:** Humor should emerge from character and situation, not from one-liners. The prologue's Mäkelä cello analogy is humor-adjacent but grounded in character.
+
+**5. Expository Dialogue — MEDIUM severity**
+- Characters explaining technology or plot through dialogue rather than narration
+- "The system keeps overriding. It wants to run wide open."
+
+**Fix:** Technical information should emerge through narration filtered through POV expertise, as in the prologue's spectral analysis passage.
+
+### Patterns CLEAN in Both Samples
+- No AI vocabulary (additionally, testament, landscape, showcasing, delve, tapestry)
+- No promotional language
+- No significance inflation
+- No chatbot artifacts
+- No filler phrases
+- No generic conclusions
+- No emoji or boldface in prose
+- No synonym cycling
+- Straight quotes used correctly
+
+### Patterns to MONITOR
+- **Em dash frequency:** Heavy in both samples. This is a voice feature but should not exceed 2-3 per paragraph.
+- **"Seemed to" / "appeared to":** Low-medium frequency. Acceptable for uncertainty but don't let it become a crutch.
+- **"A sense of" / "a feeling of":** Moderate. Prefer specific sensation over abstract "sense of."
+
+---
+
+## Recommendations
+
+### Style Preservation (DO)
+
+1. **Lead with the negation-before-assertion technique** in key moments — it is the voice's fingerprint
+2. **Sound/vibration as primary sense** — the hum should be felt in bones, not just heard
+3. **Technical vocabulary without explanation** — trust the reader; competence immersion
+4. **Emotion through physical sensation** — cold in the chest, vibration in the jaw, pressure behind the sternum
+5. **Long-long-long-SHORT sentence rhythm** — build atmosphere, then punctuate
+6. **Em dashes for emphasis and pivot** — the punctuation carries voice
+7. **Italics for the payoff word** — the word that carries the revelation
+8. **Single-sentence paragraph isolation** — for impact moments
+9. **Professional-register dialogue** — terse, technical, protocol-flavored
+10. **Similes for grounding, metaphors for the cosmic** — strategic deployment
+11. **Paratactic sentence structure** — short independent clauses, not nested subordination
+12. **Bimodal paragraph strategy** — alternate dense blocks with single-line punches
+
+### Quality Improvements (DON'T)
+
+1. **Don't use "something shifted/changed"** — always specify what shifted and how
+2. **Don't name emotions directly** — show through physical sensation
+3. **Don't write quippy dialogue** — humor through character, not one-liners
+4. **Don't use expository dialogue** — technical info through narrated expertise
+5. **Don't repeat "something that might have been [emotion]"** — find fresh constructions
+6. **Don't use "It's not just X, it's Y"** in its flat form — if using negation, layer it richly
+7. **Don't stack adjectives** — one precise adjective beats three vague ones
+8. **Don't rush action sequences** — maintain the contemplative immersion even in crisis
+9. **Don't explain the technology** — deploy it and let context do the work
+10. **Don't state stakes numerically** — "thirty-two million people" is telling; show the density through scene
+
+---
+
+## Genre Context
+
+**Target:** "GRRM geopolitical maneuvering, Bakker moral/philosophical depth, Erikson thematic/narrative breadth"
+**Genre:** Cosmic horror / political tragedy / philosophical SF
+**Prose Promise:** "Accessible and visceral prose. The feeling of cyberpunk advanced 100 years, powered by mystical energy with metaphysical consequences."
+
+The voice should feel like **cosmic horror through the scientific method**: observing, measuring, documenting — and watching the instruments fail. Each POV character brings their own professional lens (scientist, soldier, journalist, diplomat, CEO, priest) but all share the experience of encountering something their frameworks cannot contain.
+
+---
+
+## POV Voice Differentiation Notes
+
+While the prologue establishes the baseline voice, each POV should modulate register and emphasis — but **all POVs must still sound like Kareem's voice**. The benchmark alignments below indicate which literary influence each POV leans toward, not that they should mimic those authors.
+
+### Benchmark Alignment
+
+- **Nephthys → Bakker:** Moral/philosophical depth. Longer, more subordinated sentences permitted. Liturgical weight. The prose should feel like it's grappling with questions too large for language — the cost of knowing, the irrelevance of individual being. Closest to Bakker's philosophical density while remaining accessible.
+- **Nikolai → Erikson:** Thematic/narrative breadth. Soldier-poet register — terse surface, deep undercurrent. The weight of accumulated loss carried in small gestures. Quiet moments between violence that carry more meaning than the violence itself. Erikson's compassion for the grunt.
+- **Zeyad → GRRM:** Geopolitical maneuvering. Diplomatic calculation, institutional chess, the language of power wielded through process and record. Reading rooms the way GRRM characters read courts.
+- **Aurielle → GRRM:** Corporate power politics. Inheritance, leverage, the slow corruption of principles by necessity. The boardroom as battlefield. GRRM's sense that power changes whoever holds it.
+
+### Full POV Register
+
+- **Elise Vantanen (Prologue):** Scientific precision, measurement vocabulary, observational calm
+- **Nikolai:** Military brevity, tactical awareness, suppressed emotion, body-as-weapon proprioception *(Erikson)*
+- **Aurielle:** Corporate calculation, power-reading, inheritance weight, the language of leverage *(GRRM)*
+- **Nephthys:** Liturgical cadence, pain-as-prayer, chorus vocabulary, the sacred and profane *(Bakker)*
+- **Sofia:** Research methodology, data patterns, the excitement of discovery curdling into horror
+- **Mirelle:** Journalistic instinct, source evaluation, the story as living thing, documentary precision
+- **Zeyad:** Diplomatic circumlocution, institutional faith eroding, the language of process and record *(GRRM)*
+- **Fuxi:** Working-class pragmatism, body-knowledge, infrastructure intimacy, the hum as coworker
+- **Kira:** Mage-specific sensation, spinal awareness, the cost vocabulary of power use
+
+All POVs share: the negation technique, the sensory hierarchy (sound > temperature > tactile > visual), the paratactic structure, and the indirect emotional communication.
+
+---
+
+## Evolution Tracking
+
+| Date | TTR | Avg Sent. Length | Complexity | Notes |
+|------|-----|-----------------|------------|-------|
+| 2026-02-10 | 0.40 (prologue) / 0.217 (book1) | 12.6 / ~15 | 55% simple / 32% complex | Baseline. Prologue = target voice. |
+
+---
+
+_"Your voice, amplified — not replaced."_
+
+_This profile was generated by the Style Capture workflow of the bmad-book-builder module._
