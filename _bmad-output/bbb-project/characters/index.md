@@ -126,4 +126,20 @@ This index tracks all characters in the story bible.
 
 ---
 
-_Last updated: 2026-02-09_
+## Sofia Reyes
+
+**File:** [sofia-reyes-dossier.md](./sofia-reyes-dossier.md)
+
+**Created:** 2026-02-10
+
+**Role:** POV #7 — VEC Senior Research Fellow (atmospheric physicist), Neo-Shanghai monitoring division, 4-5 chapters, active Phases 1-5
+
+**Status:** COMPLETE (Autonomous Mode)
+
+**Summary:** Thirty-three-year-old atmospheric physicist at VEC whose talent for cross-domain pattern recognition finds the signal no one else is looking for — a structured pulse in the sub-strata readings that correlates with Stalker deployments at 0.94 and reveals the void is responding to nitro infrastructure, not randomly expanding. Her Lie — "science is inherently moral; if we caused this, studying it is the responsible act" — drives her through escalating institutional betrayals: Novak buries her data, Liang delays her paper, VEC classifies her emergency findings as "strategically sensitive." Goes rogue through Black Babel in Phase 3. Watches BLACKWEIR unfold through her instruments in Phase 4 — the science is flawless, the science prevents nothing. Inherits Mirelle's dead-hand evidence posthumously; combines it with her own atmospheric data to produce the complete proof. Publishes everything through Black Babel in Phase 5. The scientific community responds with "methodology concerns." The truth is in the world. The world doesn't care enough. Institutional Scientist → Rogue Witness. The moral act she believed in was genuine, necessary, and insufficient.
+
+**Open decision point:** Sofia's physical location relative to Neo-Shanghai — whether she is based in Neo-Shanghai from the start, arrives mid-story, or operates entirely remotely. To be resolved during chapter-level planning.
+
+---
+
+_Last updated: 2026-02-10_
