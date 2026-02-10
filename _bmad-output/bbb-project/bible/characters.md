@@ -300,7 +300,7 @@ This bible dimension tracks **current character states**:
 
 ---
 
-### Nikolai
+### Nikolai Volkov
 
 **Role:** POV #5 (4–5 chapters, enters Phase 2)
 **Faction:** Sword (Void Stalker)
@@ -348,10 +348,10 @@ This bible dimension tracks **current character states**:
 
 ---
 
-### Fuxi
+### Fuxi Lin
 
-**Role:** POV #6 (4–5 chapters)
-**Faction:** Root (Sump conduit tech)
+**Role:** POV #6 (4–5 chapters) — **Primary Sump POV under Option A** (renders Nuwa through his lens Phases 1–3; she gets own POV Phase 4–5 only)
+**Faction:** Municipal conduit authority (“the service”) — nominally independent utility under NitroCore resource allocation
 **Primary Location:** Neo-Shanghai Sump / Deep Sump
 **Lens:** Complicity in systems
 
@@ -370,9 +370,9 @@ This bible dimension tracks **current character states**:
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
-| Nuwa | Sibling | Deep | Provides for her; she wants Mid-Level transfer; he can't without losing seniority |
-| Kindling (group) | Recruiter → Ally | Growing | "You see it too, don't you?" — radicalization pathway |
-| Shift supervisor | Institutional | Professional | "They always self-correct" — institutional dismissal |
+| Nuwa Lin | Sibling | Deep | Provides for her; she wants Mid-Level transfer; he can't without losing seniority. Through his POV, reader sees Nuwa’s humor, hands, tiredness — but misses her survival architecture. |
+| Kindling | Collective → Ally | Growing | Sump-based political collective grown from families of the disappeared. Evidence-first, not ideology-first. They have the political frame; Fuxi has the technical confirmation. |
+| Chen Wei (shift supervisor) | Institutional | Professional | “They always self-correct” — 20 years of calcified dismissiveness. What Fuxi will become if he stays. |
 
 **Current Arc:** Maintenance Man → Radical
 - Current Phase: 1/5 (Equilibrium — routine conduit maintenance)
@@ -384,7 +384,7 @@ This bible dimension tracks **current character states**:
 |-------|-------|-----------|
 | 1/5 | Routine maintenance; strange readings self-correct; Nuwa wants transfer | RCI fluctuation on monitor 6; domestic scene with Nuwa |
 | 2/5 | Readings worse; keeping private log; Kindling approaches | Fluctuations correlate with disappearances |
-| 3/5 | Confirms what the pipes carry; finds BLACKWEIR flood valves | Kindling offers sabotage; no good options; tells Nuwa to pack |
+| 3/5 | Recognizes long-installed flood valves for what they are; Kindling provides the frame, his expertise confirms | Sabotage would disable void containment too (same pipes); tells Nuwa to pack; no good options |
 | 4/5 | Watches BLACKWEIR through his own monitoring systems | Sees Nuwa's block on infrastructure map; can't reach her |
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
@@ -495,9 +495,9 @@ This bible dimension tracks **current character states**:
 
 ---
 
-### Nuwa
+### Nuwa Lin
 
-**Role:** POV #9 (3–4 chapters; may appear through Fuxi's POV early)
+**Role:** POV #9 (3–4 chapters) — **Late-debut POV under Option A** (experienced through Fuxi’s lens Phases 1–3; own POV Phase 4–5 only. First solo chapter must land as gut punch.)
 **Faction:** Unaffiliated (Sump civilian)
 **Primary Location:** Neo-Shanghai Sump
 **Lens:** Cost of survival, expendability
@@ -517,8 +517,9 @@ This bible dimension tracks **current character states**:
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
-| Fuxi | Sibling | Deep | He provides; she dreams of Mid-Level transfer; neither acknowledges the shimmer |
+| Fuxi Lin | Sibling | Deep | He provides; she dreams of Mid-Level transfer; neither acknowledges the shimmer. She is already preparing to survive without him. |
 | The system | Institutional | Invisible | Designed to use her up; transit permits denied; biometric tracking |
+| Nephthys + Imani | Future (trilogy) | None yet | Must meet — not Book 1, maybe Book 3. Three women, three answers to *what do you owe the dead?* Load-bearing for trilogy moral architecture. |
 
 **Current Arc:** Invisible → Deliberately Invisible
 - Current Phase: 1/5 (Equilibrium — daily Sump grind)
@@ -529,7 +530,7 @@ This bible dimension tracks **current character states**:
 | Phase | State | Key Event |
 |-------|-------|-----------|
 | 1/5 | Daily grind; saving for better implant; the hum is white noise | Domestic scene with Fuxi; shimmer they don't acknowledge |
-| 2/5 | (Through Fuxi's POV or own) Environment degrading; neighbor's child disappears | Feed says "relocated"; Nuwa doesn't believe it, can't afford not to |
+| 2/5 | (Through Fuxi's POV) Environment degrading; neighbor's child disappears | Feed says "relocated"; Nuwa doesn't believe it, can't afford not to |
 | 3/5 | Transit permit denied; trapped; biometric mismatch | System knows exactly where she is; exits closed |
 | 4/5 | Survives BLACKWEIR by doing nothing; wet cloth over face; stillness | Watches neighbors die through the window; doesn't go to look for Fuxi |
 | 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
@@ -553,10 +554,10 @@ This bible dimension tracks **current character states**:
 | Nephthys | 1/5 | Seeker → Prophet | Imani (companion), Malachi (absent antagonist) | Initial |
 | Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
 | Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
-| Fuxi | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (recruiter) | Initial |
+| Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Initial |
 | Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
 | Kira | Pre-intro | Performer → Witness | Mage network, Audience, Academy | Not yet active |
-| Nuwa | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system | Initial |
+| Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Initial |
 
 ---
 
@@ -564,17 +565,17 @@ This bible dimension tracks **current character states**:
 
 > Intensity: ++ (very positive), + (positive), = (neutral), - (negative), -- (very negative)
 
-| | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi | Sofia | Kira | Nuwa |
+| | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi Lin | Sofia | Kira | Nuwa Lin |
 |---|----------|---------|----------|-------|---------|------|-------|------|------|
 | **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
 | **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware |
 | **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | unaware | unaware |
 | **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware |
 | **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware |
-| **Fuxi** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) |
+| **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) |
 | **Sofia** | unaware | unaware (inherits posthumously) | unaware | unaware | unaware | unaware | — | unaware | unaware |
 | **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware |
-| **Nuwa** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — |
+| **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — |
 
 **Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does.
 
@@ -590,10 +591,10 @@ This bible dimension tracks **current character states**:
 | Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
 | Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
 | Nikolai | Doctrine → Broken Doctrinaire | Pre-intro | Mid-Levels deployment |
-| Fuxi | Maintenance → Radical | 1/5 | Trunk-line anomalies |
+| Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 1/5 | Anomalous data dismissed |
 | Kira | Performer → Witness | Pre-intro | Scream suppression |
-| Nuwa | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
+| Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 
 ---
 

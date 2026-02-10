@@ -76,4 +76,38 @@ This index tracks all characters in the story bible.
 
 ---
 
+## Fuxi Lin
+
+**File:** [fuxi-dossier.md](./fuxi-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #6 — Deep Sump conduit tech, municipal conduit authority ("the service"), 4–5 chapters, Primary Sump POV under Option A (renders Nuwa through his lens Phases 1–3)
+
+**Status:** COMPLETE (Autonomous Mode)
+
+**Summary:** Twenty-seven-year-old Trunk-Line Systems Monitor, Grade 3, with thirteen years of accumulated seniority in the Deep Sump. Has been the sole provider for his sister Nuwa since their father Jun died in a coolant breach when Fuxi was fourteen. His Lie — "keeping your head down keeps the people you love safe" — sustains him through routine maintenance of the conduit infrastructure that powers Neo-Shanghai, until RCI fluctuations correlate with Sump disappearances and the Kindling — a grief-origin political collective tracking infrastructure weaponization — show him the frame that makes the long-installed flood valves legible as a kill mechanism. His thirteen years of expertise confirm what the Kindling deduced: the Sump is pre-plumbed for genocide, and sabotage would disable void containment too (same pipes). Sealed in a converter station during BLACKWEIR, watching through monitoring systems as Nuwa's block lights up on his grid. Emerges radicalized — not by ideology but by the inability to continue holding his old beliefs. The Kindling want him for what he knows. Whether he becomes their asset is Book 2. Carries his father's multitool on his belt every shift — the trilogy's smallest, most persistent symbol of the maintenance question.
+
+**Key structural note:** As primary Sump POV, Fuxi is the reader's lens on Nuwa in Phases 1–3. What he notices (her humor, her hands, her tiredness) and what he misses (her survival mapping, her autonomy, her readiness to exist without him) is the mechanism through which the reader builds a fuller picture of Nuwa than Fuxi has.
+
+---
+
+## Nuwa Lin
+
+**File:** [nuwa-dossier.md](./nuwa-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #9 — Sump civilian, unaffiliated, 3–4 chapters, Late-debut POV under Option A (own POV Phase 4–5 only; experienced through Fuxi's lens Phases 1–3)
+
+**Status:** COMPLETE (Autonomous Mode)
+
+**Summary:** Twenty-four-year-old textile reclamation worker in the Sump, Fuxi's younger sister. Her Lie — "if you're small enough, the system doesn't notice you" — is a survival strategy she's refined into an art: she routes along masonry walls, memorizes biometric checkpoint schedules, mentally inventories every path-poor structure within six blocks. Survives BLACKWEIR by doing nothing — wet cloth, stillness, watching neighbors die through the window. Walks out of the relief shelter without applying for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. Her arc inverts Fuxi's: she moves from imposed invisibility to chosen invisibility while he moves from institutional invisibility to political visibility. Same family, opposite trajectories.
+
+**Key structural note:** First solo POV chapter must land as gut punch — the reader has known Nuwa only through Fuxi's partial, loving, blind perspective. When she finally speaks for herself, the gap between who Fuxi thought she was and who she is should be the revelation.
+
+**Future (trilogy-level):** Must meet Nephthys and Imani — not Book 1, maybe Book 3. Three women, three answers to *what do you owe the dead?* Load-bearing for trilogy moral architecture.
+
+---
+
 _Last updated: 2026-02-09_
