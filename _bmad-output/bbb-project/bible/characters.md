@@ -2,9 +2,9 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-09"
+lastUpdated: "2026-02-10"
 lastChapter: 0
-totalCharacters: 10
+totalCharacters: 13
 project_name: "Untitled"
 ---
 
@@ -544,6 +544,91 @@ This bible dimension tracks **current character states**:
 
 ---
 
+## Supporting Characters
+
+> Non-POV characters who directly influence POV character states. Tracked for continuity, not for arc progression.
+
+### Marcus Thorne
+
+**Role:** Non-POV supporting (appears in Aurielle's chapters)
+**Faction:** Grid (NitroCore COO)
+**Primary Location:** Neo-Shanghai Spires / NitroCore Tower
+
+**Current Psychological State:**
+- Phase: N/A (supporting — no arc tracked)
+- Emotional State: Controlled, strategic, patient
+- Dominant Beliefs: "Institutions survive. People serve institutions. This is not cruelty — it is physics."
+- Internal Contradictions: None visible — which is the horror. Thorne has already made every decision Aurielle is approaching. He's not conflicted; he's finished.
+
+**Function in Story:** The institutional continuity machine. He didn't build NitroCore's sacrifice architecture, but he maintains it with the efficiency of someone who stopped asking moral questions decades ago. Handed Aurielle a white handkerchief at Eduardo's assassination ("Don't run. The cameras are recording"). Almost certainly orchestrated the assassination — timing too clean, succession too smooth. Aurielle suspects, cannot prove, cannot stop needing him.
+
+**Manipulation Style:** Never lies directly. Presents information in sequences that make atrocity feel like the reasonable next step. "Sump lifecycle management" is his vocabulary. BLACKWEIR is "the protocol." Casualties are "projected."
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Aurielle | Mentee/Asset | Very High | Shaping her into the executive who signs what needs signing. Every briefing is a moral threshold lowered. |
+| Eduardo Vasquez (deceased) | Former CEO | Historical | Almost certainly arranged the assassination. Succession was too smooth. |
+| NitroCore Board | Institutional | Stable | The continuity they depend on |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Aurielle's chapters (Phase 1+)
+
+---
+
+### Imani
+
+**Role:** Non-POV supporting (appears in Nephthys's chapters)
+**Faction:** Flame (excommunicated, following Nephthys)
+**Primary Location:** European Outlands → Neo-Shanghai Sump
+
+**Current Psychological State:**
+- Phase: N/A (supporting — no arc tracked)
+- Emotional State: Worried, practical, loyal despite doubt
+- Dominant Beliefs: Follows Nephthys out of personal loyalty and residual faith — not theological certainty
+- Internal Contradictions: Believes in Nephthys the person more than Nephthys the prophet. Watches the migraines worsen and wonders if she's enabling a dying woman's obsession.
+
+**Function in Story:** Practical counterweight to Nephthys's intensity. ~20 years old, former acolyte who followed her into exile. Handles logistics, watches for danger, asks the questions Nephthys won't. The reader's surrogate in Nephthys's chapters — if Nephthys is the prophet, Imani is the congregation who isn't sure yet.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nephthys | Companion/Follower | High | Loyalty to the person, not the theology. Worries about her health. Carries the supplies. |
+| Void Witness communities | Grassroots contacts | Moderate | Makes practical arrangements Nephthys is too focused to handle |
+
+**Appearances:**
+- Last Appearance: Not yet written
+- Next Planned Appearance: Nephthys's chapters (Phase 1+)
+
+---
+
+### Arch-Prelate Malachi
+
+**Role:** Non-POV supporting (absent Book 1; potential POV Books 2-3)
+**Faction:** Flame (Church of Blessed Nitro leadership)
+**Primary Location:** Undisclosed (Church hierarchy)
+
+**Current Psychological State:**
+- Phase: N/A (supporting — absent Book 1)
+- Emotional State: Pragmatic, burdened
+- Dominant Beliefs: The Church serves the faithful. Some truths endanger the faithful. Suppression is pastoral care.
+- Internal Contradictions: Already knew Nephthys was right about the chorus. Excommunicated her to protect the Church from a truth it can't absorb without fracturing.
+
+**Function in Story:** The pragmatic suppressor. Book 1 backstory presence only — Nephthys's excommunication drives her arc. Books 2-3: potential POV as the Church fractures between those who follow Nephthys's theology and those who maintain orthodoxy. The institutional counterpart to Nephthys's prophetic voice.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nephthys | Excommunicated heretic | Background | Knew she was right. Excommunicated her anyway. The institution required it. |
+| Church hierarchy | Institutional | Controlling | Maintains orthodoxy; post-BLACKWEIR fractures begin |
+
+**Appearances:**
+- Last Appearance: Not yet written (Book 1 backstory only)
+- Next Planned Appearance: Referenced in Nephthys's chapters; potential direct appearance Books 2-3
+
+---
+
 ## Summary Table
 
 | Character | Phase | Arc | Key Relationships | Last Change |
@@ -558,6 +643,10 @@ This bible dimension tracks **current character states**:
 | Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
 | Kira | Pre-intro | Performer → Witness | Mage network, Audience, Academy | Not yet active |
 | Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Initial |
+| **Supporting** | | | | |
+| Marcus Thorne | N/A | (No arc — already finished) | Aurielle (mentee), Eduardo (deceased), Board | Initial |
+| Imani | N/A | (Supporting) | Nephthys (companion), Void Witnesses | Initial |
+| Malachi | N/A | (Absent Book 1) | Nephthys (excommunicated), Church hierarchy | Initial |
 
 ---
 
@@ -606,5 +695,5 @@ This bible dimension tracks **current character states**:
 
 ---
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-02-10_
 _Updated by: Living Bible Workflow_

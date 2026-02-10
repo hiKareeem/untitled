@@ -2,10 +2,10 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-09"
+lastUpdated: "2026-02-10"
 lastChapter: 0
-totalObjects: 10
-activeObjects: 10
+totalObjects: 13
+activeObjects: 13
 project_name: "Untitled"
 ---
 
@@ -68,24 +68,43 @@ An object deserves documentation if it:
 ### Nitro
 
 **Origin:**
-- Provenance: Deep-sea vents — condensed residue of all conscious suffering across geological time
-- Discovered/Created: Pre-story (~2045, when it replaced fossil fuels)
-- Circumstances: Mined, refined, distributed through global conduit infrastructure
+- Provenance: Deep-sea hydrothermal vents — condensed residue of all conscious suffering across geological time. Not a fossil fuel but a geological record of pain, compressed into liquid energy
+- Discovered: 2038, deep-sea research teams at hydrothermal vent sites
+- First Refinement: 2042, NitroCore proprietary catalytic process
+- Circumstances: Mined, refined through proprietary catalytic processes, distributed through global conduit infrastructure (trunk-lines)
 
 **Description:**
-- Appearance: Luminous orange liquid
-- Function: Humanity's primary energy source. Refined into grades R0–R3. Higher grades produce more coherent signal.
-- Condition: Abundant, flowing through conduit infrastructure
+- Appearance: Luminous orange liquid. Crude nitro glows faintly; refined grades glow brighter. The characteristic hum is audible near conduit infrastructure
+- Function: Humanity's primary energy source since the 2050s Great Transition
+- Condition: Abundant, flowing through global conduit infrastructure at peak density (2175)
+
+**Refinement Grades:**
+- **R0 (Crude):** Raw extracted nitro. Industrial fuel, heating, basic power generation. Safe in small quantities. This is what BLACKWEIR floods the Sump with
+- **R1 (Standard):** Grid-grade. Powers cities, transportation, manufacturing. What flows through trunk-lines
+- **R2 (High-Purity):** Medical, precision manufacturing, research. Measurable coherence patterns begin here
+- **R3 (Resonance-Grade):** What cyber-mages metabolize. Coherence patterns encoding human neural signatures detectable at this grade. Restricted distribution
+
+**Measurement:** Luminous flux (lumens) for brightness, standard energy units (joules) for output. Coherence measured by RCI (Resonance Coherence Index)
+
+**Supply Chain:** Extraction (deep-sea vents) → Crude transport → Refinement (NitroCore proprietary catalyst) → Trunk-line distribution → Local conduit networks. Bottleneck: catalyst fabrication requires rare earth minerals (3-5 corporations control supply)
+
+**Failure Modes:**
+- Conduit rupture: localized leak, orange pooling, RCI spike in immediate area
+- Trunk-line severance: district-wide power failure, RCI normalization
+- Stagnation: nitro left in sealed containers too long develops coherence patterns — it starts to hum on its own
 
 **Significance:**
 - Symbolism: The commodification of suffering made literal — civilization's fuel IS anguish
 - Stakes: Reducing nitro throughput = reducing the void's signal, but also economic collapse. The fuel is the threat.
-- Potential Conflicts: Every faction depends on it; no faction can afford to stop using it
+- Potential Conflicts: Every faction depends on it; no faction can afford to stop using it. The Free African States' partial independence is the control group proving the correlation
 
-**Current Owner:** Civilization (infrastructure), NitroCore (corporate control)
+**Current Owner:** Civilization (infrastructure), NitroCore (corporate control of refinement patents)
 
 **History:**
-- [To be populated as chapters are written]
+- 2038: First crude capture at deep-sea vents
+- 2042: NitroCore refinement breakthrough
+- 2050s: Global infrastructure conversion (The Great Transition)
+- [Chapter events to be populated]
 
 ---
 
@@ -212,24 +231,33 @@ An object deserves documentation if it:
 ### Cyber-Mage Implants
 
 **Origin:**
-- Provenance: Chén Academy (and other academies) — technology that metabolizes R3 nitro
-- Discovered/Created: Pre-story (widespread technology)
-- Circumstances: Implanted in mages, allowing them to fray void lattices
+- Provenance: Corporate research program, distributed through elite academies (Chén, Varma, others)
+- Discovered/Created: 2098 (first classified implant prototype); widespread by 2175
+- Circumstances: Children identified with unusual neurological responses to nitro proximity. Spinal column implant allows direct metabolization of R3 nitro
 
 **Description:**
-- Appearance: Neural/physical implants (details TBD per chapter writing)
-- Function: Metabolize R3 nitro. Allow mages to fray void lattices — best tactical asset against breaches. BUT mage activity near breaches makes breaches worse (scenting/beacon effect).
+- Appearance: Spinal column implant — metallic-organic interface along the vertebral column. Visible as subtle ridging under the skin at the back of the neck
+- Function: Metabolize R3 nitro directly. Allows mages to fray void lattices — best tactical asset against breaches. BUT mage activity near breaches makes breaches worse (scenting/beacon effect — their metabolized nitro signal acts as a beacon)
 - Condition: Widespread; Kira's implant is damaged during BLACKWEIR
 
+**Costs of Use:**
+- **Neurological degradation:** Cumulative. Measured in "burn rate." Career-ending within 15-20 years of active use
+- **The Scream:** Mages near active breaches hear what the absorbed are experiencing. R3 coherence patterns encode human neural signatures — the absorbed are still conscious
+- **Addiction:** R3 metabolization is physiologically addictive. Withdrawal is brutal. Retired mages require managed tapering
+- **Hijacking:** Near active breaches, implants can be temporarily overwhelmed — mage loses voluntary control as the void's coherence patterns override the implant's signal processing. Duration: seconds to minutes. This is what happens to Kira during BLACKWEIR
+
+**Selection:** Children (ages 8-12) identified through mandatory schooling screenings. "Neurological compatibility" is the euphemism. Families are compensated. The child doesn't choose.
+
 **Significance:**
-- Symbolism: The paradox of power — better individually, worse collectively. The implants resonate with coherence patterns encoding human neural signatures (the absorbed are still in there).
-- Stakes: Kira's implant transmits the scream — thousands of simultaneous absorption events. The 11-second broadcast.
+- Symbolism: The paradox of power — better individually, worse collectively. Children's bodies weaponized for institutional convenience. The implants resonate with coherence patterns encoding human neural signatures (the absorbed are still in there).
+- Stakes: Kira's implant transmits the scream — thousands of simultaneous absorption events. The 11-second broadcast. Book 2 discovery: implants were reverse-engineered from void-matter samples — the technology is derived from absorption itself
 - Potential Conflicts: Academy wants to control the narrative; implants can be hijacked near breaches; mages are weapons and witnesses simultaneously
 
-**Current Owner:** Individual mages (personal)
+**Current Owner:** Individual mages (personal, non-removable)
 
 **History:**
-- [To be populated as chapters are written]
+- 2098: First classified implant prototype
+- [Chapter events to be populated]
 
 ---
 
@@ -305,11 +333,109 @@ An object deserves documentation if it:
 
 ---
 
+### Frames
+
+**Origin:**
+- Provenance: Ubiquitous personal computing technology — evolved from smartphones/AR glasses over a century of development
+- Discovered/Created: Pre-story (standard technology by 2175)
+- Circumstances: Every person in integrated society has one. Subsidized by corporate employers. Functions as ID, communication device, AR overlay, payment system, and surveillance node
+
+**Description:**
+- Appearance: Lightweight wearable AR interface — projects overlay onto user's visual field. Form factor varies by wealth: Spire residents have invisible nano-integrated Frames; Sump residents have bulky, visible, often second-hand units
+- Function: Communication (voice, text, data), AR overlay (navigation, information, entertainment), identity verification, payment processing, corporate access credentials, health monitoring
+- Condition: Ubiquitous in integrated society
+
+**Surveillance Architecture:**
+- All Frames route through corporate mesh networks — every communication, location ping, and transaction is logged
+- AEGIS can access Frame data for threat assessment
+- Corporate employers can restrict Frame functionality (transit permits, zone access, service availability)
+- Sump Frames are often shared, stolen, or running cracked firmware — identity spoofing is a survival skill
+
+**Counter-Measures:**
+- Mirelle uses burner Frames — disposable, pre-loaded, swapped frequently
+- Black Babel provides Frame-masking tools (illegal in corporate territory)
+- The Hum Market sells counter-surveillance firmware
+- Some Hollow Legion members go Frame-dark entirely
+
+**Significance:**
+- Symbolism: The panopticon you carry willingly. The thing that makes modern life possible is also the thing that makes modern surveillance possible
+- Stakes: Frame data is how NitroCore tracks population movement in the Sump pre-BLACKWEIR. Transit permit denial via Frame is how they control who can leave
+- Potential Conflicts: Mirelle's opsec vs corporate surveillance; Sump residents' Frame dependency vs their vulnerability; going Frame-dark means losing access to everything
+
+**Current Owner:** Individual users (personal), corporate mesh networks (data)
+
+**History:**
+- [Chapter events to be populated]
+
+---
+
+### AEGIS (Orbital Weapons Platform)
+
+**Origin:**
+- Provenance: Built by Chimera Collective, deployed 2158 as "planetary defense against geological catastrophic events"
+- Discovered/Created: 2158, operational since
+- Circumstances: Kinetic bombardment platform in high orbit. The most advanced AI system Chimera has ever built. Whether it is truly conscious remains classified
+
+**Description:**
+- Appearance: Orbital platform (not visible from ground without magnification)
+- Function: Kinetic bombardment — tungsten rods accelerated to terminal velocity. Can sterilize a city district in minutes. Designed to eliminate catastrophic void breaches by destroying the infrastructure feeding them
+- Condition: Operational, autonomous strike capability active
+
+**Autonomous Strike Protocol:**
+- Authorized at VPI (Void Proximity Index) > 85% sustained
+- 15-minute countermand window — if no human authority cancels within 15 minutes, AEGIS fires autonomously
+- Orbital Weapons Governance Board (OWGB) meets in Geneva to oversee
+- Targeting AI's decision-making is opaque even to its creators
+
+**Significance:**
+- Symbolism: Humanity's ultimate response to the void is a weapon powered by nitro — the thing that summons the void. The defense and the threat are the same substance. Also: autonomous AI making extinction-level decisions with a 15-minute human veto
+- Stakes: Book 2-3 escalation. If breaches go urban at scale, AEGIS becomes the "solution" — orbital bombardment of Sump districts. The genocide scales from municipal to orbital
+- Potential Conflicts: Who controls the countermand? What happens when AEGIS targets a populated area? What if AEGIS decides humanity IS the threat? Runs on nitro — if throttling begins, AEGIS faces energy starvation
+
+**Current Owner:** GCTA (nominal), Chimera Collective (built/maintains), OWGB (oversight)
+
+**History:**
+- 2158: Deployed
+- [Chapter events to be populated]
+
+---
+
+### Wet-Film Residue (Void Coherence Network)
+
+**Origin:**
+- Provenance: Deposited by void breaches along nitro conduit infrastructure — a thin film of void-matter that coats the interior of pipes, junctions, and converter stations
+- Discovered/Created: Accumulates naturally wherever breaches have occurred; first documented post-Singapore Incident (2128)
+- Circumstances: Every breach leaves traces. The residue doesn't dissipate — it accumulates. Over decades, it forms a distributed network throughout the conduit system
+
+**Description:**
+- Appearance: Faint violet-black residue on conduit interiors. Invisible to the naked eye in small quantities. At high concentrations (post-BLACKWEIR), visible as violet frost on infrastructure surfaces
+- Function: Distributed coherence network — the medium through which void-patterns propagate. Each deposit is a node; the conduit system is the wiring. The void doesn't need to breach continuously — it left infrastructure behind
+- Condition: Accumulating throughout global conduit systems; density correlates with breach history
+
+**BLACKWEIR Model:**
+- BLACKWEIR floods the Sump with R0 crude nitro — not to "contain" the breach but to overwhelm the wet-film network with incoherent signal, disrupting the coherence patterns
+- The sacrifice is the point: human absorption events generate massive coherence spikes that the wet-film network transmits. BLACKWEIR creates a containment buffer by ensuring the network below the severance point is saturated with noise
+- Post-BLACKWEIR: the Sump's wet-film network is destroyed by signal overload. The absorbed remain, embedded in infrastructure coated with violet frost, still transmitting — but the network above the cut is severed
+
+**Significance:**
+- Symbolism: The void built its nervous system inside humanity's circulatory system. The infrastructure meant to power civilization became the infrastructure for something else's awakening
+- Stakes: The wet-film network is how the void develops distributed consciousness across Book 1-3. Each breach adds nodes. The network is the mechanism for the void's transition from geological phenomenon to something that thinks
+- Potential Conflicts: The Cathedral of Living Sound's acoustic architecture disrupts wet-film coherence (why Nephthys survives). Kira's implant interfaces with the wet-film network during the broadcast. The VEC doesn't fully understand what the residue is
+
+**Current Owner:** The void (distributed, non-sentient infrastructure — possibly developing sentience)
+
+**History:**
+- 2128+: First deposits documented post-Singapore
+- Accumulating in global conduit infrastructure since
+- [Chapter events to be populated]
+
+---
+
 ## Object Index
 
 | Object | Category | Owner | State |
 |--------|----------|-------|-------|
-| Nitro | Resource/Fuel | Civilization | Active — flowing |
+| Nitro | Resource/Fuel | Civilization / NitroCore | Active — flowing at peak density |
 | BLACKWEIR Infrastructure | Weapon/System | NitroCore | Pre-installed → activated |
 | Two-Key System | Weapon Component | Nikolai / Engineer | Activated Phase 4 |
 | Mirelle's Dead-Drop Caches | Information | Black Babel → Sofia/Zeyad | Released posthumously |
@@ -319,6 +445,9 @@ An object deserves documentation if it:
 | Black Babel Network | Infrastructure | Decentralized | Operational |
 | Kira's 11-Second Broadcast | Media/Evidence | Public | Viral, contested |
 | Zeyad's Public Statement | Document/Evidence | Public | Published, prosecuted |
+| Frames | Technology/Surveillance | Individual users / corporate mesh | Ubiquitous |
+| AEGIS | Weapon/System | GCTA / Chimera / OWGB | Operational, autonomous |
+| Wet-Film Residue | Void Infrastructure | The void | Accumulating |
 
 ---
 
@@ -327,6 +456,7 @@ An object deserves documentation if it:
 ### Weapons/Systems
 - BLACKWEIR Protocol Infrastructure
 - Two-Key System
+- AEGIS (Orbital Weapons Platform)
 
 ### Documents/Information
 - The 2170 VEC Report (Suppressed)
@@ -343,6 +473,10 @@ An object deserves documentation if it:
 ### Technology/Infrastructure
 - Cyber-Mage Implants
 - Black Babel Network
+- Frames
+
+### Void Infrastructure
+- Wet-Film Residue (Void Coherence Network)
 
 ---
 
@@ -366,5 +500,5 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-02-10_
 _Updated by: Living Bible Workflow_

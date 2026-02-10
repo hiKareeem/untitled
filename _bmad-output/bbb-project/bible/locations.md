@@ -2,10 +2,10 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-09"
+lastUpdated: "2026-02-10"
 lastChapter: 0
-totalLocations: 12
-activeLocations: 0
+totalLocations: 18
+activeLocations: 13
 project_name: "Untitled"
 ---
 
@@ -150,7 +150,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ### Spires
 
-**Description:** 500m to ~3.5km altitude. Corporate towers, self-contained vertical districts. NitroCore Tower dominates. Gleaming, abundant, insulated. Energy is cheap here; space is expensive. The view from above is pristine.
+**Description:** 500m to ~3.5km altitude. Corporate towers, self-contained vertical districts — each essentially a self-contained city owned and operated by a specific corporation or consortium: NitroCore Spire, Helix Spire, Chimera Spire, Government Spire (PCC administrative offices). State-of-the-art conduit systems: sealed, monitored, real-time RCI dampening. The hum is nearly inaudible. Spire residents have never heard the hum the way Sump residents hear it.
 
 **Stratum:** Highest
 **RCI Range:** <5
@@ -242,27 +242,109 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-## Narrative Map — Secondary Locations
+### Conduit Junction 7
 
-### New Geneva
+**Description:** The critical node at the Sump/Mid-Level boundary where trunk-line throughput is highest (serving the densest population) and infrastructure is oldest. Six trunk-lines from the Confluence route upward through here into the Mid-Levels. This is where BLACKWEIR severance occurs — severing charges fire, transit shafts collapse, blast doors drop, all conduit connections upward physically destroyed.
 
-**Description:** UGC political center. Legacy city, low RCI. Where the Accords are administered, where diplomatic crises are "managed." Zeyad's grandfather's portrait hangs in the committee chamber.
-
-**Characters Present:** Zeyad Al-Fahim
+**Characters Present:** Nikolai (BLACKWEIR execution — turns one of the two physical keys)
 
 **Resources:**
-- Diplomatic infrastructure
-- Accords framework (legal)
-- Classified intelligence channels
+- Highest throughput junction above the Confluence
+- BLACKWEIR controller hardware (physically hardened)
+- Two-key execution system (one military, one civic)
 
 **Dangers:**
-- Institutional impotence
-- Classified information suppression
+- BLACKWEIR severance point — this is where the ceiling falls
+- Post-severance: all communications above the cut collapse; only ELF/VLF bedrock pings (1-2 bit status) transmit upward
 
 **Key Events:**
 - [To be populated as chapters are written]
 
-**Significance:** The place where records are kept and justice is procedural. The Accords tribunal convenes here — not for NitroCore, but for Zeyad, for leaking.
+**Significance:** Control this junction and you control whether the breach travels up or stays down. The BLACKWEIR decision focuses here. Post-severance, the people above cannot change what's happening below; the people below cannot call for help.
+
+**Current State:** Operational pre-BLACKWEIR; severed post-BLACKWEIR
+
+**Controlled by:** NitroCore (infrastructure), Void Stalkers (military access during operations)
+
+---
+
+### The Resonance District
+
+**Description:** A Deep Sump neighborhood built directly on top of first-generation trunk-lines. Chronic high RCI. High nitro-ear rates among residents. High Hollow Legion membership. Home to the Confluence beneath it. The breach originates here and propagates upward — by the time it's detected at Sump level, the Deep Sump is already gone.
+
+**Stratum:** Deep Sump (surface)
+**RCI Range:** 30–40+ (chronic)
+
+**Characters Present:** Fuxi (work proximity)
+
+**Dangers:**
+- Ground zero for the breach
+- Chronic high RCI exposure
+- First area consumed during BLACKWEIR
+
+**Significance:** The neighborhood most directly built on top of the thing that kills it. Residents live their entire lives over the loudest part of the scream without knowing what they're hearing.
+
+**Current State:** Populated pre-BLACKWEIR; obliterated post-BLACKWEIR
+
+**Controlled by:** Neutral (residents, Hollow Legion presence)
+
+---
+
+### The Hum Market
+
+**Description:** Open-air market district in the Sump near a major conduit line. Named for the ever-present sound. Orange glow from conduit lines is the dominant light source. Where ampoules are traded, Frames are repaired, identity credentials are leased, and information moves. Chop shops, black-market mesh hardware, counter-surveillance tools.
+
+**Stratum:** Sump
+**Characters Present:** Fuxi (commerce), Mirelle (contacts/sources)
+
+**Resources:**
+- Black-market nitro ampoules and canisters (commerce)
+- Frame repair yards (technical services)
+- Identity credential leasing (survival infrastructure)
+- Information brokering (Black Babel adjacent)
+- Counter-surveillance tools (illegal in corporate territory)
+
+**Dangers:**
+- Elevated RCI near conduit lines
+- Corporate security raids (intermittent)
+- BLACKWEIR flood zone
+
+**Key Events:**
+- [To be populated as chapters are written]
+
+**Significance:** The economic heart of the Sump. Where Mirelle cultivates her "seedy connections at every social level." Where the formal economy and black market overlap.
+
+**Current State:** Active pre-BLACKWEIR; scoured post-BLACKWEIR
+
+**Controlled by:** Neutral (market operators, Kindling presence)
+
+---
+
+## Narrative Map — Secondary Locations
+
+### New Geneva
+
+**Description:** Deliberately preserved as a "legacy" political capital. Lower than other major cities — no Spires, deliberate height restrictions, parks and lakefront maintained as political theater. Where other cities rebuilt around nitro, Geneva maintained significant conventional infrastructure alongside nitro integration — partly Swiss political tradition, partly because Accords signatories wanted a neutral meeting ground not dependent on any single corporation's grid. The hum is present but muted. It feels like the past — which is either a refuge or an anachronism depending on who's visiting. Zeyad's grandfather's portrait hangs in the committee chamber.
+
+**Characters Present:** Zeyad Al-Fahim
+
+**Resources:**
+- Diplomatic infrastructure (UGC headquarters)
+- Accords framework (legal — renegotiated at regular intervals)
+- Classified intelligence channels
+- Orbital Weapons Governance Board (AEGIS oversight meets here)
+- Faction embassies and delegations
+
+**Dangers:**
+- Institutional impotence
+- Classified information suppression
+- Political theater masking real power (which resides in the Spires)
+
+**Key Events:**
+- 2044: Nitro Accords signed here
+- [To be populated as chapters are written]
+
+**Significance:** Where faction representatives meet, negotiate, and betray each other. The GRRM "King's Landing" — power contested through words, votes, and backroom deals rather than breaches and orbital strikes. Book 2's political machinations play out here — where the decision to normalize sacrifice districts is debated, where AEGIS strike authority is contested.
 
 **Current State:** Operational
 
@@ -311,15 +393,29 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ### Singapore
 
-**Description:** VEC HQ location. Site of the 2128 incident. Contains a sealed chamber. Aurielle may authorize BLACKWEIR from here via remote feed.
+**Description:** Rebuilt after the 2128 incident but never fully recovered psychologically. The original breach site — NitroCore Deep Research Facility 1 — was sealed and quarantined. Three absorbed researchers still stand inside the sealed chamber, monitored continuously by the VEC for 47 years — not dead, not alive, transformed into void-matter. The zone around the facility is a permanent low-occupancy buffer. Also a major PCC financial hub and hosts several Chimera Collective data centers.
 
-**Characters Present:** Aurielle (possible remote authorization)
+**Characters Present:** Aurielle (possible remote authorization), Sofia (VEC Asia-Pacific)
 
-**Significance:** Historical weight — the 2128 incident and its sealed chamber represent institutional suppression of void knowledge.
+**Resources:**
+- VEC Asia-Pacific headquarters (institutional)
+- Longest-running void monitoring data (47 years)
+- Chimera Collective data centers (AI infrastructure)
+- Financial hub (PCC)
+
+**Dangers:**
+- Proximity to original breach site
+- Psychological weight of the sealed chamber
+
+**Key Events:**
+- 2128: First documented void breach — 12 researchers killed/absorbed
+- 2128+: Three absorbed researchers discovered standing in sealed chamber
+
+**Significance:** Characters who visit Singapore confront the origin of the crisis. The sealed chamber is the world's first evidence that absorption isn't simple death — and the VEC has been watching them for 47 years without understanding what they're seeing.
 
 **Current State:** Operational
 
-**Controlled by:** VEC
+**Controlled by:** VEC (regional HQ), PCC (financial)
 
 ---
 
@@ -337,37 +433,126 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
+### Free African States
+
+**Description:** A confederation of states that resisted full nitro integration during the Uplift Protocols. Maintained solar, nuclear, and battery infrastructure as primary power sources. Their nitro grid is thin — low-density conduit networks serving critical facilities rather than entire cities. Democratic governance (messy, fractious, but functional). Viewed by the Grid as backward, by the Root as a model, by the Flame as godless, and by the Lens as potentially the most important dataset in the world.
+
+**Characters Present:** [No current POV characters — potential Book 2/3 setting]
+
+**Resources:**
+- Partial energy independence (legacy + limited nitro)
+- The lowest breach rate on Earth (buried in VEC data)
+- Democratic governance infrastructure
+- Political independence from corporate blocs
+
+**Dangers:**
+- Isolation from global corporate infrastructure
+- Potential target if Grid/Sword decides their independence threatens global containment strategy
+
+**Key Events:**
+- 2044: Negotiate special Accords provisions maintaining partial energy independence
+- 2053–2059: Survive Resource Wars relatively intact by refusing full nitro integration
+- 2085: Resist full Uplift Protocol integration
+
+**Significance:** **Chekhov's gun.** If nitro density correlates with breach probability, the region using the least nitro should have the fewest breaches. This data exists and is part of the suppressed evidence trail. The FAS is the control group that proves the correlation — critical evidence in Book 2.
+
+**Current State:** Operational, independent, increasingly isolated
+
+**Controlled by:** Confederation of democratic states
+
+---
+
+### Varma Academy, Mumbai
+
+**Description:** Elite cyber-mage training academy in the South Asian Federation. Kira's academy. One of several globally (see also: Chén Academy, Neo-Shanghai). Corporate-operated, prestigious, family-dynasty mages trained here.
+
+**Characters Present:** Kira (graduated — backstory location)
+
+**Significance:** Kira's origin. Where she was trained to metabolize R3 nitro and use her abilities as performance spectacle. The pop-star pipeline for mages — different packaging from battlefield deployment, same extraction of a child's body for someone else's benefit.
+
+**Current State:** Operational
+
+**Controlled by:** Varma Academy (institutional, corporate-affiliated)
+
+---
+
+### Orbital / AEGIS Platform
+
+**Description:** Humanity has a permanent but limited presence beyond Earth. Several large orbital stations in LEO and GEO serve as manufacturing platforms, research facilities, corporate headquarters, and military installations. AEGIS operates from a dedicated platform in high orbit. Two to three permanent lunar bases (10,000–20,000 total residents). A single small Mars research outpost (~500 people). Nitro IS used in orbital operations — the most efficient fuel for space habitation energy demands.
+
+**Resources:**
+- AEGIS orbital kinetic bombardment platform
+- Chimera Collective orbital data center
+- Lunar mining operations (rare earth, helium-3)
+- Manufacturing platforms
+
+**Dangers:**
+- Orbital breach vulnerability — no evacuation route, no geography to sacrifice
+- AEGIS itself runs on nitro — the weapon pointed at the void is powered by the thing that summons it
+
+**Significance:** Book 3 pressure point. If Earth's nitro infrastructure is throttled, orbital/lunar populations face energy starvation. The strategic paradox at planetary scale.
+
+**Current State:** Operational
+
+**Controlled by:** Mixed (corporate, military, GCTA nominal oversight)
+
+---
+
+## Geopolitical Blocs
+
+| Bloc | Territory | Character | Nitro Relationship |
+|------|-----------|-----------|-------------------|
+| **Pacific Corporate Coalition (PCC)** | East/Southeast Asia, Pacific Rim | Corporate-governed; Neo-Shanghai is the jewel | Fully integrated; highest nitro density on Earth |
+| **Euro-Asian Energy Bloc (EAEB)** | Europe, Central Asia, Russia | Mixed state/corporate governance; Geneva is political capital | Heavily integrated but stronger state regulation |
+| **Free African States (FAS)** | Sub-Saharan Africa | Most independent; resisted full integration | Partial nitro use; maintained legacy energy; lowest breach rates |
+| **Americas Compact** | Americas | Fragmented — corporate coasts, ungoverned interior. Former US shattered by Cascade Crisis and Resource Wars | Heavy coast integration; interior on legacy/black-market nitro |
+| **South Asian Federation** | South Asia | Dense population, democratic but corporate-penetrated | Very high integration; multiple Spire cities; high Sump populations |
+| **Greater Middle Eastern League** | Middle East | Post-petroleum identity crisis; mixed adoption | Some regions highest consumers, others maintain independence |
+| **Oceanic Territories** | Pacific Islands, Oceania | Low population; extraction-heavy (offshore vent access) | Extraction-focused rather than consumption-focused |
+
+---
+
 ## Location Index
 
-| Location | Stratum | Characters | Controlled By | State |
-|----------|---------|------------|---------------|-------|
+| Location | Stratum/Region | Characters | Controlled By | State |
+|----------|----------------|------------|---------------|-------|
 | Deep Sump | Lowest | Fuxi (work) | NitroCore / Hollow Legion | Operational → Scoured |
 | Sump | Low | Fuxi, Nuwa, Nephthys | Neutral / Church | Populated → Scoured |
 | Mid-Levels | Middle | Nikolai, Mirelle | Mixed | Operational |
 | Spires | Highest | Aurielle | NitroCore / Corporate | Operational |
 | The Confluence | Sub-Deep Sump | None | NitroCore (automated) | Active / Escalating |
+| Conduit Junction 7 | Sump/Mid boundary | Nikolai (BLACKWEIR) | NitroCore / Stalkers | Operational → Severed |
+| The Resonance District | Deep Sump surface | Fuxi (proximity) | Neutral / Hollow Legion | Populated → Obliterated |
+| The Hum Market | Sump | Fuxi, Mirelle | Market operators | Active → Scoured |
 | Cathedral of Living Sound | Sump | Nephthys, Imani | Church → Nephthys | Standing (survives) |
 | NitroCore Tower | Spires | Aurielle, Thorne | NitroCore | Operational |
-| New Geneva | Secondary | Zeyad | UGC | Operational |
-| European Outlands | Secondary | Nephthys, Imani | Abandoned | Depopulated |
-| Arctic-7 | Secondary | Vantanen (prologue) | Classified | Contained |
-| Singapore | Secondary | (Aurielle remote) | VEC | Operational |
+| New Geneva | EAEB | Zeyad | UGC | Operational |
+| European Outlands | EAEB | Nephthys, Imani | Abandoned | Depopulated |
+| Arctic-7 | Remote | Vantanen (prologue) | Classified | Contained |
+| Singapore | PCC | Sofia, (Aurielle remote) | VEC / PCC | Operational |
 | Chén Academy | Mid-Levels | — | Academy | Operational |
+| Free African States | FAS | — | Democratic confederation | Independent |
+| Varma Academy, Mumbai | South Asian Fed | Kira (graduated) | Academy | Operational |
+| Orbital / AEGIS | Space | — | Mixed (military/corporate) | Operational |
 
 ---
 
 ## Locations by Category
 
 ### Active Locations (pre-BLACKWEIR)
-- Deep Sump, Sump, Mid-Levels, Spires, NitroCore Tower, New Geneva, Chén Academy
+- Deep Sump, Sump, Mid-Levels, Spires, NitroCore Tower, Conduit Junction 7, Resonance District, Hum Market, New Geneva, Chén Academy, Singapore, Free African States, Orbital/AEGIS
 
 ### Transformed Locations (post-BLACKWEIR)
 - Deep Sump → scoured, violet frost, absorbed embedded in infrastructure
 - Sump → scoured, depopulated, hum of the absorbed
+- Resonance District → obliterated (ground zero)
+- Hum Market → scoured
+- Conduit Junction 7 → severed, physically destroyed
 
 ### Dormant Locations
 - Arctic-7 (prologue only, classified)
 - European Outlands (pilgrimage transit)
+- Varma Academy, Mumbai (Kira backstory)
 
 ### Destroyed/Inaccessible Locations
 - None yet (Sump is transformed, not destroyed — infrastructure coated in violet frost, absorbed still present)
@@ -391,5 +576,5 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-02-10_
 _Updated by: Living Bible Workflow_
