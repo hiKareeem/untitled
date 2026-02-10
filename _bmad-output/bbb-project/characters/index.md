@@ -110,4 +110,20 @@ This index tracks all characters in the story bible.
 
 ---
 
+## Kira
+
+**File:** [kira-dossier.md](./kira-dossier.md)
+
+**Created:** 2026-02-09
+
+**Role:** POV #8 — Cyber-mage (Varma Academy, Mumbai), streamer/performer, PCC Bay Area, 3–4 chapters, enters late Phase 1 or early Phase 2
+
+**Status:** COMPLETE (Autonomous Mode + Collaborative Review)
+
+**Summary:** Twenty-year-old third/fourth-generation cyber-mage from PCC Bay Area generational mage aristocracy. Former pop star turned content creator/streamer with hundreds of thousands of viewers. R3 spinal implant fitted at age 10, trained at Varma Academy in Mumbai. Her Lie — "if she controls the platform, she controls the narrative of what she is" — sustains her through the grind of streaming, the exhaustion of a career that started before she could consent to it, and the growing hum in her implant she attributes to burnout. Uses performance as armor; substitutes audience for intimacy. The mage confessions building in her private messages are testimony she doesn't recognize as evidence. BLACKWEIR fires every absorbed person's neural signature through her implant simultaneously — 11 seconds live on camera, the performer's scream replaced by the real one. Medical recovery, Academy pressure, refuses to sign the "equipment malfunction" retraction. Not heroism — exhaustion weaponized into autonomy. Performer → Witness. The scream is public. She is not.
+
+**Key structural note:** Kira is the mage-as-media lens. Her platform transforms from cage to weapon; her audience transforms from consumers to witnesses. The Hana thread (younger sister in the mage pipeline) provides personal stakes beyond Kira's own experience. Autobiographical resonance with the author — socioeconomic standing, heritage, predetermined decisions, streaming ecosystem.
+
+---
+
 _Last updated: 2026-02-09_

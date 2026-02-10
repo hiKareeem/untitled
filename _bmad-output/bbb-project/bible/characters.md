@@ -449,8 +449,8 @@ This bible dimension tracks **current character states**:
 ### Kira
 
 **Role:** POV #8 (3–4 chapters, enters late Phase 1 or early Phase 2)
-**Faction:** Mage (Chén Academy)
-**Primary Location:** Neo-Shanghai Mid-Levels
+**Faction:** Mage (Varma Academy, Mumbai)
+**Primary Location:** PCC Bay Area (streams globally; trained in Mumbai)
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
@@ -470,7 +470,7 @@ This bible dimension tracks **current character states**:
 |-----------|--------|----------|---------|
 | Academy mages | Confidante network | Growing | Private messages; comparing notes on implant signals during incursions |
 | Streaming audience | Performance | Surface | Hundreds of thousands of viewers; armor and cage |
-| Chén Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
+| Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
 
 **Current Arc:** Performer → Witness
 - Current Phase: Pre-introduction
@@ -480,7 +480,7 @@ This bible dimension tracks **current character states**:
 **Phase Trajectory:**
 | Phase | State | Key Event |
 |-------|-------|-----------|
-| 1→2/5 | Streaming from Academy; suppressing minor scream episodes | Introduction; performance as normalcy |
+| 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction; performance as normalcy |
 | 2/5 | Mage confides — felt absorbed "pulling" at implant during incursion | Private mage chat; structured patterns like language |
 | 3/5 | Larger incursion; scream overwhelming; barely holds on stream | The scream has meaning — implants encode neural signatures |
 | 4/5 | BLACKWEIR — the scream is catastrophic; 11 seconds live | Every absorbed person's signature through her implant simultaneously |

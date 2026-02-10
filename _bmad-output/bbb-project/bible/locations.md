@@ -124,7 +124,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Stratum:** Middle
 **RCI Range:** 8–15
-**Characters Present:** Kira (Chén Academy), Nikolai (deployed), Mirelle (mobile)
+**Characters Present:** Nikolai (deployed), Mirelle (mobile)
 
 **Resources:**
 - Commercial districts (abundant)
@@ -325,9 +325,9 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ### Chén Academy
 
-**Description:** Mage training facility in Neo-Shanghai's Mid-Levels. Where Kira streams, where mages learn to metabolize R3 nitro, where the scream builds.
+**Description:** Mage training facility in Neo-Shanghai's Mid-Levels. Where mages learn to metabolize R3 nitro, where the scream builds. One of several elite academies globally (see also: Varma Academy, Mumbai).
 
-**Characters Present:** Kira
+**Characters Present:** [No current POV characters]
 
 **Significance:** The institution that produces mages — the paradox weapons that are tactically useful but aggregately dangerous near breaches.
 
@@ -343,7 +343,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 |----------|---------|------------|---------------|-------|
 | Deep Sump | Lowest | Fuxi (work) | NitroCore / Hollow Legion | Operational → Scoured |
 | Sump | Low | Fuxi, Nuwa, Nephthys | Neutral / Church | Populated → Scoured |
-| Mid-Levels | Middle | Kira, Nikolai, Mirelle | Mixed | Operational |
+| Mid-Levels | Middle | Nikolai, Mirelle | Mixed | Operational |
 | Spires | Highest | Aurielle | NitroCore / Corporate | Operational |
 | The Confluence | Sub-Deep Sump | None | NitroCore (automated) | Active / Escalating |
 | Cathedral of Living Sound | Sump | Nephthys, Imani | Church → Nephthys | Standing (survives) |
@@ -352,7 +352,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 | European Outlands | Secondary | Nephthys, Imani | Abandoned | Depopulated |
 | Arctic-7 | Secondary | Vantanen (prologue) | Classified | Contained |
 | Singapore | Secondary | (Aurielle remote) | VEC | Operational |
-| Chén Academy | Mid-Levels | Kira | Academy | Operational |
+| Chén Academy | Mid-Levels | — | Academy | Operational |
 
 ---
 

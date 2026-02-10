@@ -97,7 +97,7 @@ Book 1 opens with 9 POV characters plus a prologue character (Dr. Elise Vantanen
 | 5 | Nikolai | Sword (Void Stalker) | Neo-Shanghai (deployed) | Doctrine as survival | 20yr veteran; deployed to contain → caught in BLACKWEIR; loses Jarek; absorbed speaks his name |
 | 6 | Fuxi | Root (Sump conduit tech) | Neo-Shanghai Sump | Complicity in systems | Maintains infrastructure; radicalized toward Kindling; Nuwa trapped in BLACKWEIR |
 | 7 | Sofia Reyes | VEC (researcher) | Neo-Shanghai / VEC HQ | Moral obligation, scientific discovery | Curiosity-driven; VEC shuts her down; seeks Black Babel; inherits Mirelle's work posthumously |
-| 8 | Kira | Mage (Chén Academy) | Neo-Shanghai | Personhood, platform, the scream | Pop star→streamer; suppresses scream; confidante to mages; on-stream break |
+| 8 | Kira | Mage (Varma Academy, Mumbai) | PCC Bay Area | Personhood, platform, the scream | Pop star→streamer; suppresses scream; confidante to mages; on-stream break |
 | 9 | Nuwa | Unaffiliated (Sump civilian) | Neo-Shanghai Sump | Cost of survival, expendability | Daily grind; dreams of better implant; survives BLACKWEIR genocide; weight of survival |
 
 #### Character Psychological Profiles
@@ -207,7 +207,7 @@ There is no personal antagonist. The opposition is **institutional inertia** —
 |---------|----------|-----------|-----------|----------|
 | Deep Sump | Below ground to -200m | — | 25-40+ | Trunk-lines, converter stations, oldest infrastructure, Hollow Legion territory |
 | Sump | Ground level to ~50m | Fuxi, Nuwa, Nephthys (arriving) | 15-25 | Old city surface, residential, Church halls, markets, labor pool |
-| Mid-Levels | 50m to ~500m | Kira, Nikolai (deployed), Mirelle (mobile) | 8-15 | Commercial, residential, transit hubs, Chén Academy |
+| Mid-Levels | 50m to ~500m | Nikolai (deployed), Mirelle (mobile) | 8-15 | Commercial, residential, transit hubs, Chén Academy |
 | Spires | 500m to ~3.5km | Aurielle | <5 | Corporate towers, self-contained vertical districts, NitroCore Tower |
 
 **The Confluence**: The breach origin point. Beneath the Resonance District in Deep Sump, where six first-generation trunk-lines converge at the highest-throughput conduit junction in the city. Automated, skeleton-crew maintenance. The void doesn't invade Neo-Shanghai from outside — it blooms upward from the city's own circulatory system.
@@ -402,7 +402,7 @@ The world works. It shouldn't, but it does. Each POV is introduced inside a syst
 - **Fuxi:** Routine conduit maintenance in Deep Sump. Strange readings on trunk-line monitors — fluctuations that don't match scheduled load changes. Nuwa wants him to request a Mid-Level transfer; he can't without losing seniority. Conflict = loyalty to stability vs. growing unease.
 - **Sofia:** Atmospheric monitoring at VEC. Anomalous low-frequency data that doesn't match any known pattern. Her supervisor dismisses it as instrument drift. Conflict = scientific curiosity vs. institutional disinterest.
 - **Zeyad:** New Geneva, managing routine Nitro Accord compliance. His grandfather's legacy is the framework everyone invokes but nobody enforces. A classified briefing mentions "Arctic-7 containment" without detail. Conflict = duty to a system he's beginning to suspect is theatre.
-- **Kira:** (Introduced late Phase 1 or early Phase 2) Streaming from Chén Academy. Managing her public persona, suppressing minor scream episodes. Conflict = performance as identity; the gap between what mages are and what the public needs them to be.
+- **Kira:** (Introduced late Phase 1 or early Phase 2) Streaming from PCC Bay Area. Managing her public persona, suppressing minor scream episodes. Conflict = performance as identity; the gap between what mages are and what the public needs them to be.
 
 **Character evolution (Phase 1 state):**
 - **Aurielle:** Believes competence + good intentions can reform the system from within → Confident, naive
