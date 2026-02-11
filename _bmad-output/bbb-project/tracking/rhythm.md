@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 8"
+lastChapter: "Chapter 9"
 totalChapters: 53
-analyzedChapters: 9
+analyzedChapters: 10
 project_name: "Untitled"
 ---
 
@@ -981,6 +981,122 @@ Ch 8 is a deliberately lower-tension chapter — domestic texture, not instrumen
 
 ---
 
+## Chapter 9 — Mirelle: "Dead Drop"
+
+**Phase:** 1 | **Mode:** TEXTURE (investigative/tradecraft) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,200 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~55 | — | — |
+| Dialogue % | ~25% | 10–25% | ✅ |
+| Avg sentence length | ~13 words | 12–16 | ✅ |
+| Fragment % | ~20% | 15–25% | ✅ |
+| Em dash usage | ~25 | 12–25 | ✅ |
+| Negation-before-assertion | 5 | 2–4 | ⚠️ Slightly high; fits investigative voice |
+| Sensory: sound dominant | Yes | Yes (Mirelle) | ✅ |
+| Anti-slop violations | 0 | 0 | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |
+ 6 |              ●
+ 5 |            ╱   ╲
+ 4 |    ●─────╱       ╲───●
+ 3 |  ╱                     ╲
+ 2 |●                         ●
+   +─────────────────────────────
+     Sc1      Sc2      Sc3   Sc4
+```
+
+- **Opening:** 3/10 — Methodical: evidence inventory, three rows, tradecraft preparation
+- **Approach:** 4/10 — Operational tension: counter-surveillance, hum intensifying, nitro-ear
+- **Exchange peak:** 6/10 — Professional transaction escalating to dead-hand registration; Talia's observation
+- **Closing:** 3/10 — Processing: Feed notice, brightline ascent, seventy-two hours
+- **Shape:** Investigative build with transactional peak — methodical preparation → operational approach → professional exchange → solitary processing. Tension peaks at the dead-hand registration (the commitment point) but never spikes — appropriate for a chapter where the danger is structural, not immediate.
+
+### Beat Map
+
+1. [2%] HOOK — "The room cost four hundred credits a week and smelled like the last occupant's cooking oil." → +1
+2. [5%] TEXTURE — Three rows: paper, data, analysis. Investigation as inventory. → 0
+3. [10%] REVEAL — 16 disappearances, 5 sectors. Bai Lin (earliest), Ramos (most recent). → +1
+4. [15%] INSIGHT — "The infrastructure is eating its workers" — raw register, unpublished voice. → 0
+5. [20%] CHARACTER — Stylus, Abidjan bureau, "removing her removed the story." → +1
+6. [25%] TRANSITION — Leaves room. Mechanical lock. Variation B. → 0
+7. [30%] TEXTURE — Counter-surveillance: reflective surface, food vendor, trunk-line underpass. → +1
+8. [38%] SENSORY — Resonance District: hum deepens, physical pressure, nitro-ear. → +1
+9. [42%] TEXTURE — District: counter-surveillance hardware, Hollow Legion, readings above 30. → 0
+10. [48%] ARRIVAL — Node: repair shop front, Cantonese phrase, sliding door. → +1
+11. [52%] CHARACTER — Talia introduced: luminescent ring, gray coverall, data interface. → 0
+12. [55%] EXCHANGE — Package deposited. Contents listed. "That's a pattern." / "That's the story." → +1
+13. [62%] DECISION — "Dead-hand registration." The commitment. → +2
+14. [68%] NEGOTIATION — Terms, recipients, architecture. Babel price: metadata. → 0
+15. [72%] PEAK — "You're not sure you'll be around when it is." Stylus. "Register the dead-hand." → +1
+16. [78%] CONFIRMATION — Transaction log read. "I'm a node, not a mourner." → −1
+17. [82%] INTEL — Junction reclassifications. Three on her map. Free — "the chaos you create." → 0
+18. [85%] EXIT — "Seventy-two hours." Repair shop. Counter didn't look up. → −1
+19. [90%] RETURN — Coat lighter. Feed notice: "five sectors." → +1
+20. [95%] CLOSING — Brightline. "Seventy-two hours. Then seventy-two more." → −1
+
+**Beat density:** 1 per ~260 words — high for a TEXTURE chapter, driven by the Talia exchange
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Section break + spatial shift (room → transit corridors) | 8/10 — clean departure, tradecraft-driven |
+| Scene 2→3 | Section break + spatial shift (street → node interior) | 9/10 — "turned onto the street where Talia Ravid kept her node" |
+| Scene 3→4 | Section break + spatial shift (node → Resonance District street) | 8/10 — hum contrast (insulated → full-spectrum) |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **9.0/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 35%
+- **Reflection:** 65%
+
+### Pacing Notes
+
+- **Strengths:** The three-row inventory opening is a structuring device that gives the chapter its spine — paper, data, analysis mirrors Mirelle's methodology. The Talia exchange is the chapter's rhythmic center: professional dialogue broken by narration about hardware, data structures, and the hum. Talia's observation ("You're not sure you'll be around when it is") is placed perfectly — 72% through, the chapter's quiet turn, followed by Mirelle's only non-verbal response (stylus turning). The Feed notice callback in Scene 4 ("five sectors" — expanding from Ch 2's single junction) is a strong structural rhyme. The closing "seventy-two hours" repetition creates a metronomic rhythm that mirrors the check-in cycle itself.
+- **Concerns:** Dialogue at ~25% is high for this book — driven by the Talia scene being heavily transactional. Appropriate here (first on-page meeting, protocol establishment) but future Mirelle-Talia scenes should vary the ratio. The negation count (5) is slightly above the 2-4 target but fits Mirelle's investigative register (ruling out possibilities is how she thinks).
+- **Recommendations:** This chapter establishes the TEXTURE/investigative-tradecraft template for Mirelle's second appearance. The tradecraft-as-pacing device (counter-surveillance routes, variation systems, checkpoint verification) gives operational tension without requiring external threat. The dead-hand protocol is a narrative machine that will pay off in Phase 4-5 — the 72-hour rhythm established here should be referenced in Mirelle's future chapters (the ping as routine, the routine as survival).
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1, TEXTURE mode, 5-6K words)
+- Adjacent chapter contrast: ✅ (Ch 8 = domestic TEXTURE/Fuxi → Ch 9 = investigative TEXTURE/Mirelle — same mode, different register)
+
+### Cross-Chapter Comparison (Mirelle chapters)
+
+| Metric | Ch 2 | Ch 9 | Delta |
+|--------|------|------|-------|
+| Words | 5,100 | 5,200 | +100 |
+| Dialogue | ~20% | ~25% | +5% |
+| Tension peak | 6 | 6 | 0 |
+| Fragment % | ~18% | ~20% | +2% |
+| Negation count | 3 | 5 | +2 |
+| Flow | — | 9.0 | — |
+
+Ch 9 maintains Mirelle's voice while shifting the register from investigation (Ch 2: interviewing, evidence-gathering, editorial negotiation) to tradecraft (Ch 9: assembly, approach, transaction, processing). The dialogue increase reflects the Talia scene's transactional nature vs. Ch 2's more narration-heavy interview format. The tension peak (6) matches — Mirelle's chapters are moderate-tension TEXTURE, with danger structural rather than immediate.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -994,7 +1110,7 @@ Ch 8 is a deliberately lower-tension chapter — domestic texture, not instrumen
 | 6 | Zeyad | 5,200 | TEXTURE | 12% | 2→5→3→6 | 8.8 | 15/85 | ✅ |
 | 7 | Aurielle | 5,300 | TEXTURE | 10% | 2→4→7→5 | 8.8 | 25/75 | ✅ |
 | 8 | Fuxi | 5,400 | TEXTURE | ~20% | 2→3→5→4 | 8.8 | 30/70 | ✅ |
-| 9 | Mirelle | — | PRESSURE | — | — | — | — | 📝 |
+| 9 | Mirelle | 5,200 | TEXTURE | 25% | 3→6→3 | 9.0 | 35/65 | ✅ |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
 | 11–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
@@ -1005,7 +1121,7 @@ Ch 8 is a deliberately lower-tension chapter — domestic texture, not instrumen
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 9/11 | 9/11 | 8.8 | 4.5 | 2P/6T | ⏳ |
+| Phase 1 | 10/11 | 10/11 | 8.8 | 4.5 | 2P/8T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -1014,4 +1130,4 @@ Ch 8 is a deliberately lower-tension chapter — domestic texture, not instrumen
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 8 rhythm analysis_
+_Updated by: Audit Chain — Chapter 9 rhythm analysis_

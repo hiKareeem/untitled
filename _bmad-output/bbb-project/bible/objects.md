@@ -3,8 +3,8 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-11"
-lastChapter: 8
-totalObjects: 17
+lastChapter: 9
+totalObjects: 18
 activeObjects: 17
 project_name: "Untitled"
 ---
@@ -390,6 +390,34 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 2: Reading of 19.4 near Junction 7 trunk-line access hatch (baseline 14-16 for Sump stratum). Sustained elevation, not a spike.
+- Ch 9: Still in Mirelle's boot ("still hadn't returned"). 11 of 16 disappearance sites measured with readings above baseline. Tool persists as evidence-gathering instrument.
+
+---
+
+### Dead-Hand Protocol (Black Babel)
+
+**Origin:**
+- Provenance: Black Babel service, registered through Talia Ravid's node (RD-14) in the Resonance District
+- Introduced: Chapter 9
+- Circumstances: Mirelle registers the protocol after assembling 16 disappearances across 5 sectors. The decision crystallizes when she recognizes one copy isn't enough.
+
+**Description:**
+- Function: 72-hour rolling check-in. Client pings a designated address every 72 hours. Miss one window: nothing happens. Miss two consecutive windows: auto-distribute the stored data package to sealed recipients.
+- Recipients: Three sealed addresses (São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact). Talia cannot see the addresses.
+- Architecture: Automated, impersonal. Designed to function without its operator.
+- Price: Anonymized source network metadata (structure without identities) — the Babel price.
+
+**Significance:**
+- Symbolism: Truth weaponized through anticipated absence. The dead-hand fires on absence, not action — truth armed by the builder's expected removal.
+- Stakes: If Mirelle is absorbed (Ch 40), the 72-hour window expires and the machine she built in Ch 9 delivers. The dead-hand is the mechanism through which her evidence survives her.
+- Thematic: Truth as Weapon + What We Owe + Irrelevance of Individual Being. Obligation delegated to machinery. The person as trigger condition, not as person.
+
+**Current Owner:** Mirelle Dubois (client) / Talia Ravid (node operator)
+
+**History:**
+- Ch 9: Registered. First window starts immediately. Package contains: 16 disappearances data, RCI readings from 11 sites, NitroCore tolerance-band data, Feed reclassification notices, anonymized source interviews, Mirelle's analysis.
+- Phase 4 (Ch 40): Fires when Mirelle is absorbed mid-sentence. Timer expires. Machine delivers.
+- Phase 5: Data reaches recipients. Talia inherits the archive.
 
 ---
 

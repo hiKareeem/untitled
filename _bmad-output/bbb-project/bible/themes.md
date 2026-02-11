@@ -2,8 +2,8 @@
 title: "Themes"
 type: bible-dimension
 dimension: themes
-lastUpdated: "2026-02-10"
-lastChapter: 10 # (Ch 7 added this session)
+lastUpdated: "2026-02-11"
+lastChapter: 10 # (Ch 9 added this session)
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -477,6 +477,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 6 | Architecture (Strong), Complicity (Strong), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present), Atrocity (Not present) | Zeyad's debut: the diplomat inside the Accords compliance system. UGC institutional architecture as the chapter's terrain — committee chambers, classification protocols, Annex B routing, corporate-appointed oversight, 10-15 day processing tempo. Arctic-7 reclassified from scientific to security review — procedural anomaly detected by pattern recognition. "Contained" discovered in GCTA briefing — military vocabulary in civilian assessment. Five questions in ink. The practiced smile. Grandfather's Accords on the wall — signed, precise, and ornamental. |
 | Ch 7 | Architecture (Dominant), Complicity (Strong), Atrocity (Moderate), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present) | Board meeting + Thorne's private briefing: LP9 classification system exposed — cause-cost separation as designed architecture. Not-asking as proactive complicity. "Sump lifecycle management" as the euphemism Aurielle doesn't challenge. Containment 40% over budget, junction integrity below threshold. Thorne as truth-wielder: "Your father managed this. Now you do." Eduardo repositioned: "He asked how to fix it." The architecture of looking elsewhere. |
 | Ch 8 | Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Truth (Moderate), Architecture (Background), Atrocity (Background), Identity (Background), Irrelevance (Background) | Domestic complicity — normalcy maintained by mutual not-knowing. Shared meal as the system working. Shimmer as truth avoided ("Normal crowd"). Chemical staining, suppressants, Provision rations — suffering economy through accumulated detail. Jun's multitool as inherited obligation. P-3 as infrastructure not luxury. "The not-asking and the not-offering were the same shape... Built from love rather than protocol. But it was the same architecture." The normalcy BLACKWEIR will destroy. |
+| Ch 9 | Truth (Strong), Complicity (Strong), Commodification (Moderate), Architecture (Moderate), What We Owe (Moderate), Identity (Background), Irrelevance (Background), Atrocity (Background) | Dead-hand protocol as truth weaponized through anticipated absence. Institutional complicity across Feed, NitroCore, The Wire, and Black Babel. Babel price literalizes commodification — source metadata as currency. Junction reclassification as power architecture. Obligation delegated to machinery. "Client: M" — identity compressed to an initial. "I'm a node, not a mourner" — irrelevance accepted as business model. "The infrastructure is eating its workers" — atrocity documented without being named. |
 
 ---
 
@@ -514,6 +515,12 @@ This bible dimension tracks **theme evolution**:
 | Lumina (blue powder) | Commodification of Suffering, Where Identity Ends | Void-residue marketed as silence — suffering commodified as consumer product; chemically suppresses the pattern-seeking that would force engagement with truth |
 | Kira's streaming corner | Where Identity Ends, Commodification of Suffering | Curated immaculate space vs. apartment entropy — identity as performance architecture; the camera frame as the boundary of the self |
 | The eleven-second count | Where Identity Ends | Structural habit bridging *on* and *off* — the gap between performer and person measured in seconds |
+| Dead-hand protocol | Truth as Weapon, What We Owe | Truth armed through anticipated absence; obligation delegated to a machine; fires when the bearer stops checking in |
+| Seventy-two hours | Truth as Weapon, Irrelevance of Individual Being | Survival measured in maintenance intervals; the metronomic rhythm of staying alive long enough to matter |
+| Paper in the coat lining | Truth as Weapon, Systemic Complicity | Analog resistance to digital surveillance; truth in the only medium no mesh can reclassify |
+| Nitro-ear | Commodification of Suffering, Where Identity Ends | The body protesting the infrastructure; physical cost of proximity to the suffering engine; identity dissolving through physiological adaptation |
+| Talia's repair shop / sliding door | Architecture of Power | Truth hidden behind commerce; information infrastructure behind mundane surfaces; the Resonance District's counter-architecture |
+| "Client: M" | Where Identity Ends, Irrelevance of Individual Being | Identity compressed to an initial in a transaction log; the person as trigger condition, not as person |
 | Liang's window (faces up, never down) | Architecture of Power, Systemic Complicity | The institution's gaze calibrated to the same direction as its ambition — structural blindness designed into the office |
 | SOP 7.1 | Architecture of Power, Truth as Weapon | "Flag as instrument error. Recalibrate before escalating." — procedure as suppression mechanism; the institution's reflexive response to anomalous data |
 | VEC central holographic display | Architecture of Power, Systemic Complicity | Three-meter sphere, decorative, useless — institutional competence performed without institutional function |

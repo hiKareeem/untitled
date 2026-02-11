@@ -89,6 +89,15 @@ chapters:
     metaFile: "chapter-8-meta.yaml"
     mode: TEXTURE
 
+  chapter_9:
+    title: "Dead Drop"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 5200
+    completedDate: "2026-02-11"
+    metaFile: "chapter-9-meta.yaml"
+    mode: TEXTURE
+
   chapter_10:
     title: "The Gap"
     status: v1-complete
@@ -98,8 +107,8 @@ chapters:
     metaFile: "chapter-10-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 9, 11-51, Epilogue
+# Chapters not yet written: 11-51, Epilogue
 
-completedCount: 10
-totalWords: 52200
+completedCount: 11
+totalWords: 57400
 lastUpdated: "2026-02-11"

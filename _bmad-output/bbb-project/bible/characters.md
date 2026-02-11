@@ -156,7 +156,8 @@ This bible dimension tracks **current character states**:
 
 **Role:** POV #2 (6–7 chapters, absorbed Phase 4)
 **Faction:** Lens (journalist)
-**Primary Location:** Neo-Shanghai (mobile — Sump, Mid-Levels)
+**Primary Location:** Neo-Shanghai (mobile — Sump Sector 3, Resonance District, Mid-Levels)
+**Previous Posting:** The Wire, Abidjan bureau (learned tradecraft here — "the difference between a journalist and a target was how many copies of the story existed")
 **Lens:** Truth-seeking → absorbed
 
 **Current Psychological State:**
@@ -194,11 +195,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Gone. Dead-hand evidence persists. | Evidence released posthumously; her Lie tested — the world knows, the world shrugs |
 
 **Appearances:**
-- Last Appearance: Chapter 2 — "The Feed Says Relocated"
-- Next Planned Appearance: Phase 1, Ch 9 (first dead-drop with Black Babel)
+- Last Appearance: Chapter 9 — "Dead Drop"
+- Next Planned Appearance: Phase 2 (junction infiltration before reclassification)
 
 **Recent History:**
 - Ch 2: Investigated disappearance of conduit worker Dao Suen near Junction 7. Interviewed wife Lien Suen — Dao entered Level 3 trunk-line access corridor, corridor log shows entry/no exit, NitroCore says "reassigned." Lien reports shimmer near the hatch. Second disappearance (Chen Yue) from same block, three weeks prior, also "relocated." Found chalk names on the wall near Junction 7 — Sump workers write the names of the disappeared. Borrowed RCI sensor read 19.4 near the hatch (baseline 14-16). Discovered via Feed that entire Junction 7 maintenance crew was "reassigned." Editor Gauthier denied publication — insufficient evidence. Mirelle has seven missing workers across three sectors. Did not file. Kept the notes.
+- Ch 9: Eight weeks after Ch 2. Now has 16 confirmed disappearances across 5 sectors (up from 7/3). Moved to Sump Sector 3 transient room (was Mid-Levels District 5). Assembled evidence package on paper and encrypted drives. Deposited first cache with Black Babel via Talia Ravid in Resonance District. Established dead-hand protocol: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients (São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact). Paid Babel price: anonymized source network metadata. Received intel: 7 junctions reclassifying municipal → restricted-corporate next quarter (3 on her disappearance map). Nitro-ear onset: 3 weeks, right ear. Gauthier's two-week deadline long passed — operating independently. Feed language expanded from single junctions to "five sectors."
 
 ---
 
@@ -792,8 +794,11 @@ This bible dimension tracks **current character states**:
 **Speech Register:** Calm, transactional, occasionally sardonic. Speaks in prices and probabilities. Emotion surfaces only when someone wastes her time or threatens her node. Age indeterminate (augmentation).
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Mirelle's dead-drop scene (Phase 1); Mirelle's investigation scenes
+- Last Appearance: Chapter 9 — "Dead Drop" (first on-page)
+- Next Planned Appearance: Mirelle's Phase 2 investigation scenes
+
+**Recent History:**
+- Ch 9: First on-page appearance. Met Mirelle at her Resonance District node (repair shop front, insulated back room). Reviewed Mirelle's 16-disappearance dataset, confirmed geographic pattern. Registered dead-hand protocol (72h rolling, Client: M, Node RD-14). Charged Babel price: anonymized source network metadata. Tipped Mirelle about 7 junction reclassifications (free — "the chaos you create is good for business"). Read Mirelle's urgency: "You're not sure you'll be around when it is." Declined emotional investment: "I'm a node, not a mourner."
 
 ---
 

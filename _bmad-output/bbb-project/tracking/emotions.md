@@ -2,8 +2,8 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 8"
-totalCharacters: 17
+lastChapter: "Chapter 9"
+totalCharacters: 19
 project_name: "Untitled"
 ---
 
@@ -523,6 +523,63 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 ---
 
+## Character: Mirelle Dubois
+
+### Emotional Arc Summary
+
+Mirelle's arc across her two Phase 1 chapters traces a trajectory from driven investigation to operational commitment — the moment she stops collecting evidence and starts building the machine to deliver it. In Ch 2, she is the investigator: sharp, angry, held back by an editor's caution. In Ch 9, she is the operative: methodical, paranoid, building a dead-hand protocol because she's calculated the probability that she won't survive to publish. The shift is subtle — she never names the fear; it lives in the tradecraft, the counter-surveillance routes, the decision to make two copies of everything. Talia is the only character who reads the subtext: "You're not sure you'll be around when it is."
+
+### Dominant Emotions
+
+- **Primary**: Professional determination — the story as duty, investigation as identity
+- **Secondary**: Operational paranoia — counter-surveillance, route variation, analog-only evidence
+- **Conflict**: The Lie ("If people know, they'll act") vs. the emerging suspicion that publishing changes nothing — the dead-hand is built for a world where her death is more likely than her publication
+
+### Emotional State by Phase
+
+- **Ch 2**: Driven investigation → frustration (Gauthier's refusal) → quiet defiance (keeps the notes)
+- **Ch 9**: Methodical preparation → operational tension → professional transaction → solitary processing
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 9 — Beat 1 | Methodical focus | Evidence assembly — three rows | Inventory as ritual; "paper, data, analysis" — the process calms | None visible — alone |
+| Ch 9 — Beat 2 | Quiet anger | Raw analysis notes — "The infrastructure is eating its workers" | The voice that exists between clean sentences and careful inventory; never published | None visible — internal register |
+| Ch 9 — Beat 3 | Mortality recognition | "One copy was not enough. One copy meant that removing her removed the story." | Stylus turning — the processing mannerism; decision crystallizes | None visible — alone |
+| Ch 9 — Beat 4 | Operational tension | Counter-surveillance route through Sump corridors | Hypervigilance: reflective surfaces, food vendor checkpoint, rear sightlines | None visible — tradecraft |
+| Ch 9 — Beat 5 | Physical discomfort | Resonance District — hum deepens, nitro-ear spikes | Jaw pressure, sternum vibration, bone behind ears; the body's protest | None visible — physiological |
+| Ch 9 — Beat 6 | Professional composure | Talia's node — the transaction begins | Even, precise, lists contents without editorializing beyond "my analysis" | Talia: reads the composure as data — "You're not negotiating" |
+| Ch 9 — Beat 7 | Controlled vulnerability | Talia: "You're not sure you'll be around when it is." | Stylus turning — once, twice. The only non-verbal response. Then: "Register the dead-hand." | Talia: reads the confirmation as a timeline estimate |
+| Ch 9 — Beat 8 | Transaction closure | Dead-hand registered; terms confirmed | Professional departure — "Seventy-two hours." No emotion, no lingering | Talia: "I'm a node, not a mourner." — mirrors the professional closure |
+| Ch 9 — Beat 9 | Quiet alarm | Feed notice: "five sectors" — reclassification outpacing her count | Doesn't stop walking — learned in Ch 2 outside Lien's building | None visible — internal |
+| Ch 9 — Beat 10 | Metronomic resolve | Brightline ascent — seventy-two hours, then seventy-two more | The repetition as self-regulation; survival measured in maintenance intervals | None visible — closing internal state |
+
+---
+
+## Character: Talia Ravid
+
+### Emotional Arc Summary
+
+Talia has no arc — she is a supporting character whose function is transactional. Her emotional register is flat by design: calm, professional, occasionally sardonic. The closest she gets to care is reading Mirelle's subtext ("You're not sure you'll be around when it is") and then explicitly declining to engage with it ("I'm a node, not a mourner"). Her only emotional tells are timing (the tea she drinks cold, the pause before reading the registration confirmation) and the single moment when her luminescent ring shifts from processing to *observing* — the distinction between data analysis and human assessment.
+
+### Dominant Emotions
+
+- **Primary**: Transactional calm — prices and probabilities
+- **Secondary**: Professional interest — earned rarely, expressed in millimeters (eyebrow shift)
+- **Conflict**: None internal — Talia's conflict is structural (she profits from chaos she doesn't create and truth she doesn't pursue)
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 9 — Beat 1 | Professional punctuality | Mirelle arrives four minutes early | "I charge for wasted time. I don't charge for early." — register established | Mirelle: "I appreciate the distinction." |
+| Ch 9 — Beat 2 | Professional interest (minimal) | Package contents listed — 16 disappearances, 5 sectors | Eyebrow shift — "a millimeter." "That's a pattern." | Mirelle: "That's the story." |
+| Ch 9 — Beat 3 | Observation (human, not data) | Mirelle doesn't negotiate the Babel price | Luminescent ring steady — *observing*, not processing. "That tells me something about your timeline." | Mirelle: stylus turning. "Register the dead-hand." |
+| Ch 9 — Beat 4 | Transactional closure | Dead-hand registered | Reads confirmation flat. "I'm a node, not a mourner." Cold tea consumed without reaction. | Mirelle: "I'm not asking you to mourn." |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -548,8 +605,10 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 | Zeyad Al-Fahim | POV (debut) | 10 | Ritual comfort → Heritage connection → Professional immersion → Pattern-recognition trigger → Controlled challenge → Quiet frustration (sealed) → Institutional reflection → Escalating unease → Institutional faith tested → Composed performance over widening fracture | Active — Phase 1/5; institutional faith hairline-fractured; practiced smile's first measurable erosion |
 | Dr. Patel (VEC Liaison) | Supporting | 3 | Institutional delivery → Micro-discomfort → Procedural closure | Active — different from Prologue Dr. Patel; institutional relay |
 | Dr. Elara Mbutha | Supporting | 1 | Institutional neutral | Active — rotating chair; procedural function |
+| Mirelle Dubois | POV (2nd appearance) | 10 | Methodical focus → Quiet anger → Mortality recognition → Operational tension → Physical discomfort → Professional composure → Controlled vulnerability → Transaction closure → Quiet alarm → Metronomic resolve | Active — Phase 1/5; dead-hand operational, junction infiltration next, mortality implicit |
+| Talia Ravid | Supporting (debut) | 4 | Professional punctuality → Professional interest → Human observation → Transactional closure | Active — no arc; transactional function; profits from chaos |
 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 8 character audits_
+_Updated by: Audit Chain — Chapter 9 character audits_

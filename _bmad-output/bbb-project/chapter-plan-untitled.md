@@ -1256,7 +1256,7 @@ Writing notes: in-world documents, institutional language, and source materials 
 
 | Document | Relevant Chapters | Content |
 |----------|--------------------|---------|
-| Black Babel transaction log | Ch 9 | "Package received. Dead-hand registered. Client: M. Expiry: 72h rolling. — Node RD-7" |
+| Black Babel transaction log | Ch 9 | "Package received. Dead-hand registered. Client: M. Expiry: 72h rolling. — Node RD-14" |
 | Wire internal dispatch (encrypted) | Ch 13 | "Three Sump-beat journalists terminated this quarter. Two sources stopped responding." |
 | Kindling pamphlet | Ch 16 | "You know what the monitors show. You know what the manual says to ignore." |
 | Black Babel dead-hand confirmation | Ch 34 | "Cache: complete. Timer: 72:00:00. If this executes, the registrant did not check in." |

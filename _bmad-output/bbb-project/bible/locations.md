@@ -320,23 +320,30 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ### The Resonance District
 
-**Description:** A Deep Sump neighborhood built directly on top of first-generation trunk-lines. Chronic high RCI. High nitro-ear rates among residents. High Hollow Legion membership. Home to the Confluence beneath it. The breach originates here and propagates upward — by the time it's detected at Sump level, the Deep Sump is already gone.
+**Description:** A Deep Sump neighborhood built directly on top of first-generation trunk-lines. Chronic high RCI. High nitro-ear rates among residents. High Hollow Legion membership. Home to the Confluence beneath it. The breach originates here and propagates upward — by the time it's detected at Sump level, the Deep Sump is already gone. Streets narrower than the commercial strip. Fewer feed-screens. Counter-surveillance hardware in storefront windows (mesh scramblers, frame jammers, signal-dampening paint). The Hum Market is two blocks east. The district polices itself by discomfort, not law — if the hum doesn't drive you out, the Hollow Legion's territorial markers will, and if those don't, the readings above 30 will.
 
 **Stratum:** Deep Sump (surface)
 **RCI Range:** 30–40+ (chronic)
 
-**Characters Present:** Fuxi (work proximity)
+**Characters Present:** Fuxi (work proximity), Mirelle (Talia's node), Talia Ravid (node operator)
+
+**Key Interior Locations (established Ch 9):**
+- **Talia's Node (repair shop front):** From the street, a frame-servicing repair shop — refurbished components on a backlit shelf, counter staffed by rotating personnel. Monthly Cantonese passphrase for access. Sliding door behind the display shelf. Back room larger than the front (exterior footprint lies about interior — common Resonance District arrangement). Cool, well-lit by non-conduit spectrum. Dense with hardware: storage racks, encrypted relay stations, three data displays. Serious insulation — the hum is present but muted. Talia's workstation in the center, back to the door. Mug of tea. Data interface capable of processing more than The Wire's Paris bureau.
 
 **Dangers:**
 - Ground zero for the breach
 - Chronic high RCI exposure
 - First area consumed during BLACKWEIR
+- Nitro-ear onset for prolonged visitors (Mirelle: 3 weeks, right ear)
 
-**Significance:** The neighborhood most directly built on top of the thing that kills it. Residents live their entire lives over the loudest part of the scream without knowing what they're hearing.
+**Key Events:**
+- Ch 9: Mirelle enters the district via counter-surveillance route (Variation B). Deposits dead-hand cache with Talia at her node. Receives junction reclassification intel. Exits via Variation C.
+
+**Significance:** The neighborhood most directly built on top of the thing that kills it. Residents live their entire lives over the loudest part of the scream without knowing what they're hearing. Also the information underground's natural habitat — the high RCI keeps corporate security from staying longer than they have to, making it ideal for Black Babel nodes and counter-surveillance commerce.
 
 **Current State:** Populated pre-BLACKWEIR; obliterated post-BLACKWEIR
 
-**Controlled by:** Neutral (residents, Hollow Legion presence)
+**Controlled by:** Neutral (residents, Hollow Legion presence, Black Babel nodes)
 
 ---
 
