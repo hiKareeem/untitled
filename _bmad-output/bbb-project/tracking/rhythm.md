@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 7"
+lastChapter: "Chapter 8"
 totalChapters: 53
-analyzedChapters: 8
+analyzedChapters: 9
 project_name: "Untitled"
 ---
 
@@ -908,6 +908,79 @@ Flow score (8.8) ties with the Prologue and Ch 6 for highest TEXTURE chapter. Th
 
 ---
 
+## Chapter 8 — Fuxi: "White Noise"
+
+**Phase:** 1 | **Mode:** TEXTURE (domestic/Sump) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,400 | 5,000–6,000 | ✅ |
+| Scenes | 3 | 2–4 | ✅ |
+| Paragraphs | ~42 | — | — |
+| Dialogue % | ~20% | 8–20% | ✅ |
+| Avg sentence length | 22 words | 18–25 | ✅ |
+| Fragment % | 16% | 12–20% | ✅ |
+| Em dash usage | 18 | 12–25 | ✅ |
+| Negation-before-assertion | 3 | 2–4 | ✅ |
+| Sensory: sound dominant | Yes | Yes (Fuxi) | ✅ |
+| Anti-slop violations | 0 | 0 | ✅ |
+
+### Tension Shape
+
+```
+Scene 1 (Arrival/Cooking): ██ (2) — domestic warmth, corridor smells, Nuwa at the stove
+Scene 2 (Meal/Argument):   ███ (3→5) — P-3 case built, savings math, shimmer deflected
+Scene 3 (Night/Multitool): ████ (5→4) — Jun's tool, the hum, deliberate suppression
+```
+
+**Shape:** 2→3→5→4 — **Domestic build with suppressed peak**. Tension rises through the P-3 argument (the most engaged exchange in the chapter), peaks at the shimmer deflection and the closing reflection, then settles — not to resolution but to deliberate suppression. The tension doesn't resolve; it's contained. Different from Ch 4's plateau shape (2→7→5): the spike is absent because this chapter's danger is domestic, not instrumental.
+
+### Scene Analysis
+
+**Scene 1 — Arrival (domestic warmth)**
+- Opens with smell (soy paste, chili oil, mineral protein) cutting through corridor's chemical sweetness
+- Boot-mat ritual: three years of negotiation compressed into a single gesture
+- Nuwa's physical description: chemical staining, self-cut hair, functional relationship with appearance
+- Tension: low (2). Establishing domestic normalcy that BLACKWEIR will destroy.
+
+**Scene 2 — The P-3 Argument (domestic tension)**
+- Nuwa builds the transfer case brick by brick (Yuen's plant, employer-sponsored permits, suppressant savings)
+- Fuxi pushes back on transition costs; Nuwa's math is better
+- Shimmer near Hum Market: "Normal crowd." "Normal crowd." — truth deflected through repetition
+- Savings plan vs. P-3 timeline clarified (2 months in, 4 remaining)
+- Tension: rises to 5. The argument IS the intimacy — the closest these two come to expressing love is running the numbers.
+
+**Scene 3 — Night (suppressed reflection)**
+- Nuwa to bed at 22:00 (early shift, frame glitching, accuracy slipping)
+- Fuxi alone: Jun's multitool, the hum through walls, conduit glow through frosted window
+- "Did not think about" catalogue: monitor 6, the shape, the shimmer, the advisory
+- Closing: savings math as self-soothing, the hum continuing
+- Tension: peaks at 5 during reflection, settles to 4 — not resolved, contained.
+
+### Voice Notes
+
+- **Second Fuxi chapter** confirms the voice established in Ch 4: infrastructure-metaphor domain, body-as-instrument register, negation-before-assertion (3 instances), sound-dominant sensory hierarchy
+- **Domestic register new**: Ch 4 was work; Ch 8 is home. The voice softens slightly — shorter sentences in dialogue, humor lands, the math is intimate rather than institutional
+- **Dialogue ratio significantly higher** (~20% vs Ch 4's ~8%): first extended two-person conversation in Fuxi's voice. Nuwa's speech register (compressed, fast, case-building) contrasts with Fuxi's (sparse, concessive, numbers-first)
+- **Anti-slop clean**: no violations detected
+
+### Cross-Chapter Comparison (Fuxi chapters)
+
+| Metric | Ch 4 | Ch 8 | Delta |
+|--------|------|------|-------|
+| Words | 5,200 | 5,400 | +200 |
+| Dialogue | ~8% | ~20% | +12% |
+| Tension peak | 7 | 5 | −2 |
+| Fragment % | 14% | 16% | +2% |
+| Em dashes | 15 | 18 | +3 |
+| Neg-before-assertion | 3 | 3 | 0 |
+
+Ch 8 is a deliberately lower-tension chapter — domestic texture, not instrumental alarm. The 12% dialogue increase reflects Nuwa's in-person debut. The tension peak drops from 7 (RCI spike) to 5 (shimmer/reflection) because the danger here is what they're NOT saying, not what the instruments are showing.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -920,7 +993,7 @@ Flow score (8.8) ties with the Prologue and Ch 6 for highest TEXTURE chapter. Th
 | 5 | Sofia | 5,400 | TEXTURE | 10% | 3→5→3→6 | 8.6 | 20/80 | ✅ |
 | 6 | Zeyad | 5,200 | TEXTURE | 12% | 2→5→3→6 | 8.8 | 15/85 | ✅ |
 | 7 | Aurielle | 5,300 | TEXTURE | 10% | 2→4→7→5 | 8.8 | 25/75 | ✅ |
-| 8 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
+| 8 | Fuxi | 5,400 | TEXTURE | ~20% | 2→3→5→4 | 8.8 | 30/70 | ✅ |
 | 9 | Mirelle | — | PRESSURE | — | — | — | — | 📝 |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
 | 11–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
@@ -932,7 +1005,7 @@ Flow score (8.8) ties with the Prologue and Ch 6 for highest TEXTURE chapter. Th
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 8/11 | 8/11 | 8.7 | 4.6 | 2P/5T | ⏳ |
+| Phase 1 | 9/11 | 9/11 | 8.8 | 4.5 | 2P/6T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -941,4 +1014,4 @@ Flow score (8.8) ties with the Prologue and Ch 6 for highest TEXTURE chapter. Th
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 7 rhythm analysis_
+_Updated by: Audit Chain — Chapter 8 rhythm analysis_

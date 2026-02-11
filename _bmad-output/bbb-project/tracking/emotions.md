@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 7"
+lastChapter: "Chapter 8"
 totalCharacters: 17
 project_name: "Untitled"
 ---
@@ -446,6 +446,83 @@ Mbutha is institutional neutral embodied — the rotating chair who acknowledges
 
 ---
 
+## Character: Fuxi Lin
+
+### Emotional Arc Summary
+
+Fuxi's emotional register is containment — not repression but timing. He processes later, in private, or not at all. Chapter 4 establishes his working-class stoicism: routine competence in the Deep Sump, body-knowledge alarm when the readings are wrong, private unease he cannot translate into institutional language. Chapter 8 shifts to domestic mode: warmth with Nuwa, provider-identity math running as background process, tenderness expressed through logistics ("Four months is manageable"), and the closing suppression — sitting in the dark with his father's tool, deliberately not thinking about the shape of the data, the shimmer, the advisory. The emotional progression from Ch 4 to Ch 8 is subtle: the unease has not grown louder, but it has acquired domestic weight. The things he doesn't think about now include the things Nuwa didn't say.
+
+### Dominant Emotions
+
+- **Primary**: Provider-obligation as emotional baseline — everything filters through "what does this mean for Nuwa"
+- **Secondary**: Body-knowledge unease — his body registers what the instruments and the logs cannot accommodate
+- **Conflict**: Competence vs. compliance — he is good enough to read the data, and the data says something he cannot afford to understand
+
+### Emotional State by Phase
+
+- **Ch 4 (Deep Sump)**: Routine competence → alert attention → institutional frustration → body-knowledge alarm → private unease → enforced compliance
+- **Ch 8 (Apartment)**: Domestic warmth → provider-identity math → argumentative tenderness → mutual silence → private reflection → deliberate suppression
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 4 — Beat 1 | Routine competence | Shift start, station 3, monitors 4-6 | Methodical checks; body calibrated to instruments | Chen Wei: institutional patience |
+| Ch 4 — Beat 2 | Domestic warmth | Walking home; anticipating apartment | Notes boot-mat, corridor smells, Nuwa's absence (second shift) | None — alone |
+| Ch 4 — Beat 3 | Alert attention | RCI spike on monitor 6 (31.2) | Posture changes; hands still; reads the decay pattern | None — alone at station |
+| Ch 4 — Beat 4 | Institutional frustration | Automated system generates work orders "stripped of context" | Files report in institutional language; does not write what body knows | System: processes or doesn't |
+| Ch 4 — Beat 5 | Body-knowledge alarm | Linear decay — "the shape was wrong" | Feels it in his hands, his breathing; the copper taste | None — internal |
+| Ch 4 — Beat 6 | Private unease | Sitting in apartment; hum through walls | Stares at conduit glow through frosted window; does not message Nuwa about the readings | None — alone |
+| Ch 4 — Beat 7 | Domestic tenderness | Nuwa's messages (P-3, warnings, humor) | Reads them; the humor lands despite the unease; doesn't reply about the spike | Nuwa: continues building her case |
+| Ch 4 — Beat 8 | Suppressed questioning | "The shape was wrong" — can't stop thinking about it | Does not escalate; does not write; contains the question inside the body | None — internal |
+| Ch 4 — Beat 9 | Enforced compliance | Closes shift log; files standardized report | The gap between body-knowledge and institutional language is the silence he lives inside | System: absorbs the report |
+| Ch 8 — Beat 1 | Domestic warmth (arrival) | Smell of cooking; Nuwa at the heating element | The smell "cut through the corridor's chemical sweetness like a blade" — body registers home | Nuwa: "Boots." (doesn't turn around) |
+| Ch 8 — Beat 2 | Affectionate compliance | Boot-mat negotiation; Nuwa's floor | Steps onto mat; pulls boots off; "three years asking, approximately one doing" | Nuwa: the ritual maintained |
+| Ch 8 — Beat 3 | Quiet observation | Nuwa's physical state — staining, uneven hair, compressed build | Notes the violet mapping, the shears, the functional relationship with appearance | None — internal; the reader sees what Fuxi catalogs |
+| Ch 8 — Beat 4 | Provider-identity math | Nuwa builds the P-3 / transfer case | Listens, eats, runs the numbers automatically — "a background process" | Nuwa: builds her case brick by brick |
+| Ch 8 — Beat 5 | Argumentative tenderness | "Your seniority is a leash" / transition period debate | Pushes back on her plan; the argument IS the intimacy | Nuwa: pushes harder; compressed smile |
+| Ch 8 — Beat 6 | Reluctant concession | Nuwa's math is better than his | "That's a the-math-is-manageable" — sees the arrangement forming | Nuwa: compressed smile — "That's up." |
+| Ch 8 — Beat 7 | Mutual silence (domestic) | Shimmer near Hum Market | "Normal crowd." "Normal crowd." — neither names what they saw | Nuwa: deflects; the silence is shared |
+| Ch 8 — Beat 8 | Private reflection | Alone on bed; multitool; dark apartment | Turns multitool in fingers; feels the hum through walls; "not comfort, not memory, not sentiment. *Presence.*" | None — alone; Nuwa asleep |
+| Ch 8 — Beat 9 | Deliberate suppression | Monitor 6, the shape, the shimmer, the advisory | "Did not think about" — the catalogue of things he refuses to process | None — alone in the dark |
+| Ch 8 — Beat 10 | Provider-math as love | "Four more months" | Runs the savings math as self-soothing; the math IS the tenderness | None — internal; the hum continues |
+
+---
+
+## Character: Nuwa Lin
+
+### Emotional Arc Summary
+
+Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sardonic. Chapter 8 is her first in-person appearance, and the voice matches: dry humor as load-bearing structure, pragmatism as emotional register, survival-mapping disguised as dinner conversation. Her emotional arc in Ch 8 is compressed into the P-3 argument: she enters the conversation having already done the research (transit permits, Yuen's plant, employer-sponsored queues), and builds her case with the precision of someone who has been assembling this argument for weeks. The humor ("Eat fast. Destroy the evidence.") is armor. The compressed smile when Fuxi concedes is the closest she comes to expressed vulnerability — not satisfaction but relief that the architecture of their escape might hold.
+
+### Dominant Emotions
+
+- **Primary**: Pragmatic determination — survival expressed as planning, not dreaming
+- **Secondary**: Sardonic deflection — humor as load-bearing emotional structure
+- **Conflict**: Independence vs. interdependence — she is building an escape route that requires Fuxi to stay behind
+
+### Emotional State by Phase
+
+- **Ch 4 (messages)**: Pragmatic excitement → humor → case-building urgency → protective warning
+- **Ch 8 (in person)**: Domestic competence → case-building determination → sardonic armor → compressed relief → mutual silence → pragmatic exhaustion
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 4 — Beat 1 (msg) | Pragmatic excitement | P-3 found at stall 14 | "1,200 creds. Which is. A lot." — building the case through messages | Fuxi: reads, calculates, doesn't reply about the spike |
+| Ch 4 — Beat 2 (msg) | Humor | The savings math | "Three months. Your face right now." — she can picture his expression | Fuxi: the humor lands despite the unease |
+| Ch 4 — Beat 3 (msg) | Case-building urgency | Transfer opportunity | Builds the P-3 → transfer → Mid-Level chain | Fuxi: runs the numbers |
+| Ch 4 — Beat 4 (msg) | Protective warning | Resonance District overtime | "Stay off the metal walkways near the market" — care expressed as practical instruction | Fuxi: registers the warning; doesn't share the spike |
+| Ch 8 — Beat 1 | Domestic competence | Cooking; Fuxi arrives | Back to him; "Boots." (without turning) — the ritual as intimacy | Fuxi: complies (eventually) |
+| Ch 8 — Beat 2 | Sardonic armor | Evidence of spending household credits on vegetables | "Eat fast. Destroy the evidence." — humor as deflection from the cost | Fuxi: eats; the humor lands |
+| Ch 8 — Beat 3 | Case-building determination | The P-3 / transfer argument | Holds up fingers, counts savings, lays out the transfer requirements "brick by brick" | Fuxi: listens, pushes back, concedes |
+| Ch 8 — Beat 4 | Compressed relief | Fuxi's concession ("the-math-is-manageable") | Compressed smile — "That's up." Not victory; relief that the plan might hold | Fuxi: sees the arrangement forming |
+| Ch 8 — Beat 5 | Mutual silence (deflection) | Shimmer near Hum Market | "Normal crowd." — repeats Fuxi's words; doesn't elaborate | Fuxi: doesn't push; the silence is shared |
+| Ch 8 — Beat 6 | Pragmatic exhaustion | Going to bed; early shift tomorrow | Goes to bed at 22:00; frame glitching, accuracy slipping, the cost accumulating | Fuxi: sits on the bed in the dark |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -458,9 +535,9 @@ Mbutha is institutional neutral embodied — the rotating chair who acknowledges
 | Marcus Thorne | Supporting | 4 | Respectful attention → Operational activation → Institutional directive → Almost-gentle delivery | Active — no arc (already finished); every response pre-assembled |
 | Nephthys | POV | 9 | Focused parsing → Controlled alarm → Physical overwhelm → Theological refusal → Defiant conviction → Intense listening → Honest uncertainty → Theological urgency → Oriented resolve | Active — terminal diagnosis, counter-liturgy developing, oriented toward Neo-Shanghai |
 | Imani | Supporting | 8 | Habitual endurance → Alert concern → Controlled fear → Managed frustration → Gentle challenge → Quiet anguish → Residual faith → Committed presence | Active — loyal to the person, not the theology; will seek transit papers |
-| Fuxi Lin | POV | 9 | Routine competence → Domestic warmth → Alert attention → Institutional frustration → Body-knowledge alarm → Private unease → Domestic tenderness → Suppressed questioning → Enforced compliance | Active — Phase 1/5; question forming, not yet asked |
+| Fuxi Lin | POV | 19 | Ch 4: Routine competence → Body-knowledge alarm → Enforced compliance. Ch 8: Domestic warmth → Provider-math → Argumentative tenderness → Mutual silence → Deliberate suppression → Provider-math as love | Active — Phase 1/5; question forming, domestic weight added; unease includes what Nuwa didn't say |
 | Chen Wei | Supporting | 2 | Institutional patience → Institutional certainty | Active — no arc; calcified mirror |
-| Nuwa Lin | Indirect (messages) | 4 | Pragmatic excitement → Humor → Case-building urgency → Protective warning | Active — Phase 1/5; dreams intact, pragmatism intact |
+| Nuwa Lin | Supporting (first in-person Ch 8) | 10 | Ch 4 (msg): Pragmatic excitement → Protective warning. Ch 8: Domestic competence → Case-building determination → Sardonic armor → Compressed relief → Mutual silence → Pragmatic exhaustion | Active — Phase 1/5; dreams intact, plan crystallizing; already researched the escape route |
 | Kira Calloway | POV (debut) | 9 | Permanent soft performance → Genuine rush → Professional suppression → Exhaustion → Controlled ritual → Alarm → Avoidance → Fraying → Suspended waiting | Active — Phase 1/5; scream worsening, Lumina escalating, Priya's question unanswered |
 | Dex | Indirect (text) | 1 | Comic normalizer | Active — group chat member |
 | Priya | Indirect (text) | 1 | Serious truth-seeker | Active — seeds Ch 18 |
@@ -475,4 +552,4 @@ Mbutha is institutional neutral embodied — the rotating chair who acknowledges
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 6 character audits_
+_Updated by: Audit Chain — Chapter 8 character audits_

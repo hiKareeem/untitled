@@ -132,6 +132,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - **Ch 4:** Fuxi returns from Deep Sump shift. Residential corridor and apartment details established. Nuwa absent (textile recycling second shift, ends 20:00). Fuxi sits in the hum and thinks about monitor 6.
+- **Ch 8:** First shared domestic scene — Fuxi and Nuwa together in the apartment. Nuwa cooking (early rotation, 06:00-14:00). Boot-mat ritual. P-3 / Mid-Level transfer argument. Shimmer near Hum Market conduit access points — neither names it ("Normal crowd"). Jun's multitool first prose appearance. Nuwa's shift details confirmed (this rotation: early). Municipal advisory updated twice ("Ambient hum levels within certified tolerance").
 
 **Significance:** The Sump is the sacrifice basin. BLACKWEIR floods it with raw nitro, severs junctions upward. The Sump's residents are "projected casualties." This was always the design.
 

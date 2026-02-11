@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-10"
-lastChapter: 0
+lastUpdated: "2026-02-11"
+lastChapter: 8
 totalCharacters: 14
 project_name: "Untitled"
 ---
@@ -433,15 +433,17 @@ This bible dimension tracks **current character states**:
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
 **Appearances:**
-- Last Appearance: Chapter 4 — "Monitor 6"
-- Next Planned Appearance: Chapter 8 — "White Noise" (domestic scene with Nuwa)
+- Last Appearance: Chapter 8 — "White Noise"
+- Next Planned Appearance: Chapter 12+ (Phase 2 — readings worsen)
 
 **Recent History:**
+- **Ch 8:** Domestic scene with Nuwa — first shared meal in prose. Arrived home from Deep Sump shift (18:00). Nuwa cooking (on early rotation, 06:00-14:00). Boot-mat ritual continued. Nuwa built case for P-3 / Mid-Level transfer (Yuen's plant, QC positions, employer-sponsored transit permits). Fuxi pushed back on transition costs, conceded when her math proved better. Shimmer near Hum Market — neither named it ("Normal crowd"). Sat in dark with Jun's multitool (first prose appearance). Monitor 6 reading 27.1 (baseline). Spike from three weeks ago not recurred, inspection closed "no anomaly detected" — but the shape of the linear decay persists in his mind. Municipal advisory updated twice. Did not tell Nuwa about the spike or the shape. Savings plan: two months in, four more months to P-3. Psychological state: dutiful provider, domestic warmth, deliberate suppression of the question.
 - **Ch 4:** Routine trunk-line inspection in Deep Sump monitoring bay, Section 4-East. Logged three-hertz flat variance (within tolerance). At 14:47, monitor 6 spiked from 27.1 to 31.2 RCI — four points above baseline, held ~40 seconds, self-corrected. Chen Wei dismissed: "They always self-correct." Fuxi noticed the decay profile was atypical — linear rather than logarithmic, too clean, too precise. Logged the anomaly with a note recommending follow-up inspection of junction housing 4E-9. Did not escalate. Received messages from Nuwa about a Shenlong P-3 frame with sensory filter on the Hum Market (stall 14, 1,200 credits, 3 months savings). Nuwa warned him against volunteering for Resonance District overtime (double rate offered). Returned to Sump apartment. Did not pursue the question forming in his mind about the correction pattern. Psychological state: dutiful, suppressing unease, compliance as survival strategy.
 
 **Key Objects:**
 - Service jacket: orange, reflective strips peeling, zipper sticks at midpoint. Replacement requests filed and unanswered.
 - Frame: service-issue L-class, strapped to left forearm, housing cracked along one edge — throws artifacts into lower-left AR overlay. Same requisition queue as the jacket.
+- Jun's multitool: Stainless steel, heavy for its size, handle worn to polish by decades of use. Jun Lin's (father). Carried every shift, rarely used for intended purpose — service-issue toolkit is better. The weight is "not comfort, not memory, not sentiment. *Presence.*" First prose appearance Ch 8.
 
 ---
 
@@ -658,10 +660,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
 
 **Appearances:**
-- Last Appearance: Chapter 4 — "Monitor 6" (via Frame messages, through Fuxi's POV)
-- Next Planned Appearance: Chapter 8 — "White Noise" (domestic scene with Fuxi)
+- Last Appearance: Chapter 8 — "White Noise" (first in-person appearance)
+- Next Planned Appearance: Through Fuxi's POV, Phase 2+ chapters
 
 **Recent History:**
+- **Ch 8 (first in-person):** Cooking when Fuxi arrived — soy paste, chili oil, reconstituted protein, actual vegetables from Hum Market. Hair shorter (self-cut with plant shears, uneven). Chemical staining (violet) on forearms/hands from textile solvent. Built case for P-3 / Mid-Level transfer: Yuen's plant doing QC transfers, employer-sponsored transit permits (different queue from Sump-to-Spires), sensory filter eliminates headaches (saves 2 creds/week on suppressants). Already researched which queue, which permit class, which employer. Transit permits for quarter locked — but window opens. Fuxi conceded when her math proved better. Shimmer near Hum Market route — deflected with "Normal crowd." Went to bed 22:00 (early shift tomorrow, 06:00-14:00 on this rotation). Current frame glitching near conduit junctions, costing her accuracy — accuracy costing the transfer.
 - **Ch 4 (through Fuxi):** Messaged Fuxi about a Shenlong P-3 frame with sensory filter found at the Hum Market (stall 14, blue tarp, 1,200 credits, refurbished, new filter module). Voice message building her case — fast, layered, stacking reasons. The P-3 would reduce hum-drunk headaches, fix AR overlay glitching near conduit junctions, enable application for Mid-Level textile positions requiring functional Frame for quality-control interface. Currently working textile recycling, second shift (ends 20:00). Current Frame drops AR overlay near conduit lines — rendered her supervisor as a floating torso for ten minutes. Warned Fuxi against volunteering for Resonance District overtime (double rate offered — "I also know why they're offering double rate"). Chose a deep blue textile for the bed because it's the furthest thing from orange — everything in the Sump is orange. Humor intact. Dreams intact. Pragmatism intact.
 
 **Key Objects:**

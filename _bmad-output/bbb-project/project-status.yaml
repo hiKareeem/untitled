@@ -80,6 +80,15 @@ chapters:
     metaFile: "chapter-7-meta.yaml"
     mode: TEXTURE
 
+  chapter_8:
+    title: "White Noise"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 5400
+    completedDate: "2026-02-11"
+    metaFile: "chapter-8-meta.yaml"
+    mode: TEXTURE
+
   chapter_10:
     title: "The Gap"
     status: v1-complete
@@ -89,8 +98,8 @@ chapters:
     metaFile: "chapter-10-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 8, 9, 11-51, Epilogue
+# Chapters not yet written: 9, 11-51, Epilogue
 
-completedCount: 9
-totalWords: 46800
+completedCount: 10
+totalWords: 52200
 lastUpdated: "2026-02-11"

@@ -3,9 +3,9 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-11"
-lastChapter: 6
-totalObjects: 16
-activeObjects: 16
+lastChapter: 8
+totalObjects: 17
+activeObjects: 17
 project_name: "Untitled"
 ---
 
@@ -661,6 +661,28 @@ An object deserves documentation if it:
 
 ---
 
+### Jun Lin's Multitool
+
+**Origin:**
+- Provenance: Jun Lin (Fuxi's father), municipal conduit maintenance worker
+- Discovered/Created: Pre-story; decades of use
+- Circumstances: Jun maintained the same trunk-lines Fuxi maintains now. Died of "chronic resonance fatigue syndrome" — what Deep Sump crews call "the hum got him." The multitool is what remained.
+
+**Description:**
+- Appearance: Stainless steel, heavy for its size. Handle worn to a polish by decades of use.
+- Function: Multi-purpose maintenance tool. Rarely used for its intended purpose — the service-issue toolkit is better, newer, calibrated. The multitool is obsolete.
+- Condition: Functional but outperformed by modern equipment
+
+**Significance:** "Not comfort, not memory, not sentiment. *Presence.*" The weight of it in Fuxi's pocket is a specific thing — his father's hands held this tool in the same corridors where Fuxi's hands work now. Generational exposure, generational death, generational obligation. The multitool connects Fuxi's personal thread (What We Owe) to the system thread (Commodification of Suffering) — the tool that maintained the infrastructure that killed its owner.
+
+**Current Owner:** Fuxi Lin
+**Location:** Jacket pocket (carried every shift)
+
+**History:**
+- Ch 8: First prose appearance. Fuxi holds it in the dark after Nuwa goes to sleep. The weight as presence. Jun's death named: "chronic resonance fatigue syndrome" / "the hum got him."
+
+---
+
 | Object | From | To | Day | Circumstances |
 |--------|------|-----|-----|---------------|
 | Mirelle's Caches | Mirelle | Black Babel | Phase 1–3 | Dead-drop deposits |
@@ -679,5 +701,5 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+_Last updated: 2026-02-11_
+_Updated by: Audit Chain — Chapter 8 bible update_
