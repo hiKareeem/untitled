@@ -1,12 +1,12 @@
 ---
 workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-review']
-lastStep: 'step-04-review'
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
 chapterNumber: 3
 draftVersion: 2
 createdDate: '2026-02-10'
 author: 'Kareem'
-status: reviewed
+status: v1-complete
 executionMode: full
 title: "The Pain Is Signal"
 pov: "Nephthys"

@@ -1,17 +1,21 @@
 # Chapter Finalization Procedures
 
+> **Note:** These procedures are executed as part of step-06-bible-update.
+> The chapter is locked as `v1-complete` after all tracking and bible updates are done.
+
 ## 1. Chapter Locking Procedure
 
 **Action:** Update chapter frontmatter to lock the chapter
 
 **Frontmatter Updates:**
-- Set `status: final`
-- Set `finalizedDate: {current_date}`
+- Set `status: v1-complete`
+- Set `lastStep: 'step-06-bible-update'`
+- Ensure `stepsCompleted` includes all 6 steps
 
 **Statistics to Report:**
 - Word Count
 - Draft Versions
-- Review Status
+- Audit Status
 
 ---
 
@@ -129,11 +133,16 @@ This chapter explores {primary_character}'s {contradiction_type} contradiction t
 ```yaml
 chapters:
   chapter_{N}:
-    status: complete
+    title: "{title}"
+    status: v1-complete
+    pov: "{character}"
     wordCount: {count}
     completedDate: {date}
     metaFile: chapter-{N}-meta.yaml
+    mode: {PRESSURE|TEXTURE}
 ```
+
+Update `completedCount`, `totalWords`, and `lastUpdated`.
 
 ---
 
@@ -147,7 +156,7 @@ Chapter {chapter_number} Complete! 🎉
 Final Chapter:
 - File: `chapter-{chapter_number}.md`
 - Words: {count}
-- Status: Final
+- Status: v1-complete
 
 Metadata Generated:
 - File: `chapter-{chapter_number}-meta.yaml`

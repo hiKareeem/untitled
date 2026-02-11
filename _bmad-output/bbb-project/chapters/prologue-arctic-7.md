@@ -1,13 +1,23 @@
 ---
+workflowType: chapter-write
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
+chapterNumber: 0
+draftVersion: 1
+createdDate: '2026-02-10'
+author: 'Kareem'
+status: v1-complete
+executionMode: full
 title: "Prologue — Arctic-7"
 pov: "Dr. Elise Vantanen"
 wordTarget: "3500-5000"
 phase: 1
 location: "Arctic-7"
 timeline: "December 2174"
-status: "first-draft"
+mode: PRESSURE
 epigraph_source: "On the Statistical Correlation Between Nitro Infrastructure Density and Anomalous Event Frequency"
 epigraph_author: "Dr. Maren Solberg, 2170"
+rhetoric_reference: "Solberg 2170 suppressed report"
 ---
 
 # Prologue

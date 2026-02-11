@@ -1,12 +1,12 @@
 ---
 workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-user-review', 'step-06-revise', 'step-07-finalize']
-lastStep: 'step-07-finalize'
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
 chapterNumber: 4
 draftVersion: 1
 createdDate: '2026-02-10'
 author: 'Kareem'
-status: finalized
+status: v1-complete
 executionMode: full
 title: "Monitor 6"
 pov: "Fuxi Lin"

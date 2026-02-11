@@ -1,14 +1,12 @@
 ---
 workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-review', 'step-05-revise', 'step-06-finalize']
-lastStep: 'step-06-finalize'
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
 chapterNumber: 2
 draftVersion: 1
 createdDate: '2026-02-10'
-reviewedDate: '2026-02-10'
-finalizedDate: '2026-02-10'
 author: 'Kareem'
-status: final
+status: v1-complete
 executionMode: full
 title: "The Feed Says Relocated"
 pov: "Mirelle Dubois"

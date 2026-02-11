@@ -1,13 +1,12 @@
 ---
 workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-review', 'step-05-user-review', 'step-07-finalize']
-lastStep: 'step-07-finalize'
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
 chapterNumber: 1
 draftVersion: 1
 createdDate: '2026-02-10'
 author: 'Kareem'
-status: final
-finalizedDate: '2026-02-10'
+status: v1-complete
 executionMode: full
 title: "The Heir"
 pov: "Aurielle Vasquez"
@@ -19,12 +18,6 @@ mode: PRESSURE
 epigraph_source: "A History of Silence"
 epigraph_author: "Unknown; Black Babel networks, post-2176"
 rhetoric_reference: "Board Resolution 2175-003 (Emergency Succession)"
-auditChain:
-  bibleUpdate: completed
-  characterAudits: completed
-  thematicTracking: completed
-  rhythmAnalysis: completed
-  lastChainDate: '2026-02-10'
 ---
 
 # Chapter 1

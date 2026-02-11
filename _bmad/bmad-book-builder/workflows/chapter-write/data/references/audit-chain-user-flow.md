@@ -1,166 +1,89 @@
-# Automated Audit Chain - User Interaction Flow
+# Audit Chain — User Interaction Flow
 
-**Purpose:** Guide users through the automated audit chain execution options.
+**Purpose:** Guide users through the audit chain, which is integrated into the chapter-write workflow as steps 04-06.
 
 **Reference:** See `data/references/automated-audit-chain.md` for complete technical documentation.
 
 ---
 
-## Introduction to User
+## Overview
+
+The audit chain is built into the final three steps of the chapter-write workflow. It runs automatically after the draft is complete — no separate invocation needed.
+
+| Step | Name | What Happens |
+|------|------|-------------|
+| 04 | Self-Review | Style audit against style profile. Findings presented. Author approves fixes. |
+| 05 | Audit | Character audit + continuity check. Audit file + thematic analysis created. |
+| 06 | Bible Update | Tracking files (themes, emotions, rhythm) + bible files (characters, locations, objects, themes) + project status updated. Chapter locked as v1-complete. |
+
+---
+
+## User Interaction Points
+
+### After Step 04 (Style Audit)
 
 ```text
-🔗 Automated Audit Chain
+**Style Audit — Chapter {N}**
 
-To ensure your novel's coherence, I will now automatically trigger a series of quality audits.
+| # | Check | Result | Notes |
+|---|-------|--------|-------|
+...
 
-The audit chain:
-1. Review — Coherence validation (CRITICAL)
-2. Living Bible Update — Update the 5 dimensions
-3. Character Audits — Audit per character present
-4. Thematic Tracking — Update thematic progression
-5. Rhythm Analysis — Pacing analysis (optional)
+Fixes Required: {count}
+
+Shall I apply fixes? [Y] Yes / [N] No / [S] Selective
 ```
 
----
+Author reviews findings and approves fixes before they're applied.
 
-## User Choice Prompt
+### After Step 05 (Character & Continuity Audit)
+
+If critical issues found:
+```text
+⚠️ Critical issue: {description}
+
+[F] Fix — Apply recommended correction
+[A] Accept — Keep as-is (author decision)
+[D] Defer — Flag for future review
+```
+
+If no critical issues:
+```text
+Audit complete. No critical issues. Proceeding to bible updates...
+```
+
+### After Step 06 (Bible Update & Finalization)
 
 ```text
-How would you like to proceed?
+Chapter {N} — "{title}" — v1-complete
 
-[A] Automatic — Run the full chain (RECOMMENDED)
-[S] Selective — Choose which steps to run
-[D] Defer — Skip audits for now (NOT RECOMMENDED)
+Files created:
+- tracking/audit-chapter-{N}.md
+- tracking/chapter-{N}-themes.md
 
-Your choice: [A]utomatic / [S]elective / [D]efer
+Files updated:
+- tracking/themes.md, emotions.md, rhythm.md
+- bible/characters.md, locations.md, objects.md, themes.md
+- project-status.yaml
+
+Ready for the next chapter.
 ```
 
 ---
 
-## Option A: Automatic Execution
+## Status Storage
 
-**User Message:**
-```text
-Running the automatic audit chain...
-```
-
-**Procedure:**
-1. Load automated-audit-chain.md reference
-2. Execute automatic chain sequence:
-   - Step 1: Review → If fails, pause and ask [C]orrect/[I]gnore/[D]efer
-   - Step 2: Living Bible Update
-   - Step 3: Character Audits (for each character in chapter)
-   - Step 4: Thematic Tracking
-   - Step 5: Ask Y/N for Rhythm Analysis
+Audit status is tracked via:
+- **`stepsCompleted` array** in chapter frontmatter — indicates which audit steps are done
+- **`tracking/audit-chapter-{N}.md`** — detailed style, character, and continuity findings
+- **No separate `auditChain` block** in chapter frontmatter
 
 ---
 
-## Option S: Selective Execution
+## Running Audits Independently
 
-**User Message:**
-```text
-Choose the steps to run:
-
-[1] Review (Recommended)
-[2] Living Bible Update (Recommended)
-[3] Character Audits (Recommended)
-[4] Thematic Tracking
-[5] Rhythm Analysis
-
-Enter the step numbers to run (comma-separated):
-```
-
-**Procedure:**
-- Execute only selected steps in order (1-5)
-
----
-
-## Option D: Defer Execution
-
-**User Message:**
-```text
-⏸️ Audit chain deferred
-
-The audits will not be executed now.
-
-⚠️ IMPORTANT: Without audits, you risk:
-- Inconsistencies in future chapters
-- Bible out of sync
-- Inconsistent characters
-
-You can run the audits manually later:
-- Review : `review -c {chapter_number}`
-- Living Bible : `living-bible -e`
-- Character Audit : `character-audit -c`
-
-Do you really want to defer? [Y] Yes / [N] Cancel and run the chain
-```
-
-**Procedure:**
-- Wait for user confirmation
-- If confirmed, skip audit chain
-- If N cancelled, proceed to automatic execution
-
----
-
-## Chain Completion Summary
-
-**User Message:**
-```text
-✅ Audit chain complete!
-
-Steps executed: [list of completed steps]
-Steps skipped: [list of skipped steps, if any]
-
-Results summary:
-- Review : ✅/❌ [result]
-- Living Bible : ✅/❌ [result]
-- Character Audits: [N] audits created
-- Thematic Tracking : ✅/❌ [result if executed]
-- Rhythm Analysis : ✅/❌ [result if executed]
-
-Files created/updated:
-- [List audit files created]
-- [List bible files updated]
-- [List tracking files updated]
-```
-
----
-
-## Chain Status Storage
-
-**Store in Chapter Frontmatter:**
-
-```yaml
-auditChain:
-  review: completed/skipped/failed
-  bibleUpdate: completed/skipped
-  characterAudits: completed/skipped/partial
-  thematicTracking: completed/skipped
-  rhythmAnalysis: completed/skipped
-  lastChainDate: {date}
-```
-
----
-
-## Audit Chain Steps Reference
-
-**Step 1: Review** (CRITICAL)
-- Validates consistency
-- If fails: Pause for user decision
-
-**Step 2: Living Bible Update**
-- Updates 5 dimensions
-- Chronology, Locations, Objects, Characters, Themes
-
-**Step 3: Character Audits**
-- One audit per character present in chapter
-- Tracks character development
-
-**Step 4: Thematic Tracking**
-- Updates thematic progression
-- Monitors theme evolution
-
-**Step 5: Rhythm Analysis** (Optional)
-- Analyzes chapter pacing
-- Flow and rhythm assessment
+If needed outside the chapter-write workflow:
+- Style audit: Load style-coach agent + style profile
+- Character audit: `character-audit -c {chapter_number}`
+- Bible update: `living-bible -e`
+- Review: `review -c {chapter_number}`

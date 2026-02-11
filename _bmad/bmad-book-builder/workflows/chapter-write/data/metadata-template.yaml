@@ -1,5 +1,5 @@
 # Chapter Metadata Template
-# Used by step-07-finalize to generate chapter metadata files
+# Used by step-06-bible-update to generate chapter metadata files
 
 ---
 chapter: {chapter_number}
@@ -7,6 +7,8 @@ title: "{chapter_title}"
 wordCount: {actual_count}
 pov: "{pov_character}"
 timeline: "{when_in_story}"
+mode: "{PRESSURE|TEXTURE}"
+phase: {phase_number}
 
 summary: |
   {paragraph 1 - main events}
@@ -31,21 +33,13 @@ locations:
 newElements:
   - {new element 1 - if any}
 
-reviewResults:
-  continuityEditor:
-    pass: {true/false}
-    issues: {count}
-  documentaliste:
-    pass: {true/false}
-    factsChecked: {count}
-  styleCoach:
-    pass: {true/false}
-    voiceScore: {score}
-  characterKeeper:
-    pass: {true/false}
-    inconsistencies: {count}
+auditResults:
+  styleAudit: "{pass/flags}"
+  characterAudit: "{avg score}/10"
+  continuityCheck: "{pass/flags}"
+  auditFile: "tracking/audit-chapter-{N}.md"
 
 createdDate: "{date}"
 lastModified: "{date}"
 author: "{author}"
-status: "final"
+status: "v1-complete"

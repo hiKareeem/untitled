@@ -3,7 +3,7 @@ name: 'step-03-draft'
 description: 'Generate the complete chapter draft following plan, voice, and continuity'
 
 # Navigation
-nextStepFile: './step-04-review.md'
+nextStepFile: './step-04-self-review.md'
 
 # Output
 outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'

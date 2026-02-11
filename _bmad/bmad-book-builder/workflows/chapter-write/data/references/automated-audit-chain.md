@@ -1,125 +1,96 @@
 # Automated Audit Chain Reference
-# Used by chapter-write step-07-finalize for quality assurance
+# Integrated into chapter-write steps 04-06
 
-> **🎯 AUTOMATION CHAIN — Based on the AgentAdam vs BBB analysis**
+> **🎯 AUDIT CHAIN — Integrated into the chapter-write workflow**
 >
-> AgentAdam uses an automatic audit system after each chapter to ensure coherence. BBB now implements an automatic audit chain that triggers Review → Living Bible Update → Character Audits → Thematic Tracking → Rhythm Analysis.
+> The audit chain is built into the final three steps of the chapter-write workflow.
+> It executes automatically as part of the normal chapter writing process.
 >
-> **Reference:** `_bmad-output/bmb-creations/analysis/agentadam-vs-bbb-comparison.md` (sections 5, 7, 8)
+> | Workflow Step | Audit Chain Function |
+> |--------------|---------------------|
+> | step-04-self-review | Style audit against style profile, apply fixes |
+> | step-05-audit | Character audit, continuity check, per-chapter thematic analysis |
+> | step-06-bible-update | Update tracking (themes, emotions, rhythm), bible (characters, locations, objects, themes), project status |
 
 ## Chain Sequence
 
-### Step 1: Review (CRITICAL)
-**Coherence validation before bible update**
+### Step 04: Style Audit (step-04-self-review.md)
+**Voice consistency validation**
 
-**Action:** Execute Review workflow for this chapter
+**Checks:**
+- Negation-before-assertion count (POV-specific targets)
+- Fragment/paratactic percentage
+- Bimodal paragraphs
+- Em dashes, italics, dialogue ratio
+- Sensory hierarchy (POV-specific order)
+- Emotion via physical sensation (never tell directly)
+- Anti-slop checklist (zero tolerance)
+- Metaphor domain (POV-specific, no cross-contamination)
+- Dialogue tags (only "said" + action beats)
+- Average sentence length
 
-**Failure Handling:**
-- ⚠️ Review detected critical issues
-- The audit chain is PAUSED
-- Options: Correct / Ignore / Defer
+**Output:** Findings presented to author. Fixes applied with approval.
 
-**Success:** Continue to Step 2
+### Step 05: Character & Continuity Audit (step-05-audit.md)
+**Content consistency validation**
 
-### Step 2: Living Bible Update
-**Update of the 5 dimensions**
+**Character Audit:**
+- Every character checked against dossier/bible
+- Voice/speech register, mannerisms, psychological state, relationships
+- Coherence scored out of 10
 
-**Dimensions updated:**
-- Chronology: Add chapter events
-- Locations: Update location states
-- Objects: Update introduced/modified objects
-- Characters: Update psychological states
-- Themes: Record thematic progression
+**Continuity Check:**
+- Timeline consistency with previous chapters
+- Object/location continuity with bible
+- Character knowledge boundaries
+- Plan adherence
 
-**Action:** Execute Living Bible Edit mode for this chapter
+**Output:**
+- `tracking/audit-chapter-{N}.md` — structured audit findings
+- `tracking/chapter-{N}-themes.md` — per-chapter thematic analysis
 
-### Step 3: Character Audits
-**Audits of characters present in the chapter**
+### Step 06: Bible & Tracking Update (step-06-bible-update.md)
+**Data propagation to tracking and bible files**
 
-**Process:**
-1. Identify characters present (from synopsis)
-2. For each character:
-   - Contradiction checks (5+ per character)
-   - Overall psychological coherence
-   - Arc progression
+**Tracking updates:**
+- `tracking/themes.md` — chapter entries in all 8 theme tables + Progression by Chapter
+- `tracking/emotions.md` — emotional beats per character
+- `tracking/rhythm.md` — metrics, tension curve, beat map, flow scores, dashboard
 
-**Action:** For EACH character → Execute character-audit workflow (Create mode)
+**Bible updates:**
+- `bible/characters.md` — appearances, recent history, arc progression, new characters
+- `bible/locations.md` — new locations/sub-locations, key events
+- `bible/objects.md` — new/updated objects
+- `bible/themes.md` — Progression by Chapter row, new thematic symbols
 
-### Step 4: Thematic Tracking
-**Update thematic progression**
+**Project tracking:**
+- `project-status.yaml` — chapter entry added
+- Chapter frontmatter set to `status: v1-complete`
 
-**Tracked:**
-- Themes addressed: [list]
-- Progression phase: [1-5]
-- Theme carriers: [which characters]
-- Resonances: [symbolic connections]
+## Status Storage
 
-**Action:** Execute theme-tracker workflow (if available) or update themes.md
+Audit status is tracked in:
+- **Audit file:** `tracking/audit-chapter-{N}.md` (detailed findings)
+- **Chapter frontmatter:** `stepsCompleted` array tracks which steps are done
+- **No separate `auditChain` block** in chapter frontmatter — the stepsCompleted array is sufficient
 
-### Step 5: Rhythm Analysis (OPTIONNEL)
-**Chapter pacing analysis**
-
-**Analyzed:**
-- Tension curve
-- Action/reflection balance
-- Sentence length variation
-- Narrative flow
-
-**Action:** Ask user Y/N, then execute rhythm-analysis workflow if yes
-
-## User Options
-
-### [A] Automatic Chain
-Execute all 5 steps in sequence
-- Step 1 runs first (CRITICAL)
-- Steps 2-4 run automatically
-- Step 5 requires user confirmation
-
-### [S] Selective Chain
-User chooses which steps to execute (1-5, comma-separated)
-Execute only selected steps in order
-
-### [D] Defer
-Skip audits now (NOT RECOMMENDED)
-**Risks:**
-- Inconsistencies in future chapters
-- Bible out of sync
-- Inconsistent characters
-
-**Manual execution later:**
-- Review: `review -c {chapter_number}`
-- Living Bible: `living-bible -e`
-- Character Audit: `character-audit -c`
-
-## Chain Completion Output
+## Completion Output
 
 ```
-✅ Audit chain complete!
+Chapter {N} — "{title}" — v1-complete
 
-Steps executed: [list of completed steps]
-Steps skipped: [list of skipped steps, if any]
+Files created:
+- tracking/audit-chapter-{N}.md
+- tracking/chapter-{N}-themes.md
 
-Results summary:
-- Review: ✅/❌ [result]
-- Living Bible: ✅/❌ [result]
-- Character Audits: [N] audits created
-- Thematic Tracking: ✅/❌ [result if executed]
-- Rhythm Analysis: ✅/❌ [result if executed]
+Files updated:
+- tracking/themes.md, emotions.md, rhythm.md
+- bible/characters.md, locations.md, objects.md, themes.md
+- project-status.yaml
 
-Files created/updated:
-- [List audit files created]
-- [List bible files updated]
-- [List tracking files updated]
-```
-
-## Status Storage (Chapter Frontmatter)
-
-```yaml
-auditChain:
-  review: completed/skipped/failed
-  bibleUpdate: completed/skipped
-  characterAudits: completed/skipped/partial
-  thematicTracking: completed/skipped
-  rhythmAnalysis: completed/skipped
-  lastChainDate: {date}
+Chapter Statistics:
+- Words: {count}
+- Mode: {PRESSURE|TEXTURE}
+- Flow: {score}/10
+- Status: v1-complete
 ```

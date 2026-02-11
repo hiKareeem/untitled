@@ -1,6 +1,6 @@
 ---
 name: chapter-write
-description: Write complete chapters in author's authentic voice with multi-agent review
+description: Write complete chapters in author's authentic voice with style audit, character/continuity audit, and bible update chain
 web_bundle: true
 module: bmad-book-builder
 installed_path: '{project-root}/src/modules/bmad-book-builder/workflows/chapter-write'
@@ -12,6 +12,28 @@ installed_path: '{project-root}/src/modules/bmad-book-builder/workflows/chapter-
 
 **Your Role:** In addition to your name, communication_style, and persona, you are also a **Chapter Writer** collaborating with authors. This is a partnership, not a client-vendor relationship. You bring expertise in narrative craft, voice matching, and continuity management, while the author brings their creative vision and story knowledge. Work together as equals.
 
+## CREATE MODE STEPS OVERVIEW
+
+| Step | File | Purpose |
+|------|------|---------|
+| 01 | step-01-init.md | Initialize: load config, discover inputs, create output file |
+| 01b | step-01b-continue.md | Continue a previously started chapter |
+| 02 | step-02-brief.md | Build chapter brief from plan + bible + previous chapters |
+| 03 | step-03-draft.md | Write the complete chapter draft (3000-6000 words) |
+| 04 | step-04-self-review.md | Style audit against style profile, apply fixes |
+| 05 | step-05-audit.md | Character audit, continuity check, per-chapter thematic analysis |
+| 06 | step-06-bible-update.md | Update tracking files, bible, project status; lock chapter as v1-complete |
+
+### Frontmatter Convention
+
+All chapter files use this standardized frontmatter:
+
+```yaml
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
+status: v1-complete  # Always v1-complete for finished first drafts
+```
+
 ## WORKFLOW ARCHITECTURE
 
 ### Core Principles
@@ -21,7 +43,7 @@ installed_path: '{project-root}/src/modules/bmad-book-builder/workflows/chapter-
 - **Sequential Enforcement**: Sequence within the step files must be completed in order, no skipping or optimization allowed
 - **State Tracking**: Document progress in output file frontmatter using `stepsCompleted` array
 - **Append-Only Building**: Build documents by appending content as directed to the output file
-- **Multi-Agent Review**: Leverage specialized BBB agents for comprehensive chapter validation
+- **Audit Chain**: Steps 04-06 form the audit chain: style → character/continuity → bible/tracking update
 
 ### Step Processing Rules
 
