@@ -550,6 +550,126 @@ Ch 10 introduces a new TEXTURE subtype: **intimate/performance**. Unlike Ch 3 (c
 
 ---
 
+## Chapter 5 — Sofia: "Instrument Drift"
+
+**Phase:** 1 | **Mode:** TEXTURE (scientific/institutional) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,400 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~60 | — | — |
+| Dialogue % | ~10% | 10–20% | ✅ (lower bound) |
+| Avg sentence length | ~17 words | 12–16 | ⚠️ High — scientific register uses longer, more qualified sentences. Appropriate for Sofia's hedged, data-rich POV. |
+| Fragment % (1–5 word sentences) | ~17% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |
+ 6 |                                    ●
+ 5 |        ●───────●                 ╱   ╲
+ 4 |      ╱           ╲             ╱       ●
+ 3 |  ●──╱               ╲───●───╱
+ 2 |
+   +─────────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Opening:** 3/10 — Immersive: pod, data, pattern recognition. The pulse is there.
+- **Liang's office:** 5/10 — Institutional friction: SOP 7.1, "check the instruments," quarterly review deflection.
+- **Recalibration:** 3/10 — Deliberate slowdown: unnecessary diagnostics, frustration, zero historical matches.
+- **Apartment (night):** 6/10 — Quiet escalation: personal archive, Solberg connection, "a signal *listening*," falling asleep counting intervals.
+- **Shape:** Slow institutional build — immersion → friction → deliberate institutional slowdown → private escalation. The tension doesn't peak dramatically — it accumulates through institutional resistance and private revelation. The highest tension is in the closing pages, alone, outside the institution.
+
+### Beat Map
+
+1. [2%] HOOK — "The pulse was there again." → +1
+2. [5%] TEXTURE — Pod, haptic suit, holographic field, sub-strata domain → 0
+3. [8%] CONTEXT — Assignment as "compliment wrapped in a containment strategy" → 0
+4. [12%] REVEAL — Pulse details: 0.7 Hz, 90-second intervals, structured waveform → +1
+5. [16%] INSIGHT — "Not exponential. Not logarithmic. *Something else.*" Decay as withdrawal. → +1
+6. [20%] TEXTURE — Correlation search: throughput, geological, tidal, weather — nothing → 0
+7. [25%] CHARACTER — "She felt the pulse... as an itch in the architecture of her thinking" → 0
+8. [30%] TRANSITION — Liang's office, 47th floor, window facing up → +1
+9. [35%] CONFRONTATION — Data presentation; Liang looks; "Sub-strata band." → +1
+10. [40%] DEFLECTION — "Have you checked the instruments?" SOP 7.1 → +1
+11. [45%] PUSH — "The decay profile is atypical" / "That's an interpretation. Not a measurement." → 0 (tension held)
+12. [48%] CLOSURE — Liang turns back to display. Window facing up. She leaves. → −1
+13. [52%] TEXTURE — Lab described. Central display: decorative, useless. Colleagues. → −1
+14. [55%] PROCESS — Recalibration: 2 hours, 62 sensors, unnecessary but required → 0
+15. [60%] PAYOFF — "The pulse was still there." Sofia smiled. → +1
+16. [65%] PROCESS — Cross-referencing: 47 years, zero matches. "The pulse was new." → +1
+17. [70%] TEXTURE — Empty lab, 19:40, building performing emptiness → 0
+18. [75%] INSIGHT — "The signal is behaving as if it knows it's being measured." → +1
+19. [78%] REPORT — Sanitized submission. Data says everything she can't say. → 0
+20. [82%] ACTION — Field kit taken from shelf. Personal, not institutional. → +1
+21. [85%] TEXTURE — VEC at night. "A building performing emptiness." → 0
+22. [88%] CLIMAX — "Not a signal dissipating. A signal *listening.*" → +2
+23. [92%] ARCHIVE — 15th entry saved. Fourteen silences. Solberg. → +1
+24. [95%] REFLECTION — Window shows sky, stars. "The only thing you couldn't see was everything that mattered." → 0
+25. [98%] CLOSING — "Onset. Plateau. Withdrawal. She fell asleep counting the intervals." → 0 (suspended)
+
+**Beat density:** 1 per ~216 words — high for a TEXTURE chapter. Driven by the dual process sequences (Liang confrontation + recalibration/cross-referencing) and the dense closing sequence (archive, Solberg, listening).
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Section break + spatial shift (pod → Liang's office, 47th floor) | 8/10 — clean vertical shift mirrors institutional hierarchy |
+| Scene 2→3 | Section break + spatial shift (Liang's office → monitoring lab, 35th floor) | 7/10 — functional; lab description provides fresh context |
+| Scene 3→4 | Section break + time-skip (lab → apartment, evening → night) | 8/10 — "At 19:40, the monitoring lab was empty" establishes isolation cleanly |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 8/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 7/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.6/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 20%
+- **Reflection:** 80%
+
+### Pacing Notes
+
+- **Strengths:** The pulse motif threads through every scene as structural continuity — "onset, plateau, withdrawal" becomes a rhythmic refrain that literalizes Sofia's compulsion. The institutional process sequences (SOP 7.1, recalibration, cross-referencing) serve double duty as pacing devices — they slow the chapter deliberately, making the reader experience the institutional friction that Sofia experiences. The closing sequence (archive → Solberg → "listening" → counting intervals) is the chapter's strongest stretch rhythmically — tension builds through accumulation of private insight, not action. The bimodal paragraph structure is strong: dense analytical blocks alternate with single-line punches ("That was the problem." / "She left." / "Nothing." / "Zero matches.").
+- **Concerns:** Dialogue at ~10% is at the lower bound. Justified by Sofia's isolation and the institutional nature of the Liang exchange (procedural, not conversational), but future Sofia chapters should push dialogue higher when she engages with Black Babel or Mirelle's records. Sentence length (~17 words) runs above baseline — the scientific register uses qualifiers and subordination more than Fuxi's paratactic chains. Appropriate for Sofia's hedged voice but monitor across her arc. The recalibration sequence (Scene 3 middle) is the slowest stretch — deliberately so, but could feel dense on re-read.
+- **Recommendations:** This chapter establishes the TEXTURE/scientific-institutional template for Sofia. The 80/20 reflection/action split matches Fuxi's (Ch 4) and Nephthys's (Ch 3) TEXTURE chapters — Sofia's TEXTURE mode is as contemplative as the others but channeled through data analysis rather than body-knowledge or theology. The pulse-as-refrain device ("onset, plateau, withdrawal") should evolve across her chapters: same rhythm, changing context. The institutional process-as-pacing device (making the reader wait as the institution makes Sofia wait) is specific to this POV and should recur.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 4 = working-class TEXTURE/Fuxi → Ch 5 = scientific TEXTURE/Sofia — same mode, different register)
+
+### Comparison to Previous Chapters
+
+| Metric | Prologue | Ch 1 | Ch 3 | Ch 4 | Ch 5 | Ch 10 | Delta (Ch5 vs avg) |
+|--------|----------|------|------|------|------|-------|---------------------|
+| Words | 4,800 | 5,200 | 5,400 | 5,200 | 5,400 | 5,200 | +167 |
+| Scenes | 4 | 4 | 3 | 4 | 4 | 3 | +0.33 |
+| Dialogue | 15% | 11% | 18% | 8% | 10% | 18% | −3.3% |
+| Flow | 8.8 | 9.2 | 8.2 | 8.6 | 8.6 | 9.0 | −0.1 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Plateau (3→7→5) | Plateau (2→7→5) | Institutional build (3→5→3→6) | Suppressed swell (3→8→3) | New shape |
+| A/R balance | 35/65 | 40/60 | 25/75 | 20/80 | 20/80 | 30/70 | −6% action |
+| Fragment % | 22% | 20% | 15% | 14% | 17% | 19% | −0.7% |
+
+Ch 5 introduces a new TEXTURE subtype: **scientific/institutional**. Unlike Ch 3 (contemplative/theological) or Ch 4 (working-class/infrastructure), Sofia's TEXTURE mode features institutional friction as its pacing mechanism — the process *is* the antagonist, and the reader experiences the institution's temporal architecture alongside Sofia. The tension shape is unique: instead of a single peak and descent, it features a mid-chapter deflation (Liang's deflection, recalibration) followed by a *private* escalation in the closing pages. The highest tension is in Scene 4 (alone, archive, "listening") — unlike other chapters where the peak is in the crisis scene. This inverted shape reflects Sofia's arc: the institution is where she's constrained; solitude is where she's free.
+
+Fragment percentage recovery (14%→17%) continues the upward trend from Ch 4's low point. The bimodal paragraph structure is strong — Sofia's voice naturally produces analytical blocks punctuated by short declarative punches. Flow score (8.6) matches Ch 4 exactly, appropriate for consecutive TEXTURE chapters.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -559,7 +679,7 @@ Ch 10 introduces a new TEXTURE subtype: **intimate/performance**. Unlike Ch 3 (c
 | 2 | Mirelle | — | TEXTURE | — | — | — | — | 📝 |
 | 3 | Nephthys | 5,400 | TEXTURE | 18% | 3→7→5 | 8.2 | 25/75 | ✅ |
 | 4 | Fuxi | 5,200 | TEXTURE | ~8% | 2→7→5 | 8.6 | 20/80 | ✅ |
-| 5 | Sofia | — | TEXTURE | — | — | — | — | 📝 |
+| 5 | Sofia | 5,400 | TEXTURE | 10% | 3→5→3→6 | 8.6 | 20/80 | ✅ |
 | 6 | Zeyad | — | TEXTURE | — | — | — | — | 📝 |
 | 7 | Aurielle | — | PRESSURE | — | — | — | — | 📝 |
 | 8 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
@@ -574,7 +694,7 @@ Ch 10 introduces a new TEXTURE subtype: **intimate/performance**. Unlike Ch 3 (c
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 5/11 | 5/11 | 8.7 | 4.8 | 2P/3T | ⏳ |
+| Phase 1 | 6/11 | 6/11 | 8.7 | 4.7 | 2P/4T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -583,4 +703,4 @@ Ch 10 introduces a new TEXTURE subtype: **intimate/performance**. Unlike Ch 3 (c
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 10 rhythm analysis_
+_Updated by: Audit Chain — Chapter 5 rhythm analysis_

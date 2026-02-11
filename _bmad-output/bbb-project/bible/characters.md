@@ -467,6 +467,36 @@ This bible dimension tracks **current character states**:
 
 ---
 
+### Dr. Liang
+
+**Role:** Supporting (Sofia's supervisor at VEC)
+**Faction:** VEC (Atmospheric Anomaly Group supervisor)
+**Primary Location:** Neo-Shanghai / VEC HQ, 47th floor office
+
+**Current Psychological State:**
+- Phase: N/A (supporting — no arc tracked)
+- Emotional State: Institutional neutral. Competent, cautious, procedural.
+- Dominant Beliefs: "The process works. The process is the product." Data that doesn't fit the model is instrument error until proven otherwise.
+- Internal Contradictions: His jaw tightened at the decay profile — he may see more than he shows. But his response is always institutional: procedure first, interpretation never.
+
+**Function in Story:** The institutional mechanism personified — not hostile, just process. SOP 7.1 as a person. What the architecture looks like when it has a face. Different from Chen Wei (fossilized certainty) — Liang is *strategic* institutional compliance. He may understand what Sofia is showing him. He redirects it into procedure anyway. The question of whether Liang is protecting the institution or protecting Sofia (from the institution) is left unresolved in Ch 5.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Sofia Reyes | Subordinate | Professional → Antagonistic | Assigned her to sub-strata band (containment strategy); redirects her anomaly into SOP 7.1 pipeline |
+
+**Speech Register:** Calm, procedural, precise. Short directives. No emotional language. "Run them again." "That's an interpretation, Dr. Reyes. Not a measurement." The voice of the institution speaking through a person.
+
+**Appearances:**
+- Last Appearance: Chapter 5 — "Instrument Drift" (first direct appearance)
+- Next Planned Appearance: Chapter 15 (asks Sofia to hold publication)
+
+**Recent History:**
+- **Ch 5:** Reviewed Sofia's 0.7 Hz pulse data visualization for 15 seconds. Asked when it started, duration. Jaw tightened at the decay profile. Told her to check instruments (SOP 7.1). Told her to recalibrate, document, submit through standard channel for quarterly review. Dismissed "withdrawing" language as "an interpretation, not a measurement." Turned back to desk display.
+
+---
+
 ### Sofia Reyes
 
 **Role:** POV #7 (4–5 chapters)
@@ -508,11 +538,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1
+- Last Appearance: Chapter 5 ("Instrument Drift") — debut POV chapter
+- Next Planned Appearance: Chapter 15 ("Correlation 0.94")
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Connected the number 14 (her previous archive entries) to the Erasure List epigraph about Solberg. First encounter with the name "Solberg" (no context yet). Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
+- **Emotional arc (Ch 5):** Focused immersion → discovery thrill (smiled when pulse survived recalibration) → institutional frustration → quiet defiance → compulsive pattern fixation
 
 ---
 
@@ -818,7 +849,7 @@ This bible dimension tracks **current character states**:
 | Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
 | Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
 | Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Ch 4 |
-| Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
+| Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Ch 5 |
 | Kira | 1/5 | Performer → Witness | Group chat (Dex, Priya, Tomás, Suki), Audience (~200K), Academy | Ch 10 |
 | Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Ch 4 |
 | **Supporting** | | | | |
@@ -829,6 +860,9 @@ This bible dimension tracks **current character states**:
 | Lien Suen | N/A | (Supporting) | Mirelle (source), Dao Suen (missing husband) | Ch 2 |
 | Gauthier | N/A | (Supporting — editor) | Mirelle (reporter) | Ch 2 |
 | Chen Wei | N/A | (Supporting — supervisor) | Fuxi (subordinate) | Ch 4 |
+| Dr. Liang | N/A | (Supporting — supervisor) | Sofia (subordinate) | Ch 5 |
+| Dr. Yun | N/A | (Background — colleague) | Atmospheric Anomaly Group | Ch 5 |
+| Farid | N/A | (Background — colleague) | Atmospheric Anomaly Group | Ch 5 |
 
 ---
 
@@ -863,7 +897,7 @@ This bible dimension tracks **current character states**:
 | Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
 | Nikolai | Doctrine → Broken Doctrinaire | Pre-intro | Mid-Levels deployment |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
-| Sofia | Institutional → Rogue | 1/5 | Anomalous data dismissed |
+| Sofia | Institutional → Rogue | 1/5 | Timestamp correlation with Stalker deployments (Ch 15) |
 | Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 
@@ -884,8 +918,12 @@ This bible dimension tracks **current character states**:
 | Priya | New character (indirect) | — | Group chat member; truth-seeker; felt "pull" at 21:30 UTC | Ch 10 |
 | Tomás | New character (indirect) | — | Group chat member; playful normalizer | Ch 10 |
 | Suki | New character (indirect) | — | Group chat member; field mage; minimal, precise | Ch 10 |
+| Sofia Reyes | Debut + Recent History | Pre-intro | First POV chapter; 0.7 Hz pulse detection, Liang dynamic, personal archive (14+1), Solberg name planted | Ch 5 |
+| Dr. Liang | New character | — | Introduced as Sofia's supervisor at VEC; 51, institutional mechanism, SOP 7.1 personified | Ch 5 |
+| Dr. Yun | New character (background) | — | Atmospheric Anomaly Group colleague; standard modeling | Ch 5 |
+| Farid | New character (background) | — | Atmospheric Anomaly Group colleague; sensor calibration | Ch 5 |
 
 ---
 
-_Last updated: 2026-02-11 (Ch10 draft)_
-_Updated by: Audit Chain — Chapter 10_
+_Last updated: 2026-02-11 (Ch5 draft)_
+_Updated by: Audit Chain — Chapter 5_

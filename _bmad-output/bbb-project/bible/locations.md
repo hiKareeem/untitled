@@ -177,7 +177,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Stratum:** Highest
 **RCI Range:** <5
-**Characters Present:** Aurielle Vasquez
+**Characters Present:** Aurielle Vasquez, Sofia Reyes (VEC HQ)
 
 **Resources:**
 - Corporate infrastructure (abundant)
@@ -191,7 +191,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - BLACKWEIR authorization originates here
 
 **Key Events:**
-- [To be populated as chapters are written]
+- Ch 5: Sofia detects anomalous 0.7 Hz pulse in VEC HQ sub-strata sensors. Liang deflects (SOP 7.1). Instruments fine. Personal archive entry #15.
+
+**Sub-Locations (established Ch 5):**
+- **VEC Atmospheric Monitoring Lab (35th floor):** 11 workstations in horseshoe around central holographic display (3m sphere, decorative, not used for real analysis). Immersion pods at each station. Sofia's pod at far end (chosen for isolation). Evening protocol dims lights.
+- **Immersion Pod (Sofia's):** VEC-standard holographic analysis environment — sealed chamber, walk-in closet sized. Projection arrays render data as 3D spatial fields. Haptic suit translates frequency as texture, amplitude as pressure, temporal patterns as rhythm. Where Sofia does her real work.
+- **Dr. Liang's Office (47th floor):** Administrative stratum. Floor-to-ceiling window facing outward/upward — Spire district view, Sump invisible below. Three holographic displays in semicircle. Clean, organized. Window orientation = institutional gaze.
+- **Sofia's Apartment (VEC residential level):** Institutional housing for senior research fellows. Quiet, climate-controlled. Window shows sky/stars. Contains encrypted personal terminal (non-VEC network components). Small desk. The hum reduced to a whisper.
 
 **Significance:** Where the decisions are made. Where BLACKWEIR is authorized. Where the stock price recovers within 48 hours.
 

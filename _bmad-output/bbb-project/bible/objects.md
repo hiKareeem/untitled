@@ -528,6 +528,72 @@ An object deserves documentation if it:
 
 ## Transfer History
 
+### VEC Immersion Pod (Sofia's)
+
+**Origin:**
+- Provenance: VEC-standard holographic analysis environment
+- Discovered/Created: Pre-story (standard VEC equipment)
+- Circumstances: Assigned to Sofia at station at far end of monitoring lab horseshoe (chosen for isolation)
+
+**Description:**
+- Appearance: Sealed chamber the size of a walk-in closet. Walls lined with projection arrays rendering data as 3D spatial fields. Blue-white ambient lighting.
+- Function: Haptic suit interface — translates frequency as texture, amplitude as pressure, temporal patterns as rhythm against skin. Data becomes a landscape the user inhabits.
+- Condition: Operational
+
+**Significance:** Where Sofia does her real work. The pod is where she found the pulse, where she exists most fully as a scientist. The haptic suit makes data *physical* — she doesn't read it, she inhabits it. This is the space where pattern recognition becomes compulsion.
+
+**Current Owner:** Sofia Reyes (assigned station)
+**Location:** VEC Atmospheric Monitoring Lab, 35th floor, Neo-Shanghai
+
+**History:**
+- Ch 5: Sofia detects 0.7 Hz pulse in the pod; runs 6 analyses; recalibrates 62 sensors; cross-references 47 years of data. Smiled when pulse survived recalibration.
+
+---
+
+### Sofia's Field Kit
+
+**Origin:**
+- Provenance: Assembled by Sofia from VEC surplus and aftermarket components over 2 years
+- Discovered/Created: ~2173 (2 years before story)
+- Circumstances: Built piece by piece, each component chosen for ability to take readings outside VEC's institutional pipeline
+
+**Description:**
+- Appearance: Ruggedized sensor package (personal, not institutional)
+- Function: Data goes to Sofia's personal archive before anywhere else. Portable atmospheric monitoring independent of VEC systems.
+- Condition: Operational, not yet deployed for the sub-strata anomaly
+
+**Significance:** The field kit represents Sofia's institutional grey zone — not sanctioned, not prohibited, tolerated as long as it doesn't produce results that contradict institutional findings. It exists in the space between institutional compliance and independent investigation. When she deploys it outside VEC for the pulse, she crosses a line.
+
+**Current Owner:** Sofia Reyes
+**Location:** Sofia's bag (taken from lab shelf, Ch 5)
+
+**History:**
+- Ch 5: Mentioned, picked up from shelf, placed in bag. Not yet deployed for the sub-strata pulse. The taking of the kit is the chapter's most concrete act of quiet defiance.
+
+---
+
+### Sofia's Personal Archive
+
+**Origin:**
+- Provenance: Encrypted terminal built by Sofia from components that have never touched VEC's network
+- Discovered/Created: ~2173 (2 years before story)
+- Circumstances: Created to preserve anomalous readings that VEC's classification pipeline recalibrated into silence
+
+**Description:**
+- Appearance: Encrypted terminal in Sofia's VEC apartment, small desk
+- Function: Stores data outside VEC's institutional pipeline. Non-VEC network components. Personal research archive.
+- Condition: Active — 15 entries as of Ch 5
+
+**Significance:** The archive is Sofia's act of responsibility — not rebellion but preservation. It contains 14 previous anomalous readings that VEC's process recalibrated into silence, plus the 15th (the 0.7 Hz pulse). The number 14 connects to the Erasure List epigraph: "Before Solberg, there were fourteen independent attempts to measure the coherence anomaly. All fourteen were recalibrated into silence." The archive becomes critical in Phase 3 when VEC classifies her work, and in Phase 4-5 when she publishes through Black Babel.
+
+**Current Owner:** Sofia Reyes
+**Location:** Sofia's apartment, VEC residential level
+
+**History:**
+- Ch 5: 15th entry saved — the 0.7 Hz pulse data, waveforms, temporal analysis, recalibration documentation, and the anomaly report submitted through official channels. The official copy enters the pipeline; the personal copy stays outside.
+
+---
+
 | Object | From | To | Day | Circumstances |
 |--------|------|-----|-----|---------------|
 | Mirelle's Caches | Mirelle | Black Babel | Phase 1–3 | Dead-drop deposits |

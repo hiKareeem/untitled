@@ -296,6 +296,70 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 
 ---
 
+## Character: Sofia Reyes
+
+### Emotional Arc Summary
+
+Sofia's debut chapter establishes her as a scientist whose emotional life is inseparable from her intellectual one. She begins in focused immersion — the pod is her element, the data is her medium, and the pulse she's been chasing for three days is the current focus of her pattern-recognition compulsion. The discovery of structure in the pulse produces not alarm but *delight* — she smiled when the recalibration confirmed the instruments were fine, because "fine instruments" means "real signal," and a real signal is the purest expression of her empirical faith. The Liang encounter is the chapter's emotional inflection point: not anger (she keeps her voice level, scientific register) but the precise frustration of a competent researcher whose institution cannot accommodate her competence. The recalibration sequence is emotionally flat by design — she is performing institutional compliance, not engaging with it. The closing sequence is the emotional peak: alone, outside the institution, she allows herself the thought the institution can't hold ("a signal *listening*"), connects the number fourteen to the Solberg epigraph, and falls asleep counting the intervals. The compulsion has become the emotion. The pattern is in her now.
+
+### Dominant Emotions
+
+- **Primary**: Pattern-recognition compulsion — the itch in the architecture of her thinking, the gap in the model she cannot leave alone
+- **Secondary**: Discovery delight — the smile when the pulse survives recalibration; curiosity as the original sin
+- **Conflict**: Institutional faith vs. private knowledge. She still trusts the process. She also keeps a private archive. These two facts coexist — for now.
+
+### Emotional State by Phase
+
+- **Opening (pod)**: Focused immersion — the pulse as intellectual puzzle, the pod as her element. Not anxiety — engagement.
+- **Liang's office**: Controlled frustration — scientific register maintained, voice level, data presented cleanly. The frustration is in what she can't say, not what she says.
+- **Recalibration**: Performed compliance — emotionally flat. She is doing what the institution requires, not what the data requires.
+- **Post-recalibration**: Discovery delight — the smile. The pulse survived. The instruments are fine. The signal is real.
+- **Cross-referencing**: Growing unease — 47 years, zero matches. The correlation that should exist doesn't. "The gap in the model where the correlation should be and wasn't."
+- **Apartment (night)**: Private revelation — the thought she couldn't write in the report. The archive. The Solberg connection. The pulse as refrain. Compulsion as emotional state.
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 5 — Beat 1 | Focused immersion | Pulse in sub-strata data, 3 days of chasing | Leaned forward in pod; haptic gloves on field edges; "the shape she'd been chasing" | None — alone in pod |
+| Ch 5 — Beat 2 | Intellectual pleasure | Pulse structure holds after 6 analyses | "She'd run the analysis six times. The structure held." Quiet satisfaction | None — internal |
+| Ch 5 — Beat 3 | Frustration (contained) | No correlation in any database | "Pressed her palms against her eyes"; ache behind temples; "an itch in the architecture of her thinking" | None — alone |
+| Ch 5 — Beat 4 | Professional composure | Presenting data to Liang | Voice level; data clean; spent an hour formatting visualization. "The data was the argument." | Liang: reviews for 15 seconds; asks questions |
+| Ch 5 — Beat 5 | Precise frustration | "Have you checked the instruments?" (SOP 7.1) | "The instruments are fine." Direct statement, no hedging. "Dr. Liang—" (cut off) | Liang: unmoved; "Run them again." |
+| Ch 5 — Beat 6 | Controlled anger (micro) | "That's an interpretation. Not a measurement." | Keeps voice level; pushes once more on decay profile; stands in doorway "a moment longer than professionally appropriate" | Liang: turns back to display; conversation over |
+| Ch 5 — Beat 7 | Performed compliance | Liang's recalibration order | Two hours of diagnostics she knows are unnecessary; "the documentation was the thing that mattered" | None — institutional process |
+| Ch 5 — Beat 8 | Discovery delight | Pulse survives recalibration | "Sofia sat in the immersion pod and smiled." The instruments are fine. The signal is real. | None — alone; the smile is private |
+| Ch 5 — Beat 9 | Growing unease | Zero historical matches in 47 years | "Stared at the empty timeline. Her hands were still in the holographic field, fingers resting on nothing" | None — alone |
+| Ch 5 — Beat 10 | Private revelation | "The signal is behaving as if it knows it's being measured" | Allows herself the thought she can't write in the report; the space between measurement and meaning | None — internal |
+| Ch 5 — Beat 11 | Quiet defiance | Taking field kit from shelf | "Personal, not institutional." Places it in bag. The institution told her to check instruments; she checked. Now she has her own. | None — alone in dark lab |
+| Ch 5 — Beat 12 | Compulsive fixation | "Not a signal dissipating. A signal *listening.*" | Alone in apartment; saves to archive; connects fourteen to Solberg; falls asleep counting intervals | None — alone; the pattern is in her now |
+
+---
+
+## Character: Dr. Liang
+
+### Emotional Arc Summary
+
+Liang displays institutional neutral throughout — which is his function. He is not hostile. He is process. The single micro-expression (jaw tightening at the decay profile) is the only crack, and it's immediately sealed by procedural response. Whether he understands what Sofia is showing him and redirects it anyway, or genuinely believes in the process, is deliberately unresolved. His emotional register is the institution's emotional register: calm, procedural, precise, without affect.
+
+### Dominant Emotions
+
+- **Primary**: Institutional neutral — competent, cautious, procedural
+- **Secondary**: Micro-recognition (jaw tightens at decay profile — sees *something*)
+- **Conflict**: None visible — which may be the point, or may be the mask
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 5 — Beat 1 | Administrative routine | Sofia enters; quarterly due Friday | Doesn't look up; "Your quarterly is due Friday." | Sofia: notes the institutional framing |
+| Ch 5 — Beat 2 | Attentive assessment | Sofia's data visualization | Studies display for 15 seconds; asks "When did this start?" and "Duration?" — genuine information-gathering | Sofia: reads micro-expressions for processing vs. dismissal |
+| Ch 5 — Beat 3 | Micro-recognition | Decay profile in the waveform | "His jaw tightened fractionally at the decay profile" — the part that was wrong | Sofia: notes it; reads it as processing |
+| Ch 5 — Beat 4 | Institutional directive | Decision point | "Have you checked the instruments?" — SOP 7.1 activated | Sofia: precise frustration |
+| Ch 5 — Beat 5 | Procedural closure | Sofia pushes on decay profile | "That's an interpretation, Dr. Reyes. Not a measurement." Turns back to display. | Sofia: stands in doorway; leaves |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -316,8 +380,10 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 | Priya | Indirect (text) | 1 | Serious truth-seeker | Active — seeds Ch 18 |
 | Tomás | Indirect (text) | 1 | Playful normalizer | Active — group chat member |
 | Suki | Indirect (text) | 1 | Minimal field-mage precision | Active — deployment context |
+| Sofia Reyes | POV (debut) | 12 | Focused immersion → Intellectual pleasure → Frustration → Professional composure → Precise frustration → Controlled anger → Performed compliance → Discovery delight → Growing unease → Private revelation → Quiet defiance → Compulsive fixation | Active — Phase 1/5; pulse compulsion, institutional faith intact but personal archive growing |
+| Dr. Liang | Supporting | 5 | Administrative routine → Attentive assessment → Micro-recognition → Institutional directive → Procedural closure | Active — no arc tracked; institutional mechanism; jaw tightened at decay profile |
 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 10 character audits_
+_Updated by: Audit Chain — Chapter 5 character audits_
