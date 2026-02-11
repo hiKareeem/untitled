@@ -2,8 +2,8 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-10"
-lastChapter: 0
+lastUpdated: "2026-02-11"
+lastChapter: 10
 totalLocations: 18
 activeLocations: 13
 project_name: "Untitled"
@@ -281,7 +281,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Controlled by:** NitroCore
 
 **Key Events:**
-- Ch 1: Eduardo Vasquez assassinated at Celestial Ballroom gala (thermal round, military grade, high angle). Aurielle inherits NitroCore.
+- Ch 1: Eduardo Vasquez assassinated at Celestial Ballroom gala (thermal-kinetic round, military grade, high angle). Aurielle inherits NitroCore.
 - Ch 7: First board meeting in Executive Chamber. Quarterly review — slide 17 ("Sump Infrastructure Lifecycle Management"). Thorne's private LP9 briefing in Eduardo's office. Cause-cost separation revealed.
 
 ---

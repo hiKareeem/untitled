@@ -13,12 +13,12 @@ mode: PRESSURE
 summary: |
   Aurielle Vasquez navigates a corporate gala at the Celestial Ballroom on the 114th floor of NitroCore Tower, reading the room with institutional fluency — cataloging the GCTA's empty chair, the Chimera Collective delegation's coordinated arrival, and a logistics director's lie about a Mombasa expansion timeline. She excuses herself to join her father Eduardo on stage for his keynote speech, noting his nervous cuff-adjustment tell. She takes her seat among the executive delegation, Thorne two chairs to her left, and stops listening — her mind sorting the evening's data points while Eduardo's voice becomes rhythm without content.
 
-  A hard cut. Salt on her tongue. Brain matter on her shimmer-silk dress. Eduardo is still standing at the podium, hands gripping the lectern, but erased from the nose up by a thermal round. The holographic display still scrolls his name. Aurielle cannot hear or remember the shot — it exists as absence. Thorne, whose suit is clean despite being two chairs away, hands her a pristine white handkerchief, tells her the cameras are recording, and walks her out. In the corridor, he activates Board Resolution 2175-003 (emergency succession, no quorum required), floats theories about the assassin without committing to a narrative, and delivers the line he had ready: "Welcome to the throne, my dear. Try not to slip."
+  A hard cut. Salt on her tongue. Brain matter on her shimmer-silk dress. Eduardo is still standing at the podium, hands gripping the lectern, but erased from the nose up by a thermal-kinetic round. The holographic display still scrolls his name. Aurielle cannot hear or remember the shot — it exists as absence. Thorne, whose suit is clean despite being two chairs away, hands her a pristine white handkerchief, tells her the cameras are recording, and walks her out. In the corridor, he activates Board Resolution 2175-003 (emergency succession, no quorum required), floats theories about the assassin without committing to a narrative, and delivers the line he had ready: "Welcome to the throne, my dear. Try not to slip."
 
   Alone in a private suite on the 116th floor, Aurielle rotates her left wrist (signature mannerism), avoids the mirror, and keeps the handkerchief. She seals the suspicion — "He knew" — because she needs Thorne. The chapter ends with her looking out at the Spires catching evening light, the color of refined nitro, the color of the grid her family built. She doesn't look down. She can't see the Sump from here. Nobody can.
 
 keyPoints:
-  - Eduardo Vasquez assassinated mid-speech at corporate gala by thermal round (military grade, high angle)
+  - Eduardo Vasquez assassinated mid-speech at corporate gala by thermal-kinetic round (military grade, high angle)
   - Aurielle inherits NitroCore via Board Resolution 2175-003 (emergency succession)
   - Thorne's clean suit and pre-assembled responses plant suspicion of orchestration
   - Aurielle seals the suspicion ("He knew") — partitioned alongside dependence
@@ -39,7 +39,7 @@ characters:
   - name: "Marcus Thorne"
     role: Supporting
     key_moments:
-      - "Suit clean despite proximity — two chairs from thermal round"
+      - "Suit clean despite proximity — two chairs from thermal-kinetic round"
       - "Handkerchief pre-folded, board resolution pre-memorized"
       - "'Welcome to the throne, my dear. Try not to slip.'"
       - "Floats theories without declaring a narrative"

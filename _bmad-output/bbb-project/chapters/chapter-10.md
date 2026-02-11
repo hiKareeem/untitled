@@ -225,7 +225,7 @@ Kira stared at it. Her right eye on the text. Her left eye already scanning the 
 
 That was Tomás.
 
-*Idk. Hard to describe. Like a pull? In the implant. Around 21:30 UTC. Lasted maybe ten seconds.*
+*Idk. Hard to describe. Like a pull? In the implant. Around 11:30 UTC. Lasted maybe ten seconds.*
 
 Dex:
 
@@ -233,7 +233,7 @@ Dex:
 
 Tomás:
 
-*😭😭 priya what are you on and where can I get some*
+*😭😭 Priya what are you on and where can I get some*
 
 Priya:
 
@@ -251,9 +251,9 @@ Dex:
 
 The chat moved on. Someone posted a clip of a cat. Tomás sent a meme she'd seen three times already. Dex and Priya started arguing about a game neither of them had finished. Normal. Casual. The texture of people who'd known each other since they were children with fresh implants and bad haircuts, before the hum had become loud enough to talk about and the talking had become complicated enough to avoid.
 
-Kira read Priya's message again. *Like a pull. In the implant. Around 21:30 UTC.*
+Kira read Priya's message again. *Like a pull. In the implant. Around 11:30 UTC.*
 
-21:30 UTC. That was — she checked, though she didn't need to — the landscape pan. Hour nine. The three seconds she'd bought herself. The scream.
+11:30 UTC. That was — she checked, though she didn't need to — the landscape pan. Hour nine. The three seconds she'd bought herself. The scream.
 
 She started typing. Stopped. Her fingers hovered — not over the keyboard but over the edge of the desk, pressing into the surface, finding shapes. Silent chord progressions. C minor. F diminished. The patterns her hands made when her mind was working faster than her willingness to commit to a thought.
 

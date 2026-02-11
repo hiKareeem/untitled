@@ -2,9 +2,9 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-10"
-lastChapter: 0
-totalDays: 0
+lastUpdated: "2026-02-11"
+lastChapter: 10
+totalDays: 21
 totalHistoricalEvents: 18
 project_name: "Untitled"
 ---
@@ -189,9 +189,89 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ## Timeline
 
-<!-- Chapter-by-chapter chronology entries begin here -->
-<!-- Entries will be added as chapters are completed, tracking day-by-day story events -->
-<!-- Available periods: Morning, Noon, Afternoon, Evening, Night -->
+### Prologue — Arctic-7 (2174, December)
+
+**Night:** Arctic-7 Breach
+- Details: RCI climbs without throughput driver. Harmonic overtone inverts. Fissure opens in monitoring bay. Fracture geometry propagates along infrastructure. Station absorbed.
+- Characters: Elise Vantanen, Tamsin Guo, Mäkelä, Patel
+- Location: Arctic-7 Research Station (Barents shelf)
+- Consequences: Entire facility and crew absorbed. Classified by NitroCore. Largest incursion to date.
+
+### Day 1 — Eduardo's Assassination (2175, ~3 weeks before Ch 7)
+
+**Evening:** NitroCore Annual Innovation Gala
+- Details: Eduardo Vasquez assassinated mid-speech by thermal-kinetic round. Erased from nose up. Aurielle inherits via Board Resolution 2175-003.
+- Characters: Aurielle Vasquez (POV), Eduardo Vasquez (deceased), Marcus Thorne
+- Location: Celestial Ballroom (114th floor), NitroCore Tower, Neo-Shanghai Spires
+- Consequences: Aurielle becomes Chair. Thorne activates institutional continuity protocols. Handkerchief bloodstained.
+
+### Day 1–7 — Early Sump Activity (concurrent with Ch 1)
+
+**[Ongoing]:** Mirelle Investigates Disappearances (Ch 2)
+- Details: Mirelle interviews Lien about Dao Suen's disappearance. Documents chalk names, elevated RCI (19.4), shimmer near hatch. Editor Gauthier refuses to run the story.
+- Characters: Mirelle Dubois (POV), Lien, Gauthier
+- Location: Neo-Shanghai Sump — Lien's apartment, conduit corridors, editorial office
+- Consequences: Pattern established — 16 disappearances within 200m of trunk-line junctions. Story suppressed. Private files maintained.
+
+### Day 2–3 — Outlands Scar Visit (approximate)
+
+**Morning–Afternoon:** Nephthys at Void Scar (Ch 3)
+- Details: Nephthys and Imani visit abandoned town. Chorus contact at scar edge — migraine, nosebleed, 30+ seconds of structured signal. Discovery: the Voice is a chorus (plural), structured, not chaotic.
+- Characters: Nephthys (POV), Imani
+- Location: Abandoned town in the Outlands (rural void scar site)
+- Consequences: Theological revolution confirmed — apophatic framework. Nosebleed from neoplastic turbinate engorgement. Diagnosis: terminal.
+
+### Day 3–5 — Deep Sump Anomaly
+
+**Afternoon (14:47):** Monitor 6 RCI Spike (Ch 4)
+- Details: RCI jumps 27.1→31.2 in one 2-second refresh cycle. Holds, then executes linear decay to baseline — too clean, too symmetrical. Chen Wei dismisses it.
+- Characters: Fuxi Lin (POV), Chen Wei, Nuwa Lin (via frame messages)
+- Location: Neo-Shanghai Deep Sump — monitoring bay, trunk-line section 4-East
+- Consequences: Fuxi logs anomaly but does not escalate. P-3 savings plan established (3 months, 1,200 creds). Linear decay pattern unresolved.
+
+### Day 5–7 — VEC Discovery
+
+**Morning (09:14):** 0.7 Hz Pulse Detected (Ch 5)
+- Details: Sofia discovers structured sub-strata pulse. 0.7 Hz, 90-second intervals, <2s variance. Decay profile: withdrawal, not dissipation. Liang deflects. Sofia recalibrates 62 sensors — pulse persists. Cross-references 47 years of data — zero correlation.
+- Characters: Sofia Reyes (POV), Dr. Liang, Yun, Karim
+- Location: VEC HQ (Spires) — immersion pod, Liang's office, monitoring lab, Sofia's apartment
+- Consequences: Dual-channel strategy: sanitized official report + encrypted personal archive (entry 15). Field kit taken from shelf. Solberg connection seeded.
+
+### Day 7–10 — Diplomatic & Corporate Arcs
+
+**Morning:** Zeyad's Pen (Ch 6)
+- Details: Zeyad receives classified diplomatic brief on accelerating breach data. Navigates UGC politics. The pen (Khalil's, 2039 Geneva) as connection to founding-era idealism. Draft resolution prepared.
+- Characters: Zeyad Al-Fahim (POV), various UGC delegates
+- Location: Hall of Nations, Neo-Shanghai diplomatic quarter
+- Consequences: Resolution will be blocked. Diplomatic channel seeded as ineffective.
+
+**Morning (09:00):** Board Meeting / LP9 Discovery (Ch 7)
+- Details: Aurielle's first quarterly board review as Chair. Discovers LP9 in Eduardo's secured terminal. Thorne's briefing: RCI climbing 3 zones, containment 40% over budget, maintenance deferred 14 months, junction integrity 67%.
+- Characters: Aurielle Vasquez (POV), Marcus Thorne, Chen-Nakamura
+- Location: NitroCore Executive Chamber, Eduardo's office
+- Consequences: LP9 knowledge changes Aurielle's calculation. "Not-asking is a skill the position requires."
+
+### Day 14–18 — Domestic & Tradecraft
+
+**Evening:** Fuxi & Nuwa Domestic Scene (Ch 8)
+- Details: First physical Nuwa appearance. P-3 savings update (2 months in, 1 remaining). Nuwa's Mid-Level transfer ambition. Shimmer near stall 14 — neither names it. Jun's multitool first prose appearance.
+- Characters: Fuxi Lin (POV), Nuwa Lin
+- Location: Sump residential — Fuxi & Nuwa's apartment
+- Consequences: Transfer timeline established (4-month transition). Monitor 6 spike still unresolved in Fuxi's mind.
+
+**[Same period]:** Mirelle's Dead Drop (Ch 9)
+- Details: Mirelle meets Talia Ravid at Black Babel node. Encrypted data handoff. Disappearances expanded to 5 sectors. Dead-hand protocol verified (72-hour cycle).
+- Characters: Mirelle Dubois (POV), Talia Ravid
+- Location: Neo-Shanghai Sump → Resonance District → Black Babel node
+- Consequences: Counter-information network activated. Evidence expanding. Clock ticking.
+
+### Day 18–21 — PCC Bay Area
+
+**Evening–Night:** Kira's Stream / The Scream (Ch 10)
+- Details: 10-hour stream. Scream episode at hour 9 (~11:30 UTC / 3:30 AM PST). Professionally suppressed — audience doesn't notice. Post-stream: group chat with Dex, Priya, Tomás, Suki. Priya felt "a pull" at 11:30 UTC. First Lumina dose (40mg), second bump (15mg).
+- Characters: Kira Calloway (POV), Dex/Priya/Tomás/Suki (text)
+- Location: PCC Bay Area — Kira's apartment, streaming setup
+- Consequences: Scream episodes intensifying. Mage network seeded. Lumina dose escalation begins (the fray).
 
 ---
 
@@ -217,7 +297,7 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 | 2160s | First urban breach | Void follows nitro grid into cities |
 | 2170 | Suppressed VEC report | Throughput–breach correlation documented and buried |
 | 2174 Dec | Arctic-7 | Largest incursion to date; entire station absorbed |
-| 2175 | Book 1 opens | Peak infrastructure density; Eduardo Vasquez assassinated by thermal round (military grade, high angle) mid-speech at NitroCore gala (Celestial Ballroom, 114th floor). Aurielle inherits via Board Resolution 2175-003 (emergency succession). Thorne activates institutional continuity protocols immediately. |
+| 2175 | Book 1 opens | Peak infrastructure density; Eduardo assassinated by thermal-kinetic round at NitroCore gala. Aurielle inherits via Board Resolution 2175-003. |
 
 ---
 
@@ -239,5 +319,5 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+_Last updated: 2026-02-11_
+_Updated by: Retroactive bible maintenance — Prologue through Ch 10 events added_

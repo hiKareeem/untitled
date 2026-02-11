@@ -32,7 +32,7 @@ rhetoric_reference: "Solberg 2170 suppressed report"
 
 The hum at Arctic-7 was different.
 
-Elise Vantanen had worked nitro extraction for eleven years — Borneo deep-trench, the Azores platform, two rotations at Kermadec South where the crude came up so hot it sang through the stabilization tanks like a struck bell. She knew the sound the way a sailor knows the pitch of wind in rigging. You didn't listen to it. You lived inside it. It became the texture of your hearing, the floor beneath every other sound, and after enough years you stopped noticing it the way you stopped noticing your own pulse.
+Elise Vantanen had worked nitro extraction for eleven years — Borneo deep-trench, the Azores platform, two rotations at Kermadec South where the crude came up so hot it rang through the stabilization tanks like a struck vessel. She knew the sound the way a sailor knows the pitch of wind in rigging. You didn't listen to it. You lived inside it. It became the texture of your hearing, the floor beneath every other sound, and after enough years you stopped noticing it the way you stopped noticing your own pulse.
 
 But Arctic-7's hum had changed.
 
@@ -114,7 +114,7 @@ R2. Medical grade. Measurable coherence patterns. And the hum was already climbi
 
 He shrugged. The gesture was not casual. "Us. The extraction. Whatever we're doing down there. I don't know. But something is listening that wasn't listening yesterday."
 
-Elise looked around the table. Seven faces. Various shades of unease, from Tamsin's carefully maintained neutrality to Patel's barely concealed alarm to Mäkelä's Finnish stoicism, which she'd learned to read as deeper concern than most people's panic.
+Elise looked around the table. Seven faces. Tamsin's jaw was set, her fingers motionless on the console edge. Patel had pushed his chair back six inches — not enough to stand, enough to have the option. Mäkelä sat perfectly still, which Elise had learned to read as worse than any of it.
 
 "I'm ordering throughput to zero," she said. "Full extraction shutdown. Stabilization tanks to passive containment. I'll file the report as precautionary maintenance — pump inspection. That buys us seventy-two hours before NitroCore sends a compliance team."
 
@@ -178,7 +178,7 @@ It didn't open like a door or split like a wound. It *asserted* itself — expan
 
 The monitoring bay's lights flickered. Every screen in the room scrambled — not to static, but to structured interference, repeating waveforms that matched the three-pulse pattern. Her terminal displayed a spectral analysis waterfall that was no longer amber. It was violet. The RCI readout ticked upward: fifty-one. Fifty-three. Fifty-seven.
 
-She should run. The thought arrived clearly, prioritized by whatever part of her brain still operated on survival logic rather than fascination. The facility had emergency bulkheads. The evacuation protocol was etched into her motor memory. Three steps to the corridor, sixty meters to the emergency shaft, topside in under four minutes if the lift was operational.
+She should run. The thought arrived clearly, prioritized by whatever part of her brain still operated on survival logic rather than the thing that had locked her knees and widened her pupils and turned her breathing shallow. The facility had emergency bulkheads. The evacuation protocol was etched into her motor memory. Three steps to the corridor, sixty meters to the emergency shaft, topside in under four minutes if the lift was operational.
 
 She took another step toward the fissure.
 

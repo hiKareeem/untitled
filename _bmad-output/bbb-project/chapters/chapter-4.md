@@ -78,7 +78,7 @@ SYNOPSIS: Fuxi Lin's first POV chapter. Routine trunk-line inspection in Deep Su
 
 The hum in Section 4-East was running three hertz flat.
 
-Fuxi felt it before the instruments confirmed it — a tonal shift in the trunk-line's resonance that registered first in his molars, then in the bones of his wrists where they pressed against the inspection rail. Three hertz was nothing. Within tolerance. The kind of variance that showed up in the logs as a rounding error and disappeared into the quarterly reports that nobody in the Spires would ever read. But Fuxi had been running trunk-line inspections in the Deep Sump for six years, and his body had become an instrument calibrated to the infrastructure the way a sailor's body calibrates to the sea — not through understanding but through repetition, through ten thousand hours of hands on pipes and boots on grating and the constant low-frequency pressure of nitro moving through conduits at volumes that would have been classified as hazardous in any stratum above this one.
+Fuxi felt it before the instruments confirmed it — a tonal shift in the trunk-line's resonance that registered first in his sternum, then in the bones of his wrists where they pressed against the inspection rail. Three hertz was nothing. Within tolerance. The kind of variance that showed up in the logs as a rounding error and disappeared into the quarterly reports that nobody in the Spires would ever read. But Fuxi had been running trunk-line inspections in the Deep Sump for six years, and his body had become an instrument calibrated to the infrastructure the way a sailor's body calibrates to the sea — not through understanding but through repetition, through ten thousand hours of hands on pipes and boots on grating and the constant low-frequency pressure of nitro moving through conduits at volumes that would have been classified as hazardous in any stratum above this one.
 
 Three hertz flat. He logged it.
 
@@ -136,11 +136,11 @@ Fuxi had felt thirty twice in six years. Both times during scheduled throughput 
 
 At 14:47, monitor 6 spiked.
 
-Not gradually. Not the slow climb of a throughput increase working its way through the system. Between one data refresh and the next — the monitors updated every fifteen seconds — the RCI reading on monitor 6 jumped from 27.1 to 31.2.
+Not gradually. Not the slow climb of a throughput increase working its way through the system. Between one data refresh and the next — the monitors updated every two seconds — the RCI reading on monitor 6 jumped from 27.1 to 31.2.
 
 Fuxi's hands stopped moving.
 
-Thirty-one point two. Four points above baseline. Not catastrophic — the alarm threshold was set at 35, and the emergency protocols didn't activate until 40. But the *speed* of the change was wrong. RCI fluctuations in the trunk-lines were gradual. They followed the flow dynamics — pressure changes propagated through the conduit network at predictable rates, and the RCI tracked the pressure the way a shadow tracks the object casting it. A four-point jump in fifteen seconds meant either a massive throughput surge upstream — which would have triggered alerts on every monitor in the bay — or something else.
+Thirty-one point two. Four points above baseline. Not catastrophic — the alarm threshold was set at 35, and the emergency protocols didn't activate until 40. But the *speed* of the change was wrong. RCI fluctuations in the trunk-lines were gradual. They followed the flow dynamics — pressure changes propagated through the conduit network at predictable rates, and the RCI tracked the pressure the way a shadow tracks the object casting it. A four-point jump in two seconds meant either a massive throughput surge upstream — which would have triggered alerts on every monitor in the bay — or something else.
 
 Something local.
 
@@ -154,7 +154,7 @@ The shift supervisor looked up. Fuxi pointed at monitor 6. Chen Wei leaned forwa
 
 "Fluctuation," Chen Wei said again. The word carried the weight of twenty years. Not dismissal — something older than dismissal. The institutional certainty of a man who had watched ten thousand readings spike and ten thousand readings return to baseline and had concluded, reasonably, that the system was self-correcting and that self-correction was the system's purpose and that anything the system corrected was, by definition, not a problem.
 
-Fuxi watched the monitor. The reading held at 31.2 for the next refresh cycle. Fifteen seconds. Then another. 31.2. 31.1. Holding. Holding at a level that was wrong — not dangerously wrong, not alarm-threshold wrong, but *wrong* the way a gasket reads clean on inspection but your fingers feel the grain running the wrong direction. Present when it should have passed.
+Fuxi watched the monitor. The reading held at 31.2 for the next refresh cycle. Two seconds. Then another. 31.2. 31.1. Holding. Holding at a level that was wrong — not dangerously wrong, not alarm-threshold wrong, but *wrong* the way a gasket reads clean on inspection but your fingers feel the grain running the wrong direction. Present when it should have passed.
 
 He could feel it. The hum in Section 4-East had changed — not in volume but in *texture.* The three-hertz variance from earlier had been a flattening, a loss of harmonic content. This was the opposite. The hum had gained something. A density. A quality that Fuxi's body registered as pressure behind his sternum, a tightness in the muscles of his jaw. Not pain. Not discomfort. *Attention.* His body was paying attention to the hum the way it paid attention to a sound in the dark — not because the sound was loud but because it was *new.*
 

@@ -80,7 +80,7 @@
 | Check | Result | Evidence |
 |-------|--------|----------|
 | Present through absence | ✅ | Chair, desk, sandalwood, handkerchief, office shape |
-| Assassination details consistent | ✅ | "thermal round erased him from the nose up" (L71) |
+| Assassination details consistent | ✅ | "thermal-kinetic round erased him from the nose up" (L71) |
 | Eleven years in Chair | ✅ | Referenced multiple times (L65, L117, L215, L247) |
 | Handkerchief | ✅ | White silk, bloodstained, top left drawer, cleaned but not fully |
 | Thorne repositions Eduardo | ✅ | L237 — "asked how to fix it" (wrong question = naivety) |
@@ -103,9 +103,9 @@
 |------|--------|-------|
 | Handkerchief | ✅ | White silk → bloodstained (was "rust," corrected per author) → in drawer, cleaned but stains remain |
 | Board Resolution 2175-003 | ⚠️ MINOR | Not re-named in Ch 7 — not needed, established in Ch 1 |
-| Thermal round | ✅ | "erased him from the nose up" — consistent |
+| Thermal-kinetic round | ✅ | "erased him from the nose up" — consistent |
 | The partition | ✅ | Same mechanism, now physicalized with tight jaw / steady hands |
-| Thorne's clean suit | ✅ | "Two chairs away from a thermal round and his suit had been *clean.*" |
+| Thorne's clean suit | ✅ | "Two chairs away from a thermal-kinetic round and his suit had been *clean.*" |
 | Three weeks elapsed | ✅ | Consistent with "weeks post-assassination" timeline |
 | Celestial Ballroom | ✅ | Referenced as "six floors below" the Executive Chamber on 108 |
 | "Welcome to the throne" echo | ✅ | Thorne's coronation language echoes Ch 1's "Welcome to the throne, my dear" |

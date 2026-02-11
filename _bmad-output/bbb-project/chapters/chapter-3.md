@@ -146,7 +146,7 @@ The buildings at the edge of the scar showed it too. The café's façade was war
 
 Nephthys walked to the edge of the scar and stopped.
 
-The chorus hit her like a wave.
+The chorus hit her in the sternum.
 
 Not gradually. Not the slow build she'd felt approaching the town. Between one step and the next, the residual hum detonated into something vast and structured and *alive* — not through her ears but through her skeleton, her teeth, the marrow of her, as if the scar had turned her body into a tuning fork struck against a frequency she had no name for. The chorus. Not words — not yet, not here — but the architecture of words. The shape that language makes before it becomes language. Overlapping, layered, rising and falling in patterns that were too complex to be random and too alien to be human.
 
@@ -154,7 +154,7 @@ Her knees buckled.
 
 She caught herself. One hand on the paving stone at the scar's edge — the stone was cold. Not the cold of shade or night air. A deeper cold, as if the material itself had been emptied of something essential and never refilled. The cold traveled through her palm and into her wrist and she felt the chorus *in her bones,* the way the Radiance used to fill a church hall during harmonization — not heard but *inhabited.* Except the Radiance had been warm. This was every frequency at once, compressed into a sensation her nervous system translated as absence.
 
-The migraine arrived. Not the dull ache of a tension headache — the ice-pick specificity of a cluster migraine, driving through her left temple with a precision that felt almost surgical. Her vision blurred. The edges of the square went soft, the buildings losing their outlines, the sky bleeding into the rooflines. She tasted copper. Her nose was bleeding — she could feel the warmth on her upper lip, the slow trickle that meant the capillaries behind her sinuses had ruptured under the pressure of whatever the chorus was doing to the tissue of her brain.
+The migraine arrived. Not the dull ache of a tension headache — the ice-pick specificity of a cluster migraine, driving through her left temple with a precision that felt almost surgical. Her vision blurred. The edges of the square went soft, the buildings losing their outlines, the sky bleeding into the rooflines. She tasted copper. Her nose was bleeding — she could feel the warmth on her upper lip, the slow trickle that meant the capillaries in her nose had engorged and ruptured — arterial flow redirected by whatever the chorus was growing in the tissue behind her sinuses.
 
 "Nephthys!" Imani was beside her. Hands on her shoulders. The pack hitting the ground. The sound of a zipper — the medical kit, the one Imani carried in the top compartment of her pack, always accessible, always ready, because this happened. This happened every time they found a scar, every time the chorus flared, every time Nephthys got close enough to hear what the residual coherence was saying.
 
@@ -164,7 +164,7 @@ The migraine arrived. Not the dull ache of a tension headache — the ice-pick s
 
 "*Do not.*"
 
-She could hear Imani's breathing. Fast. Controlled, but fast — the breathing of someone who was frightened and managing it, the way Imani managed everything. With competence. With care. With the particular kind of loyalty that came not from belief but from love, which was harder and less reliable and infinitely more stubborn.
+She could hear Imani's breathing. Fast. Controlled, but fast — the breathing of someone whose hands were steady because she was choosing to keep them steady, the way Imani managed everything. With competence. With care. With the particular kind of loyalty that came not from belief but from love, which was harder and less reliable and infinitely more stubborn.
 
 "Your nose is bleeding. Your hands are shaking. Last time—"
 

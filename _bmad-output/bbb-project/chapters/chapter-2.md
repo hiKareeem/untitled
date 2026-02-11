@@ -133,7 +133,7 @@ Mirelle's chest tightened. Not visibly — she'd trained the reaction out of her
 
 "Authorized."
 
-"Authorized. Effective immediately. No disruption expected." She looked at Mirelle for the first time since she'd started speaking. Her eyes were dry now. Steady. The grief underneath was the kind that had gone past tears into something harder and more permanent, like scar tissue forming over a wound that hadn't been cleaned. "He didn't transfer. He didn't pack a bag. His tools are in the closet. His boots are by the door. He walked to work and the corridor ate him and the Feed says *relocated.*"
+"Authorized. Effective immediately. No disruption expected." She looked at Mirelle for the first time since she'd started speaking. Her eyes were dry now. Steady. What was underneath had gone past tears into something harder and more permanent — the set of her jaw, the flatness behind her eyes, the stillness of someone whose body had learned to hold itself together by refusing to move. "He didn't transfer. He didn't pack a bag. His tools are in the closet. His boots are by the door. He walked to work and the corridor ate him and the Feed says *relocated.*"
 
 Mirelle let the silence hold. Three seconds. Five. Long enough for the hum to fill the space between them — the conduit vibration through the walls, the low-frequency pulse of infrastructure that never slept because infrastructure didn't have that luxury.
 

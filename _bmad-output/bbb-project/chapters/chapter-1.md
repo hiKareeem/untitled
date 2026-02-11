@@ -33,7 +33,7 @@ rhetoric_reference: "Board Resolution 2175-003 (Emergency Succession)"
 <!--
 📋 SYNOPSIS - Chapter 1
 
-SYNOPSIS: Eduardo Vasquez is assassinated by thermal round mid-speech at a corporate gala; his daughter Aurielle, seated on stage with brain matter on her dress, is walked out by Marcus Thorne — whose suit is clean and whose responses were pre-assembled — and inherits NitroCore by emergency succession.
+SYNOPSIS: Eduardo Vasquez is assassinated by thermal-kinetic round mid-speech at a corporate gala; his daughter Aurielle, seated on stage with brain matter on her dress, is walked out by Marcus Thorne — whose suit is clean and whose responses were pre-assembled — and inherits NitroCore by emergency succession.
 
 This chapter explores Aurielle's meritocrat-by-inheritance contradiction through the sudden, violent transfer of power from father to daughter. Before the assassination, Aurielle demonstrates institutional fluency at the gala; after it, she demonstrates institutional conditioning — walking when told, wiping her face for the cameras, sealing her suspicion of Thorne because she needs him.
 
@@ -44,7 +44,7 @@ This chapter explores Aurielle's meritocrat-by-inheritance contradiction through
 
 **Key events:**
 - Aurielle navigates gala, reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie)
-- Eduardo assassinated mid-speech by thermal round — erased from the nose up, body held upright by lectern
+- Eduardo assassinated mid-speech by thermal-kinetic round — erased from the nose up, body held upright by lectern
 - Aurielle seated on stage, pieces of her father on her dress, cannot hear/remember the shot
 - Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording
 - Corridor walk: Board Resolution 2175-003 activated, emergency succession, Thorne floats theories but doesn't declare a narrative
@@ -109,7 +109,7 @@ The podium was being prepared at the far end of the ballroom. Eduardo's speech �
 
 She checked the time on her frame — a gesture so habitual she barely registered the AR overlay. 21:47. The speech was at 22:00. She was supposed to join him on stage for the introduction. The dutiful daughter. The heir apparent. The visual confirmation that NitroCore's succession was secure, generational, inevitable.
 
-She didn't resent it. That was the troubling part. She'd expected to resent it — the choreography, the performance, the implication that her primary value was continuity. But standing in this room full of people whose names she'd memorized and whose motives she could read, she felt something closer to fluency. She was good at this. She understood the grammar of it. The smiles, the silences, the calibrated pauses. The way a room reorganized itself around power.
+She didn't flinch from it. That was the troubling part. She'd expected to — the choreography, the performance, the implication that her primary value was continuity. But standing in this room full of people whose names she'd memorized and whose motives she could read, her shoulders were loose. Her breathing was even. Her body had stopped treating this as performance and started treating it as habitat. She was good at this. She understood the grammar of it. The smiles, the silences, the calibrated pauses. The way a room reorganized itself around power.
 
 She moved toward the stage.
 
@@ -147,11 +147,11 @@ Not blood. Not at first. At first it was: wrong color, wrong texture, wrong temp
 
 She looked up.
 
-Eduardo was still at the podium. Still standing. His hands still gripped the edges of the lectern with white-knuckled force, as if he were simply pausing for dramatic effect. But where his face had been — above the jaw, above the collar of the charcoal suit she'd watched him adjust twenty minutes ago — there was a smoking ruin. The thermal round hadn't just killed him. It had erased him from the nose up.
+Eduardo was still at the podium. Still standing. His hands still gripped the edges of the lectern, the tendons standing out like cables, as if he were simply pausing for dramatic effect. But where his face had been — above the jaw, above the collar of the charcoal suit she'd watched him adjust twenty minutes ago — there was a smoking ruin. The thermal-kinetic round hadn't just killed him. It had erased him from the nose up.
 
 Behind him, the holographic display still scrolled: *EDUARDO VASQUEZ — VISIONARY OF THE YEAR.*
 
-The room was — she couldn't parse the room. A sea of tuxedos and gowns surging toward the exits. Drone cameras swiveling from the podium to the stampede and back. She couldn't locate the report that must have preceded this — the shot, the crack, whatever sound a thermal round makes when it crosses a ballroom. It wasn't in her memory. She reached for it and found nothing — not a gap but an absence, as if the event had happened in a frequency she didn't process.
+The room was — she couldn't parse the room. Three hundred bodies in black tie surging toward the exits. Drone cameras swiveling from the podium to the stampede and back. She couldn't locate the report that must have preceded this — the shot, the crack, whatever sound a thermal-kinetic round makes when it crosses a ballroom. It wasn't in her memory. She reached for it and found nothing — not a gap but an absence, as if the event had happened in a frequency she didn't process.
 
 *Not a sound she missed. A sound that didn't exist for her.*
 
@@ -161,7 +161,7 @@ She smelled copper and burnt hair.
 
 A hand on her arm.
 
-Thorne. Already standing, already beside her — two chairs, he'd crossed two chairs — his grip on her upper arm firm enough to anchor without bruising. His suit was clean. She registered this from a distance, the way you register a data point before you understand its implications. Two chairs away from a thermal round and his suit was *clean.*
+Thorne. Already standing, already beside her — two chairs, he'd crossed two chairs — his grip on her upper arm firm enough to anchor without bruising. His suit was clean. She registered this from a distance, the way you register a data point before you understand its implications. Two chairs away from a thermal-kinetic round and his suit was *clean.*
 
 He was holding a handkerchief. White. Pristine. Folded into a precise square, offered with the hand that wasn't holding her arm. The fabric was bright against his dark sleeve, impossibly clean in a room that smelled like copper and burnt hair.
 
@@ -191,7 +191,7 @@ Security materialized around them. Four, then six. The head of the executive pro
 
 "Board Resolution 2175-003," Thorne said. He wasn't speaking to her. He was speaking to the comm channel through his frame, his voice the same level register, as if reading a contract clause. "Emergency succession. No quorum required. Effective immediately upon confirmation of—" A pause. Not hesitation. Selection. "Upon confirmation of the event."
 
-*The event.* Her father's face erased by a thermal round was *the event.* The blood cooling on her collarbone was a consequence of *the event.* Already, the language was building a container for it — classification, resolution numbers, protocol chains. The institution was metabolizing Eduardo Vasquez the way a system metabolizes an input: efficiently, without sentiment, toward output.
+*The event.* Her father's face erased by a thermal-kinetic round was *the event.* The blood cooling on her collarbone was a consequence of *the event.* Already, the language was building a container for it — classification, resolution numbers, protocol chains. The institution was metabolizing Eduardo Vasquez the way a system metabolizes an input: efficiently, without sentiment, toward output.
 
 "Where are we going?" Her voice sounded wrong. Too steady. The words had formed without her deciding to speak them, assembled by a part of her brain that was still following Eduardo's rules: *When you don't know what to say, ask a question. It buys time and sounds like leadership.*
 
@@ -213,7 +213,7 @@ She waited for more. The qualification, the condolence, the human thing that sho
 
 "The King is dead," he said. Not to her. To the corridor, to the institution, to the cameras that were certainly still recording because the cameras were always recording. "That means you are the Queen." He looked at her then — the first time his eyes had met hers since the stage. "And Queens do not die in the crossfire, Aurielle. They survive to settle the score."
 
-The words landed in her chest like stones dropped into still water. Not because they were comforting. Because they were *ready.* He'd had them prepared. The handkerchief, the corridor, the board resolution, the draft statement, the phrase — all of it assembled before the thermal round had finished its trajectory. As if he'd been carrying these responses the way a surgeon carries instruments: sterilized, ordered, waiting for the incision.
+The words landed in her chest like stones dropped into still water. Not because they were comforting. Because they were *ready.* He'd had them prepared. The handkerchief, the corridor, the board resolution, the draft statement, the phrase — all of it assembled before the thermal-kinetic round had finished its trajectory. As if he'd been carrying these responses the way a surgeon carries instruments: sterilized, ordered, waiting for the incision.
 
 The thought surfaced — *He knew* — and she sealed it. Pressed it into a compartment she didn't have a name for yet, a partition that would hold the suspicion alongside the dependence, the grief alongside the calculation, the blood alongside the white silk of his handkerchief. She sealed it because she needed him. Because the institution required continuity and Thorne was continuity's architect. Because her father was dead and the man who might have arranged it was the only person in the building who had told her what to do next instead of screaming.
 
@@ -233,7 +233,7 @@ The handkerchief was in her right hand. She hadn't let go of it. White silk, now
 
 How had his suit been clean?
 
-Three hundred and twelve people in a ballroom. A thermal round — military grade, that much was obvious from the — from what it did. From *the event.* High angle, based on the splatter pattern, which she was analyzing now because her mind had decided that analysis was preferable to the alternative, which was the shoe, the oxford, the sole facing partially upward, and the foot still—
+Three hundred and twelve people in a ballroom. A thermal-kinetic round — military grade, that much was obvious from the — from what it did. From *the event.* High angle, based on the splatter pattern, which she was analyzing now because her mind had decided that analysis was preferable to the alternative, which was the shoe, the oxford, the sole facing partially upward, and the foot still—
 
 She stopped.
 
@@ -255,7 +255,7 @@ Her wrist had stopped rotating. Her hands were still.
 
 She left the handkerchief in her pocket. She would have it cleaned. She would fold it. She would place it in a drawer in the office that still smelled like sandalwood cologne. She would never use it again. She would never throw it away.
 
-Outside the window, 114 floors above the city that hummed beneath her, the Spires caught the last of the evening light and held it — amber and clean, the color of refined nitro, the color of the grid her father had built and her father's father had designed and she had just inherited in the time it took for a thermal round to cross a ballroom.
+Outside the window, 114 floors above the city that hummed beneath her, the Spires caught the last of the evening light and held it — amber and clean, the color of refined nitro, the color of the grid her father had built and her father's father had designed and she had just inherited in the time it took for a thermal-kinetic round to cross a ballroom.
 
 She didn't look down. She couldn't see the Sump from here. Nobody could.
 

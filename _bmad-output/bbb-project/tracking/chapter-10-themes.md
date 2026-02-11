@@ -75,8 +75,8 @@ Previous complicity was institutional (NitroCore classification, Church Silencin
 Priya's question is truth seeking entry: "Did any of you feel that?" Kira possesses the corroborating evidence — she felt the scream at exactly the timestamp Priya reports. Four words could transform the group chat from banter to investigation. She chooses not to deploy them. The truth is present but self-suppressed — not by an institution but by personal avoidance. Kira is an involuntary truth-bearer (the scream IS truth) who refuses to bear witness. The Lumina is literally a substance that suppresses the pattern-seeking machinery that would assemble Priya's timestamp and her scream into something she'd have to think about.
 
 **Key moments:**
-- Priya: "Like a pull? In the implant. Around 21:30 UTC." — truth offered (L228)
-- "21:30 UTC. That was — she checked, though she didn't need to — forty-one minutes into her stream. The landscape pan. The three seconds she'd bought herself. The scream." — truth recognized (L256)
+- Priya: "Like a pull? In the implant. Around 11:30 UTC." — truth offered (L228)
+- "11:30 UTC. That was — she checked, though she didn't need to — forty-one minutes into her stream. The landscape pan. The three seconds she'd bought herself. The scream." — truth recognized (L256)
 - "She could say it. *Yeah, I felt it too.*" — truth available but not deployed (L260)
 - "She closed the chat." — truth suppressed by choice (L262)
 - Fifteen milligrams: "to keep the room quiet long enough to fall asleep before the pattern-seeking machinery assembled Priya's question and her scream into something she'd have to think about" — truth chemically suppressed (L268)

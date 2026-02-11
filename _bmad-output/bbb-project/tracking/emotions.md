@@ -174,7 +174,7 @@ Aurielle's Chapter 1 arc compresses four distinct emotional registers into a sin
 
 ### Emotional Arc Summary
 
-Thorne displays no emotional arc in Chapter 1 — which is the point. His expression does not change from the respectful attention he held all evening. His voice is "level — not calm, calm implied an alternative." Every response was pre-assembled: the handkerchief, the board resolution, the corridor route, the phrase. The horror of Thorne is not what he feels but what he doesn't. Two chairs from a thermal round and his suit is clean. Aurielle registers this. The reader registers this. Thorne does not register anything that requires registering.
+Thorne displays no emotional arc in Chapter 1 — which is the point. His expression does not change from the respectful attention he held all evening. His voice is "level — not calm, calm implied an alternative." Every response was pre-assembled: the handkerchief, the board resolution, the corridor route, the phrase. The horror of Thorne is not what he feels but what he doesn't. Two chairs from a thermal-kinetic round and his suit is clean. Aurielle registers this. The reader registers this. Thorne does not register anything that requires registering.
 
 ### Dominant Emotions
 
@@ -302,7 +302,7 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 | Ch 10 — Beat 6 | Belated alarm | Body's delayed report: "that was worse than the last one" | Fingertips numb (new symptom); presses tips together under desk | None — hidden |
 | Ch 10 — Beat 7 | Exhaustion collapse | Stream ends; "the silence landed" | Posture collapses; knees pulled up; smallest version of herself; does not look at analytics | None — alone |
 | Ch 10 — Beat 8 | Controlled ritual | Post-stream Lumina routine | Kit opened deliberately, without urgency; forty milligrams weighed precisely; cold burn; subtraction | None — alone |
-| Ch 10 — Beat 9 | Alarm → avoidance | Priya's "pull" at 21:30 UTC matches scream timestamp | Starts typing, stops; fingers hover over desk edge making silent chord shapes (C minor, F diminished); closes chat | Group chat moves on without her confirmation |
+| Ch 10 — Beat 9 | Alarm → avoidance | Priya's "pull" at 11:30 UTC matches scream timestamp | Starts typing, stops; fingers hover over desk edge making silent chord shapes (C minor, F diminished); closes chat | Group chat moves on without her confirmation |
 | Ch 10 — Beat 10 | Fraying | Quiet room filling back up; pattern-seeking machinery has something specific to say | Returns to bathroom; fifteen milligrams; "Not a dose. A nudge."; doesn't look in mirror | None — alone |
 | Ch 10 — Beat 11 | Suspended waiting | Sitting in streaming chair in the dark; hum thicker | Touches back of neck where implant sits; "It had always been enough." | None — alone; the hum is waiting |
 

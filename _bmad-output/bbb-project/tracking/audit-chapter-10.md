@@ -70,7 +70,7 @@
 ### Priya
 
 - **Appearance:** Text messages only
-- **Function:** Truth-bearer — the one who asks the question Kira won't. "Like a pull? In the implant. Around 21:30 UTC. Lasted maybe ten seconds." Describes the sensation as "directional" and "like it came from somewhere."
+- **Function:** Truth-bearer — the one who asks the question Kira won't. "Like a pull? In the implant. Around 11:30 UTC. Lasted maybe ten seconds." Describes the sensation as "directional" and "like it came from somewhere."
 - **Voice:** Serious, specific, persistent despite being dismissed
 - **Coherence:** ✅ Seeds Ch 18 correctly. Her observation is precise enough to be meaningful but casual enough to be dismissed by the group.
 

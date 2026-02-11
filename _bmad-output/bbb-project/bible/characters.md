@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-11"
-lastChapter: 8
+lastChapter: 10
 totalCharacters: 14
 project_name: "Untitled"
 ---
@@ -147,7 +147,7 @@ This bible dimension tracks **current character states**:
 - Next Planned Appearance: Chapter 12 (the real numbers)
 
 **Recent History:**
-- Chapter 1: Navigates corporate gala with institutional fluency — reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie). Seated on stage during Eduardo's keynote. Father assassinated mid-speech by thermal round (erased from nose up). Pieces of him on her dress. Cannot hear/remember the shot. Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording. She walks. In the corridor, Thorne activates Board Resolution 2175-003 (emergency succession). "Welcome to the throne, my dear. Try not to slip." Alone in private suite: rotates left wrist (signature mannerism), keeps the handkerchief, avoids the mirror. Seals the suspicion ("He knew") because she needs Thorne. Psychological state: grief suppressed, suspicion partitioned, institutional conditioning active.
+- Chapter 1: Navigates corporate gala with institutional fluency — reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie). Seated on stage during Eduardo's keynote. Father assassinated mid-speech by thermal-kinetic round (erased from nose up). Pieces of him on her dress. Cannot hear/remember the shot. Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording. She walks. In the corridor, Thorne activates Board Resolution 2175-003 (emergency succession). "Welcome to the throne, my dear. Try not to slip." Alone in private suite: rotates left wrist (signature mannerism), keeps the handkerchief, avoids the mirror. Seals the suspicion ("He knew") because she needs Thorne. Psychological state: grief suppressed, suspicion partitioned, institutional conditioning active.
 - Chapter 7: First board meeting as Chair. Occupies Eduardo's chair (nanite-threaded leather, doesn't fit). Reviews the room — reads board behavior, notes Thorne's suit, seals the suspicion again. Quarterly review: slide 17 ("Sump Infrastructure Lifecycle Management") — senses it's "informationally dangerous," chooses not to ask. In Eduardo's office: discovers LP9 reference in quarterly recommendations (reads from last page). Cross-references classified brief via secured terminal. Contacts Thorne. Thorne delivers private briefing: RCI climbing in 3 zones (Neo-Shanghai worst), containment 40% over budget, maintenance deferred 14 months, junction integrity 67% (Eduardo's threshold: 70%). Cause-cost separation: VEC Annex B (cause) kept separate from LP9 (cost). Asks the right question: "What happens if containment isn't sufficient?" Thorne: "That is why Legacy Protocol 9 exists." / "Eduardo asked the wrong one. He asked how to fix it." Alone for 23 minutes: wrist rotates (noticed, stopped), hands flat on Spanish walnut desk, does not open handkerchief drawer. The small voice calculates with real numbers. Psychological state: composure holding, institutional conditioning active, the ground shifting beneath the equilibrium.
 
 ---
@@ -582,7 +582,7 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
 | Dex | Group chat (Academy friend) | Warm | Comic normalizer; meme-fluent; affectionate mockery |
-| Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 21:30 UTC; question unanswered |
+| Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 11:30 UTC; question unanswered |
 | Tomás | Group chat (São Paulo program) | Warm | Connected through streamer circuit; playful |
 | Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; uses implant as Academy intended; minimal, precise |
 | Streaming audience | Performance | Surface | ~200K followers; armor and cage; parasocial bond with color palette |
@@ -595,7 +595,7 @@ This bible dimension tracks **current character states**:
 
 **Recent History (Ch 10):**
 - Streams from Bay Area apartment (fourteenth floor, mid-rise). Ten-hour stream: gameplay, chat, deployment-schedule commentary.
-- Scream episode mid-stream (~21:30 UTC): suppressed professionally. Audience didn't notice. Numb fingertips afterward (new symptom).
+- Scream episode mid-stream (~11:30 UTC): suppressed professionally. Audience didn't notice. Numb fingertips afterward (new symptom).
 - Post-stream: 40mg Lumina (routine, to sleep). Group chat: Priya reports feeling a "pull" at the same timestamp. Kira recognizes the match, starts typing, stops, closes chat.
 - Second dose: 15mg bump. "The forty was supposed to be enough." Didn't look in the mirror.
 - Bay Area grounding established: fog, Golden Gate monument, expanded bay, no Spires, low skyline.
@@ -707,7 +707,7 @@ This bible dimension tracks **current character states**:
 - Next Planned Appearance: Chapter 12 (full VEC correlation briefing)
 
 **Recent History:**
-- Chapter 1: Present at gala, seated on stage two chairs from Aurielle. Suit clean after thermal round (noted by Aurielle). Immediately offers pre-folded white silk handkerchief. Activates Board Resolution 2175-003 via frame ("Emergency succession. No quorum required."). Walks Aurielle through corridor. Floats theories ("A rival. A fanatic. A disgruntled employee. It doesn't matter yet.") without committing to a narrative. Delivers pre-assembled phrase: "Welcome to the throne, my dear. Try not to slip." Every response was ready before the shot.
+- Chapter 1: Present at gala, seated on stage two chairs from Aurielle. Suit clean after thermal-kinetic round (noted by Aurielle). Immediately offers pre-folded white silk handkerchief. Activates Board Resolution 2175-003 via frame ("Emergency succession. No quorum required."). Walks Aurielle through corridor. Floats theories ("A rival. A fanatic. A disgruntled employee. It doesn't matter yet.") without committing to a narrative. Delivers pre-assembled phrase: "Welcome to the throne, my dear. Try not to slip." Every response was ready before the shot.
 - Chapter 7: Second appearance. Seated at far end of boardroom where acoustics diminish — deference or calculation. Same suit type (absorbs light rather than reflecting it). Surface: managed, not blank. Arrives in Eduardo's office with own datapad pre-queued to LP9 memo — predicted Aurielle would find the reference because she reads from the last page. Delivers private briefing: RCI climbing in 3 zones, containment 40% over budget, maintenance deferred 14 months, junction integrity 67%. Level, sequential, each sentence a brick. Positions below her sightline. "Your father established Legacy Protocol 9 in 2168." / "Your father managed this. Now you do." Final line from doorway: "You asked the right question. Eduardo asked the wrong one. He asked how to fix it." — reframes Eduardo as naïve, Aurielle as correctly institutional. The mentorship is also a recruitment.
 
 ---
@@ -932,7 +932,7 @@ This bible dimension tracks **current character states**:
 | Chen Wei | New character | — | Introduced as Fuxi's shift supervisor, 20 years service, "They always self-correct" | Ch 4 |
 | Kira | Debut + Recent History | Pre-intro | First POV chapter; scream suppression, Lumina structure, group chat, Bay Area grounding | Ch 10 |
 | Dex | New character (indirect) | — | Group chat member; comic normalizer | Ch 10 |
-| Priya | New character (indirect) | — | Group chat member; truth-seeker; felt "pull" at 21:30 UTC | Ch 10 |
+| Priya | New character (indirect) | — | Group chat member; truth-seeker; felt "pull" at 11:30 UTC | Ch 10 |
 | Tomás | New character (indirect) | — | Group chat member; playful normalizer | Ch 10 |
 | Suki | New character (indirect) | — | Group chat member; field mage; minimal, precise | Ch 10 |
 | Sofia Reyes | Debut + Recent History | Pre-intro | First POV chapter; 0.7 Hz pulse detection, Liang dynamic, personal archive (14+1), Solberg name planted | Ch 5 |

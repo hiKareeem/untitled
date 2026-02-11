@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 9"
+lastChapter: "Chapter 10"
 totalChapters: 53
-analyzedChapters: 10
+analyzedChapters: 11
 project_name: "Untitled"
 ---
 
@@ -492,7 +492,7 @@ Ch 4 continues the TEXTURE pattern established by Ch 3 — lower peak tension (7
 15. [72%] VULNERABILITY — Eleven seconds, posture collapses, smallest version → −1
 16. [78%] RITUAL — Lumina: kit, scale, forty milligrams, cold burn, subtraction → 0 (tension neutral — ritual)
 17. [82%] TEXTURE — Apartment entropy, hum still thick, "something waiting" → +1
-18. [85%] COMPLICATION — Group chat: Priya's "pull" at 21:30 UTC. Timestamp matches scream. → +3
+18. [85%] COMPLICATION — Group chat: Priya's "pull" at 11:30 UTC. Timestamp matches scream. → +3
 19. [90%] REFUSAL — Starts typing, stops. Silent chord shapes. Closes chat. → −1
 20. [93%] ESCALATION — Fifteen milligrams. "The forty was supposed to be enough." → +1 (thematic)
 21. [98%] CLOSING — "The hum was there. Thicker now. Waiting." / "It had always been enough." → 0 (suspended)
@@ -1121,7 +1121,7 @@ Ch 9 maintains Mirelle's voice while shifting the register from investigation (C
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 10/11 | 10/11 | 8.8 | 4.5 | 2P/8T | ⏳ |
+| Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -1130,4 +1130,4 @@ Ch 9 maintains Mirelle's voice while shifting the register from investigation (C
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 9 rhythm analysis_
+_Updated by: Retroactive update — Chapter 10 rhythm analysis_

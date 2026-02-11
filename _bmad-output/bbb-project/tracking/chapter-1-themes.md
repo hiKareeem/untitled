@@ -14,14 +14,14 @@
 **Presence Level:** Strong
 
 **How it appears:**
-The entire chapter is a demonstration of power's architecture in action. Thorne IS the architecture's human interface — every response pre-assembled before the thermal round finished its trajectory. The handkerchief, the board resolution, the corridor route, the phrase — "sterilized, ordered, waiting for the incision." His suit is clean two chairs from the kill zone. Board Resolution 2175-003 activates without deliberation, quorum, or grief. The institution metabolizes Eduardo Vasquez "the way a system metabolizes an input: efficiently, without sentiment, toward output." Aurielle inherits "the grid her father had built and her father's father had designed" in the time it takes a thermal round to cross a ballroom. The closing image — Spires catching evening light, "the color of refined nitro" — is power made architectural.
+The entire chapter is a demonstration of power's architecture in action. Thorne IS the architecture's human interface — every response pre-assembled before the thermal-kinetic round finished its trajectory. The handkerchief, the board resolution, the corridor route, the phrase — "sterilized, ordered, waiting for the incision." His suit is clean two chairs from the kill zone. Board Resolution 2175-003 activates without deliberation, quorum, or grief. The institution metabolizes Eduardo Vasquez "the way a system metabolizes an input: efficiently, without sentiment, toward output." Aurielle inherits "the grid her father had built and her father's father had designed" in the time it takes a thermal-kinetic round to cross a ballroom. The closing image — Spires catching evening light, "the color of refined nitro" — is power made architectural.
 
 **Key moments:**
-- Thorne's suit clean despite proximity — "Two chairs away from a thermal round and his suit was *clean.*" (~163)
+- Thorne's suit clean despite proximity — "Two chairs away from a thermal-kinetic round and his suit was *clean.*" (~163)
 - Board Resolution 2175-003 via frame: "Emergency succession. No quorum required. Effective immediately upon confirmation of — " A pause. Selection. "Upon confirmation of the event." (~191)
 - "The institution was metabolizing Eduardo Vasquez the way a system metabolizes an input: efficiently, without sentiment, toward output." (~193)
-- "He'd had them prepared. The handkerchief, the corridor, the board resolution, the draft statement, the phrase — all of it assembled before the thermal round had finished its trajectory. As if he'd been carrying these responses the way a surgeon carries instruments: sterilized, ordered, waiting for the incision." (~215)
-- "the grid her father had built and her father's father had designed and she had just inherited in the time it took for a thermal round to cross a ballroom." (~252)
+- "He'd had them prepared. The handkerchief, the corridor, the board resolution, the draft statement, the phrase — all of it assembled before the thermal-kinetic round had finished its trajectory. As if he'd been carrying these responses the way a surgeon carries instruments: sterilized, ordered, waiting for the incision." (~215)
+- "the grid her father had built and her father's father had designed and she had just inherited in the time it took for a thermal-kinetic round to cross a ballroom." (~252)
 
 **Progression from Prologue:**
 Prologue showed power's architecture activating *remotely* — communication disabled, VEC teams, classification elevated, no named decision-maker. Ch 1 shows the architecture activating *locally*, through a named human instrument (Thorne). The architecture is the same; the scale has shifted from institutional reflex to personal encounter.
