@@ -175,7 +175,8 @@ This bible dimension tracks **current character states**:
 |-----------|--------|----------|---------|
 | Zeyad Al-Fahim | Information exchange | Growing | Encrypted channel; mutual distrust softening — he's institutional, she's Lens |
 | Black Babel | Source network | Professional | Dead-drop trades; compartmentalized |
-| Editor | Institutional | Strained | Dismisses her Sump demographics as "correlation not causation" |
+| Gauthier (Editor) | Institutional | Strained — respectful | Demands evidentiary standard; dismisses Sump disappearances as anecdotal. Not corrupt — careful. |
+| Lien Suen | Source | New | Dao Suen's wife; primary witness for Junction 7 disappearance. Steady, grief-hardened. |
 
 **Current Arc:** Hunter → Absorbed
 - Current Phase: 1/5 (Equilibrium — working the Sump story)
@@ -192,11 +193,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Gone. Dead-hand evidence persists. | Evidence released posthumously; her Lie tested — the world knows, the world shrugs |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1, early chapter
+- Last Appearance: Chapter 2 — "The Feed Says Relocated"
+- Next Planned Appearance: Phase 1, Ch 9 (first dead-drop with Black Babel)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- Ch 2: Investigated disappearance of conduit worker Dao Suen near Junction 7. Interviewed wife Lien Suen — Dao entered Level 3 trunk-line access corridor, corridor log shows entry/no exit, NitroCore says "reassigned." Lien reports shimmer near the hatch. Second disappearance (Chen Yue) from same block, three weeks prior, also "relocated." Found chalk names on the wall near Junction 7 — Sump workers write the names of the disappeared. Borrowed RCI sensor read 19.4 near the hatch (baseline 14-16). Discovered via Feed that entire Junction 7 maintenance crew was "reassigned." Editor Gauthier denied publication — insufficient evidence. Mirelle has seven missing workers across three sectors. Did not file. Kept the notes.
 
 ---
 
@@ -667,13 +668,66 @@ This bible dimension tracks **current character states**:
 
 ---
 
+### Lien Suen
+
+**Role:** Supporting — Dao Suen's wife, Mirelle's primary source for Junction 7 disappearances
+**Faction:** None (Sump civilian)
+**Primary Location:** Neo-Shanghai Sump, residential block near Junction 7
+
+**Background:** Thirty-one. Works textile recycling, second shift. Married to Dao Suen, conduit maintenance tech on NitroCore municipal contract. Has a daughter, Mei (~6 years old). Has lived in the Sump long enough to know the difference between the Feed's version of events and what actually happens.
+
+**Current Psychological State:**
+- **Phase:** N/A (supporting — no arc)
+- **Core Trait:** Grief hardened past tears into something permanent. Steady, direct, unflinching.
+- **Function:** Primary witness. Her testimony — "His boots are by the door" — is the human evidence the institutional record erases.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|--------|
+| Mirelle | Source | New | Trusts enough to speak; doesn't expect results |
+| Dao Suen | Husband (missing) | — | Nine days missing. Feed says relocated. Boots by the door. Nine-year route, knee injury, fifth-hour departure, Level 3 corridor. Tools in closet. |
+
+**Speech Register:** Plain, direct, Sump vernacular. No euphemism. Repetitive tactile habit (knotting/smoothing fabric) when distressed.
+
+**Appearances:**
+- Last Appearance: Chapter 2 — "The Feed Says Relocated"
+- Next Planned Appearance: Potential return in Mirelle's later investigation chapters
+
+---
+
+### Gauthier
+
+**Role:** Supporting — Mirelle's editor at The Wire, Paris bureau
+**Faction:** The Lens (institutional journalism)
+**Primary Location:** Paris (The Wire bureau — close to European Accords infrastructure, far from any Sump)
+
+**Background:** Twenty years editing conflict journalism. French-speaking (switches to French with Mirelle in private). Careful, not cautious — evaluates risk like a surgeon evaluates an incision. Applies The Wire's evidentiary standard rigorously. Not corrupt. The standard he enforces is the mechanism that keeps truth unpublished until it's too late. Eight time zones from Mirelle's Sump beat — the distance is institutional, not accidental.
+
+**Current Psychological State:**
+- **Phase:** N/A (supporting — institutional antagonist)
+- **Core Trait:** Professional caution that serves power inadvertently. Genuinely believes in evidentiary standards.
+- **Function:** The journalistic gatekeeper. His refusal to publish isn't malice — it's the Accords of journalism.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|--------|
+| Mirelle | Reporter/editor | Strained — respectful | Values her instincts; won't publish without evidence. Gave her two more weeks. |
+
+**Speech Register:** Mid-Levels clean. Patient, even, measured. Speaks in evidentiary terms — "What do you actually have?" Never dismissive; always evaluative.
+
+**Appearances:**
+- Last Appearance: Chapter 2 — "The Feed Says Relocated" (via comms)
+- Next Planned Appearance: Ch 21 — "Correlation, not causation" (won't publish matched-district data without VEC verification)
+
+---
+
 ## Summary Table
 
 | Character | Phase | Arc | Key Relationships | Last Change |
 |-----------|-------|-----|-------------------|-------------|
 | Dr. Vantanen | Complete | Curiosity → Absorbed | None (standalone) | Prologue |
 | Aurielle | 1/5 | Idealist → Reluctant Tyrant | Thorne (mentor/foil), Board | Initial |
-| Mirelle | 1/5 | Hunter → Absorbed | Zeyad (info exchange), Black Babel, Editor | Initial |
+| Mirelle | 1/5 | Hunter → Absorbed | Zeyad (info exchange), Black Babel, Gauthier (editor) | Ch 2 |
 | Nephthys | 1/5 | Seeker → Prophet | Imani (companion), Malachi (absent antagonist) | Initial |
 | Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
 | Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
@@ -686,6 +740,8 @@ This bible dimension tracks **current character states**:
 | Imani | N/A | (Supporting) | Nephthys (companion), Void Witnesses | Initial |
 | Malachi | N/A | (Absent Book 1) | Nephthys (excommunicated), Church hierarchy | Initial |
 | Talia Ravid | N/A | (Supporting) | Mirelle (client), Black Babel, NitroCore (client) | Initial |
+| Lien Suen | N/A | (Supporting) | Mirelle (source), Dao Suen (missing husband) | Ch 2 |
+| Gauthier | N/A | (Supporting — editor) | Mirelle (reporter) | Ch 2 |
 
 ---
 
@@ -730,9 +786,11 @@ This bible dimension tracks **current character states**:
 
 | Character | Type | Before | After | Chapter |
 |-----------|------|--------|-------|---------|
-| - | - | - | - | - |
+| Mirelle | Appearance + Recent History | Not yet written | First POV chapter; investigating Sump disappearances | Ch 2 |
+| Lien Suen | New character | — | Introduced as Dao Suen's wife, primary source | Ch 2 |
+| Gauthier | New character | — | Introduced as Mirelle's editor at The Wire | Ch 2 |
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+_Last updated: 2026-02-10 (Ch2 finalized)_
+_Updated by: Chapter-Writer Workflow — Ch2 review cycle_

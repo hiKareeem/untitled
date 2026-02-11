@@ -365,7 +365,31 @@ An object deserves documentation if it:
 **Current Owner:** Individual users (personal), corporate mesh networks (data)
 
 **History:**
-- [Chapter events to be populated]
+- Ch 2: Mirelle uses burner Frame (no mesh connection for recorder) and dedicated camera hardware (no Frame integration, no metadata). Sump Frames described — secondhand, visible, often cracked firmware.
+
+---
+
+### Mirelle's Borrowed RCI Sensor
+
+**Origin:**
+- Provenance: Industrial surplus, calibrated by a contact at Chén Academy
+- Introduced: Chapter 2
+- Circumstances: Borrowed from an unnamed contact who owes Mirelle a favor and didn't ask what it was for
+
+**Description:**
+- Appearance: Palm-sized disc, industrial surplus
+- Function: Measures Resonance Coherence Index — sympathetic vibration with conduit field
+- Condition: Calibrated, functional
+
+**Significance:**
+- Symbolism: The journalist's borrowed tools — she can't afford her own instruments, relies on favors and contacts
+- Stakes: Her RCI readings (19.4 near Junction 7 hatch, baseline 14-16) are real data but from an "uncertified instrument operated by a journalist, not a technician" per Gauthier — the evidentiary standard that keeps the data unpublishable
+- Potential Conflicts: Gauthier's objection to the sensor's provenance mirrors institutional gatekeeping of evidence
+
+**Current Owner:** Mirelle Dubois (borrowed)
+
+**History:**
+- Ch 2: Reading of 19.4 near Junction 7 trunk-line access hatch (baseline 14-16 for Sump stratum). Sustained elevation, not a spike.
 
 ---
 

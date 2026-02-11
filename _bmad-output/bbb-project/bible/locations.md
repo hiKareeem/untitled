@@ -255,7 +255,11 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Description:** The critical node at the Sump/Mid-Level boundary where trunk-line throughput is highest (serving the densest population) and infrastructure is oldest. Six trunk-lines from the Confluence route upward through here into the Mid-Levels. This is where BLACKWEIR severance occurs — severing charges fire, transit shafts collapse, blast doors drop, all conduit connections upward physically destroyed.
 
-**Characters Present:** Nikolai (BLACKWEIR execution — turns one of the two physical keys)
+**Characters Present:** Nikolai (BLACKWEIR execution — turns one of the two physical keys), Mirelle (investigation)
+
+**Key Interior Locations (established Ch 2):**
+- **Level 3 Trunk-Line Access Corridor:** Narrow, low-ceilinged, amber conduit-glow strip along left wall. Trunk-line access hatch 30m from residential corridor junction — reinforced steel, biometric lock, NitroCore logo stamped upper-left corner. Poured concrete walls (pre-NitroCore era). Chalk names written on wall to the right of the hatch — Sump tradition, workers write names of the disappeared near where they vanished. Dried flowers left at the base beneath the names.
+- **Residential block (Sump, near Junction 7):** Where Lien Suen lives. Apartments with frosted polymer windows, orange conduit-glow casting copper light. Close enough to trunk-line for audible hum in walls.
 
 **Resources:**
 - Highest throughput junction above the Confluence
@@ -265,9 +269,11 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Dangers:**
 - BLACKWEIR severance point — this is where the ceiling falls
 - Post-severance: all communications above the cut collapse; only ELF/VLF bedrock pings (1-2 bit status) transmit upward
+- Elevated RCI near access hatch: 19.4 (baseline 14-16 for this stratum) — sustained, not spiking (Ch 2)
+- Disappearances: entire Junction 7 maintenance crew "reassigned" per NitroCore press release
 
 **Key Events:**
-- [To be populated as chapters are written]
+- Ch 2: Dao Suen (conduit maintenance tech) disappeared entering Level 3 access corridor — corridor log shows entry, no exit. Chen Yue disappeared from same residential block three weeks prior. Entire Junction 7 maintenance crew "reassigned" per NitroCore Sump Division. Chalk names on wall: Dao Suen, Chen Yue, at least one older illegible name. Mirelle's RCI sensor read 19.4 near the hatch. Shimmer reported near hatch by neighbor (sub-threshold, VPI-0).
 
 **Significance:** Control this junction and you control whether the breach travels up or stays down. The BLACKWEIR decision focuses here. Post-severance, the people above cannot change what's happening below; the people below cannot call for help.
 

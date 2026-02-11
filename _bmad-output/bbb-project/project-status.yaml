@@ -23,6 +23,14 @@ chapters:
     completedDate: "2026-02-10"
     metaFile: "chapter-1-meta.yaml"
 
-completedCount: 2
-totalWords: 10000
+  chapter_2:
+    title: "The Feed Says Relocated"
+    status: complete
+    pov: "Mirelle Dubois"
+    wordCount: 5100
+    completedDate: "2026-02-10"
+    metaFile: "chapter-2-meta.yaml"
+
+completedCount: 3
+totalWords: 15100
 lastUpdated: "2026-02-10"
