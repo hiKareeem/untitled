@@ -1,9 +1,9 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-10"
-lastChapter: "Chapter 4"
-totalCharacters: 11
+lastUpdated: "2026-02-11"
+lastChapter: "Chapter 6"
+totalCharacters: 17
 project_name: "Untitled"
 ---
 
@@ -360,6 +360,80 @@ Liang displays institutional neutral throughout — which is his function. He is
 
 ---
 
+## Character: Zeyad Al-Fahim
+
+### Emotional Arc Summary
+
+Zeyad's debut chapter traces the erosion of institutional faith by a single fraction. He begins in ritual comfort — the walk, the portrait, the coffee — and proceeds through institutional immersion into a compliance review where his pattern recognition detects an anomaly that shifts his day from routine to quiet unease. The chapter's emotional register is deliberately muted: no alarm, no crisis, no dramatic revelation. The practiced smile settles into place. The face beneath it is older. The gap between the two has widened by a fraction, and the fraction is the distance between *no action required* and *contained*.
+
+### Dominant Emotions
+
+- **Primary**: Institutional faith — the belief that the process works if followed correctly
+- **Secondary**: Bureaucratic pattern-recognition alarm — the professional instinct that detects procedural anomalies
+- **Conflict**: Institutional identity vs. observational intelligence — he sees the system failing but can only respond with more system
+
+### Emotional State by Phase
+
+- **Opening**: Ritual comfort — walk, portrait, coffee. The day calibrated by inherited habit.
+- **Rising Action**: Professional immersion in compliance review → pattern-recognition trigger (security vs. scientific classification) → measured procedural challenge
+- **Midpoint**: Controlled denial — the request routed into a pipeline designed to neutralize it
+- **Post-committee**: Institutional reflection — the Accords' structural contradictions, the preamble's broken promise
+- **Closing**: Quiet escalation — "contained" confirms the anomaly. Five questions in ink. The practiced smile. The fraction.
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 6 — Beat 1 | Ritual comfort | Morning walk, Hall of Nations | Touches portrait frame (unconscious calibration); notes Jordanian flag flicker (43rd morning) | None — internal |
+| Ch 6 — Beat 2 | Heritage connection | Portrait of Khalil; memory of Tariq | "The expression on Khalil's face was not triumph" — reads the photograph; remembers Tariq (grandfather, died when Zeyad was 11) who carried the legacy | None — internal |
+| Ch 6 — Beat 3 | Professional immersion | Compliance review opens | Takes seat; notes GCTA observer absent 14 months; annotates margins; drinks cold coffee | None visible — institutional autopilot |
+| Ch 6 — Beat 4 | Pattern-recognition trigger | Dr. Patel says "security review" for Arctic station | Pen stops between words — "two seconds, long enough for thirty-four years of institutional reflex" | None visible — deliberately concealed |
+| Ch 6 — Beat 5 | Controlled procedural challenge | Decision to request clarification | Delivers request with "measured cadence" — tone of routine, not urgency. Cites Article 4, Section 2(c) from memory. | Dr. Mbutha: institutional neutral. Dr. Patel: micro-expression shift (prepared for but hoped to avoid the question) |
+| Ch 6 — Beat 6 | Quiet frustration (sealed) | Patel deflects; request routed to pipeline | "Denied. Rerouted." Two words in black ink. Releases microphone. Red light. | None visible — the denial is bureaucratic, not personal |
+| Ch 6 — Beat 7 | Institutional reflection | Return through Hall; stops at portrait (second time — deliberate) | Recites preamble from memory. Knows NitroCore controls 41% vs. "no single entity." "Not by enemies. By the document itself." | None — alone |
+| Ch 6 — Beat 8 | Escalating unease | Discovers "contained" in GCTA briefing p.9 | Puts datapad down. Looks at photograph, pen, notebook. Opens notebook. Writes five questions. | None — alone |
+| Ch 6 — Beat 9 | Institutional faith tested | 10-15 business day processing estimate | Stands at window for seven minutes. Does not write. Does not file. "The system was working. That was not the reassurance it had been this morning." | None — alone |
+| Ch 6 — Beat 10 | Composed performance over widening fracture | Preparing for next committee | Practiced smile settles into place. "The face beneath it was older. Quieter." The fraction between smile and face has widened. Walks toward Committee Chamber 2. | Colleagues would see only the smile |
+
+---
+
+## Character: Dr. Patel (VEC Liaison Delegate)
+
+### Emotional Arc Summary
+
+Dr. Patel performs institutional delivery — the classification and its deflection. His single crack: a micro-expression when Zeyad asks the question he prepared for but hoped to avoid. Whether he understands the reclassification's significance or is simply relaying what the Classification Directorate decided is deliberately unresolved. His register is procedural throughout.
+
+**Note:** This is a different character from Dr. Patel in the Prologue (Arctic-7 scientist). Shared surname is coincidental.
+
+### Dominant Emotions
+
+- **Primary**: Institutional delivery — prepared, clinical, procedural
+- **Secondary**: Micro-discomfort (the question anticipated and dreaded)
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 6 — Beat 1 | Institutional delivery | Reading prepared VEC summary | "Quiet man with the institutional pallor" — reads from prepared summary | Room: routine attention |
+| Ch 6 — Beat 2 | Micro-discomfort | Zeyad requests full briefing | "The micro-expression of a man being asked a question he'd prepared for but hoped to avoid" | Zeyad: notes both layers |
+| Ch 6 — Beat 3 | Procedural closure | Patel deflects with classification protocol | "I'll note the request. The Secretariat will route it through the appropriate channel." | Zeyad: writes "Denied. Rerouted." |
+
+---
+
+## Character: Dr. Elara Mbutha (Session Chair)
+
+### Emotional Arc Summary
+
+Mbutha is institutional neutral embodied — the rotating chair who acknowledges procedural rights without encouraging or discouraging their exercise. Her function is performance of order. One beat.
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 6 — Beat 1 | Institutional neutral | Zeyad presses microphone | "The practiced efficiency of someone who had learned that the order she imposed was performative but that the performance mattered." Recognizes Zeyad. | Room: procedural acknowledgment |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -382,8 +456,11 @@ Liang displays institutional neutral throughout — which is his function. He is
 | Suki | Indirect (text) | 1 | Minimal field-mage precision | Active — deployment context |
 | Sofia Reyes | POV (debut) | 12 | Focused immersion → Intellectual pleasure → Frustration → Professional composure → Precise frustration → Controlled anger → Performed compliance → Discovery delight → Growing unease → Private revelation → Quiet defiance → Compulsive fixation | Active — Phase 1/5; pulse compulsion, institutional faith intact but personal archive growing |
 | Dr. Liang | Supporting | 5 | Administrative routine → Attentive assessment → Micro-recognition → Institutional directive → Procedural closure | Active — no arc tracked; institutional mechanism; jaw tightened at decay profile |
+| Zeyad Al-Fahim | POV (debut) | 10 | Ritual comfort → Heritage connection → Professional immersion → Pattern-recognition trigger → Controlled challenge → Quiet frustration (sealed) → Institutional reflection → Escalating unease → Institutional faith tested → Composed performance over widening fracture | Active — Phase 1/5; institutional faith hairline-fractured; practiced smile's first measurable erosion |
+| Dr. Patel (VEC Liaison) | Supporting | 3 | Institutional delivery → Micro-discomfort → Procedural closure | Active — different from Prologue Dr. Patel; institutional relay |
+| Dr. Elara Mbutha | Supporting | 1 | Institutional neutral | Active — rotating chair; procedural function |
 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 5 character audits_
+_Updated by: Audit Chain — Chapter 6 character audits_

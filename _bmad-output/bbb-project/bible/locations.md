@@ -384,9 +384,22 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Classified information suppression
 - Political theater masking real power (which resides in the Spires)
 
+**Key Interior Locations (established Ch 6):**
+- **Hall of Nations:** Length of the main corridor. 87 holographic signatory flags projected from marble ceiling emitters. Eastern alcove: portrait of Ambassador Khalil Al-Fahim (2044, great-grandfather) beside glass case with original signed Accords. Marble floors, glass ceiling — looks like a cathedral from certain angles.
+- **Committee Chamber 3:** Circular. 32 seats in a ring (equality signaled, simultaneous visibility denied). Datapad stands, microphones, nameplates. Holographic agenda display at center. Acoustically designed for the record — sound absorbed by curved walls, reflected by ceiling, channeled toward center microphones. Every session recorded, transcribed, timestamped. Conduit infrastructure four floors below, sealed and dampened.
+- **Zeyad's Office:** Administrative wing, second floor, east corridor. Small. Desk, 3 datapads, leather notebook, antique pen, silver-framed photograph (desk-scale copy of Hall portrait). Window overlooking lake and low skyline.
+- **Commissary (4th floor):** Ceramic cups (budget not updated for disposables). Institutional coffee. Part of the building's performance of permanence.
+
 **Key Events:**
-- 2044: Nitro Accords signed here
-- [To be populated as chapters are written]
+- 2044: Nitro Accords signed here (ceremonial hall, 6th floor — now used for press conferences)
+- **Ch 6:** Quarterly Accords Compliance Review. Dr. Patel mentions Arctic-7 under security classification (not scientific review). Zeyad requests full briefing, denied — routed to Classification Directorate pipeline (10-15 business days). Discovers "contained" in GCTA briefing p.9.
+
+**Building Details (established Ch 6):**
+- 42 floors (required 3 rounds of canton commission review)
+- Actual glass windows (not polymer — heritage materials as UGC commitment signal)
+- Conduit infrastructure modern, well-maintained, but runs alongside conventional power (solar arrays, battery reserves — redundancy as political philosophy)
+- The hum is present but muted — background vibration in the floor, not the bones. "An abstraction."
+- Jordanian holographic flag (third row, western wall) flickering at lower edge — 43+ mornings, maintenance request pending 6 weeks (budget cuts)
 
 **Significance:** Where faction representatives meet, negotiate, and betray each other. The GRRM "King's Landing" — power contested through words, votes, and backroom deals rather than breaches and orbital strikes. Book 2's political machinations play out here — where the decision to normalize sacrifice districts is debated, where AEGIS strike authority is contested.
 

@@ -474,6 +474,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 4 | Complicity (Strong), Commodification (Strong), Obligation (Moderate), Architecture (Moderate), Irrelevance (Moderate), Truth (Background), Atrocity (Background) | Fuxi maintains the infrastructure that IS the system. Body-knowledge detects anomaly; institutional language cannot accommodate it. Compliance as survival strategy — obligation to Nuwa constrains every other impulse. Workers' bodies as infrastructure cost. Vertical city as literal power architecture. |
 | Ch 5 | Architecture (Strong), Complicity (Moderate), Truth (Moderate), Commodification (Background), Irrelevance (Background), Obligation (Background), Atrocity (Background), Identity (Not present) | Sofia's debut: VEC's institutional architecture as central antagonist — SOP 7.1, quarterly review, classification pipeline, cross-departmental boundaries. Each layer reasonable; together they absorb anomalies. Liang's window faces up, never down. Complicit through institutional faith. Dual-channel truth: sanitized official report + personal archive (14+1). The 0.7 Hz pulse measures from the Spires what Fuxi's body detects from the Deep Sump. Solberg name planted via Erasure List. |
 | Ch 10 | Commodification (Strong), Identity (Strong), Complicity (Moderate), Truth (Moderate), Obligation (Moderate), Architecture (Background), Atrocity (Background), Irrelevance (Background) | Kira's debut: the performer who suppresses suffering for an audience. The Gap between who she is and what they need. Lumina as void-residue product. Academy doctrine internalized ("control is silence"). Priya's question planted and refused. Multiple obligations in tension — audience paid, community refused, self exceeded. |
+| Ch 6 | Architecture (Strong), Complicity (Strong), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present), Atrocity (Not present) | Zeyad's debut: the diplomat inside the Accords compliance system. UGC institutional architecture as the chapter's terrain — committee chambers, classification protocols, Annex B routing, corporate-appointed oversight, 10-15 day processing tempo. Arctic-7 reclassified from scientific to security review — procedural anomaly detected by pattern recognition. "Contained" discovered in GCTA briefing — military vocabulary in civilian assessment. Five questions in ink. The practiced smile. Grandfather's Accords on the wall — signed, precise, and ornamental. |
 
 ---
 
@@ -512,6 +513,12 @@ This bible dimension tracks **theme evolution**:
 | VEC central holographic display | Architecture of Power, Systemic Complicity | Three-meter sphere, decorative, useless — institutional competence performed without institutional function |
 | Sofia's personal archive (14+1) | Truth as Weapon, What We Owe | Fourteen silenced signals preserved outside the pipeline — responsibility as quiet defiance; the number connects to Solberg's fourteen recalibrations |
 | Sofia's field kit | Truth as Weapon, Systemic Complicity | Personal sensor package in the institutional grey zone — not sanctioned, not prohibited; the tool for when institutional channels fail |
+| Jordanian flag flicker | Architecture of Power, Systemic Complicity | Heritage degrading because maintenance budgets serve corporate interests — the institution's priorities visible in what it fails to maintain; recurring motif across Zeyad chapters |
+| The practiced smile | Architecture of Power, What We Owe | Performance of diplomatic composure; the face beneath it "older, quieter" — the gap between smile and face widens as the arc progresses; its erosion IS the arc |
+| Zeyad's pen | Truth as Weapon, What We Owe | Operational security disguised as nostalgia; three-generation provenance (Tariq → Kamal → Zeyad); ink as indelible record; the tool that survives classification |
+| "Contained" (vocabulary leak) | Architecture of Power, Truth as Weapon | Military breach-language appearing in civilian assessment — the vocabulary of one institution leaking into another; cross-chapter thread (Prologue → Ch 6 → Ch 17) |
+| 10-15 business days | Architecture of Power, Irrelevance of Individual Being | The institutional pipeline as temporal weapon — the system that classified Arctic-7 in hours takes two weeks to respond to an oversight request; tempo as architecture |
+| Annex B | Architecture of Power, Systemic Complicity | Corporate-controlled oversight of corporate activity — the structural contradiction Zeyad has written four papers about; the papers are in the archive, the contradiction persists |
 
 ---
 
@@ -581,5 +588,5 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+_Last updated: 2026-02-11_
+_Updated by: Audit Chain — Chapter 6_

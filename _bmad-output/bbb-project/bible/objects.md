@@ -2,10 +2,10 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-10"
-lastChapter: 0
-totalObjects: 13
-activeObjects: 13
+lastUpdated: "2026-02-11"
+lastChapter: 6
+totalObjects: 16
+activeObjects: 16
 project_name: "Untitled"
 ---
 
@@ -591,6 +591,72 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 5: 15th entry saved — the 0.7 Hz pulse data, waveforms, temporal analysis, recalibration documentation, and the anomaly report submitted through official channels. The official copy enters the pipeline; the personal copy stays outside.
+
+---
+
+### Zeyad's Antique Pen
+
+**Origin:**
+- Provenance: Purchased by Ambassador Khalil Al-Fahim (great-grandfather) in Geneva, 2039, from a shop on Rue du Rhône (no longer exists). Passed to Tariq (grandfather), then Kamal (father), then Zeyad — four generations.
+- Discovered/Created: 2039
+- Circumstances: Three-generation heirloom; metal and mechanism, a relic of pre-digital writing technology
+
+**Description:**
+- Appearance: Metal pen, antique mechanism, uses modern archival-grade synthetic ink (permanent, black)
+- Function: Writing instrument — but its true function is operational security. Ink on paper cannot be remotely deleted, retroactively classified, lost in server migration, or overwritten during system update.
+- Condition: Functional — carried in breast pocket when walking, placed beside notebook when seated
+
+**Significance:** "Operational security disguised as nostalgia, and the disguise worked precisely because it looked like nostalgia." The pen is Zeyad's primary tool — documentation as action, ink as indelible record. The provenance chain (Khalil → Tariq → Kamal → Zeyad) mirrors the inherited duty of the Accords across four generations. The pen becomes critical when Zeyad publishes — the physical record survives classification attempts.
+
+**Current Owner:** Zeyad Al-Fahim
+**Location:** Breast pocket (walking) / beside notebook (seated)
+
+**History:**
+- Ch 6: Used throughout — margin annotations on printed agenda, notebook entries, formal data request. "The pen moved easily. Black ink on cream paper."
+
+---
+
+### Zeyad's Leather Notebook
+
+**Origin:**
+- Provenance: Purchased by Zeyad at the same Rue du Rhône shop where Khalil bought the pen (before the shop closed)
+- Discovered/Created: Before shop closure (pre-story)
+- Circumstances: Bought as companion to the pen — same provenance, same purpose
+
+**Description:**
+- Appearance: Dark brown leather-bound, unlined pages
+- Function: Private record — "for things that didn't belong in the institutional pipeline." Observations, annotations, marginal thoughts the formal record doesn't accommodate. NOT classified material (Zeyad is careful about the distinction).
+- Condition: Active — stored in desk drawer beside photograph
+
+**Significance:** The notebook is the gap between the institution's record and Zeyad's own. It contains the questions the pipeline cannot process: pattern observations, procedural anomalies, five questions about Arctic-7. When Zeyad becomes a whistleblower, the notebook IS the evidence — timestamps, margin annotations, the record of everything the institution's process was designed to delay.
+
+**Current Owner:** Zeyad Al-Fahim
+**Location:** Desk drawer (beside photograph, beneath briefings marked *Pending Review* and *Redacted*)
+
+**History:**
+- Ch 6: Arctic-7 observations recorded. Five questions written in ink: "Who contained it. When. At whose authorization. What required containment. Where are the personnel."
+
+---
+
+### Khalil's Portrait / Photograph
+
+**Origin:**
+- Provenance: Photograph taken at the signing of the Nitro Accords, 2044. Enlarged and framed in Hall of Nations; desk-scale copy in silver frame in Zeyad's office.
+- Discovered/Created: 2044
+- Circumstances: Ambassador Khalil Al-Fahim (great-grandfather), 53, at the signing table. Hand extended toward a delegate (face cropped by frame). Pen in other hand, ink still wet on final clause. Behind him: flags of the first 41 signatories (fabric, not holographic).
+
+**Description:**
+- Hall version: Enlarged, framed in dark wood, mounted in eastern alcove between Committee Chamber 3 entrance and glass case with original Accords. Eye-level. Designed for reflection, not traffic.
+- Desk version: Same image, silver frame, corner of desk where Zeyad's eyes find it without looking.
+- Expression: "Not triumph. The expression of a man who understood that the document he had just signed was imperfect, that the concessions it contained were dangerous, and that the alternative to signing was worse."
+
+**Significance:** Two scales of the same image — institutional memory (Hall) and personal memory (desk). Zeyad touches the Hall frame every morning as calibration (unconscious, the way other men touch wedding rings). The portrait is the promise. The promise is the reason. Khalil is the dynasty founder; Tariq (grandfather, the man Zeyad actually knew) is the personal connection. The portrait's presence in the chapter tracks Zeyad's arc: first touch (ritual), second touch (deliberate, after the denial). The closing sentence: "his great-grandfather's Accords on the wall — signed, precise, and ornamental."
+
+**Current Owner:** UGC (Hall) / Zeyad (desk copy)
+**Location:** Hall of Nations, eastern alcove / Zeyad's office desk
+
+**History:**
+- Ch 6: Touched twice. First: morning ritual (unconscious calibration). Second: post-committee (deliberate, after the denial). The preamble recited from memory.
 
 ---
 

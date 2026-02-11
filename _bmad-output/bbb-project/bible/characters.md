@@ -302,7 +302,7 @@ This bible dimension tracks **current character states**:
 
 **The Lie:** If the record is complete, justice is possible
 
-**Conscious Want:** Navigate the diplomatic crisis without compromising the Accords his grandfather drafted
+**Conscious Want:** Navigate the diplomatic crisis without compromising the Accords his great-grandfather drafted
 **Unconscious Want:** Believe that institutions — his family's life work — can contain this
 **Flaw:** Mistakes documentation for action; paper trails for accountability
 
@@ -310,29 +310,36 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
 | Mirelle Dubois | Information exchange | Growing | Encrypted back-channel; she has Sump data, he has Arctic-7 fragment |
-| Grandfather's legacy | Inherited duty | Deep | The Accords are his inheritance; the portrait hangs in the chamber |
+| Al-Fahim dynasty (Khalil/Tariq) | Inherited duty | Deep | Khalil (great-grandfather) signed the Accords; Tariq (grandfather) carried the legacy and died when Zeyad was 11. Portrait in the Hall, pen in the pocket. |
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
 **Current Arc:** Dutiful Diplomat → Disgraced Whistleblower
 - Current Phase: 1/5 (Equilibrium — routine compliance)
-- Progression: Beginning
-- Next Step: Classified Arctic-7 briefing mention; request denied
+- Progression: Beginning → first fracture
+- Next Step: Ch 17 — formal data request returns denied or too late; institutional faith tested
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
 |-------|-------|-----------|
-| 1/5 | Routine Accord compliance; Arctic-7 mentioned in passing | Classification request denied; grandfather's portrait |
+| 1/5 | Routine Accord compliance; Arctic-7 mentioned in passing | Classification request denied; Khalil's portrait, Tariq's memory |
 | 2/5 | Leaked Arctic-7 summary; Mirelle contact | First information bridge; shapes emerging |
 | 3/5 | Mirelle sends infrastructure findings; BLACKWEIR confirmed imminent | Invokes emergency clause; committee votes to "monitor" |
 | 4/5 | Mirelle's last transmission arrives — partial, mid-sentence | Writes public statement; publishes everything |
 | 5/5 | Suspended, prosecuted for leaking. The Accords punish the enforcer. | The record is public. The institution punishes the recorder. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1
+- Last Appearance: Ch 6 ("The Portrait in the Chamber")
+- Next Planned Appearance: Ch 17 ("The Exhaustion of Process")
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
+
+**Key Objects Established (Ch 6):**
+- Antique pen (Khalil → Tariq → Kamal → Zeyad; purchased Rue du Rhône, 2039; operational security disguised as nostalgia)
+- Leather notebook (purchased same shop; for observations the formal record doesn't accommodate)
+- Portrait/photograph (two scales: Hall of Nations institutional memory + desk personal copy)
+- 3 datapads (classified briefing summaries)
+- Printed agendas (annotated in margins during sessions)
 
 ---
 
@@ -922,8 +929,11 @@ This bible dimension tracks **current character states**:
 | Dr. Liang | New character | — | Introduced as Sofia's supervisor at VEC; 51, institutional mechanism, SOP 7.1 personified | Ch 5 |
 | Dr. Yun | New character (background) | — | Atmospheric Anomaly Group colleague; standard modeling | Ch 5 |
 | Farid | New character (background) | — | Atmospheric Anomaly Group colleague; sensor calibration | Ch 5 |
+| Zeyad Al-Fahim | Debut + Recent History | Pre-intro → Phase 1/5 | First POV chapter; Arctic-7 classification anomaly, Patel exchange, "contained" discovery, institutional faith's first fracture | Ch 6 |
+| Dr. Patel (VEC Liaison) | New character | — | VEC liaison delegate in compliance review; delivers Arctic-7 classification; procedural deflection. **Different from Prologue's Dr. Patel** — shared surname coincidental | Ch 6 |
+| Dr. Elara Mbutha | New character | — | Rotating session chair, Kenyan delegation; institutional neutral | Ch 6 |
 
 ---
 
-_Last updated: 2026-02-11 (Ch5 draft)_
-_Updated by: Audit Chain — Chapter 5_
+_Last updated: 2026-02-11 (Ch6 draft)_
+_Updated by: Audit Chain — Chapter 6_

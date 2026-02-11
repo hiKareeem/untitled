@@ -1,10 +1,10 @@
 ---
 title: "Rhythm Tracking"
 type: tracking
-lastUpdated: "2026-02-10"
-lastChapter: "Chapter 4"
+lastUpdated: "2026-02-11"
+lastChapter: "Chapter 6"
 totalChapters: 53
-analyzedChapters: 4
+analyzedChapters: 7
 project_name: "Untitled"
 ---
 
@@ -670,6 +670,127 @@ Fragment percentage recovery (14%→17%) continues the upward trend from Ch 4's 
 
 ---
 
+## Chapter 6 — Zeyad: "The Portrait in the Chamber"
+
+**Phase:** 1 | **Mode:** TEXTURE (diplomatic/institutional) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,200 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~12% | 10–20% | ✅ |
+| Avg sentence length | ~16 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~18% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |
+ 6 |                                    ●
+ 5 |                    ●             ╱   \
+ 4 |                  ╱   \         ╱       \
+ 3 |  ●──────●──────╱       \───●╱           ●
+ 2 |●
+   +─────────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Opening:** 2/10 — Ritual: walk, portrait, coffee, datapads. Equilibrium established.
+- **Committee rise:** 3→5/10 — Pattern recognition: Arctic-7 mentioned, security classification detected, procedural challenge
+- **Post-denial transition:** 3/10 — Return through Hall, portrait, preamble. Institutional reflection.
+- **"Contained" discovery:** 3→6/10 — Second anomaly confirms the first. Five questions. The practiced smile. Quiet escalation.
+- **Shape:** Slow institutional build — ritual calm → procedural friction → institutional reflection → private escalation. Tension never peaks dramatically — it accumulates through procedural anomalies. Highest tension is in the closing pages, alone in the office, outside the committee structure.
+
+### Beat Map
+
+1. [2%] HOOK — "The flags were still glitching." → +1
+2. [5%] TEXTURE — Hall of Nations, holographic standards, Jordanian flag flicker → 0
+3. [8%] RITUAL — Portrait touched. Khalil (great-grandfather). Tariq (grandfather, the man Zeyad knew) introduced. → 0
+4. [12%] SETTING — New Geneva described: low, restrained, hum as abstraction → 0
+5. [15%] TEXTURE — Office: desk, datapads, pen, photograph. Two scales of the same image. → 0
+6. [18%] CONTEXT — Committee Chamber 3: circular, 32 seats, acoustically designed for record → +1
+7. [22%] DETAIL — GCTA observer absent 14 months. Three major extractors late. → +1
+8. [28%] TEXTURE — Pen as operational security. Ink as indelible record. → 0
+9. [33%] TRIGGER — Dr. Patel: Arctic-7, "security review," "no action required" → +2
+10. [36%] INSIGHT — "Not the information. The *classification.*" → +1
+11. [40%] CONTEXT — Annex B: corporate-controlled oversight of corporate activity → 0
+12. [45%] CHALLENGE — Zeyad requests data through scientific channel, cites Article 4 → +1
+13. [50%] CONFRONTATION — Patel deflects: "security assessment takes precedence" → 0
+14. [55%] ESCALATION — "And the Directorate determined that a research station incident has strategic implications?" → +1
+15. [58%] CLOSURE — "I'll note the request." / "Denied. Rerouted." → −1
+16. [62%] TRANSITION — Hall return. Cathedral light. Portrait. Preamble. → −1
+17. [68%] REFLECTION — Accords flawed. "Not by enemies. By the document itself." → 0
+18. [72%] INSIGHT — NitroCore 41% throughput vs. preamble's "no single entity" → 0
+19. [76%] REVEAL — GCTA briefing p.9: Arctic-7 status "contained" → +2
+20. [80%] ANALYSIS — "Contained" as military vocabulary. Verb dressed as adjective. → +1
+21. [84%] ACTION — Five questions written in notebook. Formal data request filed. → 0
+22. [87%] DEFLATION — "10–15 business days." The pipeline as temporal weapon. → −1
+23. [90%] REFLECTION — Window. Lake. "The right to request, to file, to annotate, and to wait." → 0
+24. [93%] INSIGHT — "The system was working. That was not the reassurance it had been this morning." → +1
+25. [95%] TEXTURE — Record complete. Practiced smile. The face beneath. → 0
+26. [98%] CLOSING — "signed, precise, and ornamental." → +1 (thematic payoff)
+
+**Beat density:** 1 per ~200 words — high for a TEXTURE chapter. Driven by the committee exchange sequence and the double-anomaly structure (security classification + "contained").
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|--------|
+| Scene 1→2 | Section break + spatial shift (Hall/office → Committee Chamber 3) | 8/10 — clean institutional shift |
+| Scene 2→3 | Section break + time-skip (committee → Hall return, 12:47) | 8/10 — efficient; "Forty-seven minutes over schedule. Standard." |
+| Scene 3→4 | Section break + spatial shift (Hall → office) | 7/10 — functional; tonal shift from institutional reflection to private investigation |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 7/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.8/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 15%
+- **Reflection:** 85%
+
+### Pacing Notes
+
+- **Strengths:** The institutional-detail passages serve double duty as worldbuilding AND pacing — the reader experiences the bureaucratic tempo alongside Zeyad. The committee exchange (beats 9-15) is the chapter's rhythmic peak — tension builds through institutional maneuvering, not action. The double-anomaly structure ("security review" in committee + "contained" in briefing) creates a satisfying two-act escalation. The closing sentence ("signed, precise, and ornamental") delivers the epigraph's payoff with perfect economy. The bimodal paragraph structure is strong: dense institutional blocks alternate with single-word/line punches ("Indefinitely." / "Arctic." / "Contained." / "Two words. Black ink."). Fragment percentage (18%) is healthy — recovers from Ch 4-5 lows.
+- **Concerns:** Momentum score (7/10) reflects the deliberate institutional pace — this is the most reflection-heavy chapter (85%) in the book so far. Appropriate for Zeyad's POV (he *thinks* rather than *acts*) but future Zeyad chapters (especially Ch 17, Ch 30) should introduce more external pressure to push action higher. Dialogue at 12% is adequate for a committee-exchange chapter but could feel sparse on re-read.
+- **Recommendations:** This chapter establishes the TEXTURE/diplomatic-institutional template for Zeyad. The institutional-detail-as-pacing device (making the reader experience the bureaucratic tempo) is POV-specific and should recur. The double-anomaly structure (procedural anomaly confirmed by documentary anomaly) is a reusable narrative pattern for Zeyad's arc — he discovers truth through cross-referencing institutional records, not through action or confrontation. Future chapters should maintain the 80-85% reflection ratio for Zeyad while increasing the stakes of what the reflection reveals.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 5 = scientific TEXTURE/Sofia → Ch 6 = diplomatic TEXTURE/Zeyad — same mode, different register)
+
+### Comparison to Previous Chapters
+
+| Metric | Prologue | Ch 1 | Ch 3 | Ch 4 | Ch 5 | Ch 6 | Ch 10 | Delta (Ch6 vs avg) |
+|--------|----------|------|------|------|------|------|-------|---------------------|
+| Words | 4,800 | 5,200 | 5,400 | 5,200 | 5,400 | 5,200 | 5,200 | 0 |
+| Scenes | 4 | 4 | 3 | 4 | 4 | 4 | 3 | +0.29 |
+| Dialogue | 15% | 11% | 18% | 8% | 10% | 12% | 18% | −1.1% |
+| Flow | 8.8 | 9.2 | 8.2 | 8.6 | 8.6 | 8.8 | 9.0 | +0.03 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Plateau (3→7→5) | Plateau (2→7→5) | Inst. build (3→5→3→6) | Inst. build (2→5→3→6) | Suppressed swell (3→8→3) | New shape |
+| A/R balance | 35/65 | 40/60 | 25/75 | 20/80 | 20/80 | 15/85 | 30/70 | −12% action |
+| Fragment % | 22% | 20% | 15% | 14% | 17% | 18% | 19% | +0.5% |
+
+Ch 6 introduces a new TEXTURE subtype: **diplomatic/institutional**. Unlike Ch 3 (contemplative/theological), Ch 4 (working-class/infrastructure), or Ch 5 (scientific/institutional), Zeyad's TEXTURE mode features the GRRM room-reading register — tension builds through institutional maneuvering and procedural cross-referencing, not through data analysis or body-knowledge. The tension shape mirrors Ch 5 (institutional build with private escalation) but at a different register: Sofia's escalation is empirical (the pulse), Zeyad's is procedural (the classification). The 15/85 action/reflection split is the most contemplative in the book — appropriate for a debut chapter that must establish the UGC, New Geneva, and Zeyad's entire institutional world. Future Zeyad chapters should push action toward 20-25% as external pressures mount.
+
+Flow score (8.8) matches the Prologue — the highest for a TEXTURE chapter, reflecting the strong internal coherence and GRRM-alignment of the institutional voice. Fragment percentage (18%) continues the recovery from Ch 4's low.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -680,7 +801,7 @@ Fragment percentage recovery (14%→17%) continues the upward trend from Ch 4's 
 | 3 | Nephthys | 5,400 | TEXTURE | 18% | 3→7→5 | 8.2 | 25/75 | ✅ |
 | 4 | Fuxi | 5,200 | TEXTURE | ~8% | 2→7→5 | 8.6 | 20/80 | ✅ |
 | 5 | Sofia | 5,400 | TEXTURE | 10% | 3→5→3→6 | 8.6 | 20/80 | ✅ |
-| 6 | Zeyad | — | TEXTURE | — | — | — | — | 📝 |
+| 6 | Zeyad | 5,200 | TEXTURE | 12% | 2→5→3→6 | 8.8 | 15/85 | ✅ |
 | 7 | Aurielle | — | PRESSURE | — | — | — | — | 📝 |
 | 8 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
 | 9 | Mirelle | — | PRESSURE | — | — | — | — | 📝 |
@@ -694,7 +815,7 @@ Fragment percentage recovery (14%→17%) continues the upward trend from Ch 4's 
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 6/11 | 6/11 | 8.7 | 4.7 | 2P/4T | ⏳ |
+| Phase 1 | 7/11 | 7/11 | 8.7 | 4.6 | 2P/5T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -703,4 +824,4 @@ Fragment percentage recovery (14%→17%) continues the upward trend from Ch 4's 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 5 rhythm analysis_
+_Updated by: Audit Chain — Chapter 6 rhythm analysis_
