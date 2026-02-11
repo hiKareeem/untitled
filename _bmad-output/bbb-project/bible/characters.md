@@ -425,11 +425,45 @@ This bible dimension tracks **current character states**:
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1, early chapter
+- Last Appearance: Chapter 4 — "Monitor 6"
+- Next Planned Appearance: Chapter 8 — "White Noise" (domestic scene with Nuwa)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 4:** Routine trunk-line inspection in Deep Sump monitoring bay, Section 4-East. Logged three-hertz flat variance (within tolerance). At 14:47, monitor 6 spiked from 27.1 to 31.2 RCI — four points above baseline, held ~40 seconds, self-corrected. Chen Wei dismissed: "They always self-correct." Fuxi noticed the decay profile was atypical — linear rather than logarithmic, too clean, too precise. Logged the anomaly with a note recommending follow-up inspection of junction housing 4E-9. Did not escalate. Received messages from Nuwa about a Shenlong P-3 frame with sensory filter on the Hum Market (stall 14, 1,200 credits, 3 months savings). Nuwa warned him against volunteering for Resonance District overtime (double rate offered). Returned to Sump apartment. Did not pursue the question forming in his mind about the correction pattern. Psychological state: dutiful, suppressing unease, compliance as survival strategy.
+
+**Key Objects:**
+- Service jacket: orange, reflective strips peeling, zipper sticks at midpoint. Replacement requests filed and unanswered.
+- Frame: service-issue L-class, strapped to left forearm, housing cracked along one edge — throws artifacts into lower-left AR overlay. Same requisition queue as the jacket.
+
+---
+
+### Chen Wei
+
+**Role:** Supporting (Fuxi's shift supervisor)
+**Faction:** Municipal conduit authority ("the service")
+**Primary Location:** Neo-Shanghai Deep Sump, Monitoring Bay Section 4-East
+
+**Current Psychological State:**
+- Phase: N/A (supporting — no arc tracked)
+- Emotional State: Institutional patience. Not dismissive — calcified.
+- Dominant Beliefs: "They always self-correct." The system has redundancy margins. Fluctuations are weather.
+- Internal Contradictions: None visible — which is the point. Twenty years of self-correcting readings have produced a man who has stopped seeing the numbers as information and started seeing them as weather.
+
+**Function in Story:** What Fuxi will become if he stays. The institutional mirror — a competent, experienced technician whose competence has become the mechanism of his blindness. He is not wrong about the system's self-correction history. He is wrong about what that history guarantees.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Fuxi Lin | Subordinate | Professional | Fuxi reports; Chen Wei files. The relationship is procedural. |
+
+**Speech Register:** Minimal. Single words, short phrases. "Logged?" "Fluctuation." "Self-correcting." Speaks in the compressed vocabulary of someone who has stopped needing full sentences to communicate institutional certainty.
+
+**Appearances:**
+- Last Appearance: Chapter 4 — "Monitor 6"
+- Next Planned Appearance: Fuxi's subsequent chapters
+
+**Recent History:**
+- **Ch 4:** Dismissed Fuxi's report of a 4-point RCI spike on monitor 6. "They always self-correct." Did not look at the decay profile. Did not investigate. Filed the shift report.
 
 ---
 
@@ -572,11 +606,15 @@ This bible dimension tracks **current character states**:
 | 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1 (possibly through Fuxi's POV)
+- Last Appearance: Chapter 4 — "Monitor 6" (via Frame messages, through Fuxi's POV)
+- Next Planned Appearance: Chapter 8 — "White Noise" (domestic scene with Fuxi)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 4 (through Fuxi):** Messaged Fuxi about a Shenlong P-3 frame with sensory filter found at the Hum Market (stall 14, blue tarp, 1,200 credits, refurbished, new filter module). Voice message building her case — fast, layered, stacking reasons. The P-3 would reduce hum-drunk headaches, fix AR overlay glitching near conduit junctions, enable application for Mid-Level textile positions requiring functional Frame for quality-control interface. Currently working textile recycling, second shift (ends 20:00). Current Frame drops AR overlay near conduit lines — rendered her supervisor as a floating torso for ten minutes. Warned Fuxi against volunteering for Resonance District overtime (double rate offered — "I also know why they're offering double rate"). Chose a deep blue textile for the bed because it's the furthest thing from orange — everything in the Sump is orange. Humor intact. Dreams intact. Pragmatism intact.
+
+**Key Objects:**
+- Current frame: salvaged, second-hand, drops AR overlay near conduit junctions. Cosmetically and functionally degraded.
+- Target frame: Shenlong P-3 with sensory filter. 1,200 creds. Held at Hum Market stall 14 for two weeks.
 
 ---
 
@@ -766,10 +804,10 @@ This bible dimension tracks **current character states**:
 | Nephthys | 1/5 | Seeker → Prophet | Imani (companion), Malachi (absent antagonist) | Initial |
 | Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
 | Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
-| Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Initial |
+| Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Ch 4 |
 | Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
 | Kira | Pre-intro | Performer → Witness | Mage network, Audience, Academy | Not yet active |
-| Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Initial |
+| Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Ch 4 |
 | **Supporting** | | | | |
 | Marcus Thorne | N/A | (No arc — already finished) | Aurielle (mentee), Eduardo (deceased), Board | Initial |
 | Imani | N/A | (Supporting) | Nephthys (companion), Void Witnesses | Initial |
@@ -777,6 +815,7 @@ This bible dimension tracks **current character states**:
 | Talia Ravid | N/A | (Supporting) | Mirelle (client), Black Babel, NitroCore (client) | Initial |
 | Lien Suen | N/A | (Supporting) | Mirelle (source), Dao Suen (missing husband) | Ch 2 |
 | Gauthier | N/A | (Supporting — editor) | Mirelle (reporter) | Ch 2 |
+| Chen Wei | N/A | (Supporting — supervisor) | Fuxi (subordinate) | Ch 4 |
 
 ---
 
@@ -824,8 +863,11 @@ This bible dimension tracks **current character states**:
 | Mirelle | Appearance + Recent History | Not yet written | First POV chapter; investigating Sump disappearances | Ch 2 |
 | Lien Suen | New character | — | Introduced as Dao Suen's wife, primary source | Ch 2 |
 | Gauthier | New character | — | Introduced as Mirelle's editor at The Wire | Ch 2 |
+| Fuxi Lin | Appearance + Recent History | Not yet written | First POV chapter; RCI anomaly on monitor 6, Chen Wei dynamic, Nuwa messages | Ch 4 |
+| Nuwa Lin | Indirect appearance + Recent History | Not yet written | First indirect appearance via Frame messages through Fuxi's POV | Ch 4 |
+| Chen Wei | New character | — | Introduced as Fuxi's shift supervisor, 20 years service, "They always self-correct" | Ch 4 |
 
 ---
 
-_Last updated: 2026-02-10 (Ch2 finalized)_
-_Updated by: Chapter-Writer Workflow — Ch2 review cycle_
+_Last updated: 2026-02-10 (Ch4 draft)_
+_Updated by: Chapter-Writer Workflow — Ch4 draft_

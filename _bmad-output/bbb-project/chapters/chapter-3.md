@@ -98,7 +98,7 @@ She could hear it. She could always hear it.
 
 "How far?" Imani said, behind her.
 
-Nephthys didn't turn. She was parsing the hum — separating the residual conduit resonance from the wind, from the creak of the buildings, from the sound of Imani's boots on the cracked road surface. It was a skill she'd developed over years, the way a musician develops the ability to isolate a single instrument in an orchestra. The hum was not one sound. It was a composite — layers of frequency stacked and interwoven, some from the infrastructure, some from the geological formations beneath it, and some from something else entirely. Something that had no physical source she could identify.
+Nephthys didn't turn. She was parsing the hum — separating the residual conduit resonance from the wind, from the creak of the buildings, from the sound of Imani's boots on the cracked road surface. It was a skill she'd developed over years, the way a prelate learns to isolate a single voice in a congregation's prayer. The hum was not one sound. It was a composite — layers of frequency stacked and interwoven, some from the infrastructure, some from the geological formations beneath it, and some from something else entirely. Something that had no physical source she could identify.
 
 The chorus.
 
@@ -124,7 +124,7 @@ The grid had pulled out seven years ago. Nephthys knew this because the Void Wit
 
 The Void Witnesses had also told her about the scar.
 
-Nephthys felt it before she saw it. A pressure change — not in the air but in the hum. The residual conduit resonance, which had been a faint, even drone since they'd entered the town, thickened. Gained texture. The frequency didn't change, but the *quality* did — as if the sound had acquired depth, the way a single note acquires depth when you add harmonics. Her temples tightened. A familiar sensation, intimate as a pulse. The first warning.
+Nephthys felt it before she saw it. A pressure change — not in the air but in the hum. The residual conduit resonance, which had been a faint, even drone since they'd entered the town, thickened. Gained texture. The frequency didn't change, but the *quality* did — as if the sound had acquired depth, the way a whisper acquires weight in a stone hall. Her temples tightened. A familiar sensation, intimate as a pulse. The first warning.
 
 "Nephthys."
 
@@ -212,7 +212,7 @@ Not because she was wrong. She understood that now, with the clarity that exile 
 
 She did not forgive him. She understood him. The distinction was load-bearing.
 
-The chorus pulsed beneath her palms. The migraine pulsed with it — synchronized, as if her nervous system had become a receiver tuned to the scar's residual frequency. She could feel the layers now. Not hear them — *feel* them. Each one a slightly different quality of cold, a slightly different pressure against her skin. She could not count them. She could not separate them. But they were *there* — distinct presences within the composite, the way you can feel that a chord contains multiple notes even if you cannot name them.
+The chorus pulsed beneath her palms. The migraine pulsed with it — synchronized, as if her nervous system had become a receiver tuned to the scar's residual frequency. She could feel the layers now. Not hear them — *feel* them. Each one a slightly different quality of cold, a slightly different pressure against her skin. She could not count them. She could not separate them. But they were *there* — distinct presences within the composite, the way you can feel the separate threads in a woven cloth even when you cannot see them.
 
 Something had happened here. Something had been left behind. Not a wound. Not a stain. Something more like an impression — the shape of an event pressed into the coherence of the space, the way a hand pressed into wet clay leaves a shape that is not the hand but is not nothing.
 

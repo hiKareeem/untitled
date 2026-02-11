@@ -232,7 +232,7 @@ The private suite on the 116th floor had been Eduardo's. She could tell because 
 
 She was alone. Thorne had left with the security detail. Medical had come and gone — a quick scan, vitals within range, no injuries detected. *No injuries detected.* She had her father's blood on her body and the system found nothing wrong.
 
-The room was quiet. Not silent — silence didn't exist in Neo-Shanghai, even at Spire altitude. There was always the faint hum of the environmental systems, the subliminal pulse of the conduit network far below, the sound of a building that was itself a living instrument of the grid. But the quiet was a different quality than the ballroom's noise. Thicker. More private. The kind of quiet that allowed the sounds you'd been suppressing to surface.
+The room was quiet. Not silent — silence didn't exist in Neo-Shanghai, even at Spire altitude. There was always the faint hum of the environmental systems, the subliminal pulse of the conduit network far below, the sound of a building that was itself a living extension of the grid. But the quiet was a different quality than the ballroom's noise. Thicker. More private. The kind of quiet that allowed the sounds you'd been suppressing to surface.
 
 She stood in the center of the room and rotated her left wrist. Slowly. A phantom ache — the ghost of a fracture she'd sustained at eight, falling from a climbing structure in the compound gardens. Healed perfectly. The nanites had seen to that. But the habit remained: when the world exceeded her capacity to process it, her left wrist reminded her that she'd been broken before and the break had been repaired so completely that only she knew it had happened.
 

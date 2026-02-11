@@ -218,7 +218,9 @@ project_name: "Untitled"
 | **Dampener** | Localizes RCI reduction for breach containment |
 | **Catalyst** | Rare-earth compound for refinement. Monopolized. The choke point. |
 | **Oroteden** | Luxury Frames. The Apple of Frames. |
+| **Shenlong** | Mass-market Frames. The Android of Frames. Functional, affordable, decent specs. What Sump residents buy when they can afford to buy at all. |
 | **TitanCorp** | Military/industrial Frames. The Boeing of Frames. |
+| **GridLine** | NitroCore transit subsidiary. Runs the vertical transit system. Nobody in the Sump says "NitroCore" for transit the way nobody says "Amazon" for Whole Foods. |
 | **Credential** | Corporate citizenship token. Required for transit, services, employment. |
 
 ---

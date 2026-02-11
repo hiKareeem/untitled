@@ -2,8 +2,8 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-10"
-lastChapter: "Chapter 3"
-totalCharacters: 8
+lastChapter: "Chapter 4"
+totalCharacters: 11
 project_name: "Untitled"
 ---
 
@@ -267,8 +267,11 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 | Marcus Thorne | Supporting | 4 | Respectful attention → Operational activation → Institutional directive → Almost-gentle delivery | Active — no arc (already finished); every response pre-assembled |
 | Nephthys | POV | 9 | Focused parsing → Controlled alarm → Physical overwhelm → Theological refusal → Defiant conviction → Intense listening → Honest uncertainty → Theological urgency → Oriented resolve | Active — terminal diagnosis, counter-liturgy developing, oriented toward Neo-Shanghai |
 | Imani | Supporting | 8 | Habitual endurance → Alert concern → Controlled fear → Managed frustration → Gentle challenge → Quiet anguish → Residual faith → Committed presence | Active — loyal to the person, not the theology; will seek transit papers |
+| Fuxi Lin | POV | 9 | Routine competence → Domestic warmth → Alert attention → Institutional frustration → Body-knowledge alarm → Private unease → Domestic tenderness → Suppressed questioning → Enforced compliance | Active — Phase 1/5; question forming, not yet asked |
+| Chen Wei | Supporting | 2 | Institutional patience → Institutional certainty | Active — no arc; calcified mirror |
+| Nuwa Lin | Indirect (messages) | 4 | Pragmatic excitement → Humor → Case-building urgency → Protective warning | Active — Phase 1/5; dreams intact, pragmatism intact |
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Audit Chain — Chapter 3 character audits_
+_Last updated: 2026-02-11_
+_Updated by: Audit Chain — Chapter 4 character audits_

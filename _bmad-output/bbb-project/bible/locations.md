@@ -54,7 +54,21 @@ This bible dimension maps the **story world**:
 
 ## Narrative Map — Neo-Shanghai
 
-Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below ground) to the Spires (3.5km altitude). Class, geography, and risk are vertically stratified.
+Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below ground) to the Spires (~3.5km altitude). Class, geography, and risk are vertically stratified. The city is **not enclosed** — it is open-air at the top, built upward from the original ground-level industrial city.
+
+### Vertical Model
+
+| Stratum | Altitude | Origin | Sky Visibility |
+|---------|----------|--------|---------------|
+| **Deep Sump** | -200m to 0m | Downward expansion for nitro conduit infrastructure | None — subterranean |
+| **Sump** | 0m to ~50m | Original ground-level city. Industry, residential, markets. Where the city started. | Effectively none from street level — the Mid-Levels and Spires are built directly above, creating a dense urban canopy. Orange conduit glow is the dominant light. Slivers of sky might be visible at district edges or through construction gaps, but functionally the Sump lives under a ceiling of its own city. |
+| **Brightline** | ~50m | The visible boundary where conduit glow (orange) gives way to artificial white light. Not a place — a transition. | Marks the shift from canopy shadow to managed lighting |
+| **Mid-Levels** | 50m to ~500m | Upward population expansion. Commercial, residential, transit hubs. | Increasing with altitude. Lower Mid-Levels still heavily canopied; upper Mid-Levels have gaps, terraces, observation platforms where sky is visible. |
+| **Spires** | 500m to ~3.5km | Corporate towers, ego, power. Latest construction. | Full sky access. Open-air terraces, panoramic offices, the world the Sump built for people who never go down. |
+
+**Sky access note:** Clean energy (nitro) eliminated smog generations ago. The sky is clear and visible — the issue isn't atmospheric, it's architectural. The layers of the city itself block the view from below. A Sump resident who wants to see the sky needs to travel upward through the Mid-Levels to an observation platform or canopy gap. This requires transit permits (managed by GridLine, a NitroCore subsidiary) and costs money. The sky is free; the access isn't.
+
+**Observation decks:** Exist at various points in the upper Mid-Levels (~200-400m) where the urban canopy thins. Some are commercial (charge admission), some are transit-adjacent (visible during transfers). Level 12 observation deck referenced in Ch 4 is one such platform — charges a day's wages for 30 minutes of unobstructed upward view. For a Sump resident, seeing the sky is an event, not a daily experience.
 
 ### Deep Sump
 
@@ -75,8 +89,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Void absorption fronts follow infrastructure upward
 - BLACKWEIR flood zone
 
+**Key Interior Locations (established Ch 4):**
+- **Monitoring Bay, Section 4-East:** Concrete box bolted to Trunk-Line 4-East at the junction where first-generation infrastructure meets 2160s bypass conduits. Six monitors (three automated, three crewed). Bolted furniture (trunk-line vibration walks unsecured items). Amber/green data displays. Orange conduit glow as dominant light source — pipe walls thinned over 150 years, metal becoming translucent. Industrial fluorescent overhead (irrelevant). The hum is physical — pressure through floor, chair, bones, settling behind the eyes.
+- **Trunk-Line Corridor (Section 4-East to ascent shaft):** 200m reinforced concrete. Metal grating floor — see-through to service channels below where smaller conduit branches split off. Trunk-line runs along ceiling. Conduit glow lighting. Grating vibrates with trunk-line heartbeat. Not a place for conversation — hum makes it effortful.
+- **Ascent Shaft:** Vertical transit corridor, pressurized tube with cargo lift (repurposed for personnel after 2160s automation wave when personnel lifts decommissioned). Slow. Trunk-lines run vertically through the shaft. Hum character changes during ascent — first-generation low-frequency drone fades, replaced by higher-pitched composite of newer distribution branches.
+
 **Key Events:**
-- [To be populated as chapters are written]
+- **Ch 4:** RCI fluctuation on monitor 6 (Section 4-East, near Resonance District boundary). Spike from 27.1 to 31.2, held ~40 seconds, self-corrected with atypical linear decay profile. Fuxi logged anomaly; Chen Wei dismissed. Baseline for this section: 26-28. Alarm threshold: 35. Emergency protocols: 40.
 
 **Significance:** The Confluence sits beneath the Resonance District here — six first-generation trunk-lines converge at the highest-throughput conduit junction in the city. This is where BLACKWEIR detonates.
 
@@ -107,8 +126,12 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Transit permits denied during "infrastructure maintenance periods"
 - BLACKWEIR sacrifice basin
 
+**Key Interior Locations (established Ch 4):**
+- **Residential Corridor (Fuxi/Nuwa's block):** Narrow, low-ceilinged. Poured concrete walls (pre-NitroCore era). Exposed conduit housing along ceiling — orange-glowing pipes bolted to brackets, NitroCore logo stamped every third joint. Conduit glow is primary light source (overhead fixtures burned out months ago, unreplaced). Smells: cooking oil, recycled air, faint chemical sweetness of nitro. Children play in corridors (apartments too small, surface streets too close to conduit access points where shimmers appear).
+- **Fuxi and Nuwa's Apartment:** Third floor, 2080s residential block (renovated never). Two rooms. Shared bathroom down the hall. Frosted polymer window facing adjacent block's corridor (looks at nothing). Rent subsidized by municipal service (deducted from wages before Fuxi sees them). Compressed foam mattress on wall-built platform, covered with deep blue salvaged textile (interlocking circles pattern — Nuwa says it reminds her of the sky). Hum transmitted through building structure — quieter than Deep Sump, constant, domestic. Boot mat by door (running negotiation: Nuwa wants boots off in corridor, Fuxi wants them off inside where they won't be stolen).
+
 **Key Events:**
-- [To be populated as chapters are written]
+- **Ch 4:** Fuxi returns from Deep Sump shift. Residential corridor and apartment details established. Nuwa absent (textile recycling second shift, ends 20:00). Fuxi sits in the hum and thinks about monitor 6.
 
 **Significance:** The Sump is the sacrifice basin. BLACKWEIR floods it with raw nitro, severs junctions upward. The Sump's residents are "projected casualties." This was always the design.
 
@@ -598,5 +621,5 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+_Last updated: 2026-02-10 (Ch4 draft)_
+_Updated by: Chapter-Writer Workflow — Ch4 draft_

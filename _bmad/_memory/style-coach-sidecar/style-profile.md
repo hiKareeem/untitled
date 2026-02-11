@@ -147,6 +147,23 @@ All POVs share: negation technique, sensory hierarchy, paratactic structure, ind
 - **Fuxi:** Working-class pragmatism, body-knowledge, infrastructure intimacy
 - **Kira:** Mage-specific sensation, spinal awareness, cost vocabulary of power use
 
+### POV Metaphor Domains ⚠️
+
+**CRITICAL RULE:** The sensory hierarchy (sound/vibration dominant) applies to ALL POVs, but each POV must express sound through their **own experiential framework**. Do not cross-contaminate metaphor domains.
+
+| POV | Metaphor Domain | Sound Expressed As |
+|-----|----------------|-------------------|
+| **Fuxi** | Infrastructure — pipes, pressure, flow, gaskets, gauges | Frequency, texture, the hum as physical process. "3Hz flat." Body-knowledge: what his hands/bones/teeth tell him. |
+| **Nephthys** | Liturgical/theological — prayer, chorus, sacrament, witness | The chorus, harmonization, the Voice, sacred resonance. Sound as theological proposition. |
+| **Kira** | Musical/performance — chords, notes, rhythm, broadcast | Notes held too long, harmonic structures, the scream as music inverted. Sound as composition. |
+| **Nikolai** | Military/mechanical — weapons, ordnance, tactical comms | Report sounds, detonation acoustics, comms chatter, silence as tactical data. |
+| **Aurielle** | Corporate/architectural — buildings, leverage, weight | The hum as background noise she's trained to ignore. Sound as status indicator. |
+| **Mirelle** | Journalistic/documentary — recording, signal, source | Sound as evidence. Ambient noise as context. The recorder running. |
+| **Sofia** | Scientific/instrumental — data, waveforms, correlation | Frequency as data point. The hum as measurable phenomenon. Instrument readings. |
+| **Zeyad** | Diplomatic/institutional — chambers, proceedings, record | Echoes in formal spaces. The silence of a room after a vote. Sound as institutional ritual. |
+
+**Anti-pattern:** Musical metaphors ("a note held too long in a chord," "like a chord resolving") are ONLY appropriate for Kira. If a musical metaphor appears in another POV, replace it with that POV's native domain.
+
 ---
 
 ## 📈 Evolution Tracking
