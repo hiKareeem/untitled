@@ -400,6 +400,26 @@ An object deserves documentation if it:
 
 ---
 
+### Thorne's White Silk Handkerchief
+
+**Origin:**
+- Provenance: Marcus Thorne's personal possession — actual silk, not synthetic
+- Introduced: Chapter 1 — offered to Aurielle at the assassination scene
+
+**Description:** A white silk handkerchief, folded into a precise square. Offered by Thorne to Aurielle while she sat on stage covered in her father's remains. Impossibly clean in a room that smelled like copper and burnt hair. The fabric cost more than most Sump residents earned in a month.
+
+**Narrative Significance:**
+- Thorne's preparedness — he had it ready, pre-folded, along with the board resolution, the corridor route, and the phrase
+- Institutional care vs. human care — wiping blood for the cameras, not for comfort
+- Aurielle keeps it: cleaned, folded, placed in a drawer in Eduardo's office. Never used again. Never thrown away.
+- Symbol of the transaction: Thorne offers control disguised as tenderness; Aurielle accepts because the institution requires it
+
+**Current Owner:** Aurielle Vasquez (stored in Eduardo's office drawer)
+
+**Current State:** Preserved — cleaned, folded, kept
+
+---
+
 ### Wet-Film Residue (Void Coherence Network)
 
 **Origin:**
@@ -448,6 +468,7 @@ An object deserves documentation if it:
 | Frames | Technology/Surveillance | Individual users / corporate mesh | Ubiquitous |
 | AEGIS | Weapon/System | GCTA / Chimera / OWGB | Operational, autonomous |
 | Wet-Film Residue | Void Infrastructure | The void | Accumulating |
+| Thorne's Handkerchief | Symbol/Motif | Aurielle Vasquez | Preserved (Eduardo's office) |
 
 ---
 
@@ -466,6 +487,7 @@ An object deserves documentation if it:
 
 ### Symbols/Relics
 - The Accords (Al-Fahim Legacy)
+- Thorne's White Silk Handkerchief
 
 ### Critical Resources
 - Nitro

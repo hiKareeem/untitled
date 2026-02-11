@@ -1,0 +1,87 @@
+# Chapter Metadata - Prologue: Arctic-7
+# Generated: 2026-02-10
+
+---
+chapter: 0
+title: "Arctic-7"
+wordCount: 4800
+pov: "Dr. Elise Vantanen"
+timeline: "December 2174"
+phase: 1
+mode: PRESSURE
+
+summary: |
+  Dr. Elise Vantanen, station commander at Arctic-7, notices the extraction hum has changed — not louder, not quieter, but *thinner*, as if a layer has been peeled away to expose something that was always underneath. The RCI is climbing without a throughput driver. Spectral analysis reveals a structured three-pulse pattern in the crude's resonance — too deliberate for noise, too rhythmic for artifact. She reduces throughput to minimum. The RCI keeps climbing.
+
+  She convenes an informal senior staff meeting — seven people, off the record, before NitroCore's Anomalous Events desk can classify everything into silence. Dr. Patel delivers the destabilizing finding: the crude is self-refining. A standard R0 sample reached R2-equivalent coherence in hours without catalyst input. Mäkelä, nine years at Arctic-7, says the hum sounds like something *answering.* Elise orders full extraction shutdown and files the report as precautionary maintenance — pump inspection — buying seventy-two hours.
+
+  Alone in the monitoring bay after shutdown, Elise watches a hairline crack appear in the air — not in the glass, in the *space itself.* Fracture geometry spreads across surfaces, reading the facility's architecture. The hum inverts, becomes total, carries a proposition she can feel but not articulate. Something vast is aware of her — not interested, not hostile, *aware,* the way a landscape is aware of rain. Her hand passes through the viewport into the geometry beyond. The transition is ontological, not physical. She becomes translucent. Her voice produces a tone matching the hum. "She was not consumed. She was *included.*" The rest of her follows.
+
+  Tamsin Guo finds the monitoring bay empty at 0347 except for a translucent figure with Vantanen's shape, glowing the color of deep water, unbreathing. By 0400 communications are disabled. By 0600 VEC containment teams are airborne. By noon the facility is classified beyond anyone's clearance. The figure remains. It remains for a very long time.
+
+keyPoints:
+  - Arctic-7 extraction hum changes — structured three-pulse pattern emerges without throughput driver
+  - RCI climbs autonomously, defying fundamental throughput-coherence relationship
+  - Dr. Patel discovers crude nitro is self-refining (R0 to R2 without catalyst)
+  - Elise orders full shutdown; files as "precautionary maintenance" to buy 72 hours from NitroCore
+  - Hairline crack in air — fracture geometry reads facility architecture
+  - The hum carries a "proposition" — vast awareness, passive, without preference or judgment
+  - "The compressed geological record of every scream ever screamed, refined into a signal it could follow"
+  - Elise absorbed — hand translucent, voice becomes tone, "included not consumed"
+  - Translucent figure remains in monitoring bay — Vantanen's shape, deep-water glow, does not breathe
+  - NitroCore classifies Arctic-7 within hours — institutional suppression activates automatically
+
+characters:
+  - name: "Dr. Elise Vantanen"
+    role: POV (standalone)
+    arc_phase: "Complete (absorbed)"
+    key_moments:
+      - "Eleven years extraction experience — knows the hum the way a sailor knows wind"
+      - "Convenes off-record meeting to preserve understanding before institutional classification"
+      - "Steps toward the fissure — 'a scientist before she was a station commander'"
+      - "Hand passes through viewport — ontological transition, not physical"
+      - "'She was not consumed. She was included.'"
+  - name: "Tamsin Guo"
+    role: Supporting
+    key_moments:
+      - "Shift lead, 26, constitutionally incapable of alarm"
+      - "Pushes to file formal report — institutional obligation vs. Elise's pursuit of understanding"
+      - "Finds translucent figure at 0347; files report at 0351"
+  - name: "Kai Mäkelä"
+    role: Supporting
+    key_moments:
+      - "Finnish, 53, nine years at Arctic-7 — longest tenure"
+      - "Daughter's cello analogy — 'the A string vibrates in sympathy... something answering'"
+      - "'Something is listening that wasn't listening yesterday'"
+  - name: "Dr. Patel"
+    role: Supporting
+    key_moments:
+      - "Discovers self-refining crude — R0 to R2 coherence without catalyst"
+      - "'I know what it requires. I'm telling you what I measured.'"
+
+locations:
+  - "Arctic-7 extraction facility — Barents shelf, 60m below ice"
+  - "Primary monitoring bay — hexagonal, 3 instrument walls, 3 reinforced viewports"
+  - "Extraction cavity — 12m diameter, 300m vertical shaft, hydrothermal formation"
+  - "Mess hall — senior staff meeting (informal)"
+
+newElements:
+  - "Nitro hum as constant background — 'the texture of your hearing'"
+  - "Three-pulse spectral pattern (spike-decay-spike-decay-spike-long decay)"
+  - "RCI (Resonance Coherence Index) — advisory at 41, curfew at 50"
+  - "Self-refining crude — R0 to R2 without catalyst arrays"
+  - "Fracture geometry — cracks in coherence of space, reads facility architecture"
+  - "The hum's 'proposition' — felt architecture of intent"
+  - "Ontological transition — hand ceases to be in one state, begins in another"
+  - "Translucent figure — Vantanen's shape, deep-water bioluminescence, does not breathe"
+  - "NitroCore Anomalous Events desk — institutional classification machinery"
+  - "VEC containment teams (Tromsø)"
+  - "Solberg epigraph — suppressed 2170 paper on nitro infrastructure density and anomalous events"
+
+reviewResults:
+  note: "Prologue predates multi-agent review workflow. Written and polished before chapter-write pipeline was established. Treated as gold standard for voice, rhythm, and style (see style-profile.yaml and rhythm-baseline.md)."
+
+createdDate: "2026-02-10"
+lastModified: "2026-02-10"
+author: "Kareem"
+status: "final"

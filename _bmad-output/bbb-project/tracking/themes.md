@@ -2,7 +2,7 @@
 title: "Theme Tracking"
 type: tracking
 lastUpdated: "2026-02-10"
-lastChapter: "Prologue"
+lastChapter: "Chapter 1"
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -45,6 +45,7 @@ Individual moral agency vs. structural inevitability. Every character functions 
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | Institution designed to "absorb anomalies into procedure"; Elise games system (pump inspection filing); post-incident classification erases local knowledge within hours | Vantanen: complicit in delaying report to preserve understanding; NitroCore: institutional suppression machinery activates automatically | Aurielle inherits the institutional machinery that classified Arctic-7 |
+| Ch 1 | **Escalation.** Aurielle's complicity begins with the first act: walking when told, wiping her face for the cameras, accepting Thorne's directives. She follows Eduardo's rules even in extremis ("Ask a question — it buys time and sounds like leadership"). The institution metabolizes Eduardo "the way a system metabolizes an input: efficiently, without sentiment, toward output." Board Resolution 2175-003 activates without deliberation. | Aurielle: complicity as institutional conditioning — obeys before she decides to obey. Thorne: complicity's architect — every response pre-assembled. | Aurielle's first board meeting (Ch 7) — complicity deepens as she engages with "Sump lifecycle management" |
 
 ---
 
@@ -79,6 +80,7 @@ The beauty and utility of nitro vs. the horror of what it actually is. The econo
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | Nitro established as beautiful/functional ("molten amber," "prismatic edge"); self-organizing coherence is the first crack; climactic revelation: "compressed geological record of every scream ever screamed, refined into a signal" | Vantanen: works inside the engine, unknowing; Patel: measures the first anomaly; Reader: now knows what characters don't | Fuxi's conduit maintenance scenes — the same infrastructure, urban scale |
+| Ch 1 | **Background.** The gala itself is funded by nitro wealth. Shimmer-silk dress, commissioned art, nanite-fabricated luxury — all downstream of suffering no one in the Spires acknowledges. Aurielle's blood wiped for cameras, not for comfort. The handkerchief costs more than Sump residents earn in a month. | Aurielle: unknowing consumer of the suffering economy; the gala is a celebration of the machine. | Fuxi's perspective — the Sump side of the wealth Aurielle inhabits |
 
 ---
 
@@ -112,6 +114,7 @@ Institutional rationality vs. moral consequence. The system works. That's the ho
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | Extraction infrastructure presented as given; Solberg epigraph hints at institutional awareness of danger; the facility exists because civilization needs nitro | Background presence — no character engages directly with this theme yet | Aurielle's first board meeting; "Sump lifecycle management" slide |
+| Ch 1 | **Background.** The Spires gleam. The grid works. Eduardo's assassination is human violence, not systemic — but the institutional response (board resolution, succession, statement drafting) reveals a system designed to absorb even murder as throughput. | Aurielle: inherits progress's architecture; Thorne: maintains it. | Ch 7 board meeting — "Sump lifecycle management" slide introduces the theme directly |
 
 ---
 
@@ -145,6 +148,7 @@ The persistence of form vs. the dissolution of being. The absorbed maintain shap
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | **Primary theme.** Full absorption demonstrated: hand translucent, voice produces tone instead of language, "included" not "consumed." Translucent figure remains — Vantanen's shape, posture, but you can see through it. | Vantanen: identity dissolved; compressed arc from scientist to void-analog. Tamsin: witnesses the aftermath — finds the figure that has Vantanen's shape but isn't Vantanen. | Nikolai's deployment — absorbed speaks a name; the question of persistence reopens |
+| Ch 1 | **Moderate.** Identity disrupted through human violence, not void. Aurielle transitions from daughter→CEO in the time of a thermal round. Eduardo's identity erased literally (face gone) and institutionally ("the event"). The holographic display still scrolling his name while his body stands faceless — the institutional identity persists after the human one is destroyed. Aurielle avoids the mirror. | Aurielle: identity fractured — daughter/heir/CEO compressed into a single traumatic moment. Eduardo: identity erased above the jaw; only the oxfords remain recognizable. | Aurielle's first board meeting — who is she now? The reform idealist or the inheritor? |
 
 ---
 
@@ -179,6 +183,7 @@ The pursuit of truth vs. institutional suppression. Truth doesn't liberate — i
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | Elise pursues truth against institutional pressure: "I'm asking you to think out loud before the system tells us to stop thinking." Patel and Mäkelä deliver destabilizing truths. NitroCore classifies everything within hours. Solberg epigraph: suppressed paper. | Vantanen: truth-seeker absorbed; Patel/Mäkelä: deliver truth that can't be acted on; NitroCore: buries truth architecturally | Mirelle's investigation — the same institutional reflex, urban scale |
+| Ch 1 | **Not present.** No truth-seeking in this chapter. Aurielle catalogs information at the gala but doesn't pursue truth — she performs. The epigraph ("the word 'succession' appeared eleven times; in no instance did it refer to a person") gestures toward institutional truth, but no character engages with it. | N/A | Mirelle's first investigation scenes |
 
 ---
 
@@ -213,6 +218,7 @@ Individual significance vs. cosmic indifference. The void isn't evil — it's an
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | **Primary theme (shared with Identity).** The void's awareness is passive, total, without preference: "the way a landscape is aware of rain." It followed the suffering signal — "it could no more ignore the signal than a nerve could ignore a wound." Elise is not special. She is closest to where the signal is loudest. Ocean/raindrop metaphor: "the way an ocean incorporates a single drop of rain." | Vantanen: cosmically irrelevant despite being station commander, eleven-year veteran, the protagonist of her own story. The void doesn't distinguish. | Scale widens — institutional and systemic forces dwarf individual characters |
+| Ch 1 | **Not present.** The void is absent. This chapter is entirely human-scale violence. The contrast with the Prologue is structural: two kinds of death in two chapters, but only one is cosmic. Eduardo's death is human, political, institutional — the opposite of irrelevance. | N/A | Nikolai's deployment — void returns to the narrative |
 
 ---
 
@@ -247,6 +253,7 @@ Individual agency vs. institutional architecture. The people who appear to wield
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | NitroCore's institutional response architecture activates without visible human deliberation: communication disabled (0400), VEC teams airborne (0600), classification elevated (noon). The architecture acts automatically — no named decision-maker, no hesitation. | Vantanen: erased by the architecture she served; her informal meeting, her understanding — all classified beyond her clearance within hours | Aurielle inherits this same architecture; Thorne is its human interface |
+| Ch 1 | **Primary theme.** Thorne IS the architecture's human interface. Every response pre-assembled: handkerchief, board resolution, corridor route, phrase. His suit is clean two chairs from a thermal round. The institution metabolizes Eduardo's death as input→output. Board Resolution 2175-003 activates without deliberation. The architecture doesn't mourn — it succeeds. Aurielle inherits "the grid her father had built and her father's father had designed" in the time it takes a thermal round to cross a ballroom. Power flows through the chair, not the person sitting in it. | Aurielle: inherits the chair; the architecture requires continuity, not grief. Thorne: the architecture's instrument — possibly its author. | Ch 7 board meeting — the chair's demands become specific |
 
 ---
 
@@ -281,6 +288,7 @@ Personal obligation vs. institutional failure. Compassion as radical act in a un
 | Chapter | Theme Event | Character Impact | Next Step |
 |---------|-------------|------------------|-----------|
 | Prologue | Background presence. Elise's tension between filing (institutional obligation) and understanding (personal obligation to knowledge). Tamsin pushes to file — professional duty. Mäkelä's personal vulnerability (daughter's cello). | Undeveloped — present as texture, not as thematic engagement | Fuxi's provision for Nuwa; Zeyad honoring the Accords |
+| Ch 1 | **Not present.** No obligation theme engaged. Aurielle does not yet confront what she owes — she is still processing what she's lost. The handkerchief's preservation (never used, never discarded) gestures toward an unexamined obligation, but it's instinct, not theme. | N/A | Aurielle's first encounters with the Sump's reality |
 
 ---
 
@@ -304,8 +312,9 @@ Personal obligation vs. institutional failure. Compassion as radical act in a un
 | Chapter | Active Themes | Thematic Event |
 |---------|---------------|----------------|
 | Prologue | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Complicity (Moderate), Truth (Moderate), Architecture (Moderate), Atrocity (Background), Obligation (Background) | First void breach: identity dissolves; cosmic indifference demonstrated; institutional suppression architecture activates; nitro's true nature revealed to reader |
+| Ch 1 | Architecture (Strong), Complicity (Strong), Identity (Moderate), Commodification (Background), Atrocity (Background) | Assassination as institutional event: power's architecture revealed through Thorne's pre-assembled responses; complicity begins with walking when told; identity fractured (daughter→CEO); two kinds of death in two chapters |
 
 ---
 
 _Last updated: 2026-02-10_
-_Updated by: Theme Tracker Workflow — Prologue analysis_
+_Updated by: Audit Chain — Chapter 1 thematic tracking_

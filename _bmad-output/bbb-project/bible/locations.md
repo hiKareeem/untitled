@@ -232,13 +232,22 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Description:** Dominant structure in the Spires. Corporate headquarters. Where Aurielle's board meetings happen, where Thorne briefs her on "Sump lifecycle management," where BLACKWEIR is authorized.
 
+**Key Interior Locations (established Ch 1):**
+- **Celestial Ballroom (114th floor):** Gala venue. Floor-to-ceiling windows, commissioned art (rotated quarterly), environmental systems scrubbing air to tastelessness. Stage with podium and row of high-backed chairs for executive delegation. Holographic display behind podium. Drone cameras broadcasting live feeds. Site of Eduardo Vasquez's assassination.
+- **Corridor (outside ballroom):** 90m long, lined with commissioned light sculptures by PCC-funded artist — nitro-infused glass casting amber refractions. Dark carpet.
+- **Private Suite (116th floor):** Medical staging area. Floor-to-ceiling windows facing the Spires. 114 floors above the city. The Sump is invisible from here — "Nobody could."
+- **Eduardo's Office:** Smells like sandalwood cologne (absorbed into the leather furniture). Where Aurielle stores the handkerchief.
+
 **Characters Present:** Aurielle, Marcus Thorne
 
-**Significance:** The institutional seat of the genocide. Aurielle's view from the tower window — looking down at where the Sump used to be — is a candidate for the book's final image.
+**Significance:** The institutional seat of the genocide. Aurielle's view from the tower window — looking down at where the Sump used to be — is a candidate for the book's final image. The Sump's invisibility from Spire altitude established in Ch 1 closing.
 
 **Current State:** Operational
 
 **Controlled by:** NitroCore
+
+**Key Events:**
+- Ch 1: Eduardo Vasquez assassinated at Celestial Ballroom gala (thermal round, military grade, high angle). Aurielle inherits NitroCore.
 
 ---
 

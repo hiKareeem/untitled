@@ -469,6 +469,7 @@ This bible dimension tracks **theme evolution**:
 | Chapter | Active Themes | Thematic Event |
 |---------|---------------|----------------|
 | Prologue | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Complicity (Moderate), Truth (Moderate), Architecture (Moderate), Atrocity (Background), Obligation (Background) | First void breach: identity dissolves; cosmic indifference demonstrated; institutional suppression architecture activates; nitro's true nature revealed to reader |
+| Ch 1 | Architecture (Strong), Complicity (Strong), Identity (Moderate), Commodification (Background) | Assassination as institutional event: Thorne's pre-assembled responses reveal power's architecture; Aurielle's complicity begins with walking when told; identity disrupted (daughter→CEO in the time of a thermal round); suffering commodified (blood wiped for cameras, not for comfort) |
 
 ---
 
@@ -484,6 +485,9 @@ This bible dimension tracks **theme evolution**:
 | Nuwa's wet cloth | Irrelevance of Individual Being, What We Owe | Smallest act of survival; obligation to self |
 | Violet frost | Where Identity Ends | Residue of dissolved identities |
 | NitroCore stock price | Progress Requires Atrocity, Architecture of Power | The market's verdict on genocide; architecture self-correcting |
+| Thorne's white handkerchief | Architecture of Power, Systemic Complicity | Institutional care disguised as human care; wiping blood for cameras, not comfort; preparedness as indictment |
+| The polished oxfords | Architecture of Power, Where Identity Ends | The only part of Eduardo that looked right; vanity as discipline; the CEO who still uses his hands — reduced to a shoe |
+| The Sump's invisibility from Spires | Systemic Complicity, Commodification of Suffering | Structural blindness; "Nobody could" — the architecture makes not-seeing effortless |
 | Jarek saying Nikolai's name | Where Identity Ends | Echo or consciousness? — the load-bearing ambiguity |
 | Post-absorption hum | Irrelevance of Individual Being, Where Identity Ends | Something bigger than individual consciousness emerging |
 | "Sump lifecycle management" | Progress Requires Atrocity, Architecture of Power | Euphemism as institutional language; power's vocabulary |

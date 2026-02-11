@@ -143,11 +143,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Functional tyrant. Knows. Continues. | Congratulated. Stock recovers. She will authorize the next one too. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1, Chapter ~2
+- Last Appearance: Chapter 1
+- Next Planned Appearance: Chapter 7 (board meeting)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- Chapter 1: Navigates corporate gala with institutional fluency — reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie). Seated on stage during Eduardo's keynote. Father assassinated mid-speech by thermal round (erased from nose up). Pieces of him on her dress. Cannot hear/remember the shot. Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording. She walks. In the corridor, Thorne activates Board Resolution 2175-003 (emergency succession). "Welcome to the throne, my dear. Try not to slip." Alone in private suite: rotates left wrist (signature mannerism), keeps the handkerchief, avoids the mirror. Seals the suspicion ("He knew") because she needs Thorne. Psychological state: grief suppressed, suspicion partitioned, institutional conditioning active.
 
 ---
 
@@ -568,12 +568,15 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
 | Aurielle | Mentee/Asset | Very High | Shaping her into the executive who signs what needs signing. Every briefing is a moral threshold lowered. |
-| Eduardo Vasquez (deceased) | Former CEO | Historical | Almost certainly arranged the assassination. Succession was too smooth. |
+| Eduardo Vasquez (deceased) | Former CEO | Historical | Almost certainly arranged the assassination. Succession was too smooth. **Ch 1 details:** Eduardo adjusted his cuffs when nervous (tell Aurielle noted but never pointed out). Wore the same charcoal bespoke suit to every gala. Polished his own hand-made leather oxfords — maintained by a Mid-Levels craftsman for 11 years (his one permitted vanity, framed as "discipline" but Aurielle reads it as theater). Cologne: sandalwood (absorbed into the leather of his office furniture). Teaching methods: taught Aurielle the "institutional smile" at 14 in front of a mirror in the Singapore compound. Rules: "The smile is for the room, not for the person." "Weakness is a scent." "Ask about their children — people reveal their ambitions through their children." "When you don't know what to say, ask a question — it buys time and sounds like leadership." |
 | NitroCore Board | Institutional | Stable | The continuity they depend on |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Aurielle's chapters (Phase 1+)
+- Last Appearance: Chapter 1
+- Next Planned Appearance: Chapter 7 (board meeting)
+
+**Recent History:**
+- Chapter 1: Present at gala, seated on stage two chairs from Aurielle. Suit clean after thermal round (noted by Aurielle). Immediately offers pre-folded white silk handkerchief. Activates Board Resolution 2175-003 via frame ("Emergency succession. No quorum required."). Walks Aurielle through corridor. Floats theories ("A rival. A fanatic. A disgruntled employee. It doesn't matter yet.") without committing to a narrative. Delivers pre-assembled phrase: "Welcome to the throne, my dear. Try not to slip." Every response was ready before the shot.
 
 ---
 

@@ -1,0 +1,28 @@
+# Project Status Tracking
+# Generated: 2026-02-10
+
+---
+project: "Untitled (Book 1)"
+author: "Kareem"
+totalPlannedChapters: 53  # Prologue + 51 chapters + Epilogue
+
+chapters:
+  prologue:
+    title: "The Cold"
+    status: complete
+    pov: "Dr. Elise Vantanen"
+    wordCount: 4800
+    completedDate: "2026-02-10"
+    metaFile: "prologue-meta.yaml"
+
+  chapter_1:
+    title: "The Heir"
+    status: complete
+    pov: "Aurielle Vasquez"
+    wordCount: 5200
+    completedDate: "2026-02-10"
+    metaFile: "chapter-1-meta.yaml"
+
+completedCount: 2
+totalWords: 10000
+lastUpdated: "2026-02-10"

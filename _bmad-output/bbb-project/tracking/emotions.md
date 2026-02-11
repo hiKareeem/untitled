@@ -127,6 +127,64 @@ Patel's professional precision cracks under the weight of impossible data. She h
 
 ---
 
+## Character: Aurielle Vasquez
+
+### Emotional Arc Summary
+
+Aurielle's Chapter 1 arc compresses four distinct emotional registers into a single traumatic event. She begins in institutional fluency — reading the room, cataloging intelligence, performing presence with practiced ease. The assassination creates an absolute break: she cannot hear/remember the shot, processes the aftermath through disconnected sensory fragments (salt, wrong color, wrong temperature), and enters a dissociative state where her body follows institutional conditioning (walking when told, wiping her face for cameras) while her consciousness lags behind. The corridor walk layers grief beneath calculation beneath suspicion — she recognizes Thorne's preparedness, seals the implication, and continues because the institution requires it. Alone in the suite, the wrist rotation is the only physical expression of processing. She does not cry. She does not look in the mirror. She keeps the handkerchief.
+
+### Dominant Emotions
+
+- **Primary**: Dissociative shock — sensory fragments without narrative coherence; "not a gap but an absence"
+- **Secondary**: Institutional conditioning — performs the role Eduardo trained her for even in extremity
+- **Conflict**: Grief vs. suspicion vs. dependence — she needs the man she suspects killed her father
+
+### Emotional State by Phase
+
+- **Opening (Gala)**: Institutional fluency — confident, analytical, performing. Not resentment but "something closer to fluency."
+- **Stage**: Disengagement — stops listening to Eduardo's speech. Mind sorting data. Not bored — partitioned.
+- **Aftermath**: Dissociative shock — sensory processing without cognitive integration. Salt. Wrong color. Still sitting.
+- **Corridor**: Layered numbness — grief compressed beneath institutional autopilot. Follows Thorne's directives. Recognizes his preparedness. Seals the suspicion.
+- **Suite**: Solitary processing — wrist rotation, handkerchief kept, mirror avoided. The partition holds.
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 1 — Beat 1 | Institutional fluency | Gala environment; familiar performance | Reads the room, catalogs intelligence, performs the institutional smile | Invisible — she is performing seamlessly |
+| Ch 1 — Beat 2 | Filial assessment | Approaching Eduardo on stage | Notes his cuff-adjustment tell (nervous); obeys shoe criticism; brief exchange about Jakarta line | Eduardo: micro-nod (*acceptable*) |
+| Ch 1 — Beat 3 | Disengagement | Seated on stage during speech | Stops listening; mind sorts data points while body performs presence | None — internal partition |
+| Ch 1 — Beat 4 | Dissociative shock | Salt on tongue; blood on dress; Eduardo's face erased | Sensory fragments without narrative; cannot hear/remember the shot; "not a gap but an absence" | None — frozen in chair |
+| Ch 1 — Beat 5 | Anchored numbness | Thorne's hand on her arm; "Wipe your face" | Takes handkerchief; wipes mechanically; follows commands | Thorne: directing, not comforting |
+| Ch 1 — Beat 6 | Institutional autopilot | Corridor walk; Thorne's board resolution, theories, directives | Voice sounds "too steady"; asks questions by reflex (Eduardo's rule); recognizes Thorne's preparedness | Thorne: delivers pre-assembled responses |
+| Ch 1 — Beat 7 | Sealed suspicion | "Welcome to the throne" — the phrase was ready | "He knew" surfaces and is sealed; grief alongside calculation alongside dependence | Internal — the partition holds |
+| Ch 1 — Beat 8 | Solitary processing | Alone in suite; handkerchief; mirror | Rotates left wrist; keeps handkerchief; avoids mirror; looks at Spires, not the Sump | None — alone |
+
+---
+
+## Character: Marcus Thorne
+
+### Emotional Arc Summary
+
+Thorne displays no emotional arc in Chapter 1 — which is the point. His expression does not change from the respectful attention he held all evening. His voice is "level — not calm, calm implied an alternative." Every response was pre-assembled: the handkerchief, the board resolution, the corridor route, the phrase. The horror of Thorne is not what he feels but what he doesn't. Two chairs from a thermal round and his suit is clean. Aurielle registers this. The reader registers this. Thorne does not register anything that requires registering.
+
+### Dominant Emotions
+
+- **Primary**: None visible — controlled, strategic, operational
+- **Secondary**: Proprietary satisfaction (implied, never shown) — "Welcome to the throne" is delivered with quiet, almost-gentle precision
+- **Conflict**: None visible — "which is the horror. Thorne has already made every decision Aurielle is approaching."
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 1 — Beat 1 | Respectful attention (performed) | Gala; seated on stage | Expression unchanged for two hours; hands folded | Aurielle notes: "Most people couldn't maintain a single expression for two hours without a crack. Thorne could maintain one for years." |
+| Ch 1 — Beat 2 | Operational activation | Assassination | Already standing, already beside Aurielle; suit clean; handkerchief ready | Aurielle: anchored but suspicious |
+| Ch 1 — Beat 3 | Institutional directive | Corridor | Board resolution via frame; theories floated; statement planned | Security responds to his authority; Aurielle follows |
+| Ch 1 — Beat 4 | Almost-gentle delivery | "Welcome to the throne" | Voice quiet; first eye contact since the stage | Aurielle: the words were *ready* — "sterilized, ordered, waiting for the incision" |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -135,8 +193,10 @@ Patel's professional precision cracks under the weight of impossible data. She h
 | Tamsin Guo | Supporting | 2 | Professional neutrality → First crack of urgency | Active — files report; witnesses aftermath |
 | Kai Mäkelä | Supporting | 2 | Dry watchfulness → Personal vulnerability | Unknown — last seen at informal meeting |
 | Dr. Patel | Supporting | 2 | Analytical composure → Defiant alarm | Unknown — last seen at informal meeting |
+| Aurielle Vasquez | POV | 8 | Institutional fluency → Disengagement → Dissociative shock → Anchored numbness → Institutional autopilot → Sealed suspicion → Solitary processing | Active — grief suppressed, suspicion partitioned, CEO by succession |
+| Marcus Thorne | Supporting | 4 | Respectful attention → Operational activation → Institutional directive → Almost-gentle delivery | Active — no arc (already finished); every response pre-assembled |
 
 ---
 
 _Last updated: 2026-02-10_
-_Updated by: Theme Tracker Workflow — Prologue analysis_
+_Updated by: Audit Chain — Chapter 1 character audits_

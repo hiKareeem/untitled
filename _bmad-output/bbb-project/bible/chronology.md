@@ -210,7 +210,7 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 | 2160s | First urban breach | Void follows nitro grid into cities |
 | 2170 | Suppressed VEC report | Throughput–breach correlation documented and buried |
 | 2174 Dec | Arctic-7 | Largest incursion to date; entire station absorbed |
-| 2175 | Book 1 opens | Peak infrastructure density; Eduardo Vasquez assassinated |
+| 2175 | Book 1 opens | Peak infrastructure density; Eduardo Vasquez assassinated by thermal round (military grade, high angle) mid-speech at NitroCore gala (Celestial Ballroom, 114th floor). Aurielle inherits via Board Resolution 2175-003 (emergency succession). Thorne activates institutional continuity protocols immediately. |
 
 ---
 

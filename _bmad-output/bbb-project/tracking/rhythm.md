@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-10"
-lastChapter: "Prologue"
+lastChapter: "Chapter 1"
 totalChapters: 53
-analyzedChapters: 1
+analyzedChapters: 2
 project_name: "Untitled"
 ---
 
@@ -104,12 +104,120 @@ project_name: "Untitled"
 
 ---
 
+## Chapter 1 — Aurielle: "The Heir"
+
+**Phase:** 1 | **Mode:** PRESSURE (shock) | **Date analyzed:** 2026-02-10
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,200 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 3–5 | ✅ |
+| Paragraphs | ~68 | — | — |
+| Dialogue % | ~11% | 10–20% | ✅ |
+| Avg sentence length | ~13 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~20% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |          ●
+ 9 |        ╱   ╲
+ 8 |      ╱       ╲
+ 7 |    ╱           ╲
+ 6 |  ╱               ╲───●
+ 5 |╱                       ╲
+ 4 |                          ╲
+ 3 |                            ●
+ 2 |●
+   +─────────────────────────────
+     Sc1      Sc2      Sc3   Sc4
+```
+
+- **Opening:** 2/10 — Controlled: gala performance, institutional fluency
+- **Peak:** 10/10 — Shock: hard cut, brain matter, Eduardo faceless at podium
+- **Corridor:** 6/10 — Sustained dread: Thorne's directives, succession, the phrase
+- **Closing:** 3/10 — Hollow: alone, wrist rotation, handkerchief, can't see the Sump
+- **Shape:** Shock detonation — controlled approach → instant violence → institutional processing → hollow aftermath
+
+### Beat Map
+
+1. [3%] HOOK — "Aurielle Vasquez had been smiling for two hours" → +1
+2. [8%] TEXTURE — Institutional smile taught at 14, Singapore compound → 0
+3. [15%] INTELLIGENCE — Reads the room: GCTA empty chair, Chimera coordination, Okafor's lie → +1
+4. [25%] COMPLICATION — Eduardo's cuff-adjustment tell (nervous, hasn't told her something) → +1
+5. [30%] DISENGAGEMENT — Seated on stage, stops listening, mind sorting data → 0
+6. [35%] HARD CUT — "Salt." → +8 (MAXIMUM JUMP)
+7. [40%] HORROR — Brain matter on dress; Eduardo faceless at podium; holographic display scrolling → +2
+8. [50%] ANCHOR — Thorne's hand; suit clean; handkerchief → 0 (tension held, not increased)
+9. [55%] DIRECTIVE — "Wipe your face. The cameras are recording." → 0
+10. [62%] WALK — Corridor; Board Resolution 2175-003; institutional metabolization → −1
+11. [72%] THEORIES — "A rival. A fanatic. A disgruntled employee. It doesn't matter yet." → −1
+12. [78%] PHRASE — "Welcome to the throne, my dear. Try not to slip." → +1 (dread spike)
+13. [82%] SUSPICION — "He knew" — sealed → −1
+14. [90%] SOLITUDE — Suite; wrist rotation; handkerchief kept; mirror avoided → −2
+15. [98%] CLOSING — "She couldn't see the Sump from here. Nobody could." → −1
+
+**Beat density:** 1 per ~347 words — high density, appropriate for PRESSURE chapter
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Hard cut (mid-thought to sensory fragment) | 10/10 — "whether—" to "Salt." is the best transition in the book |
+| Scene 2→3 | Section break + spatial shift (stage → corridor) | 8/10 |
+| Scene 3→4 | Section break + spatial shift (corridor → suite) | 7/10 |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 9/10 |
+| Continuity | 9/10 |
+| Immersion | 10/10 |
+| **Overall** | **9.2/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 40%
+- **Reflection:** 60%
+
+### Pacing Notes
+
+- **Strengths:** The hard cut from mid-thought to "Salt." is an exceptional structural device — the reader experiences the same disorientation as Aurielle. The tension jump from 2→10 is the sharpest in the book so far, sharper than the Prologue's slow-fuse. Post-peak sustained tension (corridor at 6/10) is expertly held — doesn't collapse to safety. Fragment percentage (20%) matches the paratactic voice signature perfectly. The closing descent is gradual and hollow, not resolved — the chapter ends in suspension, not comfort.
+- **Concerns:** None significant. The 40/60 action/reflection split is slightly more action-heavy than the Prologue (35/65), appropriate for PRESSURE mode.
+- **Recommendations:** This chapter establishes the PRESSURE/shock template — contrast with the Prologue's PRESSURE/contained template. Future shock-PRESSURE chapters (Ch 7, 9, etc.) can use this rhythm profile as benchmark. The hard-cut technique should be used sparingly — its power comes from rarity.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, PRESSURE mode)
+- Adjacent chapter contrast: ✅ (Ch 1 = shock PRESSURE → Ch 2 = TEXTURE/Mirelle — sharp contrast in mode and register)
+
+### Comparison to Prologue
+
+| Metric | Prologue | Ch 1 | Delta |
+|--------|----------|------|-------|
+| Words | 4,800 | 5,200 | +400 |
+| Scenes | 4 | 4 | = |
+| Dialogue | 15% | 11% | −4% |
+| Flow | 8.8 | 9.2 | +0.4 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Different register |
+| A/R balance | 35/65 | 40/60 | Slightly more action |
+| Fragment % | 22% | 20% | −2% |
+
+Both chapters are PRESSURE mode but different registers: Prologue is slow-fuse detonation (building institutional dread → cosmic interruption); Ch 1 is shock detonation (controlled approach → instant violence → institutional processing). The contrast works — two kinds of PRESSURE in two chapters.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
 |----|-----|-------|------|-------|-----------------|------|---------|--------|
 | P | Vantanen | 4,800 | PRESSURE | 15% | 3→10→4 | 8.8 | 35/65 | ✅ |
-| 1 | Aurielle | — | PRESSURE | — | — | — | — | 📝 |
+| 1 | Aurielle | 5,200 | PRESSURE | 11% | 2→10→3 | 9.2 | 40/60 | ✅ |
 | 2 | Mirelle | — | TEXTURE | — | — | — | — | 📝 |
 | 3 | Nephthys | — | TEXTURE | — | — | — | — | 📝 |
 | 4 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
@@ -128,7 +236,7 @@ project_name: "Untitled"
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 1/11 | 1/11 | 8.8 | 5.7 | 1P/0T | ⏳ |
+| Phase 1 | 2/11 | 2/11 | 9.0 | 5.5 | 2P/0T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -137,4 +245,4 @@ project_name: "Untitled"
 ---
 
 _Last updated: 2026-02-10_
-_Updated by: Rhythm Monitor (Rex) — Baseline setup_
+_Updated by: Audit Chain — Chapter 1 rhythm analysis_
