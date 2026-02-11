@@ -255,6 +255,47 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 
 ---
 
+## Character: Kira Calloway
+
+### Emotional Arc Summary
+
+Kira's debut chapter compresses her entire emotional operating system into a single evening. She begins in permanent soft performance — the walk home is itself a performance (smile at the kid, keep walking). The stream is genuine warmth layered over exhaustion; the smile is real, which is the dangerous part. The scream episode is the chapter's crisis point: white-hot frequency suppressed with six years of practice, invisible to 200,000 viewers. Post-stream, the performer collapses — the posture goes, the body folds. The Lumina ritual is meditative, controlled, precise — the forty milligrams is calibrated, functional, not desperate. Then Priya's message matches the timestamp. The pattern-seeking machinery she's been chemically suppressing has something specific to say. She doesn't let it. Fifteen milligrams. "The forty was supposed to be enough." The chapter ends in suspension — the hum thicker, waiting. She is not yet ready to engage with what she carries.
+
+### Dominant Emotions
+
+- **Primary**: Professional control — the performance is so deeply practiced it sometimes replaces the person
+- **Secondary**: Genuine need for connection — the stream rush, the smile, "Thank you. Genuinely. I mean it."
+- **Conflict**: The gap between what she is and what they need her to be. The performance is armor and cage simultaneously.
+
+### Emotional State by Phase
+
+- **Pre-stream**: Permanent soft performance — recognized, unable to disappear, the cost so small it doesn't register until you add it up
+- **Stream opening**: Genuine rush — going live, the room filling, "she existed because they were watching"
+- **Scream episode**: Professional suppression — six years of training, controlled exhale, camera pan, jaw locked
+- **Post-stream**: Exhaustion collapse — posture goes, body folds, eleven seconds of counting
+- **Lumina ritual**: Controlled calm — the kit, the scale, the dose, deliberate, without urgency
+- **Group chat**: Alarm into avoidance — Priya's timestamp matches; Kira starts typing, stops, closes chat
+- **Second dose**: Fraying — "Not a dose. A nudge." The forty was supposed to be enough.
+- **Closing**: Suspended waiting — hum thicker, sitting in the dark, "It had always been enough."
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 10 — Beat 1 | Permanent soft performance | Recognized on street; kid at crosswalk | Reflexive smile, keeps walking; "the cost was so small it didn't register" | Kid grins; interaction over in three seconds |
+| Ch 10 — Beat 2 | Resigned self-awareness | Elevator hum merging with spine hum | Leaned against wall; "couldn't tell where the infrastructure ended and she began, which was either a metaphor or a diagnosis" | None — alone |
+| Ch 10 — Beat 3 | Disciplined refusal | Sees Lumina kit in bathroom cabinet | Does NOT open it. "Never at work." Hard line held. | None — internal |
+| Ch 10 — Beat 4 | Genuine rush | Going live; chat populating; viewer count climbing | Real smile; "the dangerous kind"; warmth, riffing, charisma | Chat responds; 200K viewers engaged |
+| Ch 10 — Beat 5 | Professional suppression (crisis) | Scream rises from implant — "white-hot frequency" | Controlled exhale through nose; jaw set; camera pan buys three seconds; left hand splayed rigid under desk | Chat doesn't notice — argues about terrain generation |
+| Ch 10 — Beat 6 | Belated alarm | Body's delayed report: "that was worse than the last one" | Fingertips numb (new symptom); presses tips together under desk | None — hidden |
+| Ch 10 — Beat 7 | Exhaustion collapse | Stream ends; "the silence landed" | Posture collapses; knees pulled up; smallest version of herself; does not look at analytics | None — alone |
+| Ch 10 — Beat 8 | Controlled ritual | Post-stream Lumina routine | Kit opened deliberately, without urgency; forty milligrams weighed precisely; cold burn; subtraction | None — alone |
+| Ch 10 — Beat 9 | Alarm → avoidance | Priya's "pull" at 21:30 UTC matches scream timestamp | Starts typing, stops; fingers hover over desk edge making silent chord shapes (C minor, F diminished); closes chat | Group chat moves on without her confirmation |
+| Ch 10 — Beat 10 | Fraying | Quiet room filling back up; pattern-seeking machinery has something specific to say | Returns to bathroom; fifteen milligrams; "Not a dose. A nudge."; doesn't look in mirror | None — alone |
+| Ch 10 — Beat 11 | Suspended waiting | Sitting in streaming chair in the dark; hum thicker | Touches back of neck where implant sits; "It had always been enough." | None — alone; the hum is waiting |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -270,8 +311,13 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 | Fuxi Lin | POV | 9 | Routine competence → Domestic warmth → Alert attention → Institutional frustration → Body-knowledge alarm → Private unease → Domestic tenderness → Suppressed questioning → Enforced compliance | Active — Phase 1/5; question forming, not yet asked |
 | Chen Wei | Supporting | 2 | Institutional patience → Institutional certainty | Active — no arc; calcified mirror |
 | Nuwa Lin | Indirect (messages) | 4 | Pragmatic excitement → Humor → Case-building urgency → Protective warning | Active — Phase 1/5; dreams intact, pragmatism intact |
+| Kira Calloway | POV (debut) | 9 | Permanent soft performance → Genuine rush → Professional suppression → Exhaustion → Controlled ritual → Alarm → Avoidance → Fraying → Suspended waiting | Active — Phase 1/5; scream worsening, Lumina escalating, Priya's question unanswered |
+| Dex | Indirect (text) | 1 | Comic normalizer | Active — group chat member |
+| Priya | Indirect (text) | 1 | Serious truth-seeker | Active — seeds Ch 18 |
+| Tomás | Indirect (text) | 1 | Playful normalizer | Active — group chat member |
+| Suki | Indirect (text) | 1 | Minimal field-mage precision | Active — deployment context |
 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 4 character audits_
+_Updated by: Audit Chain — Chapter 10 character audits_

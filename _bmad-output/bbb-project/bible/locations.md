@@ -547,10 +547,10 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 | Bloc | Territory | Character | Nitro Relationship |
 |------|-----------|-----------|-------------------|
-| **Pacific Corporate Coalition (PCC)** | East/Southeast Asia, Pacific Rim | Corporate-governed; Neo-Shanghai is the jewel | Fully integrated; highest nitro density on Earth |
+| **Pacific Corporate Coalition (PCC)** | East/Southeast Asia + Pacific Corridor (Vancouver–Tijuana coastal strip). Three capitals: Neo-Shanghai (corporate), Singapore (science/VEC), Bay Area (legislative) | Corporate-governed; Pacific coast of North America aligned during Corporate Realignment — economic gravity, not conquest | Fully integrated; highest nitro density on Earth |
 | **Euro-Asian Energy Bloc (EAEB)** | Europe, Central Asia, Russia | Mixed state/corporate governance; Geneva is political capital | Heavily integrated but stronger state regulation |
 | **Free African States (FAS)** | Sub-Saharan Africa | Most independent; resisted full integration | Partial nitro use; maintained legacy energy; lowest breach rates |
-| **Americas Compact** | Americas | Fragmented — corporate coasts, ungoverned interior. Former US shattered by Cascade Crisis and Resource Wars | Heavy coast integration; interior on legacy/black-market nitro |
+| **Americas Compact** | Former US/Canada/Mexico interior and Atlantic coast. Pacific coast defected to PCC | Fragmented — corporate Atlantic cities, ungoverned interior. Former US shattered by Cascade Crisis and Resource Wars | Heavy coast integration; interior on legacy/black-market nitro |
 | **South Asian Federation** | South Asia | Dense population, democratic but corporate-penetrated | Very high integration; multiple Spire cities; high Sump populations |
 | **Greater Middle Eastern League** | Middle East | Post-petroleum identity crisis; mixed adoption | Some regions highest consumers, others maintain independence |
 | **Oceanic Territories** | Pacific Islands, Oceania | Low population; extraction-heavy (offshore vent access) | Extraction-focused rather than consumption-focused |
@@ -575,6 +575,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 | European Outlands | EAEB | Nephthys, Imani | Abandoned | Depopulated |
 | Arctic-7 | Remote | Vantanen (prologue) | Classified | Contained |
 | Singapore | PCC | Sofia, (Aurielle remote) | VEC / PCC | Operational |
+| PCC Bay Area | PCC (legislative capital) | Kira, Sofia (born here) | Coalition Assembly / PCC | Operational |
 | Chén Academy | Mid-Levels | — | Academy | Operational |
 | Free African States | FAS | — | Democratic confederation | Independent |
 | Varma Academy, Mumbai | South Asian Fed | Kira (graduated) | Academy | Operational |

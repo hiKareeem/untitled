@@ -115,8 +115,9 @@ installed_path: '{project-root}/_bmad/bmad-book-builder/workflows/character-audi
 
 ### Output Files
 
-- `audits/audit-chapter-{XX}-{character-name}.md` — Character-specific audit report
-- `audits/audit-summary-chapter-{XX}.md` — Summary of all character audits for chapter
+- `tracking/audit-chapter-{N}.md` — **Single consolidated audit file per chapter** containing all character audits, summary table, and coherence scores. All characters appearing in the chapter are audited in one document (batch mode is the default). This file is the canonical record of character coherence for the chapter.
+
+> **Rationale:** A single file per chapter is easier to reference, diff, and review than per-character splits. The summary table at the bottom provides the at-a-glance view; the per-character sections above it provide the detail.
 
 ---
 
@@ -134,7 +135,7 @@ The Continuity Editor already exists and has general continuity checking capabil
 
 ### Critical Features (from AgentAdam analysis):
 
-1. **Per-Character Audits**: Each character gets their own audit file per chapter
+1. **Consolidated Audit File**: All characters audited in a single `tracking/audit-chapter-{N}.md` file per chapter, with a summary table at the end
 2. **Contradiction Checking**: EVERY contradiction (5+) from the character profile must be checked
 3. **Pass/Fail System**: ✅/❌ for clear status tracking
 4. **Arc Progression Tracking**: Verify characters are actually changing according to their arc
@@ -180,7 +181,7 @@ The Continuity Editor already exists and has general continuity checking capabil
 
 ## Future Enhancements
 
-- Batch mode: Audit all characters in a chapter at once
+- ~~Batch mode: Audit all characters in a chapter at once~~ *(Now default behavior)*
 - Cross-chapter analysis: Identify patterns across multiple chapters
 - Metric tracking: Character coherence score over entire manuscript
 

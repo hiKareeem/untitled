@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-10"
-lastChapter: 0
+lastChapter: 10
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -471,6 +471,8 @@ This bible dimension tracks **theme evolution**:
 | Prologue | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Complicity (Moderate), Truth (Moderate), Architecture (Moderate), Atrocity (Background), Obligation (Background) | First void breach: identity dissolves; cosmic indifference demonstrated; institutional suppression architecture activates; nitro's true nature revealed to reader |
 | Ch 1 | Architecture (Strong), Complicity (Strong), Identity (Moderate), Commodification (Background) | Assassination as institutional event: Thorne's pre-assembled responses reveal power's architecture; Aurielle's complicity begins with walking when told; identity disrupted (daughter→CEO in the time of a thermal round); suffering commodified (blood wiped for cameras, not for comfort) |
 | Ch 3 | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Truth (Moderate), Architecture (Moderate), Obligation (Moderate), Complicity (Background), Atrocity (Background) | Counter-liturgy established: chorus is plural, structured, active. Three absorbed persist as signal. Church/VEC suppress the same truth through different architectures. Pain as signal — biological cost of proximity to cosmic indifference. Imani's obligation as witness, not believer. |
+| Ch 4 | Complicity (Strong), Commodification (Strong), Obligation (Moderate), Architecture (Moderate), Irrelevance (Moderate), Truth (Background), Atrocity (Background) | Fuxi maintains the infrastructure that IS the system. Body-knowledge detects anomaly; institutional language cannot accommodate it. Compliance as survival strategy — obligation to Nuwa constrains every other impulse. Workers' bodies as infrastructure cost. Vertical city as literal power architecture. |
+| Ch 10 | Commodification (Strong), Identity (Strong), Complicity (Moderate), Truth (Moderate), Obligation (Moderate), Architecture (Background), Atrocity (Background), Irrelevance (Background) | Kira's debut: the performer who suppresses suffering for an audience. The Gap between who she is and what they need. Lumina as void-residue product. Academy doctrine internalized ("control is silence"). Priya's question planted and refused. Multiple obligations in tension — audience paid, community refused, self exceeded. |
 
 ---
 
@@ -501,6 +503,9 @@ This bible dimension tracks **theme evolution**:
 | Nuwa walking out of the relief shelter | What We Owe | Refusal to be processed; obligation to self as departure |
 | Nephthys's first congregation | What We Owe, Where Identity Ends | Compassion for the absorbed as religious act |
 | Eduardo's chair in the boardroom | Architecture of Power | The same chair, the same decisions — power outlives the sitter |
+| Lumina (blue powder) | Commodification of Suffering, Where Identity Ends | Void-residue marketed as silence — suffering commodified as consumer product; chemically suppresses the pattern-seeking that would force engagement with truth |
+| Kira's streaming corner | Where Identity Ends, Commodification of Suffering | Curated immaculate space vs. apartment entropy — identity as performance architecture; the camera frame as the boundary of the self |
+| The eleven-second count | Where Identity Ends | Structural habit bridging *on* and *off* — the gap between performer and person measured in seconds |
 
 ---
 

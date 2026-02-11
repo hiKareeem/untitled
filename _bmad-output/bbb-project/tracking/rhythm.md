@@ -435,6 +435,121 @@ Ch 4 continues the TEXTURE pattern established by Ch 3 — lower peak tension (7
 
 ---
 
+## Chapter 10 — Kira: "The Gap"
+
+**Phase:** 1 | **Mode:** TEXTURE (intimate/performance) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,200 | 5,000–6,000 | ✅ |
+| Scenes | 3 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~18% | 10–20% | ✅ |
+| Avg sentence length | ~15 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~19% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |             ●
+ 7 |           ╱   ╲
+ 6 |         ╱       ╲───●
+ 5 |       ╱                 ╲
+ 4 |  ●──╱                     ╲
+ 3 |╱                             ╲───●
+ 2 |
+   +─────────────────────────────────
+     Pre    Stream   Scream  Post  Chat
+```
+
+- **Opening:** 3/10 — Atmospheric: Bay Area walk, fog, recognition, low hum
+- **Stream rises:** 4→6/10 — Warmth, engagement, building comfort
+- **Scream peak:** 8/10 — Internal crisis, professional suppression, "that was worse than the last one"
+- **Post-stream descent:** 6→3/10 — Lumina ritual, quiet room, group chat
+- **Closing:** 3/10 — Priya's question unanswered, fifteen milligrams, the hum waiting
+- **Shape:** Slow swell with suppressed peak — tension rises organically through stream warmth, spikes at scream but is *hidden* (audience doesn't see), then descends into post-stream vulnerability. The second tension rise (Priya's message at 6/10) is denied — Kira closes the chat and chemically suppresses.
+
+### Beat Map
+
+1. [2%] HOOK — "The Bay was loud at sundown." → +1
+2. [5%] TEXTURE — Fog, Golden Gate monument, expanded bay, low skyline → 0
+3. [8%] CHARACTER — Recognition on street, hood/hair/brand → +1
+4. [12%] SETTING — Mid-rise apartment, elevator hum merging with spine → 0
+5. [15%] PLANT — Lumina kit seen, NOT opened. "Never at work." → +1 (anticipation)
+6. [18%] TRANSITION — "Thirty-eight minutes" → 0
+7. [22%] TEXTURE — Apartment composition: camera-left immaculate / camera-right entropy → +1
+8. [28%] SIGNAL — Hum shifted, "thicker," harmonics splitting → +1
+9. [35%] PERFORMANCE — Stream goes live, viewer count, chat flowing → 0
+10. [42%] COMPLICATION — Deployment schedule talk, Academy critique → 0
+11. [50%] CLIMAX — "The hum shifted." Scream rises from implant, white-hot frequency → +4 (PEAK)
+12. [55%] SUPPRESSION — Controlled exhale, camera pan, three seconds bought → −2 (tension held internally)
+13. [60%] AFTERMATH — "That happened, that was bad, that was worse than the last one." Numb fingertips. → −1
+14. [68%] DESCENT — Stream ends. "The silence landed like a held note finally released." → −2
+15. [72%] VULNERABILITY — Eleven seconds, posture collapses, smallest version → −1
+16. [78%] RITUAL — Lumina: kit, scale, forty milligrams, cold burn, subtraction → 0 (tension neutral — ritual)
+17. [82%] TEXTURE — Apartment entropy, hum still thick, "something waiting" → +1
+18. [85%] COMPLICATION — Group chat: Priya's "pull" at 21:30 UTC. Timestamp matches scream. → +3
+19. [90%] REFUSAL — Starts typing, stops. Silent chord shapes. Closes chat. → −1
+20. [93%] ESCALATION — Fifteen milligrams. "The forty was supposed to be enough." → +1 (thematic)
+21. [98%] CLOSING — "The hum was there. Thicker now. Waiting." / "It had always been enough." → 0 (suspended)
+
+**Beat density:** 1 per ~248 words — highest density in the book so far, appropriate for debut chapter establishing a new POV with many elements to introduce
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Pre-stream → Stream | Section break + time compression ("Thirty-eight minutes" → stream prep → live) | 8/10 |
+| Stream → Post-stream | Section break ("The silence landed like a held note finally released") | 9/10 — musical metaphor as structural bridge |
+| Post-stream → Group chat | Seamless (implant pulsing, message notification) | 8/10 |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 9/10 |
+| Immersion | 10/10 |
+| **Overall** | **9.0/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 30%
+- **Reflection:** 70%
+
+### Pacing Notes
+
+- **Strengths:** The scream suppression is the chapter's signature rhythmic device — tension peaks at 8/10 but is *invisible to the in-world audience*, creating a dual experience: the reader sees the crisis while chat argues about terrain generation. This internal/external split is maintained beautifully for ~10 paragraphs. The musical metaphor domain is deployed with precision and variety — "composition in two keys," "held note finally released," "chord no one had asked her to play," "C minor. F diminished." The Lumina ritual is paced as neutral/meditative, contrasting with the stress around it. The fifteen-milligram bump is the chapter's quiet devastation — "Not a dose. A nudge." Fragment percentage at ~19% recovers from the Ch 3-4 decline back toward the Prologue benchmark.
+- **Concerns:** Beat density (1/248 words) is very high — debut chapter introducing many elements. Future Kira chapters should settle to ~1/350 once the POV is established. The 30/70 action/reflection split is appropriate for a streaming chapter (performing is both action and reflection simultaneously) but future Kira chapters with more external plot should push action higher.
+- **Recommendations:** The internal/external split (what the audience sees vs. what Kira feels) is Kira's signature rhythm device — maintain it in all her chapters. The Lumina ritual should evolve: this chapter establishes the baseline (40mg, precise, controlled). Future doses should progressively disrupt the ritual's calm — faster, less precise, less controlled. The group chat is a new rhythm element — asynchronous text cutting into interior monologue. Use this in Ch 18 with more urgency.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 9 = PRESSURE/Mirelle → Ch 10 = TEXTURE/Kira — sharp mode contrast)
+
+### Comparison to Previous Chapters
+
+| Metric | Prologue | Ch 1 | Ch 3 | Ch 4 | Ch 10 | Delta (Ch10 vs avg) |
+|--------|----------|------|------|------|-------|---------------------|
+| Words | 4,800 | 5,200 | 5,400 | 5,200 | 5,200 | +33 |
+| Scenes | 4 | 4 | 3 | 4 | 3 | −0.75 |
+| Dialogue | 15% | 11% | 18% | 8% | 18% | +5% |
+| Flow | 8.8 | 9.2 | 8.2 | 8.6 | 9.0 | +0.3 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Plateau (3→7→5) | Plateau (2→7→5) | Suppressed swell (3→8→3) | Mid-range peak, suppressed |
+| A/R balance | 35/65 | 40/60 | 25/75 | 20/80 | 30/70 | +0.5% action |
+| Fragment % | 22% | 20% | 15% | 14% | 19% | +1.5% |
+
+Ch 10 introduces a new TEXTURE subtype: **intimate/performance**. Unlike Ch 3 (contemplative) or Ch 4 (working-class), Kira's TEXTURE mode features a performer's rhythm — warmth and charisma on the surface, internal crisis underneath. The tension peak (8/10) is the highest for any TEXTURE chapter so far, justified by the scream episode, but the suppression means the audience (both in-world and reader) experience it differently. The fragment percentage recovery (14%→19%) is welcome — Kira's voice naturally uses more short punches than Fuxi's accumulative parataxis. Flow score (9.0) is second highest after Ch 1, reflecting the chapter's strong internal coherence and voice clarity.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -449,7 +564,7 @@ Ch 4 continues the TEXTURE pattern established by Ch 3 — lower peak tension (7
 | 7 | Aurielle | — | PRESSURE | — | — | — | — | 📝 |
 | 8 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
 | 9 | Mirelle | — | PRESSURE | — | — | — | — | 📝 |
-| 10 | Kira | — | TEXTURE | — | — | — | — | 📝 |
+| 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
 | 11–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
@@ -459,7 +574,7 @@ Ch 4 continues the TEXTURE pattern established by Ch 3 — lower peak tension (7
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 4/11 | 4/11 | 8.7 | 4.9 | 2P/2T | ⏳ |
+| Phase 1 | 5/11 | 5/11 | 8.7 | 4.8 | 2P/3T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -468,4 +583,4 @@ Ch 4 continues the TEXTURE pattern established by Ch 3 — lower peak tension (7
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 4 rhythm analysis_
+_Updated by: Audit Chain — Chapter 10 rhythm analysis_

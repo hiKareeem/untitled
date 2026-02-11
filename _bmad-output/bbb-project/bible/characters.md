@@ -524,10 +524,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: Pre-introduction (enters late Phase 1 or early Phase 2)
-- Emotional State: Performing, guarded
+- Phase: 1/5 (Equilibrium — late introduction)
+- Emotional State: Performing, guarded, fraying at edges. Scream episodes worsening ("that was worse than the last one"). Lumina use escalating (40mg routine + 15mg bump). Numb fingertips (new symptom).
 - Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is."
-- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy
+- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy. Hard line on Lumina ("never at work") holds — for now.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -538,14 +538,24 @@ This bible dimension tracks **current character states**:
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
-| Academy mages | Confidante network | Growing | Private messages; comparing notes on implant signals during incursions |
-| Streaming audience | Performance | Surface | Hundreds of thousands of viewers; armor and cage |
+| Dex | Group chat (Academy friend) | Warm | Comic normalizer; meme-fluent; affectionate mockery |
+| Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 21:30 UTC; question unanswered |
+| Tomás | Group chat (São Paulo program) | Warm | Connected through streamer circuit; playful |
+| Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; uses implant as Academy intended; minimal, precise |
+| Streaming audience | Performance | Surface | ~200K followers; armor and cage; parasocial bond with color palette |
 | Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
 
 **Current Arc:** Performer → Witness
-- Current Phase: Pre-introduction
-- Progression: Not yet active
-- Next Step: Introduction on stream; minor scream suppression
+- Current Phase: 1/5 (Equilibrium)
+- Progression: Beginning — seeds planted, none germinated. Scream worsening, Lumina escalating, Priya's question unanswered.
+- Next Step: Ch 18 ("Signal") — four mages report coherent signals. The scream has *syntax*. Kira will have to engage.
+
+**Recent History (Ch 10):**
+- Streams from Bay Area apartment (fourteenth floor, mid-rise). Ten-hour stream: gameplay, chat, deployment-schedule commentary.
+- Scream episode mid-stream (~21:30 UTC): suppressed professionally. Audience didn't notice. Numb fingertips afterward (new symptom).
+- Post-stream: 40mg Lumina (routine, to sleep). Group chat: Priya reports feeling a "pull" at the same timestamp. Kira recognizes the match, starts typing, stops, closes chat.
+- Second dose: 15mg bump. "The forty was supposed to be enough." Didn't look in the mirror.
+- Bay Area grounding established: fog, Golden Gate monument, expanded bay, no Spires, low skyline.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -557,11 +567,14 @@ This bible dimension tracks **current character states**:
 | 5/5 | Medical recovery; Academy pressure; refuses to sign retraction | Silent witness. The scream is public. She is not. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Late Phase 1 or early Phase 2
+- Last Appearance: Chapter 10 — "The Gap"
+- Next Planned Appearance: Chapter 18 — "Signal"
 
-**Recent History:**
-- [To be populated as chapters are written]
+**Key Objects:**
+- Lumina: matte black zippered case, milligram scale, glass vial half-full of blue powder, metal straw. Behind the bathroom mirror. 40mg = calibrated dose (14 months titration). Marketed as void-residue.
+- Streaming setup: ring light, three monitors (center/chat/overlay), LED strip (blue-to-pink gradient), ergonomic chair, acoustic panels. Camera-left is immaculate. Camera-right is entropy.
+- Hair: neon split — blue left, pink right. Synthetic, augmented, chosen at thirteen. The brand.
+- Implant: R3 spinal, fitted at age ten (Varma Academy, Mumbai). Left eye = pink HUD (never off). Right eye = blue (organic).
 
 ---
 
@@ -806,7 +819,7 @@ This bible dimension tracks **current character states**:
 | Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
 | Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Ch 4 |
 | Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Initial |
-| Kira | Pre-intro | Performer → Witness | Mage network, Audience, Academy | Not yet active |
+| Kira | 1/5 | Performer → Witness | Group chat (Dex, Priya, Tomás, Suki), Audience (~200K), Academy | Ch 10 |
 | Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Ch 4 |
 | **Supporting** | | | | |
 | Marcus Thorne | N/A | (No arc — already finished) | Aurielle (mentee), Eduardo (deceased), Board | Initial |
@@ -851,7 +864,7 @@ This bible dimension tracks **current character states**:
 | Nikolai | Doctrine → Broken Doctrinaire | Pre-intro | Mid-Levels deployment |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 1/5 | Anomalous data dismissed |
-| Kira | Performer → Witness | Pre-intro | Scream suppression |
+| Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 
 ---
@@ -866,8 +879,13 @@ This bible dimension tracks **current character states**:
 | Fuxi Lin | Appearance + Recent History | Not yet written | First POV chapter; RCI anomaly on monitor 6, Chen Wei dynamic, Nuwa messages | Ch 4 |
 | Nuwa Lin | Indirect appearance + Recent History | Not yet written | First indirect appearance via Frame messages through Fuxi's POV | Ch 4 |
 | Chen Wei | New character | — | Introduced as Fuxi's shift supervisor, 20 years service, "They always self-correct" | Ch 4 |
+| Kira | Debut + Recent History | Pre-intro | First POV chapter; scream suppression, Lumina structure, group chat, Bay Area grounding | Ch 10 |
+| Dex | New character (indirect) | — | Group chat member; comic normalizer | Ch 10 |
+| Priya | New character (indirect) | — | Group chat member; truth-seeker; felt "pull" at 21:30 UTC | Ch 10 |
+| Tomás | New character (indirect) | — | Group chat member; playful normalizer | Ch 10 |
+| Suki | New character (indirect) | — | Group chat member; field mage; minimal, precise | Ch 10 |
 
 ---
 
-_Last updated: 2026-02-10 (Ch4 draft)_
-_Updated by: Chapter-Writer Workflow — Ch4 draft_
+_Last updated: 2026-02-11 (Ch10 draft)_
+_Updated by: Audit Chain — Chapter 10_

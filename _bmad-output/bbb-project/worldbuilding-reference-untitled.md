@@ -1509,10 +1509,13 @@ See §21.3 for full arc and convergence.
 
 |Bloc|Territory|Character|Nitro Relationship|
 |---|---|---|---|
-|Pacific Corporate Coalition|East/Southeast Asia, Pacific Rim|Corporate-governed; Neo-Shanghai is the jewel|Fully integrated; highest nitro density on Earth|
+|Pacific Corporate Coalition|East/Southeast Asia + Pacific Corridor (Vancouver–Tijuana coastal strip). Three capitals: Neo-Shanghai (corporate), Singapore (science/VEC), Bay Area (legislative)|Corporate-governed; highest nitro density on Earth. The Pacific coast of North America aligned with PCC during Corporate Realignment — economic gravity, not conquest|Fully integrated; highest nitro density on Earth|
 |Euro-Asian Energy Bloc|Europe, Central Asia, Russia|Mixed state/corporate governance; Geneva is the political capital|Heavily integrated but with stronger state regulation|
 |Free African States|Sub-Saharan Africa|Most independent; resisted full integration|Partial nitro use; maintained legacy energy systems; lowest breach rates — and nobody's asking why|
-|⚠️ Others|Americas, Middle East, South Asia, Oceania|⚠️ Need at minimum broad strokes|⚠️|
+|Americas Compact|Former US/Canada/Mexico interior and Atlantic coast. Pacific coast defected to PCC|Fragmented — ungoverned interior, corporate Atlantic cities. Former US shattered by Cascade Crisis and Resource Wars|Heavy coast integration; interior on legacy/black-market nitro|
+|South Asian Federation|South Asia|Dense population, democratic but corporate-penetrated|Very high integration; multiple Spire cities; high Sump populations|
+|Greater Middle Eastern League|Middle East|Post-petroleum identity crisis; mixed adoption|Some regions highest consumers, others maintain independence|
+|Oceanic Territories|Pacific Islands, Oceania|Low population; extraction-heavy (offshore vent access)|Extraction-focused rather than consumption-focused|
 
 **The FAS's low breach rate is a Chekhov's gun.** If nitro density correlates with breach probability, then the region that uses the least nitro should have the fewest breaches. This data should exist and should be part of the suppressed evidence trail.
 
@@ -1949,10 +1952,91 @@ The FAS resisted full nitro integration during the Uplift Protocols. They accept
 
 |Bloc|Character|Nitro Status|Narrative Role|
 |---|---|---|---|
-|**Americas Compact**|Fragmented — corporate-controlled coasts, ungoverned interior. Former US shattered by Cascade Crisis and Resource Wars|Heavily integrated on coasts; interior runs on legacy systems and black-market nitro|Source of Root/Kindling militant activity; ungoverned zones as settings for Book 2+|
+|**Americas Compact**|Former US/Canada/Mexico interior and Atlantic coast. Pacific coast defected to PCC during Corporate Realignment (2066–2080s) — economic gravity, not conquest. The Cascades and Sierras form a natural boundary between PCC coastal territory and Compact interior|Fragmented — corporate Atlantic cities (Boston-Washington corridor, Atlanta hub), ungoverned interior (Great Basin, Plains, Rockies). Former US shattered by Cascade Crisis and Resource Wars. "Canada" and "Mexico" persist as cultural/regional identities but carry no more political weight than "Californian" — regional identity within corporate-governed blocs|Heavy coast integration; interior runs on legacy systems and black-market nitro. Source of Root/Kindling militant activity; ungoverned zones as settings for Book 2+|
 |**South Asian Federation**|Dense population, heavy nitro dependence, democratic but corporate-penetrated governance|Very high integration; multiple Spire cities; high Sump populations|Potential breach site in Book 2; echoes Neo-Shanghai's vertical inequality|
 |**Greater Middle Eastern League**|Post-petroleum identity crisis; some states embraced nitro aggressively, others resisted|Mixed; some regions are among the world's highest consumers, others maintain energy independence|Resource War history; potential Flame/Hollow strongholds|
 |**Oceanic Territories**|Low population; extraction-heavy (offshore vent access); corporate-administered islands|Extraction-focused rather than consumption-focused|Extraction platform settings; labor conditions; remote breach sites|
+
+### 18.5 — PCC Bay Area (2175)
+
+The legislative capital of the Pacific Corporate Coalition. Where the Coalition Assembly meets, corporate charters are ratified, trade agreements are negotiated, and the political relationship between the PCC's corporate members and its citizen populations is managed. The Bay Area is the PCC's Geneva — a place of governance, diplomacy, and carefully maintained neutrality between the corporate factions that actually hold the power.
+
+**The three-capital model:**
+
+- **Neo-Shanghai** = corporate capital (NitroCore HQ, the Spires, the economic engine)
+- **Singapore** = science/monitoring capital (VEC Asia-Pacific HQ, the 2128 site, longest-running breach data)
+- **Bay Area** = legislative capital (the Coalition Assembly, bloc embassies, political machinery)
+
+None controls the others. All are PCC. The triangle distributes power geographically to prevent consolidation.
+
+#### Geography — What the Water and the Fault Did
+
+**Sea level rise (~3m by 2175):** Nitro is clean energy — greenhouse emissions dropped sharply after adoption in the 2050s. But ice sheet inertia means seas kept rising for over a century. Effects on the Bay Area:
+
+- San Francisco Bay expanded significantly. The old shoreline cities — much of San Francisco's eastern waterfront, Oakland's flatlands, large portions of San Jose and the South Bay — were either submerged or behind seawalls by the late 21st century.
+- The Sacramento–San Joaquin Delta flooded permanently, creating an inland marsh system extending into what was the Central Valley. The Bay's hydrological footprint is larger and more complex than the 20th-century geography.
+- The coast *between* LA and SF is largely unchanged — the Central Coast is mountainous. The entire west coast did **not** become one continuous bay.
+
+**The Hayward Fault rupture of 2089 (M7.2):** The earthquake the Bay Area had been waiting for since the 20th century. Significant destruction — much of the already-stressed shoreline infrastructure collapsed, the eastern span of the Bay Bridge (already partially decommissioned) fell, liquefaction devastated the remaining flatland neighborhoods. Death toll moderated by nitro-era early warning and construction standards, but the physical city was wrecked.
+
+The PCC saw this as an opportunity. They had been looking for a legislative capital on the eastern Pacific shore — neutral ground between the Asian core and the Americas, away from NitroCore's corporate stronghold in Neo-Shanghai, away from the VEC's institutional culture in Singapore. The Bay Area was Pacific-facing, historically a governance and technology hub, already PCC-aligned after the Corporate Realignment. The earthquake provided the blank slate.
+
+**They didn't rebuild San Francisco. They built the Bay.**
+
+#### Urban Character — The Anti-Neo-Shanghai
+
+**Horizontal, not vertical.** The Bay Area was redesigned in the 2090s–2110s, *after* Neo-Shanghai's Spires were already built and *after* the problems of vertical stratification — Sump formation, conduit density, social compression — were becoming apparent. The PCC deliberately avoided the vertical model:
+
+- **Mid-rise architecture (10–30 stories).** No Spires. The skyline is low and wide. The tallest structures are the Coalition Assembly complex on the rebuilt peninsula and the transit hub towers, none exceeding 40 stories.
+- **Distributed density.** Dense enough to function as a capital city, spread enough to avoid the conditions that create Sumps. The urban footprint extends around the expanded bay in a continuous arc — from Marin in the north through the rebuilt peninsula, around the South Bay, and up through the East Bay hills.
+- **Engineered landscape.** Seawalls, tidal barriers, reclaimed land. The bay is managed, not natural. The waterfront is a mix of hardened infrastructure and designed public space — promenades, tidal parks, research stations monitoring bay ecology. The Golden Gate bridge structure still stands, preserved as a monument and observation platform, but no longer carries traffic. Transit runs through submerged tunnels and elevated maglev lines connecting the bay-arc districts.
+
+**No Sump.** This is the point. No vertical compression means no compressed lower city. No stratified infrastructure means no concentrated suffering. The conduits are buried deep, modern third-generation construction, well-maintained, low-throughput relative to Neo-Shanghai (the Bay Area is a political/administrative center, not an industrial one). The hum is present but subtle — most people can't feel it through the streets. Mages with spinal implants can (Kira always can), but it's the difference between standing next to a speaker and hearing music from down the hall.
+
+The Bay Area is the PCC's proof of concept — evidence that nitro-dependent urban life doesn't *have to* produce the conditions that Neo-Shanghai's Sump represents. The argument is genuine. The data supports it. What the argument elides: the suffering hasn't been eliminated. It's been *exported*. The Sump exists — it's in Neo-Shanghai, 8,000 miles away, where the Bay Area's legislative decisions don't have to look at it.
+
+**Climate and environment.** The Bay Area's famous fog persists — augmented by the thermal dynamics of a larger bay and the engineered waterfront. Air quality is excellent (nitro is clean energy, no combustion byproducts). The natural landscape — redwood parks in the north, Marin headlands, the coastal mountains — is maintained as buffer zones and recreational space around the urban edges. The bay itself supports a managed ecosystem, monitored by VEC-affiliated marine stations.
+
+This is a *pleasant* place to live. That's the insulation.
+
+**Demographics and culture.** Cosmopolitan. PCC citizens from across the Pacific Rim — Japanese, Korean, Chinese, Filipino, Indonesian, Australian, Chilean, and the legacy populations of the former California — live and work in the Bay Area. English is the lingua franca of governance but Mandarin, Japanese, Korean, Spanish, and Tagalog are heard on the streets and in transit hubs. The multilingual signage is unremarkable.
+
+More politically active than Neo-Shanghai (where corporate governance is top-down) or Singapore (where VEC institutional culture dominates). The Bay Area has a tradition of civic activism that predates the PCC — protests, public debate, advocacy organizations. Kira's parents stage their mage advocacy photo-ops here because the political culture supports it.
+
+Expensive. Not Spire-expensive (there are no Spires), but the cost of living is high. Mid-rise apartments are the standard. A successful streamer like Kira can afford a fourteenth-floor apartment — good money but not extraordinary. Corporate executives and Assembly delegates live in the hillside districts overlooking the bay. Service workers commute from the outer arc.
+
+#### Narrative Function
+
+**Geographic privilege.** Kira lives in the seat of PCC governance but is insulated from its consequences. Her apartment is comfortable, her streets are clean, the conduits beneath her feet are well-maintained. The suffering her implant metabolizes is happening 8,000 miles away in Neo-Shanghai's Sump. She knows nothing of the Sump except what her viewers tell her.
+
+Sofia Reyes was also born here — "a sprawl of academic campuses, corporate research parks, and residential corridors." Both characters share this insulated origin and must reckon with what their comfort costs.
+
+**The PCC's showcase.** When the Americas Compact or the EAEB criticizes corporate governance, the PCC points to the Bay Area: clean, functional, democratic-ish, no Sump, no stratification, no sacrifice district. The counter-argument — that the Bay Area works because it outsources its costs to Neo-Shanghai — is the kind of structural critique that Mirelle's reporting could eventually surface.
+
+### 18.6 — The Pacific Corridor (PCC North American Territory)
+
+The PCC's North American holdings result from the Corporate Realignment period (2066–2080s). When the former United States fragmented during the Cascade Crisis aftermath and Resource Wars, the Pacific coast — already deeply integrated into Asian-Pacific supply chains and technology economies — aligned with the emerging PCC rather than the collapsing national government. Not military conquest. Economic gravity. The money was in nitro, nitro was PCC, and the coast chose the bloc the way a subsidiary chooses its parent company.
+
+**Territory:** A coastal strip roughly from Vancouver (former British Columbia) to Tijuana (former Baja California). Not entire former states — the coastal urban zones and their economic hinterlands, typically extending 50–100km inland to the mountain ranges. The Cascades, Sierras, and Coast Ranges form a natural boundary.
+
+**Key cities:**
+
+- **Bay Area** — Legislative capital (see §18.5)
+- **Seattle-Cascadia** — Tech manufacturing, shipbuilding, Pacific northern gateway
+- **Los Angeles-Long Beach** — Port/logistics hub, partially rebuilt after sea level rise (LA basin flooding pushed population inland and uphill; the city is less culturally dominant than its 20th-century predecessor)
+- **Vancouver** — Northern gateway, extraction coordination for Canadian Arctic operations
+- **San Diego-Tijuana** — Border zone with Americas Compact interior; mixed jurisdiction; significant smuggling corridor for black-market nitro and Compact refugees
+
+**The PCC–Americas Compact boundary** is not a hard national border. It's a gradient. PCC corporate jurisdiction extends as far as PCC-contracted nitro infrastructure reaches. Drive east from the Bay Area and at some point the PCC conduit network ends and you're on Americas Compact legacy grid or black-market nitro. The transition is visible: maintained roads give way to patched ones, multilingual signage disappears, the ambient quality of infrastructure degrades. The mountains are the natural line, but the actual boundary shifts with contract renegotiations and infrastructure investment.
+
+**Former nation-states:** "Canada," "Mexico," and the "United States" are historical terms by 2175, the way we might reference the Roman Empire — culturally meaningful, politically irrelevant. The blocs are economic/corporate, not national. People on the Pacific coast don't think of themselves as "American" — they're PCC citizens. People in the interior may still hold onto national identities, which is part of the Americas Compact's fractured character.
+
+- **Former British Columbia coast:** PCC-aligned (Vancouver)
+- **Canadian interior/prairies:** Americas Compact or semi-autonomous
+- **Canadian Arctic:** Extraction territories, corporate-administered
+- **Northern Mexico coast (Baja, Sonora):** PCC-aligned
+- **Central/Southern Mexico:** Americas Compact or independent
+- **Former US interior (Great Basin, Plains, Rockies):** Americas Compact, partially ungoverned — the wild country
 
 ---
 
@@ -2268,7 +2352,7 @@ Flagged for future sessions, ordered by priority:
 |Gap|Section|Notes|
 |---|---|---|
 |Currency system specifics|7.5|Can be shown through scenes rather than pre-defined|
-|Other geopolitical blocs detail|18.4|Americas, South Asia, Middle East — broad strokes are sufficient for Book 1|
+|~~Other geopolitical blocs detail~~|18.4|✅ Resolved — §18.4 expanded with Americas Compact, South Asian Fed, GMEL, Oceanic Territories. §18.5 PCC Bay Area. §18.6 Pacific Corridor.|
 |Geneva physical description|18.2|Needed before Geneva scenes (likely Book 2)|
-|Synthetic drugs from nitro/void|8.2|Flavor detail — develop as scenes demand|
+|Synthetic drugs from nitro/void|8.2|Partially resolved — Lumina established in Ch 10 (Kira). Blue powder, insufflated, promises silence, marketed as void-residue. Broader drug landscape TBD.|
 |Historical details (Resource Wars etc.)|10.2|Epigraph and reference material — develop during drafting|

@@ -122,6 +122,12 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 - **Event:** Global deployment of nitro technology to developing regions. Poverty effectively eliminated worldwide — basic energy, food production, and manufacturing become trivially cheap
 - **Consequence:** Genuine material improvement. Simultaneously cements corporate dependency across the global population. FAS's resistance to full integration becomes increasingly isolated
 
+### 2089 — Hayward Fault Rupture (M7.2)
+
+- **Event:** The earthquake the Bay Area had been waiting for since the 20th century. Hayward Fault rupture devastates the already sea-level-stressed Bay Area. Eastern Bay Bridge span collapses, liquefaction destroys remaining flatland neighborhoods, shoreline infrastructure fails
+- **Death toll:** Moderated by nitro-era early warning systems and construction standards, but the physical city is wrecked
+- **Consequence:** The PCC, seeking a legislative capital on the eastern Pacific shore — neutral ground between the Asian core and the Americas — invests massively in rebuilding. They don't rebuild San Francisco. They build the Bay: horizontal, mid-rise, distributed density, no Sump. The anti-Neo-Shanghai. Construction spans 2090s–2110s. The Coalition Assembly complex is completed ~2115
+
 ### 2098 — First Mage Implant (Classified)
 
 - **Event:** Corporate research identifies children with unusual neurological responses to nitro proximity. First spinal implant prototype tested
@@ -201,6 +207,7 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 | 2053–2059 | Resource Wars | Catalyst supply chains consolidated; Kindling born |
 | 2066 | Corporate Sovereignty Recognition | UGC replaces UN; GCTA created |
 | 2085 | Uplift Protocols | Global poverty eliminated; corporate dependency cemented |
+| 2089 | Hayward Fault rupture (M7.2) | Bay Area destroyed; PCC rebuilds as legislative capital (anti-Neo-Shanghai model) |
 | 2098 | First mage implant (classified) | Cyber-mage program begins |
 | 2128 | Singapore Incident | First void breach documented; VEC creation catalyst |
 | 2131 | VEC founded | Institutional void response established; founding data buried |
