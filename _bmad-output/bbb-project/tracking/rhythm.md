@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-10"
-lastChapter: "Chapter 1"
+lastChapter: "Chapter 3"
 totalChapters: 53
-analyzedChapters: 2
+analyzedChapters: 3
 project_name: "Untitled"
 ---
 
@@ -212,6 +212,116 @@ Both chapters are PRESSURE mode but different registers: Prologue is slow-fuse d
 
 ---
 
+## Chapter 3 — Nephthys: "The Pain Is Signal"
+
+**Phase:** 1 | **Mode:** TEXTURE (contemplative) | **Date analyzed:** 2026-02-10
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,400 | 5,000–6,000 | ✅ |
+| Scenes | 3 | 2–4 | ✅ |
+| Paragraphs | ~62 | — | — |
+| Dialogue % | ~18% | 15–25% | ✅ |
+| Avg sentence length | ~19 words | 12–16 (Nephthys: longer permitted) | ⚠️ High but appropriate for Bakker POV |
+| Fragment % (1–5 word sentences) | ~15% | 15–25% | ✅ (lower bound) |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |          ●
+ 6 |        ╱   ╲
+ 5 |      ╱       ●───────●
+ 4 |  ●──╱
+ 3 |╱
+   +─────────────────────────
+     Sc1      Sc2      Sc3
+```
+
+- **Opening:** 3/10 — Atmospheric: dead town, residual hum, parsing
+- **Peak:** 7/10 — Physical crisis: chorus detonates, migraine, nosebleed, theological refusal
+- **Closing:** 5/10 — Sustained tension: diagnosis revealed, Neo-Shanghai decision, unresolved
+- **Shape:** Slow-build plateau — atmospheric approach → physical/theological crisis → sustained unresolved tension
+
+### Beat Map
+
+1. [3%] HOOK — "The town had no name anymore" → +1
+2. [8%] TEXTURE — Residual hum parsed; chorus as composite → 0
+3. [12%] DIALOGUE — "Two hours to the center" / "And then we listen" → 0
+4. [18%] TEXTURE — Town described: European Outlands pattern, grid withdrawal, Void Witnesses → 0
+5. [25%] COMPLICATION — Hum thickens near scar; temples tighten; Imani notices → +1
+6. [30%] REVEAL — Void scar described: violet stone, warped façade, milky glass → +1
+7. [35%] CLIMAX (physical) — Chorus detonates; knees buckle; ice-pick migraine; nosebleed → +3
+8. [40%] CONFLICT — Suppressant refusal: "Don't" / "*Do not.*" → +1
+9. [45%] REVEAL — Diagnosis: nitro-psychosis, terminal, 18 months → 0 (tension held)
+10. [50%] ACTION — Kneels at scar; palms on cold stone; chorus intensifies → +1
+11. [55%] INSIGHT — "They were not words. They were *structures.*" → 0
+12. [60%] BACKSTORY — Malachi, Silencing, twenty years in the Church → −1
+13. [65%] REVEAL — "Something *present*" in the scar — not residue, not echo → +1
+14. [70%] DIALOGUE — "I do not know yet" / "neither of those things is true" → 0
+15. [78%] TEXTURE — Church hall camp; resonance architecture; Radiance memory → −1
+16. [82%] INSIGHT — Correlation question: chorus intensity vs. number absorbed → 0
+17. [88%] DECISION — Neo-Shanghai; Cathedral of the Living Sound; 18 months → +1
+18. [92%] DIALOGUE — "You're asking me to help you walk toward the thing that's killing you" → +1
+19. [95%] COMMITMENT — Imani agrees: "I'm not doing this because I believe you" → −1
+20. [98%] CLOSING — "the scar held its cold, and the church spire pointed at a sky that had no opinion" → −1
+
+**Beat density:** 1 per ~270 words — high density for a TEXTURE chapter, driven by dialogue exchanges in second half
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Section break + spatial shift (town edge → central square/scar) | 7/10 — functional; "Two hours" time-skip implied |
+| Scene 2→3 | Section break + spatial shift (square → church hall interior) | 8/10 — clean shift from crisis to reflection |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 8/10 |
+| Paragraph rhythm | 8/10 |
+| Momentum | 7/10 |
+| Continuity | 9/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.2/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 25%
+- **Reflection:** 75%
+
+### Pacing Notes
+
+- **Strengths:** The hum motif threads through every scene as structural continuity — same device as the Prologue, different register. The physical crisis at the scar (beat 7) is the chapter's strongest moment rhythmically — the negation-before-assertion technique ("Not gradually. Not the slow build...") creates momentum through accumulation. The closing image is excellent — specific, cosmic, indifferent. The dialogue exchanges in the church hall provide rhythmic relief after the dense sensory blocks of the scar encounter.
+- **Concerns:** Sentence length runs higher than baseline (~19 vs ~14 target), but this is appropriate for Nephthys's Bakker-benchmark POV — longer, more subordinated sentences are permitted per the style profile. Fragment percentage (15%) is at the lower bound; could use 1-2 more single-sentence paragraph punches in the church hall section. The 75/25 reflection/action split is the most reflection-heavy chapter so far — appropriate for TEXTURE mode but monitor across Nephthys's arc to ensure variety.
+- **Recommendations:** This chapter establishes the TEXTURE/contemplative template for Nephthys. Future Nephthys chapters should maintain the 70-75% reflection ratio and the liturgical sentence length. The scar encounter's rhythm (atmospheric build → physical detonation → theological processing) is a reusable structure for her void-proximity scenes. The dialogue-heavy second half (church hall) provides necessary contrast — maintain this bimodal structure in future Nephthys chapters.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 1 = shock PRESSURE → Ch 3 = contemplative TEXTURE — strong contrast in mode and register)
+
+### Comparison to Previous Chapters
+
+| Metric | Prologue | Ch 1 | Ch 3 | Delta (Ch3 vs avg) |
+|--------|----------|------|------|---------------------|
+| Words | 4,800 | 5,200 | 5,400 | +267 |
+| Scenes | 4 | 4 | 3 | −1 |
+| Dialogue | 15% | 11% | 18% | +5% |
+| Flow | 8.8 | 9.2 | 8.2 | −0.8 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Plateau (3→7→5) | Lower peak, higher close |
+| A/R balance | 35/65 | 40/60 | 25/75 | More reflective |
+| Fragment % | 22% | 20% | 15% | −6% |
+
+Ch 3 is the first TEXTURE chapter and establishes a different rhythm from the two PRESSURE chapters that precede it. Lower peak tension (7 vs 10) is appropriate — the threat here is existential and theological, not immediate. Higher closing tension (5 vs 3-4) reflects the unresolved nature of Nephthys's quest. The reflection-heavy balance (75%) is the most contemplative chapter so far, appropriate for a POV whose primary action is *listening.*
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -219,7 +329,7 @@ Both chapters are PRESSURE mode but different registers: Prologue is slow-fuse d
 | P | Vantanen | 4,800 | PRESSURE | 15% | 3→10→4 | 8.8 | 35/65 | ✅ |
 | 1 | Aurielle | 5,200 | PRESSURE | 11% | 2→10→3 | 9.2 | 40/60 | ✅ |
 | 2 | Mirelle | — | TEXTURE | — | — | — | — | 📝 |
-| 3 | Nephthys | — | TEXTURE | — | — | — | — | 📝 |
+| 3 | Nephthys | 5,400 | TEXTURE | 18% | 3→7→5 | 8.2 | 25/75 | ✅ |
 | 4 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
 | 5 | Sofia | — | TEXTURE | — | — | — | — | 📝 |
 | 6 | Zeyad | — | TEXTURE | — | — | — | — | 📝 |
@@ -236,7 +346,7 @@ Both chapters are PRESSURE mode but different registers: Prologue is slow-fuse d
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 2/11 | 2/11 | 9.0 | 5.5 | 2P/0T | ⏳ |
+| Phase 1 | 3/11 | 3/11 | 8.7 | 5.0 | 2P/1T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -245,4 +355,4 @@ Both chapters are PRESSURE mode but different registers: Prologue is slow-fuse d
 ---
 
 _Last updated: 2026-02-10_
-_Updated by: Audit Chain — Chapter 1 rhythm analysis_
+_Updated by: Audit Chain — Chapter 3 rhythm analysis_

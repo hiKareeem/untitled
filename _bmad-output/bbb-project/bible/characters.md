@@ -244,11 +244,46 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1, early chapter
+- Last Appearance: Chapter 3 — "The Pain Is Signal"
+- Next Planned Appearance: Phase 2 (chorus intensifies; Void Witness validation)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — "the pain is signal, not symptom." Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
+
+**Key Objects:**
+- Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication.
+
+---
+
+### Imani
+
+**Role:** Supporting (Nephthys's companion)
+**Faction:** Flame (former acolyte, followed Nephthys into exile)
+**Primary Location:** European Outlands → Neo-Shanghai Sump (with Nephthys)
+
+**Current Psychological State:**
+- Phase: 1/5 (Equilibrium)
+- Emotional State: Loyal, frightened, managing both through competence
+- Dominant Beliefs: Follows Nephthys the person, not the theology
+- Internal Contradictions: Love vs. doubt — the evidence for prophet and for dying woman is identical
+
+**Age:** ~20
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nephthys | Teacher/companion | High | Followed her into exile. Practical counterweight. Worries about her health. Loyalty is personal, not theological. |
+
+**Appearances:**
+- Last Appearance: Chapter 3 — "The Pain Is Signal"
+- Next Planned Appearance: With Nephthys (Phase 2)
+
+**Recent History:**
+- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys's migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys's theology gently ("You can't know that"). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. "I'm not doing this because I believe you." Will seek forged transit papers from Void Witness commune near the border.
+
+**Key Objects:**
+- Medical kit: carried in top compartment of pack, always accessible. Contains suppressants, field supplies.
+- Old grid map: printed on paper, salvaged from relay station 40km back. Pre-disconnection.
 
 ---
 

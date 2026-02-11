@@ -2,8 +2,8 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-10"
-lastChapter: "Prologue"
-totalCharacters: 4
+lastChapter: "Chapter 3"
+totalCharacters: 8
 project_name: "Untitled"
 ---
 
@@ -185,6 +185,76 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 
 ---
 
+## Character: Nephthys
+
+### Emotional Arc Summary
+
+Nephthys's Chapter 3 arc establishes her as a woman whose certainty is inseparable from her suffering. She arrives at the dead town already in chronic pain — the migraines are baseline, the nosebleeds routine, the diagnosis terminal. Her emotional register is not anguish but *precision*: she parses the chorus the way a scientist parses data, separating signal from noise with a rigor that is itself a form of prayer. The refusal of suppressants is not bravado — it is theological commitment expressed through the body. "The pain is signal, not symptom." At the scar, the chorus overwhelms her physically (knees buckle, nosebleed, ice-pick migraine) but she holds through it with the discipline of someone who has learned to carry pain as information. Her backstory — telling Malachi, being Silenced — surfaces not as grievance but as clarifying context: she understands why he did it, she does not forgive him, and "the distinction is load-bearing." The closing is not resolution but orientation: she does not know what the chorus is saying, but she knows it is saying something, and she will walk toward it until she can hear it or until she can't.
+
+### Dominant Emotions
+
+- **Primary**: Intellectual certainty expressed through physical endurance — the pain is the price of knowing, and she pays it deliberately
+- **Secondary**: Theological urgency — the chorus is structured, active, plural, and nobody is listening
+- **Conflict**: Seeker vs. prophet — she frames herself as asking questions, but the certainty in her voice is hardening toward conviction. "The distinction between prophecy and psychosis" is a line she is aware of and may be crossing.
+
+### Emotional State by Phase
+
+- **Opening (approach)**: Focused parsing — separating hum layers with practiced skill. Controlled, professional, liturgical calm.
+- **Scar encounter**: Physical overwhelm managed through discipline — knees buckle, migraine, nosebleed, but she holds. Refuses suppressants with theological conviction.
+- **Kneeling at scar**: Intense listening — precision as emotional state. "They were not words. They were *structures.*" The distinction between prophecy and psychosis is load-bearing.
+- **Church hall**: Reflective — backstory surfaces (Malachi, Silencing, ordination). The migraine recedes to baseline. She examines her own certainty honestly: "she had only questions."
+- **Closing**: Oriented — Neo-Shanghai as destination. The pain is signal. The signal is the chorus. The chorus is a question.
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 3 — Beat 1 | Focused parsing | Residual hum at town edge | Separates frequencies like isolating instruments; doesn't turn when Imani speaks | Imani: reads the signs, adjusts pack, waits |
+| Ch 3 — Beat 2 | Controlled alarm | Hum thickens near scar; temples tighten | Left hand drifts toward temple, catches it, forces it back | Imani: notices immediately — "Nephthys." |
+| Ch 3 — Beat 3 | Physical overwhelm | Chorus detonates at scar edge | Knees buckle; ice-pick migraine; vision blurs; nosebleed; tastes copper | Imani: beside her instantly, medical kit out |
+| Ch 3 — Beat 4 | Theological refusal | Imani offers suppressants | "Don't." / "*Do not.*" — escalating intensity | Imani: frightened, managing it through competence |
+| Ch 3 — Beat 5 | Defiant conviction | Imani cites diagnosis | Recites diagnosis clinically, then pivots: "catastrophically wrong about the meaning" | Imani: hands don't move from shoulders — restraint, desire to fix |
+| Ch 3 — Beat 6 | Intense listening | Palms on scar stone | Feels layered frequencies as different qualities of cold and pressure; cannot count or separate them | Imani: watches, waits, challenges gently |
+| Ch 3 — Beat 7 | Honest uncertainty | Imani asks what the void contains | "I do not know yet." The honest answer — questions, not answers | Imani: the gentleness of someone watching a loved one build meaning on unverifiable foundations |
+| Ch 3 — Beat 8 | Theological urgency | Church hall reflection; correlation question | Voice rises, catches it. The tumor and the chorus are both real. The space between them is where her theology lives. | Imani: quiet for a long time |
+| Ch 3 — Beat 9 | Oriented resolve | Decision to reach Neo-Shanghai | Opens eyes; resonance beads warm in hands; "I can spend them listening" | Imani: agrees despite doubt — "I'm not doing this because I believe you" |
+
+---
+
+## Character: Imani
+
+### Emotional Arc Summary
+
+Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys's intensity — but "practical" is itself an emotional strategy. She manages fear through competence: the pack adjusted, the medical kit accessible, the heating element working. Her loyalty is personal, not theological — she follows Nephthys the person, not the counter-liturgy — and this distinction is the source of her anguish. She is twenty years old, has given up her ordination track and her family's approval, and is watching the woman she followed into exile walk toward the thing that is killing her. Her challenges to Nephthys are gentle but real: "You can't know that." "The diagnosis—" She remembers the old Church forms (Radiance, Attunement gesture) with the residual familiarity of someone raised in a faith she's outgrowing. Her final agreement to help reach Neo-Shanghai is not conversion — it is the decision to be present regardless of outcome. "If you're wrong, someone needs to be there."
+
+### Dominant Emotions
+
+- **Primary**: Loyalty expressed through competence — manages logistics, reads vital signs, keeps the medical kit within reach
+- **Secondary**: Fear managed through steadiness — breathing fast but controlled; hands steady on the heating element
+- **Conflict**: Love vs. doubt — the evidence for prophet and for dying woman is identical. She cannot resolve this and does not try.
+
+### Emotional State by Phase
+
+- **Opening**: Habitual endurance — eleven days walking, stopped asking where they're going
+- **Scar encounter**: Controlled fear — reads Nephthys's signs, acts immediately, is refused
+- **Church hall**: Gentle challenge — questions Nephthys's theology without dismissing it
+- **Closing**: Committed presence — agrees to Neo-Shanghai not from belief but from love
+
+### Per-Chapter Emotional Beats
+
+| Chapter | Emotional State | Trigger | Expression | Impact on Others |
+|---------|-----------------|---------|------------|------------------|
+| Ch 3 — Beat 1 | Habitual endurance | Eleven days of walking | Adjusts pack; asks "How far?" — practical, not existential | Nephthys: doesn't turn; parsing the hum |
+| Ch 3 — Beat 2 | Alert concern | Nephthys's hand drifts to temple | "Nephthys." — single word, immediate recognition | Nephthys: "I am fine." (She is not.) |
+| Ch 3 — Beat 3 | Controlled fear | Nephthys's knees buckle, nosebleed | Beside her instantly; hands on shoulders; pack dropped; medical kit out | Nephthys: refuses suppressants |
+| Ch 3 — Beat 4 | Managed frustration | Nephthys refuses medicine | Breathing fast, controlled; tension in hands — restraint, desire to fix | Nephthys: holds theological ground |
+| Ch 3 — Beat 5 | Gentle challenge | Nephthys claims the chorus is not memory | "You can't know that." Not unkindly. Not dismissively. With gentleness. | Nephthys: responds with signal-vs-noise argument |
+| Ch 3 — Beat 6 | Quiet anguish | Watching Nephthys stand after kneeling at scar | Jaw tension; hands half-open, ready to catch; stillness of will | Nephthys: reads the structure beneath the expression |
+| Ch 3 — Beat 7 | Residual faith | Discussion of what people need | Remembers old forms — Radiance, Attunement gesture; "People need structure" | Nephthys: "I am not giving them the void" |
+| Ch 3 — Beat 8 | Committed presence | Nephthys asks for help reaching Neo-Shanghai | Hands steady on heating element; voice level; "I'm not doing this because I believe you" | Nephthys: does not speak — holds the beads and listens |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -195,8 +265,10 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 | Dr. Patel | Supporting | 2 | Analytical composure → Defiant alarm | Unknown — last seen at informal meeting |
 | Aurielle Vasquez | POV | 8 | Institutional fluency → Disengagement → Dissociative shock → Anchored numbness → Institutional autopilot → Sealed suspicion → Solitary processing | Active — grief suppressed, suspicion partitioned, CEO by succession |
 | Marcus Thorne | Supporting | 4 | Respectful attention → Operational activation → Institutional directive → Almost-gentle delivery | Active — no arc (already finished); every response pre-assembled |
+| Nephthys | POV | 9 | Focused parsing → Controlled alarm → Physical overwhelm → Theological refusal → Defiant conviction → Intense listening → Honest uncertainty → Theological urgency → Oriented resolve | Active — terminal diagnosis, counter-liturgy developing, oriented toward Neo-Shanghai |
+| Imani | Supporting | 8 | Habitual endurance → Alert concern → Controlled fear → Managed frustration → Gentle challenge → Quiet anguish → Residual faith → Committed presence | Active — loyal to the person, not the theology; will seek transit papers |
 
 ---
 
 _Last updated: 2026-02-10_
-_Updated by: Audit Chain — Chapter 1 character audits_
+_Updated by: Audit Chain — Chapter 3 character audits_

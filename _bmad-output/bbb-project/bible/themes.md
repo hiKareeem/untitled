@@ -470,6 +470,7 @@ This bible dimension tracks **theme evolution**:
 |---------|---------------|----------------|
 | Prologue | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Complicity (Moderate), Truth (Moderate), Architecture (Moderate), Atrocity (Background), Obligation (Background) | First void breach: identity dissolves; cosmic indifference demonstrated; institutional suppression architecture activates; nitro's true nature revealed to reader |
 | Ch 1 | Architecture (Strong), Complicity (Strong), Identity (Moderate), Commodification (Background) | Assassination as institutional event: Thorne's pre-assembled responses reveal power's architecture; Aurielle's complicity begins with walking when told; identity disrupted (daughter→CEO in the time of a thermal round); suffering commodified (blood wiped for cameras, not for comfort) |
+| Ch 3 | Identity (Strong), Irrelevance (Strong), Commodification (Moderate), Truth (Moderate), Architecture (Moderate), Obligation (Moderate), Complicity (Background), Atrocity (Background) | Counter-liturgy established: chorus is plural, structured, active. Three absorbed persist as signal. Church/VEC suppress the same truth through different architectures. Pain as signal — biological cost of proximity to cosmic indifference. Imani's obligation as witness, not believer. |
 
 ---
 

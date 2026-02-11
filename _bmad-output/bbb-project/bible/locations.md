@@ -382,7 +382,14 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Isolation from institutional support
 
 **Key Events:**
-- [To be populated as chapters are written]
+- **Ch 3:** Nephthys and Imani arrive at unnamed dead town. Chorus flares at void scar in central square. Nephthys refuses suppressants, kneels at scar, detects structured/active/plural signal. Orients toward Neo-Shanghai.
+
+**Sub-locations:**
+
+**Dead Town (unnamed)** — Grid-disconnected 7 years ago when Helix Energetics reclassified regional trunk-line as "non-viable." Population ~10-12K, now empty. European Outlands pattern: central square, church hall (north), municipal building (south, partially collapsed), residential rings. Converter station on eastern edge (drained, locked). Void Witness commune 40km south in converted relay station (14 people).
+- **Void scar:** Central square, ~8m diameter. Paving stones darker with violet undertone, smoother (molecular reorganization). Adjacent café façade warped (curved, not cracked). Shop windows milky/translucent. Stone is COLD — deeper than surface, deeper than stone should hold. 3 absorbed: couple who ran the café, maintenance worker inspecting converter station. Scar appeared overnight, 7 years ago. No RCI spike recorded (monitoring decommissioned). Chorus is active, structured, strongest scar Nephthys has found.
+- **Church hall:** Stone walls, heavy timber roof. Stained glass mostly broken. Wooden pews. Altar bare (sacred objects removed when Church withdrew). Conduit housing still in walls — residual hum from resonance architecture. Nephthys and Imani camp here.
+- **Previous scars visited:** Relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed) — both weaker chorus than this town.
 
 **Significance:** Where Nephthys gathers grassroots testimony that validates her theology before arriving in Neo-Shanghai.
 
