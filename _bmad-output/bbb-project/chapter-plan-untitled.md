@@ -1207,7 +1207,7 @@ Writing notes: in-world documents, institutional language, and source materials 
 |----------|--------------------|---------|
 | Board Resolution 2175-003 (Emergency Succession) | Ch 1 | "In the event of death of the CEO, succession transfers immediately. No quorum required." |
 | NitroCore Sump Division press release | Ch 2 | "All Junction 7 personnel reassigned. No disruption expected." The lie Mirelle investigates. |
-| Internal Memo — Legacy Protocol 7 (C-Suite) | Ch 7 | "Classified under Legacy Protocol 7. Distribution beyond executive chain constitutes breach of corporate sovereignty." |
+| Internal Memo — Legacy Protocol 9 (C-Suite) | Ch 7 | "Classified under Legacy Protocol 9. Distribution beyond executive chain constitutes breach of corporate sovereignty." |
 | Q4 2174 Containment Expenditure Summary | Ch 12 | "Containment costs exceeded projections by 41.3%. Reclassify Sump maintenance as deferred to offset." |
 | Work Order #2175-1847 (Deferred) | Ch 19 | "Conduit junction replacement, Sector 4-7B. Priority: Routine. Status: Deferred. Junction integrity: 62%." |
 | Sump Infrastructure Map (public version) | Ch 24 | "Below Level 12: Decommissioned. No active infrastructure." A lie. |

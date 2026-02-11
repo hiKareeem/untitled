@@ -265,9 +265,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Celestial Ballroom (114th floor):** Gala venue. Floor-to-ceiling windows, commissioned art (rotated quarterly), environmental systems scrubbing air to tastelessness. Stage with podium and row of high-backed chairs for executive delegation. Holographic display behind podium. Drone cameras broadcasting live feeds. Site of Eduardo Vasquez's assassination.
 - **Corridor (outside ballroom):** 90m long, lined with commissioned light sculptures by PCC-funded artist — nitro-infused glass casting amber refractions. Dark carpet.
 - **Private Suite (116th floor):** Medical staging area. Floor-to-ceiling windows facing the Spires. 114 floors above the city. The Sump is invisible from here — "Nobody could."
-- **Eduardo's Office:** Smells like sandalwood cologne (absorbed into the leather furniture). Where Aurielle stores the handkerchief.
 
-**Characters Present:** Aurielle, Marcus Thorne
+**Key Interior Locations (established Ch 7):**
+- **Executive Chamber / Boardroom (108th floor):** Sealed ovoid, 21.2°C (behavioral study on decision-making compliance), acoustics designed to project from the Chair's position. Fifteen seats. Eduardo's chair at the head — nanite-threaded leather, adjusted to his body, doesn't fit Aurielle yet. The hum calibrated to a frequency the human ear registers as silence. Six floors below the Celestial Ballroom.
+- **Eduardo's Office:** 30m corridor from the Executive Chamber — same dark wood paneling, recessed lighting, temperature-controlled silence. Spanish walnut desk shipped from Cádiz (where the Vasquez name started). Desk chair still holds Eduardo's body impression. Sandalwood cologne embedded at molecular level — deeper than NitroCore's atmospheric scrubbers can reach. Floor-to-ceiling window. Reading alcove. Handkerchief in top left drawer (bloodstained, won't fully clean). Three datapads + NitroCore water glass on desk. Executive assistant station outside (unfilled — assistant on leave since assassination).
+- **Corridor (Executive Chamber → Office):** 30m, dark wood paneling, recessed lighting, silent carpet. Two security personnel stationed along route.
+
+**Characters Present:** Aurielle, Marcus Thorne, Chen-Nakamura (CFO), board members
 
 **Significance:** The institutional seat of the genocide. Aurielle's view from the tower window — looking down at where the Sump used to be — is a candidate for the book's final image. The Sump's invisibility from Spire altitude established in Ch 1 closing.
 
@@ -277,6 +281,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - Ch 1: Eduardo Vasquez assassinated at Celestial Ballroom gala (thermal round, military grade, high angle). Aurielle inherits NitroCore.
+- Ch 7: First board meeting in Executive Chamber. Quarterly review — slide 17 ("Sump Infrastructure Lifecycle Management"). Thorne's private LP9 briefing in Eduardo's office. Cause-cost separation revealed.
 
 ---
 

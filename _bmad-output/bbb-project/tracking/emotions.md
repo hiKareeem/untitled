@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 6"
+lastChapter: "Chapter 7"
 totalCharacters: 17
 project_name: "Untitled"
 ---
@@ -159,6 +159,14 @@ Aurielle's Chapter 1 arc compresses four distinct emotional registers into a sin
 | Ch 1 — Beat 6 | Institutional autopilot | Corridor walk; Thorne's board resolution, theories, directives | Voice sounds "too steady"; asks questions by reflex (Eduardo's rule); recognizes Thorne's preparedness | Thorne: delivers pre-assembled responses |
 | Ch 1 — Beat 7 | Sealed suspicion | "Welcome to the throne" — the phrase was ready | "He knew" surfaces and is sealed; grief alongside calculation alongside dependence | Internal — the partition holds |
 | Ch 1 — Beat 8 | Solitary processing | Alone in suite; handkerchief; mirror | Rotates left wrist; keeps handkerchief; avoids mirror; looks at Spires, not the Sump | None — alone |
+| Ch 7 — Beat 1 | Institutional performance | Boardroom entry; Eduardo's chair | Sits, reviews the room, notes Thorne's position and suit. Deference tightens the base of her neck rather than settling it. | Board: cooperative. Thorne: observed. |
+| Ch 7 — Beat 2 | Analytical vigilance | Quarterly presentation; listening to delivery, not content | Reads who pauses before which figures, who glances at Thorne, who performs loyalty | None visible — internal assessment |
+| Ch 7 — Beat 3 | Dangerous hesitation | Slide 17 — "Sump Infrastructure Lifecycle Management" | Senses the question is "informationally dangerous"; chooses not to ask; the small voice files it | Board: unchanged. Chen-Nakamura: no inflection. |
+| Ch 7 — Beat 4 | Eduardo's negative space | Entering office; sandalwood; sitting in his chair | Feels the architecture of his absent body in the leather; the cologne molecular, deeper than particulate | None — alone |
+| Ch 7 — Beat 5 | Discovery | LP9 reference in quarterly recommendations; cross-referencing classified brief | Reads from the last page; finds the term; contacts Thorne. Hands flat on desk — composure holding. | Thorne: arrives with his own datapad, pre-queued |
+| Ch 7 — Beat 6 | Controlled processing | Thorne's briefing — RCI climbing, containment over budget, maintenance deferred | Hands flat on desk; wrist does NOT rotate yet; the training holds; the small voice does arithmetic | Thorne: reads her composure as confirmation |
+| Ch 7 — Beat 7 | The right question | "What happens if the containment expenditure stops being sufficient?" | Thorne's focus contracts; first direct eye contact since sitting down. She asked the question Eduardo didn't. | Thorne: "That is why Legacy Protocol 9 exists." Assessment, not praise. |
+| Ch 7 — Beat 8 | Solitary arithmetic | Alone in office; 23 minutes after Thorne leaves | Wrist rotates (noticed, stopped); hands flat on walnut; does not open the handkerchief drawer; the small voice is processing with real numbers | None — alone. The architecture of looking elsewhere. |
 
 ---
 
@@ -182,6 +190,10 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 | Ch 1 — Beat 2 | Operational activation | Assassination | Already standing, already beside Aurielle; suit clean; handkerchief ready | Aurielle: anchored but suspicious |
 | Ch 1 — Beat 3 | Institutional directive | Corridor | Board resolution via frame; theories floated; statement planned | Security responds to his authority; Aurielle follows |
 | Ch 1 — Beat 4 | Almost-gentle delivery | "Welcome to the throne" | Voice quiet; first eye contact since the stage | Aurielle: the words were *ready* — "sterilized, ordered, waiting for the incision" |
+| Ch 7 — Beat 1 | Managed neutrality | Boardroom; Aurielle's first board meeting | Same posture, hands folded. Positioned at the far end where acoustics diminish — placement deliberate. Surface: managed, not blank. | Aurielle: cannot read him |
+| Ch 7 — Beat 2 | Predicted satisfaction | Aurielle contacts him about LP9 | Arrives with own datapad pre-queued. "You read from the last page." Predicted her reading pattern. | Aurielle: realizes he anticipated the conversation |
+| Ch 7 — Beat 3 | Controlled disclosure | Delivering the LP9 briefing | Level, sequential, each sentence a brick. Pauses for selection, not emphasis. Positions below her sightline. | Aurielle: processes each fact; hands flat on desk |
+| Ch 7 — Beat 4 | Assessment (not praise) | Aurielle asks the right question | Focus contracts — first direct eye contact. "You asked the right question. Eduardo asked the wrong one." | Aurielle: the mentorship is also a recruitment |
 
 ---
 

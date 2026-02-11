@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-10"
-lastChapter: 10
+lastChapter: 10 # (Ch 7 added this session)
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -475,6 +475,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 5 | Architecture (Strong), Complicity (Moderate), Truth (Moderate), Commodification (Background), Irrelevance (Background), Obligation (Background), Atrocity (Background), Identity (Not present) | Sofia's debut: VEC's institutional architecture as central antagonist — SOP 7.1, quarterly review, classification pipeline, cross-departmental boundaries. Each layer reasonable; together they absorb anomalies. Liang's window faces up, never down. Complicit through institutional faith. Dual-channel truth: sanitized official report + personal archive (14+1). The 0.7 Hz pulse measures from the Spires what Fuxi's body detects from the Deep Sump. Solberg name planted via Erasure List. |
 | Ch 10 | Commodification (Strong), Identity (Strong), Complicity (Moderate), Truth (Moderate), Obligation (Moderate), Architecture (Background), Atrocity (Background), Irrelevance (Background) | Kira's debut: the performer who suppresses suffering for an audience. The Gap between who she is and what they need. Lumina as void-residue product. Academy doctrine internalized ("control is silence"). Priya's question planted and refused. Multiple obligations in tension — audience paid, community refused, self exceeded. |
 | Ch 6 | Architecture (Strong), Complicity (Strong), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present), Atrocity (Not present) | Zeyad's debut: the diplomat inside the Accords compliance system. UGC institutional architecture as the chapter's terrain — committee chambers, classification protocols, Annex B routing, corporate-appointed oversight, 10-15 day processing tempo. Arctic-7 reclassified from scientific to security review — procedural anomaly detected by pattern recognition. "Contained" discovered in GCTA briefing — military vocabulary in civilian assessment. Five questions in ink. The practiced smile. Grandfather's Accords on the wall — signed, precise, and ornamental. |
+| Ch 7 | Architecture (Dominant), Complicity (Strong), Atrocity (Moderate), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present) | Board meeting + Thorne's private briefing: LP9 classification system exposed — cause-cost separation as designed architecture. Not-asking as proactive complicity. "Sump lifecycle management" as the euphemism Aurielle doesn't challenge. Containment 40% over budget, junction integrity below threshold. Thorne as truth-wielder: "Your father managed this. Now you do." Eduardo repositioned: "He asked how to fix it." The architecture of looking elsewhere. |
 
 ---
 
@@ -519,6 +520,12 @@ This bible dimension tracks **theme evolution**:
 | "Contained" (vocabulary leak) | Architecture of Power, Truth as Weapon | Military breach-language appearing in civilian assessment — the vocabulary of one institution leaking into another; cross-chapter thread (Prologue → Ch 6 → Ch 17) |
 | 10-15 business days | Architecture of Power, Irrelevance of Individual Being | The institutional pipeline as temporal weapon — the system that classified Arctic-7 in hours takes two weeks to respond to an oversight request; tempo as architecture |
 | Annex B | Architecture of Power, Systemic Complicity | Corporate-controlled oversight of corporate activity — the structural contradiction Zeyad has written four papers about; the papers are in the archive, the contradiction persists |
+| Spanish walnut desk | Architecture of Power, What We Owe | Eduardo's desk shipped from Cádiz — where the Vasquez name started before it became a corporate dynasty; heritage beneath the institutional; "polished to a depth that held light the way a window holds a view" |
+| Slide 17 | Systemic Complicity, Architecture of Power | "Sump Infrastructure Lifecycle Management" — 12 seconds on screen, fifteen unchanged faces; the moment not-asking becomes a skill the position requires |
+| LP9 classification | Architecture of Power, Truth as Weapon, Systemic Complicity | Cause-cost separation — VEC Annex B (cause) kept separate from LP9 (cost) so no single document contains both; the system's most elegant architectural feature; Eduardo signed it, Thorne countersigned |
+| 21.2°C (boardroom temperature) | Architecture of Power | Derived from a behavioral study on decision-making compliance — even the temperature is optimized for institutional control |
+| Sandalwood cologne | What We Owe, Architecture of Power | Eduardo's molecular persistence — embedded deeper than particulate, in the grain of the furniture the way memory is in the grain of the body; absence as occupation |
+| "The architecture of looking elsewhere" | Systemic Complicity, Architecture of Power | Chapter thesis — Vasht's epigraph made institutional; the system optimizes the observer to look elsewhere; the looking-elsewhere is the architecture |
 
 ---
 
@@ -589,4 +596,4 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 6_
+_Updated by: Audit Chain — Chapter 7_

@@ -1,5 +1,6 @@
 # Project Status Tracking
 # Generated: 2026-02-10
+# Updated: 2026-02-11
 
 ---
 project: "Untitled (Book 1)"
@@ -8,29 +9,88 @@ totalPlannedChapters: 53  # Prologue + 51 chapters + Epilogue
 
 chapters:
   prologue:
-    title: "The Cold"
-    status: complete
+    title: "Arctic-7"
+    status: v1-complete
     pov: "Dr. Elise Vantanen"
     wordCount: 4800
     completedDate: "2026-02-10"
     metaFile: "prologue-meta.yaml"
+    mode: PRESSURE
 
   chapter_1:
     title: "The Heir"
-    status: complete
+    status: v1-complete
     pov: "Aurielle Vasquez"
     wordCount: 5200
     completedDate: "2026-02-10"
     metaFile: "chapter-1-meta.yaml"
+    mode: PRESSURE
 
   chapter_2:
     title: "The Feed Says Relocated"
-    status: complete
+    status: v1-complete
     pov: "Mirelle Dubois"
     wordCount: 5100
     completedDate: "2026-02-10"
     metaFile: "chapter-2-meta.yaml"
+    mode: TEXTURE
 
-completedCount: 3
-totalWords: 15100
-lastUpdated: "2026-02-10"
+  chapter_3:
+    title: "The Pain Is Signal"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 5400
+    completedDate: "2026-02-10"
+    metaFile: "chapter-3-meta.yaml"
+    mode: TEXTURE
+
+  chapter_4:
+    title: "Monitor 6"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 5200
+    completedDate: "2026-02-10"
+    metaFile: "chapter-4-meta.yaml"
+    mode: TEXTURE
+
+  chapter_5:
+    title: "Instrument Drift"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 5400
+    completedDate: "2026-02-11"
+    metaFile: "chapter-5-meta.yaml"
+    mode: TEXTURE
+
+  chapter_6:
+    title: "The Portrait in the Chamber"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 5200
+    completedDate: "2026-02-11"
+    metaFile: "chapter-6-meta.yaml"
+    mode: TEXTURE
+
+  chapter_7:
+    title: "The Real Briefing"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 5300
+    completedDate: "2026-02-11"
+    metaFile: "chapter-7-meta.yaml"
+    mode: TEXTURE
+
+  chapter_10:
+    title: "The Gap"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 5200
+    completedDate: "2026-02-11"
+    metaFile: "chapter-10-meta.yaml"
+    mode: TEXTURE
+
+# Chapters not yet written: 8, 9, 11-51, Epilogue
+
+completedCount: 9
+totalWords: 46800
+lastUpdated: "2026-02-11"

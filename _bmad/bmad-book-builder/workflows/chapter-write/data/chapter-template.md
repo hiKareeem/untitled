@@ -7,9 +7,21 @@ draftVersion: 1
 createdDate: ''
 author: ''
 status: draft
+executionMode: full
+title: ''
+pov: ''
+wordTarget: '5000-6000'
+phase: 1
+location: ''
+timeline: ''
+mode: TEXTURE
+epigraph_source: ''
+epigraph_author: ''
+epigraph_ref: ''
+rhetoric_reference: ''
 ---
 
-# Chapitre {{chapterNumber}}: {{chapterTitle}}
+# Chapter {{chapterNumber}}: {{chapterTitle}}
 
 <!--
 📋 SYNOPSIS - Chapitre {{chapterNumber}}

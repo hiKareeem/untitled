@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 6"
+lastChapter: "Chapter 7"
 totalChapters: 53
-analyzedChapters: 7
+analyzedChapters: 8
 project_name: "Untitled"
 ---
 
@@ -791,6 +791,123 @@ Flow score (8.8) matches the Prologue — the highest for a TEXTURE chapter, ref
 
 ---
 
+## Chapter 7 — Aurielle: "The Real Briefing"
+
+**Phase:** 1 | **Mode:** TEXTURE (corporate/institutional) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,300 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~60 | — | — |
+| Dialogue % | ~10% | 10–20% | ✅ |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~25% | 15–25% | ✅ (upper bound) |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |                          ●
+ 6 |                        ╱   ╲
+ 5 |                      ╱       ●
+ 4 |              ●─────╱
+ 3 |            ╱
+ 2 |  ●───●──╱
+   +─────────────────────────────────
+     Sc1    Sc2    Sc3        Sc4
+```
+
+- **Opening:** 2/10 — Institutional: boardroom as theater, Eduardo's chair, the hum as silence
+- **Board meeting:** 2→4/10 — Slide 17 as inflection point; not-asking as first threshold
+- **Thorne's briefing:** 4→7/10 — Brick-by-brick truth delivery; RCI climbing, containment over budget, "less predictable"
+- **Closing:** 5/10 — Alone with the arithmetic; the architecture of looking elsewhere
+- **Shape:** Slow institutional build — performance → discovery → briefing → solitary processing. Tension never peaks dramatically — it accumulates through information. Highest tension during Thorne's briefing, held at 5 in the closing.
+
+### Beat Map
+
+1. [2%] HOOK — Eduardo's chair: "Not physically." → +0
+2. [5%] TEXTURE — Boardroom spec: 21.2°C, sealed ovoid, acoustics calibrated for Chair → 0
+3. [10%] SETTING — Desk: Spanish walnut from Cádiz, three datapads, water glass → 0
+4. [14%] CONTEXT — "Toward the Chair." NitroCore designation established → +1
+5. [18%] INTELLIGENCE — Reading the room: who glances at Thorne, pearl earrings, loyalty performed → 0
+6. [22%] INFLECTION — Thorne's clean suit: "Two chairs away and his suit had been *clean.*" Sealed. → +1
+7. [28%] TEXTURE — Quarterly review: numbers excellent, institutional liturgy → 0
+8. [33%] TRIGGER — Slide 17: "Sump Infrastructure Lifecycle Management" — 12 seconds on screen → +2
+9. [36%] DECISION — She didn't ask. "Not-asking is a skill the position requires." → 0
+10. [40%] TRANSITION — Meeting adjourns. Office. Sandalwood. Eduardo's shape in the chair. → −1
+11. [45%] DISCOVERY — LP9 in quarterly recommendations (last page). Cross-references classified brief. → +1
+12. [50%] ARRIVAL — Thorne enters with own datapad. "You read from the last page." → +1
+13. [55%] REVEAL — LP9 memo: Eduardo signed, Thorne countersigned, 2168 → +1
+14. [60%] BRIEFING — RCI climbing. Neo-Shanghai worst. Containment 40% over budget. → +1
+15. [65%] ESCALATION — Maintenance deferred 14 months. Junction integrity 67% vs 70% threshold. → +1
+16. [70%] PEAK — "What happens if the containment expenditure stops being sufficient?" → +1
+17. [75%] PIVOT — Thorne: "That is why Legacy Protocol 9 exists." Stands. Leaves. → 0
+18. [80%] CODA — "Eduardo asked the wrong one. He asked how to fix it." → +1 (dread spike)
+19. [85%] PROCESSING — 23 minutes. Wrist rotates. Hands flat. Small voice calculating. → −1
+20. [90%] HANDKERCHIEF — In drawer. Not opened. Bloodstains that won't clean. → 0
+21. [95%] THESIS — "Not negligence but *policy*." The architecture of looking elsewhere. → +1
+22. [98%] CLOSING — Sandalwood settled like weather. Door closed. Walked. Did not run. → −1
+
+**Beat density:** 1 per ~240 words — high for TEXTURE, driven by Thorne's briefing sequence
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Section break + spatial shift (boardroom → office, 30m corridor) | 8/10 — clean institutional shift |
+| Scene 2→3 | In-scene arrival (Thorne enters office) | 9/10 — "The door opened" as seamless escalation |
+| Scene 3→4 | Section break + time-gap (Thorne leaves → 23 minutes of silence) | 8/10 — the gap IS the transition |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 7/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.8/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 25%
+- **Reflection:** 75%
+
+### Pacing Notes
+
+- **Strengths:** The chapter's bimodal paragraph structure is the strongest since the Prologue — dense institutional blocks (boardroom description, quarterly review, Thorne's data delivery) alternate with single-line punches ("Toward the Chair.", "She sealed it.", "Sandalwood.", "No.", "Legacy Protocol 9."). The slide 17 sequence is the chapter's rhythmic hinge — twelve seconds on screen, twelve seconds of narrated hesitation, and the reader experiences the not-asking as Aurielle does. Thorne's briefing builds through accumulation — each fact a brick — and the reader feels the weight increase. The closing 23-minute silence is excellently paced: the chapter doesn't resolve, it *processes*. The GRRM room-reading register (who sits where, who glances at whom, pearl earrings as uniform, the suit as camouflage) is the strongest expression of this POV technique in the book so far.
+- **Concerns:** Momentum (7/10) reflects the deliberate corporate-institutional pace — appropriate for Aurielle's TEXTURE mode but should increase in future chapters (Ch 12, Ch 20) as the institutional stakes mount. Fragment percentage (25%) is at the upper bound — the high count of single-word/phrase paragraphs ("Sandalwood.", "No.", "Thorne.") is effective but should not increase further.
+- **Recommendations:** This chapter establishes the TEXTURE/corporate-institutional template for Aurielle. Unlike Zeyad's diplomatic-institutional mode (Ch 6), Aurielle's corporate mode features *power-reading* — the tension comes from parsing institutional behavior, not from procedural maneuvering. The 75/25 reflection/action split is appropriate for a POV whose primary action is *assessment*. Future Aurielle chapters should push action higher as her moral laddering intensifies.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 1 slow/5-6K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 6 = diplomatic TEXTURE/Zeyad → Ch 7 = corporate TEXTURE/Aurielle — same mode, different institutional register)
+
+### Comparison to Previous Chapters
+
+| Metric | Prologue | Ch 1 | Ch 3 | Ch 4 | Ch 5 | Ch 6 | Ch 7 | Ch 10 | Delta (Ch7 vs avg) |
+|--------|----------|------|------|------|------|------|------|-------|---------------------|
+| Words | 4,800 | 5,200 | 5,400 | 5,200 | 5,400 | 5,200 | 5,300 | 5,200 | +62 |
+| Scenes | 4 | 4 | 3 | 4 | 4 | 4 | 4 | 3 | +0.25 |
+| Dialogue | 15% | 11% | 18% | 8% | 10% | 12% | 10% | 18% | −2.7% |
+| Flow | 8.8 | 9.2 | 8.2 | 8.6 | 8.6 | 8.8 | 8.8 | 9.0 | +0.03 |
+| Tension shape | Slow-fuse (3→10→4) | Shock (2→10→3) | Plateau (3→7→5) | Plateau (2→7→5) | Inst. build (3→5→3→6) | Inst. build (2→5→3→6) | Corp. build (2→4→7→5) | Suppressed swell (3→8→3) | New shape |
+| A/R balance | 35/65 | 40/60 | 25/75 | 20/80 | 20/80 | 15/85 | 25/75 | 30/70 | −2% action |
+| Fragment % | 22% | 20% | 15% | 14% | 17% | 18% | 25% | 19% | +6.1% |
+
+Ch 7 introduces a new TEXTURE subtype: **corporate/institutional**. Unlike Zeyad's diplomatic mode (Ch 6), Aurielle's corporate TEXTURE features GRRM room-reading and power-parsing as its tension engine — who sits where, who glances at whom, what the board's unchanged faces on slide 17 mean. The tension shape (2→4→7→5) is a corporate build: slow institutional performance → informational threshold → private briefing escalation → solitary processing. The peak (7) is moderate — appropriate for a chapter where the danger is *informational*, not physical or cosmic. The high fragment percentage (25%) reflects the chapter's many single-word/phrase paragraphs used as punches between dense institutional blocks.
+
+Flow score (8.8) ties with the Prologue and Ch 6 for highest TEXTURE chapter. The GRRM power-reading register is strong — institutional behavior parsed as political intelligence. Aurielle's second appearance confirms her voice's corporate-architectural metaphor domain is distinct from Zeyad's diplomatic-procedural domain.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -802,7 +919,7 @@ Flow score (8.8) matches the Prologue — the highest for a TEXTURE chapter, ref
 | 4 | Fuxi | 5,200 | TEXTURE | ~8% | 2→7→5 | 8.6 | 20/80 | ✅ |
 | 5 | Sofia | 5,400 | TEXTURE | 10% | 3→5→3→6 | 8.6 | 20/80 | ✅ |
 | 6 | Zeyad | 5,200 | TEXTURE | 12% | 2→5→3→6 | 8.8 | 15/85 | ✅ |
-| 7 | Aurielle | — | PRESSURE | — | — | — | — | 📝 |
+| 7 | Aurielle | 5,300 | TEXTURE | 10% | 2→4→7→5 | 8.8 | 25/75 | ✅ |
 | 8 | Fuxi | — | TEXTURE | — | — | — | — | 📝 |
 | 9 | Mirelle | — | PRESSURE | — | — | — | — | 📝 |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
@@ -815,7 +932,7 @@ Flow score (8.8) matches the Prologue — the highest for a TEXTURE chapter, ref
 
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
-| Phase 1 | 7/11 | 7/11 | 8.7 | 4.6 | 2P/5T | ⏳ |
+| Phase 1 | 8/11 | 8/11 | 8.7 | 4.6 | 2P/5T | ⏳ |
 | Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
@@ -824,4 +941,4 @@ Flow score (8.8) matches the Prologue — the highest for a TEXTURE chapter, ref
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 6 rhythm analysis_
+_Updated by: Audit Chain — Chapter 7 rhythm analysis_

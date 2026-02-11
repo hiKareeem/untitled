@@ -435,12 +435,13 @@ An object deserves documentation if it:
 **Narrative Significance:**
 - Thorne's preparedness — he had it ready, pre-folded, along with the board resolution, the corridor route, and the phrase
 - Institutional care vs. human care — wiping blood for the cameras, not for comfort
-- Aurielle keeps it: cleaned, folded, placed in a drawer in Eduardo's office. Never used again. Never thrown away.
+- Aurielle keeps it: cleaned, folded, placed in the top left drawer of Eduardo's desk in the office. Never used again. Never thrown away.
 - Symbol of the transaction: Thorne offers control disguised as tenderness; Aurielle accepts because the institution requires it
+- **Ch 7 update:** Bloodstain confirmed — "the bloodstain that wouldn't fully clean because some stains were structural rather than superficial." The handkerchief is in the top left drawer. Aurielle does not open the drawer in Ch 7 — she knows what's inside and choosing not to look is itself a kind of management. "Keeping it was easier than understanding why she'd been given it."
 
-**Current Owner:** Aurielle Vasquez (stored in Eduardo's office drawer)
+**Current Owner:** Aurielle Vasquez (top left drawer, Eduardo's desk, Eduardo's office)
 
-**Current State:** Preserved — cleaned, folded, kept
+**Current State:** Preserved — cleaned, folded, bloodstained (stain structural, won't fully clean)
 
 ---
 

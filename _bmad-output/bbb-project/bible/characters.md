@@ -131,7 +131,7 @@ This bible dimension tracks **current character states**:
 **Current Arc:** Idealist → Reluctant Tyrant
 - Current Phase: 1/5 (Equilibrium — new executive, weeks post-assassination, still tasting salt)
 - Progression: Beginning
-- Next Step: Discovers infrastructure's true cost via Thorne's briefings
+- Next Step: Receives full VEC correlation data from Thorne (Ch 12); reform = Spire blackouts
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -143,11 +143,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Functional tyrant. Knows. Continues. | Congratulated. Stock recovers. She will authorize the next one too. |
 
 **Appearances:**
-- Last Appearance: Chapter 1
-- Next Planned Appearance: Chapter 7 (board meeting)
+- Last Appearance: Chapter 7
+- Next Planned Appearance: Chapter 12 (the real numbers)
 
 **Recent History:**
 - Chapter 1: Navigates corporate gala with institutional fluency — reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie). Seated on stage during Eduardo's keynote. Father assassinated mid-speech by thermal round (erased from nose up). Pieces of him on her dress. Cannot hear/remember the shot. Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording. She walks. In the corridor, Thorne activates Board Resolution 2175-003 (emergency succession). "Welcome to the throne, my dear. Try not to slip." Alone in private suite: rotates left wrist (signature mannerism), keeps the handkerchief, avoids the mirror. Seals the suspicion ("He knew") because she needs Thorne. Psychological state: grief suppressed, suspicion partitioned, institutional conditioning active.
+- Chapter 7: First board meeting as Chair. Occupies Eduardo's chair (nanite-threaded leather, doesn't fit). Reviews the room — reads board behavior, notes Thorne's suit, seals the suspicion again. Quarterly review: slide 17 ("Sump Infrastructure Lifecycle Management") — senses it's "informationally dangerous," chooses not to ask. In Eduardo's office: discovers LP9 reference in quarterly recommendations (reads from last page). Cross-references classified brief via secured terminal. Contacts Thorne. Thorne delivers private briefing: RCI climbing in 3 zones (Neo-Shanghai worst), containment 40% over budget, maintenance deferred 14 months, junction integrity 67% (Eduardo's threshold: 70%). Cause-cost separation: VEC Annex B (cause) kept separate from LP9 (cost). Asks the right question: "What happens if containment isn't sufficient?" Thorne: "That is why Legacy Protocol 9 exists." / "Eduardo asked the wrong one. He asked how to fix it." Alone for 23 minutes: wrist rotates (noticed, stopped), hands flat on Spanish walnut desk, does not open handkerchief drawer. The small voice calculates with real numbers. Psychological state: composure holding, institutional conditioning active, the ground shifting beneath the equilibrium.
 
 ---
 
@@ -697,11 +698,12 @@ This bible dimension tracks **current character states**:
 | NitroCore Board | Institutional | Stable | The continuity they depend on |
 
 **Appearances:**
-- Last Appearance: Chapter 1
-- Next Planned Appearance: Chapter 7 (board meeting)
+- Last Appearance: Chapter 7
+- Next Planned Appearance: Chapter 12 (full VEC correlation briefing)
 
 **Recent History:**
 - Chapter 1: Present at gala, seated on stage two chairs from Aurielle. Suit clean after thermal round (noted by Aurielle). Immediately offers pre-folded white silk handkerchief. Activates Board Resolution 2175-003 via frame ("Emergency succession. No quorum required."). Walks Aurielle through corridor. Floats theories ("A rival. A fanatic. A disgruntled employee. It doesn't matter yet.") without committing to a narrative. Delivers pre-assembled phrase: "Welcome to the throne, my dear. Try not to slip." Every response was ready before the shot.
+- Chapter 7: Second appearance. Seated at far end of boardroom where acoustics diminish — deference or calculation. Same suit type (absorbs light rather than reflecting it). Surface: managed, not blank. Arrives in Eduardo's office with own datapad pre-queued to LP9 memo — predicted Aurielle would find the reference because she reads from the last page. Delivers private briefing: RCI climbing in 3 zones, containment 40% over budget, maintenance deferred 14 months, junction integrity 67%. Level, sequential, each sentence a brick. Positions below her sightline. "Your father established Legacy Protocol 9 in 2168." / "Your father managed this. Now you do." Final line from doorway: "You asked the right question. Eduardo asked the wrong one. He asked how to fix it." — reframes Eduardo as naïve, Aurielle as correctly institutional. The mentorship is also a recruitment.
 
 ---
 
@@ -932,8 +934,11 @@ This bible dimension tracks **current character states**:
 | Zeyad Al-Fahim | Debut + Recent History | Pre-intro → Phase 1/5 | First POV chapter; Arctic-7 classification anomaly, Patel exchange, "contained" discovery, institutional faith's first fracture | Ch 6 |
 | Dr. Patel (VEC Liaison) | New character | — | VEC liaison delegate in compliance review; delivers Arctic-7 classification; procedural deflection. **Different from Prologue's Dr. Patel** — shared surname coincidental | Ch 6 |
 | Dr. Elara Mbutha | New character | — | Rotating session chair, Kenyan delegation; institutional neutral | Ch 6 |
+| Aurielle Vasquez | Appearance + Recent History | Ch 1 last appearance | Ch 7: First board meeting, LP9 discovery, Thorne's briefing, cause-cost separation | Ch 7 |
+| Marcus Thorne | Appearance + Recent History | Ch 1 last appearance | Ch 7: Second appearance; predicted her reading; LP9 briefing; "Eduardo asked the wrong one" | Ch 7 |
+| Chen-Nakamura | New character (background) | — | CFO; pearl earrings; seated at Eduardo's right; presents quarterly without inflection through slide 17 | Ch 7 |
 
 ---
 
-_Last updated: 2026-02-11 (Ch6 draft)_
-_Updated by: Audit Chain — Chapter 6_
+_Last updated: 2026-02-11 (Ch7 audit)_
+_Updated by: Audit Chain — Chapter 7_
