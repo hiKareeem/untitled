@@ -116,6 +116,15 @@ chapters:
     metaFile: "chapter-11-meta.yaml"
     mode: PRESSURE
 
+  chapter_12:
+    title: "The Real Numbers"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 5400
+    completedDate: "2025-07-15"
+    metaFile: "chapter-12-meta.yaml"
+    mode: PRESSURE
+
   chapter_18:
     title: "Signal"
     status: v1-complete
@@ -125,8 +134,8 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 12-17, 19-51, Epilogue
+# Chapters not yet written: 13-17, 19-51, Epilogue
 
-completedCount: 13
-totalWords: 66700
-lastUpdated: "2026-02-12"
+completedCount: 14
+totalWords: 72100
+lastUpdated: "2025-07-15"

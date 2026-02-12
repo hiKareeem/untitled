@@ -272,9 +272,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Eduardo's Office:** 30m corridor from the Executive Chamber — same dark wood paneling, recessed lighting, temperature-controlled silence. Spanish walnut desk shipped from Cádiz (where the Vasquez name started). Desk chair still holds Eduardo's body impression. Sandalwood cologne embedded at molecular level — deeper than NitroCore's atmospheric scrubbers can reach. Floor-to-ceiling window. Reading alcove. Handkerchief in top left drawer (bloodstained, won't fully clean). Three datapads + NitroCore water glass on desk. Executive assistant station outside (unfilled — assistant on leave since assassination).
 - **Corridor (Executive Chamber → Office):** 30m, dark wood paneling, recessed lighting, silent carpet. Two security personnel stationed along route.
 
+**Key Interior Locations (established Ch 12):**
+- **Sub-level 7 Briefing Room:** Classified facility below lobby level. Hexagonal chamber, composite walls (same matte material throughout), fluorescent lighting ("did not pretend"), two chairs, water dispenser. Holographic array with recessed control surface in table edge. Built by Aurielle's grandfather, used quarterly by Eduardo for eleven years, now inherited by Aurielle. Requires three authentications: biometric (palm + retinal + subcutaneous ID), daily 16-digit authorization code (delivered via intelligence brief at 06:00), and physical carbon key (Eduardo's desk, false bottom of top drawer). The hum is present here — not managed away as on executive floors. "The room where the real numbers lived." No windows, no records, no schematic listing.
+- **Sub-levels (general):** Negative floors below lobby. Building structural diagrams classify as "environmental and mechanical systems" — accurate but incomplete. Accessed via authenticated elevator. Numbers count backward from lobby.
+
 **Characters Present:** Aurielle, Marcus Thorne, Chen-Nakamura (CFO), board members
 
-**Significance:** The institutional seat of the genocide. Aurielle's view from the tower window — looking down at where the Sump used to be — is a candidate for the book's final image. The Sump's invisibility from Spire altitude established in Ch 1 closing.
+**Significance:** The institutional seat of the genocide. Aurielle's view from the tower window — looking down at where the Sump used to be — is a candidate for the book's final image. The Sump's invisibility from Spire altitude established in Ch 1 closing. Tower confirmed as 212 floors (Ch 12).
 
 **Current State:** Operational
 
@@ -283,6 +287,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - Ch 1: Eduardo Vasquez assassinated at Celestial Ballroom gala (thermal-kinetic round, military grade, high angle). Aurielle inherits NitroCore.
 - Ch 7: First board meeting in Executive Chamber. Quarterly review — slide 17 ("Sump Infrastructure Lifecycle Management"). Thorne's private LP9 briefing in Eduardo's office. Cause-cost separation revealed.
+- Ch 12: Aurielle descends to Sub-level 7 for first time. Thorne presents holographic Sump model — maintenance, absorption, cost projections. Three scenarios. "Welcome to the quarterly."
 
 ---
 

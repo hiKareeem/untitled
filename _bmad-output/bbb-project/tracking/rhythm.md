@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 11"
+lastChapter: "Chapter 12"
 totalChapters: 53
-analyzedChapters: 13
+analyzedChapters: 14
 project_name: "Untitled"
 ---
 
@@ -1311,6 +1311,99 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 12 — Aurielle: "The Real Numbers"
+
+**Phase:** 2 | **Mode:** PRESSURE (institutional) | **Date analyzed:** 2025-07-15
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,400 | 5,000–6,000 | ✅ |
+| Scenes | 4 | 3–5 | ✅ |
+| Paragraphs | ~65 | — | — |
+| Dialogue % | ~15% | 10–20% | ✅ |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % | ~50% | >40% | ✅ |
+
+### Tension Curve
+
+```
+10 │
+ 9 │
+ 8 │                          ╱╲
+ 7 │                     ╱    ╲
+ 6 │                ╱         ╲
+ 5 │           ╱              ╲╲
+ 4 │      ╱                     ╲
+ 3 │  ╱                          ╲
+ 2 │╱
+ 1 │
+   └──────────────────────────────────
+    Sc1:Descent  Sc2:Model  Sc3:Scenarios  Sc4:Return
+```
+
+- **Scene 1 (Descent):** Tension 2→4. Controlled, methodical. Three authentications, carbon key, negative floors. The descent is procedural — tension builds through what's missing (records, schematic, windows) rather than what's present.
+- **Scene 2 (Holographic Model):** Tension 4→6. The Sump materializes. Maintenance overlay propagates red. The pattern is "not ambiguous." Each data layer adds weight. Thorne's "brick by brick" delivery controls the pace.
+- **Scene 3 (Absorption + Scenarios):** Tension 6→8. Peak. 0.87 correlation. Three scenarios. 8-14K as a budget line. The small voice sounds like Eduardo's. "The distinction was not available." The membrane thins.
+- **Scene 4 (Return):** Tension 8→5. Decompression. "Same time next quarter." Return to Eduardo's office. Sandalwood. The quarterly report now legible. Tension settles into understanding, not resolution.
+
+### Beat Map
+
+| Beat | Position | Tension Δ | Description |
+|------|----------|-----------|-------------|
+| Elevator descent | 0% | +2 | Three authentications; negative floors |
+| Corridor + briefing room | 8% | +1 | Fluorescent, hexagonal, the hum present |
+| "How many CEOs" | 15% | +1 | Three CEOs — the quarterly tradition |
+| Holographic model appears | 20% | +1 | "This was not data. This was *geography*." |
+| Maintenance overlay | 30% | +1 | Red propagating; Sector 9 at 47% |
+| Small voice membrane | 38% | +1 | Partition thinning from wall to membrane |
+| Absorption overlay | 45% | +1 | White points; 0.87 correlation |
+| "Infrastructure events" | 52% | +0 | Thorne's key sentence; placed, not delivered |
+| Cost projections | 60% | +1 | Budget self-consuming in 8 months |
+| Three scenarios | 70% | +1 | "Not three options but one trajectory" |
+| "How many?" / 8-14K | 78% | 0 | Peak held — the number designed to be small |
+| The right question | 85% | -1 | Management, not repair — recognition |
+| "Same time next quarter" | 90% | -1 | Acceptance of the institutional rhythm |
+| Return to office | 95% | -1 | Sandalwood; quarterly report; understanding |
+
+### Transitions
+
+| Transition | Description | Quality |
+|------------|-------------|--------|
+| Scene 1→2 | Section break. Descent corridor → briefing room. Thorne already inside. | 9/10 |
+| Scene 2→3 | No break — continuous flow. Model layers peel back into absorption/cost data. | 9/10 |
+| Scene 3→4 | Section break. Array deactivated → return to office. Strongest shift: institutional data → sensory return (sandalwood). | 9/10 |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **9.0/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 20%
+- **Reflection:** 80%
+
+### Pacing Notes
+
+- **Strengths:** The data-delivery IS the pacing device — each holographic layer adds tension without action. Thorne's sequential presentation controls rhythm the way his Ch 7 briefing did, but at higher stakes and longer duration. The bimodal paragraph structure (dense institutional blocks alternating with single-line punches — "Fluorescent." "Sandalwood." "Both classifications.") creates the signature Kareem rhythm at its most controlled. The 80/20 reflection/action balance is the most reflective chapter yet — justified by the nature of the scene (data presentation, internal processing) and the GRRM power-politics register.
+- **Concerns:** Dialogue at ~15% is adequate but lower than Ch 7 (also ~10%). The chapter is narration-heavy even for Aurielle's register. Future Aurielle PRESSURE chapters should push toward 18-20% dialogue as her relationship with Thorne becomes more confrontational.
+- **Recommendations:** This chapter establishes Aurielle's PRESSURE subtype: **institutional-analytical** (data as tension, holographic geography as setting, the complete picture as climax). The descent/return structure (elevator down → briefing → elevator up → office) should recur for the quarterly rhythm. The tension peak at Scene 3 (scenarios) is correctly placed at ~75% — the chapter's structure mirrors the LP9 briefing in Ch 7 but at higher altitude.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, PRESSURE mode, 5-6K words)
+- Adjacent chapter contrast: ✅ (Ch 11 = Nikolai debut/PRESSURE → Ch 12 = Aurielle/PRESSURE — same mode but different PRESSURE subtype: military-operational vs institutional-analytical)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1327,8 +1420,9 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 9 | Mirelle | 5,200 | TEXTURE | 25% | 3→6→3 | 9.0 | 35/65 | ✅ |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
 | 11 | Nikolai | 4,500 | PRESSURE | 8% | 3→7→5 | 9.0 | 45/55 | ✅ |
+| 12 | Aurielle | 5,400 | PRESSURE | 15% | 2→8→5 | 9.0 | 20/80 | ✅ |
 | 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
-| 12–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| 13–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
@@ -1338,12 +1432,12 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 2/12 | 2/12 | 8.8 | 4.3 | 1P/1T | 📝 |
+| Phase 2 | 3/12 | 3/12 | 8.9 | 4.7 | 2P/1T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2026-02-12_
-_Updated by: Chapter 11 rhythm analysis_
+_Last updated: 2025-07-15_
+_Updated by: Chapter 12 rhythm analysis_

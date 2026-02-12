@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 11"
+lastChapter: "Chapter 12"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -167,6 +167,14 @@ Aurielle's Chapter 1 arc compresses four distinct emotional registers into a sin
 | Ch 7 — Beat 6 | Controlled processing | Thorne's briefing — RCI climbing, containment over budget, maintenance deferred | Hands flat on desk; wrist does NOT rotate yet; the training holds; the small voice does arithmetic | Thorne: reads her composure as confirmation |
 | Ch 7 — Beat 7 | The right question | "What happens if the containment expenditure stops being sufficient?" | Thorne's focus contracts; first direct eye contact since sitting down. She asked the question Eduardo didn't. | Thorne: "That is why Legacy Protocol 9 exists." Assessment, not praise. |
 | Ch 7 — Beat 8 | Solitary arithmetic | Alone in office; 23 minutes after Thorne leaves | Wrist rotates (noticed, stopped); hands flat on walnut; does not open the handkerchief drawer; the small voice is processing with real numbers | None — alone. The architecture of looking elsewhere. |
+| Ch 12 — Beat 1 | Controlled anticipation | Elevator descent; three authentications; carbon key | Methodical, rehearsed — the process itself is composure. Eduardo's key in her hand. No wrist rotation. | None — alone in elevator |
+| Ch 12 — Beat 2 | Institutional assessment | Briefing room; fluorescent light; the hum present | Catalogs the room — hexagonal, two chairs, water dispenser. Notes what's missing (windows, records, comfort). The hum is here. | Thorne: already inside, already waiting |
+| Ch 12 — Beat 3 | Measured recognition | Holographic Sump model materializes | First time seeing the Sump as geography rather than data. "This was not data. This was *geography.*" Thirteen million people. | Thorne: presenter posture, slightly behind |
+| Ch 12 — Beat 4 | Analytical escalation | Maintenance overlay — red propagating through conduit network | Reads the pattern before individual data points. Sector 9 at 47%. "She had never heard Eduardo say the number." Small voice running implications. | Thorne: sequential, load-bearing |
+| Ch 12 — Beat 5 | Membrane thinning | Absorption overlay — white points clustered at failing junctions | The partition between the small voice and the rest of her thinking narrows from wall to membrane. 0.87 correlation. "The cause and the cost, in the same room, in the same mind." | Thorne: pauses for selection, not emphasis |
+| Ch 12 — Beat 6 | Institutional horror (contained) | Three scenarios; 8-14K as "a number that fit in a budget line" | Hands flat on table. Voice level. Training holds. Internally: "A count was thirteen thousand people who would be absorbed near failing junctions." The voice sounds like Eduardo's. | Thorne: "The patience that would wait as long as necessary" |
+| Ch 12 — Beat 7 | The right question (again) | Arrives at "how to manage what can't be fixed" | Not how to fix it. How to manage it. Thorne's recognition. "Welcome to the quarterly." The question Eduardo didn't ask — she asks it differently. | Thorne: recognition, not praise. Assessment held. |
+| Ch 12 — Beat 8 | Accepted rhythm | "Same time next quarter"; return to Eduardo's office | Returns to sandalwood, walnut, the view. Now hears the grid through the building's compensation. Opens quarterly report — understands every word. Does not yet know what to do with the understanding. | None — alone. The understanding is a position. |
 
 ---
 
@@ -194,6 +202,10 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 | Ch 7 — Beat 2 | Predicted satisfaction | Aurielle contacts him about LP9 | Arrives with own datapad pre-queued. "You read from the last page." Predicted her reading pattern. | Aurielle: realizes he anticipated the conversation |
 | Ch 7 — Beat 3 | Controlled disclosure | Delivering the LP9 briefing | Level, sequential, each sentence a brick. Pauses for selection, not emphasis. Positions below her sightline. | Aurielle: processes each fact; hands flat on desk |
 | Ch 7 — Beat 4 | Assessment (not praise) | Aurielle asks the right question | Focus contracts — first direct eye contact. "You asked the right question. Eduardo asked the wrong one." | Aurielle: the mentorship is also a recruitment |
+| Ch 12 — Beat 1 | Prepared patience | Briefing room; already inside when Aurielle arrives | Standing at center, dark suit, hands at sides. The room prepared. The sequence queued. | Aurielle: catalogs the room |
+| Ch 12 — Beat 2 | Structured disclosure | Holographic model presentation | Control surface, not gesture. Sequential layers. Each dataset queued without delay. "Brick by brick." | Aurielle: reading the pattern |
+| Ch 12 — Beat 3 | Managed revelation | "The absorptions are not random events. They are infrastructure events." | Voice unchanged. The sentence placed, not delivered. Pauses for selection between facts. | Aurielle: membrane thinning |
+| Ch 12 — Beat 4 | Recognition | Aurielle arrives at the right question — management, not repair | "Welcome to the quarterly." The patience that waited for Eduardo now waits for her. The assessment holds. | Aurielle: accepted rhythm |
 
 ---
 
@@ -671,8 +683,8 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 | Tamsin Guo | Supporting | 2 | Professional neutrality → First crack of urgency | Active — files report; witnesses aftermath |
 | Kai Mäkelä | Supporting | 2 | Dry watchfulness → Personal vulnerability | Unknown — last seen at informal meeting |
 | Dr. Patel | Supporting | 2 | Analytical composure → Defiant alarm | Unknown — last seen at informal meeting |
-| Aurielle Vasquez | POV | 8 | Institutional fluency → Disengagement → Dissociative shock → Anchored numbness → Institutional autopilot → Sealed suspicion → Solitary processing | Active — grief suppressed, suspicion partitioned, CEO by succession |
-| Marcus Thorne | Supporting | 4 | Respectful attention → Operational activation → Institutional directive → Almost-gentle delivery | Active — no arc (already finished); every response pre-assembled |
+| Aurielle Vasquez | POV | 16 | Ch 1: Institutional fluency → Dissociative shock → Sealed suspicion → Solitary processing. Ch 7: Analytical vigilance → Dangerous hesitation → Discovery → Solitary arithmetic. Ch 12: Controlled anticipation → Analytical escalation → Membrane thinning → Institutional horror (contained) → Accepted rhythm | Active — complicity deepening, small voice merging with Eduardo's, quarterly rhythm accepted |
+| Marcus Thorne | Supporting | 8 | Ch 1: Respectful attention → Operational activation → Almost-gentle delivery. Ch 7: Managed neutrality → Predicted satisfaction → Assessment. Ch 12: Prepared patience → Structured disclosure → Recognition | Active — no arc (already finished); the patience that outlasts any individual executive |
 | Nephthys | POV | 9 | Focused parsing → Controlled alarm → Physical overwhelm → Theological refusal → Defiant conviction → Intense listening → Honest uncertainty → Theological urgency → Oriented resolve | Active — terminal diagnosis, counter-liturgy developing, oriented toward Neo-Shanghai |
 | Imani | Supporting | 8 | Habitual endurance → Alert concern → Controlled fear → Managed frustration → Gentle challenge → Quiet anguish → Residual faith → Committed presence | Active — loyal to the person, not the theology; will seek transit papers |
 | Fuxi Lin | POV | 19 | Ch 4: Routine competence → Body-knowledge alarm → Enforced compliance. Ch 8: Domestic warmth → Provider-math → Argumentative tenderness → Mutual silence → Deliberate suppression → Provider-math as love | Active — Phase 1/5; question forming, domestic weight added; unease includes what Nuwa didn't say |

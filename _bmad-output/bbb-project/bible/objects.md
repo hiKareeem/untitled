@@ -522,6 +522,7 @@ An object deserves documentation if it:
 | AEGIS | Weapon/System | GCTA / Chimera / OWGB | Operational, autonomous |
 | Wet-Film Residue | Void Infrastructure | The void | Accumulating |
 | Thorne's Handkerchief | Symbol/Motif | Aurielle Vasquez | Preserved (Eduardo's office) |
+| Carbon Key | Symbol/Access | Aurielle Vasquez | In use (Eduardo's desk → Sub-level 7) |
 
 ---
 
@@ -541,6 +542,7 @@ An object deserves documentation if it:
 ### Symbols/Relics
 - The Accords (Al-Fahim Legacy)
 - Thorne's White Silk Handkerchief
+- Carbon Key (Sub-level access)
 
 ### Critical Resources
 - Nitro
