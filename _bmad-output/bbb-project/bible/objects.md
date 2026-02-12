@@ -176,7 +176,8 @@ An object deserves documentation if it:
 **Current Owner:** Black Babel (automated custody) → Sofia, Zeyad (inheritors)
 
 **History:**
-- [To be populated as chapters are written]
+- Ch 9: First cache deposited with Black Babel via Talia Ravid. Contents: 16-disappearance dataset, geographic correlation analysis, source interviews (anonymized), raw analysis notes. Dead-hand protocol established: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients.
+- Ch 13: Arctic-7 analysis added to deposit. Contents now include: infrastructure maps (throughput density by junction), co-origin annotation by unnamed research lead, Mirelle's own overlay analysis confirming pattern. Dead-hand timer at 41 hours. "Now she had institutional data."
 
 ---
 

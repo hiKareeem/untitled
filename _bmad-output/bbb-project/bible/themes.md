@@ -561,6 +561,13 @@ This bible dimension tracks **theme evolution**:
 | 21.2°C (boardroom temperature) | Architecture of Power | Derived from a behavioral study on decision-making compliance — even the temperature is optimized for institutional control |
 | Sandalwood cologne | What We Owe, Architecture of Power | Eduardo's molecular persistence — embedded deeper than particulate, in the grain of the furniture the way memory is in the grain of the body; absence as occupation |
 | "The architecture of looking elsewhere" | Systemic Complicity, Architecture of Power | Chapter thesis — Vasht's epigraph made institutional; the system optimizes the observer to look elsewhere; the looking-elsewhere is the architecture |
+| Transit box (Sump Sector 3) | Truth as Weapon, Irrelevance of Individual Being | Mirelle's operational base — salvage terminal, battery comms, vibrating walls; the architecture of investigation lived at infrastructure scale; one room nobody knew existed |
+| *Co-origin* (handwritten annotation) | Truth as Weapon, Architecture of Power | Research lead's margin note — truth preserved in handwriting because digital record would be consumed; analog resistance at institutional scale; the finding the classification system couldn't edit |
+| Arctic-7 infrastructure maps | Truth as Weapon, Progress Requires Atrocity | Classified document showing throughput/breach co-origin at station scale — the pattern that confirms Neo-Shanghai's pattern; institutional data as warhead |
+| "Architecture." (single word) | Architecture of Power, Progress Requires Atrocity | Mirelle's naming word — the moment system failure becomes system function; "The system was performing as built"; the distinction between negligence and design |
+| Wire dispatch (3 terminated) | Systemic Complicity, Irrelevance of Individual Being | The denominator shrinking — journalists as expendable; the system responds to investigation with elimination; individual fate as arithmetic |
+| "Including her" | Irrelevance of Individual Being, Truth as Weapon | Closing line — Mirelle placed inside the architecture she mapped; the dead-hand functions without her; bearer's survival irrelevant to weapon's function |
+| Relay chassis (Talia's) | Architecture of Power | Counter-architecture expanding — more hardware, more heat, more clients; the information underground growing in response to the information architecture above |
 
 ---
 

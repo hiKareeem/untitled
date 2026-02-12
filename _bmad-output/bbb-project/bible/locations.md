@@ -339,10 +339,11 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Ground zero for the breach
 - Chronic high RCI exposure
 - First area consumed during BLACKWEIR
-- Nitro-ear onset for prolonged visitors (Mirelle: 3 weeks, right ear)
+- Nitro-ear onset for prolonged visitors (Mirelle: 3 weeks onset Ch 9, now 5 weeks Ch 13)
 
 **Key Events:**
 - Ch 9: Mirelle enters the district via counter-surveillance route (Variation B). Deposits dead-hand cache with Talia at her node. Receives junction reclassification intel. Exits via Variation C.
+- Ch 13: Mirelle enters via brightline descent, different route from Ch 9. Different face at the counter. Back room warmer — more equipment generating heat. Talia's operation visibly expanded (more hardware, heat shielding, relay chassis rebuild). Exchanges demographics data for Arctic-7 classified chip. Exits via different route.
 
 **Significance:** The neighborhood most directly built on top of the thing that kills it. Residents live their entire lives over the loudest part of the scream without knowing what they're hearing. Also the information underground's natural habitat — the high RCI keeps corporate security from staying longer than they have to, making it ideal for Black Babel nodes and counter-surveillance commerce.
 

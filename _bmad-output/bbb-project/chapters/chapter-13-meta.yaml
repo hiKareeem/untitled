@@ -1,0 +1,100 @@
+chapterNumber: 13
+title: "The Pattern"
+pov: "Mirelle Dubois"
+phase: 2
+mode: TEXTURE
+location: "Neo-Shanghai (Sump Sector 3 transit box, Resonance District, Talia's node)"
+timeline: "2175, weeks after Ch 9"
+wordCount: ~4200
+scenes: 4
+dialoguePercent: ~20
+tensionArc: "3→6→8→4"
+epigraph:
+  source: "Investigative Ethics in the Post-Institutional Age"
+  author: "Gauthier, R."
+  ref: "lecture transcript, 2169"
+  text: "The story is not the evidence. The story is what happens to the evidence when you arrange it in the order the institution doesn't want you to find."
+status: v1-complete
+draftVersion: 3
+createdDate: "2026-02-12"
+author: "Kareem"
+
+charactersPresent:
+  - Mirelle Dubois (POV)
+  - Talia Ravid (Black Babel node operator)
+  - Unnamed shop attendant (different face from Ch 9)
+
+themesPresent:
+  dominant:
+    - Truth as Weapon
+  strong:
+    - Architecture of Power
+    - Systemic Complicity
+  moderate:
+    - Commodification of Suffering
+    - Progress Requires Atrocity
+    - Irrelevance of Individual Being
+  background:
+    - Where Identity Ends
+    - What We Owe
+
+revelationCalibration:
+  knows:
+    - "18 disappearances across 5 sectors correlate with high-throughput junctions"
+    - "7 junctions reclassified municipal→restricted-corporate (same quarter, same sectors)"
+    - "Dead-hand protocol operational (72h rolling, 3 recipients)"
+    - "Talia's operation expanding (more hardware, more clients)"
+    - "3 journalists terminated this quarter, 2 sources silent"
+  learnsThisChapter:
+    - "Arctic-7 infrastructure maps show throughput density by junction"
+    - "Void breach frequency and nitro throughput co-originate at highest-density junctions (research lead's annotation)"
+    - "Neo-Shanghai pattern matches Arctic-7 pattern at city scale"
+    - "The infrastructure was designed this way — architecture, not negligence"
+    - "Now has institutional data (Arctic-7) to complement her field data"
+  suspects:
+    - "NitroCore reclassifying junctions to hide the evidence, not fix the infrastructure"
+    - "The system is performing as built — designed sacrifice"
+  doesNotKnow:
+    - "Who the Arctic-7 research lead is"
+    - "What BLACKWEIR is"
+    - "The full scope of the flood valve infrastructure"
+    - "That Zeyad has parallel Arctic-7 concerns from the diplomatic side"
+
+newElements:
+  characters:
+    - "Unnamed Arctic-7 research lead — author of handwritten 'Co-origin' annotation in margins of classified document"
+  locations:
+    - "Mirelle's transit box (Sump Sector 3) — salvage terminal, battery-powered comms, shelf of dead units, vibrating walls"
+  objects:
+    - "Arctic-7 infrastructure assessment chip (pages 12-31) — classified, handwritten annotations preserved in margins"
+    - "Wire dispatch (burner comm) — 3 journalists terminated, 2 sources silent"
+    - "Dead comm units (shelf of 4) — each killed after single use"
+  worldbuilding:
+    - "Feed vocabulary: 'relocated' as euphemism for disappeared"
+    - "Arctic-7 document consumed by 'institutional hygiene' in 11 days"
+    - "Brightline as vertical transit between strata"
+    - "Talia's operation expanding — more hardware, heat shielding, relay chassis rebuild"
+    - "Monthly passphrase rotation (Cantonese) — different from Ch 9"
+
+continuityThreads:
+  seeded:
+    - "Arctic-7 co-origin data now in dead-hand deposit — available for Ch 17 Zeyad exchange"
+    - "'Architecture' as naming word — Mirelle first character to name design as design"
+    - "'Including her' — bearer's survival irrelevant to weapon's function (foreshadows Ch 40)"
+    - "Wire dispatch: journalist elimination escalating (foreshadows Mirelle's own risk)"
+    - "Talia's operation growing — sets up post-Mirelle inheritance of archive"
+    - "Nitro-ear at 5 weeks — 'a structure she wasn't ready to name' (progressive)"
+  fromPrevious:
+    - "Ch 9: Dead-hand protocol — timer now at 41 hours, pinged yesterday"
+    - "Ch 9: Disappearance count 16→18 (2 new)"
+    - "Ch 9: Talia's node — return visit, different face, warmer room, expanded operation"
+    - "Ch 9: Nitro-ear 3 weeks → now 5 weeks"
+    - "Ch 9: Passphrase mechanic — different phrase, same ritual"
+    - "Ch 9: 7 junction reclassifications — now used as evidence of concealment"
+    - "Ch 2: Gauthier's evidentiary demand — 'Now she had institutional data' answers it"
+
+revisionNotes:
+  - "v3: Complete rewrite from scratch per handoff prompt"
+  - "v1-v2 failures: copy-paste from Ch 9 descriptions, 'four minutes early' beat, lazy shop re-description"
+  - "v3 corrections: return-visit feel (not re-description), different opening (dead-hand check, not Wire dispatch), different descent route, different Talia staging (standing, working on relay chassis)"
+  - "Author edit: removed 'She'd learned last time that the rules permitted sitting' (line 126)"

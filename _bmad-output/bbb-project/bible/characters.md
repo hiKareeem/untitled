@@ -162,8 +162,8 @@ This bible dimension tracks **current character states**:
 **Lens:** Truth-seeking → absorbed
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Driven, paranoid, professional
+- Phase: 2/5 (Evidence mounting)
+- Emotional State: Driven, paranoid, analytically focused
 - Dominant Beliefs: "If people know, they'll act."
 - Internal Contradictions: Treats the story as more real than the people in it
 
@@ -182,9 +182,9 @@ This bible dimension tracks **current character states**:
 | Lien Suen | Source | New | Dao Suen's wife; primary witness for Junction 7 disappearance. Steady, grief-hardened. |
 
 **Current Arc:** Hunter → Absorbed
-- Current Phase: 1/5 (Equilibrium — working the Sump story)
-- Progression: Beginning
-- Next Step: Evidence trail strengthens; paranoia justified
+- Current Phase: 2/5 (Evidence mounting, paranoia justified)
+- Progression: Midpoint — institutional data acquired
+- Next Step: Matched-district analysis at city scale; Zeyad exchange
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -196,11 +196,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Gone. Dead-hand evidence persists. | Evidence released posthumously; her Lie tested — the world knows, the world shrugs |
 
 **Appearances:**
-- Last Appearance: Chapter 9 — "Dead Drop"
-- Next Planned Appearance: Phase 2 (junction infiltration before reclassification)
+- Last Appearance: Chapter 13 — "The Pattern"
+- Next Planned Appearance: Chapter 21 (matched districts, city-scale analysis)
 
 **Recent History:**
 - Ch 2: Investigated disappearance of conduit worker Dao Suen near Junction 7. Interviewed wife Lien Suen — Dao entered Level 3 trunk-line access corridor, corridor log shows entry/no exit, NitroCore says "reassigned." Lien reports shimmer near the hatch. Second disappearance (Chen Yue) from same block, three weeks prior, also "relocated." Found chalk names on the wall near Junction 7 — Sump workers write the names of the disappeared. Borrowed RCI sensor read 19.4 near the hatch (baseline 14-16). Discovered via Feed that entire Junction 7 maintenance crew was "reassigned." Editor Gauthier denied publication — insufficient evidence. Mirelle has seven missing workers across three sectors. Did not file. Kept the notes.
+- Ch 13: Operating from transit box in Sump Sector 3 (salvage terminal, battery comms, vibrating walls). Dead-hand timer at 41 hours — pinged yesterday. Nitro-ear now 5 weeks old: "a structure she wasn't ready to name." Wire dispatch: 3 journalists terminated this quarter, 2 sources gone silent. Disappearance count now 18 (up from 16). Descended to Resonance District via brightline, different route from Ch 9. Exchanged demographics data for Arctic-7 classified document (pages 12-31, infrastructure assessment) via Talia. Talia warned: "You're building a target on your chest." Rules recited as ritual. Received Arctic-7 chip. Analyzed at transit box terminal: infrastructure maps showing throughput density by junction. Found handwritten annotation by unnamed research lead: *Co-origin* — void breach frequency and nitro throughput co-originate at highest-density junction points. Overlaid her own disappearance data: same pattern. Named it: "Architecture." "The system was performing as built." Added Arctic-7 analysis to dead-hand deposit. "Now she had institutional data" — Gauthier's evidentiary demand answered. Closing: dark room, hum through the cot, "Including her."
 - Ch 9: Eight weeks after Ch 2. Now has 16 confirmed disappearances across 5 sectors (up from 7/3). Moved to Sump Sector 3 transient room (was Mid-Levels District 5). Assembled evidence package on paper and encrypted drives. Deposited first cache with Black Babel via Talia Ravid in Resonance District. Established dead-hand protocol: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients (São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact). Paid Babel price: anonymized source network metadata. Received intel: 7 junctions reclassifying municipal → restricted-corporate next quarter (3 on her disappearance map). Nitro-ear onset: 3 weeks, right ear. Gauthier's two-week deadline long passed — operating independently. Feed language expanded from single junctions to "five sectors."
 
 ---
@@ -807,10 +808,11 @@ This bible dimension tracks **current character states**:
 **Speech Register:** Calm, transactional, occasionally sardonic. Speaks in prices and probabilities. Emotion surfaces only when someone wastes her time or threatens her node. Age indeterminate (augmentation).
 
 **Appearances:**
-- Last Appearance: Chapter 9 — "Dead Drop" (first on-page)
-- Next Planned Appearance: Mirelle's Phase 2 investigation scenes
+- Last Appearance: Chapter 13 — "The Pattern"
+- Next Planned Appearance: Mirelle's Phase 2-3 investigation scenes
 
 **Recent History:**
+- Ch 13: Second on-page appearance. Operation visibly expanded: more hardware, more heat shielding, relay chassis being rebuilt. Different face at the counter (not the same attendant as Ch 9). Back room warmer — more equipment generating heat. Reviewed Mirelle's demographics data, identified clustering pattern. Warned Mirelle: "You're building a target on your chest." Delivered Arctic-7 chip (pages 12-31). Rules recited as ritual. "The data is the data." Turned back to chassis work after exchange.
 - Ch 9: First on-page appearance. Met Mirelle at her Resonance District node (repair shop front, insulated back room). Reviewed Mirelle's 16-disappearance dataset, confirmed geographic pattern. Registered dead-hand protocol (72h rolling, Client: M, Node RD-14). Charged Babel price: anonymized source network metadata. Tipped Mirelle about 7 junction reclassifications (free — "the chaos you create is good for business"). Read Mirelle's urgency: "You're not sure you'll be around when it is." Declined emotional investment: "I'm a node, not a mourner."
 
 ---
