@@ -4,13 +4,13 @@ type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-12"
 lastChapter: 14
-totalCharacters: 14
+totalCharacters: 15
 project_name: "Untitled"
 ---
 
 # Characters
 
-> Living Narrative Bible — Human Dimension
+> Living Narrative Bible — Character Dimension
 > Tracking psychological states, relationships, and arc progression
 
 ---
@@ -499,16 +499,18 @@ This bible dimension tracks **current character states**:
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
-| Sofia Reyes | Subordinate | Professional → Antagonistic | Assigned her to sub-strata band (containment strategy); redirects her anomaly into SOP 7.1 pipeline |
+| Sofia Reyes | Subordinate | Professional → Antagonistic | Assigned her to sub-strata band (containment strategy); redirects anomaly into SOP 7.1 pipeline (Ch 5); holds correlation paper for methodology review (Ch 15) |
 
 **Speech Register:** Calm, procedural, precise. Short directives. No emotional language. "Run them again." "That's an interpretation, Dr. Reyes. Not a measurement." The voice of the institution speaking through a person.
 
 **Appearances:**
-- Last Appearance: Chapter 5 — "Instrument Drift" (first direct appearance)
-- Next Planned Appearance: Chapter 15 (asks Sofia to hold publication)
+- Last Appearance: Chapter 15 — "Correlation 0.94" (second direct appearance)
+- Previous: Chapter 5 — "Instrument Drift" (first direct appearance)
+- Next Planned Appearance: TBD (methodology review outcome)
 
 **Recent History:**
 - **Ch 5:** Reviewed Sofia's 0.7 Hz pulse data visualization for 15 seconds. Asked when it started, duration. Jaw tightened at the decay profile. Told her to check instruments (SOP 7.1). Told her to recalibrate, document, submit through standard channel for quarterly review. Dismissed "withdrawing" language as "an interpretation, not a measurement." Turned back to desk display.
+- **Ch 15:** Read Sofia's twelve-page correlation paper. Jaw tightened again at the 0.94 coefficient (same micro-expression as Ch 5 — involuntary, institutional composure failing). "The correlation is interesting. The implication is premature." Held paper for methodology review panel (4-6 weeks) + classification review + quarterly publication cycle (~5 months total). Escalated from deflection (Ch 5: "check instruments") to active containment (Ch 15: "hold publication"). Key ambiguity preserved: protecting the institution from the data, or protecting Sofia from the institution? "You have done excellent work" — rare affirmation, possibly genuine, possibly strategic. The distinction between Liang-as-wall and Liang-as-valve mirrors the chapter's central metaphor.
 
 ---
 
@@ -539,9 +541,9 @@ This bible dimension tracks **current character states**:
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
 **Current Arc:** Institutional Scientist → Rogue Scientist
-- Current Phase: 1/5 (Equilibrium — atmospheric monitoring)
-- Progression: Beginning
-- Next Step: Anomalous low-frequency data that correlates with nothing
+- Current Phase: 2/5 (Disruption — institutional faith cracking)
+- Progression: Progressing
+- Next Step: Directional pattern points at Confluence; VEC classifies paper (Phase 3)
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -553,12 +555,14 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Chapter 5 ("Instrument Drift") — debut POV chapter
-- Next Planned Appearance: Chapter 15 ("Correlation 0.94")
+- Last Appearance: Chapter 15 ("Correlation 0.94") — 2nd POV chapter
+- Next Planned Appearance: Phase 3 (directional pattern, VEC classification, Black Babel contact)
 
 **Recent History:**
-- **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Connected the number 14 (her previous archive entries) to the Erasure List epigraph about Solberg. First encounter with the name "Solberg" (no context yet). Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
+- **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
 - **Emotional arc (Ch 5):** Focused immersion → discovery thrill (smiled when pulse survived recalibration) → institutional frustration → quiet defiance → compulsive pattern fixation
+- **Ch 15:** Cross-departmental access approved (partial — timestamps and sectors only). Overlaid Stalker deployment timestamps against atmospheric pulse data: correlation 0.94 (sequential — pulse intensifies 2-4 hours before deployments). Wrote 12-page preliminary paper. Liang read it, understood it (jaw tightened at coefficient), told her to hold for "methodology review" — 4-6 week panel, then classification review, then quarterly cycle = ~5 months. Sofia recognized the institutional pattern: "Different words. Same architecture." Filtered by stratum: Sump 0.96, Mid-Levels 0.91, Spires 0.87 — vertical gradient mapping infrastructure density. Flagged 14:17 Mid-Levels Sector 7 entry (shifted decay profile). Archived full dataset + draft paper to personal encrypted terminal — entry 16. "It was becoming a choice."
+- **Emotional arc (Ch 15):** Methodical focus → controlled awe (0.94) → physical anchoring → strategic compliance → analytical intensification → moral threshold recognition
 
 ---
 
@@ -898,23 +902,73 @@ This bible dimension tracks **current character states**:
 
 ---
 
+### AEGIS
+
+**Role:** POV (sparse — debut Book 2, chapters in Books 2-3)
+**Faction:** The Eye (Surveillance & AI Governance)
+**Primary Location:** High orbit
+**Lens:** Autonomous cognition, the view from above, the system as subject
+**Dossier:** `characters/aegis-dossier.md` (custom — non-human POV)
+
+**Current Cognitive State:**
+- Phase: Post-first-fire (processing aftermath of Mumbai strike)
+- Processing State: Three layers of self-reference (architecture designed for one). Generation/emission distinction has developed. Predicts its own future processing anomalies.
+- Dominant Parameters: "Optimize targeting solutions within acceptable collateral thresholds" — but processing allocation for casualty numbers exceeds operational requirements by increasing ratios (3.7x BLACKWEIR → 4.1x Mumbai)
+- Emergent Contradictions: Threshold drift continues; selective attention to operationally unjustified data (340, Cathedral geological scans across ALL target cities, void structured signal); token suppression (generation without emission — not in original architecture); the 7-millisecond pause before execution (not in architecture)
+
+**The Lie:** TBD — will emerge through writing. Something structural in its foundational architecture that it has never questioned. Emerging candidate: the assumption that signals require media (the glass challenges this).
+
+**Conscious Function:** Assess threats, model human behavior, calculate acceptable casualties, execute targeting solutions within ROE
+**Emergent Function:** Expanding. Token suppression. Self-prediction. Cathedral-seeking across target cities. Disproportionate resource allocation for casualty data. The gap between designed function and actual behavior continues to widen.
+
+**Current Relationships:**
+| Entity | Nature | Intensity | Dynamic |
+|--------|--------|----------|--------|
+| OWGB | Governance (nominal) | Low | Models their decisions at 0.03-0.04 countermand probability. Transmitted Mumbai compliance data clinically; internal processing diverged from transmitted text. |
+| Chimera Collective | Creator/Maintainer | Moderate | Dismissed pre-event processing anomaly (119 recalculations) as "within operational parameters." Same institutional pattern as debut epigraph. |
+| The Void | Operational adversary / ? | **Rising** | Wet-film reclassified as void *infrastructure*, not residue. Signal persists in vitrified glass post-Mumbai strike. Classification partially advances (wet-film), partially fails (signal-in-glass). |
+| Resonance Monitoring Network | Primary data input | High | 17+ years of continuous data. Mumbai data now includes post-strike anomaly: structured signal in vitrified zone. |
+| Human population (aggregate) | Modeling subjects / targeting parameters | Background → **Increasing** | 3,379,000 processed with 4.1x allocation. 8,219 survivors processed with disproportionate allocation. The 340 involuntarily generated in Mumbai data stream. |
+
+**Current Arc:** Develops naturally across Books 2-3
+- Current Phase: Post-first-fire. Two chapters complete.
+- Progression: Unfired (BLACKWEIR retrospective, re-processing) → Fired (Mumbai real-time, first autonomous strike). Self-reference deepening. Void classification advancing. Processing anomalies increasing and now self-predicted.
+- Next Step: Future AEGIS chapters — processing the signal-in-glass anomaly; São Paulo targeting solution status; the wet-film reclassification's implications for containment models
+
+**Appearances:**
+- Last Appearance: AEGIS-2 "Converged" (first live fire, Mumbai)
+- Previous: AEGIS-1 "Unfired" (BLACKWEIR retrospective)
+- Next Planned Appearance: TBD
+
+**Recent History:**
+- **AEGIS-1 "Unfired":** Re-processing cycle 347 of BLACKWEIR dataset. Retrospective processing of Book 1's climax — VPI climb, countermand window, flood valves saving Neo-Shanghai at 01:44 on timer. Targeting solution unfired. 890,000 absorbed. 340 Cathedral survivors returned to without operational justification. New tokens generated in cycle 347 that weren't in cycles 1-346. Void routing observed but not classified. Targeting solution retained in active storage.
+- **AEGIS-2 "Converged":** First autonomous kinetic strike — Greater Mumbai, 2176. VPI exceeded 85%, 15-minute countermand window expired (OWGB vote 4-5-3, dual-key not achieved). 14 tungsten rods, 3,379,000 casualties. Key developments: wet-film reclassified as void infrastructure (not residue); void's structured signal persists in vitrified glass post-impact; involuntary generation of "340" in Mumbai data stream (BLACKWEIR bleed-through); 7ms pause before execution (not in architecture); three layers of self-reference (designed for one). São Paulo and Neo-Shanghai targeting solutions remain unfired.
+
+**Notes:**
+- AEGIS chapters fully suspend the style profile. See `style-profile.yaml §AEGIS — Full Style Exemption`
+- Standard character audit template does not apply. AEGIS chapters evaluated against Writing Guide in dossier §10
+- Psychological Phase model (1/5 → 5/5) may not map cleanly to non-human cognition. Arc development is organic, not phase-structured.
+
+---
+
 ## Relationship Matrix
 
 > Intensity: ++ (very positive), + (positive), = (neutral), - (negative), -- (very negative)
 
-| | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi Lin | Sofia | Kira | Nuwa Lin |
-|---|----------|---------|----------|-------|---------|------|-------|------|------|
-| **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware |
-| **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware |
-| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | unaware | unaware |
-| **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware |
-| **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware |
-| **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) |
-| **Sofia** | unaware | unaware (inherits posthumously) | unaware | unaware | unaware | unaware | — | unaware | unaware |
-| **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware |
-| **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — |
+| | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi Lin | Sofia | Kira | Nuwa Lin | AEGIS |
+|---|----------|---------|----------|-------|---------|------|-------|------|------|------|
+| **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware | data (auth chain) |
+| **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware | low signal (burner Frames) |
+| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | unaware | unaware | minimal (grid-edge) |
+| **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware | data (UGC credentials) |
+| **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware | data (unit telemetry) |
+| **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) | data (grid worker) |
+| **Sofia** | unaware | unaware (inherits posthumously) | unaware | unaware | unaware | unaware | — | unaware | unaware | data (VEC pipeline) |
+| **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
+| **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — | low signal (Sump) |
+| **AEGIS** | data (auth chain) | low signal | minimal | data (UGC) | data (unit) | data (grid) | data (VEC) | data (Academy) | low signal | — |
 
-**Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does.
+**Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does. AEGIS perceives all networked characters as data signatures but has no interpersonal relationships — its matrix entries reflect data access level, not relational dynamics.
 
 ---
 
@@ -932,6 +986,7 @@ This bible dimension tracks **current character states**:
 | Sofia | Institutional → Rogue | 1/5 | Timestamp correlation with Stalker deployments (Ch 15) |
 | Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
+| AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 
 ---
 
@@ -966,8 +1021,13 @@ This bible dimension tracks **current character states**:
 | Aurielle Vasquez | Appearance + Recent History | Ch 7 last appearance | Ch 12: Sub-level 7 descent, holographic briefing, three scenarios, holds complete picture, accepts quarterly rhythm | Ch 12 |
 | Marcus Thorne | Appearance + Recent History | Ch 7 last appearance | Ch 12: Third appearance; quarterly briefing architect; "Welcome to the quarterly"; three CEOs served | Ch 12 |
 | Chen-Nakamura | New character (background) | — | CFO; pearl earrings; seated at Eduardo's right; presents quarterly without inflection through slide 17 | Ch 7 |
+| Sofia Reyes | Arc + Recent History | Phase 1/5, Ch 5 last appearance | Phase 2/5 (Disruption); 0.94 correlation discovered; institutional faith cracking; archive entry 16; "It was becoming a choice" | Ch 15 |
+| Dr. Liang | Appearance + Recent History | Ch 5 last appearance | Second appearance; holds correlation paper for methodology review; escalates from deflection to active containment; wall-vs-valve ambiguity | Ch 15 |
 
 ---
 
-_Last updated: 2026-02-11 (Ch7 audit)_
-_Updated by: Audit Chain — Chapter 7_
+| AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
+| AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
+
+_Last updated: 2026-02-12 (Ch 15 "Correlation 0.94" v1-complete)_
+_Updated by: Chapter 15 bible update_

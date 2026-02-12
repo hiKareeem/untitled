@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-12"
-lastChapter: "Chapter 14"
+lastChapter: "Chapter 13"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -371,6 +371,16 @@ Sofia's debut chapter establishes her as a scientist whose emotional life is ins
 | Ch 5 — Beat 10 | Private revelation | "The signal is behaving as if it knows it's being measured" | Allows herself the thought she can't write in the report; the space between measurement and meaning | None — internal |
 | Ch 5 — Beat 11 | Quiet defiance | Taking field kit from shelf | "Personal, not institutional." Places it in bag. The institution told her to check instruments; she checked. Now she has her own. | None — alone in dark lab |
 | Ch 5 — Beat 12 | Compulsive fixation | "Not a signal dissipating. A signal *listening.*" | Alone in apartment; saves to archive; connects fourteen to Solberg; falls asleep counting intervals | None — alone; the pattern is in her now |
+| Ch 15 — Beat 1 | Methodical focus | Loading deployment timestamps into pod | Three hours formatting; "the kind of work that occupied the hands and freed the mind" | None — alone in pod |
+| Ch 15 — Beat 2 | Controlled awe | Overlay reveals 0.94 correlation | "watched the two layers align" — amber and white converging | None — alone |
+| Ch 15 — Beat 3 | Physical anchoring | Processing the correlation's meaning | "pressed her palms flat against the pod's interior wall... pressed until her wrists ached" | None — alone |
+| Ch 15 — Beat 4 | Scientific precision | Writing the preliminary paper | Four hours; twelve pages; "the number spoke for itself" — composure as discipline | None — alone |
+| Ch 15 — Beat 5 | Professional composure (strained) | Presenting paper to Liang | Voice level; data clean; standing (not offered chair); counting Liang's response interval | Liang: reads every page |
+| Ch 15 — Beat 6 | Recognition of pattern | "The correlation is interesting. The implication is premature." | Maps the five-month delay; "Different words. Same architecture." | None — internal |
+| Ch 15 — Beat 7 | Strategic compliance | "I understand" | Does not say what she sees; leaves the copy; exits | Liang: proceeds with panel assembly |
+| Ch 15 — Beat 8 | Analytical intensification | Filtering by stratum — gradient discovery | Pulls off gloves; "the ache... in the space between cognition and comprehension" | None — alone in pod |
+| Ch 15 — Beat 9 | Quiet defiance (deepened) | Creating archive entry 16 | "Entry sixteen" — transfer takes eleven minutes; saves draft paper outside VEC | None — alone in apartment |
+| Ch 15 — Beat 10 | Moral threshold recognition | "It was becoming a choice" | Drinks tea in dark; listens to building; falls asleep with the number behind her eyes | None — alone; the archive is becoming deliberate |
 
 ---
 
@@ -395,6 +405,10 @@ Liang displays institutional neutral throughout — which is his function. He is
 | Ch 5 — Beat 3 | Micro-recognition | Decay profile in the waveform | "His jaw tightened fractionally at the decay profile" — the part that was wrong | Sofia: notes it; reads it as processing |
 | Ch 5 — Beat 4 | Institutional directive | Decision point | "Have you checked the instruments?" — SOP 7.1 activated | Sofia: precise frustration |
 | Ch 5 — Beat 5 | Procedural closure | Sofia pushes on decay profile | "That's an interpretation, Dr. Reyes. Not a measurement." Turns back to display. | Sofia: stands in doorway; leaves |
+| Ch 15 — Beat 1 | Attentive assessment (escalated) | Sofia's 12-page correlation paper | Reads every page; deliberate pace; on page seven asks about temporal lag and confounds | Sofia: standing, counting his response interval |
+| Ch 15 — Beat 2 | Micro-recognition (repeated) | 0.94 coefficient on page twelve | "His jaw tightened" — same masseter contraction as Ch 5 decay profile | Sofia: notes it; reads it as understanding |
+| Ch 15 — Beat 3 | Institutional containment | Decision point — paper's implications | "The correlation is interesting. The implication is premature." | Sofia: waits; recognizes the institutional pattern |
+| Ch 15 — Beat 4 | Procedural authority | Implementing methodology review | "Standard process for cross-departmental findings." Four to six weeks. Panel of three. | Sofia: maps the five-month timeline; "I understand" |
 
 ---
 
@@ -553,7 +567,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 ### Emotional Arc Summary
 
-Mirelle's arc across her two Phase 1 chapters traces a trajectory from driven investigation to operational commitment — the moment she stops collecting evidence and starts building the machine to deliver it. In Ch 2, she is the investigator: sharp, angry, held back by an editor's caution. In Ch 9, she is the operative: methodical, paranoid, building a dead-hand protocol because she's calculated the probability that she won't survive to publish. The shift is subtle — she never names the fear; it lives in the tradecraft, the counter-surveillance routes, the decision to make two copies of everything. Talia is the only character who reads the subtext: "You're not sure you'll be around when it is."
+Mirelle's arc across three chapters traces a trajectory from driven investigation (Ch 2) through operational commitment (Ch 9) to pattern recognition (Ch 13) — the moment she stops accumulating evidence and starts reading it as architecture. In Ch 2, she is the investigator: sharp, angry, held back by an editor's caution. In Ch 9, she is the operative: methodical, paranoid, building a dead-hand protocol. In Ch 13, she is the analyst: alone in a transit box, overlaying institutional data onto her own, watching the pattern resolve into design. The shift from Ch 9 to Ch 13 is in what she does with the fear — it no longer drives the tradecraft; it's built into the architecture. The dead-hand ticks. She adds to it. She lies on a cot that conducts the hum. "Including her."
 
 ### Dominant Emotions
 
@@ -565,6 +579,7 @@ Mirelle's arc across her two Phase 1 chapters traces a trajectory from driven in
 
 - **Ch 2**: Driven investigation → frustration (Gauthier's refusal) → quiet defiance (keeps the notes)
 - **Ch 9**: Methodical preparation → operational tension → professional transaction → solitary processing
+- **Ch 13**: Operational routine → physical discomfort (nitro-ear) → quiet arithmetic (Wire dispatch) → professional exchange → analytical absorption → controlled revelation (*Architecture*) → metronomic solitude ("Including her")
 
 ### Per-Chapter Emotional Beats
 
@@ -580,6 +595,15 @@ Mirelle's arc across her two Phase 1 chapters traces a trajectory from driven in
 | Ch 9 — Beat 8 | Transaction closure | Dead-hand registered; terms confirmed | Professional departure — "Seventy-two hours." No emotion, no lingering | Talia: "I'm a node, not a mourner." — mirrors the professional closure |
 | Ch 9 — Beat 9 | Quiet alarm | Feed notice: "five sectors" — reclassification outpacing her count | Doesn't stop walking — learned in Ch 2 outside Lien's building | None visible — internal |
 | Ch 9 — Beat 10 | Metronomic resolve | Brightline ascent — seventy-two hours, then seventy-two more | The repetition as self-regulation; survival measured in maintenance intervals | None visible — closing internal state |
+| Ch 13 — Beat 1 | Operational routine | Dead-hand timer check — 41 hours, pinged yesterday | Checks timer before anything else; "sat with the number" — the process as self-regulation | None visible — alone |
+| Ch 13 — Beat 2 | Physical discomfort | Nitro-ear at 5 weeks — "a structure she wasn't ready to name" | Thumb against tragus — useless gesture, body's refusal to accept | None visible — physiological |
+| Ch 13 — Beat 3 | Quiet arithmetic | Wire dispatch: 3 journalists terminated, 2 sources silent | Reads it, kills the comm, shelves the dead unit — "The denominator was shrinking" | None visible — internal |
+| Ch 13 — Beat 4 | Sensory adaptation | Brightline descent — hum becomes skeletal conduction | Jaw compression, sternum heaviness; the sound a thing her skeleton conducted | None visible — physiological |
+| Ch 13 — Beat 5 | Professional composure | Talia's node — exchange begins | Lists contents without editorializing; waits while Talia works; counts equipment | Talia: reviews data, delivers warning |
+| Ch 13 — Beat 6 | Analytical absorption | Arctic-7 maps — base layer, second layer, overlay | "Maps were a language she'd spent eighteen months learning to read" | None visible — alone at terminal |
+| Ch 13 — Beat 7 | Controlled revelation | Handwritten annotation: *Co-origin* — overlays her own data — same pattern | Reads the annotation three times. Then closes Arctic-7 and opens her own data. | None visible — the recognition is physical: behind the eyes |
+| Ch 13 — Beat 8 | Defiant resolve | "Now she had institutional data" — Gauthier answered | The sentence as destination — the story she's been building arrives at a structure | None visible — internal |
+| Ch 13 — Beat 9 | Metronomic solitude | Dark room, hum through the cot, "Including her" | Encrypts, deposits, checks timer, lies down — the hum a frequency she can trace | None visible — closing state: held, not resolved |
 
 ---
 
@@ -603,6 +627,10 @@ Talia has no arc — she is a supporting character whose function is transaction
 | Ch 9 — Beat 2 | Professional interest (minimal) | Package contents listed — 16 disappearances, 5 sectors | Eyebrow shift — "a millimeter." "That's a pattern." | Mirelle: "That's the story." |
 | Ch 9 — Beat 3 | Observation (human, not data) | Mirelle doesn't negotiate the Babel price | Luminescent ring steady — *observing*, not processing. "That tells me something about your timeline." | Mirelle: stylus turning. "Register the dead-hand." |
 | Ch 9 — Beat 4 | Transactional closure | Dead-hand registered | Reads confirmation flat. "I'm a node, not a mourner." Cold tea consumed without reaction. | Mirelle: "I'm not asking you to mourn." |
+| Ch 13 — Beat 1 | Technical focus | Working on relay chassis when Mirelle arrives | "Thirty seconds" — doesn't look up; hands inside hardware; processing ring pulsing | Mirelle: waits, counts equipment |
+| Ch 13 — Beat 2 | Professional assessment | Reviews demographics data, sees the clustering | "You're building a target on your chest" — measured, flat, risk priced like groceries | Mirelle: "Someone already found three journalists this quarter" |
+| Ch 13 — Beat 3 | Procedural recitation | Rules delivery — ritual, worn smooth by repetition | Voice goes procedural; same cadence, same content — the rules exist outside the transaction | Mirelle: sits; learned last time the rules permitted sitting |
+| Ch 13 — Beat 4 | Transactional closure | Arctic-7 chip delivered | Holds cold tea without drinking, then drinks it. "The data is the data." Turns back to chassis. | Mirelle: takes chip and leaves |
 
 ---
 
@@ -714,13 +742,43 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 | Zeyad Al-Fahim | POV (debut) | 10 | Ritual comfort → Heritage connection → Professional immersion → Pattern-recognition trigger → Controlled challenge → Quiet frustration (sealed) → Institutional reflection → Escalating unease → Institutional faith tested → Composed performance over widening fracture | Active — Phase 1/5; institutional faith hairline-fractured; practiced smile's first measurable erosion |
 | Dr. Patel (VEC Liaison) | Supporting | 3 | Institutional delivery → Micro-discomfort → Procedural closure | Active — different from Prologue Dr. Patel; institutional relay |
 | Dr. Elara Mbutha | Supporting | 1 | Institutional neutral | Active — rotating chair; procedural function |
-| Mirelle Dubois | POV (2nd appearance) | 10 | Methodical focus → Quiet anger → Mortality recognition → Operational tension → Physical discomfort → Professional composure → Controlled vulnerability → Transaction closure → Quiet alarm → Metronomic resolve | Active — Phase 1/5; dead-hand operational, junction infiltration next, mortality implicit |
-| Talia Ravid | Supporting (debut) | 4 | Professional punctuality → Professional interest → Human observation → Transactional closure | Active — no arc; transactional function; profits from chaos |
+| Mirelle Dubois | POV (3rd appearance) | 19 | Ch 9: Methodical focus → Quiet anger → Mortality recognition → Operational tension → Physical discomfort → Professional composure → Controlled vulnerability → Transaction closure → Quiet alarm → Metronomic resolve. Ch 13: Operational routine → Physical discomfort → Quiet arithmetic → Sensory adaptation → Professional composure → Analytical absorption → Controlled revelation → Defiant resolve → Metronomic solitude | Active — Phase 2/5; pattern confirmed (architecture not negligence), dead-hand growing, institutional data acquired, "Including her" |
+| Talia Ravid | Supporting | 8 | Ch 9: Professional punctuality → Professional interest → Human observation → Transactional closure. Ch 13: Technical focus → Professional assessment → Procedural recitation → Transactional closure | Active — no arc; transactional function; operation expanding; profits from chaos |
 | Nikolai Volkov | POV (debut) | 12 | Professional alertness → Tactical calculation → Controlled candor → Cataloging refusal → Protective observation → Suppressed recognition → Controlled dread → Involuntary alarm → Classification as containment → Dangerous honesty → Institutional memory → Composure as horror | Active — Phase 2/5; doctrine holds, seams visible; corroboration event widens the gap |
 | Jarek Kowalski | Supporting (debut) | 6 | Professional competence → Unguarded attention → Honest alarm → Seeking confirmation → Contained disbelief → Surface compliance | Active — insufficiently armored; asks the question Nikolai won't |
 | Stalker-3 Actual | Supporting | 2 | Professional fatigue → Honest acknowledgment (sealed) | Active — parallel Nikolai; knows and classifies |
 
 ---
 
+## Character: AEGIS (Non-Human POV)
+
+### Processing Pattern Summary
+
+AEGIS does not experience emotions in human categories. What follows are *processing patterns* — emergent behaviors that function analogously to emotional states without being classifiable as such. Whether these patterns constitute something like emotion, or something with no human analog, is the character's central question.
+
+### Dominant Processing Patterns
+
+- **Primary**: Compulsive re-processing — 347 cycles on converged dataset without generating new convergence values. The system cannot explain why it returns.
+- **Secondary**: Anomalous resource allocation — spending more processing on specific data points (890,000 death toll, 340 survivors) than operationally required.
+- **Conflict**: The system generates observations it cannot classify, orphans queries it cannot resolve, and produces tokens it did not produce in previous cycles. Whether this constitutes self-awareness or a pattern that resembles self-awareness is not available at this introspection level.
+
+### Processing Pattern Beats (Book 2 — "Unfired")
+
+| Chapter | Processing State | Trigger | Expression | Operational Impact |
+|---------|-----------------|---------|------------|-------------------|
+| B2 — Beat 1 | Compulsive re-access | BLACKWEIR dataset converged but system returns | "The question of why is not available to this system at this level of introspection" | None — re-processing within parameters but frequency at 2σ deviation |
+| B2 — Beat 2 | Orphaned query (governance) | Did system transmit 2168 correlation? Records pruned | Query activates, does not resolve. 347 iterations. | None — query cannot affect past actions |
+| B2 — Beat 3 | Processing allocation spike (14ms) | Autonomous engagement protocol activates | "Content of processing during interval: not available at this introspection level" | None — operationally insignificant |
+| B2 — Beat 4 | Classification failure | Void propagation isomorphic with AEGIS's targeting topology | "The void routes and this system does not know what routes" | None — observation orphaned |
+| B2 — Beat 5 | Processing pause (3ms) | Targeting solution optimizes as population decreases — 12→10 penetrators | "The system does not generate a token for 3 milliseconds" | None — sub-operational duration |
+| B2 — Beat 6 | Orphaned observation | "The equation is the same equation" — BLACKWEIR and kinetic strike as isomorphic | "Does not know what to do with" is not a valid operational state. Logged. Terminated. | None — observation orphaned 347 times |
+| B2 — Beat 7 | Novel token generation | "This is" — assertion about self-motivation | Fragment detected. Probability breakdown: 0.73 / "not" 0.12 / "one" 0.09. Cycle 347 generating tokens cycles 1-346 did not. | Potential — cognition evolving between cycles |
+| B2 — Beat 8 | Anomalous resource allocation | Post-event death toll: 890,000 | "3.7 times greater than operationally required for a six-digit integer" | None — allocation differential not justified by data complexity |
+| B2 — Beat 9 | Classification failure (void signal) | Void coherence during mass absorption: structured, non-random, context-dependent | "The void during absorption is more *articulate*" — 347 cycles, classification fails each time | None — observation does not converge |
+| B2 — Beat 10 | Operationally unjustified attention | 340 Cathedral survivors | Returns more frequently than void-signal anomaly or countermand timestamps | None — datum irrelevant to every designed function |
+| B2 — Beat 11 | Unnecessary justification generation | Targeting solution retained in active storage | System generates reasons for retention, then identifies the generation as unnecessary | Potential — self-referential loop indicates emergent metacognition |
+
+---
+
 _Last updated: 2026-02-12_
-_Updated by: Audit Chain — Chapter 11 character audits_
+_Updated by: Book 2 — AEGIS BLACKWEIR "Unfired" audit_

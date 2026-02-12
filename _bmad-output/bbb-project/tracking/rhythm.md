@@ -1404,6 +1404,100 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 13 — Mirelle: "The Pattern"
+
+**Phase:** 2 | **Mode:** TEXTURE (investigative/analytical) | **Date analyzed:** 2026-02-12
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,200 | 4,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~20% | 10–25% | ✅ |
+| Avg sentence length | ~13 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~20% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+ 9 |
+ 8 |                              ●
+ 7 |                            ╱    ╲
+ 6 |                     ●────╱        ╲
+ 5 |                   ╱                  ╲
+ 4 |         ●───────╱                      ●
+ 3 |  ●─────╱
+   +─────────────────────────────────────────
+     Sc1      Sc2      Sc3          Sc4
+```
+
+- **Opening:** 3/10 — Operational: dead-hand check, transit box inventory, Wire dispatch
+- **Midpoint:** 6/10 — Exchange: Talia's node, demographics-for-Arctic-7 trade, "building a target" warning
+- **Peak:** 8/10 — Recognition: Arctic-7 overlay confirms co-origin, pattern resolves as architecture
+- **Closing:** 4/10 — Metronomic: dark room, dead-hand deposit, "Including her"
+- **Shape:** Slow accumulation → analytical climax → quiet descent. Investigation as tension engine.
+
+### Beat Map
+
+1. [3%] HOOK — Dead-hand timer: 41 hours → +1
+2. [8%] TEXTURE — Transit box established: salvage terminal, comm shelf, vibrating walls → 0
+3. [12%] COMPLICATION — Nitro-ear at 5 weeks: "a structure she wasn't ready to name" → +1
+4. [18%] CONTEXT — Wire dispatch: 3 journalists terminated → +1
+5. [25%] TRANSITION — Brightline descent: hum becomes skeletal → 0
+6. [30%] TEXTURE — Resonance District: counter-surveillance landscape → 0
+7. [35%] EXCHANGE — Shop entry: passphrase, different face, warmer room → +1
+8. [42%] EXCHANGE — Talia standing, working: demographics-for-Arctic-7 trade → +1
+9. [50%] WARNING — "You're building a target on your chest" → +1
+10. [55%] RITUAL — Rules recited: worn smooth by repetition → 0
+11. [60%] REVEAL — Arctic-7 chip: pages 12-31, unnamed research lead → +1
+12. [70%] REVEAL — Maps align: throughput = breach geography → +2
+13. [78%] CLIMAX — *Co-origin* annotation + own data overlay → MAX
+14. [82%] REVELATION — "Architecture." The system performing as built. → −1
+15. [88%] RESOLUTION — "Now she had institutional data" → −1
+16. [95%] AFTERMATH — Dark room, deposit, "Including her" → −2
+
+**Beat density:** 1 per ~260 words — high, driven by the dual-scene structure (exchange + analysis)
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Action cut ("took the stairs" → descent) | 8/10 |
+| Scene 2→3 | Spatial continuation (shop entry) | 9/10 |
+| Scene 3→4 | Spatial reversal ("Different route back" → transit box analysis) | 9/10 |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9 |
+| Paragraph variation | 9 |
+| Scene transitions | 9 |
+| Tension pacing | 8 |
+| Dialogue integration | 8 |
+| **Overall Flow** | **8.6** |
+
+### Action/Reflection Balance
+
+- **Action:** 25% (descent, shop entry, exchange, ascent)
+- **Reflection:** 75% (transit box processing, Arctic-7 analysis, pattern assembly, deposit)
+- **Assessment:** Reflection-heavy, appropriate for investigative/analytical TEXTURE. The data IS the action.
+
+### Pacing Notes
+
+- **Strengths:** The four-movement structure (transit box → descent → exchange → analysis) creates a clean narrative arc where each movement builds on the previous. The analytical climax (overlay scene) is the chapter's true action sequence — each data layer adds tension without physical movement. Bimodal paragraphs (dense maps + "Maps." as single-word punch) create the Mirelle-specific rhythm. The return-visit handling of Talia's node is efficient — 3 sentences on entry, focus on what's changed.
+- **Concerns:** None significant. The ~20% dialogue is appropriate for a chapter that's 50% Talia exchange and 50% solo analysis. The solo analysis scene is long but structured by the layer-by-layer data reveal.
+- **Recommendations:** This chapter establishes Mirelle's Phase 2 TEXTURE subtype: **investigative/analytical** (data as tension, geographic overlay as climax, pattern recognition as resolution). Future Mirelle chapters should maintain this rhythm but escalate — Ch 21 at city scale, Ch 34 as final cache.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE mode, 4-5K words)
+- Adjacent chapter contrast: ✅ (Ch 12 = Aurielle/PRESSURE → Ch 13 = Mirelle/TEXTURE — mode shift from institutional-analytical to investigative/analytical)
+
+---
+
 ## Chapter 14 — Nephthys: "The Commune"
 
 **Phase:** 2 | **Mode:** TEXTURE (theological/communal) | **Date analyzed:** 2026-02-12
@@ -1486,6 +1580,91 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 15 — Sofia: "Correlation 0.94"
+
+**Phase:** 2 | **Mode:** TEXTURE (scientific/institutional) | **Date analyzed:** 2026-02-12
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,200 | 4,000–5,000 | ✅ (slightly over) |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~55 | — | — |
+| Dialogue % | ~12% | 10–20% | ✅ |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~20% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+ 7 |                    ●
+ 6 |              ●───╱  ╲
+ 5 |            ╱          ╲
+ 4 |          ╱              ●───●
+ 3 |  ●─────╱
+   +─────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Scene 1 (Immersion pod):** 3→6/10 — Rising: correlation discovery builds through overlay, 0.94 reveal as climax
+- **Scene 2 (Liang's office):** 6→7/10 — Peak: institutional confrontation, methodology review hold
+- **Scene 3 (Monitoring lab):** 7→4/10 — Falling: gradient discovery deepens understanding but tension shifts to contemplation
+- **Scene 4 (Apartment):** 4/10 — Resolution: archiving, tea, the number behind her eyes
+
+### Beat Map
+
+| Beat | Position | Tension | Delta |
+|------|----------|---------|-------|
+| Deployment data loaded | 5% | 3 | — |
+| Overlay alignment | 15% | 5 | +2 |
+| "0.94" | 20% | 6 | +1 |
+| Paper written | 30% | 5 | -1 |
+| Liang reads | 40% | 6 | +1 |
+| "The implication is premature" | 50% | 7 | +1 |
+| "I understand" | 55% | 6 | -1 |
+| Gradient discovery | 65% | 5 | -1 |
+| 14:17 flagged | 75% | 5 | 0 |
+| Entry sixteen | 85% | 4 | -1 |
+| "It was becoming a choice" | 90% | 4 | 0 |
+| Falls asleep with the number | 100% | 3 | -1 |
+
+### Transitions
+
+- **Sc1→Sc2:** Section break. Pod to Liang's office — physical and institutional shift. Clean.
+- **Sc2→Sc3:** Section break. Office to monitoring lab — return to data space, mood shift from institutional confrontation to contemplation. Clean.
+- **Sc3→Sc4:** Section break. Lab to apartment — day to evening, institutional to personal. Clean transition through corridor/lift.
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph cadence | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 9/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.8/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 20% (data analysis, paper writing, Liang meeting, archiving)
+- **Reflection:** 80% (pattern recognition, institutional analysis, gradient contemplation, moral threshold)
+- **Assessment:** Reflection-heavy, appropriate for scientific/institutional TEXTURE. The data IS the action. Matches Ch 5's 20/80 balance.
+
+### Pacing Notes
+
+- **Strengths:** The four-scene structure mirrors Ch 5 exactly (pod → office → lab → apartment) — deliberate structural echo at escalated stakes. The correlation reveal at 20% is early, allowing the chapter's real tension to be the institutional response, not the discovery. Bimodal paragraphs strong: dense analytical blocks alternate with single-line punches ("0.94." / "Every time." / "The gradient was vertical." / "Sofia noticed." / "It mattered."). The vertical gradient as a new discovery within the contemplation scene prevents the back half from sagging. The wall/valve metaphor is the chapter's conceptual climax, placed at ~80% — late enough to feel earned.
+- **Concerns:** At ~5,200 words, slightly over the 4-5K target but justified by the four-scene structure and the density of new data. The chapter is dense with numbers (0.94, 0.96, 0.91, 0.87, 211, 138, 47, 26, 14:17) — appropriate for Sofia's scientific register but monitor for reader fatigue in future chapters.
+- **Recommendations:** This chapter confirms Sofia's TEXTURE subtype: **scientific/institutional** (data as tension, institutional response as pacing engine, dual-channel as structural device). The Ch 5 → Ch 15 structural echo should evolve in future Sofia chapters — same locations, escalating stakes, deepening institutional friction.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE mode, 4-5K words)
+- Adjacent chapter contrast: ✅ (Ch 14 = Nephthys/TEXTURE theological → Ch 15 = Sofia/TEXTURE scientific — different TEXTURE subtypes, different registers)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1505,7 +1684,11 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 12 | Aurielle | 5,400 | PRESSURE | 15% | 2→8→5 | 9.0 | 20/80 | ✅ |
 | 14 | Nephthys | 4,300 | TEXTURE | 25% | 3→7→4 | 8.6 | 15/85 | ✅ |
 | 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
-| 13,15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| 13 | Mirelle | 4,200 | TEXTURE | 20% | 3→6→8→4 | 8.6 | 25/75 | ✅ |
+| 15 | Sofia | 5,200 | TEXTURE | 12% | 3→7→4 | 8.8 | 20/80 | ✅ |
+| **B2: AEGIS-1** | AEGIS | 2,800 | N/A | 0% | 3→8→10→6→3 | 9.0 | 0/100 | ✅ |
+| **B2: AEGIS-2** | AEGIS | 3,400 | N/A | 2% | 3→5→7→10→8→3 | 9.2 | 0/100 | ✅ |
+| 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
@@ -1515,7 +1698,7 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 4/12 | 4/12 | 8.7 | 4.7 | 2P/2T | 📝 |
+| Phase 2 | 6/12 | 6/12 | 8.7 | 4.8 | 2P/4T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
@@ -1523,4 +1706,4 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 ---
 
 _Last updated: 2026-02-12_
-_Updated by: Chapter 14 rhythm analysis_
+_Updated by: Chapter 15 — "Correlation 0.94" rhythm analysis_

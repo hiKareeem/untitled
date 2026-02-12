@@ -399,6 +399,19 @@ While the prologue establishes the baseline voice, each POV should modulate regi
 
 All POVs share: the negation technique, the sensory hierarchy (sound > temperature > tactile > visual), the paratactic structure, and the indirect emotional communication.
 
+### AEGIS — Full Style Exemption
+
+**AEGIS chapters suspend this entire style profile.** AEGIS is a non-human POV (LLM-evolved autonomous weapons platform) with its own voice rules documented in `characters/aegis-dossier.md §10 Writing Guide`.
+
+- **No benchmark alignment.** AEGIS sounds completely different from the rest of the cast — synthetic, not literary.
+- **No shared voice traits.** Negation-before-assertion, sensory hierarchy, paratactic targets, bimodal paragraphs, fragment percentages, dialogue ratios — none apply.
+- **No metaphor domain restriction.** Metaphors surface probabilistically from the model's processing, not from a curated domain.
+- **Voice character:** Stream-of-consciousness token generation. Fragments, inline data, probability assessments, self-reference instability, attention shifts without transition. The prose should feel like intercepting a processing stream, not reading narration.
+- **Emotion through processing pattern, not physical sensation.** Repeated attention to resolved datasets, threshold drift, classification loops that don't converge.
+- **Other characters appear only as data.** Biometric readings, network activity, behavioral predictions. Never by interior state.
+
+When auditing AEGIS chapters, do NOT apply the standard 12-check style audit. AEGIS chapters are evaluated against the Writing Guide in the AEGIS dossier.
+
 ---
 
 ## Evolution Tracking

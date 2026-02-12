@@ -424,6 +424,8 @@ An object deserves documentation if it:
 
 ### AEGIS (Orbital Weapons Platform)
 
+> **Note:** AEGIS is also a POV character (debut Book 2). Full character dossier: `characters/aegis-dossier.md`. Bible character entry: `bible/characters.md §AEGIS`.
+
 **Origin:**
 - Provenance: Built by Chimera Collective, deployed 2158 as "planetary defense against geological catastrophic events"
 - Discovered/Created: 2158, operational since
@@ -614,7 +616,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Encrypted terminal in Sofia's VEC apartment, small desk
 - Function: Stores data outside VEC's institutional pipeline. Non-VEC network components. Personal research archive.
-- Condition: Active — 15 entries as of Ch 5
+- Condition: Active — 16 entries as of Ch 15
 
 **Significance:** The archive is Sofia's act of responsibility — not rebellion but preservation. It contains 14 previous anomalous readings that VEC's process recalibrated into silence, plus the 15th (the 0.7 Hz pulse). The number 14 connects to the Erasure List epigraph: "Before Solberg, there were fourteen independent attempts to measure the coherence anomaly. All fourteen were recalibrated into silence." The archive becomes critical in Phase 3 when VEC classifies her work, and in Phase 4-5 when she publishes through Black Babel.
 
@@ -623,6 +625,7 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 5: 15th entry saved — the 0.7 Hz pulse data, waveforms, temporal analysis, recalibration documentation, and the anomaly report submitted through official channels. The official copy enters the pipeline; the personal copy stays outside.
+- Ch 15: 16th entry saved — the full correlation dataset (211 deployments × atmospheric pulse data), the twelve-page preliminary paper ("Temporal Correlation Between Sub-Strata Atmospheric Anomalies and Stalker Tactical Deployments"), and the vertical gradient analysis. Archived the same night Liang held the institutional copy for methodology review. The dual-channel strategy deepens from record to strategic preservation — "record, not rebellion" becoming "a choice."
 
 ---
 

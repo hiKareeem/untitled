@@ -125,6 +125,15 @@ chapters:
     metaFile: "chapter-12-meta.yaml"
     mode: PRESSURE
 
+  chapter_13:
+    title: "The Pattern"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 4200
+    completedDate: "2026-02-12"
+    metaFile: "chapter-13-meta.yaml"
+    mode: TEXTURE
+
   chapter_14:
     title: "The Commune"
     status: v1-complete
@@ -132,6 +141,15 @@ chapters:
     wordCount: 4300
     completedDate: "2026-02-12"
     metaFile: "chapter-14-meta.yaml"
+    mode: TEXTURE
+
+  chapter_15:
+    title: "Correlation 0.94"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 5200
+    completedDate: "2026-02-12"
+    metaFile: "chapter-15-meta.yaml"
     mode: TEXTURE
 
   chapter_18:
@@ -143,8 +161,37 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 13, 15-17, 19-51, Epilogue
+# Chapters not yet written: 16-17, 19-51, Epilogue
 
-completedCount: 15
-totalWords: 76400
+# Book 2 Chapters
+  book2_aegis_blackweir:
+    title: "Unfired"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 2800
+    completedDate: "2026-02-12"
+    metaFile: "book2-aegis-blackweir-meta.yaml"
+    mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
+    notes: "AEGIS debut. BLACKWEIR callback. Style profile fully suspended. Evaluated against dossier §10 Writing Guide."
+
+  book2_aegis_converged:
+    title: "Converged"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 3400
+    completedDate: "2026-02-12"
+    metaFile: "book2-aegis-converged-meta.yaml"
+    mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
+    notes: "AEGIS second chapter. First live fire (Mumbai). Style profile fully suspended. Evaluated against dossier §10 Writing Guide."
+
+# Book 2-3 POV Addition
+# AEGIS (non-human POV — LLM-evolved autonomous weapons platform)
+# Debut: Book 2 (BLACKWEIR callback chapter)
+# Sparse chapters in Books 2-3
+# Dossier: characters/aegis-dossier.md (custom)
+# Style profile fully suspended for AEGIS chapters
+# POV count: 9 human + 1 non-human = 10 total (trilogy)
+
+completedCount: 19
+totalWords: 92000
 lastUpdated: "2026-02-12"

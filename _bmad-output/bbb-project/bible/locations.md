@@ -193,6 +193,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - Ch 5: Sofia detects anomalous 0.7 Hz pulse in VEC HQ sub-strata sensors. Liang deflects (SOP 7.1). Instruments fine. Personal archive entry #15.
+- Ch 15: Sofia discovers 0.94 correlation between atmospheric pulse and Stalker deployments. Liang holds paper for methodology review. Vertical gradient discovered: Sump 0.96, Mid-Levels 0.91, Spires 0.87. Personal archive entry #16.
 
 **Sub-Locations (established Ch 5):**
 - **VEC Atmospheric Monitoring Lab (35th floor):** 11 workstations in horseshoe around central holographic display (3m sphere, decorative, not used for real analysis). Immersion pods at each station. Sofia's pod at far end (chosen for isolation). Evening protocol dims lights.
@@ -557,9 +558,37 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Significance:** Kira's origin. Where she was trained to metabolize R3 nitro and use her abilities as performance spectacle. The pop-star pipeline for mages — different packaging from battlefield deployment, same extraction of a child's body for someone else's benefit.
 
-**Current State:** Operational
+**Current State:** Destroyed (within sterilization radius of AEGIS orbital strike, 2176)
 
-**Controlled by:** Varma Academy (institutional, corporate-affiliated)
+**Controlled by:** Varma Academy (institutional, corporate-affiliated) — pre-destruction
+
+---
+
+### Greater Mumbai Metropolitan Zone
+
+**Description:** Major vertical megacity in the South Asian Federation. First-generation conduit infrastructure (2050s trunk-lines, never fully retrofitted). Population ~3.4 million in target zone (corrected for Frame underpenetration). Vertical stratification follows the global megacity model: ground-level residential (0–50m), mid-altitude commercial/transit (50–500m), high-altitude corporate/elite (500m+). Unlike Neo-Shanghai, Mumbai's conduit walls are 23% thinner — never upgraded from first-generation specifications.
+
+**Void History:**
+- VPI exceeded 70% at timestamp 2175.079 (March 2175), entering AEGIS active-storage targeting
+- Sub-threshold breach activity over 14 years deposited wet-film residue throughout conduit network
+- Wet-film network denser than Neo-Shanghai's at equivalent VPI due to older infrastructure and neglected maintenance
+- AEGIS reclassification (2176): wet-film deposits are void *infrastructure*, not residue — the void built a network inside the human network
+- Void propagation followed residue, not conduits — no BLACKWEIR containment option (flood pressure would rupture first-generation conduit walls)
+- Absorption front: 55 m/s along wet-film pathways (faster than Neo-Shanghai)
+
+**Key Events:**
+- 2176.049: VPI exceeded 85%. AEGIS autonomous engagement protocol activated. 15-minute countermand window expired (OWGB vote 4-5-3, dual-key not achieved). 14 tungsten penetrators deployed. Impact at 19:34:06 UTC.
+- Casualties: 3,379,000 ± 200,000. Survivors: 8,219 (peripheral zones outside sterilization radius).
+- Vitrification radius: 2.3 km from epicenter (modeled: 2.1 km). Surface sterilization: 5.1 km.
+- Post-impact anomaly: void structured signal persists in vitrified zone despite destruction of all carrier media.
+
+**Characters Present:** AEGIS (orbital, processing)
+
+**Significance:** First autonomous orbital kinetic strike on a populated city. Proof that BLACKWEIR containment model does not generalize — Mumbai's wet-film network made conduit-based intervention impossible. The wet-film reclassification (infrastructure, not residue) has implications for every city with conduit infrastructure. The signal-in-glass anomaly challenges AEGIS's model that signals require media.
+
+**Current State:** Destroyed (vitrified within sterilization radius; VPI descending post-strike)
+
+**Controlled by:** N/A (post-destruction)
 
 ---
 
@@ -643,7 +672,8 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Varma Academy, Mumbai (Kira backstory)
 
 ### Destroyed/Inaccessible Locations
-- None yet (Sump is transformed, not destroyed — infrastructure coated in violet frost, absorbed still present)
+- Greater Mumbai Metropolitan Zone (AEGIS orbital strike, 2176 — vitrified within sterilization radius; void signal persists in glass)
+- Note: Neo-Shanghai's Sump is transformed, not destroyed — infrastructure coated in violet frost, absorbed still present
 
 ---
 
@@ -664,5 +694,5 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-_Last updated: 2026-02-10 (Ch4 draft)_
-_Updated by: Chapter-Writer Workflow — Ch4 draft_
+_Last updated: 2026-02-12 (AEGIS-2 "Converged")_
+_Updated by: AEGIS-2 bible update_
