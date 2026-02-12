@@ -567,10 +567,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium — late introduction)
-- Emotional State: Performing, guarded, fraying at edges. Scream episodes worsening ("that was worse than the last one"). Lumina use escalating (40mg routine + 15mg bump). Numb fingertips (new symptom).
-- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is."
-- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy. Hard line on Lumina ("never at work") holds — for now.
+- Phase: 1→2/5 (Equilibrium → Disruption — catalyst arrives)
+- Emotional State: Avoidance broken by evidence weight. Engaging reluctantly. Lumina: daily 40mg routine, extra 15mg bump crept to twice/week. Numb fingertips intermittent (worsening). Hum described as "tighter" — aligning, organizing. Still tells herself she's in control.
+- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is." (cracking — the mages contacting her redefine her platform as network, not performance)
+- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy. Hard line on Lumina ("never at work") holds — for now. The bump frequency is the crack she won't examine.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -589,11 +589,21 @@ This bible dimension tracks **current character states**:
 | Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
 
 **Current Arc:** Performer → Witness
-- Current Phase: 1/5 (Equilibrium)
-- Progression: Beginning — seeds planted, none germinated. Scream worsening, Lumina escalating, Priya's question unanswered.
-- Next Step: Ch 18 ("Signal") — four mages report coherent signals. The scream has *syntax*. Kira will have to engage.
+- Current Phase: 2/5 (Disruption — catalyst arrived)
+- Progression: Seeds germinating. Four mages reported structured signals. Priya's Ch 10 question answered ("Yeah. I felt it."). Kira engaged — responding to mages, connecting accounts, violating Section 14.3. Still in denial about Lumina. The network is forming around her.
+- Next Step: Next Kira chapter — the mage network develops; Kira's engagement deepens; the "tighter" hum evolves; institutional pushback begins.
 
-**Recent History (Ch 10):**
+**Recent History (Ch 18):**
+- Post-stream routine: numb fingertips now intermittent (worsening — three or four times per session). Files it. Performer shutdown. Lumina: 40mg nightly, bump (15mg) twice/week now.
+- Four private messages from Academy mages outside her friend group: Ren Matsuda (Kyoto — structured signal, four repetitions, ~90-second intervals), Lena Okafor (Lagos/Accra — repeating sequence, "like something was trying to transmit"), Yuki Tanaka (Osaka — "structured input," institutional reluctance), anonymous voice (identifier stripped, steady/afraid, nine years experience, confirmed consistent intervals).
+- Group chat: Dex surfaces Academy health bulletin ("Structured auditory phenomena are artifacts of implant resonance feedback"). Priya challenges Suki's institutional defense; Suki goes silent. Section 14.3 discourages "peer discussion of unverified phenomena."
+- Priya DMs Kira directly: "two other mages contacted me after that night." Validates Ch 10 question.
+- Kira assembles the pattern despite Lumina: four messages + two via Priya + Priya + her. "However she counted it, it wasn't an anomaly."
+- Responds to all four mages (anonymized connection offer) + Priya ("Yeah. I felt it." — three words, not four; edited out "too" = solidarity she wasn't ready for).
+- Hum: "tighter" — aligning, organizing, resolving toward something she can't hear yet. The chord shapes have changed (D minor, A diminished, G suspended).
+- Archive folder now populated. Ring light finally turned off. "Almost certain she was in control."
+
+**Previous History (Ch 10):**
 - Streams from Bay Area apartment (fourteenth floor, mid-rise). Ten-hour stream: gameplay, chat, deployment-schedule commentary.
 - Scream episode mid-stream (~11:30 UTC): suppressed professionally. Audience didn't notice. Numb fingertips afterward (new symptom).
 - Post-stream: 40mg Lumina (routine, to sleep). Group chat: Priya reports feeling a "pull" at the same timestamp. Kira recognizes the match, starts typing, stops, closes chat.
@@ -603,15 +613,15 @@ This bible dimension tracks **current character states**:
 **Phase Trajectory:**
 | Phase | State | Key Event |
 |-------|-------|-----------|
-| 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction; performance as normalcy |
-| 2/5 | Mage confides — felt absorbed "pulling" at implant during incursion | Private mage chat; structured patterns like language |
+| 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction (Ch 10); performance as normalcy |
+| 2/5 | Mages contact her — structured signals during incursions | Private mage network forms (Ch 18); avoidance → engagement |
 | 3/5 | Larger incursion; scream overwhelming; barely holds on stream | The scream has meaning — implants encode neural signatures |
 | 4/5 | BLACKWEIR — the scream is catastrophic; 11 seconds live | Every absorbed person's signature through her implant simultaneously |
 | 5/5 | Medical recovery; Academy pressure; refuses to sign retraction | Silent witness. The scream is public. She is not. |
 
 **Appearances:**
-- Last Appearance: Chapter 10 — "The Gap"
-- Next Planned Appearance: Chapter 18 — "Signal"
+- Last Appearance: Chapter 18 — "Signal"
+- Next Planned Appearance: TBD (next Kira chapter in Phase 2)
 
 **Key Objects:**
 - Lumina: matte black zippered case, milligram scale, glass vial half-full of blue powder, metal straw. Behind the bathroom mirror. 40mg = calibrated dose (14 months titration). Marketed as void-residue.

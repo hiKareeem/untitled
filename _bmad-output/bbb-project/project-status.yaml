@@ -107,8 +107,17 @@ chapters:
     metaFile: "chapter-10-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 11-51, Epilogue
+  chapter_18:
+    title: "Signal"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4800
+    completedDate: "2026-02-11"
+    metaFile: "chapter-18-meta.yaml"
+    mode: TEXTURE
 
-completedCount: 11
-totalWords: 57400
+# Chapters not yet written: 11-17, 19-51, Epilogue
+
+completedCount: 12
+totalWords: 62200
 lastUpdated: "2026-02-11"

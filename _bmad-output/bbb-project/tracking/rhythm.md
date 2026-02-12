@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 10"
+lastChapter: "Chapter 18"
 totalChapters: 53
-analyzedChapters: 11
+analyzedChapters: 12
 project_name: "Untitled"
 ---
 
@@ -1097,6 +1097,120 @@ Ch 9 maintains Mirelle's voice while shifting the register from investigation (C
 
 ---
 
+## Chapter 18 — Kira: "Signal"
+
+**Phase:** 2 | **Mode:** TEXTURE (mage/digital-epistolary) | **Date analyzed:** 2026-02-11
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,800 | 4,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~62 | — | — |
+| Dialogue % | ~12% | 10–20% | ✅ |
+| Avg sentence length | ~17 words | 12–16 | ⚠️ (consistent with Ch 10 Kira voice) |
+| Fragment % (1–5 word sentences) | ~22% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |
+ 6 |                                          ●
+ 5 |                          ●             ╱   \
+ 4 |                        ╱   \         ╱       \
+ 3 |  ●──────────●────────╱       \───●╱           ●
+ 2 |●
+   +─────────────────────────────────────────────────
+     Sc1        Sc2        Sc3         Sc4
+```
+
+- **Opening:** 2→3/10 — Post-stream routine: fingertips, Lumina ritual, shutdown. Low tension, character texture.
+- **Messages:** 3→5/10 — Four private messages escalate through accumulation. Each report adds weight. Anonymous voice = peak of scene.
+- **Group chat + bulletin:** 3→5→6/10 — Dex surfaces the bulletin. Priya challenges Suki. Section 14.3. Priya DMs Kira directly.
+- **Pattern assembly + response:** 5→6→3/10 — Data assembles despite Lumina. "However she counted it, it wasn't an anomaly." Kira responds. Closes with "almost certain." Tension resolves to waiting, not resolution.
+- **Shape:** Slow accumulation — no single crisis point, tension builds through evidence weight. Peak is in Scene 4 (private pattern assembly), not in the messages themselves. Mirrors Ch 10's inverted tension (highest in solitude, not in social scenes).
+
+### Beat Map
+
+1. [2%] HOOK — "The fingertips came and went." → +1
+2. [5%] TEXTURE — Numb fingers during stream, filed as data points → 0
+3. [8%] RITUAL — Stream ends, eleven seconds, performer collapses → 0
+4. [12%] CONTEXT — Lumina model: daily 40mg routine, bump twice/week → 0
+5. [15%] RITUAL — Bathroom, kit, dose, quiet room → 0
+6. [18%] TRANSITION — Couch, blanket, opens private message queue → +1
+7. [22%] TEXTURE — Ignoring messages, group chat normalcy, Priya's silence → 0
+8. [28%] ESCALATION — Ren's message: structured signal, repeating, 11:28 UTC → +1
+9. [33%] ESCALATION — Lena's message: repeating sequence, "Transmit?" → +1
+10. [38%] ESCALATION — Yuki's message: formal, institutional reluctance → 0
+11. [42%] PEAK (Sc2) — Anonymous voice message: steady/afraid, timed repetitions, 90-second intervals → +1
+12. [45%] PROCESSING — Reading vs hearing, data vs person → 0
+13. [50%] TRIGGER — Group chat: Academy health bulletin surfaces → +1
+14. [55%] DIALOGUE — Dex/Priya/Tomás/Suki exchange. Priya challenges Suki. Suki goes silent. → +1
+15. [60%] INSIGHT — "The four messages weren't anomalies. They were a sample." → +1
+16. [63%] SENSORY — Hum: tighter, aligning, organizing. Incomplete sentence. → 0
+17. [68%] ESCALATION — Priya DMs: "two other mages contacted me." → +1
+18. [72%] ASSEMBLY — Data assembles despite Lumina: Priya's pull + four messages + her → +1
+19. [78%] REFLECTION — "She just needed to be a person who could count." → 0
+20. [82%] NEGATION — "Not resonance feedback. Something else." → 0
+21. [85%] SELF-DECEPTION — "the forty was just the forty and the fifteen was only twice a week" → −1
+22. [88%] ACTION — Responds to Ren, Lena, Yuki. Saves anonymous voice. → 0
+23. [92%] CLIMAX — "Yeah. I felt it." Three words. Not four. → +1
+24. [95%] RE-READ — Academy bulletin full text. Section 14.3. "stop talking to each other" → 0
+25. [98%] CLOSE — Ring light off. Archive not empty. "Almost certain she was in control." Hum: tighter. Waiting. → −1
+
+### Transitions
+
+- **Sc1→Sc2:** Section break. Post-stream routine → private messages. Clean spatial transition (couch → message queue).
+- **Sc2→Sc3:** Section break. Messages closed → group chat surfaces bulletin. Temporal overlap (messages were waiting while chat happened).
+- **Sc3→Sc4:** Section break. Group chat + Priya's DM → solitary pattern assembly. The strongest transition — external evidence → internal processing.
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 8/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 7/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.6/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 20%
+- **Reflection:** 80%
+
+### Pacing Notes
+
+- **Strengths:** The epistolary structure (messages as quasi-dialogue) creates natural pacing variation — each message is a mini-scene with its own voice. The Lumina motif ("the quiet room held") threads through as structural continuity, literalizing the chemical barrier between evidence and response. The group chat scene is the chapter's rhythmic peak — five voices, quick exchanges, then Suki's silence as the loudest moment. The "three words, not four" beat is precisely paced — the micro-decision (editing out "too") carries the arc's weight in a single editorial act.
+- **Concerns:** Momentum at 7/10 — the lowest component. The chapter's accumulative structure (evidence → evidence → evidence → processing) risks feeling static to readers expecting external escalation. Justified by TEXTURE mode and Kira's avoidant character, but future Kira chapters should push momentum higher as her engagement increases. The messages section (Sc2) is the longest scene and the most uniform in rhythm — four sequential messages could feel like a list. Mitigated by distinct voices (Ren formal, Lena direct, Yuki Japanese register, anonymous afraid) but monitor.
+- **Recommendations:** This chapter establishes Kira's TEXTURE subtype: **digital-epistolary** (messages as scene architecture, solitary processing as tension engine). The quiet room motif should evolve: same metaphor, changing integrity. The "three words, not four" editorial-decision beat is a strong device — Kira's consciousness is performative even in private, editing her own responses. This should recur.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2 building/4-5K words, TEXTURE mode)
+- Adjacent chapter contrast: ✅ (Ch 10 = mage debut/TEXTURE → Ch 18 = mage network/TEXTURE — same mode, escalated register)
+
+### Comparison to Previous Chapters
+
+| Metric | Ch 10 (Kira debut) | Ch 18 | Delta |
+|--------|---------------------|-------|-------|
+| Words | 5,200 | 4,800 | −400 |
+| Scenes | 3 | 4 | +1 |
+| Dialogue | 18% | 12% | −6% |
+| Tension peak | 8 | 6 | −2 |
+| Fragment % | 19% | 22% | +3% |
+| Negation count | 3 | 4 | +1 |
+| Flow | 9.0 | 8.6 | −0.4 |
+
+Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the scream crisis (8/10 peak); Ch 18's tension is accumulative rather than crisis-driven (6/10 peak through evidence weight). The dialogue drop (18%→12%) reflects the shift from group chat + stream to private messages + internal processing. Fragment increase (19%→22%) reflects Kira's more fragmented internal state as avoidance breaks down. Flow dip (9.0→8.6) is within acceptable range and reflects the epistolary structure's lower momentum vs Ch 10's more dynamic stream-to-crisis-to-Lumina arc.
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1112,7 +1226,8 @@ Ch 9 maintains Mirelle's voice while shifting the register from investigation (C
 | 8 | Fuxi | 5,400 | TEXTURE | ~20% | 2→3→5→4 | 8.8 | 30/70 | ✅ |
 | 9 | Mirelle | 5,200 | TEXTURE | 25% | 3→6→3 | 9.0 | 35/65 | ✅ |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
-| 11–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
+| 11–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
@@ -1122,7 +1237,7 @@ Ch 9 maintains Mirelle's voice while shifting the register from investigation (C
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 0/12 | 0/12 | — | — | — | 📝 |
+| Phase 2 | 1/12 | 1/12 | 8.6 | 3.7 | 0P/1T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |

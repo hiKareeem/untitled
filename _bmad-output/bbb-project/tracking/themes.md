@@ -2,7 +2,7 @@
 title: "Theme Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 9"
+lastChapter: "Chapter 18"
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -386,8 +386,9 @@ Personal obligation vs. institutional failure. Compassion as radical act in a un
 | Ch 7 | Architecture (Dominant), Complicity (Strong), Atrocity (Moderate), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present) | Board meeting + Thorne's private briefing: LP9 classification system exposed — cause-cost separation as designed architecture. Not-asking as proactive complicity. "Sump lifecycle management" as the euphemism Aurielle doesn't challenge. Containment 40% over budget, junction integrity below threshold. Thorne as truth-wielder: "Your father managed this. Now you do." Eduardo repositioned: "He asked how to fix it." The architecture of looking elsewhere. |
 | Ch 8 | Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Truth (Moderate), Architecture (Background), Atrocity (Background), Identity (Background), Irrelevance (Background) | Domestic complicity — normalcy maintained by mutual not-knowing. Shared meal as the system working. Shimmer as truth avoided ("Normal crowd"). Chemical staining, suppressants, Provision rations — suffering economy through accumulated detail. Jun's multitool as inherited obligation. P-3 as infrastructure not luxury. "The not-asking and the not-offering were the same shape... Built from love rather than protocol. But it was the same architecture." The normalcy BLACKWEIR will destroy. |
 | Ch 9 | Truth (Strong), Complicity (Strong), Commodification (Moderate), Architecture (Moderate), What We Owe (Moderate), Identity (Background), Irrelevance (Background), Atrocity (Background) | Dead-hand protocol as truth weaponized through anticipated absence. Institutional complicity across Feed, NitroCore, The Wire, and Black Babel. Babel price literalizes commodification — source metadata as currency. Junction reclassification as power architecture. Obligation delegated to machinery. "Client: M" — identity compressed to an initial. "I'm a node, not a mourner" — irrelevance accepted as business model. Infrastructure eating its workers — atrocity documented without being named. |
+| Ch 18 | Truth (Strong), Commodification (Strong), Complicity (Moderate), Identity (Moderate), Architecture (Moderate), Irrelevance (Background), Atrocity (Background), What We Owe (Background) | Truth assembles itself despite chemical suppression — the pattern is simple enough that Kira doesn't need the machinery. Academy bulletin = institutional counter-truth ("resonance feedback"). Section 14.3 prohibits peer discussion — suppression as architecture. Kira's platform becomes counter-architecture: mages contact HER. Lumina as suffering management (daily routine, bump creeping). Numb fingertips, phantom typing, R3 in the bone — identity distributed across body/implant/network. Kira responds to mages not from heroism but because avoidance became harder than engagement — obligation as exhaustion's byproduct. |
 
 ---
 
 _Last updated: 2026-02-11_
-_Updated by: Retroactive update — Ch 2 added to progression table_
+_Updated by: Chapter 18 — "Signal" bible update_
