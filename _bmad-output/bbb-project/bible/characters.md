@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-11"
-lastChapter: 10
+lastUpdated: "2026-02-12"
+lastChapter: 14
 totalCharacters: 14
 project_name: "Untitled"
 ---
@@ -213,8 +213,8 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Certain, physically suffering, intellectually alive
+- Phase: 2/5 (Disruption)
+- Emotional State: Certain, physically improved (chorus quiet at grid edge), intellectually urgent
 - Dominant Beliefs: "The void is not demonic but something the Church has catastrophically misread."
 - Internal Contradictions: Intellectual certainty hardening into messianic conviction. Seekers ask questions; prophets give answers.
 
@@ -234,9 +234,9 @@ This bible dimension tracks **current character states**:
 | Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
 
 **Current Arc:** Seeker → Prophet
-- Current Phase: 1/5 (Equilibrium — excommunicated, on pilgrimage)
-- Progression: Beginning
-- Next Step: Chorus intensifies toward Neo-Shanghai; Void Witness validation
+- Current Phase: 2/5 (Disruption — grassroots validation, certainty deepening)
+- Progression: Progressing
+- Next Step: Transit to Neo-Shanghai; Cathedral of Living Sound
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -248,11 +248,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: Chapter 3 — "The Pain Is Signal"
-- Next Planned Appearance: Phase 2 (chorus intensifies; Void Witness validation)
+- Last Appearance: Chapter 14 — “The Commune”
+- Next Planned Appearance: Phase 3 (Cathedral of Living Sound)
 
 **Recent History:**
-- **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — "the pain is signal, not symptom." Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
+- **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
+- **Ch 14:** Arrives at Void Witness commune on European grid edge (converted relay station, 14 residents). Chorus muted here — stripped infrastructure, residual coherence only. Migraines manageable. Receives Lene’s testimony: former acolyte who felt “peace” during a vigil when she stopped singing. Recognizes structural correspondence with her own experience. Offers the word “responsive” — gives Lene a framework for her experience. Admits “I do not know what it means” but speaks with declarative certainty. Imani observes the shift: “You have a convert.” Nephthys cannot tell whether Imani is right. “She did not know when listening had become teaching.” Transit papers secured — 10 days to Neo-Shanghai via Mid-European corridor.
 
 **Key Objects:**
 - Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication.
@@ -261,34 +262,34 @@ This bible dimension tracks **current character states**:
 
 ### Imani
 
-**Role:** Supporting (Nephthys's companion)
+**Role:** Supporting (Nephthys’s companion)
 **Faction:** Flame (former acolyte, followed Nephthys into exile)
 **Primary Location:** European Outlands → Neo-Shanghai Sump (with Nephthys)
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Loyal, frightened, managing both through competence
+- Phase: 2/5 (Disruption)
+- Emotional State: Loyal, concerned, managing through competence — concern shifting from health to theology
 - Dominant Beliefs: Follows Nephthys the person, not the theology
-- Internal Contradictions: Love vs. doubt — the evidence for prophet and for dying woman is identical
+- Internal Contradictions: Love vs. doubt — the evidence for prophet and for dying woman is identical. Now also: is Nephthys a seeker or is she building a congregation?
 
 **Age:** ~20
 
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Nephthys | Teacher/companion | High | Followed her into exile. Practical counterweight. Worries about her health. Loyalty is personal, not theological. |
+|-----------|--------|----------|--------|
+| Nephthys | Teacher/companion | High | Followed her into exile. Practical counterweight. Concern now extends beyond health to theological direction. Loyalty is personal, not theological — but “I haven’t decided” what she’s following. |
 
 **Appearances:**
-- Last Appearance: Chapter 3 — "The Pain Is Signal"
-- Next Planned Appearance: With Nephthys (Phase 2)
+- Last Appearance: Chapter 14 — “The Commune”
+- Next Planned Appearance: With Nephthys (transit to Neo-Shanghai)
 
 **Recent History:**
-- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys's migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys's theology gently ("You can't know that"). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. "I'm not doing this because I believe you." Will seek forged transit papers from Void Witness commune near the border.
+- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys’s migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys’s theology gently (“You can’t know that”). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. “I’m not doing this because I believe you.” Will seek forged transit papers from Void Witness commune near the border.
+- **Ch 14:** Secures forged transit papers via Dara’s contact (Mid-European corridor → eastern hub → Neo-Shanghai, 10 days). Observes Nephthys’s interaction with Lene from the doorway — arms crossed, jaw set. Sees the pastoral gesture (branded hand on Lene’s hand). Pushes back on Nephthys’s theology: “She described an experience. You provided the framework. And now she has a framework. And you have a convert.” Concern shifts from physical health to theological direction: “Your theology is less careful when the pain is not interrupting it.” When asked by Lene if Nephthys is a prophet: “I told her you were a theologian with a brain tumor and a very good ear. I didn’t tell her which one I was following. I haven’t decided.”
 
 **Key Objects:**
 - Medical kit: carried in top compartment of pack, always accessible. Contains suppressants, field supplies.
 - Old grid map: printed on paper, salvaged from relay station 40km back. Pre-disconnection.
-
 ---
 
 ### Zeyad Al-Fahim

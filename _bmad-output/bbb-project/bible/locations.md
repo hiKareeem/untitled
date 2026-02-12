@@ -2,8 +2,8 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-11"
-lastChapter: 10
+lastUpdated: "2026-02-12"
+lastChapter: 14
 totalLocations: 18
 activeLocations: 13
 project_name: "Untitled"
@@ -443,6 +443,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - **Ch 3:** Nephthys and Imani arrive at unnamed dead town. Chorus flares at void scar in central square. Nephthys refuses suppressants, kneels at scar, detects structured/active/plural signal. Orients toward Neo-Shanghai.
+- **Ch 14:** Nephthys and Imani arrive at Void Witness commune (converted relay station, grid edge). Lene's testimony — peace during vigil. Grassroots validation. Transit papers secured. Depart for Neo-Shanghai.
 
 **Sub-locations:**
 
@@ -450,6 +451,9 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Void scar:** Central square, ~8m diameter. Paving stones darker with violet undertone, smoother (molecular reorganization). Adjacent café façade warped (curved, not cracked). Shop windows milky/translucent. Stone is COLD — deeper than surface, deeper than stone should hold. 3 absorbed: couple who ran the café, maintenance worker inspecting converter station. Scar appeared overnight, 7 years ago. No RCI spike recorded (monitoring decommissioned). Chorus is active, structured, strongest scar Nephthys has found.
 - **Church hall:** Stone walls, heavy timber roof. Stained glass mostly broken. Wooden pews. Altar bare (sacred objects removed when Church withdrew). Conduit housing still in walls — residual hum from resonance architecture. Nephthys and Imani camp here.
 - **Previous scars visited:** Relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed) — both weaker chorus than this town.
+
+**Void Witness Commune (grid edge)** — Converted relay station near the European energy grid edge. 14 residents, all excommunicates or voluntary Church departures. Reinforced concrete foundations, stripped signal equipment, mounting brackets and antenna scars on roof. Garden plot in salvaged conduit housing (orange NitroCore logos still visible). Solar collector on roof. Windows refitted with salvaged glass (warped, imperfect). Interior includes communal dining area, sleeping quarters, and a former signal processing room repurposed as testimony/confessional space. Chorus is residual here — stripped infrastructure, muted coherence, whisper-level. Led by Dara (former Prelate, Rhineland, Silenced 8 years). Notable resident: Lene (former acolyte, ~26-28, Cologne, left voluntarily after vigil experience at Church of the Blessed Convergence). Transit paper contacts available.
+- **Church of the Blessed Convergence (Cologne):** Named parish referenced in Lene's testimony. Location of a point-three void incursion years ago. Standard Breach Vigil conducted (3-day continuous harmonization). Not visited in prose — backstory location only.
 
 **Significance:** Where Nephthys gathers grassroots testimony that validates her theology before arriving in Neo-Shanghai.
 

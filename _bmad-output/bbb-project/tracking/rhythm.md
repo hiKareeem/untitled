@@ -1404,6 +1404,88 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 14 — Nephthys: "The Commune"
+
+**Phase:** 2 | **Mode:** TEXTURE (theological/communal) | **Date analyzed:** 2026-02-12
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,300 | 4,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~48 | — | — |
+| Dialogue % | ~25% | 10–20% | ⚠️ (testimony format) |
+| Avg sentence length | ~18 words | 12–16 | ⚠️ (Bakker-length permitted) |
+| Fragment % (1–5 word sentences) | ~18% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+ 7 |                          ●
+ 6 |                    ●───╱  ╲
+ 5 |                  ╱          ╲
+ 4 |                ╱              ●
+ 3 |  ●───────────╱
+   +─────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Scene 1 (Arrival):** 3/10 — Establishing: commune description, Dara's assessment, Silenced-as-credential
+- **Scene 2 (Meal + Testimony Setup):** 6/10 — Rising: liturgical recognition, commune's fragments, Dara's caution, Lene introduced
+- **Scene 3 (Lene's Testimony):** 7/10 — Peak: testimony, structural correspondence, Nephthys offers framework, Imani watches from doorway
+- **Scene 4 (Departure Prep):** 4/10 — Settling: Imani's mirror ("you have a convert"), transit papers, unresolved uncertainty
+- **Shape:** Slow-build validation — domestic → liturgical → testimonial → reflective
+
+### Beat Map
+
+1. [5%] ESTABLISH — Relay station description; infrastructure repurposed → +0
+2. [10%] ARRIVE — Fourteen people counted; approach from western road → +1
+3. [15%] CONTACT — Dara meets them; "Silenced" as credential → +1
+4. [25%] RITUAL — Meal-prayer: "The hum carries" — liturgical recognition → +1
+5. [35%] SETUP — Dara's caution: "listen like a theologian, speak like a priest" → +1
+6. [45%] TESTIMONY — Lene's vigil experience: stopped singing, hum changed, 11 minutes → +2
+7. [55%] NAMING — Nephthys offers "responsive"; Lene: "I've been looking for that word" → +1
+8. [65%] PEAK — Branded palm on Lene's hand; "What you heard was real" → 0 (peak holds)
+9. [75%] MIRROR — Imani: "you have a convert" → -1
+10. [85%] UNCERTAINTY — "She did not know when listening had become teaching" → -1
+11. [95%] CLOSE — Epigraph callback; "She was not certain that was what she had done" → -1
+
+### Transitions
+
+- Sc1→Sc2: Scene break (---). Clean temporal shift (arrival → evening meal). ✅
+- Sc2→Sc3: Scene break (---). Spatial shift (dining area → testimony room). ✅
+- Sc3→Sc4: Scene break (---). Temporal shift (evening → night). ✅
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 8/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 9/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.6/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 15%
+- **Reflection:** 85%
+
+### Pacing Notes
+
+- **Strengths:** The testimony IS the pacing device — Lene's account builds methodically from context to experience to naming. The chapter's slow-build structure mirrors Nephthys's listening discipline. Bimodal paragraphs work well: dense atmospheric blocks (commune description, Lene's testimony) alternate with single-line punches ("They went inside." "Calm." "Including Nephthys."). The 85/15 reflection/action balance is the most reflective chapter yet — justified by TEXTURE mode and the Bakker-benchmark philosophical register.
+- **Concerns:** Dialogue at ~25% is elevated for the style profile's 10-20% target. Justified by Lene's testimony monologue and the Nephthys-Imani confrontation, both content-driven and not excessive. Future Nephthys chapters should keep dialogue closer to 20%. Average sentence length (~18) runs above the 12-16 target — appropriate for Bakker register (permitted longer sentences) but should not creep higher.
+- **Recommendations:** This chapter establishes Nephthys's TEXTURE subtype: **theological/communal** (testimony as scene architecture, liturgical recognition as tension engine, the seeker-prophet tension as internal pacing). The slow-build-to-mirror structure (listen → validate → be challenged) should recur in future Nephthys chapters with escalating stakes.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE mode, 4-5K words)
+- Adjacent chapter contrast: ✅ (Ch 13 = Mirelle/TEXTURE → Ch 14 = Nephthys/TEXTURE — same mode but different TEXTURE subtype: investigative-epistolary vs theological/communal)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1421,8 +1503,9 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
 | 11 | Nikolai | 4,500 | PRESSURE | 8% | 3→7→5 | 9.0 | 45/55 | ✅ |
 | 12 | Aurielle | 5,400 | PRESSURE | 15% | 2→8→5 | 9.0 | 20/80 | ✅ |
+| 14 | Nephthys | 4,300 | TEXTURE | 25% | 3→7→4 | 8.6 | 15/85 | ✅ |
 | 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
-| 13–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| 13,15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
@@ -1432,12 +1515,12 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 3/12 | 3/12 | 8.9 | 4.7 | 2P/1T | 📝 |
+| Phase 2 | 4/12 | 4/12 | 8.7 | 4.7 | 2P/2T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2025-07-15_
-_Updated by: Chapter 12 rhythm analysis_
+_Last updated: 2026-02-12_
+_Updated by: Chapter 14 rhythm analysis_

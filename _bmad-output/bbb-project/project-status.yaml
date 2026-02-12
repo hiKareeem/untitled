@@ -125,6 +125,15 @@ chapters:
     metaFile: "chapter-12-meta.yaml"
     mode: PRESSURE
 
+  chapter_14:
+    title: "The Commune"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4300
+    completedDate: "2026-02-12"
+    metaFile: "chapter-14-meta.yaml"
+    mode: TEXTURE
+
   chapter_18:
     title: "Signal"
     status: v1-complete
@@ -134,8 +143,8 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 13-17, 19-51, Epilogue
+# Chapters not yet written: 13, 15-17, 19-51, Epilogue
 
-completedCount: 14
-totalWords: 72100
-lastUpdated: "2025-07-15"
+completedCount: 15
+totalWords: 76400
+lastUpdated: "2026-02-12"

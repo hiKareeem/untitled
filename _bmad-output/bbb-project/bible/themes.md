@@ -481,6 +481,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 11 | Complicity (Strong), Truth (Strong), Identity (Moderate), Irrelevance (Moderate), Architecture (Moderate), Commodification (Background), Atrocity (Background), What We Owe (Background) | Nikolai's debut: dual-record system (after-action report vs field log) IS the complicity mechanism. SFM §9.2 classifies perceived names as "acoustic mimicry" — non-actionable. Deng's name in the hum: identity persists or dissolves? Third absorbed looks "present." Haraldsen's confiscated list = erased truth. "I heard it too" = first corroborated perception, dangerous because it exceeds individual-perception classification. The pen that doesn't shake. |
 | Ch 12 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Truth (Moderate), Irrelevance (Moderate), Identity (Background), What We Owe (Background) | Aurielle descends to Sub-level 7 — the room where the real numbers live. Holographic Sump model: maintenance, absorption, cost data. Three scenarios that are "not three options but one trajectory with three names." Complicity deepens through comprehension, not action. Thorne builds the briefing as a corridor — she walks it. "Welcome to the quarterly." Absorptions as data points; 8-14K as "a number that fit in a budget line." The small voice sounds like Eduardo's — identity merging with institutional predecessor. "Same time next quarter" — obligation accepted through rhythm. |
 | Ch 18 | Truth (Strong), Commodification (Strong), Complicity (Moderate), Identity (Moderate), Architecture (Moderate), Irrelevance (Background), Atrocity (Background), What We Owe (Background) | Truth assembles itself despite chemical suppression — four mages report structured signals; Academy bulletin = counter-truth ("resonance feedback"); Section 14.3 prohibits peer discussion. Kira's platform becomes counter-architecture. Lumina as suffering management (daily routine, bump creeping). Numb fingertips, phantom typing, R3 in the bone — identity distributed. Kira responds not from heroism but because avoidance became harder than engagement. |
+| Ch 14 | Identity (Strong), Truth (Strong), What We Owe (Moderate), Irrelevance (Moderate), Commodification (Background), Architecture (Background), Complicity (Background), Atrocity (Not present) | Nephthys can't stop speaking like a priest — "The setting had changed. The cadence had not." Validation becomes framework becomes authority; Imani: "you have a convert." Commune's meal-prayer strips liturgy to observation: "The hum carries." Lene's testimony: structured peace during vigil, something "present" and "aware" without individuality. Imani's sacrifice — months in the Outlands, "I haven't decided" what she's following. NitroCore logos on garden beds — infrastructure repurposed. "Malachi already knew." |
 
 ---
 
@@ -629,5 +630,5 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 
 ---
 
-_Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 7_
+_Last updated: 2026-02-12_
+_Updated by: Audit Chain — Chapter 14_

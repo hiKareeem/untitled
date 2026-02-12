@@ -1,8 +1,8 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-11"
-lastChapter: "Chapter 12"
+lastUpdated: "2026-02-12"
+lastChapter: "Chapter 14"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -242,6 +242,14 @@ Nephthys's Chapter 3 arc establishes her as a woman whose certainty is inseparab
 | Ch 3 — Beat 7 | Honest uncertainty | Imani asks what the void contains | "I do not know yet." The honest answer — questions, not answers | Imani: the gentleness of someone watching a loved one build meaning on unverifiable foundations |
 | Ch 3 — Beat 8 | Theological urgency | Church hall reflection; correlation question | Voice rises, catches it. The tumor and the chorus are both real. The space between them is where her theology lives. | Imani: quiet for a long time |
 | Ch 3 — Beat 9 | Oriented resolve | Decision to reach Neo-Shanghai | Opens eyes; resonance beads warm in hands; "I can spend them listening" | Imani: agrees despite doubt — "I'm not doing this because I believe you" |
+| Ch 14 — Beat 1 | Analytical calm | Chorus muted at commune; stripped infrastructure | Counts residents, observes details, notes NitroCore logos on garden beds — parsing not suffering | Imani: watching Nephthys, not the commune |
+| Ch 14 — Beat 2 | Wary clarity | Chorus quiet allows clear thought | "The clarity was useful. She did not trust it." Recognizes that pain interrupts theology — without it, ideas run unchecked | Internal — self-awareness without self-correction |
+| Ch 14 — Beat 3 | Liturgical recognition | Commune's meal-prayer: "The hum carries" | Identifies Church acoustic architecture in stripped liturgy; "the most honest prayer since her ordination" | Commune: unaware of being parsed |
+| Ch 14 — Beat 4 | Intense listening | Lene's testimony — peace during vigil | Hands flat on table (brand touching wood); does not move; feels residual chorus respond to structural correspondence | Lene: loosens, continues testimony |
+| Ch 14 — Beat 5 | Declarative certainty | Lene searches for word "responsive" | Offers the word; speaks with pulpit cadence; "I do not know what it means" but frames the experience | Lene: "I've been looking for that word for three years" — recognition |
+| Ch 14 — Beat 6 | Pastoral compulsion | Lene's fear and need for validation | Places branded palm on Lene's hand — "automatic" gesture; "What you heard was real" | Lene: receives validation. Imani (doorway): watches the gesture, jaw set |
+| Ch 14 — Beat 7 | Uncomfortable self-awareness | Imani's mirror: "you have a convert" | Does not respond; feels the accusation as mirror, not attack; "She did not know when listening had become teaching" | Imani: holds the mirror steady |
+| Ch 14 — Beat 8 | Unresolved uncertainty | Lying awake; chorus as murmur; epigraph echo | Holds beads, listens; "She had come here to listen. She was not certain that was what she had done." Wonders about the woman in the third row | Internal — the chapter's closing question unanswered |
 
 ---
 
@@ -276,6 +284,12 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 | Ch 3 — Beat 6 | Quiet anguish | Watching Nephthys stand after kneeling at scar | Jaw tension; hands half-open, ready to catch; stillness of will | Nephthys: reads the structure beneath the expression |
 | Ch 3 — Beat 7 | Residual faith | Discussion of what people need | Remembers old forms — Radiance, Attunement gesture; "People need structure" | Nephthys: "I am not giving them the void" |
 | Ch 3 — Beat 8 | Committed presence | Nephthys asks for help reaching Neo-Shanghai | Hands steady on heating element; voice level; "I'm not doing this because I believe you" | Nephthys: does not speak — holds the beads and listens |
+| Ch 14 — Beat 1 | Practical competence | Arrival at commune | Identifies the commune, references Bruges relay contact — logistics managed | Nephthys: nods, parsing the chorus |
+| Ch 14 — Beat 2 | Watchful concern (shifted) | Nephthys listening at communal meal | Watching Nephthys, not the commune — "attention that was no longer only concern for her health" | Nephthys: unaware of being watched |
+| Ch 14 — Beat 3 | Threshold witness | Nephthys's testimony session with Lene | Stands in doorway — not inside, not outside. Arms crossed, jaw set. Witnesses without participating. | Nephthys: aware of Imani's presence as background |
+| Ch 14 — Beat 4 | Silent alarm | Nephthys places branded hand on Lene's hand | Eyes move to the gesture — the pastoral certainty. Says nothing. | Nephthys: does not notice the shift |
+| Ch 14 — Beat 5 | Precise challenge | Nephthys recounts Lene's testimony as evidence | "One testimony. One person." Then: "She described an experience. You provided the framework. And now she has a framework. And you have a convert." | Nephthys: does not respond — feels it as mirror |
+| Ch 14 — Beat 6 | Unresolved loyalty | Lene asks if Nephthys is a prophet | "A theologian with a brain tumor and a very good ear." Turns to face wall. "I didn't tell her which one I was following. I haven't decided." | Nephthys: hands tighten on beads |
 
 ---
 
