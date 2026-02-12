@@ -1,0 +1,95 @@
+# Chapter Metadata - Chapter 11: Acoustic Mimicry
+# Generated: 2026-02-11
+
+---
+chapter: 11
+title: "Acoustic Mimicry"
+wordCount: 4500
+pov: "Nikolai Volkov"
+timeline: "2175, Q1"
+phase: 2
+mode: PRESSURE
+
+summary: |
+  Nikolai Volkov's debut POV. Stalker-7 deploys to a Mid-Levels residential breach — Level 7, junction housing 7-14. Stage 2, stable, three absorbed. RCI anomalously elevated (14.2-14.6, should be 8-10 for this stratum). Stalker-3 Actual notes the hum near the third absorbed is "structured" but classifies it as instrument drift.
+
+  The third absorbed — a conduit infrastructure tech embedded in the junction housing — looks "present" in a way Nikolai cannot categorize. Near the junction, the hum shifts: tighter, structured, carrying something that resolves into a name. Corporal Deng, Stalker-3, absorbed four months ago on Level 9. Jarek Kowalski hears it independently at twelve meters. Nikolai classifies: "Acoustic mimicry. Doctrine is clear."
+
+  Aftermath: two records. The after-action report — accurate, institutional, non-actionable. The field log — honest, longer, cross-referencing Vladivostok (2161), Baltic corridor (2170), Singapore (2168). The dangerous sentence: "I heard it too." First corroborated auditory perception in fifteen years of field log entries. Nikolai thinks about a sergeant on the Murmansk perimeter (Haraldsen, unnamed in prose), whose word list was confiscated after medical discharge. Signs the official report. The pen does not shake.
+
+keyPoints:
+  - Nikolai Volkov debut — operational register, doctrine as cognitive architecture, the gap between accurate and complete
+  - RCI 14.2-14.6 at Stage 2 — anomalous for Mid-Levels stratum (should be 8-10)
+  - Third absorbed "present" — expression outside doctrinal taxonomy
+  - Name perceived in hum — Corporal Deng (Stalker-3, absorbed Level 9, 4 months prior)
+  - First corroborated perception — both Nikolai (3.5m) and Kowalski (12m) heard independently
+  - SFM §9.2 quoted in full — institutional classification of anomalous acoustic phenomena
+  - Field log vs after-action report — structural device for dual-record complicity
+  - Murmansk sergeant ghost story planted (Haraldsen, unnamed in prose) — word list, medical discharge, bunk stripped clean
+  - Timestamp 14:17 local — anchor for Sofia's Ch 15 Stalker deployment cross-reference
+
+characters:
+  - name: "Nikolai Volkov"
+    role: POV (debut)
+    arc_phase: "2/5 (Doctrine holds, seam widens)"
+    key_moments:
+      - "Checks the hum readout twice — not because 8.4 is anomalous but because the quality changed"
+      - "'Acoustic mimicry. Doctrine is clear.' — flat, weather-report register"
+      - "Writes the after-action report first, before the honest language can contaminate the institutional record"
+      - "'I heard it too.' — three words, the most dangerous sentence in the field log"
+      - "Checks his hands. Steady. Signs the report. The pen does not shake."
+  - name: "Jarek Kowalski"
+    role: Supporting (debut)
+    key_moments:
+      - "Still looks at the faces — most veterans stopped by year two"
+      - "'Did you hear that?' — the question Nikolai cannot answer without breaking doctrine"
+      - "'Copy.' — compliance that is not agreement"
+  - name: "Stalker-3 Actual"
+    role: Supporting (unnamed lieutenant)
+    key_moments:
+      - "'Structured. My scanner operator flagged it and I told her it was instrument drift. It probably is.'"
+      - "Jaw clenched — she knows"
+
+locations:
+  - "Neo-Shanghai Breach Response Garrison — Staging Bay 3"
+  - "Mid-Levels Level 7 residential — south sector, junction housing 7-14"
+  - "Garrison quarters — Nikolai's desk, transit shaft window"
+
+newElements:
+  - "Stalker-7 unit composition: 32 soldiers, 4 L-Frame operators, perpetually unfilled mage liaison slot"
+  - "Corporal Deng — Stalker-3, absorbed Level 9, 4 months prior (name perceived in hum)"
+  - "Murmansk sergeant (Haraldsen in epigraph, unnamed in prose) — Stalker-9, kept word list, medical discharge (epigraph thread Ch 11→23→47)"
+  - "SFM §9.2 — Stalker Field Manual classification of anomalous acoustic phenomena"
+  - "'The copper' — breach-zone smell, shared veteran vocabulary"
+  - "Field log as structural device — private datapad, 15 years, never shown"
+  - "Dual-record system — after-action report (institutional) vs field log (honest)"
+  - "Rask's 'Mage liaison?' liturgy — plants unfilled slot"
+
+epigraph:
+  source: "Reflections from the Perimeter"
+  text: "Sgt. Haraldsen kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there."
+  thread: "Ch 11 → Ch 23 → Ch 47 (ghost story in three fragments)"
+
+rhetoric_reference: "Stalker Field Manual §9.2: Anomalous Acoustics"
+
+reviewResults:
+  styleCoach:
+    pass: true
+    voiceScore: 92
+    slopViolations: 0
+    negationCount: 4
+    fragmentPercentage: "~20%"
+    dialogueRatio: "~11%"
+    avgSentenceLength: 13
+    emDashCount: 25
+    fixes:
+      - "NbA thinned from 8 to 4 (L123, L141, L173, L199 rephrased)"
+  characterKeeper:
+    pass: true
+    avgCoherence: 9.5
+    inconsistencies: 0
+
+createdDate: "2026-02-11"
+lastModified: "2026-02-11"
+author: "Kareem"
+status: "v1-complete"

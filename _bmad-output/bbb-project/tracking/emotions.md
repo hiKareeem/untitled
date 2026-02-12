@@ -2,8 +2,8 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 9"
-totalCharacters: 19
+lastChapter: "Chapter 11"
+totalCharacters: 22
 project_name: "Untitled"
 ---
 
@@ -580,6 +580,89 @@ Talia has no arc — she is a supporting character whose function is transaction
 
 ---
 
+## Character: Nikolai Volkov
+
+### Emotional Arc Summary
+
+Nikolai's debut compresses twenty years of accumulated suppression into sixty minutes of containment and sixty minutes of documentation. His emotional register is deliberately flattened — the "weather-report voice" is not absence of feeling but architecture of containment. Beneath the operational surface, the chapter traces a precise trajectory: professional alertness shading into recognition (the hum's quality has changed), recognition into controlled alarm (RCI shouldn't be 14.2 at Stage 2), alarm into the specific dread of pattern-matching (Singapore, the Baltic corridor, Vladivostok), and dread into the mechanical discipline of classification — "acoustic mimicry, doctrine is clear" — which is not belief but seal. The field log is where the sealed emotions decompress: longer sentences, honest observations, the dangerous corroboration. The closing — steady hands, steady pen, steady voice — is the horror: the composure is real, and it is the mechanism of complicity.
+
+### Dominant Emotions
+
+- **Primary**: Controlled vigilance — twenty years of standing quiet in rooms where something is listening
+- **Secondary**: Suppressed recognition — pattern-matching he cannot afford to acknowledge
+- **Conflict**: Doctrine as survival vs. accumulated evidence. The field log exists because the conflict is real; the after-action report exists because the conflict must be invisible.
+
+### Emotional State by Phase
+
+| Phase | State | Evidence |
+|-------|-------|----------|
+| Phase 2 (Ch 11) | Doctrine holds, seams visible | Classification still functions but requires more effort; corroboration event widens the gap between experience and report |
+
+### Emotional Beat Map
+
+| Beat | Emotion | Trigger | Physical Marker | Impact on Others |
+|------|---------|---------|----------------|------------------|
+| Ch 11 — Beat 1 | Professional alertness | Hum quality changed at 8.4 | Checks readout twice | N/A — internal |
+| Ch 11 — Beat 2 | Tactical calculation | Yeung absent, geometry adjustment | Adjusts deployment in his head before reaching podium | Kowalski gets east corridor solo |
+| Ch 11 — Beat 3 | Controlled candor | RCI 14.2 briefing — acknowledges anomaly within doctrinal framing | The pause: "not for them" — the space where the field log lives | Okonkwo straightens — the number registered |
+| Ch 11 — Beat 4 | Cataloging refusal | First absorbed — woman coming home from work | "Nikolai did not try" (to read the expression) | Scanner team moves in routinely |
+| Ch 11 — Beat 5 | Protective observation | Kowalski looking at the absorbed's face | Watches shoulder tension, helmet angle | "Scanner readings, Kowalski." — redirect |
+| Ch 11 — Beat 6 | Recognition (suppressed) | Third absorbed looks "present" — outside taxonomy | Holds position at 3.5m, recalibrates manually | N/A — internal |
+| Ch 11 — Beat 7 | Dread (controlled) | Hum structured, comparable to Singapore | "The field log's word was *listening*" | N/A — internal |
+| Ch 11 — Beat 8 | Involuntary alarm | Hum shifts — carries a name | Jaw clenched. Involuntary. | N/A — body overrides discipline |
+| Ch 11 — Beat 9 | Classification as containment | Kowalski: "Did you hear that?" | Voice flat, weather-report register | Kowalski's face: "the expression of a man being shown a map that says the terrain is flat while standing on a slope" |
+| Ch 11 — Beat 10 | Dangerous honesty | Writing the field log — "I heard it too" | Writes it "the way you set down a weight" | N/A — private document |
+| Ch 11 — Beat 11 | Institutional memory | Thinks of the Murmansk sergeant | N/A — reflective | N/A — garrison lore |
+| Ch 11 — Beat 12 | Composure as horror | Signs the after-action report | "The pen did not shake" | The institution receives a clean report |
+
+---
+
+## Character: Jarek Kowalski
+
+### Emotional Arc Summary
+
+Kowalski's debut is rendered entirely through Nikolai's observation — we see him through a commander's protective, worried lens. His emotional register is the inverse of Nikolai's: where Nikolai has learned to stop looking, Kowalski still looks at the faces. Where Nikolai classifies, Kowalski asks. His single question — "Did you hear that?" — is the chapter's fulcrum, the moment where individual perception becomes shared perception and the classification architecture begins to fail. His "Copy" at the end is acceptance of the classification, but the face behind the visor tells the truth the word cannot.
+
+### Dominant Emotions
+
+- **Primary**: Earnest competence — steady, professional, not yet armored
+- **Secondary**: Unguarded perception — hears what the veterans have learned not to hear
+- **Conflict**: Trust in Nikolai vs. trust in his own ears
+
+### Emotional State by Phase
+
+| Phase | State | Evidence |
+|-------|-------|----------|
+| Phase 2 (Ch 11) | Insufficiently armored | Still looks at faces; asks the question Nikolai has spent twenty years not asking |
+
+### Emotional Beat Map
+
+| Beat | Emotion | Trigger | Physical Marker | Impact on Others |
+|------|---------|---------|----------------|------------------|
+| Ch 11 — Beat 1 | Professional competence | Assigned east corridor solo | Nods — steady | Nikolai: protective concern ("the problem with giving him assignments that put him closer to the absorbed") |
+| Ch 11 — Beat 2 | Unguarded attention | Second absorbed's face | Shoulder tension, helmet angled toward face not instrument | Nikolai: "Scanner readings, Kowalski." — redirect to procedure |
+| Ch 11 — Beat 3 | Alarm (honest) | Hears the name in the hum | "Sir." — single word, seeking authority | Nikolai: does not turn |
+| Ch 11 — Beat 4 | Seeking confirmation | "Did you hear that?" | N/A — voice only | Nikolai: classification deployed — "Acoustic mimicry. Doctrine is clear." |
+| Ch 11 — Beat 5 | Contained disbelief | Nikolai's classification | Face visible through visor — "the expression of a man being shown a map that says the terrain is flat while standing on a slope" | N/A — contained |
+| Ch 11 — Beat 6 | Compliance (surface) | "Copy" | Single word | Nikolai: field log records "Both perceived the same cadence independently" — Kowalski's compliance doesn't erase what happened |
+
+---
+
+## Character: Stalker-3 Actual
+
+### Emotional Arc Summary
+
+A single scene — the handoff briefing. Her emotional arc compresses into two beats: professional fatigue (four hours near a breach) and the moment she acknowledges the structured hum while officially dismissing it. Her jaw is clenched. Her eyes are "steady in the way that eyes are steady when the alternative is worse." She is a parallel Nikolai — someone who knows and classifies.
+
+### Emotional Beat Map
+
+| Beat | Emotion | Trigger | Physical Marker | Impact on Others |
+|------|---------|---------|----------------|------------------|
+| Ch 11 — Beat 1 | Professional fatigue | Four hours at the perimeter | "Clipped register of someone who wanted to stop" | Nikolai: routine handoff |
+| Ch 11 — Beat 2 | Honest acknowledgment (sealed) | "The hum near the third one is different" / "It probably is" (instrument drift) | Jaw clenched, eyes steady | Nikolai: looks at her "one second longer than the briefing required" — recognition |
+
+---
+
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -607,8 +690,11 @@ Talia has no arc — she is a supporting character whose function is transaction
 | Dr. Elara Mbutha | Supporting | 1 | Institutional neutral | Active — rotating chair; procedural function |
 | Mirelle Dubois | POV (2nd appearance) | 10 | Methodical focus → Quiet anger → Mortality recognition → Operational tension → Physical discomfort → Professional composure → Controlled vulnerability → Transaction closure → Quiet alarm → Metronomic resolve | Active — Phase 1/5; dead-hand operational, junction infiltration next, mortality implicit |
 | Talia Ravid | Supporting (debut) | 4 | Professional punctuality → Professional interest → Human observation → Transactional closure | Active — no arc; transactional function; profits from chaos |
+| Nikolai Volkov | POV (debut) | 12 | Professional alertness → Tactical calculation → Controlled candor → Cataloging refusal → Protective observation → Suppressed recognition → Controlled dread → Involuntary alarm → Classification as containment → Dangerous honesty → Institutional memory → Composure as horror | Active — Phase 2/5; doctrine holds, seams visible; corroboration event widens the gap |
+| Jarek Kowalski | Supporting (debut) | 6 | Professional competence → Unguarded attention → Honest alarm → Seeking confirmation → Contained disbelief → Surface compliance | Active — insufficiently armored; asks the question Nikolai won't |
+| Stalker-3 Actual | Supporting | 2 | Professional fatigue → Honest acknowledgment (sealed) | Active — parallel Nikolai; knows and classifies |
 
 ---
 
-_Last updated: 2026-02-11_
-_Updated by: Audit Chain — Chapter 9 character audits_
+_Last updated: 2026-02-12_
+_Updated by: Audit Chain — Chapter 11 character audits_

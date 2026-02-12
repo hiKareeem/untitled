@@ -354,8 +354,8 @@ This bible dimension tracks **current character states**:
 **Lens:** Doctrine as survival
 
 **Current Psychological State:**
-- Phase: Pre-introduction (enters Phase 2)
-- Emotional State: Disciplined, competent, suppressing 20 years of accumulated evidence
+- Phase: 2/5 (Doctrine holds, seam widens)
+- Emotional State: Disciplined, competent, suppressing 20 years of accumulated evidence — first corroborated perception
 - Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires."
 - Internal Contradictions: Refuses to process what he's seen across 20 years; doctrine as emotional anesthetic
 
@@ -373,9 +373,9 @@ This bible dimension tracks **current character states**:
 | Civic containment engineer | BLACKWEIR co-key holder | Brief | The engineer cries. Nikolai doesn't. |
 
 **Current Arc:** Doctrine → Broken Doctrinaire
-- Current Phase: Pre-introduction
-- Progression: Not yet active
-- Next Step: Mid-Levels incursion deployment (Phase 1→2 transition)
+- Current Phase: 2/5
+- Progression: Deployed to Neo-Shanghai; Mid-Levels incursion; first corroborated auditory perception
+- Next Step: Accelerating ops tempo; breach frequency increases; pre-authorization and two-key delivery
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -386,11 +386,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Files after-action report. Signs it. The report lies. | Alive. Doctrine intact on paper. Shattered underneath. |
 
 **Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Phase 1→2 transition
+- Last Appearance: Ch 11 ("Acoustic Mimicry")
+- Next Planned Appearance: Ch 15 or Ch 19 (Phase 2 rotation)
 
 **Recent History:**
-- [To be populated as chapters are written]
+- **Ch 11:** Debut POV. Stalker-7 deploys to Mid-Levels Level 7 breach, junction housing 7-14. Three absorbed, Stage 2 stable but RCI anomalously elevated (14.2-14.6 vs expected 8-10). Third absorbed embedded in junction housing looks "present" — outside Nikolai's doctrinal taxonomy. Hum near junction carries name perceived by both Nikolai (3.5m) and Kowalski (12m) independently — Corporal Deng, Stalker-3, absorbed 4 months prior. Classifies as "acoustic mimicry" per SFM §9.2. Field log records: "I heard it too" — first corroborated perception in 15 years. Thinks of a sergeant on the Murmansk perimeter (Haraldsen, unnamed in prose) — word list, medical discharge, bunk stripped clean. Signs the official report. Pen steady.
 
 ---
 
@@ -922,7 +922,7 @@ This bible dimension tracks **current character states**:
 | Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
 | Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
 | Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
-| Nikolai | Doctrine → Broken Doctrinaire | Pre-intro | Mid-Levels deployment |
+| Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 1/5 | Timestamp correlation with Stalker deployments (Ch 15) |
 | Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
@@ -941,6 +941,10 @@ This bible dimension tracks **current character states**:
 | Nuwa Lin | Indirect appearance + Recent History | Not yet written | First indirect appearance via Frame messages through Fuxi's POV | Ch 4 |
 | Chen Wei | New character | — | Introduced as Fuxi's shift supervisor, 20 years service, "They always self-correct" | Ch 4 |
 | Kira | Debut + Recent History | Pre-intro | First POV chapter; scream suppression, Lumina structure, group chat, Bay Area grounding | Ch 10 |
+| Nikolai Volkov | Debut + Recent History | Pre-intro | First POV chapter; Mid-Levels incursion, "acoustic mimicry" classification, field log corroboration, Murmansk sergeant planted (Haraldsen in epigraph only) | Ch 11 |
+| Jarek Kowalski | New character | — | Corporal, Stalker-7; still looks at faces; hears Deng's name independently | Ch 11 |
+| Corporal Deng | New character (referenced) | — | Stalker-3, absorbed Level 9, 4 months prior; name perceived in hum | Ch 11 |
+| Sgt. Haraldsen | New character (epigraph only; anonymized in prose) | — | Stalker-9, Murmansk; kept word list, medical discharge, bunk stripped clean. Named in epigraph, referred to as "the Murmansk sergeant" in prose. | Ch 11 |
 | Dex | New character (indirect) | — | Group chat member; comic normalizer | Ch 10 |
 | Priya | New character (indirect) | — | Group chat member; truth-seeker; felt "pull" at 11:30 UTC | Ch 10 |
 | Tomás | New character (indirect) | — | Group chat member; playful normalizer | Ch 10 |

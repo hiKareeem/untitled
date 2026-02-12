@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-11"
-lastChapter: 10 # (Ch 9 added this session)
+lastChapter: 11
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -478,6 +478,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 7 | Architecture (Dominant), Complicity (Strong), Atrocity (Moderate), Truth (Moderate), Obligation (Moderate), Commodification (Background), Irrelevance (Background), Identity (Not present) | Board meeting + Thorne's private briefing: LP9 classification system exposed — cause-cost separation as designed architecture. Not-asking as proactive complicity. "Sump lifecycle management" as the euphemism Aurielle doesn't challenge. Containment 40% over budget, junction integrity below threshold. Thorne as truth-wielder: "Your father managed this. Now you do." Eduardo repositioned: "He asked how to fix it." The architecture of looking elsewhere. |
 | Ch 8 | Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Truth (Moderate), Architecture (Background), Atrocity (Background), Identity (Background), Irrelevance (Background) | Domestic complicity — normalcy maintained by mutual not-knowing. Shared meal as the system working. Shimmer as truth avoided ("Normal crowd"). Chemical staining, suppressants, Provision rations — suffering economy through accumulated detail. Jun's multitool as inherited obligation. P-3 as infrastructure not luxury. "The not-asking and the not-offering were the same shape... Built from love rather than protocol. But it was the same architecture." The normalcy BLACKWEIR will destroy. |
 | Ch 9 | Truth (Strong), Complicity (Strong), Commodification (Moderate), Architecture (Moderate), What We Owe (Moderate), Identity (Background), Irrelevance (Background), Atrocity (Background) | Dead-hand protocol as truth weaponized through anticipated absence. Institutional complicity across Feed, NitroCore, The Wire, and Black Babel. Babel price literalizes commodification — source metadata as currency. Junction reclassification as power architecture. Obligation delegated to machinery. "Client: M" — identity compressed to an initial. "I'm a node, not a mourner" — irrelevance accepted as business model. "The infrastructure is eating its workers" — atrocity documented without being named. |
+| Ch 11 | Complicity (Strong), Truth (Strong), Identity (Moderate), Irrelevance (Moderate), Architecture (Moderate), Commodification (Background), Atrocity (Background), What We Owe (Background) | Nikolai's debut: dual-record system (after-action report vs field log) IS the complicity mechanism. SFM §9.2 classifies perceived names as "acoustic mimicry" — non-actionable. Deng's name in the hum: identity persists or dissolves? Third absorbed looks "present." Haraldsen's confiscated list = erased truth. "I heard it too" = first corroborated perception, dangerous because it exceeds individual-perception classification. The pen that doesn't shake. |
 | Ch 18 | Truth (Strong), Commodification (Strong), Complicity (Moderate), Identity (Moderate), Architecture (Moderate), Irrelevance (Background), Atrocity (Background), What We Owe (Background) | Truth assembles itself despite chemical suppression — four mages report structured signals; Academy bulletin = counter-truth ("resonance feedback"); Section 14.3 prohibits peer discussion. Kira's platform becomes counter-architecture. Lumina as suffering management (daily routine, bump creeping). Numb fingertips, phantom typing, R3 in the bone — identity distributed. Kira responds not from heroism but because avoidance became harder than engagement. |
 
 ---
@@ -514,6 +515,14 @@ This bible dimension tracks **theme evolution**:
 | Nephthys's first congregation | What We Owe, Where Identity Ends | Compassion for the absorbed as religious act |
 | Eduardo's chair in the boardroom | Architecture of Power | The same chair, the same decisions — power outlives the sitter |
 | Lumina (blue powder) | Commodification of Suffering, Where Identity Ends | Void-residue marketed as silence — suffering commodified as consumer product; chemically suppresses the pattern-seeking that would force engagement with truth |
+| The field log | Truth as Weapon, Systemic Complicity | Private datapad, 15 years, never shown — the most comprehensive void behavior dataset in existence, stored outside the institution because the institution pre-decided what it meant |
+| Junction housing 7-14 | Architecture of Power, Progress Requires Atrocity | Conduit infrastructure node where third absorbed is embedded — the system's plumbing as void conduit; foreshadows BLACKWEIR flood valves |
+| "The copper" | Commodification of Suffering | Breach-zone smell — metallic sweetness; shared veteran vocabulary for the taste of matter in transition |
+| Calibration wrench | Systemic Complicity | Frozen in the technician's hand, mid-adjustment — maintaining the system that consumed him |
+| "I heard it too" | Truth as Weapon | Four words in the field log — corroboration as danger; two people hearing the same name exceeds the individual-perception classification |
+| The Murmansk sergeant's list | Truth as Weapon | Words the lattice repeated; confiscated after medical discharge (Haraldsen named in epigraph only) — institutional erasure of inconvenient evidence |
+| The pen that doesn't shake | Systemic Complicity | Nikolai signs the official report with steady hands — composure as the mechanism of complicity |
+| "Acoustic mimicry" | Architecture of Power | Doctrinal classification (SFM §9.2) — language as containment; pre-classifies anomalous perception so field personnel cannot escalate |
 | Kira's streaming corner | Where Identity Ends, Commodification of Suffering | Curated immaculate space vs. apartment entropy — identity as performance architecture; the camera frame as the boundary of the self |
 | The eleven-second count | Where Identity Ends | Structural habit bridging *on* and *off* — the gap between performer and person measured in seconds |
 | Dead-hand protocol | Truth as Weapon, What We Owe | Truth armed through anticipated absence; obligation delegated to a machine; fires when the bearer stops checking in |

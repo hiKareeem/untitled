@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-11"
-lastChapter: "Chapter 18"
+lastChapter: "Chapter 11"
 totalChapters: 53
-analyzedChapters: 12
+analyzedChapters: 13
 project_name: "Untitled"
 ---
 
@@ -1211,6 +1211,106 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 11 — Nikolai: "Acoustic Mimicry"
+
+**Phase:** 2 | **Mode:** PRESSURE (contained) | **Date analyzed:** 2026-02-12
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,500 | 4,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~62 | — | — |
+| Dialogue % | ~8% | 10–20% | ⚠️ Low (justified: Nikolai's operational register + PRESSURE mode) |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~25% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |                    ●
+ 6 |                  ╱   ╲
+ 5 |                ╱       ●───●
+ 4 |          ●───╱
+ 3 |  ●─────╱
+   +─────────────────────────────
+     Sc1      Sc2      Sc3   Sc4
+```
+
+- **Opening:** 3/10 — Operational: briefing, RCI anomaly noted but contained within doctrine
+- **Midpoint:** 4/10 — Building: absorbed described, Kowalski watching faces, corridor narrowing
+- **Peak:** 7/10 — Crisis: hum structured, name perceived, "Did you hear that?", classification deployed
+- **Closing:** 5/10 — Controlled: dual records, "I heard it too," Murmansk sergeant, pen steady
+- **Shape:** Slow-build pressure vessel — operational register compresses escalating dread into classification; tension never releases, only seals
+
+### Beat Map
+
+1. [3%] HOOK — Hum quality changed at 8.4: "Different texture. Like a word... spoken by a new voice." → +1
+2. [8%] SETUP — Stalker-7 briefing, Yeung absent, geometry adjustment → 0
+3. [12%] COMPLICATION — RCI 14.2 announced; Okonkwo straightens → +1
+4. [18%] DETAIL — Doctrine-framed explanation + "the pause was not for them" → 0
+5. [22%] TRANSITION — Frames described; "Some of them had done this forty times. Some of them had done it three." → 0
+6. [28%] DESCENT — Transit shaft, hum tighter, Stalker-3 handoff → +1
+7. [33%] REVEAL — Stalker-3 Actual: "The hum near the third one is different." Jaw clenched. → +1
+8. [38%] SENSORY — Corridor: translucent walls, the copper, absorbed #1 tagged → 0
+9. [43%] DETAIL — Absorbed #2: merged with wall, Kowalski watching the face → +1
+10. [48%] TRANSITION — "Move to the junction housing." Kowalski splits east. → 0
+11. [53%] ESCALATION — Junction housing: continuous translucency, hum in sternum and teeth → +1
+12. [58%] REVEAL — Third absorbed "present" — outside doctrinal taxonomy → +1
+13. [63%] RECOGNITION — Hum structured, comparable to Singapore → 0
+14. [68%] CLIMAX — Hum shifts, carries a name. Jaw clenched. Involuntary. → +1
+15. [72%] FULCRUM — Kowalski: "Did you hear that?" → +1
+16. [75%] CLASSIFICATION — "Acoustic mimicry. Doctrine is clear." → −1
+17. [78%] WITHDRAWAL — Formation withdraws; hum fades to baseline → −1
+18. [82%] PROCESSING — After-action report: accurate, complete, incomplete → 0
+19. [85%] HONESTY — Field log: Singapore comparison, Deng specifics → 0
+20. [88%] CORROBORATION — "I heard it too." Four words. → +1
+21. [92%] MEMORY — Murmansk sergeant: list confiscated, bunk stripped → 0
+22. [95%] CLOSE — Signs the report. "The pen did not shake." → 0
+
+**Beat density:** 1 per ~205 words — very high density, appropriate for PRESSURE chapter with operational pacing
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Section break. Briefing → descent + corridor entry. | 8/10 |
+| Scene 2→3 | Section break. Corridor sweep → junction housing approach. Kowalski split inserted. | 8/10 |
+| Scene 3→4 | Section break. Breach zone → garrison. Strongest: operational → documentary, containment → honesty. | 9/10 |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph rhythm | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 10/10 |
+| Immersion | 9/10 |
+| **Overall** | **9.0/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 45%
+- **Reflection:** 55%
+
+### Pacing Notes
+
+- **Strengths:** The operational register IS the pacing device — Nikolai's clipped, tactical sentences create constant forward momentum even when the content is reflective. The dual-record structure (Scenes 1-3 are the event; Scene 4 is two written versions of it) is a structural mirror that gives the chapter two climaxes: the perceptual crisis (Scene 3) and the documentary crisis ("I heard it too"). The beat density (1/205 words) is the highest in the book — every paragraph advances the tension. The Stalker-3 Actual handoff is a masterful micro-scene: two beats, one supporting character, jaw clenched.
+- **Concerns:** Dialogue at ~8% is below the 10-20% target. Justified by Nikolai's register (terse, operational) and PRESSURE mode, but future Nikolai chapters should push toward 12-15% as Kowalski forces more exchanges. The junction housing scene (Sc3) carries the heaviest thematic and perceptual load — monitor for bloat in future chapters where Nikolai encounters the absorbed.
+- **Recommendations:** This chapter establishes Nikolai's PRESSURE subtype: **military-operational** (doctrine as pacing, classification as tension management, dual-record as structural device). The A/R balance (45/55) is the most action-heavy non-Aurielle chapter — Nikolai moves through space, takes readings, gives orders. Future chapters should maintain this kinetic quality. The "the pause was not for them" beat is a signature device — Nikolai's internal commentary on his own briefing cadence — and should recur.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2 debut, PRESSURE mode, 4-5K words)
+- Adjacent chapter contrast: ✅ (Ch 10 = Kira debut/TEXTURE → Ch 11 = Nikolai debut/PRESSURE — mode shift)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1226,8 +1326,9 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 8 | Fuxi | 5,400 | TEXTURE | ~20% | 2→3→5→4 | 8.8 | 30/70 | ✅ |
 | 9 | Mirelle | 5,200 | TEXTURE | 25% | 3→6→3 | 9.0 | 35/65 | ✅ |
 | 10 | Kira | 5,200 | TEXTURE | 18% | 3→8→3 | 9.0 | 30/70 | ✅ |
+| 11 | Nikolai | 4,500 | PRESSURE | 8% | 3→7→5 | 9.0 | 45/55 | ✅ |
 | 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
-| 11–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| 12–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
@@ -1237,12 +1338,12 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 1/12 | 1/12 | 8.6 | 3.7 | 0P/1T | 📝 |
+| Phase 2 | 2/12 | 2/12 | 8.8 | 4.3 | 1P/1T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2026-02-11_
-_Updated by: Retroactive update — Chapter 10 rhythm analysis_
+_Last updated: 2026-02-12_
+_Updated by: Chapter 11 rhythm analysis_

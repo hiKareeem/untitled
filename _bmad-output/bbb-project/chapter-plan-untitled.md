@@ -1104,7 +1104,7 @@ All six threads converge on BLACKWEIR **radially, not geographically:**
 ### Remaining Items for Chapter-Level Planning
 - [x] Exact chapter count and POV assignment sequence — Prologue + 51 chapters + Epilogue = 53 units
 - [x] Scene-level beats within each chapter — see Detailed Chapter-by-Chapter Outline section
-- [x] Epigraph assignments — see §Epigraph System below (17 named works, 54 fragments, Mäkelä thread)
+- [x] Epigraph assignments — see §Epigraph System below (17 named works, 54 fragments, Haraldsen thread)
 - [x] Mirelle's exact absorption timing — Ch 40, Phase 4, mid-sentence thought-dictation via implant
 - [x] Nuwa POV vs. through-Fuxi decision — through Fuxi Phases 1–3; POV debut Phase 4 Ch 42
 - [x] Kira's introduction timing — late Phase 1, Ch 10 ("The Gap")
@@ -1343,7 +1343,7 @@ Epigraphs are a **parallel fragmentary narrative** — entirely skippable, a rew
 ### Phase 2 — "Fault Lines"
 
 **Ch 11** — *Reflections from the Perimeter*
-> "Sgt. Mäkelä kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there."
+> "Sgt. Haraldsen kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there."
 
 **Ch 12** — *A History of Silence*
 > "There are hours missing from the executive schedule of every NitroCore CEO since the founding. The same hours, the same quarterly rhythm. No explanation has ever been offered or requested."
@@ -1381,7 +1381,7 @@ Epigraphs are a **parallel fragmentary narrative** — entirely skippable, a rew
 ### Phase 3 — "The Weight of Knowing"
 
 **Ch 23** — *Reflections from the Perimeter*
-> "Rotation was supposed to be ninety days. Mäkelä's unit did two hundred and six. Nobody signed the extension. It just didn't come."
+> "Rotation was supposed to be ninety days. Haraldsen's unit did two hundred and six. Nobody signed the extension. It just didn't come."
 
 **Ch 24** — *A History of Silence*
 > "The geological surveys for Sectors 7 through 12 were commissioned in 2168 and completed in 2169. The surveys for Sectors 13 through 18 were commissioned on the same date. No public record of these surveys has been located."
@@ -1456,7 +1456,7 @@ Epigraphs are a **parallel fragmentary narrative** — entirely skippable, a rew
 > "When the cost function converges, the system does not celebrate. It simply stops iterating. What humans call 'success' is the moment the machine no longer needs to change."
 
 **Ch 47** — *Reflections from the Perimeter*
-> "Mäkelä's effects were returned to his family in a standard-issue container. His notebooks were not among them. I have been told this is procedure."
+> "Haraldsen's effects were returned to his family in a standard-issue container. His notebooks were not among them. I have been told this is procedure."
 
 **Ch 48** — *Book of Radiance*, 31:7
 > "What was taken shall be held. What was held shall not be lost. What was not lost shall speak in the time of the great returning."
@@ -1475,7 +1475,7 @@ Epigraphs are a **parallel fragmentary narrative** — entirely skippable, a rew
 
 ### Hidden Threads (author reference only)
 
-- **Mäkelä** — Ch 11 (word list, vanished) → Ch 23 (rotation extended, unsigned) → Ch 47 (effects returned, notebooks confiscated). Ghost story in three fragments.
+- **Haraldsen** — Ch 11 (word list, vanished) → Ch 23 (rotation extended, unsigned) → Ch 47 (effects returned, notebooks confiscated). Ghost story in three fragments. *(Renamed from Mäkelä to avoid collision with Kai Mäkelä, Arctic-7 engineer in prologue.)*
 - **Solberg's Appendix D** — Ch 22 (mentioned in recommendation) → Ch 41 (two words). ~120K words apart.
 - **"E."** — Ch 33 only. Solberg's colleague who wrote "Don't." Never identified.
 - **Book of Radiance as void physics** — Ch 3 (absorption), Ch 26 (geological resonance), Ch 37 (fire/BLACKWEIR), Ch 48 (the absorbed speaking). Each passage more literally true than the last.

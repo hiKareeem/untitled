@@ -162,7 +162,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Increasing post-BLACKWEIR: refuge for Sump survivors
 
 **Key Events:**
-- [To be populated as chapters are written]
+- **Ch 11:** Stalker-7 deploys to Level 7 residential breach, junction housing 7-14. Three absorbed (civilian woman, civilian man embedded in wall, conduit tech embedded in junction housing). RCI 14.2-14.6 (anomalous for stratum). Hum near junction carries perceived name (Corporal Deng). Containment successful, area secured.
 
 **Significance:** The buffer zone between Sump expendability and Spire privilege. Where "normal" is maintained longest.
 

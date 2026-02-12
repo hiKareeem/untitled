@@ -107,6 +107,15 @@ chapters:
     metaFile: "chapter-10-meta.yaml"
     mode: TEXTURE
 
+  chapter_11:
+    title: "Acoustic Mimicry"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4500
+    completedDate: "2026-02-12"
+    metaFile: "chapter-11-meta.yaml"
+    mode: PRESSURE
+
   chapter_18:
     title: "Signal"
     status: v1-complete
@@ -116,8 +125,8 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 11-17, 19-51, Epilogue
+# Chapters not yet written: 12-17, 19-51, Epilogue
 
-completedCount: 12
-totalWords: 62200
-lastUpdated: "2026-02-11"
+completedCount: 13
+totalWords: 66700
+lastUpdated: "2026-02-12"
