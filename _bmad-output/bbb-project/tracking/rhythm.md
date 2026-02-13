@@ -4,7 +4,7 @@ type: tracking
 lastUpdated: "2026-02-12"
 lastChapter: "Chapter 44"
 totalChapters: 53
-analyzedChapters: 15
+analyzedChapters: 16
 project_name: "Untitled"
 ---
 
@@ -1691,8 +1691,9 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
+| **42** | Nuwa | 4,200 | PRESSURE | 0% | 4→7→5 | 9.2 | 5/95 | ✅ |
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
-| 37–42,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| 37–41,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1702,10 +1703,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 6/12 | 6/12 | 8.7 | 4.8 | 2P/4T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 2/9 | 2/9 | 9.0 | 6.3 | 0P/2T | 📝 |
+| Phase 4 | 3/9 | 3/9 | 9.1 | 5.7 | 1P/2T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-13_
-_Updated by: Chapter 43 — "Eleven Seconds" rhythm analysis_
+_Updated by: Chapter 42 — "Still" rhythm analysis_

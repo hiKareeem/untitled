@@ -204,6 +204,16 @@ chapters:
     mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
     notes: "AEGIS second chapter. First live fire (Mumbai). Style profile fully suspended. Evaluated against dossier §10 Writing Guide."
 
+  chapter_42:
+    title: "Still"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 4200
+    completedDate: "2026-02-13"
+    metaFile: "chapter-42-meta.yaml"
+    mode: PRESSURE
+    notes: "Nuwa POV debut. BLACKWEIR from residential apartment. Solo chapter — 0% dialogue. Phase 4."
+
 # Book 2-3 POV Addition
 # AEGIS (non-human POV — LLM-evolved autonomous weapons platform)
 # Debut: Book 2 (BLACKWEIR callback chapter)
@@ -212,6 +222,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 21
-totalWords: 101900
+completedCount: 22
+totalWords: 106100
 lastUpdated: "2026-02-13"

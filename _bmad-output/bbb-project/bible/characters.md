@@ -647,10 +647,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Cost of survival, expendability
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Grinding, dreaming of escape she's realistic enough to call dreams
-- Dominant Beliefs: "If you're small enough, the system doesn't notice you."
-- Internal Contradictions: Has accepted the terms of a system designed to use her up
+- Phase: 4/5 (BLACKWEIR — Survival)
+- Emotional State: Post-spike stillness; the Lie simultaneously validated and destroyed
+- Dominant Beliefs: "If you're small enough, the system doesn't notice you." (cracking — "Evacuation priority: None assigned" proves she was never in the calculation)
+- Internal Contradictions: Compliance saved her life and damned her — the habits that kept her trapped are the habits that kept her alive
 
 **The Lie:** If you're small enough, the system doesn't notice you
 
@@ -666,9 +666,9 @@ This bible dimension tracks **current character states**:
 | Nephthys + Imani | Future (trilogy) | None yet | Must meet — not Book 1, maybe Book 3. Three women, three answers to *what do you owe the dead?* Load-bearing for trilogy moral architecture. |
 
 **Current Arc:** Invisible → Deliberately Invisible
-- Current Phase: 1/5 (Equilibrium — daily Sump grind)
-- Progression: Beginning
-- Next Step: Environment deteriorates; dreams of better implant
+- Current Phase: 4/5 (BLACKWEIR — survived by stillness)
+- Progression: Midpoint — the Lie cracks but the behavior persists
+- Next Step: Ch 49 reunion with Fuxi; Phase 5 relief shelter → walks out
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -680,16 +680,19 @@ This bible dimension tracks **current character states**:
 | 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
 
 **Appearances:**
-- Last Appearance: Chapter 8 — "White Noise" (first in-person appearance)
-- Next Planned Appearance: Through Fuxi's POV, Phase 2+ chapters
+- Last Appearance: Chapter 42 — "Still" (POV debut)
+- Next Planned Appearance: Chapter 49 — reunion with Fuxi ("The Quietest Scene")
 
 **Recent History:**
+- **Ch 42 (POV debut):** Alone in Block 14 apartment when BLACKWEIR hits. Power out, hum changes to wet/pressurized. Watches walkway absorption through window — people embedded into infrastructure (not dissolved). Neighbor's hand on window: textile reclamation staining identical to Nuwa's own (thematic double). Does NOT go to the door. Does NOT look for Fuxi. Subtracts him from actionable list — "the way she'd subtracted her father's name at eleven." Soaks dishcloth, moves via masonry back stairwell to annex (the route she's walked for years because metal corridors make her implant itch). Masonry annex: manual door, poured concrete, no conduit connections. Coherence spike (11 seconds): physical pressure through masonry, nosebleed from air pressure (not implant resonance), implant housing cracks. Registry overlay: "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned." Survives by accumulated compliance. Pact scar visible in cracked implant glow. "She was still." Key new elements: subtraction as decision-making metaphor, Mrs. Huang (neighbor, absorbed), emergency credit stash (412 creds behind water heater), violet glow as BLACKWEIR visual signature.
 - **Ch 8 (first in-person):** Cooking when Fuxi arrived — soy paste, chili oil, reconstituted protein, actual vegetables from Hum Market. Hair shorter (self-cut with plant shears, uneven). Chemical staining (violet) on forearms/hands from textile solvent. Built case for P-3 / Mid-Level transfer: Yuen's plant doing QC transfers, employer-sponsored transit permits (different queue from Sump-to-Spires), sensory filter eliminates headaches (saves 2 creds/week on suppressants). Already researched which queue, which permit class, which employer. Transit permits for quarter locked — but window opens. Fuxi conceded when her math proved better. Shimmer near Hum Market route — deflected with "Normal crowd." Went to bed 22:00 (early shift tomorrow, 06:00-14:00 on this rotation). Current frame glitching near conduit junctions, costing her accuracy — accuracy costing the transfer.
 - **Ch 4 (through Fuxi):** Messaged Fuxi about a Shenlong P-3 frame with sensory filter found at the Hum Market (stall 14, blue tarp, 1,200 credits, refurbished, new filter module). Voice message building her case — fast, layered, stacking reasons. The P-3 would reduce hum-drunk headaches, fix AR overlay glitching near conduit junctions, enable application for Mid-Level textile positions requiring functional Frame for quality-control interface. Currently working textile recycling, second shift (ends 20:00). Current Frame drops AR overlay near conduit lines — rendered her supervisor as a floating torso for ten minutes. Warned Fuxi against volunteering for Resonance District overtime (double rate offered — "I also know why they're offering double rate"). Chose a deep blue textile for the bed because it's the furthest thing from orange — everything in the Sump is orange. Humor intact. Dreams intact. Pragmatism intact.
 
 **Key Objects:**
-- Current frame: salvaged, second-hand, drops AR overlay near conduit junctions. Cosmetically and functionally degraded.
-- Target frame: Shenlong P-3 with sensory filter. 1,200 creds. Held at Hum Market stall 14 for two weeks.
+- Current frame: salvaged, second-hand, drops AR overlay near conduit junctions. Cosmetically and functionally degraded. **Post-Ch 42: housing cracked (hairline split along repaired seam), 23% charge, overlay frozen.**
+- Target frame: Shenlong P-3 with sensory filter. 1,200 creds. Held at Hum Market stall 14 for two weeks. **Post-BLACKWEIR: irrelevant — the world that sold implant upgrades no longer exists.**
+- Emergency credit stash: 412 creds, physical chip, unregistered, behind water heater (established Ch 42)
+- Wet dishcloth: survival tool and comfort object during BLACKWEIR. Soak, press, breathe, repeat.
 
 ---
 

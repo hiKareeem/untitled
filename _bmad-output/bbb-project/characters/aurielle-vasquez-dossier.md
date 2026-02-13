@@ -49,6 +49,8 @@ She has the kind of bone structure that photographs well and the kind of eyes th
 
 Her hands. When she's confident, they rest flat on surfaces — anchored, claiming territory. When the mask is slipping, she touches her left wrist, rotating it slightly, a remnant of a childhood fracture that healed perfectly but left a phantom habit. During the BLACKWEIR authorization, her hand is on the table. Flat. Still. The chapter ends there.
 
+If you want to make Aurielle's bilateral crimson oculars canon, you should introduce them early — Ch 1 or Ch 7 would be the natural place. A detail like "the crimson overlays in her peripheral vision reorganized themselves" or "her left eye tracked the board members while her right parsed Thorne's data feed" would establish it without exposition.
+
 **Story adaptation:**
 Her physicality serves two narrative functions. First, her "natural" appearance is the visual marker of Spire privilege — the reader should register that her unmodified body is the product of more wealth than most characters will ever see. Second, her stillness is armor. Across her arc, the prose should track her body language as a barometer: Phase 1 stillness is confidence; Phase 3 stillness is control; Phase 4 stillness is dissociation. Same posture, different interior. The reader learns to read her hands the way Thorne does.
 

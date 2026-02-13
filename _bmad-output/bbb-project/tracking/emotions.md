@@ -1,8 +1,8 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-12"
-lastChapter: "Chapter 44"
+lastUpdated: "2026-02-13"
+lastChapter: "Chapter 42"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -560,6 +560,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 - **Ch 4 (messages)**: Pragmatic excitement → humor → case-building urgency → protective warning
 - **Ch 8 (in person)**: Domestic competence → case-building determination → sardonic armor → compressed relief → mutual silence → pragmatic exhaustion
+- **Ch 42 (POV debut)**: Disorientation → arithmetic default → escalating dread → horror (hand on window) → subtraction → tactical movement → stillness → pressure (coherence spike) → inventory → compliance as survival
 
 ### Per-Chapter Emotional Beats
 
@@ -575,6 +576,18 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 | Ch 8 — Beat 4 | Compressed relief | Fuxi's concession ("the-math-is-manageable") | Compressed smile — "That's up." Not victory; relief that the plan might hold | Fuxi: sees the arrangement forming |
 | Ch 8 — Beat 5 | Mutual silence (deflection) | Shimmer near Hum Market | "Normal crowd." — repeats Fuxi's words; doesn't elaborate | Fuxi: doesn't push; the silence is shared |
 | Ch 8 — Beat 6 | Pragmatic exhaustion | Going to bed; early shift tomorrow | Goes to bed at 22:00; frame glitching, accuracy slipping, the cost accumulating | Fuxi: sits on the bed in the dark |
+| Ch 42 — Beat 1 | Disorientation | Power out; hum changes to wet pressure | Stands in dark kitchen; reads municipal alert twice; "The words were administrative. The hum was not." | None — alone |
+| Ch 42 — Beat 2 | Arithmetic default | Implant heating; crisis begins | Credit tally runs before fear: "Nine hundred creds saved. Three hundred short." The number arrives before anything else. | None — internal |
+| Ch 42 — Beat 3 | Escalating dread | Hum pulses; infrastructure clenches | Counts inventory (rice, water, stash, implant charge). Does not move toward the door. Listens. | None — alone |
+| Ch 42 — Beat 4 | Horror (witnessed) | People on walkway absorbed into infrastructure | Watches through window; sees bodies joining metal — "the outline of a person pressed into metal, embedded" | None — witnesses from inside |
+| Ch 42 — Beat 5 | Visceral identification | Neighbor's hand on window — same textile staining | Sees her own staining mirrored on the dying woman's fingers. Pulls hand back. Holds it to chest. | None — the woman is absorbed |
+| Ch 42 — Beat 6 | Subtraction | Fuxi's absence; door and window as options | Subtracts Fuxi from actionable list — "the way she'd subtracted her father's name at eleven." Not grief, not surrender — arithmetic. | None — internal |
+| Ch 42 — Beat 7 | Tactical stillness | Wet cloth, back stairwell, masonry route | Soaks dishcloth. Moves toward annex via masonry walls. Hand on cool concrete. Doesn't look at violet glow. | None — alone |
+| Ch 42 — Beat 8 | Compressed waiting | Annex; hum muffled; notification frozen on overlay | Registry classification: "Evacuation priority: None assigned." Stares at it. "Classifications didn't have close buttons." | None — alone in annex |
+| Ch 42 — Beat 9 | Physical overwhelm | Coherence spike (11 seconds) | Body locks. Jaw clenched. Pressure through skull/sinuses. Nosebleed. Implant cracks. | None — alone |
+| Ch 42 — Beat 10 | Inventory as recovery | Spike passes; hum settles to "fuller" | Wipes nose. Re-soaks cloth. Counts: water, cloth, implant, body, Fuxi (unknown). | None — alone |
+| Ch 42 — Beat 11 | Compliance as survival | Recognizes what saved her | "Not bravery. Not strategy. Not even decision." The accumulated habit of routing along masonry walls. | None — internal |
+| Ch 42 — Beat 12 | Stillness (terminal) | Pact scar in cracked implant glow | "Surrounded by the hum of everyone who hadn't made it to a room without pipes." She is still. | None — alone; the chapter ends |
 
 ---
 
@@ -746,7 +759,7 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 | Imani | Supporting | 8 | Habitual endurance → Alert concern → Controlled fear → Managed frustration → Gentle challenge → Quiet anguish → Residual faith → Committed presence | Active — loyal to the person, not the theology; will seek transit papers |
 | Fuxi Lin | POV | 19 | Ch 4: Routine competence → Body-knowledge alarm → Enforced compliance. Ch 8: Domestic warmth → Provider-math → Argumentative tenderness → Mutual silence → Deliberate suppression → Provider-math as love | Active — Phase 1/5; question forming, domestic weight added; unease includes what Nuwa didn't say |
 | Chen Wei | Supporting | 2 | Institutional patience → Institutional certainty | Active — no arc; calcified mirror |
-| Nuwa Lin | Supporting (first in-person Ch 8) | 10 | Ch 4 (msg): Pragmatic excitement → Protective warning. Ch 8: Domestic competence → Case-building determination → Sardonic armor → Compressed relief → Mutual silence → Pragmatic exhaustion | Active — Phase 1/5; dreams intact, plan crystallizing; already researched the escape route |
+| Nuwa Lin | POV (debut Ch 42) | 22 | Ch 4 (msg): Pragmatic excitement → Protective warning. Ch 8: Domestic competence → Sardonic armor → Compressed relief → Mutual silence. Ch 42: Disorientation → Arithmetic default → Escalating dread → Horror (witnessed absorption) → Visceral identification (hand on window) → Subtraction → Tactical stillness → Compressed waiting → Physical overwhelm (coherence spike) → Inventory as recovery → Compliance as survival → Stillness (terminal) | Active — Phase 4/5; Lie cracking; compliance saved her; pact scar in cracked implant glow |
 | Kira Calloway | POV | 20 | Ch 10: Permanent soft performance → Genuine rush → Professional suppression → Exhaustion → Controlled ritual → Alarm → Avoidance → Fraying → Suspended waiting. Ch 18: Routine numbness → Performer shutdown → Self-justifying ritual → Deliberate avoidance → Reluctant reading → Chemical holding → Institutional alarm → Pattern assembly → Reluctant engagement → Almost-certain control | Active — Phase 1→2/5; scream network assembling, avoidance broken, Priya's question answered |
 | Dex | Indirect (text) | 3 | Ch 10: Comic normalizer. Ch 18: Sarcastic alarm → Dark humor → Affectionate deflection | Active — group chat member; bulletin response reveals awareness beneath comedy |
 | Priya | Indirect (text) | 3 | Ch 10: Serious truth-seeker. Ch 18: Measured challenge → Direct confrontation (Suki) → Private urgency (DM to Kira) | Active — truth-seeker validated; network builder |
