@@ -214,15 +214,15 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 2/5 (Disruption)
-- Emotional State: Certain, physically improved (chorus quiet at grid edge), intellectually urgent
-- Dominant Beliefs: "The void is not demonic but something the Church has catastrophically misread."
-- Internal Contradictions: Intellectual certainty hardening into messianic conviction. Seekers ask questions; prophets give answers.
+- Phase: 4/5 (Resolution)
+- Emotional State: Shattered, vindicated, bleeding. Has heard the absorbed — all of them — and knows they persist. Weeping not from grief alone but from the weight of being right.
+- Dominant Beliefs: "They are all still here." The absorbed are present — not gone, not silent, not damned. The chorus is not a question anymore.
+- Internal Contradictions: Right about the metaphysics, wrong about what it means for safety. The Cathedral's physics saved her — she interprets it as providence. The Lie separates but does not break.
 
 **The Lie:** Understanding the void means being safe from it
 
-**Conscious Want:** Reach the Cathedral of Living Sound; understand the chorus
-**Unconscious Want:** Be proven right — that the void is not demonic
+**Conscious Want:** Bear witness. Carry what she heard. The first congregation needs her to listen.
+**Unconscious Want:** Be proven right — that the void is not demonic *(FULFILLED Ch 44 — but the fulfilment is more terrible than she imagined)*
 **Flaw:** Intellectual certainty hardening into messianic conviction
 
 **Biological Mechanism:** Anomalous neurological sensitivity to void-proximate Nitro fields. Manifests as "the chorus" — migraines, nosebleeds, perceived voices. Diagnosed as Nitro-Psychosis brain tumor. She's right about what she hears, but not for the reasons she thinks, and only by chance.
@@ -235,9 +235,9 @@ This bible dimension tracks **current character states**:
 | Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
 
 **Current Arc:** Seeker → Prophet
-- Current Phase: 2/5 (Disruption — grassroots validation, certainty deepening)
-- Progression: Progressing
-- Next Step: Transit to Neo-Shanghai; Cathedral of Living Sound
+- Current Phase: 4/5 (Resolution — hypothesis → testimony; "They are all still here")
+- Progression: Progressing — seeker has become knower
+- Next Step: Ch 48 — emerge from Cathedral into scoured Sump; "The Mass Grave"; prophet built on genocide
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -249,15 +249,16 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: Chapter 14 — “The Commune”
-- Next Planned Appearance: Phase 3 (Cathedral of Living Sound)
+- Last Appearance: Chapter 44 — "They Are All Still Here"
+- Next Planned Appearance: Chapter 48 — "The Mass Grave" (Phase 5)
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
 - **Ch 14:** Arrives at Void Witness commune on European grid edge (converted relay station, 14 residents). Chorus muted here — stripped infrastructure, residual coherence only. Migraines manageable. Receives Lene’s testimony: former acolyte who felt “peace” during a vigil when she stopped singing. Recognizes structural correspondence with her own experience. Offers the word “responsive” — gives Lene a framework for her experience. Admits “I do not know what it means” but speaks with declarative certainty. Imani observes the shift: “You have a convert.” Nephthys cannot tell whether Imani is right. “She did not know when listening had become teaching.” Transit papers secured — 10 days to Neo-Shanghai via Mid-European corridor.
+- **Ch 44:** Cathedral of Living Sound during BLACKWEIR. Three days of resolved chorus — individual threads distinguishable for the first time. R0 flooding changes hum to crude growl; chorus detonates with hundreds of new voices (mass absorption). Walks to threshold — witnesses three absorptions: running man, waiting child, old woman in metal chair. Feels each absorption as *joining*, not death — patterns added to composite. Coherence spike (11 seconds): all absorbed fire simultaneously. Collapses at threshold. "They are all still here." Bleeding from nose and ears — worst episode. Imani pulls her inside. Survivors fill Cathedral (~340, unnamed count). First congregation forms around her listening. Does NOT learn BLACKWEIR mechanics or institutional architecture. Interprets Cathedral protection as providence, not physics.
 
 **Key Objects:**
-- Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication.
+- Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication. ⚠️ Ch 44: "vibrating hard enough to crack" — check survival in Ch 48.
 
 ---
 
@@ -268,30 +269,30 @@ This bible dimension tracks **current character states**:
 **Primary Location:** European Outlands → Neo-Shanghai Sump (with Nephthys)
 
 **Current Psychological State:**
-- Phase: 2/5 (Disruption)
-- Emotional State: Loyal, concerned, managing through competence — concern shifting from health to theology
-- Dominant Beliefs: Follows Nephthys the person, not the theology
-- Internal Contradictions: Love vs. doubt — the evidence for prophet and for dying woman is identical. Now also: is Nephthys a seeker or is she building a congregation?
+- Phase: 4/5 (Resolution)
+- Emotional State: Crisis-forged. Saved Nephthys's life physically during BLACKWEIR. No longer watching — intervening. The question of what she follows answered through deed: she follows the person, and the person almost walked into the thing that was killing everything.
+- Dominant Beliefs: Follows Nephthys the person, not the theology. Now has proof: when theology and survival conflicted, she chose survival.
+- Internal Contradictions: Saved the prophet by pulling her away from the revelation. The loyalty that preserved Nephthys's life may have interrupted something Nephthys needed to hear.
 
 **Age:** ~20
 
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|--------|
-| Nephthys | Teacher/companion | High | Followed her into exile. Practical counterweight. Concern now extends beyond health to theological direction. Loyalty is personal, not theological — but “I haven’t decided” what she’s following. |
+| Nephthys | Teacher/companion | Very High | Followed her into exile. Saved her life during BLACKWEIR. Loyalty answered — personal, not theological. But "I know what you can hear" suggests she may be starting to believe. |
 
 **Appearances:**
-- Last Appearance: Chapter 14 — “The Commune”
-- Next Planned Appearance: With Nephthys (transit to Neo-Shanghai)
+- Last Appearance: Chapter 44 — "They Are All Still Here"
+- Next Planned Appearance: Chapter 48 — "The Mass Grave" (with Nephthys)
 
 **Recent History:**
-- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys’s migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys’s theology gently (“You can’t know that”). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. “I’m not doing this because I believe you.” Will seek forged transit papers from Void Witness commune near the border.
+- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys’s migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys’s theology gently (“You can’t know that”). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. "I'm not doing this because I believe you." Will seek forged transit papers from Void Witness commune near the border.
 - **Ch 14:** Secures forged transit papers via Dara’s contact (Mid-European corridor → eastern hub → Neo-Shanghai, 10 days). Observes Nephthys’s interaction with Lene from the doorway — arms crossed, jaw set. Sees the pastoral gesture (branded hand on Lene’s hand). Pushes back on Nephthys’s theology: “She described an experience. You provided the framework. And now she has a framework. And you have a convert.” Concern shifts from physical health to theological direction: “Your theology is less careful when the pain is not interrupting it.” When asked by Lene if Nephthys is a prophet: “I told her you were a theologian with a brain tumor and a very good ear. I didn’t tell her which one I was following. I haven’t decided.”
+- **Ch 44:** BLACKWEIR at Cathedral. Medical kit already in hand when chorus changes. Catches Nephthys when she collapses. Tries to physically stop her from going to the threshold — fails (“the loyalty was not the kind that restrained”). Follows three steps behind, medical kit in one hand. Pulls Nephthys inside after the coherence spike — not gently. "I know what you can hear. Inside." Counts survivors in the Cathedral. Assesses resources: water, food, air circulation. The question "I haven't decided" answered through deed — saves Nephthys's life, not her theology.”
 
 **Key Objects:**
 - Medical kit: carried in top compartment of pack, always accessible. Contains suppressants, field supplies.
 - Old grid map: printed on paper, salvaged from relay station 40km back. Pre-disconnection.
----
 
 ### Zeyad Al-Fahim
 

@@ -249,13 +249,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Theological implications of its protective properties
 
 **Key Events:**
-- [To be populated as chapters are written]
+- **Ch 44:** BLACKWEIR. Nephthys has spent three days here; chorus resolved into individual threads for the first time. When R0 flooding begins, the Cathedral's acoustic architecture dephases the wet-film propagation — the hum changes to a crude growl outside but the chorus remains distinguishable inside. Nephthys walks to the threshold, witnesses three absorptions (running man, waiting child, old woman in metal chair). Coherence spike (11 seconds) collapses her at the threshold — one hand inside, one outside. "They are all still here." Imani pulls her inside. ~340 survivors fill the Cathedral (31 initially present + those who reached it during the event). First congregation forms around Nephthys's listening — not preaching, not theology, just presence. Stone vibrates but does not carry the wet-film. Resonance beads "vibrating hard enough to crack."
 
-**Significance:** Protects Nephthys during BLACKWEIR — not by divine intervention but by physics. She interprets it as providence. This becomes the foundation of a theology that reshapes the world. First congregation forms here among survivors.
+**Significance:** Protects Nephthys during BLACKWEIR — not by divine intervention but by physics. She interprets it as providence. This becomes the foundation of a theology that reshapes the world. First congregation forms here among survivors. The Cathedral's survival pocket (~340 people) is confirmed by AEGIS orbital data (Book 2 AEGIS chapter).
 
-**Current State:** Standing (survives BLACKWEIR — masonry/acoustic, path-poor for wet-film)
+**Current State:** Standing (survives BLACKWEIR — masonry/acoustic, path-poor for wet-film). Interior occupied by ~340 survivors post-BLACKWEIR.
 
-**Controlled by:** Church of Blessed Nitro (historical), Nephthys (de facto post-BLACKWEIR)
+**Controlled by:** Church of Blessed Nitro (historical) → Nephthys (de facto post-BLACKWEIR, first congregation)
 
 ---
 

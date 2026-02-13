@@ -104,9 +104,9 @@ If BLACKWEIR delivers — if those 8-10 chapters where every POV experiences the
 
 ## Revision Notes
 
-1. The author does not revise. This is a biological constraint, not a choice. First drafts are the drafts. Quality control happens during drafting (style audit, character audit, continuity checks) — not after. Author note: I do revise chapters, I revise the writing. I don't revise messages I send to the AI.
+1. The author does not revise. This is a biological constraint, not a choice. First drafts are the drafts. Quality control happens during drafting (style audit, character audit, continuity checks) — not after. Author note: I do revise chapters, I revise the writing. I don't revise messages I send to the AI. There is no biological constraint, I likely misspoke.
 
-2. ~~Dramatic irony: when the reader knows something the characters don't.~~ (Author knows what dramatic irony is.) Author note: The parenthetical and strikethrough are not mine. I do not revise messages I recieve from AI either.
+2. ~~Dramatic irony: when the reader knows something the characters don't.~~ (Author knows what dramatic irony is.) Author note: The parenthetical and strikethrough are not mine. I do not revise messages I *recieve* from AI either.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Rhythm Tracking"
 type: tracking
-lastUpdated: "2026-02-11"
-lastChapter: "Chapter 12"
+lastUpdated: "2026-02-12"
+lastChapter: "Chapter 44"
 totalChapters: 53
-analyzedChapters: 14
+analyzedChapters: 15
 project_name: "Untitled"
 ---
 
@@ -1690,7 +1690,8 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **B2: AEGIS-2** | AEGIS | 3,400 | N/A | 2% | 3→5→7→10→8→3 | 9.2 | 0/100 | ✅ |
 | 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
-| 37–45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
+| 37–43,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1700,10 +1701,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 6/12 | 6/12 | 8.7 | 4.8 | 2P/4T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 0/9 | 0/9 | — | — | — | 📝 |
+| Phase 4 | 1/9 | 1/9 | 9.0 | 6.8 | 0P/1T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-12_
-_Updated by: Chapter 15 — "Correlation 0.94" rhythm analysis_
+_Updated by: Chapter 44 — "They Are All Still Here" rhythm analysis_

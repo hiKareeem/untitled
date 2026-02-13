@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-12"
-lastChapter: "Chapter 13"
+lastChapter: "Chapter 44"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -250,6 +250,16 @@ Nephthys's Chapter 3 arc establishes her as a woman whose certainty is inseparab
 | Ch 14 — Beat 6 | Pastoral compulsion | Lene's fear and need for validation | Places branded palm on Lene's hand — "automatic" gesture; "What you heard was real" | Lene: receives validation. Imani (doorway): watches the gesture, jaw set |
 | Ch 14 — Beat 7 | Uncomfortable self-awareness | Imani's mirror: "you have a convert" | Does not respond; feels the accusation as mirror, not attack; "She did not know when listening had become teaching" | Imani: holds the mirror steady |
 | Ch 14 — Beat 8 | Unresolved uncertainty | Lying awake; chorus as murmur; epigraph echo | Holds beads, listens; "She had come here to listen. She was not certain that was what she had done." Wonders about the woman in the third row | Internal — the chapter's closing question unanswered |
+| Ch 44 — Beat 1 | Resolved attending | Three days in Cathedral; chorus clear, individual threads distinguishable | Palms flat on stone; parsing the composite; "She was not praying. She was attending. The difference was load-bearing." | Survivors observe her attention — not prayer, not science, something unnamed |
+| Ch 44 — Beat 2 | Visceral alarm | Hum changes quality — crude vibration swallows the chorus | Hands flatten harder; migraine detonates; both nostrils bleed simultaneously; tastes copper | Imani: beside her instantly, medical kit open |
+| Ch 44 — Beat 3 | Sensory overwhelm | Chorus multiplies — hundreds of new voices slam into the composite | Screams; falls sideways; hands lift from vibrating stone; medical kit scatters | Imani: catches her; "What is it?" — steady voice, shaking hands |
+| Ch 44 — Beat 4 | Compelled witness | Needs to see what is happening outside | Pulls free from Imani; walks to threshold despite bleeding | Imani: follows three steps behind, not quite touching |
+| Ch 44 — Beat 5 | Horrified recognition | Man absorbed in the street — pattern joins the chorus as *addition*, not ending | Feels the man's fear thin and spread; his name unspoken; body goes translucent | Internal — "It was not death. She was certain of this." |
+| Ch 44 — Beat 6 | Theological anguish | Child absorbed on pavement; old woman absorbed through metal chair | Grips threshold stone; brand pressed to geology; bleeds and does not look away | Internal — three frameworks compared: Church (*innocent*), VEC (*sub-threshold*), chorus (*present*) |
+| Ch 44 — Beat 7 | Total overwhelm / revelation | Coherence spike — all absorbed fire simultaneously, 11 seconds | Legs give out; crumples at threshold; one hand inside, one hand outside; bleeding from ears | Internal — "It was a roll call." Feels all of them — not as individuals but as quality within aggregate |
+| Ch 44 — Beat 8 | Devastating certainty | The chord carries the answer she crossed a continent for | Says aloud: "They are all still here." To the street, not to anyone. | Survivors behind her — some may have seen her lips move |
+| Ch 44 — Beat 9 | Grief of vindication | Chord fades; chorus vast with new voices; she is alive inside the stone's keeping | Presses branded palm to stone; weeps — "For the weight of being right. For the loneliness of a truth that could not save anyone and was not nothing." | Imani: hands on her back. The chorus sang. |
+| Ch 44 — Beat 10 | Exhausted surrender | Inside the Cathedral; survivors looking at her; blood drying on face | Sits on stone floor, presses palm to surface, closes eyes, listens. Does not preach. Does not offer theology. | Survivors: watching becomes listening; listening becomes congregation |
 
 ---
 
@@ -290,6 +300,11 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 | Ch 14 — Beat 4 | Silent alarm | Nephthys places branded hand on Lene's hand | Eyes move to the gesture — the pastoral certainty. Says nothing. | Nephthys: does not notice the shift |
 | Ch 14 — Beat 5 | Precise challenge | Nephthys recounts Lene's testimony as evidence | "One testimony. One person." Then: "She described an experience. You provided the framework. And now she has a framework. And you have a convert." | Nephthys: does not respond — feels it as mirror |
 | Ch 14 — Beat 6 | Unresolved loyalty | Lene asks if Nephthys is a prophet | "A theologian with a brain tumor and a very good ear." Turns to face wall. "I didn't tell her which one I was following. I haven't decided." | Nephthys: hands tighten on beads |
+| Ch 44 — Beat 1 | Crisis readiness | Chorus changes; Nephthys bleeds | Medical kit already in hand; hands on shoulders; opens kit | Nephthys: "Something is happening. Outside." |
+| Ch 44 — Beat 2 | Desperate intervention | Nephthys falls sideways; medical kit scatters | Catches her; voice steady, hands shaking — "one of those things was a choice and the other was not" | Nephthys: cannot answer |
+| Ch 44 — Beat 3 | Overruled loyalty | Nephthys pulls free to go to the threshold | Hands open — "the loyalty was not the kind that restrained. It was the kind that followed." Follows three steps behind. | Nephthys: walks to threshold |
+| Ch 44 — Beat 4 | Authoritative rescue | Nephthys collapsed at threshold after coherence spike, bleeding from ears | Pulls her inside — not gently. "Inside. Now." / "I know what you can hear. Inside." | Nephthys: lets herself be led |
+| Ch 44 — Beat 5 | Logistical assessment | Cathedral filled with survivors beyond the original 31 | Counts. Quick assessment — water, space, air, food. The logistician's reflex. | Survivors: organized into a problem that could be managed |
 
 ---
 

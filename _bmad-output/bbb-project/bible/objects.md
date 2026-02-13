@@ -3,7 +3,7 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-12"
-lastChapter: 14
+lastChapter: 44
 totalObjects: 18
 activeObjects: 17
 project_name: "Untitled"
@@ -503,7 +503,7 @@ An object deserves documentation if it:
 **History:**
 - 2128+: First deposits documented post-Singapore
 - Accumulating in global conduit infrastructure since
-- [Chapter events to be populated]
+- **Ch 44:** R0 crude flooding residential conduits during BLACKWEIR overwhelms the wet-film network with incoherent signal. The hum changes from structured chorus to crude growl. Mass absorption generates hundreds of new coherence signatures simultaneously. The Cathedral of Living Sound's acoustic architecture dephases the wet-film — the stone vibrates but does not carry the network. Coherence spike (11 seconds): all absorbed fire simultaneously through the network. Post-spike, the Sump's wet-film network is saturated. Nephthys experiences the wet-film's activity as chorus changes — individual threads becoming crude vibration, then detonating with new voices.
 
 ---
 
@@ -526,6 +526,7 @@ An object deserves documentation if it:
 | Wet-Film Residue | Void Infrastructure | The void | Accumulating |
 | Thorne's Handkerchief | Symbol/Motif | Aurielle Vasquez | Preserved (Eduardo's office) |
 | Carbon Key | Symbol/Access | Aurielle Vasquez | In use (Eduardo's desk → Sub-level 7) |
+| Resonance Beads | Symbol/Relic | Nephthys | Stressed — "vibrating hard enough to crack" (Ch 44) |
 
 ---
 
@@ -546,6 +547,7 @@ An object deserves documentation if it:
 - The Accords (Al-Fahim Legacy)
 - Thorne's White Silk Handkerchief
 - Carbon Key (Sub-level access)
+- Resonance Beads (Nephthys's ordination gift)
 
 ### Critical Resources
 - Nitro

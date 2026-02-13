@@ -161,7 +161,17 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
-# Chapters not yet written: 16-17, 19-51, Epilogue
+  chapter_44:
+    title: "They Are All Still Here"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 5300
+    completedDate: "2026-02-12"
+    metaFile: "chapter-44-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 4 BLACKWEIR — Nephthys POV. Cathedral of Living Sound. First congregation. AEGIS as invisible novelist."
+
+# Chapters not yet written: 16-17, 19-43, 45-51, Epilogue
 
 # Book 2 Chapters
   book2_aegis_blackweir:
@@ -192,6 +202,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 19
-totalWords: 92000
+completedCount: 20
+totalWords: 97300
 lastUpdated: "2026-02-12"
