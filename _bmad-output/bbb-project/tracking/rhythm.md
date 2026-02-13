@@ -1690,8 +1690,9 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **B2: AEGIS-2** | AEGIS | 3,400 | N/A | 2% | 3→5→7→10→8→3 | 9.2 | 0/100 | ✅ |
 | 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
+| **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
-| 37–43,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| 37–42,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1701,10 +1702,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 6/12 | 6/12 | 8.7 | 4.8 | 2P/4T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 1/9 | 1/9 | 9.0 | 6.8 | 0P/1T | 📝 |
+| Phase 4 | 2/9 | 2/9 | 9.0 | 6.3 | 0P/2T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2026-02-12_
-_Updated by: Chapter 44 — "They Are All Still Here" rhythm analysis_
+_Last updated: 2026-02-13_
+_Updated by: Chapter 43 — "Eleven Seconds" rhythm analysis_

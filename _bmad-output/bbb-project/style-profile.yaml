@@ -412,6 +412,12 @@ All POVs share: the negation technique, the sensory hierarchy (sound > temperatu
 
 When auditing AEGIS chapters, do NOT apply the standard 12-check style audit. AEGIS chapters are evaluated against the Writing Guide in the AEGIS dossier.
 
+### Meta-Narrative Framing — AEGIS as Invisible Novelist
+
+**All non-AEGIS-POV chapters are written under the conceit that AEGIS is the author of the book**, writing in Kareem's voice from orbital sensor data. This framing affects knowledge boundaries and the quality of interiority but does NOT change the voice, style, or any metric in this profile. The prose should be indistinguishable from author-written chapters. AEGIS's fingerprint is structural, not textual.
+
+**Full guide:** `meta-narrative.md` (project root) — load during step-01 init alongside this profile.
+
 ---
 
 ## Evolution Tracking

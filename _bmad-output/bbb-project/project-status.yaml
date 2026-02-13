@@ -161,6 +161,16 @@ chapters:
     metaFile: "chapter-18-meta.yaml"
     mode: TEXTURE
 
+  chapter_43:
+    title: "Eleven Seconds"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4600
+    completedDate: "2026-02-13"
+    metaFile: "chapter-43-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 4 BLACKWEIR — Kira POV. Coherence spike mid-stream. 847,219 viewers. AEGIS as invisible novelist."
+
   chapter_44:
     title: "They Are All Still Here"
     status: v1-complete
@@ -202,6 +212,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 20
-totalWords: 97300
-lastUpdated: "2026-02-12"
+completedCount: 21
+totalWords: 101900
+lastUpdated: "2026-02-13"
