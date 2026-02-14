@@ -181,7 +181,27 @@ chapters:
     mode: TEXTURE
     notes: "Phase 4 BLACKWEIR — Nephthys POV. Cathedral of Living Sound. First congregation. AEGIS as invisible novelist."
 
-# Chapters not yet written: 16-17, 19-43, 45-51, Epilogue
+  chapter_16:
+    title: "Private Log"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 4800
+    completedDate: "2026-02-14"
+    metaFile: "chapter-16-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 2 transition. Private log correlating RCI spikes with disappearances. Kindling vocabulary. Two architectures of obligation. Timeline fix (Option C) applied. AEGIS as invisible novelist."
+
+  chapter_17:
+    title: "The Back-Channel"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4900
+    completedDate: "2026-02-14"
+    metaFile: "chapter-17-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 2 transition. First Zeyad-Mirelle exchange. First information bridge between POVs. AEGIS as invisible novelist."
+
+# Chapters not yet written: 19-41, 45-51, Epilogue
 
 # Book 2 Chapters
   book2_aegis_blackweir:
@@ -222,6 +242,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 22
-totalWords: 106100
-lastUpdated: "2026-02-13"
+completedCount: 23
+totalWords: 111000
+lastUpdated: "2026-02-14"

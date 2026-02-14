@@ -1,10 +1,10 @@
 ---
 title: "Rhythm Tracking"
 type: tracking
-lastUpdated: "2026-02-12"
-lastChapter: "Chapter 44"
+lastUpdated: "2026-02-14"
+lastChapter: "Chapter 16"
 totalChapters: 53
-analyzedChapters: 16
+analyzedChapters: 17
 project_name: "Untitled"
 ---
 
@@ -1787,12 +1787,12 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 6/12 | 6/12 | 8.7 | 4.8 | 2P/4T | 📝 |
+| Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 3/9 | 3/9 | 9.1 | 5.7 | 1P/2T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2026-02-13_
-_Updated by: Chapter 42 — "Still" rhythm analysis_
+_Last updated: 2026-02-14_
+_Updated by: Chapter 16 — "Private Log" rhythm analysis_
