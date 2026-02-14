@@ -427,6 +427,8 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - 2044: Nitro Accords signed here (ceremonial hall, 6th floor — now used for press conferences)
 - **Ch 6:** Quarterly Accords Compliance Review. Dr. Patel mentions Arctic-7 under security classification (not scientific review). Zeyad requests full briefing, denied — routed to Classification Directorate pipeline (10-15 business days). Discovers "contained" in GCTA briefing p.9.
+- **Ch 17:** Arctic-7 data request returns: 14 pages, 8 redacted under Annex C. Zeyad initiates encrypted back-channel with Mirelle from forgotten cantonal terminal in east corridor. First omission from institutional record.
+- **Ch 45:** BLACKWEIR aftermath. Class 4 → Class Apex reclassification. Committee emergency session in Chamber 3: votes on response framework (how to discuss, not what to do). Dead-hand fires Day 5 — Mirelle's cache arrives. Zeyad publishes public statement through Black Babel relay. Article 12, Section 8 violated.
 
 **Building Details (established Ch 6):**
 - 42 floors (required 3 rounds of canton commission review)

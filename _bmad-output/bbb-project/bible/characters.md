@@ -304,10 +304,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional impotence
 
 **Current Psychological State:**
-- Phase: 2/5 (Disruption)
-- Emotional State: Institutional faith cracking; first extra-institutional act committed
-- Dominant Beliefs: "If the record is complete, justice is possible." *(tested — the record IS complete, produces nothing)*
-- Internal Contradictions: Mistakes documentation for action; transparency advocate now using secret channels
+- Phase: 4/5 (Crisis — public statement published)
+- Emotional State: Composure repurposed — institutional vocabulary turned against institution; pen set down
+- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — the record IS complete, the institution monitors)*
+- Internal Contradictions: Has broken the institution he spent 34 years serving; the Accords he invoked contain the article that will prosecute him
 
 **The Lie:** If the record is complete, justice is possible
 
@@ -323,9 +323,9 @@ This bible dimension tracks **current character states**:
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
 **Current Arc:** Dutiful Diplomat → Disgraced Whistleblower
-- Current Phase: 2/5 (Disruption — back-channel operational, record bifurcated)
-- Progression: First fracture → first extra-institutional act
-- Next Step: Deepening Mirelle exchanges; shapes of the crisis emerge; Delegate Kova challenge
+- Current Phase: 4/5 (Crisis — public statement published, Article 12 Section 8 violated)
+- Progression: First fracture → back-channel → emergency clause rejected → public statement
+- Next Step: Phase 5 — suspension, prosecution, hearing
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -337,21 +337,23 @@ This bible dimension tracks **current character states**:
 | 5/5 | Suspended, prosecuted for leaking. The Accords punish the enforcer. | The record is public. The institution punishes the recorder. |
 
 **Appearances:**
-- Last Appearance: Ch 17 ("The Back-Channel")
-- Next Planned Appearance: Ch 30 or Phase 3 chapter
+- Last Appearance: Ch 45 ("The Partial Transmission")
+- Next Planned Appearance: Phase 5 chapter (hearing/prosecution)
 
 **Recent History:**
 - **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
 - **Ch 17:** Arctic-7 data request returns after 23 business days: 14 pages, 8 redacted under Annex C. Sensor logs "unavailable," VEC assessment "outside authorization," classification routing redacted in full. Discovers Annex C dual-authorization mechanism — designed mutual dependency ensuring neither the Classification Directorate nor the VEC can release data without the other's consent. Recognizes: "The system is processing it exactly as designed." That evening, initiates first encrypted back-channel contact with Mirelle Dubois via Mediterranean corridor contact's protocol address — text-only exchange from forgotten cantonal terminal outside UGC network. Shares institutional data (classification anomaly, "contained" status, Annex B/C routing, observer seat empty 14 months, extractors late, reports recycled). Receives Mirelle's field data (18 disappearances, 5 sectors, RCI correlations, Arctic-7 co-origin annotation). Neither has the full picture; the fragments are the same shape. Does NOT log the exchange — first omission from institutional record. Writes in notebook: "I did not log this exchange." The notebook now contains two categories: institutional observations (loggable) and back-channel intelligence (not). Sits alone in the dark. The practiced smile absent. The face beneath it closer to Khalil's.
+- **Ch 45:** BLACKWEIR reports arrive Day 1 — Class 4 → Class Apex reclassification. Committee emergency session: votes on response framework (how to discuss, not what to do). Zeyad votes yes. Sits in office the rest of the day. Dead-hand fires Day 5: Mirelle's 8-item evidence cache arrives via Black Babel relay on encrypted channel. Raw thought-dictation with degrading syntax. Final packet: "The infrastructure was always designed to—" Nothing after. Writes public statement on encrypted relay; attaches Mirelle's full cache, committee vote transcripts (11-3 emergency clause rejection), Annex C redacted response, emergency clause invocation, photographed notebook pages including "I did not log this exchange." Publishes through Black Babel relay — every public-facing channel. Article 12, Section 8 violated. Pen set down. "The record was complete."
 
-**Key Objects Established (Ch 6, updated Ch 17):**
+**Key Objects Established (Ch 6, updated Ch 17, updated Ch 45):**
 - Antique pen (Khalil → Tariq → Kamal → Zeyad; purchased Rue du Rhône, 2039; operational security disguised as nostalgia) — *Ch 17: now writes in both records, institutional and secret*
 - Leather notebook (purchased same shop; for observations the formal record doesn't accommodate) — *Ch 17: bifurcated into loggable + unlogged categories*
 - Portrait/photograph (two scales: Hall of Nations institutional memory + desk personal copy)
 - 3 datapads (classified briefing summaries)
 - Printed agendas (annotated in margins during sessions)
 - 14-page Annex C response (AF-2175-0041) — formatted absence, 8 pages redacted
-- Encrypted back-channel protocol (Mediterranean corridor contact source, text-only, unlogged)
+- Encrypted back-channel protocol (Mediterranean corridor contact source, text-only, unlogged) — *Ch 45: dead-hand fires through this channel; public statement published through same relay*
+- Zeyad's Public Statement (NEW Ch 45) — published via Black Babel relay; contains: Mirelle's cache (8 items), committee transcripts, Annex C response, emergency clause documents, photographed notebook
 
 ---
 
@@ -668,7 +670,7 @@ This bible dimension tracks **current character states**:
 | Aurielle | Idealist → Reluctant Tyrant | 1/5 | Thorne's real briefing |
 | Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
 | Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
-| Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
+| Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
@@ -718,6 +720,7 @@ This bible dimension tracks **current character states**:
 
 | AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
 | AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
+| Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 2/5, Ch 17 last appearance | Phase 4/5 (Crisis); dead-hand received; public statement published; Article 12 Section 8 violated; pen set down; notebook photographed and attached | Ch 45 |
 
-_Last updated: 2026-02-14 (Ch 41 "The Data" v1-complete)_
-_Updated by: Chapter 41 bible update_
+_Last updated: 2026-02-15 (Ch 45 "The Partial Transmission" v1-complete)_
+_Updated by: Chapter 45 bible update_

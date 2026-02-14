@@ -653,6 +653,8 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 6: Used throughout — margin annotations on printed agenda, notebook entries, formal data request. "The pen moved easily. Black ink on cream paper."
+- Ch 17: Writes in both records — institutional annotations and unlogged back-channel intelligence. Same instrument, different function.
+- Ch 45: "In the notebook, the pen moved." First movement in days — writes the public statement. Then set down: "The pen was beside it — not in his hand anymore." The pen's arc: held → paralyzed → moves → released.
 
 ---
 
@@ -675,6 +677,8 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 6: Arctic-7 observations recorded. Five questions written in ink: "Who contained it. When. At whose authorization. What required containment. Where are the personnel."
+- Ch 17: Bifurcated — now contains two categories: institutional observations (loggable) and back-channel intelligence (not). "I did not log this exchange" written in ink.
+- Ch 45: Photographed and attached to public statement. The private record becomes public evidence. Pages including "I did not log this exchange" now published through Black Babel relay. The five questions from Ch 6 have multiplied into forty-seven.
 
 ---
 
@@ -697,6 +701,8 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 6: Touched twice. First: morning ritual (unconscious calibration). Second: post-committee (deliberate, after the denial). The preamble recited from memory.
+- Ch 17: Present as standard — the face beneath the practiced smile "closer to Khalil's."
+- Ch 45: Touched during morning walk (cool frame, ritual eroding). Later touched deliberately before writing statement — reframed as precedent: "the alternative to signing was worse" applied to the alternative to filing. 41 original signatories visible in the photograph (fabric flags, not holographic).
 
 ---
 
@@ -764,5 +770,5 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-14_
-_Updated by: Chapter 39 — "Pressure Doors" bible update_
+_Last updated: 2026-02-15_
+_Updated by: Chapter 45 — "The Partial Transmission" bible update_

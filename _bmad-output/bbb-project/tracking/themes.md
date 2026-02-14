@@ -1,8 +1,8 @@
 ---
 title: "Theme Tracking"
 type: tracking
-lastUpdated: "2026-02-14"
-lastChapter: "Chapter 40"
+lastUpdated: "2026-02-15"
+lastChapter: "Chapter 45"
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -478,8 +478,9 @@ Personal obligation vs. institutional failure. Compassion as radical act in a un
 | Ch 42 | Irrelevance (Dominant), Commodification (Strong), Complicity (Strong), Identity (Strong), Atrocity (Moderate), Architecture (Moderate), What We Owe (Moderate), Truth (Background) | **Nuwa Lin POV DEBUT — Block 14 apartment during BLACKWEIR.** The system's most complete expression of irrelevance: "Evacuation priority: None assigned." Compliance saves her — masonry routing, stillness, wet cloth. Absorption witnessed as embedding (people joining infrastructure). Hand on window: textile staining mirrors Nuwa's own (thematic double). Subtraction as decision-making — removing Fuxi, father, Lian, permit, upgrade from actionable list. Coherence spike as physical pressure. The Lie validated and destroyed simultaneously. Everyone who acted was absorbed. The compliant survived. Full analysis: `tracking/chapter-42-themes.md` |
 | Ch 44 | Identity (Dominant), Irrelevance (Dominant), What We Owe (Strong), Atrocity (Strong), Commodification (Strong), Truth (Moderate), Complicity (Moderate), Architecture (Moderate) | **Nephthys POV — Cathedral of Living Sound during BLACKWEIR.** Identity dissolves into pattern; the absorbed persist "not as bodies, not as minds." Coherence spike: all absorbed fire simultaneously — individual being irrelevant by scale, yet colours persist in white light. BLACKWEIR as the theme-purest expression of progress-requires-atrocity. R0 crude as suffering weaponized. Infrastructure kills through conduit, junction, metal chair. "They are all still here" — proto-theology. Imani's debt paid physically. First congregation born in mass grave. Narrator knowledge (AEGIS fingerprint) exceeds character knowledge. Full analysis: `tracking/chapter-44-themes.md` |
 | Ch 41 | Truth (Dominant), Complicity (Strong), Architecture (Strong), Atrocity (Strong), Commodification (Moderate), Identity (Moderate), What We Owe (Moderate), Irrelevance (Background) | **Sofia POV — VEC HQ during BLACKWEIR (breath chapter).** Complete data, zero power. Instruments confirm Confluence exactly as models predicted. VPI operationalized without her knowledge — institution classified scientist, weaponized science. Locked out of classified briefing (12 flights + biometric lock). Dead-hand cache fragments arrive via Black Babel. Two truth-architectures merge: atmospheric + field evidence in the same encrypted archive. Tolerance band = kill radius. Coupling events as institutional language for human absorption. "The data was complete. The data had prevented nothing." Full analysis: `tracking/chapter-41-themes.md` |
+| Ch 45 | Architecture (Dominant), Complicity (Dominant), Truth (Strong), What We Owe (Strong), Commodification (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | **Zeyad POV — New Geneva, post-BLACKWEIR (radiation chapter).** Institutional reports arrive through channels, formatted — Class 4 → Class Apex reclassification. Committee votes on response framework (how to discuss, not what to do). Dead-hand fires Day 5: Mirelle's 8-item evidence cache arrives via Black Babel. Raw thought-dictation with degrading syntax. Final packet: "The infrastructure was always designed to—" Nothing after. Zeyad writes public statement on encrypted relay; attaches Mirelle's cache, committee transcripts, Annex C redacted response, photographed notebook. Publishes through Black Babel relay — institutional vocabulary turned against the institution. Article 12, Section 8 violated. Pen set down. "The record was complete." Epigraph: committee record ("continue to monitor") — insufficiency as design. Full analysis: `tracking/chapter-45-themes.md` |
 
 ---
 
-_Last updated: 2026-02-14_
-_Updated by: Chapter 41 — "The Data" bible update_
+_Last updated: 2026-02-15_
+_Updated by: Chapter 45 — "The Partial Transmission" bible update_

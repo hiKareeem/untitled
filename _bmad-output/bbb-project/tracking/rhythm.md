@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 41"
+lastChapter: "Chapter 45"
 totalChapters: 53
-analyzedChapters: 19
+analyzedChapters: 20
 project_name: "Untitled"
 ---
 
@@ -1899,6 +1899,113 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 45 — Zeyad: "The Partial Transmission"
+
+**Phase:** 4 | **Mode:** TEXTURE (institutional) | **Date analyzed:** 2026-02-15
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,600 | 3,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~52 | — | — |
+| Dialogue % | ~0% | 10–20% | ⚠️ (justified — solo chapter, no interlocutors) |
+| Avg sentence length | ~18 words | 12–16 | ⚠️ (Zeyad's diplomatic register runs longer; consistent with Ch 6/17) |
+| Fragment % | ~12% | 10–20% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |                              ████
+ 7 |                         ████ ████
+ 6 |                    ████ ████ ████ ████
+ 5 |               ████ ████ ████ ████ ████
+ 4 |          ████ ████ ████ ████ ████ ████
+ 3 | ████████ ████ ████ ████ ████ ████ ████
+ 2 | ████████ ████                          ████
+ 1 |
+   |-----|-----|-----|-----|-----|-----|-----|-----
+     S1     S2     S3a    S3b    S3c    S3d    S4
+    Reports Cmte   Dead-  Read   Final  Write  Pen
+             vote  hand   pkts   pkt    stmt   down
+```
+
+- **Scene 1 (Reports):** Tension 3 — institutional autopilot; classified reports arrive, margin annotations, morning walk. Ritual eroding.
+- **Scene 2 (Committee):** Tension 4 — Class Apex reclassification, response framework vote, institutional paralysis. Sits in office the rest of the day.
+- **Scene 3a (Dead-hand):** Tension 6 — cache arrives; "not a message — a data transfer." Recognition.
+- **Scene 3b (Reading):** Tension 7 — evidence items in sequence; degrading syntax; pen in hand, not writing.
+- **Scene 3c (Final packet):** Tension 8 — "The infrastructure was always designed to—" Nothing after. Peak.
+- **Scene 3d (Statement):** Tension 7 — composure repurposed; writes public statement; institutional vocabulary weaponized.
+- **Scene 4 (Release):** Tension 2 — pen set down; Jordanian flag flickering; "The record was complete." Exhale.
+
+### Beat Map
+
+| Beat | % Position | Tension | Delta | Description |
+|------|-----------|---------|-------|-------------|
+| 1 | 0% | 3 | — | First report arrives 06:41; overhead light off; pen annotations |
+| 2 | 5% | 3 | 0 | Second report; qualifying language |
+| 3 | 10% | 3 | 0 | Morning walk; portrait touch; Jordanian flag; preamble not recited |
+| 4 | 18% | 4 | +1 | Class Apex reclassification; emergency coordination |
+| 5 | 25% | 4 | 0 | Committee session; response framework vote |
+| 6 | 32% | 3 | -1 | Returns to office; sits facing window; the rest of the day |
+| 7 | 42% | 6 | +3 | Dead-hand fires; cache arrives on encrypted relay |
+| 8 | 55% | 7 | +1 | Evidence items arrive in sequence; degrading syntax |
+| 9 | 65% | 8 | +1 | Final packet: "The infrastructure was always designed to—" |
+| 10 | 72% | 7 | -1 | Composure assessed; moral clarity |
+| 11 | 80% | 7 | 0 | Touches photograph; opens document on relay |
+| 12 | 90% | 6 | -1 | Writes statement; pen moves in notebook |
+| 13 | 95% | 2 | -4 | Publishes; pen set down; Jordanian flag; exhale |
+
+### Transitions
+
+| Transition | Score | Notes |
+|-----------|-------|-------|
+| S1→S2 | 9 | Reports → committee is institutional continuity; the building performs escalation through procedure |
+| S2→S3 | 8 | Office paralysis → dead-hand arrival; time skip (Day 1 → Day 5) as compression |
+| S3→S4 | 9 | Statement complete → pen set down; the transition IS the release |
+| **Overall** | **8.7** | Clean institutional architecture; the building's rhythm carries the chapter |
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Sentence rhythm | 9 | Diplomatic register: longer clauses, procedural cadence, negation-before-assertion (3 instances) |
+| Paragraph structure | 9 | Bimodal: institutional long paragraphs + short declarative breaks |
+| Scene transitions | 9 | Institutional continuity; the office as constant |
+| Tonal consistency | 8 | Diplomatic register maintained; the shift to action is internal, not tonal |
+| **Overall flow** | **8.8** | Institutional TEXTURE chapter; composure as architecture |
+
+### Action/Reflection Balance
+
+- **Action:** ~10% (walking, touching portrait, reading packets, writing statement)
+- **Reflection:** ~90% (institutional processing, moral assessment, memory, recognition)
+- **Balance:** 10/90 — correct for TEXTURE institutional chapter; the action IS the publication
+
+### Style Alignment
+
+| Check | Value | Target | Status |
+|-------|-------|--------|--------|
+| NbA instances | 3 | 2-4 | ✅ |
+| Action/Reflection | 10/90 | 20-30/70-80 | ✅ (TEXTURE institutional — lower action justified) |
+| Sensory detail | Tactile (pen, paper, portrait frame), visual (flag, lake, display) | Sensory hierarchy | ✅ |
+| Flow score | 8.8 | 8.5+ | ✅ |
+
+### Pacing Notes
+
+- **Strengths:** The institutional register provides the chapter's architecture — every scene is mediated through procedural vocabulary, committee structure, classification systems. The tension curve builds through Scene 3 (dead-hand arrival and reading) before the sharp drop at Scene 4 (pen set down). The 0% dialogue is extreme but correct: Zeyad is alone throughout, processing institutional reports and then Mirelle's cache. The chapter's emotional weight comes from the contrast between institutional formatting and raw thought-dictation syntax.
+- **Concerns:** Five consecutive Phase 4 chapters with very low dialogue (Ch 39: ~5%, Ch 42: 0%, Ch 40: 0%, Ch 41: ~1%, Ch 45: 0%). The institutional register mitigates fatigue through its distinct rhythm, but the reader has not heard a conversation in ~20,000 words. Monitor for Ch 46 (Aurielle) where dialogue should return.
+- **Recommendations:** TEXTURE subtype confirmed: **institutional/procedural** (committee procedure as scene architecture, classification systems as tension engine, institutional vocabulary weaponized against institution). The Jordanian flag bookend (opening + closing) provides structural closure. The pen-down moment should land as release, not climax.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 4, TEXTURE radiation chapter, 3-5K words)
+- Adjacent chapter contrast: ✅ (Ch 44 = Nephthys/TEXTURE theological-witness → Ch 45 = Zeyad/TEXTURE institutional-procedural → Ch 46 = Aurielle/TEXTURE corporate-aftermath)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1930,7 +2037,8 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **42** | Nuwa | 4,200 | PRESSURE | 0% | 4→7→5 | 9.2 | 5/95 | ✅ |
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
 | **41** | Sofia | 4,200 | TEXTURE | ~1% | 4→7→3→9→5 | 9.0 | 15/85 | ✅ |
-| 37–39,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| **45** | Zeyad | 4,600 | TEXTURE | 0% | 3→4→8→2 | 8.8 | 10/90 | ✅ |
+| 37–39 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1940,10 +2048,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 5/9 | 5/9 | 9.1 | 6.2 | 2P/3T | 📝 |
+| Phase 4 | 6/9 | 6/9 | 9.0 | 5.8 | 2P/4T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
-_Last updated: 2026-02-14_
-_Updated by: Chapter 41 — "The Data" rhythm analysis_
+_Last updated: 2026-02-15_
+_Updated by: Chapter 45 — "The Partial Transmission" rhythm analysis_

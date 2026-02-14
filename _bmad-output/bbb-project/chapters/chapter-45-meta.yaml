@@ -1,0 +1,124 @@
+# Chapter 45 Metadata
+# Generated: 2026-02-15
+
+chapter: 45
+title: "The Partial Transmission"
+pov: "Zeyad Al-Fahim"
+povAppearance: 3  # Ch 6, Ch 17, Ch 45
+phase: 4
+wave: "Radiation"
+mode: TEXTURE
+subtype: "institutional/procedural"
+wordCount: 4600
+scenes: 4
+status: v1-complete
+completedDate: "2026-02-15"
+
+# Timeline
+timeline:
+  start: "BLACKWEIR Day 1 (06:41 — first report arrives)"
+  end: "BLACKWEIR Day 5+ (public statement published)"
+  span: "~5 days"
+  relationship: "Post-BLACKWEIR institutional aftermath; overlaps with Ch 40-44 events"
+
+# Epigraph
+epigraph:
+  source: "Proceedings of the 114th Quarterly Compliance Review, United Global Council"
+  attribution: "Committee Record, 2175"
+  quote: "The committee notes the motion. The committee will continue to monitor."
+  thread: "Ch 6 (Khalil — ornamentality) → Ch 17 (Khalil — exhaustion) → Ch 45 (committee record — insufficiency)"
+
+# Key Characters
+characters:
+  pov: "Zeyad Al-Fahim"
+  referenced:
+    - name: "Mirelle Dubois"
+      role: "Dead-hand evidence source; absent (absorbed Ch 40)"
+    - name: "Khalil Al-Fahim"
+      role: "Great-grandfather; photograph, pen, Accords precedent"
+    - name: "VEC liaison"
+      role: "Delivers committee briefing; unnamed"
+
+# Key Locations
+locations:
+  primary: "New Geneva — UGC Headquarters"
+  interior:
+    - "Zeyad's office (second floor, east corridor)"
+    - "Hall of Nations (morning walk)"
+    - "Committee Chamber 3 (emergency session)"
+
+# Key Objects
+objects:
+  - name: "Antique pen"
+    state: "Moves for first time in days → set down after statement"
+    arc: "held → paralyzed → moves → released"
+  - name: "Leather notebook"
+    state: "Photographed; pages attached to public statement; private becomes public"
+  - name: "Khalil's photograph"
+    state: "Touched (ritual eroding); reframed as precedent for unauthorized action"
+  - name: "Jordanian flag"
+    state: "Still flickering; 'Nobody had fixed it. Nobody was going to fix it.'"
+  - name: "Dead-hand cache"
+    state: "Received Day 5; 8 items; final packet incomplete"
+  - name: "Public statement"
+    state: "NEW — published via Black Babel relay"
+
+# New Canonical Details
+newCanon:
+  - "Forty-one original signatories to the Nitro Accords (2044), distinct from 87 current member states"
+  - "Article 12, Section 8 — the provision Zeyad violates by publishing classified material"
+  - "Class Apex — highest classification tier, triggered by BLACKWEIR"
+  - "Response framework — procedural mechanism for discussing (not acting on) crisis events"
+  - "Committee vote chain: emergency clause (11-3 rejection, Phase 3) → response framework (unanimous)"
+
+# Thematic Analysis
+themes:
+  dominant:
+    - "Architecture of Power"
+    - "Systemic Complicity"
+  strong:
+    - "Truth as Weapon"
+    - "What We Owe"
+  moderate:
+    - "Commodification of Suffering"
+    - "Irrelevance of Individual Being"
+  background:
+    - "Progress Requires Atrocity"
+    - "Where Identity Ends"
+
+# Style Audit Results
+auditResults:
+  styleAudit: "12/12 pass, 1 fix applied (negation list trimmed)"
+  characterAudit: "Zeyad 9.5/10, Khalil 9.0/10, Mirelle 9.5/10"
+  continuityCheck: "13/13 cross-chapter references verified"
+  knowledgeBoundary: "Clean (Talia → Black Babel fix applied)"
+  planAdherence: "All key beats present"
+
+# Rhythm
+rhythm:
+  flow: 8.8
+  tension: "3→4→8→2"
+  dialogue: "0%"
+  actionReflection: "10/90"
+  fragments: "12%"
+  avgSentenceLength: "~18 words"
+
+# Cross-Chapter Connections
+connections:
+  backward:
+    - "Ch 6: Five questions → forty-seven; practiced smile; Jordanian flag; Khalil's portrait"
+    - "Ch 17: 'I did not log this exchange' quoted; back-channel; Annex C; co-origin data"
+    - "Ch 40: Mirelle's 8-item transmission received; final packet matches title"
+  forward:
+    - "Phase 5: Article 12 Section 8 prosecution; hearing; pen absent or returned?"
+    - "All subsequent chapters: public statement in circulation"
+    - "Notebook published: back-channel security compromised"
+
+# Audit Flags
+auditFlags:
+  - "⚠️ Public statement now in circulation — every subsequent chapter must account for it"
+  - "⚠️ Article 12, Section 8 prosecution — Phase 5 hearing setup"
+  - "⚠️ Notebook photographed and published — 'I did not log this exchange' now public"
+  - "⚠️ Forty-one original signatories — new canonical detail, must be consistent"
+  - "⚠️ Five consecutive Phase 4 chapters with <10% dialogue — monitor for reader fatigue"
+  - "⚠️ Pen set down — does it return in Phase 5?"

@@ -1,8 +1,8 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-14"
-lastChapter: "Chapter 41"
+lastUpdated: "2026-02-15"
+lastChapter: "Chapter 45"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -437,26 +437,33 @@ Liang displays institutional neutral throughout — which is his function. He is
 | Ch 41 — Beat 1 | Institutional composure (observed) | BLACKWEIR — classified briefing on 47th floor | Seated at table with two VEC executive-lanyard personnel; hands flat (same posture as Ch 15); face turned from glass | Sofia: stands at glass; reads the posture; reads the avoidance |
 
 ---
-
 ## Character: Zeyad Al-Fahim
 
 ### Emotional Arc Summary
 
-Zeyad's debut chapter traces the erosion of institutional faith by a single fraction. He begins in ritual comfort — the walk, the portrait, the coffee — and proceeds through institutional immersion into a compliance review where his pattern recognition detects an anomaly that shifts his day from routine to quiet unease. The chapter's emotional register is deliberately muted: no alarm, no crisis, no dramatic revelation. The practiced smile settles into place. The face beneath it is older. The gap between the two has widened by a fraction, and the fraction is the distance between *no action required* and *contained*.
+Zeyad's emotional register is composure — not performance but architecture. Thirty-four years of diplomatic service have made institutional vocabulary his native emotional language: he processes crisis through procedural categories, challenge through citation, urgency through measured cadence. Chapter 6 establishes this register as both strength and prison — his morning walk through the Hall of Nations is genuine ritual, not performance, and his detection of the Arctic-7 classification anomaly is the product of deep institutional literacy. But the same register that lets him notice the anomaly prevents him from reacting to it outside institutional channels. Chapter 17 cracks the register: the Annex C response reveals institutional obstruction as design, and Zeyad's first extra-institutional act (the unlogged back-channel) ruptures his identity as record-keeper. Chapter 45 completes the arc's Phase 4 movement: institutional reports process genocide through procedural categories while Mirelle's dead-hand evidence arrives raw and unmediated. The composure holds one final time — not for the institution but for the act of turning institutional vocabulary against the institution. The pen moves in the notebook (the private record) while the public statement travels through channels the institution cannot classify. The practiced smile is gone. The pen is set down. "The record was complete."
 
 ### Dominant Emotions
 
-- **Primary**: Institutional faith — the belief that the process works if followed correctly
+- **Primary**: Institutional composure as emotional default — steady, measured, procedurally correct
 - **Secondary**: Bureaucratic pattern-recognition alarm — the professional instinct that detects procedural anomalies
-- **Conflict**: Institutional identity vs. observational intelligence — he sees the system failing but can only respond with more system
+- **Tertiary (Ch 45)**: Composure repurposed — the same steadiness now serves action instead of process
+- **Conflict**: Institutional identity vs. observational intelligence → institutional identity vs. moral necessity. He sees the system failing and finally acts outside it.
 
 ### Emotional State by Phase
 
-- **Opening**: Ritual comfort — walk, portrait, coffee. The day calibrated by inherited habit.
-- **Rising Action**: Professional immersion in compliance review → pattern-recognition trigger (security vs. scientific classification) → measured procedural challenge
-- **Midpoint**: Controlled denial — the request routed into a pipeline designed to neutralize it
-- **Post-committee**: Institutional reflection — the Accords' structural contradictions, the preamble's broken promise
-- **Closing**: Quiet escalation — "contained" confirms the anomaly. Five questions in ink. The practiced smile. The fraction.
+- **Ch 6 (Opening)**: Ritual comfort — walk, portrait, coffee. The day calibrated by inherited habit.
+- **Ch 6 (Rising)**: Professional immersion → pattern-recognition trigger → measured procedural challenge
+- **Ch 6 (Midpoint)**: Controlled denial — the request routed into a pipeline designed to neutralize it
+- **Ch 6 (Closing)**: Quiet escalation — "contained" confirms the anomaly. Five questions in ink. The practiced smile. The fraction.
+- **Ch 17 (Opening)**: Institutional frustration — Annex C response reveals obstruction as architecture
+- **Ch 17 (Rising)**: Deliberate transgression — initiates back-channel from forgotten terminal
+- **Ch 17 (Midpoint)**: Mutual recognition — "The fragments are the same shape." Trust earned through shared data.
+- **Ch 17 (Closing)**: Identity rupture — "I did not log this exchange." Sits in dark. Practiced smile absent.
+- **Ch 45 (Opening)**: Institutional autopilot — reads classified reports, annotates margins, attends committee
+- **Ch 45 (Midpoint)**: Paralysis — sits in office the rest of the day after the response framework vote
+- **Ch 45 (Turning)**: Dead-hand arrives — evidence from the dead forces recognition that composure has been complicity
+- **Ch 45 (Closing)**: Composure repurposed — writes public statement with institutional precision turned against institution. Pen set down.
 
 ### Per-Chapter Emotional Beats
 
@@ -472,6 +479,25 @@ Zeyad's debut chapter traces the erosion of institutional faith by a single frac
 | Ch 6 — Beat 8 | Escalating unease | Discovers "contained" in GCTA briefing p.9 | Puts datapad down. Looks at photograph, pen, notebook. Opens notebook. Writes five questions. | None — alone |
 | Ch 6 — Beat 9 | Institutional faith tested | 10-15 business day processing estimate | Stands at window for seven minutes. Does not write. Does not file. "The system was working. That was not the reassurance it had been this morning." | None — alone |
 | Ch 6 — Beat 10 | Composed performance over widening fracture | Preparing for next committee | Practiced smile settles into place. "The face beneath it was older. Quieter." The fraction between smile and face has widened. Walks toward Committee Chamber 2. | Colleagues would see only the smile |
+| Ch 17 — Beat 1 | Institutional frustration (deepened) | Annex C response: 14 pages, 8 redacted, 23 business days | Reads the formatted absence; recognizes dual-authorization as designed obstruction — "The system is processing it exactly as designed." | None — alone in office |
+| Ch 17 — Beat 2 | Deliberate transgression | Decision to use the encrypted protocol address | Walks to forgotten cantonal terminal in east corridor; holds the channel address for 11 days before use — deliberation as emotional register | None — alone in corridor |
+| Ch 17 — Beat 3 | Guarded exchange | First text exchange with Mirelle | Shares institutional data; receives field data; "The fragments are the same shape." Trust earned through parallel evidence. | Mirelle: "You're late." — reads his caution as institutional habit |
+| Ch 17 — Beat 4 | Identity rupture | Decision not to log the exchange | Writes in notebook: "I did not log this exchange." The first omission from the institutional record. The notebook now bifurcated. | None — alone; the record is now two records |
+| Ch 17 — Beat 5 | Quiet devastation | Sits alone in dark office | Practiced smile absent. "What happens when the record-keeper discovers that the record is designed to be incomplete?" Face closer to Khalil's. | None — alone in the dark |
+| Ch 45 — Beat 1 | Institutional autopilot | First BLACKWEIR report arrives 06:41 | Reads at desk, overhead light off, pen in hand, notebook open beside Khalil's photograph. Annotates margin: "Class 4 does not accommodate the word developing." | None — alone |
+| Ch 45 — Beat 2 | Pattern recognition (institutional) | Second report — qualifying language, no new substance | Writes: "Projected by whom." The institutional habit persists but the annotations are becoming questions, not observations. | None — alone |
+| Ch 45 — Beat 3 | Ritual erosion | Morning walk, Hall of Nations | Touches portrait (cool frame). Jordanian flag still flickering. Does not recite the preamble. "He had not recited it in days." | None — alone; the ritual is breaking |
+| Ch 45 — Beat 4 | Institutional recognition | Class Apex reclassification — emergency coordination triggered | Does not write in margin. "There was nothing to annotate." The classification changed because it could no longer contain the event. | None — internal |
+| Ch 45 — Beat 5 | Institutional paralysis | Committee votes on response framework, not intervention | Votes yes. "The framework was procedurally correct." The fullness of the notebook has accomplished nothing. | Committee: unanimous; the institution functions |
+| Ch 45 — Beat 6 | Catatonic stillness | Returns to office after vote | Sits in chair facing window and lake. "He sat there for the rest of the day." The composure is intact but empty. | None — alone |
+| Ch 45 — Beat 7 | Shock recognition | Dead-hand fires — Mirelle's cache arrives on encrypted relay | "Not a message — a data transfer." Reads packets at desk, lamp on, photograph at edge of vision. Pen in hand but not writing. | None — alone |
+| Ch 45 — Beat 8 | Accumulating horror (physicalized) | Evidence items arrive in sequence — degrading syntax | "The pen was in his hand. He was not writing." Reads faster. Infers her deterioration from the text's degradation. | None — alone |
+| Ch 45 — Beat 9 | Terminal recognition | Final packet: "The infrastructure was always designed to—" | "Nothing after." Stares at screen. The delivery is complete. The completion is the absence. | None — alone |
+| Ch 45 — Beat 10 | Composure as load-bearing (final) | Pen has not moved; hands steady; practiced smile gone for days | "The physiological architecture of a man who had attended enough crises to know that steadiness was a skill and the skill was load-bearing was performing exactly as designed." | None — internal |
+| Ch 45 — Beat 11 | Moral clarity | Thinks about committee vote chain: motion → vote → monitoring → briefing → classification → vote → framework → briefing cadence | Contrasts with Mirelle: "no institutional affiliation and no evacuation priority and no diplomatic immunity and no one coming." | None — internal |
+| Ch 45 — Beat 12 | Deliberate action | Touches photograph deliberately (not ritual); recognizes "the alternative to filing was acting" | Opens new document on encrypted relay. "The document was not a report." Begins writing public statement. | None — alone |
+| Ch 45 — Beat 13 | Composure repurposed | Writing the public statement | "In the notebook, the pen moved." Hand steady. Composure holds for the act — institutional vocabulary turned against institution. | None — alone |
+| Ch 45 — Beat 14 | Release | Publishes statement; sets pen down | "The pen was beside it — not in his hand anymore." The act is complete. The record is complete. The Jordanian flag is still flickering. | None — alone; the packets travel |
 
 ---
 
