@@ -178,6 +178,7 @@ An object deserves documentation if it:
 **History:**
 - Ch 9: First cache deposited with Black Babel via Talia Ravid. Contents: 16-disappearance dataset, geographic correlation analysis, source interviews (anonymized), raw analysis notes. Dead-hand protocol established: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients.
 - Ch 13: Arctic-7 analysis added to deposit. Contents now include: infrastructure maps (throughput density by junction), co-origin annotation by unnamed research lead, Mirelle's own overlay analysis confirming pattern. Dead-hand timer at 41 hours. "Now she had institutional data."
+- Ch 40: Final transmission via thought-dictation implant during BLACKWEIR. 8-item evidentiary summary: flood valves (7 junctions, 2171-2173), pressure doors (23 sectors), RCI readings (41 sites/6 sectors), disappearances (31 confirmed), co-origin pattern, BLACKWEIR protocol fragments, dead-hand architecture declaration, personal addendum. Transmission cut mid-sentence. Dead-hand timer: 41 hours remaining (checked in 31 hours prior). Cache now contains complete 14-month investigation.
 
 ---
 
@@ -417,7 +418,7 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 9: Registered. First window starts immediately. Package contains: 16 disappearances data, RCI readings from 11 sites, NitroCore tolerance-band data, Feed reclassification notices, anonymized source interviews, Mirelle's analysis.
-- Phase 4 (Ch 40): Fires when Mirelle is absorbed mid-sentence. Timer expires. Machine delivers.
+- Phase 4 (Ch 40): Mirelle absorbed mid-sentence during BLACKWEIR. Last check-in 31 hours prior; 41 hours remaining on current window. Two missed windows = ~113 hours post-absorption before auto-distribute fires. Machine delivers.
 - Phase 5: Data reaches recipients. Talia inherits the archive.
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-13"
-lastChapter: "Chapter 42"
+lastUpdated: "2026-02-14"
+lastChapter: "Chapter 40"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -607,7 +607,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 ### Emotional Arc Summary
 
-Mirelle's arc across three chapters traces a trajectory from driven investigation (Ch 2) through operational commitment (Ch 9) to pattern recognition (Ch 13) — the moment she stops accumulating evidence and starts reading it as architecture. In Ch 2, she is the investigator: sharp, angry, held back by an editor's caution. In Ch 9, she is the operative: methodical, paranoid, building a dead-hand protocol. In Ch 13, she is the analyst: alone in a transit box, overlaying institutional data onto her own, watching the pattern resolve into design. The shift from Ch 9 to Ch 13 is in what she does with the fear — it no longer drives the tradecraft; it's built into the architecture. The dead-hand ticks. She adds to it. She lies on a cot that conducts the hum. "Including her."
+Mirelle's arc across four chapters traces a trajectory from driven investigation (Ch 2) through operational commitment (Ch 9) to pattern recognition (Ch 13) to transmission-as-dissolution (Ch 40). In Ch 2, she is the investigator: sharp, angry, held back by an editor's caution. In Ch 9, she is the operative: methodical, paranoid, building a dead-hand protocol. In Ch 13, she is the analyst: alone in a transit box, overlaying institutional data onto her own, watching the pattern resolve into design. In Ch 40, she is the weapon firing: running through BLACKWEIR, thought-dictating everything she knows while the absorption front consumes her. The shift from Ch 13 to Ch 40 is total — fear is gone, replaced by procedural focus that persists even as her body stops responding. The dead-hand ticks. She feeds it her final transmission. Her prose degrades with her body. The chapter ends mid-word. **FINAL POV APPEARANCE.**
 
 ### Dominant Emotions
 
@@ -620,6 +620,7 @@ Mirelle's arc across three chapters traces a trajectory from driven investigatio
 - **Ch 2**: Driven investigation → frustration (Gauthier's refusal) → quiet defiance (keeps the notes)
 - **Ch 9**: Methodical preparation → operational tension → professional transaction → solitary processing
 - **Ch 13**: Operational routine → physical discomfort (nitro-ear) → quiet arithmetic (Wire dispatch) → professional exchange → analytical absorption → controlled revelation (*Architecture*) → metronomic solitude ("Including her")
+- **Ch 40**: Procedural transmission → physical deterioration (film, warmth, numbness) → cognitive persistence → empathic recognition (chalk names, warmth) → mid-sentence absorption → **white space**
 
 ### Per-Chapter Emotional Beats
 
@@ -644,6 +645,13 @@ Mirelle's arc across three chapters traces a trajectory from driven investigatio
 | Ch 13 — Beat 7 | Controlled revelation | Handwritten annotation: *Co-origin* — overlays her own data — same pattern | Reads the annotation three times. Then closes Arctic-7 and opens her own data. | None visible — the recognition is physical: behind the eyes |
 | Ch 13 — Beat 8 | Defiant resolve | "Now she had institutional data" — Gauthier answered | The sentence as destination — the story she's been building arrives at a structure | None visible — internal |
 | Ch 13 — Beat 9 | Metronomic solitude | Dark room, hum through the cot, "Including her" | Encrypts, deposits, checks timer, lies down — the hum a frequency she can trace | None visible — closing state: held, not resolved |
+| Ch 40 — Beat 1 | Procedural urgency | BLACKWEIR activation — flood valves open, pressure doors seal | Running, not panicking — fourteen months of preparation channeled into motion; initiates thought-dictation | None visible — alone in corridor |
+| Ch 40 — Beat 2 | Transmission focus | Thought-dictation to Black Babel cache RD-14 | Sentences structured, evidentiary: item numbers, data points, correlations — the professional register persists under duress | Talia (off-page): cache receiving |
+| Ch 40 — Beat 3 | Physical recognition | Wet-film residue on skin — "not condensation" | Wipes forearm, keeps running; body knowledge overriding denial — she knows what the film means | None visible — internal |
+| Ch 40 — Beat 4 | Empathic recognition | Chalk names on wall (Dao Suen, Bai Lin, Ramos) — the people she documented | "Had they felt this? This warmth?" — first time she connects her physical experience to the disappeared | None visible — the journalist becomes the story |
+| Ch 40 — Beat 5 | Cognitive persistence | Legs stop responding; body enters absorption | Mind continues dictating — "Missing articles. Incomplete clauses. The available vocabulary thinning" — professional identity outlasts physical identity | None visible — the transmission continues |
+| Ch 40 — Beat 6 | Non-hostile absorption | Warmth — "warm and present and aware and it did not hurt" | No pain, no fear — the most devastating detail; the void is not hostile | None visible — the absence of suffering is the horror |
+| Ch 40 — Beat 7 | Mid-sentence termination | "The infrastructure was always designed to—" | Prose stops. White space. The sentence never completes. | The reader: the unfinished sentence IS the emotional impact |
 
 ---
 
@@ -651,7 +659,7 @@ Mirelle's arc across three chapters traces a trajectory from driven investigatio
 
 ### Emotional Arc Summary
 
-Talia has no arc — she is a supporting character whose function is transactional. Her emotional register is flat by design: calm, professional, occasionally sardonic. The closest she gets to care is reading Mirelle's subtext ("You're not sure you'll be around when it is") and then explicitly declining to engage with it ("I'm a node, not a mourner"). Her only emotional tells are timing (the tea she drinks cold, the pause before reading the registration confirmation) and the single moment when her luminescent ring shifts from processing to *observing* — the distinction between data analysis and human assessment.
+Talia has no arc — she is a supporting character whose function is transactional. Her emotional register is flat by design: calm, professional, occasionally sardonic. The closest she gets to care is reading Mirelle's subtext ("You're not sure you'll be around when it is") and then explicitly declining to engage with it ("I'm a node, not a mourner"). Her only emotional tells are timing (the tea she drinks cold, the pause before reading the registration confirmation) and the single moment when her luminescent ring shifts from processing to *observing* — the distinction between data analysis and human assessment. In Ch 40, Talia is off-page: cache RD-14 receives Mirelle's final transmission. The dead-hand timer begins its final countdown. Talia's inheritance of the archive is the story's most consequential non-event.
 
 ### Dominant Emotions
 
@@ -671,6 +679,7 @@ Talia has no arc — she is a supporting character whose function is transaction
 | Ch 13 — Beat 2 | Professional assessment | Reviews demographics data, sees the clustering | "You're building a target on your chest" — measured, flat, risk priced like groceries | Mirelle: "Someone already found three journalists this quarter" |
 | Ch 13 — Beat 3 | Procedural recitation | Rules delivery — ritual, worn smooth by repetition | Voice goes procedural; same cadence, same content — the rules exist outside the transaction | Mirelle: sits; learned last time the rules permitted sitting |
 | Ch 13 — Beat 4 | Transactional closure | Arctic-7 chip delivered | Holds cold tea without drinking, then drinks it. "The data is the data." Turns back to chassis. | Mirelle: takes chip and leaves |
+| Ch 40 — Beat 1 (off-page) | Unknown | Cache RD-14 receives Mirelle's thought-dictation packets | Not depicted — Talia's response to the incoming transmission is unwritten | Dead-hand timer: 41 hours remaining. When two windows expire, the machine delivers. |
 
 ---
 

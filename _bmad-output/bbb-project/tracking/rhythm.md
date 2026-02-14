@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 16"
+lastChapter: "Chapter 40"
 totalChapters: 53
-analyzedChapters: 17
+analyzedChapters: 18
 project_name: "Untitled"
 ---
 
@@ -1750,6 +1750,61 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 40 — "The Infrastructure Was Always Designed To—"
+
+### Metadata
+
+| Metric | Value |
+|--------|-------|
+| **POV** | Mirelle Dubois |
+| **Word Count** | ~3,800 |
+| **Mode** | PRESSURE |
+| **Phase** | 4 (Kill Zone wave) |
+| **Scenes** | 1 (continuous — running/dictating/absorbing) |
+| **Dialogue** | 0% (internal thought-dictation only) |
+| **Epigraph** | None — white space |
+
+### Tension Arc
+
+| Section | Position | Tension | Event |
+|---------|----------|---------|-------|
+| Opening | 0% | 7 | Running — flood valves open, pressure doors sealed, BLACKWEIR active |
+| Item 1-3 | 15% | 8 | Thought-dictation begins — evidentiary items, professional register |
+| Junction chamber | 30% | 8 | Film on skin, wipes forearm — physical recognition of absorption medium |
+| Items 4-6 | 45% | 9 | Chalk names (Dao Suen, Bai Lin, Ramos) — empathic connection to disappeared |
+| Warmth onset | 60% | 9 | "Warm and present and aware" — void coherence as non-hostile absorption |
+| Legs stop | 75% | 10 | Body ceases motor function, mind continues — cognitive persistence |
+| Item 7-8 | 85% | 10 | Transmission degrading — "Missing articles. Incomplete clauses." |
+| Mid-sentence | 95% | 10→∅ | "The infrastructure was always designed to—" White space. |
+
+**Tension Profile:** 7→8→9→10→∅
+**Shape:** Ascending ramp with terminal cutoff — no resolution, no descent. The tension doesn't resolve; it is *amputated*.
+
+### Rhythm Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Avg sentence length | ~14 words | 12-16 | ✅ |
+| Fragment ratio | ~20% | 15-25% | ✅ |
+| Dialogue ratio | 0% | 10-20% (waived — no interlocutors) | ✅ |
+| NbA instances | 3-4 | 2-4 | ✅ |
+| Action/Reflection | 40/60 | 30-50/50-70 | ✅ |
+| Sensory detail | Tactile-dominant (film, warmth, vibration, numbness) | Sensory hierarchy | ✅ |
+| Flow score | 9.2 | 8.5+ | ✅ |
+
+### Pacing Notes
+
+- **Strengths:** Single continuous scene with no scene breaks mirrors the absorption front's relentless advance. The thought-dictation format provides structural variety within PRESSURE mode — it's not action-driven pressure but cognitive-persistence-under-dissolution pressure. Prose degrades organically with the body: full sentences → fragmented clauses → mid-word cutoff. 0% dialogue correct — Mirelle is alone and dictating, not conversing. Tension never descends — the ascending ramp with terminal cutoff is unique in the novel and mirrors the chapter's thesis: identity doesn't resolve, it is interrupted.
+- **Concerns:** At ~3,800 words, this is the shortest chapter in the novel. Justified by the narrative's terminal compression — the chapter IS the compression of a life into a transmission. The 0% dialogue is the third consecutive BLACKWEIR chapter with minimal dialogue (Ch 39: ~5%, Ch 42: 0%, Ch 40: 0%) — monitor for reader fatigue in Phase 4's dialogue-sparse stretch.
+- **Recommendations:** This chapter confirms Mirelle's Phase 4 PRESSURE subtype: **transmission-under-dissolution** (thought-dictation as scene architecture, prose degradation as tension engine, white space as structural terminus). The mid-sentence ending should be the most abrupt stop in the novel — no other chapter ends this way.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 4, PRESSURE mode, 3-5K words, ends mid-sentence with white space)
+- Adjacent chapter contrast: ✅ (Ch 39 = Fuxi/PRESSURE infrastructure-as-weapon → Ch 40 = Mirelle/PRESSURE transmission-under-dissolution → Ch 41 = different POV — the BLACKWEIR cross-cut continues with each chapter narrowing the aperture)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1777,9 +1832,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
+| **40** | Mirelle | 3,800 | PRESSURE | 0% | 7→8→9→10→∅ | 9.2 | 40/60 | ✅ |
 | **42** | Nuwa | 4,200 | PRESSURE | 0% | 4→7→5 | 9.2 | 5/95 | ✅ |
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
-| 37–41,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| 37–39,41,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1789,10 +1845,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 3/9 | 3/9 | 9.1 | 5.7 | 1P/2T | 📝 |
+| Phase 4 | 4/9 | 4/9 | 9.2 | 6.3 | 2P/2T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-14_
-_Updated by: Chapter 16 — "Private Log" rhythm analysis_
+_Updated by: Chapter 40 — "The Infrastructure Was Always Designed To—" rhythm analysis_

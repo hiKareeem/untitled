@@ -162,8 +162,8 @@ This bible dimension tracks **current character states**:
 **Lens:** Truth-seeking → absorbed
 
 **Current Psychological State:**
-- Phase: 2/5 (Evidence mounting)
-- Emotional State: Driven, paranoid, analytically focused
+- Phase: 4/5 (Absorbed)
+- Emotional State: Transmission-focused → physically dissolving → cognitively persistent
 - Dominant Beliefs: "If people know, they'll act."
 - Internal Contradictions: Treats the story as more real than the people in it
 
@@ -182,9 +182,9 @@ This bible dimension tracks **current character states**:
 | Lien Suen | Source | New | Dao Suen's wife; primary witness for Junction 7 disappearance. Steady, grief-hardened. |
 
 **Current Arc:** Hunter → Absorbed
-- Current Phase: 2/5 (Evidence mounting, paranoia justified, institutional contact established)
-- Progression: Midpoint — institutional data acquired, back-channel with UGC diplomat operational
-- Next Step: Matched-district analysis at city scale (Ch 21)
+- Current Phase: 4/5 (Absorbed — mid-sentence during BLACKWEIR)
+- Progression: COMPLETE (Book 1) — absorbed Ch 40, dead-hand timer running
+- Next Step: N/A as POV. Diegetic presence only: dead-hand evidence releases Phase 5; transmission fragments reach Sofia (Ch 41) and Zeyad (Ch 45)
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -196,14 +196,15 @@ This bible dimension tracks **current character states**:
 | 5/5 | Gone. Dead-hand evidence persists. | Evidence released posthumously; her Lie tested — the world knows, the world shrugs |
 
 **Appearances:**
-- Last Appearance: Chapter 13 — "The Pattern"
-- Next Planned Appearance: Chapter 21 (matched districts, city-scale analysis)
+- Last Appearance: Chapter 40 — "The Infrastructure Was Always Designed To—" (FINAL POV — absorbed)
+- Next Planned Appearance: N/A as POV. Diegetic presence: Ch 41 (dead-hand fragments to Sofia), Ch 45 (partial transmission to Zeyad)
 
 **Recent History:**
 - Ch 2: Investigated disappearance of conduit worker Dao Suen near Junction 7. Interviewed wife Lien Suen — Dao entered Level 3 trunk-line access corridor, corridor log shows entry/no exit, NitroCore says "reassigned." Lien reports shimmer near the hatch. Second disappearance (Chen Yue) from same block, three weeks prior, also "relocated." Found chalk names on the wall near Junction 7 — Sump workers write the names of the disappeared. Borrowed RCI sensor read 19.4 near the hatch (baseline 14-16). Discovered via Feed that entire Junction 7 maintenance crew was "reassigned." Editor Gauthier denied publication — insufficient evidence. Mirelle has seven missing workers across three sectors. Did not file. Kept the notes.
 - Ch 13: Operating from transit box in Sump Sector 3 (salvage terminal, battery comms, vibrating walls). Dead-hand timer at 41 hours — pinged yesterday. Nitro-ear now 5 weeks old: "a structure she wasn't ready to name." Wire dispatch: 3 journalists terminated this quarter, 2 sources gone silent. Disappearance count now 18 (up from 16). Descended to Resonance District via brightline, different route from Ch 9. Exchanged demographics data for Arctic-7 classified document (pages 12-31, infrastructure assessment) via Talia. Talia warned: "You're building a target on your chest." Rules recited as ritual. Received Arctic-7 chip. Analyzed at transit box terminal: infrastructure maps showing throughput density by junction. Found handwritten annotation by unnamed research lead: *Co-origin* — void breach frequency and nitro throughput co-originate at highest-density junction points. Overlaid her own disappearance data: same pattern. Named it: "Architecture." "The system was performing as built." Added Arctic-7 analysis to dead-hand deposit. "Now she had institutional data" — Gauthier's evidentiary demand answered. Closing: dark room, hum through the cot, "Including her."
 - Ch 9: Eight weeks after Ch 2. Now has 16 confirmed disappearances across 5 sectors (up from 7/3). Moved to Sump Sector 3 transient room (was Mid-Levels District 5). Assembled evidence package on paper and encrypted drives. Deposited first cache with Black Babel via Talia Ravid in Resonance District. Established dead-hand protocol: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients (São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact). Paid Babel price: anonymized source network metadata. Received intel: 7 junctions reclassifying municipal → restricted-corporate next quarter (3 on her disappearance map). Nitro-ear onset: 3 weeks, right ear. Gauthier's two-week deadline long passed — operating independently. Feed language expanded from single junctions to "five sectors."
 - Ch 17 *(Zeyad POV — Mirelle present via encrypted text only)*: First back-channel exchange with Zeyad Al-Fahim, UGC Accords Compliance Coordinator. Tests him before sharing ("And what does the response tell you?" — diagnostic). Shares field data: 18 disappearances, 5 sectors, RCI correlations, spike-vacancy timing, Arctic-7 co-origin annotation, "co-origin" finding at city scale. Receives Zeyad's institutional data: classification anomaly, "contained" status, Annex B/C routing, observer seat empty 14 months. Key lines: "You're late." / "It's not. That's why you're using it." / "It's not a research station anymore." / "The fragments are the same shape." / "We both know which of us the institution protects." First information bridge between POVs — diplomatic and journalistic evidence converging.
+- Ch 40: **FINAL POV CHAPTER — ABSORBED.** BLACKWEIR activation. Running through Deep Sump maintenance corridors, thought-dictating complete evidentiary transmission (8 items) to Black Babel cache RD-14 via implant. Evidence: 7 flood valves (2171-2173), 23 pressure doors, 31 disappearances/6 sectors, co-origin pattern, BLACKWEIR protocol fragments, dead-hand architecture. Film on skin → warmth → numbness → legs stop. Implant continues transmitting after body ceases. Absorbed mid-sentence: "The infrastructure was always designed to—" White space. Dead-hand timer: 41 hours remaining. The hunter becomes the evidence. The Lie tested posthumously.
 
 ---
 
