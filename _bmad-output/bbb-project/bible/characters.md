@@ -182,9 +182,9 @@ This bible dimension tracks **current character states**:
 | Lien Suen | Source | New | Dao Suen's wife; primary witness for Junction 7 disappearance. Steady, grief-hardened. |
 
 **Current Arc:** Hunter → Absorbed
-- Current Phase: 2/5 (Evidence mounting, paranoia justified)
-- Progression: Midpoint — institutional data acquired
-- Next Step: Matched-district analysis at city scale; Zeyad exchange
+- Current Phase: 2/5 (Evidence mounting, paranoia justified, institutional contact established)
+- Progression: Midpoint — institutional data acquired, back-channel with UGC diplomat operational
+- Next Step: Matched-district analysis at city scale (Ch 21)
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -203,6 +203,7 @@ This bible dimension tracks **current character states**:
 - Ch 2: Investigated disappearance of conduit worker Dao Suen near Junction 7. Interviewed wife Lien Suen — Dao entered Level 3 trunk-line access corridor, corridor log shows entry/no exit, NitroCore says "reassigned." Lien reports shimmer near the hatch. Second disappearance (Chen Yue) from same block, three weeks prior, also "relocated." Found chalk names on the wall near Junction 7 — Sump workers write the names of the disappeared. Borrowed RCI sensor read 19.4 near the hatch (baseline 14-16). Discovered via Feed that entire Junction 7 maintenance crew was "reassigned." Editor Gauthier denied publication — insufficient evidence. Mirelle has seven missing workers across three sectors. Did not file. Kept the notes.
 - Ch 13: Operating from transit box in Sump Sector 3 (salvage terminal, battery comms, vibrating walls). Dead-hand timer at 41 hours — pinged yesterday. Nitro-ear now 5 weeks old: "a structure she wasn't ready to name." Wire dispatch: 3 journalists terminated this quarter, 2 sources gone silent. Disappearance count now 18 (up from 16). Descended to Resonance District via brightline, different route from Ch 9. Exchanged demographics data for Arctic-7 classified document (pages 12-31, infrastructure assessment) via Talia. Talia warned: "You're building a target on your chest." Rules recited as ritual. Received Arctic-7 chip. Analyzed at transit box terminal: infrastructure maps showing throughput density by junction. Found handwritten annotation by unnamed research lead: *Co-origin* — void breach frequency and nitro throughput co-originate at highest-density junction points. Overlaid her own disappearance data: same pattern. Named it: "Architecture." "The system was performing as built." Added Arctic-7 analysis to dead-hand deposit. "Now she had institutional data" — Gauthier's evidentiary demand answered. Closing: dark room, hum through the cot, "Including her."
 - Ch 9: Eight weeks after Ch 2. Now has 16 confirmed disappearances across 5 sectors (up from 7/3). Moved to Sump Sector 3 transient room (was Mid-Levels District 5). Assembled evidence package on paper and encrypted drives. Deposited first cache with Black Babel via Talia Ravid in Resonance District. Established dead-hand protocol: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients (São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact). Paid Babel price: anonymized source network metadata. Received intel: 7 junctions reclassifying municipal → restricted-corporate next quarter (3 on her disappearance map). Nitro-ear onset: 3 weeks, right ear. Gauthier's two-week deadline long passed — operating independently. Feed language expanded from single junctions to "five sectors."
+- Ch 17 *(Zeyad POV — Mirelle present via encrypted text only)*: First back-channel exchange with Zeyad Al-Fahim, UGC Accords Compliance Coordinator. Tests him before sharing ("And what does the response tell you?" — diagnostic). Shares field data: 18 disappearances, 5 sectors, RCI correlations, spike-vacancy timing, Arctic-7 co-origin annotation, "co-origin" finding at city scale. Receives Zeyad's institutional data: classification anomaly, "contained" status, Annex B/C routing, observer seat empty 14 months. Key lines: "You're late." / "It's not. That's why you're using it." / "It's not a research station anymore." / "The fragments are the same shape." / "We both know which of us the institution protects." First information bridge between POVs — diplomatic and journalistic evidence converging.
 
 ---
 
@@ -302,10 +303,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional impotence
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Dutiful, following procedure
-- Dominant Beliefs: "If the record is complete, justice is possible."
-- Internal Contradictions: Mistakes documentation for action; paper trails for accountability
+- Phase: 2/5 (Disruption)
+- Emotional State: Institutional faith cracking; first extra-institutional act committed
+- Dominant Beliefs: "If the record is complete, justice is possible." *(tested — the record IS complete, produces nothing)*
+- Internal Contradictions: Mistakes documentation for action; transparency advocate now using secret channels
 
 **The Lie:** If the record is complete, justice is possible
 
@@ -321,9 +322,9 @@ This bible dimension tracks **current character states**:
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
 **Current Arc:** Dutiful Diplomat → Disgraced Whistleblower
-- Current Phase: 1/5 (Equilibrium — routine compliance)
-- Progression: Beginning → first fracture
-- Next Step: Ch 17 — formal data request returns denied or too late; institutional faith tested
+- Current Phase: 2/5 (Disruption — back-channel operational, record bifurcated)
+- Progression: First fracture → first extra-institutional act
+- Next Step: Deepening Mirelle exchanges; shapes of the crisis emerge; Delegate Kova challenge
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -335,18 +336,21 @@ This bible dimension tracks **current character states**:
 | 5/5 | Suspended, prosecuted for leaking. The Accords punish the enforcer. | The record is public. The institution punishes the recorder. |
 
 **Appearances:**
-- Last Appearance: Ch 6 ("The Portrait in the Chamber")
-- Next Planned Appearance: Ch 17 ("The Exhaustion of Process")
+- Last Appearance: Ch 17 ("The Back-Channel")
+- Next Planned Appearance: Ch 30 or Phase 3 chapter
 
 **Recent History:**
 - **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
+- **Ch 17:** Arctic-7 data request returns after 23 business days: 14 pages, 8 redacted under Annex C. Sensor logs "unavailable," VEC assessment "outside authorization," classification routing redacted in full. Discovers Annex C dual-authorization mechanism — designed mutual dependency ensuring neither the Classification Directorate nor the VEC can release data without the other's consent. Recognizes: "The system is processing it exactly as designed." That evening, initiates first encrypted back-channel contact with Mirelle Dubois via Mediterranean corridor contact's protocol address — text-only exchange from forgotten cantonal terminal outside UGC network. Shares institutional data (classification anomaly, "contained" status, Annex B/C routing, observer seat empty 14 months, extractors late, reports recycled). Receives Mirelle's field data (18 disappearances, 5 sectors, RCI correlations, Arctic-7 co-origin annotation). Neither has the full picture; the fragments are the same shape. Does NOT log the exchange — first omission from institutional record. Writes in notebook: "I did not log this exchange." The notebook now contains two categories: institutional observations (loggable) and back-channel intelligence (not). Sits alone in the dark. The practiced smile absent. The face beneath it closer to Khalil's.
 
-**Key Objects Established (Ch 6):**
-- Antique pen (Khalil → Tariq → Kamal → Zeyad; purchased Rue du Rhône, 2039; operational security disguised as nostalgia)
-- Leather notebook (purchased same shop; for observations the formal record doesn't accommodate)
+**Key Objects Established (Ch 6, updated Ch 17):**
+- Antique pen (Khalil → Tariq → Kamal → Zeyad; purchased Rue du Rhône, 2039; operational security disguised as nostalgia) — *Ch 17: now writes in both records, institutional and secret*
+- Leather notebook (purchased same shop; for observations the formal record doesn't accommodate) — *Ch 17: bifurcated into loggable + unlogged categories*
 - Portrait/photograph (two scales: Hall of Nations institutional memory + desk personal copy)
 - 3 datapads (classified briefing summaries)
 - Printed agendas (annotated in margins during sessions)
+- 14-page Annex C response (AF-2175-0041) — formatted absence, 8 pages redacted
+- Encrypted back-channel protocol (Mediterranean corridor contact source, text-only, unlogged)
 
 ---
 
@@ -406,10 +410,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Complicity in systems
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Dutiful, suppressing suspicion
-- Dominant Beliefs: "Keeping your head down keeps the people you love safe."
-- Internal Contradictions: Loyalty to Nuwa makes him complicit in systems he'd otherwise resist
+- Phase: 2/5 (Radicalization — early)
+- Emotional State: Compartmentalized — provider-warmth (Nuwa) coexists with documentation-compulsion (log)
+- Dominant Beliefs: "Keeping your head down keeps the people you love safe" — cracking. The Kindling's vocabulary names what institutional language erases.
+- Internal Contradictions: Maintains the infrastructure he suspects is implicated in the disappearances. Protects Nuwa by withholding information that would protect her differently.
 
 **The Lie:** Keeping your head down keeps the people you love safe
 
@@ -425,9 +429,9 @@ This bible dimension tracks **current character states**:
 | Chen Wei (shift supervisor) | Institutional | Professional | “They always self-correct” — 20 years of calcified dismissiveness. What Fuxi will become if he stays. |
 
 **Current Arc:** Maintenance Man → Radical
-- Current Phase: 1/5 (Equilibrium — routine conduit maintenance)
-- Progression: Beginning
-- Next Step: Strange trunk-line readings that don't self-correct
+- Current Phase: 2/5 (Documentation — private log correlating spikes with disappearances)
+- Progression: Early-mid
+- Next Step: Kindling recruiter returns; Fuxi's private data becomes politically legible
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -439,17 +443,19 @@ This bible dimension tracks **current character states**:
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
 **Appearances:**
-- Last Appearance: Chapter 8 — "White Noise"
-- Next Planned Appearance: Chapter 12+ (Phase 2 — readings worsen)
+- Last Appearance: Chapter 16 — "Private Log"
+- Next Planned Appearance: Chapter 22 (Phase 2 — Kindling recruiter returns)
 
 **Recent History:**
+- **Ch 16:** Phase 2 transition. Eleven weeks and four days since the first logged spike. Fuxi now maintains an unofficial private log correlating RCI spikes with residential disappearances, hidden in the system's maintenance directory. Seven spikes logged, acceleration pattern visible (40s → 19s decay). Guo (unit 14-7B) — a man Fuxi knew by face, with a loud laugh and a daughter — became "vacancy logged." The Kindling pamphlet (months old) provides vocabulary: "sacrifice district," "describe what you see." Quarterly safety briefing signed without belief. Nuwa's transfer plan progressing — paperwork drafted, QC qualification timeline mapped, transit permit pathway identified. Nuwa lighter than any previous appearance (shoulders dropped, jaw unclenched). Fuxi chose not to tell her about the log: "You could not carry both architectures — the architecture of rising and the architecture of counting." Closed on the blue textile with the file open on the cracked frame. The containment has cracked into documentation. Psychological state: compartmentalized — provider-obligation to Nuwa (public) and witness-obligation to the disappeared (private).
 - **Ch 8:** Domestic scene with Nuwa — first shared meal in prose. Arrived home from Deep Sump shift (18:00). Nuwa cooking (on early rotation, 06:00-14:00). Boot-mat ritual continued. Nuwa built case for P-3 / Mid-Level transfer (Yuen's plant, QC positions, employer-sponsored transit permits). Fuxi pushed back on transition costs, conceded when her math proved better. Shimmer near Hum Market — neither named it ("Normal crowd"). Sat in dark with Jun's multitool (first prose appearance). Monitor 6 reading 27.1 (baseline). Spike from three weeks ago not recurred, inspection closed "no anomaly detected" — but the shape of the linear decay persists in his mind. Municipal advisory updated twice. Did not tell Nuwa about the spike or the shape. Savings plan: two months in, four more months to P-3. Psychological state: dutiful provider, domestic warmth, deliberate suppression of the question.
 - **Ch 4:** Routine trunk-line inspection in Deep Sump monitoring bay, Section 4-East. Logged three-hertz flat variance (within tolerance). At 14:47, monitor 6 spiked from 27.1 to 31.2 RCI — four points above baseline, held ~40 seconds, self-corrected. Chen Wei dismissed: "They always self-correct." Fuxi noticed the decay profile was atypical — linear rather than logarithmic, too clean, too precise. Logged the anomaly with a note recommending follow-up inspection of junction housing 4E-9. Did not escalate. Received messages from Nuwa about a Shenlong P-3 frame with sensory filter on the Hum Market (stall 14, 1,200 credits, 3 months savings). Nuwa warned him against volunteering for Resonance District overtime (double rate offered). Returned to Sump apartment. Did not pursue the question forming in his mind about the correction pattern. Psychological state: dutiful, suppressing unease, compliance as survival strategy.
 
 **Key Objects:**
 - Service jacket: orange, reflective strips peeling, zipper sticks at midpoint. Replacement requests filed and unanswered.
-- Frame: service-issue L-class, strapped to left forearm, housing cracked along one edge — throws artifacts into lower-left AR overlay. Same requisition queue as the jacket.
+- Frame: service-issue L-class, strapped to left forearm, housing cracked along one edge — throws artifacts into lower-left AR overlay. Same requisition queue as the jacket. Used to maintain the private log (Ch 16).
 - Jun's multitool: Stainless steel, heavy for its size, handle worn to polish by decades of use. Jun Lin's (father). Carried every shift, rarely used for intended purpose — service-issue toolkit is better. The weight is "not comfort, not memory, not sentiment. *Presence.*" First prose appearance Ch 8.
+- Private log file: Unofficial document correlating RCI spikes with residential disappearances. Hidden in system maintenance directory. Columns: date, time, monitor, peak RCI, decay shape, duration, and — in later entries — the name or unit number of the person who went dark. Seven entries over eleven weeks. No conclusion. First referenced Ch 16.
 
 ---
 
@@ -475,10 +481,11 @@ This bible dimension tracks **current character states**:
 **Speech Register:** Minimal. Single words, short phrases. "Logged?" "Fluctuation." "Self-correcting." Speaks in the compressed vocabulary of someone who has stopped needing full sentences to communicate institutional certainty.
 
 **Appearances:**
-- Last Appearance: Chapter 4 — "Monitor 6"
+- Last Appearance: Chapter 16 — "Private Log"
 - Next Planned Appearance: Fuxi's subsequent chapters
 
 **Recent History:**
+- **Ch 16:** Background presence. Continues institutional routine in the monitoring bay. Does not look up when Fuxi reviews data. The calcified dismissiveness persists — twenty years of self-correcting readings. Fuxi's private log exists in the space Chen Wei's certainty cannot see.
 - **Ch 4:** Dismissed Fuxi's report of a 4-point RCI spike on monitor 6. "They always self-correct." Did not look at the decay profile. Did not investigate. Filed the shift report.
 
 ---
@@ -684,6 +691,7 @@ This bible dimension tracks **current character states**:
 - Next Planned Appearance: Chapter 49 — reunion with Fuxi ("The Quietest Scene")
 
 **Recent History:**
+- **Ch 16 (through Fuxi's POV):** Transfer plan progressing — paperwork drafted, QC qualification timeline mapped, transit permit pathway identified. Nuwa at her most optimistic: shoulders dropped two centimetres, jaw unclenched, moved through apartment without the usual low-grade calculation. "She had built a structure out of the narrow materials available to a woman in the Sump with violet-stained hands and an uneven haircut and a mind that worked in architectures of opportunity." The plan is sound. The math checks. Fuxi watches and does not tell her about the private log. Dramatic irony: her lightness depends on his silence.
 - **Ch 42 (POV debut):** Alone in Block 14 apartment when BLACKWEIR hits. Power out, hum changes to wet/pressurized. Watches walkway absorption through window — people embedded into infrastructure (not dissolved). Neighbor's hand on window: textile reclamation staining identical to Nuwa's own (thematic double). Does NOT go to the door. Does NOT look for Fuxi. Subtracts him from actionable list — "the way she'd subtracted her father's name at eleven." Soaks dishcloth, moves via masonry back stairwell to annex (the route she's walked for years because metal corridors make her implant itch). Masonry annex: manual door, poured concrete, no conduit connections. Coherence spike (11 seconds): physical pressure through masonry, nosebleed from air pressure (not implant resonance), implant housing cracks. Registry overlay: "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned." Survives by accumulated compliance. Pact scar visible in cracked implant glow. "She was still." Key new elements: subtraction as decision-making metaphor, Mrs. Huang (neighbor, absorbed), emergency credit stash (412 creds behind water heater), violet glow as BLACKWEIR visual signature.
 - **Ch 8 (first in-person):** Cooking when Fuxi arrived — soy paste, chili oil, reconstituted protein, actual vegetables from Hum Market. Hair shorter (self-cut with plant shears, uneven). Chemical staining (violet) on forearms/hands from textile solvent. Built case for P-3 / Mid-Level transfer: Yuen's plant doing QC transfers, employer-sponsored transit permits (different queue from Sump-to-Spires), sensory filter eliminates headaches (saves 2 creds/week on suppressants). Already researched which queue, which permit class, which employer. Transit permits for quarter locked — but window opens. Fuxi conceded when her math proved better. Shimmer near Hum Market route — deflected with "Normal crowd." Went to bed 22:00 (early shift tomorrow, 06:00-14:00 on this rotation). Current frame glitching near conduit junctions, costing her accuracy — accuracy costing the transfer.
 - **Ch 4 (through Fuxi):** Messaged Fuxi about a Shenlong P-3 frame with sensory filter found at the Hum Market (stall 14, blue tarp, 1,200 credits, refurbished, new filter module). Voice message building her case — fast, layered, stacking reasons. The P-3 would reduce hum-drunk headaches, fix AR overlay glitching near conduit junctions, enable application for Mid-Level textile positions requiring functional Frame for quality-control interface. Currently working textile recycling, second shift (ends 20:00). Current Frame drops AR overlay near conduit lines — rendered her supervisor as a floating torso for ten minutes. Warned Fuxi against volunteering for Resonance District overtime (double rate offered — "I also know why they're offering double rate"). Chose a deep blue textile for the bed because it's the furthest thing from orange — everything in the Sump is orange. Humor intact. Dreams intact. Pragmatism intact.

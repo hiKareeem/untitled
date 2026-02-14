@@ -96,6 +96,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - **Ch 4:** RCI fluctuation on monitor 6 (Section 4-East, near Resonance District boundary). Spike from 27.1 to 31.2, held ~40 seconds, self-corrected with atypical linear decay profile. Fuxi logged anomaly; Chen Wei dismissed. Baseline for this section: 26-28. Alarm threshold: 35. Emergency protocols: 40.
+- **Ch 16:** Eleven weeks of accumulated data. Seven spikes logged on monitor 6, acceleration pattern visible (40s → 19s decay times). First-generation infrastructure running at three times design specification. Fuxi maintains private log correlating spikes with residential disappearances. Quarterly safety briefing conducted in the bay — "nobody believed and everybody signed." Chen Wei continues institutional routine without examining the pattern.
 
 **Significance:** The Confluence sits beneath the Resonance District here — six first-generation trunk-lines converge at the highest-throughput conduit junction in the city. This is where BLACKWEIR detonates.
 
@@ -133,6 +134,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - **Ch 4:** Fuxi returns from Deep Sump shift. Residential corridor and apartment details established. Nuwa absent (textile recycling second shift, ends 20:00). Fuxi sits in the hum and thinks about monitor 6.
 - **Ch 8:** First shared domestic scene — Fuxi and Nuwa together in the apartment. Nuwa cooking (early rotation, 06:00-14:00). Boot-mat ritual. P-3 / Mid-Level transfer argument. Shimmer near Hum Market conduit access points — neither names it ("Normal crowd"). Jun's multitool first prose appearance. Nuwa's shift details confirmed (this rotation: early). Municipal advisory updated twice ("Ambient hum levels within certified tolerance").
+- **Ch 16:** Nuwa's transfer plan progressing — the apartment at its most domestic and hopeful. Fuxi withholds the private log from Nuwa. Closes on the blue textile with the file open on the cracked frame. The apartment as site of competing architectures: rising (Nuwa's plan) and counting (Fuxi's log).
 - **Ch 42:** BLACKWEIR hits Block 14. Power out, hum changes to wet/pressurized, conduit glow drops from orange to nothing. Walkway between Building 14 and Building 11 (4th floor, metal grating) — people absorbed into infrastructure (embedded, not dissolved). Mrs. Huang's laundry still on the line. Neighbor's hand on Nuwa's frosted polymer window — textile reclamation staining, drawn into the polymer. Nuwa descends via back stairwell (masonry walls, not metal framing) to masonry annex (ground floor, Block 14 — poured concrete, manual door on wooden frame, no electronic lock, no conduit connections). Coherence spike (11 seconds) passes through masonry. Violet glow replaces orange conduit glow. Post-spike: hum "fuller" — contains more than building resonance should.
 
 **New sub-locations (Ch 42):**

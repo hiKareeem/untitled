@@ -716,6 +716,29 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 8: First prose appearance. Fuxi holds it in the dark after Nuwa goes to sleep. The weight as presence. Jun's death named: "chronic resonance fatigue syndrome" / "the hum got him."
+- Ch 16: Carried into the monitoring bay. The inherited obligation now accompanies documentation — Jun's generation couldn't see the pattern; Fuxi can.
+
+---
+
+### Fuxi's Private Log
+
+**Origin:**
+- Provenance: Created by Fuxi Lin, stored on his cracked service-issue L-class frame
+- Created: Approximately eleven weeks before Ch 16 events
+- Circumstances: After the second RCI spike on monitor 6 (nine days after the first logged spike), Fuxi began recording correlations between spikes and residential disappearances in an unofficial file hidden in the system's own maintenance directory
+
+**Description:**
+- Appearance: Digital file on a cracked frame. Columns: date, time, monitor, peak RCI, decay shape, duration, and — in later entries — the name or unit number of the person who went dark
+- Function: Unofficial correlation log tracking RCI spikes against residential disappearances
+- Condition: Seven entries over eleven weeks. Acceleration pattern visible (40s → 19s decay). No conclusion.
+
+**Significance:** The log is Fuxi's version of Nikolai's field log and Sofia's personal archive — a private record maintained outside institutional channels because institutional language cannot accommodate what the data says. It parallels Mirelle's dead-hand (truth preserved against institutional erasure) but has no delivery system, no recipient, no dead-hand. It exists because not-recording became harder than recording. The Kindling pamphlet ("We do not ask you to rebel. We ask you to describe what you see.") provides the vocabulary; the log is Fuxi describing what he sees. "The file had no conclusion because Fuxi did not have one."
+
+**Current Owner:** Fuxi Lin
+**Location:** Hidden in system maintenance directory on cracked L-class frame
+
+**History:**
+- Ch 16: First referenced. Seven entries. Acceleration pattern documented. Guo (unit 14-7B) is the entry where technical language strains against personal knowledge — Fuxi knew this one.
 
 ---
 

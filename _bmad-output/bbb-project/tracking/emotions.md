@@ -505,7 +505,7 @@ Mbutha is institutional neutral embodied — the rotating chair who acknowledges
 
 ### Emotional Arc Summary
 
-Fuxi's emotional register is containment — not repression but timing. He processes later, in private, or not at all. Chapter 4 establishes his working-class stoicism: routine competence in the Deep Sump, body-knowledge alarm when the readings are wrong, private unease he cannot translate into institutional language. Chapter 8 shifts to domestic mode: warmth with Nuwa, provider-identity math running as background process, tenderness expressed through logistics ("Four months is manageable"), and the closing suppression — sitting in the dark with his father's tool, deliberately not thinking about the shape of the data, the shimmer, the advisory. The emotional progression from Ch 4 to Ch 8 is subtle: the unease has not grown louder, but it has acquired domestic weight. The things he doesn't think about now include the things Nuwa didn't say.
+Fuxi's emotional register is containment — not repression but timing. He processes later, in private, or not at all. Chapter 4 establishes his working-class stoicism: routine competence in the Deep Sump, body-knowledge alarm when the readings are wrong, private unease he cannot translate into institutional language. Chapter 8 shifts to domestic mode: warmth with Nuwa, provider-identity math running as background process, tenderness expressed through logistics ("Four months is manageable"), and the closing suppression — sitting in the dark with his father's tool, deliberately not thinking about the shape of the data, the shimmer, the advisory. Chapter 16 marks the phase transition: the unease has become a system. Fuxi now maintains an unofficial log correlating RCI spikes with disappearances — the containment has cracked, not into expression but into documentation. The emotional register shifts from suppression to compartmentalization: he still contains, but now he contains two separate architectures (Nuwa's escape plan, the private log) and the gap between them is the chapter's moral weight. The tenderness toward Nuwa is unchanged but now carries the additional weight of deliberate withholding — not mutual silence (Ch 8) but unilateral information control. The Kindling pamphlet provides vocabulary for feelings he couldn't previously name. The closing — sitting on the blue textile with the file open — mirrors Ch 8's closing (sitting in the dark with the multitool) but the suppression has been replaced by documentation.
 
 ### Dominant Emotions
 
@@ -517,6 +517,7 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 
 - **Ch 4 (Deep Sump)**: Routine competence → alert attention → institutional frustration → body-knowledge alarm → private unease → enforced compliance
 - **Ch 8 (Apartment)**: Domestic warmth → provider-identity math → argumentative tenderness → mutual silence → private reflection → deliberate suppression
+- **Ch 16 (Monitoring bay / Apartment)**: Observational precision → pattern recognition → moral weight → Kindling vocabulary → domestic tenderness under strain → unilateral withholding → documentation as containment
 
 ### Per-Chapter Emotional Beats
 
@@ -541,6 +542,13 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 | Ch 8 — Beat 8 | Private reflection | Alone on bed; multitool; dark apartment | Turns multitool in fingers; feels the hum through walls; "not comfort, not memory, not sentiment. *Presence.*" | None — alone; Nuwa asleep |
 | Ch 8 — Beat 9 | Deliberate suppression | Monitor 6, the shape, the shimmer, the advisory | "Did not think about" — the catalogue of things he refuses to process | None — alone in the dark |
 | Ch 8 — Beat 10 | Provider-math as love | "Four more months" | Runs the savings math as self-soothing; the math IS the tenderness | None — internal; the hum continues |
+| Ch 16 — Beat 1 | Observational precision | Shift start; monitoring bay; eleven weeks of accumulated data | Reviews the log entries methodically — date, time, monitor, peak, decay shape. Body calibrated to the pattern now, not just the instruments. | Chen Wei: institutional routine; doesn't look up |
+| Ch 16 — Beat 2 | Pattern recognition (clinical) | RCI spike correlates with another vacancy | Notes the correlation without emotional inflection — the log's language is technical, stripped. The body registers what the prose suppresses: hands steady, breathing controlled. | None — alone at station |
+| Ch 16 — Beat 3 | Moral weight (emerging) | Guo's face — a man with a loud laugh and a daughter | The log entry for Guo is different — Fuxi knew this one. The technical language strains against the personal knowledge. First crack in the clinical register. | None — internal |
+| Ch 16 — Beat 4 | Kindling vocabulary | Pamphlet language: "sacrifice district," "describe what you see" | The Kindling's words name what Fuxi has been feeling — not radicalization but recognition. The vocabulary provides a framework for the unease that institutional language couldn't accommodate. | None — internal; the pamphlet is months old |
+| Ch 16 — Beat 5 | Domestic tenderness (strained) | Nuwa's plan progressing — transfer paperwork, P-3 timeline | Watches Nuwa's shoulders drop, jaw unclench — she is lighter when the plan feels possible. The tenderness is real and the withholding is real and they occupy the same moment. | Nuwa: doesn't know what Fuxi carries; her optimism is genuine |
+| Ch 16 — Beat 6 | Unilateral withholding | The decision not to tell Nuwa about the log | "You could not carry both architectures." The silence is no longer mutual (Ch 8) — it is chosen, deliberate, and the weight is Fuxi's alone. Provider-obligation has split: providing for Nuwa's escape vs. protecting her from knowledge that would end it. | Nuwa: unknowing beneficiary; her plan depends on his silence |
+| Ch 16 — Beat 7 | Documentation as containment | Opens the file; adds the latest entry | Sitting on the blue textile, file open on the cracked frame. The act of recording replaces the act of suppression — he no longer "does not think about" the data (Ch 8). He thinks about it precisely, in rows and columns. The containment has become a system. | None — alone; hum through walls |
 
 ---
 
@@ -560,6 +568,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 - **Ch 4 (messages)**: Pragmatic excitement → humor → case-building urgency → protective warning
 - **Ch 8 (in person)**: Domestic competence → case-building determination → sardonic armor → compressed relief → mutual silence → pragmatic exhaustion
+- **Ch 16 (observed by Fuxi)**: Physical ease → plan momentum → genuine lightness → architectural optimism
 - **Ch 42 (POV debut)**: Disorientation → arithmetic default → escalating dread → horror (hand on window) → subtraction → tactical movement → stillness → pressure (coherence spike) → inventory → compliance as survival
 
 ### Per-Chapter Emotional Beats
@@ -576,6 +585,9 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 | Ch 8 — Beat 4 | Compressed relief | Fuxi's concession ("the-math-is-manageable") | Compressed smile — "That's up." Not victory; relief that the plan might hold | Fuxi: sees the arrangement forming |
 | Ch 8 — Beat 5 | Mutual silence (deflection) | Shimmer near Hum Market | "Normal crowd." — repeats Fuxi's words; doesn't elaborate | Fuxi: doesn't push; the silence is shared |
 | Ch 8 — Beat 6 | Pragmatic exhaustion | Going to bed; early shift tomorrow | Goes to bed at 22:00; frame glitching, accuracy slipping, the cost accumulating | Fuxi: sits on the bed in the dark |
+| Ch 16 — Beat 1 | Physical ease | Transfer plan progressing; paperwork drafted | Shoulders drop two centimetres; jaw unclenches; moves without the usual low-grade calculation | Fuxi: watches; the lightness is what he's protecting and what he's lying to preserve |
+| Ch 16 — Beat 2 | Architectural optimism | QC qualification timeline mapped, transit permit pathway identified | "She had built a structure out of the narrow materials available" — the plan as emotional scaffolding. Genuine confidence, not armor. | Fuxi: runs the math as background process; sees the arrangement holding |
+| Ch 16 — Beat 3 | Genuine lightness | The math checks; the future is calculable | The closest Nuwa comes to unguarded hope. No sardonic deflection, no compressed smile — the plan feels real. | Fuxi: the weight of what he withholds is proportional to her lightness |
 | Ch 42 — Beat 1 | Disorientation | Power out; hum changes to wet pressure | Stands in dark kitchen; reads municipal alert twice; "The words were administrative. The hum was not." | None — alone |
 | Ch 42 — Beat 2 | Arithmetic default | Implant heating; crisis begins | Credit tally runs before fear: "Nine hundred creds saved. Three hundred short." The number arrives before anything else. | None — internal |
 | Ch 42 — Beat 3 | Escalating dread | Hum pulses; infrastructure clenches | Counts inventory (rice, water, stash, implant charge). Does not move toward the door. Listens. | None — alone |

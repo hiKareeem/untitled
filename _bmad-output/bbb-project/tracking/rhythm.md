@@ -1665,6 +1665,91 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 16 — Fuxi: "Private Log"
+
+**Phase:** 2 | **Mode:** TEXTURE (domestic/Sump-radicalization) | **Date analyzed:** 2026-02-14
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,800 | 3,000–6,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~52 | — | — |
+| Dialogue % | ~5% | 5–15% | ✅ (low edge) |
+| Avg sentence length | ~15 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~18% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+ 7 |                    ●
+ 6 |              ●───╱  ╲
+ 5 |            ╱          ╲───●
+ 4 |          ╱
+ 3 |  ●─────╱
+   +─────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Scene 1 (Monitoring bay — log review):** 3→6/10 — Rising: eleven weeks of accumulated data reviewed; the log's pattern becomes visible
+- **Scene 2 (Monitoring bay — new spike):** 6→7/10 — Peak: fresh spike correlates with Guo's disappearance; the pattern confirms
+- **Scene 3 (Apartment — Nuwa's plan):** 7→5/10 — Falling: domestic scene; Nuwa's optimism against Fuxi's withholding; tension shifts from external to moral
+- **Scene 4 (Apartment — the file):** 5/10 — Resolution: Fuxi opens the log on the cracked frame; documentation as containment
+
+### Beat Map
+
+| Beat | Position | Tension | Delta |
+|------|----------|---------|-------|
+| Shift start, log open | 5% | 3 | — |
+| First spike recalled (precursor) | 10% | 4 | +1 |
+| Pattern visible: spikes accelerating | 20% | 5 | +1 |
+| Kindling pamphlet vocabulary | 30% | 6 | +1 |
+| Guo's disappearance — knew him | 40% | 7 | +1 |
+| Quarterly briefing — "nobody believed" | 50% | 6 | -1 |
+| Apartment — Nuwa lighter | 60% | 5 | -1 |
+| Transfer plan details | 65% | 5 | 0 |
+| "You could not carry both architectures" | 75% | 6 | +1 |
+| The old silence vs. the new silence | 85% | 5 | -1 |
+| File open on cracked frame | 95% | 5 | 0 |
+| "The file had no conclusion" | 100% | 5 | 0 |
+
+### Transitions
+
+- **Sc1→Sc2:** Continuous within monitoring bay — shift from retrospective log review to real-time spike. Seamless.
+- **Sc2→Sc3:** Section break. Bay to apartment — shift from institutional to domestic, from data to person. Clean.
+- **Sc3→Sc4:** Continuous within apartment — Nuwa to bed, Fuxi alone with the file. Mirrors Ch 8's closing transition.
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Paragraph cadence | 9/10 |
+| Momentum | 8/10 |
+| Continuity | 9/10 |
+| Immersion | 9/10 |
+| **Overall** | **8.8/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 15% (monitoring checks, log entries, domestic routines)
+- **Reflection:** 85% (pattern analysis, Kindling vocabulary, moral architecture, withholding decision)
+- **Assessment:** Reflection-dominant, appropriate for Phase 2 Fuxi — the chapter is about what he knows, not what he does. Matches Ch 4's 20/80 at elevated stakes.
+
+### Pacing Notes
+
+- **Strengths:** The chapter's structure mirrors Ch 4 (monitoring bay → apartment) and Ch 8 (apartment domestic → alone in dark) but at Phase 2 escalation. The tension peak at 40% (Guo's disappearance) is appropriately early — the chapter's real tension is the moral decision to withhold, not the discovery of the pattern. Low dialogue (5%) is correct for Fuxi's register — he processes internally, not conversationally. The Kindling vocabulary at 30% provides a new language for feelings the previous chapters couldn't name, which shifts the prose register subtly without breaking voice. The closing mirrors Ch 8 (sitting alone, hum through walls) but suppression has been replaced by documentation — structural evolution.
+- **Concerns:** Dialogue at the low edge (5%) — monitor for reader fatigue in dialogue-sparse chapters. The chapter is information-dense (eleven weeks of data, multiple spikes, Kindling terminology, transfer plan details) — appropriate for Fuxi's technical register but ensure future chapters provide contrast.
+- **Recommendations:** This chapter confirms Fuxi's Phase 2 TEXTURE subtype: **domestic/Sump-radicalization** (containment cracking into documentation, Kindling vocabulary as catalyst, moral architecture as tension engine). The Ch 4 → Ch 8 → Ch 16 structural echo should continue evolving — same locations, deepening stakes, widening gap between what Fuxi knows and what he shares.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE mode, 3-6K words)
+- Adjacent chapter contrast: ✅ (Ch 15 = Sofia/TEXTURE scientific → Ch 16 = Fuxi/TEXTURE domestic-radicalization — different TEXTURE subtypes, Sump vs. VEC, personal vs. institutional)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1686,6 +1771,7 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | 18 | Kira | 4,800 | TEXTURE | 12% | 2→6→3 | 8.6 | 20/80 | ✅ |
 | 13 | Mirelle | 4,200 | TEXTURE | 20% | 3→6→8→4 | 8.6 | 25/75 | ✅ |
 | 15 | Sofia | 5,200 | TEXTURE | 12% | 3→7→4 | 8.8 | 20/80 | ✅ |
+| 16 | Fuxi | 4,800 | TEXTURE | 5% | 3→7→5 | 8.8 | 15/85 | ✅ |
 | **B2: AEGIS-1** | AEGIS | 2,800 | N/A | 0% | 3→8→10→6→3 | 9.0 | 0/100 | ✅ |
 | **B2: AEGIS-2** | AEGIS | 3,400 | N/A | 2% | 3→5→7→10→8→3 | 9.2 | 0/100 | ✅ |
 | 15–17,19–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
