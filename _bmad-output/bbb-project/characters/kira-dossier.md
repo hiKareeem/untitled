@@ -79,7 +79,8 @@ Warm but rigid. The Bay Area household was a home — understandable, structured
 
 **Baggage and wounds:**
 - Racing thoughts. She thinks about everyone and everything in every scenario. Worries about Hana, worries her parents were right, worries her parents were wrong and she's still going to prove them right. Wonders if she should have kept her decisions not her own — it would've been safer, stabler, more comfortable.
-- Uses drugs to slow her mind enough to sleep. Doesn't know yet if she's going to use them to quiet the screams too.
+- Medicated since childhood. Antidepressants, antipsychotics, anxiolytics — all upper-end dosages, adjusted upward over years as tolerance built and symptoms compounded. She picks them up once a month from a pharmacy where the pharmacist knows her name and her prescription history and nothing else about her. It's the one public interaction where she's seen uncurated — not a celebrity, not a brand, just a patient collecting a serious psychiatric cocktail. The pharmacist dispenses without commentary. Kira doesn't perform. The transaction is the closest thing she has to being ordinary.
+- Uses the drugs to slow her mind enough to sleep. Doesn't know yet if she's going to use them to quiet the screams too.
 - Oscillates between manic project energy and deep apathy. Immaculate on stream; pizza boxes stacked and ants in the sink around the corner from her office. Maybe she's just a regular tired professional. Maybe she's bipolar. The distinction doesn't matter to her daily grind.
 - She's not sure she's a person when the stream is off. Not philosophically — viscerally. The performance started so young and has run so long that she doesn't know if there's a Kira underneath the Kira. The rebranding proved she could *build* — but building is still performing. The door she won't open: if everything ended, would there be anyone in the room?
 - She resents Hana. Not for anything Hana did — for what Hana represents. If Hana goes through it and comes out fine, then Kira's exhaustion and her drugs and her racing thoughts aren't the system's fault — they're hers. She needs Hana to struggle, just a little, to validate that what was done to them was wrong. She will never say this out loud.
@@ -190,7 +191,7 @@ Silent witness. The scream is public. She is not. The performer who built her id
 **Weaknesses:**
 - **Impulsiveness:** The quality that makes her a brilliant performer makes her dangerous with sensitive information. She acts before she thinks. The 11-second on-stream scream is not a strategic decision — it's an involuntary response she's too impulsive to suppress. This will have consequences.
 - **Cumulative implant damage:** Memory erosion, personality drift toward pattern-seeking and obsessive thinking, emotional blunting, shortened lifespan. She's been metabolizing R3 nitro since age 10. The career costs are mounting and she attributes them to burnout.
-- **Chemical dependency:** Uses drugs to sleep. The dependency is functional now. It may not stay functional.
+- **Chemical dependency:** Antidepressants, antipsychotics, anxiolytics — 20-year prescription history, upper-end dosages. She's been medicated since childhood; the cocktail has grown with her. The dependency is functional now. It may not stay functional. She sorts them into a 30-day pill holder by hand — a manual ritual in a world that could automate it — because she needs something to do with her hands while the feed and messages and memes crash over her. The sorting is grounding. The pills are management. The distinction matters to no one but her.
 - **Inability to be still:** The grind is a coping mechanism. Without it, the racing thoughts take over. She can't sit with herself. The couch-fold is the closest she gets to rest, and even then one eye is reading chat.
 - **Privilege blindness:** She knows nothing of the Sump except what her viewers tell her. Her understanding of the system's human cost is mediated through screens until BLACKWEIR makes it visceral. Even then, she sees the 2% viewership drop as *people* — but they're still *her* people, her chatters. The lens is still the platform.
 
@@ -251,6 +252,7 @@ Kira substitutes audience for intimacy. The streaming relationship is the templa
 - The posture shift (performer → folded) — the tell for her emotional state
 - The leftward eye-glance when the implant catches a message — never fully present
 - Silent chord shapes on surfaces when thinking or anxious — piano/violin muscle memory
+- The pill sort: once a month, 30-day holder, manual. Clicks capsules into compartments while the feed scrolls and messages pile up and the world is too loud. The hands need to work. The sorting gives them permission. It's the same impulse as the chord shapes — tactile grounding against cognitive overwhelm — channeled into something functional.
 - Touches her spine absently when the hum is loud — not conscious, just a hand drifting to the base of her neck
 - Smiles reflexively when someone recognizes her in public — the performer's autopilot, even when she's exhausted
 

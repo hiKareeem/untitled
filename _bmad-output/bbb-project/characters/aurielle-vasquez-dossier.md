@@ -159,8 +159,15 @@ New executive, weeks into the role, still tasting salt. Her father's blood is ba
 **Transformation:**
 The moral laddering is the mechanism: each threshold crossed makes the next smaller. She doesn't leap from idealist to tyrant — she walks, one reasonable step at a time, down a corridor that was always leading here. The horror is not that she was corrupted but that she was *selected*: Thorne needed someone who would agonize over the decision rather than sign reflexively, because agonized authorization is more defensible than casual authorization. Her conscience is the machine's best feature.
 
-**Ending point (Phase 5):**
+**Ending point (Book 1 Phase 5):**
 Functional. Congratulated. Stock price recovers. NitroCore issues a statement of "profound regret" with a humanitarian relief package attached. Aurielle is the face of both the atrocity and the response to the atrocity. She will authorize the next one too — not because she's become callous, but because the logic hasn't changed. The Sump is gone. The grid is stable. The math works. She knows what she is. She continues. That is worse than if she'd broken.
+
+**Ending point (Trilogy — LOCKED):**
+Neo-Shanghai. NitroCore tower. Balcony. The grid is failing, the Spires are being absorbed, the machine she ran is consuming itself. Every decision she has ever made was institutional — authorized, countersigned, defensible, on behalf of the machine. Thorne told her to walk at the gala. The board told her to sign. The math told her to authorize. She has never made a single decision that was hers alone.
+
+She does not fall. She takes a step.
+
+It is the first decision she makes for herself. It is also her last. The vertical architecture that was her moral architecture — governing from altitude, distance as governance — collapses into a single autonomous act. The woman who walked because Thorne told her not to run finally walks somewhere no one told her to go.
 
 ---
 
@@ -244,3 +251,6 @@ Her internal monologue should read as precise, controlled, and increasingly diss
 
 **Central question:**
 *Can you run a machine you know is built on suffering — and if competence and good intentions aren't enough to prevent atrocity, what are they for?*
+
+**Trilogy-level question:**
+*If every decision you ever made was the institution's decision wearing your face — what does it mean to finally make one that's yours?*
