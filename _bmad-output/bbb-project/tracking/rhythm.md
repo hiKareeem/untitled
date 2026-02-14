@@ -4,7 +4,7 @@ type: tracking
 lastUpdated: "2026-02-14"
 lastChapter: "Chapter 45"
 totalChapters: 53
-analyzedChapters: 20
+analyzedChapters: 21
 project_name: "Untitled"
 ---
 
@@ -2006,6 +2006,107 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Chapter 37 — Aurielle Vasquez: "The Protocol"
+
+**Phase:** 4 | **Mode:** PRESSURE (institutional wave) | **Date analyzed:** 2026-02-15
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,100 | 3,000–5,000 | ✅ (slightly over, justified by scope) |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~8% | 10–20% | ⚠️ (justified: watch-and-witness chapter, Phase 4 dissociation) |
+| Avg sentence length | ~25 words | 12–16 | ⚠️ (Aurielle's GRRM register — consistent with Ch 7 ~24, Ch 12 ~24) |
+| Fragment % (1–5 word sentences) | ~20% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |                    ●
+ 8 |                  ╱    ╲
+ 7 |                ╱        ╲
+ 6 |          ●───╱            ╲
+ 5 |        ╱                    ╲
+ 4 |      ╱                        ●
+ 3 |  ●──╱
+ 2 |
+   +─────────────────────────────────────
+     Sc1      Sc2      Sc3        Sc4
+```
+
+- **Scene 1 (Operations Center):** 3/10 — Setup: Aurielle arrives, room described, Thorne confirms readiness. Institutional architecture as tension-deferral.
+- **Scene 2 (BLACKWEIR Initiates):** 6/10 — Escalation: "Begin." Junction 7 severs. Pressure doors cascade. Thorne narrates. The display changes color.
+- **Scene 3 (Execution Sequence):** 9/10 — Peak: Absorption front propagates. Violet spreads across residential grid. 13 million data points. "The numbers work." Protocol completes. 98.4%.
+- **Scene 4 (Eduardo's Office):** 4/10 — Aftermath: Alone. Sandalwood. Hum *Thinner*. Small voice silent. "She would authorize the next one too."
+- **Shape:** Institutional ramp → operational climax → hollow aftermath. Same detonation shape as Prologue but inverted in emotional register: the Prologue's horror is cosmic (the void arrives); Ch 37's horror is institutional (the system performs as designed).
+
+### Beat Map
+
+1. [3%] HOOK — Operations center door opens; biometric reader, no designation → +1
+2. [8%] ESTABLISH — Room described: hexagonal, 12 workstations, two chairs, holographic array → +0
+3. [15%] SETUP — Thorne confirms all systems: "23 sectors. All armed." → +1
+4. [20%] PIVOT — "Begin." Single word. → +2
+5. [25%] ESCALATION — Junction 7 severs; execution log timestamps begin → +1
+6. [35%] ESCALATION — Pressure doors cascade; Thorne narrates sector by sector → +1
+7. [45%] ESCALATION — Flood valves open; crude R0 floods trunk-lines → +1
+8. [55%] PEAK — Absorption front: violet spreading across residential grid; "the display did not have a color for dead" → +2
+9. [65%] SUSTAIN — "The numbers work." Protocol completes. 98.4% grid integrity. → +0
+10. [72%] PIVOT — Thorne pivots to logistics; Aurielle: "Yes." "Yes." "I know." → -2
+11. [78%] TRANSITION — Corridor walk; hum *Thinner* → -1
+12. [85%] SETTLE — Eduardo's office; sandalwood; hands flat on desk → -1
+13. [92%] QUIET — Small voice silent; arithmetic finished → -1
+14. [100%] CLOSE — "She would authorize the next one too." → +1 (final spike — the horror is continuation, not conclusion)
+
+### Transitions
+
+| From → To | Method | Quality |
+|-----------|--------|---------|
+| Sc1 → Sc2 | "Begin." — single-word command as scene break | ★★★★★ Minimal, devastating |
+| Sc2 → Sc3 | Execution log accelerating into absorption sequence | ★★★★ Organic escalation |
+| Sc3 → Sc4 | Corridor walk; sensory shift from display to architecture | ★★★★ Clean pivot from operational to personal |
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Opening hook | 9/10 | Door with no designation, biometric reader — immediately signals classified space |
+| Pacing consistency | 9/10 | Institutional register maintains tempo; execution sequence builds without rushing |
+| Transition quality | 9/10 | "Begin." is the best single-word scene break in Phase 4 |
+| Emotional throughline | 9/10 | Dissociation as throughline — consistent, never broken, earns the final line |
+| Closing resonance | 10/10 | "She would authorize the next one too." — the most devastating final line since "Same time next quarter" |
+| **Overall** | **9.2/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** ~15% (walking, sitting, drinking water, watching display)
+- **Reflection:** ~85% (institutional processing, witnessing, sensory registration, memory)
+- **Balance:** 15/85 — correct for PRESSURE institutional chapter; the action is watching
+
+### Style Alignment
+
+| Check | Value | Target | Status |
+|-------|-------|--------|--------|
+| NbA instances | 8 | 6-8 (Aurielle) | ✅ |
+| Action/Reflection | 15/85 | 20-30/70-80 | ✅ (PRESSURE command-level — lower action justified) |
+| Sensory detail | Sound (hum, vibration), tactile (chair, desk, shoes), visual (display, violet) | Sensory hierarchy | ✅ |
+| Flow score | 9.2 | 8.5+ | ✅ |
+
+### Pacing Notes
+
+- **Strengths:** The institutional register provides the chapter's architecture — Thorne's operational narration gives the execution sequence its clinical horror. The execution log timestamps (italicized) create a counter-rhythm to the prose, bureaucratic cadence against literary observation. The final scene in Eduardo's office mirrors Ch 7 and Ch 12 closings (alone, hands flat, objects as non-use) but the emotional register has shifted from processing to emptiness. The final line lands as continuation, not conclusion — the horror is that the system will resume.
+- **Concerns:** Six consecutive Phase 4 chapters with very low dialogue (Ch 37: ~8%, Ch 39: ~5%, Ch 42: 0%, Ch 40: 0%, Ch 41: ~1%, Ch 45: 0%). Aurielle's chapter has the most dialogue of the Phase 4 batch but still below target. Ch 46 (Aurielle, "Congratulations") MUST restore dialogue to 15-20% — board meeting format enables this.
+- **Recommendations:** PRESSURE subtype confirmed: **institutional/catastrophe** (operational competence as horror engine, holographic display as witness perspective, institutional vocabulary as distance mechanism). The walk motif ("Not because Thorne told her to") provides structural connection to Ch 1 and Book 3. The hum *Thinner* variant should carry through remaining chapters.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 4 opening, PRESSURE, 3-5K words)
+- Adjacent chapter contrast: ✅ (Ch 36 = Aurielle/unwritten authorization → Ch 37 = Aurielle/PRESSURE execution → Ch 38 = Nikolai/PRESSURE key-turn)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -2038,7 +2139,8 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
 | **41** | Sofia | 4,200 | TEXTURE | ~1% | 4→7→3→9→5 | 9.0 | 15/85 | ✅ |
 | **45** | Zeyad | 4,600 | TEXTURE | 0% | 3→4→8→2 | 8.8 | 10/90 | ✅ |
-| 37–39 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| **37** | Aurielle | 5,100 | PRESSURE | ~8% | 3→6→9→4 | 9.2 | 15/85 | ✅ |
+| 38–39 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -2048,10 +2150,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 6/9 | 6/9 | 9.0 | 5.8 | 2P/4T | 📝 |
+| Phase 4 | 7/9 | 7/9 | 9.0 | 5.7 | 3P/4T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 45 — "The Partial Transmission" rhythm analysis_
+_Updated by: Chapter 37 — "The Protocol" rhythm analysis_

@@ -167,7 +167,7 @@ Neo-Shanghai. NitroCore tower. Balcony. The grid is failing, the Spires are bein
 
 She does not fall. She takes a step.
 
-It is the first decision she makes for herself. It is also her last. The vertical architecture that was her moral architecture — governing from altitude, distance as governance — collapses into a single autonomous act. The woman who walked because Thorne told her not to run finally walks somewhere no one told her to go.
+It is not due to despair, it is not remorse, not regret, not understanding, she already understood. It is simply the first decision she makes for herself. It is also her last. The vertical architecture that was her moral architecture — governing from altitude, distance as governance — collapses into a single autonomous act. The woman who walked because Thorne told her not to run finally walks somewhere no one told her to go.
 
 ---
 

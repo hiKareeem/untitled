@@ -264,6 +264,16 @@ chapters:
     mode: PRESSURE
     notes: "Nuwa POV debut. BLACKWEIR from residential apartment. Solo chapter — 0% dialogue. Phase 4."
 
+  chapter_37:
+    title: "The Protocol"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 5100
+    completedDate: "2026-02-15"
+    metaFile: "chapter-37-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 4 opening — BLACKWEIR command-level. Aurielle POV (4th appearance). Operations center (63rd floor). Thorne narrates engineering. Small voice SILENT. Hum Thinner. 'She would authorize the next one too.'"
+
   chapter_45:
     title: "The Partial Transmission"
     status: v1-complete
@@ -282,6 +292,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 27
-totalWords: 128200
+completedCount: 28
+totalWords: 133300
 lastUpdated: "2026-02-15"

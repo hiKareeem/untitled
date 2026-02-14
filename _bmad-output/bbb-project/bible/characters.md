@@ -128,10 +128,10 @@ This bible dimension tracks **current character states**:
 | Marcus Thorne | Mentor/Foil/Suspect | Very High | Deference that feels like respect but is assessment. Handed her a handkerchief at the gala while Eduardo's blood was still warm. She suspects he arranged the assassination — timing too clean, succession too smooth. Cannot prove it. Cannot stop needing him. |
 | NitroCore Board | Institutional | Moderate | Expects continuity; she wants reform |
 
-**Current Arc:** Idealist → Reluctant Tyrant
-- Current Phase: 1/5 (Equilibrium — new executive, weeks post-assassination, still tasting salt)
-- Progression: Beginning
-- Next Step: Receives full VEC correlation data from Thorne (Ch 12); reform = Spire blackouts
+**Current Arc:** Idealist → Reluctant Tyrant → Functional Tyrant
+- Current Phase: 4/5 (Transformation — BLACKWEIR authorized and executed)
+- Progression: Advanced
+- Next Step: Ch 46 "Congratulations" — board meeting, stock recovery, "casualties within projected parameters"
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -143,10 +143,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Functional tyrant. Knows. Continues. | Congratulated. Stock recovers. She will authorize the next one too. |
 
 **Appearances:**
-- Last Appearance: Chapter 12
-- Next Planned Appearance: Phase 2 continuation
+- Last Appearance: Chapter 37 — "The Protocol"
+- Next Planned Appearance: Chapter 46 — "Congratulations" (Phase 5)
 
 **Recent History:**
+- Chapter 37: Fourth POV chapter (Phase 4 opening). Watches BLACKWEIR execute from operations center (63rd floor, NitroCore Tower — NEW location, hexagonal, 12 workstations, holographic array). Thorne narrates engineering junction by junction. Junction 7 severed at 06:17, 23 sectors sealed in 44 seconds, conduit flood initiated, absorption front propagates through Sump residential grid. Protocol completes at 07:41 (84 minutes). 98.4% grid integrity. "The numbers work. That's the horror." Small voice SILENT for the first time — arithmetic complete. Walks to Eduardo's office alone — "Not because Thorne told her to. Not because the cameras were recording." Hum *Thinner* — the chord without the people. "She would authorize the next one too." Psychological state: functional dissociation — composure is not performance, it IS the architecture. The Chair as institution, not person.
 - Chapter 12: Third POV chapter. Descends to Sub-level 7 — classified briefing room (hexagonal, holographic array, two chairs) built by grandfather, used quarterly by Eduardo for eleven years. Authenticates with biometrics, daily code, and carbon key from Eduardo's desk false bottom. Thorne presents holographic Sump model: maintenance status (Sector 9 at 47% junction integrity), absorption overlay (0.87 correlation), cost projections (containment 41.3% over budget). Three scenarios: A (do nothing, cascade 14-22 months), B (full rehabilitation, Spire blackouts), C (managed attrition, 8-14K additional absorptions). Holds both VEC Annex B and LP9 classifications simultaneously — the complete picture. Identifies "the right question" — not how to fix it but how to manage what can't be fixed. Thorne: "Welcome to the quarterly." Accepts the institutional rhythm: "Same time next quarter." Returns to Eduardo's office. Now hears the grid working. Small voice no longer small — partition thinned from wall to membrane, voice sounds like Eduardo's. Moral laddering begun through information, not decisions. Psychological state: composure holding, complicity deepening, the understanding is a position not a decision.
 - Chapter 1: Navigates corporate gala with institutional fluency — reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie). Seated on stage during Eduardo's keynote. Father assassinated mid-speech by thermal-kinetic round (erased from nose up). Pieces of him on her dress. Cannot hear/remember the shot. Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording. She walks. In the corridor, Thorne activates Board Resolution 2175-003 (emergency succession). "Welcome to the throne, my dear. Try not to slip." Alone in private suite: rotates left wrist (signature mannerism), keeps the handkerchief, avoids the mirror. Seals the suspicion ("He knew") because she needs Thorne. Psychological state: grief suppressed, suspicion partitioned, institutional conditioning active.
 - Chapter 7: First board meeting as Chair. Occupies Eduardo's chair (nanite-threaded leather, doesn't fit). Reviews the room — reads board behavior, notes Thorne's suit, seals the suspicion again. Quarterly review: slide 17 ("Sump Infrastructure Lifecycle Management") — senses it's "informationally dangerous," chooses not to ask. In Eduardo's office: discovers LP9 reference in quarterly recommendations (reads from last page). Cross-references classified brief via secured terminal. Contacts Thorne. Thorne delivers private briefing: RCI climbing in 3 zones (Neo-Shanghai worst), containment 40% over budget, maintenance deferred 14 months, junction integrity 67% (Eduardo's threshold: 70%). Cause-cost separation: VEC Annex B (cause) kept separate from LP9 (cost). Asks the right question: "What happens if containment isn't sufficient?" Thorne: "That is why Legacy Protocol 9 exists." / "Eduardo asked the wrong one. He asked how to fix it." Alone for 23 minutes: wrist rotates (noticed, stopped), hands flat on Spanish walnut desk, does not open handkerchief drawer. The small voice calculates with real numbers. Psychological state: composure holding, institutional conditioning active, the ground shifting beneath the equilibrium.
@@ -721,6 +722,8 @@ This bible dimension tracks **current character states**:
 | AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
 | AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
 | Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 2/5, Ch 17 last appearance | Phase 4/5 (Crisis); dead-hand received; public statement published; Article 12 Section 8 violated; pen set down; notebook photographed and attached | Ch 45 |
+| Aurielle Vasquez | Arc + Recent History | Phase 1/5, Ch 12 last appearance | Phase 4/5 (Transformation); BLACKWEIR executes; watches from operations center (63rd floor); small voice SILENT; hum *Thinner*; "She would authorize the next one too." Walk motif echoes Ch 1. | Ch 37 |
+| Marcus Thorne | Appearance + Recent History | Ch 12 last appearance | Fourth appearance; operational executor — narrates BLACKWEIR engineering junction by junction; pivots to board briefing logistics post-protocol; the project complete | Ch 37 |
 
-_Last updated: 2026-02-15 (Ch 45 "The Partial Transmission" v1-complete)_
-_Updated by: Chapter 45 bible update_
+_Last updated: 2026-02-15 (Ch 37 "The Protocol" v1-complete)_
+_Updated by: Chapter 37 bible update_
