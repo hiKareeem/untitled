@@ -410,12 +410,12 @@ This bible dimension tracks **current character states**:
 **Lens:** Complicity in systems
 
 **Current Psychological State:**
-- Phase: 2/5 (Radicalization — early)
-- Emotional State: Compartmentalized — provider-warmth (Nuwa) coexists with documentation-compulsion (log)
-- Dominant Beliefs: "Keeping your head down keeps the people you love safe" — cracking. The Kindling's vocabulary names what institutional language erases.
-- Internal Contradictions: Maintains the infrastructure he suspects is implicated in the disappearances. Protects Nuwa by withholding information that would protect her differently.
+- Phase: 4/5 (Transformation — BLACKWEIR witness)
+- Emotional State: Comprehension without agency — understands exactly what the infrastructure is doing because he maintained it; cannot act. The Lie is destroyed.
+- Dominant Beliefs: "Keeping your head down keeps the people you love safe" — **destroyed.** The infrastructure he maintained IS the delivery system. Keeping his head down built the weapon.
+- Internal Contradictions: None remaining — the contradiction between maintenance and conscience has been resolved by BLACKWEIR. The system revealed itself. What remains is the question of what to do with the knowledge.
 
-**The Lie:** Keeping your head down keeps the people you love safe
+**The Lie:** Keeping your head down keeps the people you love safe — **DESTROYED Ch 39**
 
 **Conscious Want:** Keep the conduits running; provide for Nuwa
 **Unconscious Want:** Believe the system he maintains isn't what he suspects it is
@@ -429,9 +429,9 @@ This bible dimension tracks **current character states**:
 | Chen Wei (shift supervisor) | Institutional | Professional | “They always self-correct” — 20 years of calcified dismissiveness. What Fuxi will become if he stays. |
 
 **Current Arc:** Maintenance Man → Radical
-- Current Phase: 2/5 (Documentation — private log correlating spikes with disappearances)
-- Progression: Early-mid
-- Next Step: Kindling recruiter returns; Fuxi's private data becomes politically legible
+- Current Phase: 4/5 (Forced witness — watches BLACKWEIR through the infrastructure he maintained)
+- Progression: Late
+- Next Step: Phase 5 — emerges from converter station, finds Nuwa alive, joins Kindling. The private log becomes evidence.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -443,10 +443,11 @@ This bible dimension tracks **current character states**:
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
 **Appearances:**
-- Last Appearance: Chapter 16 — "Private Log"
-- Next Planned Appearance: Chapter 22 (Phase 2 — Kindling recruiter returns)
+- Last Appearance: Chapter 39 — "Pressure Doors"
+- Next Planned Appearance: Chapter 47 (Phase 5 — emergence, Nuwa alive, Kindling)
 
 **Recent History:**
+- **Ch 39:** Phase 4 — BLACKWEIR. In the converter station (three levels below monitoring bay) running pre-shift diagnostics when the eighth spike arrives — step-function, no decay. Comms Chen Wei briefly before channel dies. Every maintenance alarm fires simultaneously. R0 crude floods the trunk-line network through synchronized valve opening (NitroCore corporate security override, not municipal). Pressure doors seal the Sump sector by sector — "[17 alerts suppressed]." Fuxi recognizes the infrastructure as a weapon: "Not as a power grid. As a weapon." Both exits sealed (pressure door + manual bolt — pre-installed during "routine infrastructure reinforcement" he signed off on). Watches absorption front propagate on residential grid map: blocks go green→amber→red→violet. Block 14 — his block, Nuwa's block — goes violet. Three attempts to reach Nuwa: NETWORK UNAVAILABLE. Closes the private log (eighth entry, pattern complete). Sits on converter station floor with Jun's multitool. "Fuxi did not believe that" — the Lie's death sentence, stated through negation of his father's belief. Closes: "waited for the architecture to finish what it had always been designed to do." Duan (co-operator, 62, 18 months from retirement) present as silent witness — works shutdown procedures, valves don't respond, stands at glass looking at Fuxi. Nine years of service confirmed.
 - **Ch 16:** Phase 2 transition. Eleven weeks and four days since the first logged spike. Fuxi now maintains an unofficial private log correlating RCI spikes with residential disappearances, hidden in the system's maintenance directory. Seven spikes logged, acceleration pattern visible (40s → 19s decay). Guo (unit 14-7B) — a man Fuxi knew by face, with a loud laugh and a daughter — became "vacancy logged." The Kindling pamphlet (months old) provides vocabulary: "sacrifice district," "describe what you see." Quarterly safety briefing signed without belief. Nuwa's transfer plan progressing — paperwork drafted, QC qualification timeline mapped, transit permit pathway identified. Nuwa lighter than any previous appearance (shoulders dropped, jaw unclenched). Fuxi chose not to tell her about the log: "You could not carry both architectures — the architecture of rising and the architecture of counting." Closed on the blue textile with the file open on the cracked frame. The containment has cracked into documentation. Psychological state: compartmentalized — provider-obligation to Nuwa (public) and witness-obligation to the disappeared (private).
 - **Ch 8:** Domestic scene with Nuwa — first shared meal in prose. Arrived home from Deep Sump shift (18:00). Nuwa cooking (on early rotation, 06:00-14:00). Boot-mat ritual continued. Nuwa built case for P-3 / Mid-Level transfer (Yuen's plant, QC positions, employer-sponsored transit permits). Fuxi pushed back on transition costs, conceded when her math proved better. Shimmer near Hum Market — neither named it ("Normal crowd"). Sat in dark with Jun's multitool (first prose appearance). Monitor 6 reading 27.1 (baseline). Spike from three weeks ago not recurred, inspection closed "no anomaly detected" — but the shape of the linear decay persists in his mind. Municipal advisory updated twice. Did not tell Nuwa about the spike or the shape. Savings plan: two months in, four more months to P-3. Psychological state: dutiful provider, domestic warmth, deliberate suppression of the question.
 - **Ch 4:** Routine trunk-line inspection in Deep Sump monitoring bay, Section 4-East. Logged three-hertz flat variance (within tolerance). At 14:47, monitor 6 spiked from 27.1 to 31.2 RCI — four points above baseline, held ~40 seconds, self-corrected. Chen Wei dismissed: "They always self-correct." Fuxi noticed the decay profile was atypical — linear rather than logarithmic, too clean, too precise. Logged the anomaly with a note recommending follow-up inspection of junction housing 4E-9. Did not escalate. Received messages from Nuwa about a Shenlong P-3 frame with sensory filter on the Hum Market (stall 14, 1,200 credits, 3 months savings). Nuwa warned him against volunteering for Resonance District overtime (double rate offered). Returned to Sump apartment. Did not pursue the question forming in his mind about the correction pattern. Psychological state: dutiful, suppressing unease, compliance as survival strategy.
@@ -481,10 +482,11 @@ This bible dimension tracks **current character states**:
 **Speech Register:** Minimal. Single words, short phrases. "Logged?" "Fluctuation." "Self-correcting." Speaks in the compressed vocabulary of someone who has stopped needing full sentences to communicate institutional certainty.
 
 **Appearances:**
-- Last Appearance: Chapter 16 — "Private Log"
-- Next Planned Appearance: Fuxi's subsequent chapters
+- Last Appearance: Chapter 39 — "Pressure Doors" (voice only — comm channel)
+- Next Planned Appearance: Unknown (may not survive BLACKWEIR — monitoring bay location)
 
 **Recent History:**
+- **Ch 39:** Voice only via maintenance comm channel. Fuxi reports monitor 6 at 35.7, no decay. Chen Wei asks "Duration?" — compressed procedural. Says "Log it. I'll flag for—" before channel cuts. His location (monitoring bay, Section 4-East) is within the pressure door perimeter. Survival status unknown.
 - **Ch 16:** Background presence. Continues institutional routine in the monitoring bay. Does not look up when Fuxi reviews data. The calcified dismissiveness persists — twenty years of self-correcting readings. Fuxi's private log exists in the space Chen Wei's certainty cannot see.
 - **Ch 4:** Dismissed Fuxi's report of a 4-point RCI spike on monitor 6. "They always self-correct." Did not look at the decay profile. Did not investigate. Filed the shift report.
 

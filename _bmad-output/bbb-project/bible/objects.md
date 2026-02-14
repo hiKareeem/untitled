@@ -3,7 +3,7 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-14"
-lastChapter: 16
+lastChapter: 39
 totalObjects: 19
 activeObjects: 18
 project_name: "Untitled"
@@ -730,7 +730,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Digital file on a cracked frame. Columns: date, time, monitor, peak RCI, decay shape, duration, and — in later entries — the name or unit number of the person who went dark
 - Function: Unofficial correlation log tracking RCI spikes against residential disappearances
-- Condition: Seven entries over eleven weeks. Acceleration pattern visible (40s → 19s decay). No conclusion.
+- Condition: Eight entries over eleven weeks and four days. Acceleration pattern terminated: step-function spike (no decay). File closed by Fuxi during BLACKWEIR.
 
 **Significance:** The log is Fuxi's version of Nikolai's field log and Sofia's personal archive — a private record maintained outside institutional channels because institutional language cannot accommodate what the data says. It parallels Mirelle's dead-hand (truth preserved against institutional erasure) but has no delivery system, no recipient, no dead-hand. It exists because not-recording became harder than recording. The Kindling pamphlet ("We do not ask you to rebel. We ask you to describe what you see.") provides the vocabulary; the log is Fuxi describing what he sees. "The file had no conclusion because Fuxi did not have one."
 
@@ -739,6 +739,7 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 16: First referenced. Seven entries. Acceleration pattern documented. Guo (unit 14-7B) is the entry where technical language strains against personal knowledge — Fuxi knew this one.
+- Ch 39: Eighth entry added during BLACKWEIR (peak 34.1+, no decay, duration: ongoing). The acceleration pattern reaches its predicted terminus — step-function spike. "The column for names still empty because the names were not disappearing one at a time anymore." Fuxi closes the file: "the pattern was complete." The log's truth is confirmed and made irrelevant simultaneously. *Describe what you see* fulfilled; "the description had changed nothing."
 
 ---
 
@@ -761,4 +762,4 @@ An object deserves documentation if it:
 ---
 
 _Last updated: 2026-02-14_
-_Updated by: Chapter 16 — "Private Log" bible update_
+_Updated by: Chapter 39 — "Pressure Doors" bible update_

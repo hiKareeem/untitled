@@ -201,7 +201,17 @@ chapters:
     mode: TEXTURE
     notes: "Phase 2 transition. First Zeyad-Mirelle exchange. First information bridge between POVs. AEGIS as invisible novelist."
 
-# Chapters not yet written: 19-41, 45-51, Epilogue
+  chapter_39:
+    title: "Pressure Doors"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 4600
+    completedDate: "2026-02-14"
+    metaFile: "chapter-39-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 4 BLACKWEIR — Fuxi POV. Converter station. Infrastructure as weapon. Block 14 goes violet. Private log closed. AEGIS as invisible novelist."
+
+# Chapters not yet written: 19-38, 40-41, 45-51, Epilogue
 
 # Book 2 Chapters
   book2_aegis_blackweir:
@@ -242,6 +252,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 23
-totalWords: 111000
+completedCount: 24
+totalWords: 115600
 lastUpdated: "2026-02-14"
