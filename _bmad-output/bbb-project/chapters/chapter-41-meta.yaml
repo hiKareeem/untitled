@@ -1,0 +1,129 @@
+# Chapter 41 Metadata
+# Generated: 2026-02-14
+
+chapter: 41
+title: "The Data"
+pov: "Sofia Reyes"
+povAppearance: 3  # Ch 5, Ch 15, Ch 41
+phase: 4
+wave: "Kill Zone (breath)"
+thread: "Investigation"
+mode: TEXTURE
+status: v1-complete
+wordCount: 4200
+scenes: 3
+draftVersion: 1
+createdDate: "2026-02-14"
+completedDate: "2026-02-14"
+author: "Kareem"
+
+# Epigraph
+epigraph:
+  source: "Dr. Maren Solberg"
+  work: "On the Statistical Correlation Between Nitro Throughput Volume and Void Coherence Index Readings in Urban Conduit Networks — VEC Internal Review, 2170 (Classified)"
+  text: "See Appendix D."
+
+# Timeline
+timeline:
+  concurrent_with: [39, 40, 42, 43, 44]
+  phase_position: "BLACKWEIR cross-cut — Kill Zone wave, breath chapter"
+
+# Summary
+summary: >
+  Sofia at VEC HQ during BLACKWEIR. Observes the Confluence event on her instruments — the convergence
+  models she'd been running for months play out exactly as predicted. Locked out of Liang's classified
+  briefing on the 47th floor. Returns to immersion pod. Witnesses the 11-second coherence spike.
+  Receives anonymous dead-hand cache fragments from Mirelle's Black Babel transmission — RCI field
+  measurements, BLACKWEIR protocol designation, flood valve documentation, procurement records.
+  Archives everything: her atmospheric data + Mirelle's field evidence in the same encrypted archive
+  for the first time. "The data was complete. The data had prevented nothing."
+
+# Key Events
+keyEvents:
+  - "Confluence event observed on holographic display — wave propagation from Resonance District upward through conduit architecture"
+  - "RCI readings stepping in discrete increments (Sump 34→52+, Mid-Levels 22→27, Spires 14→14.4)"
+  - "Engineered differential discovered — infrastructure channeling coherence below specific altitude"
+  - "Locked out of 47th floor classified briefing (biometric denial)"
+  - "VEC Emergency Alert observed: Confluence confirmed, VPI 97.3%, AEGIS targeting calculated, 15:00 countermand window"
+  - "11-second broadband coherence spike — global, structured, repeating"
+  - "Dead-hand cache fragments received via Black Babel encrypted relay"
+  - "BLACKWEIR protocol designation encountered for first time"
+  - "Complete dataset archived: atmospheric + field evidence merged"
+
+# Characters
+characters:
+  pov:
+    - name: "Sofia Reyes"
+      arc: "Phase 4/5 — instruments confirm mass absorption; locked out; inherits Mirelle's evidence; data prevents nothing"
+  supporting:
+    - name: "Dr. Liang"
+      role: "Seen through glass in classified briefing; does not look at Sofia"
+  background:
+    - name: "Dr. Yun"
+      role: "Workstation cycling diagnostics (station four)"
+    - name: "Farid"
+      role: "Empty station — departure without return"
+  implicit:
+    - name: "Mirelle Dubois"
+      role: "Anonymous source of dead-hand cache fragments"
+
+# Locations
+locations:
+  primary: "VEC HQ, Neo-Shanghai (Spires)"
+  scenes:
+    - "VEC Atmospheric Monitoring Lab, 35th floor — immersion pod"
+    - "Emergency stairs + 47th floor corridor — Liang's office/briefing room"
+    - "VEC Atmospheric Monitoring Lab, 35th floor — immersion pod (return)"
+
+# New Elements
+newElements:
+  concepts:
+    - "VPI (Void Propagation Index) — Sofia's rejected metric, now operationalized by VEC"
+    - "Coupling events — VEC term for absorption events as data points"
+    - "Post-event residual coherence — infrastructure's memory of what passed through it"
+  rhetoric:
+    - "VEC Emergency Alert (Apex classification): Confluence confirmed, VPI 97.3%, AEGIS targeting calculated"
+
+# Themes
+themes:
+  dominant: ["Truth as Weapon/Shield"]
+  strong: ["Systemic Complicity", "Architecture of Power", "Progress Requires Atrocity"]
+  moderate: ["Commodification of Suffering", "Where Identity Ends", "What We Owe"]
+  background: ["Irrelevance of Individual Being"]
+
+# Voice Notes
+voiceNotes:
+  register: "Scientific → direct (hedged→direct transition across chapter)"
+  negationBeforeAssertion: 3
+  fragmentPercent: "~21%"
+  dialoguePercent: "~1%"
+  avgSentenceLength: "~14 words"
+  metaphorDomain: "Scientific/instrumental — carrier wave, step-function, substrate saturation, coupling events"
+  sensoryHierarchy: "Sound/vibration dominant, tactile strong, visual secondary"
+
+# Rhythm
+rhythm:
+  tensionCurve: "4→7→3→9→5"
+  mode: TEXTURE
+  flowScore: 9.0
+  actionReflectionBalance: "15/85"
+  pacing: "Breath chapter — scientific register as momentary distance"
+
+# Continuity
+continuityFlags:
+  - "Sofia's bible entry stale (Phase 2/5) — updated to Phase 4/5 in Step 06"
+  - "Liang last seen Ch 15 — now Ch 41"
+  - "Complete dataset assembled — atmospheric + field evidence. Phase 5 leverage."
+  - "VPI operationalized without Sofia's credit — seeds institutional appropriation"
+  - "AEGIS targeting calculated — earliest diegetic AEGIS reference in Book 1"
+  - "Sofia doesn't know Mirelle's identity — discovery pathway via Talia or Zeyad"
+  - "Liang ambiguity preserved — did he know she was at the glass?"
+  - "Phase 3 chapters unwritten — implied off-page events consistent"
+
+# Audit
+auditResults:
+  styleAudit: "12/12 checks pass; 2 fixes applied (L113 anti-slop, L217 terminal continuity)"
+  characterAudit: "Sofia 9.5/10, Liang 9/10, Dr. Yun 9/10, Farid 9/10, Mirelle (implicit) 9.5/10"
+  continuityCheck: "All pass — timeline, objects, locations, knowledge boundaries, plan adherence"
+  auditFile: "tracking/audit-chapter-41.md"
+  themeAnalysisFile: "tracking/chapter-41-themes.md"

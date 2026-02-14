@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 40"
+lastChapter: "Chapter 41"
 totalChapters: 53
-analyzedChapters: 18
+analyzedChapters: 19
 project_name: "Untitled"
 ---
 
@@ -1805,6 +1805,100 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 ---
 
+## Ch 41 — Sofia: "The Data"
+
+**Phase:** 4 | **Mode:** TEXTURE (breath) | **Date analyzed:** 2026-02-14
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,200 | 3,500–5,000 | ✅ |
+| Scenes | 3 | 2–4 | ✅ |
+| Paragraphs | ~48 | — | — |
+| Dialogue % | ~1% | 10–20% | ❗ (justified — breath chapter, scientific register) |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~21% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |                              ●
+ 8 |                           ╱
+ 7 |              ●────╮     ╱
+ 6 |           ╱        │   ╱
+ 5 |         ╱          │ ╱              ●
+ 4 |  ●────╱            │╱
+ 3 |                    ●
+   +─────────────────────────────────────
+     Sc1           Sc2          Sc3
+```
+
+- **Opening:** 4/10 — Urgency: pod registers BLACKWEIR; instruments haywire; scientific urgency
+- **Scene 1 Peak:** 7/10 — Engineered horror: RCI differential reveals designed sacrifice
+- **Scene 2 Drop:** 3/10 — Institutional frustration: locked out, biometric denial, corridor
+- **Scene 3 Peak:** 9/10 — Physical overwhelm: 11-second coherence spike + dead-hand fragments
+- **Closing:** 5/10 — Impotent clarity: "The data was complete. The data had prevented nothing."
+- **Shape:** Breath chapter — scientific register as momentary distance; tension rises through data, not action
+
+### Beat Map
+
+1. [5%] HOOK — Pod registers event before Sofia does; haptic suit pulses → +1
+2. [15%] REVEAL — Confluence wave propagation on central display; models confirmed → +2
+3. [25%] COMPLICATION — RCI differential: Sump 3x faster than Mid-Levels → +1
+4. [35%] REVEAL — "Someone had designed the conduit network" — engineered sacrifice → +1
+5. [45%] REVERSAL — 47th floor biometric denial; locked out of classified briefing → -4
+6. [50%] REVEAL — VEC Emergency Alert: VPI 97.3%, AEGIS targeting calculated → +2
+7. [60%] SETPIECE — 11-second broadband coherence spike overwhelms instruments → +3
+8. [70%] REVEAL — Dead-hand cache fragments arrive; field evidence confirms atmospheric data → +1
+9. [80%] COMPLICATION — "Pre-installed. Design features." BLACKWEIR named → +1
+10. [90%] RESOLUTION — Complete dataset archived; atmospheric + field in same archive → -2
+11. [95%] CLOSE — "The data was complete. The data had prevented nothing." → -2
+
+### Transitions
+
+- **Scene 1 → Scene 2:** Physical movement — Sofia leaves pod, takes emergency stairs to 47th floor. Shift from data-space to physical-space.
+- **Scene 2 → Scene 3:** Physical return — descends 12 flights back to monitoring lab. Corridor isolation bridges institutional frustration to analytical absorption.
+
+### Flow Scores
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Sentence variety | 9 | Strong mix: fragments (21%), medium sentences, occasional long analytical passages |
+| Paragraph rhythm | 9 | Short paragraphs during spike; longer analytical passages during data absorption |
+| Scene transitions | 9 | Physical movement (stairs) provides clean breaks; the building IS the transition |
+| Tonal consistency | 9 | Scientific register maintained throughout; hedged→direct transition organic |
+| **Overall flow** | **9.0** | Breath chapter succeeds — scientific distance as emotional architecture |
+
+### Action/Reflection Balance
+
+- **Action:** ~15% (moving through building, pulling on gloves, stabilizing displays, reading fragments)
+- **Reflection:** ~85% (data analysis, pattern recognition, moral processing, archival decision)
+- **Balance:** 15/85 — correct for TEXTURE breath chapter; the action IS the observation
+
+### Style Alignment
+
+| Check | Value | Target | Status |
+|-------|-------|--------|--------|
+| NbA instances | 3 | 2-4 | ✅ |
+| Action/Reflection | 15/85 | 20-30/70-80 | ✅ (TEXTURE breath — lower action justified) |
+| Sensory detail | Sound/vibration dominant, tactile strong | Sensory hierarchy | ✅ |
+| Flow score | 9.0 | 8.5+ | ✅ |
+
+### Pacing Notes
+
+- **Strengths:** The breath chapter delivers exactly what Phase 4 needs after the relentless compression of Ch 39-40: scientific register as momentary distance, allowing the reader (and Sofia) to process the Confluence through instruments rather than experience. The ~1% dialogue is extreme but correct — Sofia is alone with data, not in conversation. The 11-second spike provides the chapter's physical-experiential peak without breaking the scientific register. Dead-hand fragments arrive as data, not as drama.
+- **Concerns:** Four consecutive BLACKWEIR chapters with <10% dialogue (Ch 39: ~5%, Ch 42: 0%, Ch 40: 0%, Ch 41: ~1%). Monitor for reader fatigue. The breath designation means this chapter must provide distance — if the reader doesn't experience relief through the scientific register, the pacing fails.
+- **Recommendations:** This chapter confirms Sofia's Phase 4 TEXTURE subtype: **data-as-witness** (scientific observation as scene architecture, instrumental precision as emotional register, the archive as the only available moral act). The closing line should land as the chapter's thematic weight: not dramatic, not loud, just complete.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 4, TEXTURE breath chapter, 3-5K words, scientific register as momentary distance)
+- Adjacent chapter contrast: ✅ (Ch 40 = Mirelle/PRESSURE transmission-under-dissolution → Ch 41 = Sofia/TEXTURE data-as-witness → Ch 42 = Nuwa/PRESSURE domestic-survival)
+
+---
+
 ## Summary Dashboard
 
 | Ch | POV | Words | Mode | Dial% | Tension (O→P→C) | Flow | Balance | Status |
@@ -1835,7 +1929,8 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **40** | Mirelle | 3,800 | PRESSURE | 0% | 7→8→9→10→∅ | 9.2 | 40/60 | ✅ |
 | **42** | Nuwa | 4,200 | PRESSURE | 0% | 4→7→5 | 9.2 | 5/95 | ✅ |
 | **44** | Nephthys | 5,300 | TEXTURE | ~8% | 3→5→8→10→9→6 | 9.0 | 75/25 | ✅ |
-| 37–39,41,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| **41** | Sofia | 4,200 | TEXTURE | ~1% | 4→7→3→9→5 | 9.0 | 15/85 | ✅ |
+| 37–39,45 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -1845,10 +1940,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 4/9 | 4/9 | 9.2 | 6.3 | 2P/2T | 📝 |
+| Phase 4 | 5/9 | 5/9 | 9.1 | 6.2 | 2P/3T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-14_
-_Updated by: Chapter 40 — "The Infrastructure Was Always Designed To—" rhythm analysis_
+_Updated by: Chapter 41 — "The Data" rhythm analysis_

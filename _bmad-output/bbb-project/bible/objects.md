@@ -584,6 +584,7 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 5: Sofia detects 0.7 Hz pulse in the pod; runs 6 analyses; recalibrates 62 sensors; cross-references 47 years of data. Smiled when pulse survived recalibration.
+- Ch 41: Pod registers BLACKWEIR event before Sofia does — haptic suit pulses, holographic field shifts amber→white. Three-meter central display (previously dismissed as decorative) becomes the only display large enough to hold the Confluence. Pod shudders during 11-second coherence spike. Sub-sonic frequencies pass through acoustic insulation — felt in sternum, teeth. Pod's physiological sensors report Sofia's body at baseline after event — "The instruments said she was calm."
 
 ---
 
@@ -629,6 +630,7 @@ An object deserves documentation if it:
 **History:**
 - Ch 5: 15th entry saved — the 0.7 Hz pulse data, waveforms, temporal analysis, recalibration documentation, and the anomaly report submitted through official channels. The official copy enters the pipeline; the personal copy stays outside.
 - Ch 15: 16th entry saved — the full correlation dataset (211 deployments × atmospheric pulse data), the twelve-page preliminary paper ("Temporal Correlation Between Sub-Strata Atmospheric Anomalies and Stalker Tactical Deployments"), and the vertical gradient analysis. Archived the same night Liang held the institutional copy for methodology review. The dual-channel strategy deepens from record to strategic preservation — "record, not rebellion" becoming "a choice."
+- Ch 41: Complete dataset merged — real-time Confluence recordings (timestamped), anonymous dead-hand cache fragments (Mirelle's field evidence, unedited, gaps preserved), atmospheric convergence data, vertical gradient analysis, correlation paper. First time atmospheric data and field evidence exist in the same archive. The archive is now the most complete evidentiary record of BLACKWEIR outside institutional channels.
 
 ---
 

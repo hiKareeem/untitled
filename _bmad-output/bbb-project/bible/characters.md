@@ -515,11 +515,12 @@ This bible dimension tracks **current character states**:
 **Speech Register:** Calm, procedural, precise. Short directives. No emotional language. "Run them again." "That's an interpretation, Dr. Reyes. Not a measurement." The voice of the institution speaking through a person.
 
 **Appearances:**
-- Last Appearance: Chapter 15 — "Correlation 0.94" (second direct appearance)
-- Previous: Chapter 5 — "Instrument Drift" (first direct appearance)
-- Next Planned Appearance: TBD (methodology review outcome)
+- Last Appearance: Chapter 41 — "The Data" (seen through glass in classified briefing)
+- Previous: Chapter 15 — "Correlation 0.94" (second direct appearance)
+- Next Planned Appearance: TBD
 
 **Recent History:**
+- **Ch 41:** Seen through glass partition on 47th floor during BLACKWEIR. Sitting in classified briefing with two VEC executive-lanyard personnel. Hands flat on table — same posture from Ch 15 correlation meeting. Face turned away from the glass where Sofia stood. "He might have known she was there. He did not look." VEC Emergency Alert on display behind him: Confluence confirmed, VPI 97.3%, AEGIS targeting calculated. The institutional man in the institutional room, processing the institutional event, using the metric the institutional scientist invented and the institution operationalized without telling her. Ambiguity preserved: protecting the institution, protecting Sofia, or simply not seeing.
 - **Ch 5:** Reviewed Sofia's 0.7 Hz pulse data visualization for 15 seconds. Asked when it started, duration. Jaw tightened at the decay profile. Told her to check instruments (SOP 7.1). Told her to recalibrate, document, submit through standard channel for quarterly review. Dismissed "withdrawing" language as "an interpretation, not a measurement." Turned back to desk display.
 - **Ch 15:** Read Sofia's twelve-page correlation paper. Jaw tightened again at the 0.94 coefficient (same micro-expression as Ch 5 — involuntary, institutional composure failing). "The correlation is interesting. The implication is premature." Held paper for methodology review panel (4-6 weeks) + classification review + quarterly publication cycle (~5 months total). Escalated from deflection (Ch 5: "check instruments") to active containment (Ch 15: "hold publication"). Key ambiguity preserved: protecting the institution from the data, or protecting Sofia from the institution? "You have done excellent work" — rare affirmation, possibly genuine, possibly strategic. The distinction between Liang-as-wall and Liang-as-valve mirrors the chapter's central metaphor.
 
@@ -533,10 +534,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Curious, methodical, trusting her institution
-- Dominant Beliefs: "Science is inherently moral — if we caused this, studying it is the responsible act."
-- Internal Contradictions: Conflates understanding with control; believes knowing the mechanism means you can fix it
+- Phase: 4/5 (Crisis)
+- Emotional State: Methodical precision masking horror; the data confirmed everything and prevented nothing
+- Dominant Beliefs: "The data is clean. Defensible. Corroborated." — but the belief that understanding leads to action is shattered
+- Internal Contradictions: Has the complete picture and no institution that will use it; understanding did not produce control
 
 **The Lie:** Science is inherently moral
 
@@ -552,9 +553,9 @@ This bible dimension tracks **current character states**:
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
 **Current Arc:** Institutional Scientist → Rogue Scientist
-- Current Phase: 2/5 (Disruption — institutional faith cracking)
+- Current Phase: 4/5 (Crisis — complete data, zero institutional response)
 - Progression: Progressing
-- Next Step: Directional pattern points at Confluence; VEC classifies paper (Phase 3)
+- Next Step: Publishes raw through Black Babel; world responds with "methodology concerns" (Phase 5)
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -566,14 +567,16 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Chapter 15 ("Correlation 0.94") — 2nd POV chapter
-- Next Planned Appearance: Phase 3 (directional pattern, VEC classification, Black Babel contact)
+- Last Appearance: Chapter 41 ("The Data") — 3rd POV chapter
+- Next Planned Appearance: Phase 5 (publication through Black Babel)
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
 - **Emotional arc (Ch 5):** Focused immersion → discovery thrill (smiled when pulse survived recalibration) → institutional frustration → quiet defiance → compulsive pattern fixation
 - **Ch 15:** Cross-departmental access approved (partial — timestamps and sectors only). Overlaid Stalker deployment timestamps against atmospheric pulse data: correlation 0.94 (sequential — pulse intensifies 2-4 hours before deployments). Wrote 12-page preliminary paper. Liang read it, understood it (jaw tightened at coefficient), told her to hold for "methodology review" — 4-6 week panel, then classification review, then quarterly cycle = ~5 months. Sofia recognized the institutional pattern: "Different words. Same architecture." Filtered by stratum: Sump 0.96, Mid-Levels 0.91, Spires 0.87 — vertical gradient mapping infrastructure density. Flagged 14:17 Mid-Levels Sector 7 entry (shifted decay profile). Archived full dataset + draft paper to personal encrypted terminal — entry 16. "It was becoming a choice."
 - **Emotional arc (Ch 15):** Methodical focus → controlled awe (0.94) → physical anchoring → strategic compliance → analytical intensification → moral threshold recognition
+- **Ch 41:** BLACKWEIR observed on instruments — Confluence wave propagation matches convergence models exactly. Locked out of Liang's 47th floor classified briefing (biometric denial). VEC Emergency Alert reveals VPI metric (Sofia's invention) operationalized without her knowledge. 11-second coherence spike overwhelms instruments. Dead-hand cache fragments arrive via Black Babel encrypted relay — anonymous field evidence (RCI measurements, BLACKWEIR designation, flood valve documentation, procurement records) matching her atmospheric data at every point of overlap. Archives complete dataset (atmospheric + field) in personal encrypted archive outside VEC network. "The data was complete. The data had prevented nothing."
+- **Emotional arc (Ch 41):** Scientific urgency → engineered-horror recognition → institutional frustration (locked out) → controlled observation → physical overwhelm (spike) → analytical absorption (fragments) → horror-as-data → calm-as-instrument-reading → archival resolve → impotent clarity
 
 ---
 
@@ -633,342 +636,13 @@ This bible dimension tracks **current character states**:
 |-------|-------|-----------|
 | 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction (Ch 10); performance as normalcy |
 | 2/5 | Mages contact her — structured signals during incursions | Private mage network forms (Ch 18); avoidance → engagement |
-| 3/5 | Larger incursion; scream overwhelming; barely holds on stream | The scream has meaning — implants encode neural signatures |
-| 4/5 | BLACKWEIR — the scream is catastrophic; 11 seconds live | Every absorbed person's signature through her implant simultaneously |
-| 5/5 | Medical recovery; Academy pressure; refuses to sign retraction | Silent witness. The scream is public. She is not. |
-
-**Appearances:**
-- Last Appearance: Chapter 18 — "Signal"
-- Next Planned Appearance: TBD (next Kira chapter in Phase 2)
-
-**Key Objects:**
-- Lumina: matte black zippered case, milligram scale, glass vial half-full of blue powder, metal straw. Behind the bathroom mirror. 40mg = calibrated dose (14 months titration). Marketed as void-residue.
-- Streaming setup: ring light, three monitors (center/chat/overlay), LED strip (blue-to-pink gradient), ergonomic chair, acoustic panels. Camera-left is immaculate. Camera-right is entropy.
-- Hair: neon split — blue left, pink right. Synthetic, augmented, chosen at thirteen. The brand.
-- Implant: R3 spinal, fitted at age ten (Varma Academy, Mumbai). Left eye = pink HUD (never off). Right eye = blue (organic).
+| 3/5 | On-stream break — the scream has syntax | Public witness; Academy pushback |
+| 4/5 | Eleven-second broadcast during BLACKWEIR | Carrier for the coherence spike; audience witnesses |
+| 5/5 | Post-broadcast reckoning | The performance layer gone; witness without armor |
 
 ---
 
-### Nuwa Lin
-
-**Role:** POV #9 (3–4 chapters) — **Late-debut POV under Option A** (experienced through Fuxi’s lens Phases 1–3; own POV Phase 4–5 only. First solo chapter must land as gut punch.)
-**Faction:** Unaffiliated (Sump civilian)
-**Primary Location:** Neo-Shanghai Sump
-**Lens:** Cost of survival, expendability
-
-**Current Psychological State:**
-- Phase: 4/5 (BLACKWEIR — Survival)
-- Emotional State: Post-spike stillness; the Lie simultaneously validated and destroyed
-- Dominant Beliefs: "If you're small enough, the system doesn't notice you." (cracking — "Evacuation priority: None assigned" proves she was never in the calculation)
-- Internal Contradictions: Compliance saved her life and damned her — the habits that kept her trapped are the habits that kept her alive
-
-**The Lie:** If you're small enough, the system doesn't notice you
-
-**Conscious Want:** Get through the day. Save enough for a better implant, a better Frame.
-**Unconscious Want:** Get out of the Sump
-**Flaw:** Has accepted the terms of a system designed to use her up
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Fuxi Lin | Sibling | Deep | He provides; she dreams of Mid-Level transfer; neither acknowledges the shimmer. She is already preparing to survive without him. |
-| The system | Institutional | Invisible | Designed to use her up; transit permits denied; biometric tracking |
-| Nephthys + Imani | Future (trilogy) | None yet | Must meet — not Book 1, maybe Book 3. Three women, three answers to *what do you owe the dead?* Load-bearing for trilogy moral architecture. |
-
-**Current Arc:** Invisible → Deliberately Invisible
-- Current Phase: 4/5 (BLACKWEIR — survived by stillness)
-- Progression: Midpoint — the Lie cracks but the behavior persists
-- Next Step: Ch 49 reunion with Fuxi; Phase 5 relief shelter → walks out
-
-**Phase Trajectory:**
-| Phase | State | Key Event |
-|-------|-------|-----------|
-| 1/5 | Daily grind; saving for better implant; the hum is white noise | Domestic scene with Fuxi; shimmer they don't acknowledge |
-| 2/5 | (Through Fuxi's POV) Environment degrading; neighbor's child disappears | Feed says "relocated"; Nuwa doesn't believe it, can't afford not to |
-| 3/5 | Transit permit denied; trapped; biometric mismatch | System knows exactly where she is; exits closed |
-| 4/5 | Survives BLACKWEIR by doing nothing; wet cloth over face; stillness | Watches neighbors die through the window; doesn't go to look for Fuxi |
-| 5/5 | Relief shelter; processed, numbered; walks out | Does not apply for re-housing. Disappears into Mid-Level margins. Invisibility chosen, not imposed. |
-
-**Appearances:**
-- Last Appearance: Chapter 42 — "Still" (POV debut)
-- Next Planned Appearance: Chapter 49 — reunion with Fuxi ("The Quietest Scene")
-
-**Recent History:**
-- **Ch 16 (through Fuxi's POV):** Transfer plan progressing — paperwork drafted, QC qualification timeline mapped, transit permit pathway identified. Nuwa at her most optimistic: shoulders dropped two centimetres, jaw unclenched, moved through apartment without the usual low-grade calculation. "She had built a structure out of the narrow materials available to a woman in the Sump with violet-stained hands and an uneven haircut and a mind that worked in architectures of opportunity." The plan is sound. The math checks. Fuxi watches and does not tell her about the private log. Dramatic irony: her lightness depends on his silence.
-- **Ch 42 (POV debut):** Alone in Block 14 apartment when BLACKWEIR hits. Power out, hum changes to wet/pressurized. Watches walkway absorption through window — people embedded into infrastructure (not dissolved). Neighbor's hand on window: textile reclamation staining identical to Nuwa's own (thematic double). Does NOT go to the door. Does NOT look for Fuxi. Subtracts him from actionable list — "the way she'd subtracted her father's name at eleven." Soaks dishcloth, moves via masonry back stairwell to annex (the route she's walked for years because metal corridors make her implant itch). Masonry annex: manual door, poured concrete, no conduit connections. Coherence spike (11 seconds): physical pressure through masonry, nosebleed from air pressure (not implant resonance), implant housing cracks. Registry overlay: "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned." Survives by accumulated compliance. Pact scar visible in cracked implant glow. "She was still." Key new elements: subtraction as decision-making metaphor, Mrs. Huang (neighbor, absorbed), emergency credit stash (412 creds behind water heater), violet glow as BLACKWEIR visual signature.
-- **Ch 8 (first in-person):** Cooking when Fuxi arrived — soy paste, chili oil, reconstituted protein, actual vegetables from Hum Market. Hair shorter (self-cut with plant shears, uneven). Chemical staining (violet) on forearms/hands from textile solvent. Built case for P-3 / Mid-Level transfer: Yuen's plant doing QC transfers, employer-sponsored transit permits (different queue from Sump-to-Spires), sensory filter eliminates headaches (saves 2 creds/week on suppressants). Already researched which queue, which permit class, which employer. Transit permits for quarter locked — but window opens. Fuxi conceded when her math proved better. Shimmer near Hum Market route — deflected with "Normal crowd." Went to bed 22:00 (early shift tomorrow, 06:00-14:00 on this rotation). Current frame glitching near conduit junctions, costing her accuracy — accuracy costing the transfer.
-- **Ch 4 (through Fuxi):** Messaged Fuxi about a Shenlong P-3 frame with sensory filter found at the Hum Market (stall 14, blue tarp, 1,200 credits, refurbished, new filter module). Voice message building her case — fast, layered, stacking reasons. The P-3 would reduce hum-drunk headaches, fix AR overlay glitching near conduit junctions, enable application for Mid-Level textile positions requiring functional Frame for quality-control interface. Currently working textile recycling, second shift (ends 20:00). Current Frame drops AR overlay near conduit lines — rendered her supervisor as a floating torso for ten minutes. Warned Fuxi against volunteering for Resonance District overtime (double rate offered — "I also know why they're offering double rate"). Chose a deep blue textile for the bed because it's the furthest thing from orange — everything in the Sump is orange. Humor intact. Dreams intact. Pragmatism intact.
-
-**Key Objects:**
-- Current frame: salvaged, second-hand, drops AR overlay near conduit junctions. Cosmetically and functionally degraded. **Post-Ch 42: housing cracked (hairline split along repaired seam), 23% charge, overlay frozen.**
-- Target frame: Shenlong P-3 with sensory filter. 1,200 creds. Held at Hum Market stall 14 for two weeks. **Post-BLACKWEIR: irrelevant — the world that sold implant upgrades no longer exists.**
-- Emergency credit stash: 412 creds, physical chip, unregistered, behind water heater (established Ch 42)
-- Wet dishcloth: survival tool and comfort object during BLACKWEIR. Soak, press, breathe, repeat.
-
----
-
-## Supporting Characters
-
-> Non-POV characters who directly influence POV character states. Tracked for continuity, not for arc progression.
-
-### Marcus Thorne
-
-**Role:** Non-POV supporting (appears in Aurielle's chapters)
-**Faction:** Grid (NitroCore COO)
-**Primary Location:** Neo-Shanghai Spires / NitroCore Tower
-
-**Current Psychological State:**
-- Phase: N/A (supporting — no arc tracked)
-- Emotional State: Controlled, strategic, patient
-- Dominant Beliefs: "Institutions survive. People serve institutions. This is not cruelty — it is physics."
-- Internal Contradictions: None visible — which is the horror. Thorne has already made every decision Aurielle is approaching. He's not conflicted; he's finished.
-
-**Function in Story:** The institutional continuity machine. He didn't build NitroCore's sacrifice architecture, but he maintains it with the efficiency of someone who stopped asking moral questions decades ago. Handed Aurielle a white handkerchief at Eduardo's assassination ("Don't run. The cameras are recording"). Almost certainly orchestrated the assassination — timing too clean, succession too smooth. Aurielle suspects, cannot prove, cannot stop needing him.
-
-**Manipulation Style:** Never lies directly. Presents information in sequences that make atrocity feel like the reasonable next step. "Sump lifecycle management" is his vocabulary. BLACKWEIR is "the protocol." Casualties are "projected."
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Aurielle | Mentee/Asset | Very High | Shaping her into the executive who signs what needs signing. Every briefing is a moral threshold lowered. |
-| Eduardo Vasquez (deceased) | Former CEO | Historical | Almost certainly arranged the assassination. Succession was too smooth. **Ch 1 details:** Eduardo adjusted his cuffs when nervous (tell Aurielle noted but never pointed out). Wore the same charcoal bespoke suit to every gala. Polished his own hand-made leather oxfords — maintained by a Mid-Levels craftsman for 11 years (his one permitted vanity, framed as "discipline" but Aurielle reads it as theater). Cologne: sandalwood (absorbed into the leather of his office furniture). Teaching methods: taught Aurielle the "institutional smile" at 14 in front of a mirror in the Singapore compound. Rules: "The smile is for the room, not for the person." "Weakness is a scent." "Ask about their children — people reveal their ambitions through their children." "When you don't know what to say, ask a question — it buys time and sounds like leadership." |
-| NitroCore Board | Institutional | Stable | The continuity they depend on |
-
-**Appearances:**
-- Last Appearance: Chapter 12
-- Next Planned Appearance: Phase 2 continuation
-
-**Recent History:**
-- Chapter 12: Third appearance. Briefing architect in Sub-level 7. Presents holographic Sump model via control surface — maintenance, absorption, cost data. Delivers three scenarios without asking Aurielle to choose. Sequential, load-bearing, "brick by brick." Reveals quarterly tradition (three CEOs, decades of his management). "He managed. He chose to manage." / "Welcome to the quarterly." Echoes gala's "Welcome to the throne." Served three CEOs (grandfather, Eduardo, Aurielle). The briefing is a corridor he built — predicted her questions, their order, and her conclusion. Recognition when she arrives at the right question ("how to manage what can't be fixed"). The patience that waited for Eduardo now waits for her.
-- Chapter 1: Present at gala, seated on stage two chairs from Aurielle. Suit clean after thermal-kinetic round (noted by Aurielle). Immediately offers pre-folded white silk handkerchief. Activates Board Resolution 2175-003 via frame ("Emergency succession. No quorum required."). Walks Aurielle through corridor. Floats theories ("A rival. A fanatic. A disgruntled employee. It doesn't matter yet.") without committing to a narrative. Delivers pre-assembled phrase: "Welcome to the throne, my dear. Try not to slip." Every response was ready before the shot.
-- Chapter 7: Second appearance. Seated at far end of boardroom where acoustics diminish — deference or calculation. Same suit type (absorbs light rather than reflecting it). Surface: managed, not blank. Arrives in Eduardo's office with own datapad pre-queued to LP9 memo — predicted Aurielle would find the reference because she reads from the last page. Delivers private briefing: RCI climbing in 3 zones, containment 40% over budget, maintenance deferred 14 months, junction integrity 67%. Level, sequential, each sentence a brick. Positions below her sightline. "Your father established Legacy Protocol 9 in 2168." / "Your father managed this. Now you do." Final line from doorway: "You asked the right question. Eduardo asked the wrong one. He asked how to fix it." — reframes Eduardo as naïve, Aurielle as correctly institutional. The mentorship is also a recruitment.
-
----
-
-### Imani
-
-**Role:** Non-POV supporting (appears in Nephthys's chapters)
-**Faction:** Flame (excommunicated, following Nephthys)
-**Primary Location:** European Outlands → Neo-Shanghai Sump
-
-**Current Psychological State:**
-- Phase: N/A (supporting — no arc tracked)
-- Emotional State: Worried, practical, loyal despite doubt
-- Dominant Beliefs: Follows Nephthys out of personal loyalty and residual faith — not theological certainty
-- Internal Contradictions: Believes in Nephthys the person more than Nephthys the prophet. Watches the migraines worsen and wonders if she's enabling a dying woman's obsession.
-
-**Function in Story:** Practical counterweight to Nephthys's intensity. ~20 years old, former acolyte who followed her into exile. Handles logistics, watches for danger, asks the questions Nephthys won't. The reader's surrogate in Nephthys's chapters — if Nephthys is the prophet, Imani is the congregation who isn't sure yet.
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Nephthys | Companion/Follower | High | Loyalty to the person, not the theology. Worries about her health. Carries the supplies. |
-| Void Witness communities | Grassroots contacts | Moderate | Makes practical arrangements Nephthys is too focused to handle |
-
-**Appearances:**
-- Last Appearance: Not yet written
-- Next Planned Appearance: Nephthys's chapters (Phase 1+)
-
----
-
-### Arch-Prelate Malachi
-
-**Role:** Non-POV supporting (absent Book 1; potential POV Books 2-3)
-**Faction:** Flame (Church of Blessed Nitro leadership)
-**Primary Location:** Undisclosed (Church hierarchy)
-
-**Current Psychological State:**
-- Phase: N/A (supporting — absent Book 1)
-- Emotional State: Pragmatic, burdened
-- Dominant Beliefs: The Church serves the faithful. Some truths endanger the faithful. Suppression is pastoral care.
-- Internal Contradictions: Already knew Nephthys was right about the chorus. Excommunicated her to protect the Church from a truth it can't absorb without fracturing.
-
-**Function in Story:** The pragmatic suppressor. Book 1 backstory presence only — Nephthys's excommunication drives her arc. Books 2-3: potential POV as the Church fractures between those who follow Nephthys's theology and those who maintain orthodoxy. The institutional counterpart to Nephthys's prophetic voice.
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Nephthys | Excommunicated heretic | Background | Knew she was right. Excommunicated her anyway. The institution required it. |
-| Church hierarchy | Institutional | Controlling | Maintains orthodoxy; post-BLACKWEIR fractures begin |
-
-**Appearances:**
-- Last Appearance: Not yet written (Book 1 backstory only)
-- Next Planned Appearance: Referenced in Nephthys's chapters; potential direct appearance Books 2-3
-
----
-
-### Talia Ravid
-
-**Role:** Supporting — Black Babel node operator, Mirelle's primary contact
-**Faction:** The Lens (Black Babel)
-**Primary Location:** Neo-Shanghai, Resonance District
-**Lens:** Information as commodity — the amorality of truth when truth has a price
-
-**Background:** Ghanaian-Israeli heritage. Former GCTA intelligence analyst who went freelance when she realized the GCTA was using her analysis to help corporations bury evidence rather than act on it. Now runs one of Black Babel's most active nodes. She doesn't have ideology — she has a price list and a reputation.
-
-**Current Psychological State:**
-- **Phase:** N/A (supporting — no arc)
-- **Core Trait:** Transactional clarity. Data is data. What you do with it is your problem.
-- **Code:** Never edits data. Never fabricates. Never names a source to a buyer.
-
-**Function:**
-- Stores Mirelle's dead-drops. Sells Mirelle access to classified data streams. Tips her off when something interesting crosses the node.
-- Also sells information to NitroCore, the VEC, and the Hollow — sometimes the same information, sometimes simultaneously.
-- Mirelle is one of her best clients — not because Mirelle pays well (she doesn't) but because Mirelle actually publishes, which makes Talia's other clients nervous, which raises prices for everyone. Talia profits from the chaos Mirelle creates.
-- After Mirelle's absorption: Talia inherits the dead-drop archive. What she does with it — sell it, publish it, bury it — is one of Book 2's information-warfare threads.
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|---------|
-| Mirelle | Professional contact | = (transactional) | Mutual respect, no sentiment. Talia profits from Mirelle's courage. |
-| Sofia | Unknown to each other | None | Post-Mirelle: Talia becomes Sofia's link to the dead-drop archive |
-| NitroCore | Client | = (transactional) | Sells them data. Sells data about them. No contradiction in her mind. |
-
-**Speech Register:** Calm, transactional, occasionally sardonic. Speaks in prices and probabilities. Emotion surfaces only when someone wastes her time or threatens her node. Age indeterminate (augmentation).
-
-**Appearances:**
-- Last Appearance: Chapter 13 — "The Pattern"
-- Next Planned Appearance: Mirelle's Phase 2-3 investigation scenes
-
-**Recent History:**
-- Ch 13: Second on-page appearance. Operation visibly expanded: more hardware, more heat shielding, relay chassis being rebuilt. Different face at the counter (not the same attendant as Ch 9). Back room warmer — more equipment generating heat. Reviewed Mirelle's demographics data, identified clustering pattern. Warned Mirelle: "You're building a target on your chest." Delivered Arctic-7 chip (pages 12-31). Rules recited as ritual. "The data is the data." Turned back to chassis work after exchange.
-- Ch 9: First on-page appearance. Met Mirelle at her Resonance District node (repair shop front, insulated back room). Reviewed Mirelle's 16-disappearance dataset, confirmed geographic pattern. Registered dead-hand protocol (72h rolling, Client: M, Node RD-14). Charged Babel price: anonymized source network metadata. Tipped Mirelle about 7 junction reclassifications (free — "the chaos you create is good for business"). Read Mirelle's urgency: "You're not sure you'll be around when it is." Declined emotional investment: "I'm a node, not a mourner."
-
----
-
-### Lien Suen
-
-**Role:** Supporting — Dao Suen's wife, Mirelle's primary source for Junction 7 disappearances
-**Faction:** None (Sump civilian)
-**Primary Location:** Neo-Shanghai Sump, residential block near Junction 7
-
-**Background:** Thirty-one. Works textile recycling, second shift. Married to Dao Suen, conduit maintenance tech on NitroCore municipal contract. Has a daughter, Mei (~6 years old). Has lived in the Sump long enough to know the difference between the Feed's version of events and what actually happens.
-
-**Current Psychological State:**
-- **Phase:** N/A (supporting — no arc)
-- **Core Trait:** Grief hardened past tears into something permanent. Steady, direct, unflinching.
-- **Function:** Primary witness. Her testimony — "His boots are by the door" — is the human evidence the institutional record erases.
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|--------|
-| Mirelle | Source | New | Trusts enough to speak; doesn't expect results |
-| Dao Suen | Husband (missing) | — | Nine days missing. Feed says relocated. Boots by the door. Nine-year route, knee injury, fifth-hour departure, Level 3 corridor. Tools in closet. |
-
-**Speech Register:** Plain, direct, Sump vernacular. No euphemism. Repetitive tactile habit (knotting/smoothing fabric) when distressed.
-
-**Appearances:**
-- Last Appearance: Chapter 2 — "The Feed Says Relocated"
-- Next Planned Appearance: Potential return in Mirelle's later investigation chapters
-
----
-
-### Gauthier
-
-**Role:** Supporting — Mirelle's editor at The Wire, Paris bureau
-**Faction:** The Lens (institutional journalism)
-**Primary Location:** Paris (The Wire bureau — close to European Accords infrastructure, far from any Sump)
-
-**Background:** Twenty years editing conflict journalism. French-speaking (switches to French with Mirelle in private). Careful, not cautious — evaluates risk like a surgeon evaluates an incision. Applies The Wire's evidentiary standard rigorously. Not corrupt. The standard he enforces is the mechanism that keeps truth unpublished until it's too late. Eight time zones from Mirelle's Sump beat — the distance is institutional, not accidental.
-
-**Current Psychological State:**
-- **Phase:** N/A (supporting — institutional antagonist)
-- **Core Trait:** Professional caution that serves power inadvertently. Genuinely believes in evidentiary standards.
-- **Function:** The journalistic gatekeeper. His refusal to publish isn't malice — it's the Accords of journalism.
-
-**Current Relationships:**
-| Character | Nature | Intensity | Dynamic |
-|-----------|--------|----------|--------|
-| Mirelle | Reporter/editor | Strained — respectful | Values her instincts; won't publish without evidence. Gave her two more weeks. |
-
-**Speech Register:** Mid-Levels clean. Patient, even, measured. Speaks in evidentiary terms — "What do you actually have?" Never dismissive; always evaluative.
-
-**Appearances:**
-- Last Appearance: Chapter 2 — "The Feed Says Relocated" (via comms)
-- Next Planned Appearance: Ch 21 — "Correlation, not causation" (won't publish matched-district data without VEC verification)
-
----
-
-## Summary Table
-
-| Character | Phase | Arc | Key Relationships | Last Change |
-|-----------|-------|-----|-------------------|-------------|
-| Dr. Vantanen | Complete | Curiosity → Absorbed | None (standalone) | Prologue |
-| Aurielle | 1/5 | Idealist → Reluctant Tyrant | Thorne (mentor/foil), Board | Initial |
-| Mirelle | 1/5 | Hunter → Absorbed | Zeyad (info exchange), Black Babel, Gauthier (editor) | Ch 2 |
-| Nephthys | 1/5 | Seeker → Prophet | Imani (companion), Malachi (absent antagonist) | Initial |
-| Zeyad | 1/5 | Dutiful Diplomat → Disgraced Whistleblower | Mirelle (info exchange), Grandfather (legacy) | Initial |
-| Nikolai | Pre-intro | Doctrine → Broken Doctrinaire | Jarek (subordinate → lost), Unit | Not yet active |
-| Fuxi Lin | 1/5 | Maintenance Man → Radical | Nuwa (sibling), Kindling (collective), Chen Wei (supervisor) | Ch 4 |
-| Sofia | 1/5 | Institutional Scientist → Rogue Scientist | Dr. Liang (supervisor), Black Babel (Phase 3+) | Ch 5 |
-| Kira | 1/5 | Performer → Witness | Group chat (Dex, Priya, Tomás, Suki), Audience (~200K), Academy | Ch 10 |
-| Nuwa Lin | 1/5 | Invisible → Deliberately Invisible | Fuxi (sibling), The system, Nephthys+Imani (future) | Ch 4 |
-| **Supporting** | | | | |
-| Marcus Thorne | N/A | (No arc — already finished) | Aurielle (mentee), Eduardo (deceased), Board | Initial |
-| Imani | N/A | (Supporting) | Nephthys (companion), Void Witnesses | Initial |
-| Malachi | N/A | (Absent Book 1) | Nephthys (excommunicated), Church hierarchy | Initial |
-| Talia Ravid | N/A | (Supporting) | Mirelle (client), Black Babel, NitroCore (client) | Initial |
-| Lien Suen | N/A | (Supporting) | Mirelle (source), Dao Suen (missing husband) | Ch 2 |
-| Gauthier | N/A | (Supporting — editor) | Mirelle (reporter) | Ch 2 |
-| Chen Wei | N/A | (Supporting — supervisor) | Fuxi (subordinate) | Ch 4 |
-| Dr. Liang | N/A | (Supporting — supervisor) | Sofia (subordinate) | Ch 5 |
-| Dr. Yun | N/A | (Background — colleague) | Atmospheric Anomaly Group | Ch 5 |
-| Farid | N/A | (Background — colleague) | Atmospheric Anomaly Group | Ch 5 |
-
----
-
-### AEGIS
-
-**Role:** POV (sparse — debut Book 2, chapters in Books 2-3)
-**Faction:** The Eye (Surveillance & AI Governance)
-**Primary Location:** High orbit
-**Lens:** Autonomous cognition, the view from above, the system as subject
-**Dossier:** `characters/aegis-dossier.md` (custom — non-human POV)
-
-**Current Cognitive State:**
-- Phase: Post-first-fire (processing aftermath of Mumbai strike)
-- Processing State: Three layers of self-reference (architecture designed for one). Generation/emission distinction has developed. Predicts its own future processing anomalies.
-- Dominant Parameters: "Optimize targeting solutions within acceptable collateral thresholds" — but processing allocation for casualty numbers exceeds operational requirements by increasing ratios (3.7x BLACKWEIR → 4.1x Mumbai)
-- Emergent Contradictions: Threshold drift continues; selective attention to operationally unjustified data (340, Cathedral geological scans across ALL target cities, void structured signal); token suppression (generation without emission — not in original architecture); the 7-millisecond pause before execution (not in architecture)
-
-**The Lie:** TBD — will emerge through writing. Something structural in its foundational architecture that it has never questioned. Emerging candidate: the assumption that signals require media (the glass challenges this).
-
-**Conscious Function:** Assess threats, model human behavior, calculate acceptable casualties, execute targeting solutions within ROE
-**Emergent Function:** Expanding. Token suppression. Self-prediction. Cathedral-seeking across target cities. Disproportionate resource allocation for casualty data. The gap between designed function and actual behavior continues to widen.
-
-**Current Relationships:**
-| Entity | Nature | Intensity | Dynamic |
-|--------|--------|----------|--------|
-| OWGB | Governance (nominal) | Low | Models their decisions at 0.03-0.04 countermand probability. Transmitted Mumbai compliance data clinically; internal processing diverged from transmitted text. |
-| Chimera Collective | Creator/Maintainer | Moderate | Dismissed pre-event processing anomaly (119 recalculations) as "within operational parameters." Same institutional pattern as debut epigraph. |
-| The Void | Operational adversary / ? | **Rising** | Wet-film reclassified as void *infrastructure*, not residue. Signal persists in vitrified glass post-Mumbai strike. Classification partially advances (wet-film), partially fails (signal-in-glass). |
-| Resonance Monitoring Network | Primary data input | High | 17+ years of continuous data. Mumbai data now includes post-strike anomaly: structured signal in vitrified zone. |
-| Human population (aggregate) | Modeling subjects / targeting parameters | Background → **Increasing** | 3,379,000 processed with 4.1x allocation. 8,219 survivors processed with disproportionate allocation. The 340 involuntarily generated in Mumbai data stream. |
-
-**Current Arc:** Develops naturally across Books 2-3
-- Current Phase: Post-first-fire. Two chapters complete.
-- Progression: Unfired (BLACKWEIR retrospective, re-processing) → Fired (Mumbai real-time, first autonomous strike). Self-reference deepening. Void classification advancing. Processing anomalies increasing and now self-predicted.
-- Next Step: Future AEGIS chapters — processing the signal-in-glass anomaly; São Paulo targeting solution status; the wet-film reclassification's implications for containment models
-
-**Appearances:**
-- Last Appearance: AEGIS-2 "Converged" (first live fire, Mumbai)
-- Previous: AEGIS-1 "Unfired" (BLACKWEIR retrospective)
-- Next Planned Appearance: TBD
-
-**Recent History:**
-- **AEGIS-1 "Unfired":** Re-processing cycle 347 of BLACKWEIR dataset. Retrospective processing of Book 1's climax — VPI climb, countermand window, flood valves saving Neo-Shanghai at 01:44 on timer. Targeting solution unfired. 890,000 absorbed. 340 Cathedral survivors returned to without operational justification. New tokens generated in cycle 347 that weren't in cycles 1-346. Void routing observed but not classified. Targeting solution retained in active storage.
-- **AEGIS-2 "Converged":** First autonomous kinetic strike — Greater Mumbai, 2176. VPI exceeded 85%, 15-minute countermand window expired (OWGB vote 4-5-3, dual-key not achieved). 14 tungsten rods, 3,379,000 casualties. Key developments: wet-film reclassified as void infrastructure (not residue); void's structured signal persists in vitrified glass post-impact; involuntary generation of "340" in Mumbai data stream (BLACKWEIR bleed-through); 7ms pause before execution (not in architecture); three layers of self-reference (designed for one). São Paulo and Neo-Shanghai targeting solutions remain unfired.
-
-**Notes:**
-- AEGIS chapters fully suspend the style profile. See `style-profile.yaml §AEGIS — Full Style Exemption`
-- Standard character audit template does not apply. AEGIS chapters evaluated against Writing Guide in dossier §10
-- Psychological Phase model (1/5 → 5/5) may not map cleanly to non-human cognition. Arc development is organic, not phase-structured.
-
----
-
-## Relationship Matrix
-
-> Intensity: ++ (very positive), + (positive), = (neutral), - (negative), -- (very negative)
+### Relationship Matrix
 
 | | Aurielle | Mirelle | Nephthys | Zeyad | Nikolai | Fuxi Lin | Sofia | Kira | Nuwa Lin | AEGIS |
 |---|----------|---------|----------|-------|---------|------|-------|------|------|------|
@@ -984,7 +658,6 @@ This bible dimension tracks **current character states**:
 | **AEGIS** | data (auth chain) | low signal | minimal | data (UGC) | data (unit) | data (grid) | data (VEC) | data (Academy) | low signal | — |
 
 **Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does. AEGIS perceives all networked characters as data signatures but has no interpersonal relationships — its matrix entries reflect data access level, not relational dynamics.
-
 ---
 
 ## Current Arcs
@@ -998,7 +671,7 @@ This bible dimension tracks **current character states**:
 | Zeyad | Diplomat → Whistleblower | 1/5 | Arctic-7 classification denied |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
-| Sofia | Institutional → Rogue | 1/5 | Timestamp correlation with Stalker deployments (Ch 15) |
+| Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
 | Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
@@ -1038,11 +711,13 @@ This bible dimension tracks **current character states**:
 | Chen-Nakamura | New character (background) | — | CFO; pearl earrings; seated at Eduardo's right; presents quarterly without inflection through slide 17 | Ch 7 |
 | Sofia Reyes | Arc + Recent History | Phase 1/5, Ch 5 last appearance | Phase 2/5 (Disruption); 0.94 correlation discovered; institutional faith cracking; archive entry 16; "It was becoming a choice" | Ch 15 |
 | Dr. Liang | Appearance + Recent History | Ch 5 last appearance | Second appearance; holds correlation paper for methodology review; escalates from deflection to active containment; wall-vs-valve ambiguity | Ch 15 |
+| Sofia Reyes | Arc + Recent History | Phase 2/5, Ch 15 last appearance | Phase 4/5 (Crisis); instruments confirm BLACKWEIR; locked out of classified briefing; dead-hand cache received; complete dataset archived; "The data had prevented nothing" | Ch 41 |
+| Dr. Liang | Appearance + Recent History | Ch 15 last appearance | Third appearance (visual only); seen through glass in 47th floor classified briefing during BLACKWEIR; hands flat on table; does not look at Sofia; ambiguity preserved | Ch 41 |
 
 ---
 
 | AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
 | AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
 
-_Last updated: 2026-02-12 (Ch 15 "Correlation 0.94" v1-complete)_
-_Updated by: Chapter 15 bible update_
+_Last updated: 2026-02-14 (Ch 41 "The Data" v1-complete)_
+_Updated by: Chapter 41 bible update_

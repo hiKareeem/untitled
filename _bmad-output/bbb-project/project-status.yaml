@@ -221,7 +221,17 @@ chapters:
     mode: PRESSURE
     notes: "Phase 4 BLACKWEIR — Mirelle's FINAL POV. Absorbed mid-sentence. 8-item evidentiary transmission to Black Babel. Dead-hand timer running. AEGIS as invisible novelist."
 
-# Chapters not yet written: 19-38, 41, 45-51, Epilogue
+  chapter_41:
+    title: "The Data"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4200
+    completedDate: "2026-02-14"
+    metaFile: "chapter-41-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 4 BLACKWEIR — Sofia POV (3rd appearance). Breath chapter. Instruments confirm Confluence. Locked out of classified briefing. Dead-hand cache received. Complete dataset archived. AEGIS as invisible novelist."
+
+# Chapters not yet written: 19-38, 45-51, Epilogue
 
 # Book 2 Chapters
   book2_aegis_blackweir:
@@ -262,6 +272,6 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 25
-totalWords: 119400
+completedCount: 26
+totalWords: 123600
 lastUpdated: "2026-02-14"

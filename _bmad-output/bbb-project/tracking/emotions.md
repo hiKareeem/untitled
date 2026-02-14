@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 40"
+lastChapter: "Chapter 41"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -353,6 +353,8 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 
 ### Emotional Arc Summary
 
+Sofia's arc across three chapters traces the emotional trajectory of a scientist whose data confirms everything and prevents nothing. Ch 5 establishes pattern-recognition compulsion as her primary emotional mode. Ch 15 deepens it into moral threshold recognition — "it was becoming a choice." Ch 41 completes the Phase 4 crisis: her instruments confirm the Confluence exactly as her models predicted, she is locked out of the institutional response, and anonymous field evidence arrives confirming every atmospheric data point. The chapter's emotional architecture moves from scientific urgency through engineered-horror recognition to a terminal state of impotent clarity — she has the complete picture and no institution that will use it. "The data was complete. The data had prevented nothing." The instruments report her body at baseline while she archives evidence of mass death. The calm is not composure. It is what happens when the emotional vocabulary for what she's witnessing does not exist in the scientific register she has spent her career inhabiting.
+
 Sofia's debut chapter establishes her as a scientist whose emotional life is inseparable from her intellectual one. She begins in focused immersion — the pod is her element, the data is her medium, and the pulse she's been chasing for three days is the current focus of her pattern-recognition compulsion. The discovery of structure in the pulse produces not alarm but *delight* — she smiled when the recalibration confirmed the instruments were fine, because "fine instruments" means "real signal," and a real signal is the purest expression of her empirical faith. The Liang encounter is the chapter's emotional inflection point: not anger (she keeps her voice level, scientific register) but the precise frustration of a competent researcher whose institution cannot accommodate her competence. The recalibration sequence is emotionally flat by design — she is performing institutional compliance, not engaging with it. The closing sequence is the emotional peak: alone, outside the institution, she allows herself the thought the institution can't hold ("a signal *listening*"), connects the number fourteen to the Solberg epigraph, and falls asleep counting the intervals. The compulsion has become the emotion. The pattern is in her now.
 
 ### Dominant Emotions
@@ -363,12 +365,9 @@ Sofia's debut chapter establishes her as a scientist whose emotional life is ins
 
 ### Emotional State by Phase
 
-- **Opening (pod)**: Focused immersion — the pulse as intellectual puzzle, the pod as her element. Not anxiety — engagement.
-- **Liang's office**: Controlled frustration — scientific register maintained, voice level, data presented cleanly. The frustration is in what she can't say, not what she says.
-- **Recalibration**: Performed compliance — emotionally flat. She is doing what the institution requires, not what the data requires.
-- **Post-recalibration**: Discovery delight — the smile. The pulse survived. The instruments are fine. The signal is real.
-- **Cross-referencing**: Growing unease — 47 years, zero matches. The correlation that should exist doesn't. "The gap in the model where the correlation should be and wasn't."
-- **Apartment (night)**: Private revelation — the thought she couldn't write in the report. The archive. The Solberg connection. The pulse as refrain. Compulsion as emotional state.
+- **Phase 1 (Ch 5)**: Pattern-recognition compulsion — the pulse as intellectual puzzle, discovery delight, institutional frustration, quiet defiance
+- **Phase 2 (Ch 15)**: Controlled awe → strategic compliance → moral threshold recognition — "It was becoming a choice"
+- **Phase 4 (Ch 41)**: Scientific urgency → engineered-horror recognition → institutional frustration (locked out) → controlled observation → physical overwhelm (spike) → analytical absorption (fragments) → horror-as-data → calm-as-instrument-reading → archival resolve → impotent clarity
 
 ### Per-Chapter Emotional Beats
 
@@ -396,6 +395,17 @@ Sofia's debut chapter establishes her as a scientist whose emotional life is ins
 | Ch 15 — Beat 8 | Analytical intensification | Filtering by stratum — gradient discovery | Pulls off gloves; "the ache... in the space between cognition and comprehension" | None — alone in pod |
 | Ch 15 — Beat 9 | Quiet defiance (deepened) | Creating archive entry 16 | "Entry sixteen" — transfer takes eleven minutes; saves draft paper outside VEC | None — alone in apartment |
 | Ch 15 — Beat 10 | Moral threshold recognition | "It was becoming a choice" | Drinks tea in dark; listens to building; falls asleep with the number behind her eyes | None — alone; the archive is becoming deliberate |
+| Ch 41 — Beat 1 | Scientific urgency | Pod registers event before she does — haptic suit pulses, holographic field shifts amber→white | Pulls gloves on; stabilizes display; begins recording | Dr. Yun at station four cycling diagnostics; Farid's station empty |
+| Ch 41 — Beat 2 | Awe (controlled) | Confluence wave propagation visible on central display — her convergence models playing out in real time | "The three-metre display she had always considered decorative was the only screen large enough to hold what she was seeing" | None — alone; lab emptying |
+| Ch 41 — Beat 3 | Engineered-horror recognition | RCI differential: Sump climbing 3x faster than Mid-Levels, Spires barely moving | "Someone had designed the conduit network to contain the coherence event below a specific altitude" | None — internal; the data speaks |
+| Ch 41 — Beat 4 | Institutional frustration | 47th floor biometric denial; Liang visible through glass in classified briefing | Stands at glass partition; "twelve flights of stairs and a biometric lock" | Liang: does not look; hands flat on table |
+| Ch 41 — Beat 5 | Controlled fury (micro) | VEC Emergency Alert: VPI 97.3% — her metric, operationalized without her knowledge | Reads the alert twice; "calibrated to a tenth of a percent, and nobody had told her" | None — corridor, alone |
+| Ch 41 — Beat 6 | Physical overwhelm | 11-second broadband coherence spike | Sub-sonic frequencies pass through acoustic insulation; felt in sternum, teeth; pod shudders | All personnel affected |
+| Ch 41 — Beat 7 | Analytical absorption | Dead-hand cache fragments arriving via encrypted relay | Reads each fragment; cross-references against atmospheric data; "every point of overlap confirmed" | None — alone in pod |
+| Ch 41 — Beat 8 | Horror-as-data | "The saturation is controlled. The casualties are projected." — field evidence names the engineering | "Pre-installed. The flood valves were not emergency equipment. They were design features." | None — internal |
+| Ch 41 — Beat 9 | Calm-as-instrument-reading | Physiological sensors report baseline | "The instruments said she was calm" — body and instruments agree; the emotional register has no vocabulary for this | None — the instruments are the only witness |
+| Ch 41 — Beat 10 | Archival resolve | Transferring complete dataset to encrypted archive | "Her instruments and someone else's evidence in the same archive for the first time" | None — alone |
+| Ch 41 — Beat 11 | Impotent clarity | "The data was complete. The data had prevented nothing." | Sits in pod; display cycling; the archive is complete and the archive changes nothing | None — closing image |
 
 ---
 
@@ -424,6 +434,7 @@ Liang displays institutional neutral throughout — which is his function. He is
 | Ch 15 — Beat 2 | Micro-recognition (repeated) | 0.94 coefficient on page twelve | "His jaw tightened" — same masseter contraction as Ch 5 decay profile | Sofia: notes it; reads it as understanding |
 | Ch 15 — Beat 3 | Institutional containment | Decision point — paper's implications | "The correlation is interesting. The implication is premature." | Sofia: waits; recognizes the institutional pattern |
 | Ch 15 — Beat 4 | Procedural authority | Implementing methodology review | "Standard process for cross-departmental findings." Four to six weeks. Panel of three. | Sofia: maps the five-month timeline; "I understand" |
+| Ch 41 — Beat 1 | Institutional composure (observed) | BLACKWEIR — classified briefing on 47th floor | Seated at table with two VEC executive-lanyard personnel; hands flat (same posture as Ch 15); face turned from glass | Sofia: stands at glass; reads the posture; reads the avoidance |
 
 ---
 

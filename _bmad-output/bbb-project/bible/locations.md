@@ -207,6 +207,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - Ch 5: Sofia detects anomalous 0.7 Hz pulse in VEC HQ sub-strata sensors. Liang deflects (SOP 7.1). Instruments fine. Personal archive entry #15.
 - Ch 15: Sofia discovers 0.94 correlation between atmospheric pulse and Stalker deployments. Liang holds paper for methodology review. Vertical gradient discovered: Sump 0.96, Mid-Levels 0.91, Spires 0.87. Personal archive entry #16.
+- Ch 41: BLACKWEIR observed from 35th floor immersion pod — Confluence wave propagation visible on holographic display, coupling events populating as points of light tracing conduit architecture. Engineered differential confirmed: Sump climbing 3x faster than Mid-Levels, Spires barely moving. 11-second coherence spike overwhelms pod sensors. Sofia locked out of 47th floor classified briefing (biometric denial). VEC Emergency Alert displayed: "Confluence confirmed. VPI: 97.3%. AEGIS targeting calculated." Dead-hand cache fragments received via encrypted relay. Complete dataset archived outside VEC network.
 
 **Sub-Locations (established Ch 5):**
 - **VEC Atmospheric Monitoring Lab (35th floor):** 11 workstations in horseshoe around central holographic display (3m sphere, decorative, not used for real analysis). Immersion pods at each station. Sofia's pod at far end (chosen for isolation). Evening protocol dims lights.
