@@ -728,7 +728,10 @@ This bible dimension tracks **current character states**:
 | Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 2/5, Ch 17 last appearance | Phase 4/5 (Crisis); dead-hand received; public statement published; Article 12 Section 8 violated; pen set down; notebook photographed and attached | Ch 45 |
 | Aurielle Vasquez | Arc + Recent History | Phase 1/5, Ch 12 last appearance | Phase 4/5 (Transformation); BLACKWEIR executes; watches from operations center (63rd floor); small voice SILENT; hum *Thinner*; "She would authorize the next one too." Walk motif echoes Ch 1. | Ch 37 |
 | Marcus Thorne | Appearance + Recent History | Ch 12 last appearance | Fourth appearance; operational executor — narrates BLACKWEIR engineering junction by junction; pivots to board briefing logistics post-protocol; the project complete | Ch 37 |
+| AEGIS | Arc + Recent History | Pre-debut | Addenda extracted to aegis-addenda.md. book2_aegis_converged removed (old draft). book3_aegis_ending added to project-status. | Audit 2026-02-16 |
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
-_Last updated: 2026-02-15 (Ch 37 "The Protocol" v1-complete)_
-_Updated by: Chapter 37 bible update_
+**PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
+
+_Last updated: 2026-02-16 (Audit reconciliation + Thorne scene note)_
+_Updated by: Project audit follow-up_

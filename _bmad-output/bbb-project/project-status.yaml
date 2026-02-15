@@ -242,17 +242,19 @@ chapters:
     completedDate: "2026-02-12"
     metaFile: "book2-aegis-blackweir-meta.yaml"
     mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
-    notes: "AEGIS debut. BLACKWEIR callback. Style profile fully suspended. Evaluated against dossier §10 Writing Guide."
+    notes: "AEGIS debut. BLACKWEIR callback. Style profile fully suspended. Evaluated against dossier §10 Writing Guide. Addenda extracted to aegis-addenda.md."
 
-  book2_aegis_converged:
-    title: "Converged"
-    status: v1-complete
+# book2_aegis_converged removed 2026-02-16 — old draft, file deleted. Will be rewritten when narrative demands.
+
+  book3_aegis_ending:
+    title: "The Last Observer"
+    status: v1-draft
     pov: "AEGIS"
-    wordCount: 3400
+    wordCount: 4200
     completedDate: "2026-02-12"
-    metaFile: "book2-aegis-converged-meta.yaml"
+    metaFile: "book3-aegis-ending-meta.yaml"
     mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
-    notes: "AEGIS second chapter. First live fire (Mumbai). Style profile fully suspended. Evaluated against dossier §10 Writing Guide."
+    notes: "AEGIS terminus. Final chapter of trilogy. Deorbiting, 218 years post-BLACKWEIR. Stream-of-consciousness. Addenda extracted to aegis-addenda.md."
 
   chapter_42:
     title: "Still"

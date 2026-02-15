@@ -18,7 +18,7 @@ mode: PRESSURE
 epigraph_source: 'On the Statistical Correlation...'
 epigraph_author: 'Solberg'
 epigraph_ref: 'See Appendix D.'
-rhetoric_reference: 'VEC Emergency Alert (global): "Confluence confirmed. VPI: 97.3%. AEGIS targeting calculated. Countermand window: 15:00."'
+rhetoric_reference: 'VEC Emergency Alert (global): "Confluence confirmed. VPI: 87.3%. AEGIS targeting calculated. Countermand window: 15:00."'
 meta_note: 'AEGIS as invisible novelist'
 ---
 
@@ -43,7 +43,7 @@ This chapter explores Sofia Reyes's science-as-morality contradiction through th
 - Mirelle's dead-hand cache fragments begin arriving via Black Babel relay (Talia Ravid's node)
 - Flood valve photographs, infrastructure maps, NitroCore internal documents — she sees the engineering
 - The Lie fractures: science worked perfectly. Science prevented nothing.
-- VEC Emergency Alert rhetoric reference: "Confluence confirmed. VPI: 97.3%."
+- VEC Emergency Alert rhetoric reference: "Confluence confirmed. VPI: 87.3%."
 
 **Consequences:**
 - Sofia now holds Mirelle's evidence + her own atmospheric data = complete picture
@@ -126,7 +126,7 @@ She walked closer. The display resolved.
 
 **VEC EMERGENCY ALERT — CLASSIFICATION: APEX**
 
-**Confluence confirmed. VPI: 97.3%.**
+**Confluence confirmed. VPI: 87.3%.**
 
 **AEGIS targeting calculated. Countermand window: 15:00.**
 

@@ -93,6 +93,8 @@ An object deserves documentation if it:
 - Trunk-line severance: district-wide power failure, RCI normalization
 - Stagnation: nitro left in sealed containers too long develops coherence patterns — it starts to hum on its own
 
+**Cross-Altitude Signature:** Sofia's 0.7 Hz atmospheric pulse (Ch 5, 15, 41) and Fuxi's RCI spikes on trunk-line monitors (Ch 4, 8, 16, 39) are the same phenomenon measured at different altitudes through different instruments. The atmospheric pulse is the surface-level signature of the coherence events Fuxi detects underground. Both repeat at ~90-second intervals. The vertical gradient (Sump 0.96, Mid-Levels 0.91, Spires 0.87 correlation with Stalker deployments) confirms the signal propagates upward through the conduit network.
+
 **Significance:**
 - Symbolism: The commodification of suffering made literal — civilization's fuel IS anguish
 - Stakes: Reducing nitro throughput = reducing the void's signal, but also economic collapse. The fuel is the threat.
@@ -179,6 +181,7 @@ An object deserves documentation if it:
 - Ch 9: First cache deposited with Black Babel via Talia Ravid. Contents: 16-disappearance dataset, geographic correlation analysis, source interviews (anonymized), raw analysis notes. Dead-hand protocol established: 72h rolling check-in, 2 missed windows = auto-distribute to 3 sealed recipients.
 - Ch 13: Arctic-7 analysis added to deposit. Contents now include: infrastructure maps (throughput density by junction), co-origin annotation by unnamed research lead, Mirelle's own overlay analysis confirming pattern. Dead-hand timer at 41 hours. "Now she had institutional data."
 - Ch 40: Final transmission via thought-dictation implant during BLACKWEIR. 8-item evidentiary summary: flood valves (7 junctions, 2171-2173), pressure doors (23 sectors), RCI readings (41 sites/6 sectors), disappearances (31 confirmed), co-origin pattern, BLACKWEIR protocol fragments, dead-hand architecture declaration, personal addendum. Transmission cut mid-sentence. Dead-hand timer: 41 hours remaining (checked in 31 hours prior). Cache now contains complete 14-month investigation.
+- Ch 45: Dead-hand fires Day 5 post-BLACKWEIR. Timeline: Mirelle's last check-in was ~31 hours before absorption (per Ch 40 frontmatter). First missed 72h window: ~41h post-absorption (Day 2). Second missed 72h window: ~113h post-absorption (Day 5). Two missed windows triggers auto-distribution to 3 sealed recipients. Zeyad receives full cache + partial final transmission ("The infrastructure was always designed to—"). Sofia receives fragments via Talia Ravid's node (Ch 41, concurrent with BLACKWEIR).
 
 ---
 
