@@ -292,6 +292,16 @@ chapters:
 # Style profile fully suspended for AEGIS chapters
 # POV count: 9 human + 1 non-human = 10 total (trilogy)
 
-completedCount: 28
-totalWords: 133300
+  chapter_38:
+    title: "Perimeter"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 5200
+    completedDate: "2026-02-15"
+    metaFile: "chapter-38-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 4 BLACKWEIR — Nikolai POV (2nd appearance). Perimeter enforcement. Jarek Kowalski absorbed at Junction 14-East (unsevered secondary conduit). Last transmission: 'Nikolai.' Field log blank. Hand tremor. Hum Thinner (cross-POV echo Ch 37)."
+
+completedCount: 29
+totalWords: 138500
 lastUpdated: "2026-02-15"

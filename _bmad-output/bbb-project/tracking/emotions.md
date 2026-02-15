@@ -2,7 +2,7 @@
 title: "Emotion Tracking"
 type: tracking
 lastUpdated: "2026-02-15"
-lastChapter: "Chapter 45"
+lastChapter: "Chapter 38"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -748,6 +748,7 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Phase | State | Evidence |
 |-------|-------|----------|
 | Phase 2 (Ch 11) | Doctrine holds, seams visible | Classification still functions but requires more effort; corroboration event widens the gap between experience and report |
+| Phase 4 (Ch 38) | Doctrine destroyed, composure fractured | Jarek says his name — the classification cannot seal over it. Field log blank. Hand tremor. The Lie broken. |
 
 ### Emotional Beat Map
 
@@ -765,6 +766,16 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Ch 11 — Beat 10 | Dangerous honesty | Writing the field log — "I heard it too" | Writes it "the way you set down a weight" | N/A — private document |
 | Ch 11 — Beat 11 | Institutional memory | Thinks of the Murmansk sergeant | N/A — reflective | N/A — garrison lore |
 | Ch 11 — Beat 12 | Composure as horror | Signs the after-action report | "The pen did not shake" | The institution receives a clean report |
+| Ch 38 — Beat 1 | Operational steadiness (forced) | Perimeter deployment, broadcast cycling 412 times | Weather-report voice, flat affect, scanner checks | Unit holds positions |
+| Ch 38 — Beat 2 | Controlled composure | Civilian encounters — maintenance worker, woman with children | "The answer was not available in the operational vocabulary" | Civilians turned away |
+| Ch 38 — Beat 3 | Guilt architecture (emerging) | Woman asks "Where do we go?" with wet-walled apartment, daughter's teeth humming | Jaw clenched — involuntary, visible | Broadcast cycles. No answer given. |
+| Ch 38 — Beat 4 | Controlled alarm | RCI spike at Junction 14-East, Kowalski's report cuts out | Commands fall back — first name "Jarek" used | N/A — radio |
+| Ch 38 — Beat 5 | Recognition (undeniable) | Jarek says "Nikolai" — not mimicry, specific, the name of the person who placed him there | Stands in corridor for eleven seconds. Scanner at 35. | N/A — alone |
+| Ch 38 — Beat 6 | Mechanical withdrawal | Falls back from active zone per SFM §4.8 | Legs move. Hands maintain weapon orientation. Textbook. | Command receives report |
+| Ch 38 — Beat 7 | Institutional falsification | Signs after-action report: "Anomalous resonance observation: none" | "The pen did not shake" — callback to Ch 11, but now the lie is active, not passive | Institution receives a false report |
+| Ch 38 — Beat 8 | Silence (new) | Opens field log. Cursor blinks. Nine minutes. Closes it. | Blank entry — first in 15 years | N/A — private |
+| Ch 38 — Beat 9 | Composure broken | Checks hands — left index finger tremor | "The kind of movement Nikolai had never seen in his own hands" | N/A — alone |
+| Ch 38 — Beat 10 | Horror as acoustic perception | Hum at new baseline — *Thinner* | "The chord without the people" — a third language, outside institutional and private registers | N/A — alone |
 
 ---
 
@@ -785,6 +796,7 @@ Kowalski's debut is rendered entirely through Nikolai's observation — we see h
 | Phase | State | Evidence |
 |-------|-------|----------|
 | Phase 2 (Ch 11) | Insufficiently armored | Still looks at faces; asks the question Nikolai has spent twenty years not asking |
+| Phase 4 (Ch 38) | Absorbed | Professional register collapses; says Nikolai's name; timestamp 16:47 non-recoverable |
 
 ### Emotional Beat Map
 
@@ -796,6 +808,11 @@ Kowalski's debut is rendered entirely through Nikolai's observation — we see h
 | Ch 11 — Beat 4 | Seeking confirmation | "Did you hear that?" | N/A — voice only | Nikolai: classification deployed — "Acoustic mimicry. Doctrine is clear." |
 | Ch 11 — Beat 5 | Contained disbelief | Nikolai's classification | Face visible through visor — "the expression of a man being shown a map that says the terrain is flat while standing on a slope" | N/A — contained |
 | Ch 11 — Beat 6 | Compliance (surface) | "Copy" | Single word | Nikolai: field log records "Both perceived the same cadence independently" — Kowalski's compliance doesn't erase what happened |
+| Ch 38 — Beat 1 | Professional competence | Reports from Junction 14-East — lowest RCI on the line | Steady voice, trained register ("sounding like his commander") | Nikolai: notes the safety of the position |
+| Ch 38 — Beat 2 | Vocabulary collapse | Absorption front reaches through unsevered conduit | "The panels — they opened — there's —" broken syntax, past panic | Nikolai: commands fall back |
+| Ch 38 — Beat 3 | Terror (witnessed) | Faces in the conduit — absorbed looking at him | "They're looking at me" — breather seal activates automatically | Nikolai: uses first name |
+| Ch 38 — Beat 4 | Recognition (final) | Says "Nikolai" — not rank, not call sign | Actual voice underneath training — "the voice of a twenty-six-year-old" | Nikolai: stands in corridor for eleven seconds |
+| Ch 38 — Beat 5 | Absorption | Carrier signal folds into harmonic structure | Transmission frequency absorbed — "not cut, not terminated" | Beacon holds position 47 minutes then stops |
 
 ---
 
@@ -841,8 +858,8 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 | Dr. Elara Mbutha | Supporting | 1 | Institutional neutral | Active — rotating chair; procedural function |
 | Mirelle Dubois | POV (3rd appearance) | 19 | Ch 9: Methodical focus → Quiet anger → Mortality recognition → Operational tension → Physical discomfort → Professional composure → Controlled vulnerability → Transaction closure → Quiet alarm → Metronomic resolve. Ch 13: Operational routine → Physical discomfort → Quiet arithmetic → Sensory adaptation → Professional composure → Analytical absorption → Controlled revelation → Defiant resolve → Metronomic solitude | Active — Phase 2/5; pattern confirmed (architecture not negligence), dead-hand growing, institutional data acquired, "Including her" |
 | Talia Ravid | Supporting | 8 | Ch 9: Professional punctuality → Professional interest → Human observation → Transactional closure. Ch 13: Technical focus → Professional assessment → Procedural recitation → Transactional closure | Active — no arc; transactional function; operation expanding; profits from chaos |
-| Nikolai Volkov | POV (debut) | 12 | Professional alertness → Tactical calculation → Controlled candor → Cataloging refusal → Protective observation → Suppressed recognition → Controlled dread → Involuntary alarm → Classification as containment → Dangerous honesty → Institutional memory → Composure as horror | Active — Phase 2/5; doctrine holds, seams visible; corroboration event widens the gap |
-| Jarek Kowalski | Supporting (debut) | 6 | Professional competence → Unguarded attention → Honest alarm → Seeking confirmation → Contained disbelief → Surface compliance | Active — insufficiently armored; asks the question Nikolai won't |
+| Nikolai Volkov | POV (debut) | 22 | Ch 11: Professional alertness → Tactical calculation → Controlled candor → Cataloging refusal → Protective observation → Suppressed recognition → Controlled dread → Involuntary alarm → Classification as containment → Dangerous honesty → Institutional memory → Composure as horror. Ch 38: Operational steadiness (forced) → Controlled composure → Guilt architecture → Controlled alarm → Recognition (undeniable) → Mechanical withdrawal → Institutional falsification → Silence → Composure broken → Horror as acoustic perception | Active — Phase 4/5; Lie destroyed; field log blank; hand tremor; dual-record collapse |
+| Jarek Kowalski | Supporting (debut) | 11 | Ch 11: Professional competence → Unguarded attention → Honest alarm → Seeking confirmation → Contained disbelief → Surface compliance. Ch 38: Professional competence → Vocabulary collapse → Terror (witnessed) → Recognition (final) → Absorption | **Absorbed** — timestamp 16:47, non-recoverable; said Nikolai's name |
 | Stalker-3 Actual | Supporting | 2 | Professional fatigue → Honest acknowledgment (sealed) | Active — parallel Nikolai; knows and classifies |
 
 ---

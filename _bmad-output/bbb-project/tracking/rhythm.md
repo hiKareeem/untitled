@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 45"
+lastChapter: "Chapter 38"
 totalChapters: 53
-analyzedChapters: 21
+analyzedChapters: 22
 project_name: "Untitled"
 ---
 
@@ -2140,7 +2140,8 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | **41** | Sofia | 4,200 | TEXTURE | ~1% | 4→7→3→9→5 | 9.0 | 15/85 | ✅ |
 | **45** | Zeyad | 4,600 | TEXTURE | 0% | 3→4→8→2 | 8.8 | 10/90 | ✅ |
 | **37** | Aurielle | 5,100 | PRESSURE | ~8% | 3→6→9→4 | 9.2 | 15/85 | ✅ |
-| 38–39 | Phase 4 | — | All Pressure | — | — | — | — | 📝 |
+| **38** | Nikolai | 5,200 | PRESSURE | 12% | 4→6→9→7→5 | 9.0 | 25/75 | ✅ |
+| 39 | Phase 4 | — | PRESSURE | — | — | — | — | 📝 |
 | 46–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 
 ### Phase Health
@@ -2150,10 +2151,10 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 7/12 | 7/12 | 8.7 | 4.9 | 2P/5T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
-| Phase 4 | 7/9 | 7/9 | 9.0 | 5.7 | 3P/4T | 📝 |
+| Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 0/7 | 0/7 | — | — | — | 📝 |
 
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 37 — "The Protocol" rhythm analysis_
+_Updated by: Chapter 38 — "Perimeter" rhythm analysis_

@@ -366,10 +366,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Doctrine as survival
 
 **Current Psychological State:**
-- Phase: 2/5 (Doctrine holds, seam widens)
-- Emotional State: Disciplined, competent, suppressing 20 years of accumulated evidence — first corroborated perception
-- Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires."
-- Internal Contradictions: Refuses to process what he's seen across 20 years; doctrine as emotional anesthetic
+- Phase: 4/5 (Lie destroyed)
+- Emotional State: Composure fractured — hand tremor, field log blank, signed an active institutional lie
+- Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires." — **BROKEN** (Ch 38)
+- Internal Contradictions: Placed Jarek at the safest position; the gap in the system killed him. Neither the official nor private language can hold what happened.
 
 **The Lie:** Following protocol means you aren't responsible for what protocol requires
 
@@ -385,9 +385,9 @@ This bible dimension tracks **current character states**:
 | Civic containment engineer | BLACKWEIR co-key holder | Brief | The engineer cries. Nikolai doesn't. |
 
 **Current Arc:** Doctrine → Broken Doctrinaire
-- Current Phase: 2/5
-- Progression: Deployed to Neo-Shanghai; Mid-Levels incursion; first corroborated auditory perception
-- Next Step: Accelerating ops tempo; breach frequency increases; pre-authorization and two-key delivery
+- Current Phase: 4/5
+- Progression: Deployed to Neo-Shanghai; Mid-Levels incursion → BLACKWEIR perimeter enforcement; Jarek absorbed; Lie destroyed
+- Next Step: Ch 47 — Phase 5 after-action report. Does the field log stay blank? Does the recording surface?
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -398,11 +398,12 @@ This bible dimension tracks **current character states**:
 | 5/5 | Files after-action report. Signs it. The report lies. | Alive. Doctrine intact on paper. Shattered underneath. |
 
 **Appearances:**
-- Last Appearance: Ch 11 ("Acoustic Mimicry")
-- Next Planned Appearance: Ch 15 or Ch 19 (Phase 2 rotation)
+- Last Appearance: Ch 38 ("Perimeter")
+- Next Planned Appearance: Ch 47 (Phase 5)
 
 **Recent History:**
 - **Ch 11:** Debut POV. Stalker-7 deploys to Mid-Levels Level 7 breach, junction housing 7-14. Three absorbed, Stage 2 stable but RCI anomalously elevated (14.2-14.6 vs expected 8-10). Third absorbed embedded in junction housing looks "present" — outside Nikolai's doctrinal taxonomy. Hum near junction carries name perceived by both Nikolai (3.5m) and Kowalski (12m) independently — Corporal Deng, Stalker-3, absorbed 4 months prior. Classifies as "acoustic mimicry" per SFM §9.2. Field log records: "I heard it too" — first corroborated perception in 15 years. Thinks of a sergeant on the Murmansk perimeter (Haraldsen, unnamed in prose) — word list, medical discharge, bunk stripped clean. Signs the official report. Pen steady.
+- **Ch 38:** BLACKWEIR perimeter enforcement. Stalker-7 holds Sump/Mid-Level boundary south sector. Emergency broadcast cycling 640+ times. 69 civilians redirected. Jarek Kowalski at Junction 14-East (secondary, "safest position on the line") — absorption front advances through unsevered service conduit not on severance work orders. Jarek's last transmission: "Nikolai" — first name, not call sign, not mimicry. Timestamp 16:47, non-recoverable. After-action report: "Anomalous resonance observation: none" — active institutional lie (evolution from Ch 11's passive omission). Field log blank for first time in 15 years — dual-record collapse. Hand tremor — first in twenty years. Hum *Thinner* (cross-POV echo with Ch 37). Pen still. Hand not.
 
 ---
 
@@ -694,6 +695,9 @@ This bible dimension tracks **current character states**:
 | Kira | Debut + Recent History | Pre-intro | First POV chapter; scream suppression, Lumina structure, group chat, Bay Area grounding | Ch 10 |
 | Nikolai Volkov | Debut + Recent History | Pre-intro | First POV chapter; Mid-Levels incursion, "acoustic mimicry" classification, field log corroboration, Murmansk sergeant planted (Haraldsen in epigraph only) | Ch 11 |
 | Jarek Kowalski | New character | — | Corporal, Stalker-7; still looks at faces; hears Deng's name independently | Ch 11 |
+| Nikolai Volkov | Arc + Recent History | Phase 2/5, Ch 11 last appearance | Phase 4/5 (Lie destroyed); BLACKWEIR perimeter; Jarek absorbed at Junction 14-East; field log blank; hand tremor; signed institutional lie | Ch 38 |
+| Jarek Kowalski | Status change | Active (Ch 11) | **Absorbed** — timestamp 16:47, non-recoverable; said Nikolai's name; beacon stopped 47 min after last contact | Ch 38 |
+| Varga | New character | — | Stalker-7 operator, Junction 11; ten-year veteran; counts civilians redirected, marks on magazine | Ch 38 |
 | Corporal Deng | New character (referenced) | — | Stalker-3, absorbed Level 9, 4 months prior; name perceived in hum | Ch 11 |
 | Sgt. Haraldsen | New character (epigraph only; anonymized in prose) | — | Stalker-9, Murmansk; kept word list, medical discharge, bunk stripped clean. Named in epigraph, referred to as "the Murmansk sergeant" in prose. | Ch 11 |
 | Dex | New character (indirect) | — | Group chat member; comic normalizer | Ch 10 |

@@ -176,6 +176,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - **Ch 11:** Stalker-7 deploys to Level 7 residential breach, junction housing 7-14. Three absorbed (civilian woman, civilian man embedded in wall, conduit tech embedded in junction housing). RCI 14.2-14.6 (anomalous for stratum). Hum near junction carries perceived name (Corporal Deng). Containment successful, area secured.
+- **Ch 38:** BLACKWEIR perimeter enforcement at Sump/Mid-Level boundary (south sector). Stalker-7 holds line at Junction 12. Blast doors seal at 06:17. Emergency broadcast cycling 640+ times. 69 civilians redirected ("Return to your residence"). Absorption front advances through Junction 14-East via unsevered secondary service conduit — institutional gap in severance work orders. Jarek Kowalski absorbed at 16:47. Garrison south sector used for post-deployment processing.
 
 **Significance:** The buffer zone between Sump expendability and Spire privilege. Where "normal" is maintained longest.
 

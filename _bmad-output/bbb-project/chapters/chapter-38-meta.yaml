@@ -1,0 +1,119 @@
+# Chapter 38 Metadata
+# Generated: 2026-02-15
+
+---
+chapter: 38
+title: "Perimeter"
+status: v1-complete
+pov: "Nikolai Volkov"
+povAppearance: 2  # 1st: Ch 11
+phase: 4
+mode: PRESSURE
+pressureSubtype: "military/operational (perimeter enforcement as horror engine, radio chatter as tension mechanism, institutional vocabulary as distance device)"
+
+# Timeline
+timelinePosition: "BLACKWEIR Day 1 — 05:40 deployment through ~18:00 garrison"
+concurrentWith:
+  - "Ch 37 (Aurielle — operations center, same event from command level)"
+  - "Ch 39 (Fuxi — Deep Sump, same event from below)"
+  - "Ch 40 (Mirelle — Sump interior, absorption)"
+  - "Ch 42 (Nuwa — Block 14 apartment)"
+  - "Ch 43 (Kira — Bay Area, coherence spike)"
+  - "Ch 44 (Nephthys — Cathedral)"
+
+# Metrics
+wordCount: 5200
+scenes: 4
+dialoguePercent: 12
+avgSentenceLength: 18
+fragmentPercent: 22
+nbACount: 8
+flowScore: 9.0
+
+# Scenes
+scenes_detail:
+  - name: "Perimeter Establishment"
+    location: "Sump/Mid-Level boundary, Junction 12"
+    tension: "4/10 — operational routine, broadcast cycling"
+    beats: "Deployment at 05:40, blast doors at 06:17, broadcast cycling, status checks"
+  - name: "Civilian Encounters"
+    location: "Junction 12 perimeter line"
+    tension: "6/10 — moral horror, the woman with children"
+    beats: "Maintenance worker, woman with wet walls, 69 civilians redirected, Varga counting"
+  - name: "Junction 14-East / Jarek's Absorption"
+    location: "Service corridor near Junction 14-East"
+    tension: "9/10 — RCI spike, vocabulary collapse, absorption, the name"
+    beats: "RCI spike, Kowalski's report, first name used, faces in conduit, 'Nikolai', eleven seconds, tactical withdrawal"
+  - name: "Garrison / Dual-Record Collapse"
+    location: "Garrison housing, south sector"
+    tension: "7/10 → 5/10 — horror settling into silence"
+    beats: "After-action report signed, field log blank, hand tremor, hum Thinner"
+
+# Characters
+characters:
+  pov: "Nikolai Volkov"
+  supporting:
+    - name: "Jarek Kowalski"
+      role: "Operator — absorbed at Junction 14-East"
+      significance: "Absorption and last transmission ('Nikolai') is the chapter's emotional climax"
+    - name: "Okonkwo"
+      role: "Sergeant, L-Frame team leader at Junction 13"
+      significance: "Continuity from Ch 11"
+    - name: "Rask"
+      role: "Operator at maintenance west junction"
+      significance: "Continuity from Ch 11"
+    - name: "Varga"
+      role: "Operator at Junction 11 (new)"
+      significance: "Introduced via epigraph — counts civilians, marks on magazine"
+
+# Key Elements
+keyElements:
+  - "Emergency broadcast cycling 640+ times (synthetic female voice)"
+  - "69 civilians redirected at the perimeter line"
+  - "Junction 14-East: unsevered secondary service conduit — institutional gap in BLACKWEIR severance plan"
+  - "Jarek's last transmission: 'Nikolai' — first name, not call sign, not mimicry"
+  - "Timestamp 16:47 — non-recoverable"
+  - "'The safest position on the line' — repeated 3x, escalating ironic weight"
+  - "After-action report: 'Anomalous resonance observation: none' — active institutional lie"
+  - "Field log blank — first time in 15 years"
+  - "Hand tremor — first appearance (left index finger)"
+  - "Hum *Thinner* — cross-POV echo with Ch 37 (Aurielle)"
+  - "Pen still, hand not — inversion of Ch 11's 'pen did not shake'"
+
+# Epigraph
+epigraph:
+  source: "Reflections from the Perimeter"
+  attribution: "Anonymous — recovered field document, Stalker garrison archives, Neo-Shanghai Military District"
+  thread: "Ch 11 (Haraldsen word list) → Ch 23 (deployment order) → Ch 38 (counting the ones who came to the line) → Ch 47 (final fragment)"
+
+# Rhetoric
+rhetoric:
+  type: "Emergency Broadcast"
+  description: "Automated emergency broadcast cycling throughout — synthetic female voice, compliance-optimized cadence"
+
+# Thematic Presence
+themes:
+  dominant: ["Systemic Complicity"]
+  strong: ["Where Identity Ends", "Progress Requires Atrocity", "What We Owe"]
+  moderate: ["Architecture of Power", "Commodification of Suffering"]
+  background: ["Truth as Weapon", "Irrelevance of Individual Being"]
+
+# Cross-References
+crossReferences:
+  backward:
+    - "Ch 11: Junction housing 7-14, Deng's name, dual-record, hands check, field log — ALL evolved"
+    - "Ch 37: Hum Thinner (cross-POV), 06:17 junction severance, 13 million, BLACKWEIR execution"
+  forward:
+    - "Ch 47: Nikolai's final after-action report (Phase 5) — tremor, field log, recording"
+    - "Book 2: 'The safest position on the line' as guilt motif; recording vs signed lie"
+
+# Audit
+auditFile: "tracking/audit-chapter-38.md"
+themeAnalysisFile: "tracking/chapter-38-themes.md"
+styleAudit: "12/12 pass, 6 fixes applied (5 NbA trims 13→8, 1 timing fix)"
+characterAudit: "Nikolai 9.5/10, Kowalski 9.5/10, Okonkwo 9.0/10, Rask 9.0/10, Varga 8.5/10"
+
+# Workflow
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+completedDate: "2026-02-15"
+author: "Kareem"
