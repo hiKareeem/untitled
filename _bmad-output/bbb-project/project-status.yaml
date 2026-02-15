@@ -314,6 +314,26 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 radiation chapter — Aurielle POV (5th appearance, final Book 1). Board meeting + commendation. Stock ticker +3.7%. SHEPHERD seeded. Hum thinner = normal. Small voice merged. 'The Chair opened the next report.'"
 
-completedCount: 30
-totalWords: 143200
+  chapter_20:
+    title: "The Crack"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4600
+    completedDate: "2026-02-15"
+    metaFile: "chapter-20-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 2 — Nikolai POV (2nd appearance). Sump Sector 9-East breach. Void routes along conduit infrastructure — bypasses dead-ends, prioritizes trunk-lines. Kowalski: 'It's going around us.' Two maintenance workers absorbed. 'No anomalous observations' — first active suppression."
+
+  chapter_19:
+    title: "Deferred Maintenance"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 4300
+    completedDate: "2026-02-15"
+    metaFile: "chapter-19-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 2 — Aurielle POV (4th appearance). First active complicity — signs 7 Sump maintenance deferrals. Work Order #2175-1847 (Sector 4-7B, 62%, 400 units). Eduardo's 70% threshold violated. Pen motif introduced. 'Because she had filed it.'"
+
+completedCount: 32
+totalWords: 152100
 lastUpdated: "2026-02-15"

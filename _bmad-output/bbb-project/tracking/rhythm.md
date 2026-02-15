@@ -2202,4 +2202,107 @@ Tension profile: 3→4→6→3 — TEXTURE mode with internal peak at Scene 3 (i
 
 Arc: Word count decreasing as Aurielle compresses. Tension peaks decreasing (10→8→9→6) — the external stakes diminish as internal horror deepens. Dialogue restored. Flow consistently high (8.8-9.2). Reflection-dominant throughout.
 
+---
+
+## Chapter 19 — "Deferred Maintenance" (Aurielle Vasquez)
+
+**Phase:** 2 | **Mode:** TEXTURE | **Words:** ~4,300 | **Scenes:** 4
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,300 | 4,000-5,500 | ✅ |
+| Scenes | 4 | 3-5 | ✅ |
+| Paragraphs | ~55 | — | — |
+| Dialogue % | ~11% | 10-20% | ✅ |
+| Avg sentence length | ~15 | 12-16 | ✅ |
+| Fragment % | ~20% | 15-25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |          *
+ 6 |        *   *
+ 5 |      *       *
+ 4 |    *
+ 3 |  *               *
+ 2 | *
+ 1 |
+   +--+--+--+--+--+--+--→
+     S1  S2     S3    S4
+```
+
+- **Scene 1 (Office/Queue):** 2→4. Institutional routine — sandalwood, queue, first three deferrals. Low tension, building.
+- **Scene 2 (Work Order #2175-1847):** 4→7. The fourth work order. 62%. 400 residential units. The small voice calculates. She signs. Peak tension at the signing.
+- **Scene 3 (Thorne's Briefing):** 5→6. Tension holds — Thorne's silence about the work orders IS the instruction. The gap between what's discussed and what's on the desk.
+- **Scene 4 (Filing/Closing):** 5→3. Post-signing processing. "She was not her father." Calendar, door, filing. Resolution as dissociation.
+
+### Beat Map
+
+| Beat | Position | Tension | Description |
+|------|----------|---------|-------------|
+| Sandalwood/office | 5% | 2 | Eduardo's traces fading; institutional routine |
+| Queue opens | 10% | 3 | 23 items; standard distribution |
+| Q4 directive | 15% | 4 | 41.3% overrun; "Reclassify as deferred to offset" |
+| First three deferrals | 25% | 4 | Above or near threshold; signed without resistance |
+| Work Order #2175-1847 | 35% | 6 | 62% — below Eduardo's line; 400 residential units |
+| Signing hesitation | 42% | 7 | The directive vs. the work order — "This is what balance costs" |
+| Water glass / wrist | 50% | 5 | Physical displacement; phantom fracture memory |
+| Thorne arrives | 55% | 5 | 08:15 standing slot; Sector 14 success |
+| The silence | 65% | 6 | Work orders not mentioned; the lesson heard |
+| Signs #2175-1847 | 72% | 7 | "It took less time than drinking water" |
+| "She was not her father" | 80% | 5 | Flat observation — identity dissolving |
+| Calendar/door | 90% | 4 | The day's architecture; walking to the next meeting |
+| "Because she had filed it" | 100% | 3 | Institutional dissociation — closing line |
+
+### Transitions
+
+- **Scene 1→2:** Section break. Queue processing → the fourth work order. Escalation through routine.
+- **Scene 2→3:** Section break. Solitary processing → Thorne's arrival. The institutional rhythm.
+- **Scene 3→4:** Section break. Thorne departs → remaining deferrals signed → filing → closing.
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Sentence variety | 9/10 | Strong bimodal — institutional density to single-line punches |
+| Paragraph rhythm | 9/10 | Dense blocks (infrastructure math) alternating with fragments |
+| Scene transitions | 8/10 | Clean section breaks; institutional continuity maintained |
+| Motif integration | 10/10 | Water glass, wrist, sandalwood, small voice, handkerchief, pen, walk — all present and evolved |
+| **Overall Flow** | **9.0/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** 20% (signing work orders, Thorne's briefing, walking to door)
+- **Reflection:** 80% (institutional processing, arithmetic, identity dissolution)
+- Appropriate for TEXTURE mode Phase 2 moral threshold chapter.
+
+### Pacing Notes
+
+- **Strengths:** The work order queue as scene architecture — each deferral escalates through accumulated institutional detail rather than dramatic confrontation. The "four hundred" echo (Sector 14 success vs. Sector 4-7B deferral) is the chapter's structural irony engine. Closing line ("Because she had filed it") lands as thematic payload, not dramatic punch.
+- **Concerns:** None significant. Dialogue at 11% is slightly below the 15-20% Aurielle target but structurally constrained — Scenes 1, 2, and 4 are solo work.
+- **Recommendations:** TEXTURE subtype confirmed: **corporate/institutional** (work orders as scene architecture, budget directives as tension engine, institutional vocabulary as complicity medium). Cross-link with Ch 20 (Nikolai): "someone had decided, this quarter, did not need to be repaired" — the deferrals enable void routing through degraded junctions.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE, 4-5.5K words)
+- Adjacent chapter contrast: ✅ (Ch 18 = Kira/TEXTURE/mage-network → Ch 19 = Aurielle/TEXTURE/corporate-institutional → Ch 20 = Nikolai/PRESSURE/military-operational)
+
+### Comparison to Previous Aurielle Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 1 | 5,200 | PRESSURE | 11% | 2→10→3 | 9.2 | 40/60 |
+| Ch 7 | 5,300 | TEXTURE | 10% | 2→4→7→5 | 8.8 | 25/75 |
+| Ch 12 | 5,400 | PRESSURE | 15% | 2→8→5 | 9.0 | 20/80 |
+| **Ch 19** | **4,300** | **TEXTURE** | **~11%** | **2→7→6→3** | **9.0** | **20/80** |
+| Ch 37 | 5,100 | PRESSURE | ~8% | 3→6→9→4 | 9.2 | 15/85 |
+| Ch 46 | 4,700 | TEXTURE | ~14% | 3→4→6→3 | 9.2 | 15/85 |
+
+Arc: Word count decreasing as Aurielle compresses. Tension peaks decreasing (10→8→7→9→6) — the external stakes diminish as internal horror deepens. Ch 19 fits the downward arc: the peak (7) is institutional, not dramatic. Dialogue consistent (8-15%). Flow consistently high (8.8-9.2). Reflection-dominant throughout.
+
 <!-- INSERT_NEXT_ANALYSIS -->

@@ -1,0 +1,132 @@
+# Chapter 19 Metadata
+# Generated: 2026-02-15
+
+title: "Deferred Maintenance"
+chapterNumber: 19
+pov: "Aurielle Vasquez"
+povAppearance: 4  # Ch 1, 7, 12, 19
+phase: 2
+thread: A  # Corporate Machine
+location: "NitroCore Tower, Neo-Shanghai Spires"
+timeline: "Q1 2175 — weeks after Ch 12 (Sub-level 7 briefing)"
+mode: TEXTURE
+wordCount: 4300
+scenes: 4
+dialoguePercent: 11
+status: v1-complete
+draftVersion: 1
+completedDate: "2026-02-15"
+author: "Kareem"
+
+# Epigraph
+epigraphSource: "The Kindling Letters, Vol. IV"
+epigraphText: "They will not ask you to kill anyone. They will ask you to sign something. The document will be ordinary. The consequences will not."
+
+# Rhetoric Reference
+rhetoricReference: "Work Order #2175-1847 — Conduit Junction Replacement, Sector 4-7B"
+
+# Synopsis
+synopsis: >
+  Aurielle processes the quarterly Sump maintenance queue in Eduardo's office.
+  The Q4 2174 containment expenditure overrun (41.3%) requires reclassifying
+  routine maintenance as deferred. She signs seven deferrals — four below
+  Eduardo's 70% integrity threshold, including Work Order #2175-1847 (Sector
+  4-7B, 62% integrity, serving ~400 residential units). Thorne arrives for his
+  standing 08:15 briefing, discusses Sector 14 containment success, and does
+  not mention the work orders. After he leaves, she signs the remaining
+  deferrals and walks to her next meeting. She will not think about Sector 4-7B.
+  Not because she has forgotten. Because she has filed it.
+
+# Key Points
+keyPoints:
+  - First active complicity — crossing from information (Ch 12) to decision
+  - Eduardo's 70% threshold violated by his daughter's hand
+  - Work Order #2175-1847 as central document (62%, 400 residential units)
+  - Thorne's silence about the deferrals IS the instruction
+  - Small voice progression: calculates without arguing, no longer resistance but optimization
+  - "Four hundred" echo: same number safely displaced (Sector 14) and endangered (Sector 4-7B)
+  - Pen motif introduced (NitroCore institutional, weighted, blue ink)
+  - Handkerchief referenced but not opened — "knowing was sufficient"
+  - Sandalwood fading — Eduardo's traces diminishing
+  - Closing: "Not because she had forgotten. Because she had filed it."
+
+# Characters
+characters:
+  pov:
+    - name: "Aurielle Vasquez"
+      role: POV
+      coherence: 9.5
+      arc: "Phase 2/5 — first moral ladder rung; complicity as competence"
+  supporting:
+    - name: "Marcus Thorne"
+      role: Supporting
+      coherence: 9.5
+      arc: "Silent enabler — discusses success, not the deferrals"
+  referenced:
+    - name: "Eduardo Vasquez"
+      role: Referenced (deceased)
+      details: "Present through chair, desk, sandalwood, 70% threshold, pen placement"
+    - name: "Chen-Nakamura"
+      role: Referenced (dialogue mention)
+      details: "CFO; Singapore commissioning schedule question"
+
+# Locations
+locations:
+  - "NitroCore Tower — Eduardo's Office (executive level)"
+  - "NitroCore Tower — Executive corridors"
+
+# New Elements
+newElements:
+  objects:
+    - "NitroCore institutional pen (weighted, blue ink)"
+    - "Outbox tray (brushed steel, right side — Eduardo's placement ~30 years ago)"
+    - "Work Order #2175-1847"
+  details:
+    - "Visitor's chair 6cm lower confirmed as deliberate (measured by Aurielle)"
+    - "Wrist fracture backstory — healed twenty years ago"
+    - "Standing 08:15 Tuesday briefing slot (Thorne)"
+    - "Seven deferrals: 4 below Eduardo's 70% threshold"
+    - "Sectors: 4-7B (62%), 11-2C (67%), 6-9A (64%), 3-1D (68%)"
+    - "Eduardo's pen placement: parallel to outbox tray edge"
+  motifs:
+    - "Walk: 'She walked to the door' — 3rd iteration (Ch 1 gala, Ch 7 office, Ch 19 door)"
+    - "Filing as forgetting — institutional dissociation mechanism"
+    - "Four hundred echo — same number in success and endangerment"
+
+# Audit Results
+auditResults:
+  styleAudit: "12/12 pass; 5 fixes applied (distance x2, metaphor, spelling x2)"
+  characterAudit:
+    aurielle: 9.5
+    thorne: 9.5
+    eduardo: 9.0
+  continuityCheck: "All items verified against Ch 7, Ch 12, bible"
+  thematicAnalysis: "tracking/chapter-19-themes.md"
+  auditFile: "tracking/audit-chapter-19.md"
+
+# Theme Presence
+themePresence:
+  dominant:
+    - "Systemic Complicity"
+    - "Architecture of Power"
+  strong:
+    - "Progress Requires Atrocity"
+    - "Commodification of Suffering"
+  moderate:
+    - "What We Owe"
+    - "Truth as Weapon"
+  background:
+    - "Where Identity Ends"
+    - "Irrelevance of Individual Being"
+
+# Flags for Future Chapters
+flags:
+  - "Wrist fracture backstory (healed twenty years ago) — new detail, track for consistency"
+  - "Four sectors below threshold — degradation trajectories canonical"
+  - "Pen as institutional object — cross-POV with Zeyad's pen"
+  - "Tuesday work order rhythm — if another Aurielle chapter references maintenance"
+  - "Standing 08:15 briefing slot — Thorne-Aurielle"
+  - "Walk motif — 'She walked to the door' (3rd iteration, always institutional)"
+  - "Sandalwood extinction — by Ch 25, should be gone or nearly so"
+  - "Filing as forgetting — escalation mechanism through arc"
+  - "Ch 20 cross-link: deferred maintenance enables void routing through degraded junctions"
