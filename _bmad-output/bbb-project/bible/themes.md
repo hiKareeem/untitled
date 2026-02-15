@@ -497,6 +497,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 38 | Complicity (Dominant), Identity (Strong), Atrocity (Strong), What We Owe (Strong), Architecture (Moderate), Commodification (Moderate), Truth (Background), Irrelevance (Background) | Nikolai POV — Sump/Mid-Level perimeter during BLACKWEIR (PRESSURE). Perimeter enforcement: 69 civilians redirected, broadcast cycling 640+ times. Jarek at Junction 14-East ("safest position on the line" — 3x). Absorption front through unsevered secondary conduit — institutional gap. Jarek's last transmission: "Nikolai" — not mimicry. After-action report: "Anomalous resonance observation: none" — active lie. Field log blank (first time, 15 years). Hand tremor. Hum *Thinner*. |
 | Ch 46 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Truth (Moderate), Irrelevance (Moderate), What We Owe (Moderate), Identity (Background) | **Aurielle POV — Phase 5 radiation chapter.** Board meeting 3 days post-BLACKWEIR. Stock ticker +3.7%. Commendation (unanimous). Sofia's data: "methodology concerns." Zeyad's disclosure: Article 12 complaint. Humanitarian relief as institutional cover. Walk motif 4th iteration (Thorne as colleague). Hum thinner = normal. Small voice merged. "The Chair opened the next report." SHEPHERD seeded. |
 | Ch 19 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Obligation (Moderate), Truth (Moderate), Identity (Background), Irrelevance (Background) | First active complicity — signs 7 Sump deferrals. Work Order #2175-1847 (62%, 400 units). Eduardo's 70% violated. Pen motif introduced. "Because she had filed it." |
+| Ch 21 | Truth (Dominant), Architecture (Strong), Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Matched-district analysis — four datasets converging. Editorial policy as designed truth-containment. "The verification standard is the design." Deep Sump access offered. "The twenty-fourth might be mine." |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -684,6 +685,13 @@ This bible dimension tracks **theme evolution**:
 | The outbox tray (Ch 19) | Architecture of Power, Systemic Complicity | Where decisions go to become process; "flat, inert, waiting" — filing as forgetting |
 | Filing as forgetting (Ch 19) | Systemic Complicity | "Not because she had forgotten. Because she had filed it." — institutional dissociation mechanism; the final line's thematic payload |
 | "Four hundred" echo (Ch 19) | Commodification of Suffering, Progress Requires Atrocity | Same number: 400 people safely displaced in Sector 14 (success), 400 residential units endangered in Sector 4-7B (deferral) — structural irony |
+| Matched districts (Ch 21) | Truth as Weapon, Architecture of Power | Four datasets converging on architecture as cause — the concept itself as weapon; infrastructure density = disappearance density = RCI density = reclassification density |
+| Editorial policy memo (Ch 21) | Systemic Complicity, Architecture of Power | "Submissions linking incursion frequency to infrastructure density require VEC-certified verification" — institutional architecture as truth-suppression |
+| "Correlation, not causation" (Ch 21) | Systemic Complicity, Truth as Weapon | Gauthier's evidentiary standard as institutional shield — same phrase used by Chen Wei (Ch 4/16) and Gauthier (Ch 2/21) across different institutional contexts |
+| Tragus/ringing bookend (Ch 21) | Commodification of Suffering, Identity | Thumb on cartilage; deformation without change; the body recording what the institution won't — opens and closes the chapter |
+| "The twenty-fourth might be mine" (Ch 21) | Irrelevance of Individual, Truth as Weapon | Self-count — journalist entering the dataset she built; foreshadows Ch 40 absorption |
+| Chemical-strip green (Ch 21) | Architecture of Power | Talia's meeting lit in decommissioned color — truth exchanged in abandoned institutional spaces |
+| Dead-hand timer numbers (Ch 21) | Truth as Weapon, What We Owe | 26→24→23→20→48 — the rhythm of maintenance as daily structure; survival measured in check-in intervals |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

@@ -334,6 +334,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 2 — Aurielle POV (4th appearance). First active complicity — signs 7 Sump maintenance deferrals. Work Order #2175-1847 (Sector 4-7B, 62%, 400 units). Eduardo's 70% threshold violated. Pen motif introduced. 'Because she had filed it.'"
 
-completedCount: 32
-totalWords: 152100
+  chapter_21:
+    title: "Matched Districts"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 3600
+    completedDate: "2026-02-15"
+    metaFile: "chapter-21-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 2 — Mirelle POV (4th appearance). Matched-district analysis: 4 datasets converging. Gauthier: 'correlation, not causation' + editorial policy. Talia offers Deep Sump access (below Level 12, 12-hour window). 'The twenty-fourth might be mine.'"
+
+completedCount: 33
+totalWords: 155700
 lastUpdated: "2026-02-15"

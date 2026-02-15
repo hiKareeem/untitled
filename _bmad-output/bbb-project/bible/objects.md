@@ -396,6 +396,8 @@ An object deserves documentation if it:
 **History:**
 - Ch 2: Reading of 19.4 near Junction 7 trunk-line access hatch (baseline 14-16 for Sump stratum). Sustained elevation, not a spike.
 - Ch 9: Still in Mirelle's boot ("still hadn't returned"). 11 of 16 disappearance sites measured with readings above baseline. Tool persists as evidence-gathering instrument.
+- Ch 13: Under left insole, 7 months since borrowing. 18 sites measured, 11 above baseline for stratum.
+- Ch 21: 41 measurements across 5 months. Gauthier's objection sharpened: "A single *borrowed* sensor without VEC certification" — the calibration is acknowledged but institutional weight denied. Sensor to accompany Mirelle into Deep Sump (below Level 12) during upcoming expedition.
 
 ---
 
@@ -421,6 +423,8 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 9: Registered. First window starts immediately. Package contains: 16 disappearances data, RCI readings from 11 sites, NitroCore tolerance-band data, Feed reclassification notices, anonymized source interviews, Mirelle's analysis.
+- Ch 13: Arctic-7 analysis added — infrastructure maps, co-origin annotation, Mirelle's overlay confirming pattern. Timer at 41 hours.
+- Ch 21: Matched-district analysis added to deposit — four-layer overlay (infrastructure density, disappearances, RCI readings, reclassifications). Timer maintained: 26→24→23→20→48 (reset). Deposit now contains complete Phase 2 evidentiary record.
 - Phase 4 (Ch 40): Mirelle absorbed mid-sentence during BLACKWEIR. Last check-in 31 hours prior; 41 hours remaining on current window. Two missed windows = ~113 hours post-absorption before auto-distribute fires. Machine delivers.
 - Phase 5: Data reaches recipients. Talia inherits the archive.
 

@@ -2403,4 +2403,92 @@ O=Opening, 1=Descent, 2=Evacuation zone, 3=Lattice anomaly,
 
 Arc: Word count increasing as deployments intensify. Dialogue improving (8→13→12%). Tension peaks escalating (7→8→9) — each deployment reveals more. Action ratio decreasing (45→35→25%) — more reflection as complicity deepens. Flow consistently 9.0. All three chapters PRESSURE mode — Nikolai's POV is structurally consistent.
 
+---
+
+## Chapter 21 — "Matched Districts" (Mirelle Dubois, 4th POV)
+
+### Metrics
+
+| Metric | Value |
+|--------|-------|
+| Word count | ~3,600 (prose) |
+| Scenes | 4 (transit box analysis, Gauthier call, Talia exchange, transit box closing) |
+| Paragraphs | ~85 |
+| Dialogue % | ~22% |
+| Avg sentence length | ~14 words (bimodal: short punches + dense analytical blocks) |
+| Fragment % | ~20% |
+
+### Tension Curve
+
+```
+Scene 1: ██░░░░░░░░ 3 (routine, analysis, dead-hand check)
+Scene 2: █████░░░░░ 6 (Gauthier exchange — escalation through editorial pushback)
+Scene 3: ████████░░ 8 (Talia — Deep Sump offer, physical risk accepted)
+Scene 4: ████░░░░░░ 4 (transit box return — metronomic solitude, tragus bookend)
+```
+
+### Beat Map
+
+| Beat | Position | Tension | Delta |
+|------|----------|---------|-------|
+| Dead-hand check / nitro-ear | 5% | 2 | — |
+| Transit box analysis (matched districts) | 15% | 3 | +1 |
+| Gauthier call begins | 25% | 4 | +1 |
+| "Correlation, not causation" | 40% | 6 | +2 |
+| Editorial policy impasse | 50% | 7 | +1 |
+| "Be careful" — call ends | 55% | 5 | -2 |
+| Resonance District descent | 60% | 4 | -1 |
+| Talia — Deep Sump access offered | 70% | 7 | +3 |
+| "And if I get absorbed?" | 80% | 8 | +1 |
+| "When?" — meeting ends | 85% | 6 | -2 |
+| Transit box return, dead-hand reset | 90% | 3 | -3 |
+| "The twenty-fourth might be mine" — tragus bookend | 100% | 4 | +1 |
+
+### Transitions
+
+| Transition | Quality | Notes |
+|------------|---------|-------|
+| Scene 1→2 | Clean | Section break → encrypted relay call. Geographic continuity (transit box). |
+| Scene 2→3 | Strong | Section break → Resonance District. Time jump (implied hours). Sensory shift: comm hum → physical hum. |
+| Scene 3→4 | Clean | Section break → transit box return. Sensory continuity: ringing/tragus. |
+
+### Flow Scores
+
+| Component | Score |
+|-----------|-------|
+| Sentence rhythm | 9/10 |
+| Scene architecture | 9/10 |
+| Tension management | 8/10 |
+| Transition quality | 9/10 |
+| **Overall** | **8.8/10** |
+
+### Action/Reflection Balance
+
+- **Action:** 30% (Gauthier call, Talia exchange, route to Resonance District)
+- **Reflection:** 70% (analysis, editorial impasse processing, Deep Sump risk calculation, closing solitude)
+- Appropriate for TEXTURE mode Phase 2 investigative chapter. High reflection ratio reflects evidentiary/analytical focus.
+
+### Pacing Notes
+
+- **Strengths:** Dual-exchange structure (Gauthier → Talia) creates a natural two-peak tension curve. The Gauthier scene builds through dialogue-as-evidence-presentation, peaking at the institutional impasse. The Talia scene escalates from the institutional failure to physical risk — the pivot from analytical to operational. Tragus bookend provides satisfying closure.
+- **Concerns:** Dialogue at ~22% is slightly above 15-20% target — justified by the dual-exchange structure (both conversations are essential). Word count at ~3,600 is slightly below 4,000 target minimum — acceptable given density.
+- **Recommendations:** TEXTURE subtype confirmed: **investigative/institutional** (evidentiary presentation as scene architecture, editorial policy as tension engine, Babel exchange as escalation mechanism).
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, TEXTURE, 3.5-5K words)
+- Adjacent chapter contrast: ✅ (Ch 20 = Nikolai/PRESSURE/military-operational → Ch 21 = Mirelle/TEXTURE/investigative-institutional → Ch 22 = TBD)
+
+### Comparison to Previous Mirelle Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 2 | 4,800 | TEXTURE | 18% | 3→5→7→4 | 8.5 | 25/75 |
+| Ch 9 | 4,600 | TEXTURE | 12% | 3→5→6→4→3 | 9.0 | 35/65 |
+| Ch 13 | 4,900 | TEXTURE | 10% | 3→4→6→7→4 | 9.2 | 20/80 |
+| **Ch 21** | **3,600** | **TEXTURE** | **~22%** | **3→6→8→4** | **8.8** | **30/70** |
+| Ch 40 | 4,200 | PRESSURE | 0% | 5→7→9→10 | 9.5 | 60/40 |
+
+Arc: Word count trending slightly below average but density is high. Dialogue increases significantly (10→22%) driven by dual exchanges — appropriate as Mirelle shifts from solo analysis to advocacy. Tension peaks escalating (7→8) as stakes rise. Flow consistently strong. Ch 21 is the pivot from TEXTURE to PRESSURE — the last chapter where Mirelle operates through institutional channels before going physical.
+
 <!-- INSERT_NEXT_ANALYSIS -->
