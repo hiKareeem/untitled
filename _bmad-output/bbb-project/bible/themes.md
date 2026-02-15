@@ -495,6 +495,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 41 | Truth (Dominant), Complicity (Strong), Architecture (Strong), Atrocity (Strong), Commodification (Moderate), Identity (Moderate), What We Owe (Moderate), Irrelevance (Background) | Sofia POV — VEC HQ during BLACKWEIR (breath chapter, scientific register as momentary distance). Instruments confirm Confluence exactly as convergence models predicted. VPI — Sofia's rejected metric — on Apex alert at 97.3%, operationalized without her knowledge: "The institution had classified the scientist and operationalized the science." Locked out of 47th floor classified briefing (12 flights + biometric lock = distance between knowledge and authority). RCI differential: Sump climbing 3x faster than Mid-Levels, Spires barely moving — the gradient IS the engineering. 11-second broadband coherence spike overwhelms instruments. Dead-hand cache fragments arrive via Black Babel encrypted relay — anonymous field evidence confirming atmospheric data at every point of overlap. Tolerance band = kill radius. Coupling events as institutional language for human absorption. Two truth-architectures merge: atmospheric + field evidence in same encrypted archive for the first time. "The data was complete. The data had prevented nothing." |
 | Ch 45 | Architecture (Dominant), Complicity (Dominant), Truth (Strong), What We Owe (Strong), Commodification (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Zeyad POV — New Geneva, post-BLACKWEIR (radiation chapter). Institutional reports arrive formatted — Class 4 → Class Apex reclassification. Committee votes on response framework (how to discuss, not what to do). Dead-hand fires Day 5: Mirelle's 8-item evidence cache arrives via Black Babel. Final packet: "The infrastructure was always designed to—" Nothing after. Zeyad writes public statement; attaches everything (cache, transcripts, Annex C, notebook). Publishes through Black Babel relay. Article 12, Section 8 violated. Institutional vocabulary turned against the institution. Pen set down. Epigraph: committee record ("continue to monitor") — insufficiency as design. |
 | Ch 38 | Complicity (Dominant), Identity (Strong), Atrocity (Strong), What We Owe (Strong), Architecture (Moderate), Commodification (Moderate), Truth (Background), Irrelevance (Background) | Nikolai POV — Sump/Mid-Level perimeter during BLACKWEIR (PRESSURE). Perimeter enforcement: 69 civilians redirected, broadcast cycling 640+ times. Jarek at Junction 14-East ("safest position on the line" — 3x). Absorption front through unsevered secondary conduit — institutional gap. Jarek's last transmission: "Nikolai" — not mimicry. After-action report: "Anomalous resonance observation: none" — active lie. Field log blank (first time, 15 years). Hand tremor. Hum *Thinner*. |
+<!-- INSERT_NEXT_PROGRESSION -->
 
 ---
 
@@ -658,6 +659,7 @@ This bible dimension tracks **theme evolution**:
 | The chair that adjusts (Ch 37) | Architecture of Power, Systemic Complicity | Ergonomic, temperature-regulated, nanite-threaded leather — the same specification as the boardroom; institutional comfort designed for long observation of mass death; the body accommodated so the mind can accommodate |
 | Execution log timestamps (Ch 37) | Architecture of Power, Progress Requires Atrocity | T+00:00:00 format — the bureaucratic rhythm of mass death; junction severance, pressure doors, absorption front all logged as operational events; "Status: nominal" as the language of genocide within parameters |
 | "Pending institutional review" (Ch 37) | Commodification of Suffering, Systemic Complicity | Casualty assessment deferred into bureaucratic process — the counting itself a future task; the institution's metabolism absorbing atrocity into routine; "The filing would be processed" |
+<!-- INSERT_NEXT_SYMBOLS -->
 
 ---
 
@@ -728,4 +730,4 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 37 — "The Protocol" bible update_
+_Updated by: Chapter 38 — "Perimeter" bible update_

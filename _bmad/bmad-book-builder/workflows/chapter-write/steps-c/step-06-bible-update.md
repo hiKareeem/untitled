@@ -13,6 +13,7 @@ metaFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}-meta.yaml'
 themesTracking: '{bbb_output_folder}/tracking/themes.md'
 emotionsTracking: '{bbb_output_folder}/tracking/emotions.md'
 rhythmTracking: '{bbb_output_folder}/tracking/rhythm.md'
+rhythmDashboard: '{bbb_output_folder}/tracking/rhythm-dashboard.md'
 
 # Bible Files
 charactersBible: '{bbb_output_folder}/bible/characters.md'
@@ -50,7 +51,8 @@ To update all tracking files, story bible dimensions, and project status with th
 
 - Update ALL tracking files listed in this step
 - Update ALL relevant bible dimensions
-- Read each target file before editing to find correct insertion points
+- Use `<!-- INSERT_NEXT_* -->` markers to find insertion points (grep, don't read whole files)
+- Use `<!-- CHARACTER: Name -->` markers in emotions.md for navigation
 - Never overwrite existing data — append/insert new entries
 - Update project-status.yaml
 - Set chapter frontmatter status to v1-complete
@@ -67,11 +69,18 @@ To update all tracking files, story bible dimensions, and project status with th
 
 Using the per-chapter thematic analysis from step-05:
 
-- Add chapter entries to ALL 8 theme tables (one row per theme where the theme is present)
-- Update the Progression by Chapter summary table
+- Add **compact** rows to per-theme tables for themes at **Dominant or Strong** intensity only
+- Moderate/Background themes: optional (full detail already in `chapter-{N}-themes.md`)
+- Update the Progression by Chapter summary table (all themes, full detail)
 - Update the file's lastChapter and lastUpdated metadata
 
-**Format:** Match existing table format exactly. Read the file first to identify insertion points.
+**Navigation:** Grep for `<!-- INSERT_NEXT_COMPLICITY -->`, `<!-- INSERT_NEXT_COMMODIFICATION -->`, etc. to find insertion points for each theme table. Grep for `<!-- INSERT_NEXT_PROGRESSION -->` for the master table.
+
+**Compact per-theme format** (new entries only — existing entries unchanged):
+```
+| Ch {N} | **{Intensity}.** {1-2 sentence summary} | {Character}: {1-line impact} | {Next step pointer} |
+```
+Full thematic analysis remains in `tracking/chapter-{N}-themes.md`.
 
 ### 2. Update Tracking: emotions.md
 
@@ -79,13 +88,20 @@ For each character appearing in the chapter:
 
 - Add emotional beats to their Per-Chapter Emotional Beats table
 - If this is a character's debut, create their full section (Arc Summary, Dominant Emotions, Emotional State by Phase, beats table)
+- Update the Summary Table entry for each modified character
 - Update the file's lastChapter metadata
+
+**Navigation:** Grep for `<!-- CHARACTER: {Name} -->` to jump to a character's section. Grep for `<!-- SUMMARY_TABLE -->` for the summary.
 
 **Format:** Match existing entry format. Each beat includes: Chapter-Beat #, Emotional State, Trigger, Expression, Impact on Others.
 
-### 3. Update Tracking: rhythm.md
+### 3. Update Tracking: rhythm.md + rhythm-dashboard.md
 
-Add the chapter's rhythm analysis section:
+The rhythm system is split into two files:
+- **`rhythm.md`** — Full per-chapter rhythm analyses (append new analysis before `<!-- INSERT_NEXT_ANALYSIS -->`)
+- **`rhythm-dashboard.md`** — Summary dashboard + Phase Health (quick-update file)
+
+**In `rhythm.md`**, add the chapter's rhythm analysis section:
 
 - **Metrics table:** Word count, scenes, paragraphs, dialogue %, avg sentence length, fragment %
 - **Tension curve:** ASCII art + descriptions per scene
@@ -97,10 +113,10 @@ Add the chapter's rhythm analysis section:
 - **Comparison to plan:** Mode match, adjacent chapter contrast
 - **Comparison to previous chapters:** Metrics table with delta
 
-Update the Summary Dashboard:
-- Fill in the chapter's row
+**In `rhythm-dashboard.md`**, update:
+- Fill in the chapter's row (before `<!-- INSERT_NEXT_DASHBOARD -->`)
 - Update Phase Health table (written/analyzed counts)
-- Update the file's lastChapter and analyzedChapters metadata
+- Update both files' lastChapter and analyzedChapters metadata
 
 ### 4. Update Bible: characters.md
 
@@ -108,7 +124,7 @@ For each character appearing in the chapter:
 
 - **POV characters:** Update Recent History (append chapter summary), Appearances (last/next), Arc progression (next step), any relationship changes
 - **Supporting characters:** Update Recent History, Appearances
-- **New characters:** Add to Recent Changes table; if significant, create a full supporting character entry
+- **New characters:** Add to Recent Changes table (before `<!-- INSERT_NEXT_RECENT_CHANGES -->`); if significant, create a full supporting character entry
 - Update the file's lastUpdated metadata
 
 ### 5. Update Bible: locations.md
@@ -124,8 +140,8 @@ For each character appearing in the chapter:
 
 ### 7. Update Bible: themes.md
 
-- Add chapter row to the Progression by Chapter table
-- Add any new thematic symbols to the Thematic Symbols table
+- Add chapter row to the Progression by Chapter table (before `<!-- INSERT_NEXT_PROGRESSION -->`)
+- Add any new thematic symbols to the Thematic Symbols table (before `<!-- INSERT_NEXT_SYMBOLS -->`)
 - Update the file's lastUpdated metadata
 
 ### 8. Ensure Meta File Exists
@@ -212,4 +228,4 @@ Ready for the next chapter.
 - Leaving chapter status as draft
 - Overwriting existing data instead of appending
 
-**Master Rule:** Every tracking and bible update must be accurate and complete — future chapters depend on this data for continuity. Read each target file before editing.
+**Master Rule:** Every tracking and bible update must be accurate and complete — future chapters depend on this data for continuity. Use `<!-- INSERT_NEXT_* -->` markers to find insertion points efficiently — grep for the marker instead of reading the whole file.

@@ -127,6 +127,7 @@ Patel's professional precision cracks under the weight of impossible data. She h
 
 ---
 
+<!-- CHARACTER: Aurielle Vasquez -->
 ## Character: Aurielle Vasquez
 
 ### Emotional Arc Summary
@@ -220,6 +221,7 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 
 ---
 
+<!-- CHARACTER: Nephthys -->
 ## Character: Nephthys
 
 ### Emotional Arc Summary
@@ -319,6 +321,7 @@ Imani's Chapter 3 arc establishes her as the practical counterweight to Nephthys
 
 ---
 
+<!-- CHARACTER: Kira Calloway -->
 ## Character: Kira Calloway
 
 ### Emotional Arc Summary
@@ -360,6 +363,7 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 
 ---
 
+<!-- CHARACTER: Sofia Reyes -->
 ## Character: Sofia Reyes
 
 ### Emotional Arc Summary
@@ -448,6 +452,7 @@ Liang displays institutional neutral throughout — which is his function. He is
 | Ch 41 — Beat 1 | Institutional composure (observed) | BLACKWEIR — classified briefing on 47th floor | Seated at table with two VEC executive-lanyard personnel; hands flat (same posture as Ch 15); face turned from glass | Sofia: stands at glass; reads the posture; reads the avoidance |
 
 ---
+<!-- CHARACTER: Zeyad Al-Fahim -->
 ## Character: Zeyad Al-Fahim
 
 ### Emotional Arc Summary
@@ -549,6 +554,7 @@ Mbutha is institutional neutral embodied — the rotating chair who acknowledges
 
 ---
 
+<!-- CHARACTER: Fuxi Lin -->
 ## Character: Fuxi Lin
 
 ### Emotional Arc Summary
@@ -600,6 +606,7 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 
 ---
 
+<!-- CHARACTER: Nuwa Lin -->
 ## Character: Nuwa Lin
 
 ### Emotional Arc Summary
@@ -651,6 +658,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 
 ---
 
+<!-- CHARACTER: Mirelle Dubois -->
 ## Character: Mirelle Dubois
 
 ### Emotional Arc Summary
@@ -731,6 +739,7 @@ Talia has no arc — she is a supporting character whose function is transaction
 
 ---
 
+<!-- CHARACTER: Nikolai Volkov -->
 ## Character: Nikolai Volkov
 
 ### Emotional Arc Summary
@@ -779,6 +788,7 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 
 ---
 
+<!-- CHARACTER: Jarek Kowalski -->
 ## Character: Jarek Kowalski
 
 ### Emotional Arc Summary
@@ -831,6 +841,7 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 
 ---
 
+<!-- SUMMARY_TABLE -->
 ## Summary Table
 
 | Character | Role | Beats | Trajectory | Status |
@@ -864,6 +875,7 @@ A single scene — the handoff briefing. Her emotional arc compresses into two b
 
 ---
 
+<!-- CHARACTER: AEGIS -->
 ## Character: AEGIS (Non-Human POV)
 
 ### Processing Pattern Summary
