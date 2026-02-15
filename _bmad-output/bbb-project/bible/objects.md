@@ -3,8 +3,8 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-15"
-lastChapter: 38
-totalObjects: 19
+lastChapter: 20
+totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"
 ---
@@ -756,6 +756,52 @@ An object deserves documentation if it:
 
 ---
 
+### Nikolai's Field Log
+
+**Origin:**
+- Provenance: Created by Nikolai Volkov on a personal datapad, stored in garrison quarters
+- Created: Approximately 15 years before story events (since Vladivostok, 2161)
+- Circumstances: Private record of void behavior observations that exceed or contradict institutional classification. Maintained outside all military channels because "the institutional framework that should have received it had already decided what the data meant before anyone measured it."
+
+**Description:**
+- Appearance: Personal datapad, digital entries
+- Function: The most comprehensive firsthand void behavior dataset in existence — 15 years of observations from breach zones across multiple continents and strata
+- Condition: Active, growing. Entries span Vladivostok (2161), Baltic corridor (2170), Neo-Shanghai Mid-Levels (Ch 11), Sump Sector 9-East (Ch 20), BLACKWEIR perimeter (Ch 38)
+
+**Significance:** The field log is where the dual-record architecture lives — the private language that cannot contaminate the institutional record. It parallels Sofia's personal archive (14+1 entries), Fuxi's private log (RCI correlations), Mirelle's dead-hand cache, and Zeyad's notebook drawer. All five POVs maintain parallel private records. The field log has no delivery system, no recipient — it exists because not-recording was never an option for Nikolai. "The field log's word was *listening*."
+
+**Current Owner:** Nikolai Volkov
+**Location:** Garrison quarters, personal datapad
+
+**History:**
+- Ch 11: First prose appearance. "I heard it too" — four words recording corroborated perception of Deng's name in the hum. The entry that crosses from individual observation to shared experience.
+- Ch 20: Records void routing observation: "The pattern is not diffusion. It is routing." Also records the meta-observation: "One of them is a lie. I know which one." Gap between records described as escalating from crack (Ch 11) to fault line (Ch 20).
+- Ch 38: Blank. First empty entry in 15 years. Cursor blinks for nine minutes. Neither institutional nor private language can hold what happened. Jarek's name is the entry that cannot be written.
+
+---
+
+### VS-7 After-Action Report Form
+
+**Origin:**
+- Provenance: Standard-issue Stalker Field Manual document
+- Function: Official post-deployment report including a 500-character "anomalous observations" field
+
+**Description:**
+- Appearance: Digital form, military standard formatting
+- Function: Institutional record of breach zone deployments — deployment number, unit, sector, absorbed count, RCI readings, anomalous observations
+- Key field: "Anomalous Observations" — 500 characters. The form's architecture shapes what truth can exist: 500 characters for the unbearable.
+
+**Significance:** The VS-7 form is the institutional half of Nikolai's dual-record system. The anomalous observations field is designed to be filled or left empty — "No anomalous observations" is the answer the institution requires and the answer Nikolai provides. Document architecture as suppression mechanism. Cross-POV parallel: Aurielle's work order signature line, Zeyad's committee response framework, Sofia's VEC reporting pipeline.
+
+**Current Owner:** Military (institutional document)
+
+**History:**
+- Ch 11: Nikolai signs after-action report — institutional record complete, field log records the truth. "The pen did not shake."
+- Ch 20: "No anomalous observations" typed into the 500-character field — first active suppression (Ch 11 was passive omission). Nikolai looks at the sentence and knows it is a lie.
+- Ch 38: "Anomalous resonance observation: none" — active institutional lie. Evolution complete. Field log blank.
+
+---
+
 | Object | From | To | Day | Circumstances |
 |--------|------|-----|-----|---------------|
 | Mirelle's Caches | Mirelle | Black Babel | Phase 1–3 | Dead-drop deposits |
@@ -775,4 +821,4 @@ An object deserves documentation if it:
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 45 — "The Partial Transmission" bible update_
+_Updated by: Chapter 20 — "The Crack" bible update_

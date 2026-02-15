@@ -398,7 +398,7 @@ Fracture-pattern geometry spreads through the surrounding volume — not tentacl
 
 ### Stage 4 — Assimilation Zone
 
-Matter contacted by void tendrils is converted/replaced. People "phase out" on contact — bodies persist in original shape but transform into void-matter (semi-translucent, faintly luminous). Instruments continue detecting what appears to be neural activity in absorbed individuals for hours afterward. The hum fragments into multiple distinct voices. Duration: ongoing.
+Matter contacted by void tendrils is converted/replaced. People "phase out" on contact — bodies persist in original shape but transform into void-matter (semi-translucent, faintly luminous). Instruments continue detecting what appears to be neural activity in absorbed individuals for hours afterward — metabolic and neural signatures at approximately eleven percent baseline (canonical figure; consistent across all observed absorptions). The hum fragments into multiple distinct voices. Duration: ongoing.
 
 ### Stage 5 — Outcome
 

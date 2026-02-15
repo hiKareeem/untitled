@@ -14,7 +14,7 @@
 |-------|-----------|-----------------|
 | Systemic Complicity | **Strong** | Two records — after-action report vs field log. Classification as complicity mechanism. |
 | Truth as Weapon | **Strong** | Field log as dangerous truth. "I heard it too" as corroboration. Recording shows nothing. |
-| Where Identity Ends | **Moderate** | Deng's name in the hum. The technician who looks "present." Non-recoverable vs twelve percent metabolic. |
+| Where Identity Ends | **Moderate** | Deng's name in the hum. The technician who looks "present." Non-recoverable vs eleven percent metabolic. |
 | Irrelevance of Individual Being | **Moderate** | Absorbed as data points. "Non-recoverable." "Two hundred and twelve after-action reports." |
 | Architecture of Power | **Moderate** | Military hierarchy, doctrinal framework, SFM §9.2 as institutional classification of truth. |
 | Commodification of Suffering | **Background** | Absorbed reduced to report fields. Murmansk sergeant (Haraldsen, unnamed in prose) medically discharged — institutional disposal of inconvenient witness. |
@@ -35,7 +35,7 @@ The field log is the chapter's truth-weapon — fifteen years of observations th
 
 ### Where Identity Ends — Moderate
 
-Deng's name perceived in the hum near an absorbed figure who is not Deng raises the question: does absorbed identity persist, migrate, or dissolve into the lattice's harmonic structure? The technician embedded in junction housing 7-14 "looked present in a way the other two did not" — suggesting absorption is not uniform, that something of the person may persist differently depending on circumstances. The instruments confirm "residual neural activity" and "twelve percent metabolic" — the absorbed are not dead by measurement, not alive by definition. The gap between "non-recoverable" and "still registering neural activity" is where the identity question lives.
+Deng's name perceived in the hum near an absorbed figure who is not Deng raises the question: does absorbed identity persist, migrate, or dissolve into the lattice's harmonic structure? The technician embedded in junction housing 7-14 "looked present in a way the other two did not" — suggesting absorption is not uniform, that something of the person may persist differently depending on circumstances. The instruments confirm "residual neural activity" and "eleven percent metabolic" — the absorbed are not dead by measurement, not alive by definition. The gap between "non-recoverable" and "still registering neural activity" is where the identity question lives.
 
 ### Irrelevance of Individual Being — Moderate
 
@@ -79,7 +79,7 @@ Nikolai carries the names — "two hundred and twelve after-action reports," eac
 | Symbol | Previous State | Ch 11 State |
 |--------|---------------|-------------|
 | **The hum** | Prologue: climbing, answering. Ch 4/8: background, tolerated. Ch 10: thicker, splitting. | Ch 11: *structured*, *listening*. Carries perceived names. Tighter near absorbed. |
-| **Absorbed figures** | Prologue: cosmic horror, single event. Ch 4: shimmer near conduits. | Ch 11: statues embedded in infrastructure, twelve percent metabolic, "present." First detailed military encounter. |
+| **Absorbed figures** | Prologue: cosmic horror, single event. Ch 4: shimmer near conduits. | Ch 11: statues embedded in infrastructure, eleven percent metabolic, "present." First detailed military encounter. |
 | **Institutional reports** | Ch 5: Sofia's sanitized report. Ch 9: Mirelle's evidence vs. publishability. | Ch 11: after-action report vs field log — the dual-record as identity-level complicity |
 
 ---

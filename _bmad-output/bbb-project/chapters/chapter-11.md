@@ -106,7 +106,7 @@ Kowalski was closest. He held position at the four-meter mark, scanner forward, 
 
 "Scanner readings, Kowalski."
 
-"Neural activity consistent with the first subject. Metabolic trace at twelve percent baseline. No response to proximity." A pause that lasted one breath too long. "Lattice boundary at 3.8 meters. Tighter than the first."
+"Neural activity consistent with the first subject. Metabolic trace at eleven percent baseline. No response to proximity." A pause that lasted one breath too long. "Lattice boundary at 3.8 meters. Tighter than the first."
 
 "Noted. Move to the junction housing."
 
@@ -164,7 +164,7 @@ One syllable. A name.
 
 Corporal Deng, Stalker-3. Absorbed four months ago during a breach event on Level 9, three corridors east. Nikolai had read the after-action report. Deng had been twenty-three. Second deployment. The report said *absorbed, non-recoverable, timestamp 11:42.* The report did not say anything else because the report did not have vocabulary for anything else.
 
-The hum near junction housing 7-14 was carrying something that sounded like a dead man's name. Except dead was not the right word. Non-recoverable was the right word. The instruments said twelve percent metabolic activity. The instruments said residual neural function. The manual said *non-recoverable* and the field log said *I don't know what that means* and the hum said *Deng* and the recording would show nothing.
+The hum near junction housing 7-14 was carrying something that sounded like a dead man's name. Except dead was not the right word. Non-recoverable was the right word. The instruments said eleven percent metabolic activity. The instruments said residual neural function. The manual said *non-recoverable* and the field log said *I don't know what that means* and the hum said *Deng* and the recording would show nothing.
 
 Stalker Field Manual, Section 9.2: *Anomalous acoustic phenomena in breach zones — including perceived speech patterns, name-recognition events, and apparent vocalizations — are classified as resonance artifacts produced by harmonic interaction between void-state matter and ambient acoustic fields. These phenomena are non-actionable. Personnel experiencing such phenomena should log the event under standard reporting codes and continue operations.*
 

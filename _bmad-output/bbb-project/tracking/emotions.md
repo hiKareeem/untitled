@@ -777,6 +777,7 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Phase | State | Evidence |
 |-------|-------|----------|
 | Phase 2 (Ch 11) | Doctrine holds, seams visible | Classification still functions but requires more effort; corroboration event widens the gap between experience and report |
+| Phase 2 (Ch 20) | Doctrine holds, suppression deepens | Classification requires active lie; routing observation omitted; gap becomes crack becomes fault line |
 | Phase 4 (Ch 38) | Doctrine destroyed, composure fractured | Jarek says his name — the classification cannot seal over it. Field log blank. Hand tremor. The Lie broken. |
 
 ### Emotional Beat Map
@@ -795,6 +796,14 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Ch 11 — Beat 10 | Dangerous honesty | Writing the field log — "I heard it too" | Writes it "the way you set down a weight" | N/A — private document |
 | Ch 11 — Beat 11 | Institutional memory | Thinks of the Murmansk sergeant | N/A — reflective | N/A — garrison lore |
 | Ch 11 — Beat 12 | Composure as horror | Signs the after-action report | "The pen did not shake" | The institution receives a clean report |
+| Ch 20 — Beat 1 | Sleepless vigilance | Deployment order at 04:20; reads it before alert sounds | Vladivostok habit — pre-alert awareness | N/A — internal |
+| Ch 20 — Beat 2 | Dread (geographic) | Sump deployment — different from Mid-Levels | "The word sat differently" — infrastructure intimacy recognized | N/A — internal |
+| Ch 20 — Beat 3 | Controlled alarm | Non-radial breach perimeter — follows conduit map | Voice flat; numbers delivered as flat fact; "The shape was wrong" | Unit receives briefing without comment |
+| Ch 20 — Beat 4 | Professional restraint | Kowalski reports dead-end corridors untouched | Stops walking — the silence is operational | Scanner team stops behind him |
+| Ch 20 — Beat 5 | Suppressed recognition | Kowalski: "It's going around us. Toward the trunk-lines." | Voice does not change: "Maintain operational register" | Kowalski complies; observation already in the air |
+| Ch 20 — Beat 6 | Clinical horror | Two absorbed technicians at junction 9-14 — night shift workers | Instruments checked; distance maintained at 2m; "would not come home" | Scanner team processes routinely |
+| Ch 20 — Beat 7 | Active suppression | Types "No anomalous observations" in VS-7 form | Cursor blinks; looks at the sentence; knows it's a lie | Institution receives a false report |
+| Ch 20 — Beat 8 | Self-aware complicity | Writes field log entry then the meta-observation: "One of them is a lie" | Closes drawer; checks hands — steady | N/A — private; the hum follows him to the mess |
 | Ch 38 — Beat 1 | Operational steadiness (forced) | Perimeter deployment, broadcast cycling 412 times | Weather-report voice, flat affect, scanner checks | Unit holds positions |
 | Ch 38 — Beat 2 | Controlled composure | Civilian encounters — maintenance worker, woman with children | "The answer was not available in the operational vocabulary" | Civilians turned away |
 | Ch 38 — Beat 3 | Guilt architecture (emerging) | Woman asks "Where do we go?" with wet-walled apartment, daughter's teeth humming | Jaw clenched — involuntary, visible | Broadcast cycles. No answer given. |
@@ -826,6 +835,7 @@ Kowalski's debut is rendered entirely through Nikolai's observation — we see h
 | Phase | State | Evidence |
 |-------|-------|----------|
 | Phase 2 (Ch 11) | Insufficiently armored | Still looks at faces; asks the question Nikolai has spent twenty years not asking |
+| Phase 2 (Ch 20) | Questions sharpening | Observes void routing independently; drops operational register to articulate pattern; complies when told but the observation is already shared |
 | Phase 4 (Ch 38) | Absorbed | Professional register collapses; says Nikolai's name; timestamp 16:47 non-recoverable |
 
 ### Emotional Beat Map
@@ -838,6 +848,10 @@ Kowalski's debut is rendered entirely through Nikolai's observation — we see h
 | Ch 11 — Beat 4 | Seeking confirmation | "Did you hear that?" | N/A — voice only | Nikolai: classification deployed — "Acoustic mimicry. Doctrine is clear." |
 | Ch 11 — Beat 5 | Contained disbelief | Nikolai's classification | Face visible through visor — "the expression of a man being shown a map that says the terrain is flat while standing on a slope" | N/A — contained |
 | Ch 11 — Beat 6 | Compliance (surface) | "Copy" | Single word | Nikolai: field log records "Both perceived the same cadence independently" — Kowalski's compliance doesn't erase what happened |
+| Ch 20 — Beat 1 | Observational precision | Reports non-uniform lattice advancement from propagation edge | Pause before speaking — looking at something instruments don't prioritize | Nikolai: stops walking |
+| Ch 20 — Beat 2 | Pattern recognition (unguarded) | Dead-end corridors untouched; trunk-line fully converted | Confirms with specificity: "three dead-end corridors... zero translucency" | Nikolai: instruments confirm; the breach is a map |
+| Ch 20 — Beat 3 | Naming the unnameable | "It's going around us. Toward the trunk-lines." | Operational register drops — replaced by something closer to awe | Nikolai: "Maintain operational register." The observation is already in the air. |
+| Ch 20 — Beat 4 | Compliance (deeper) | "Copy" after being told to maintain register | Single word — same as Ch 11, but now carrying a heavier observation | Nikolai: the observation cannot be un-spoken |
 | Ch 38 — Beat 1 | Professional competence | Reports from Junction 14-East — lowest RCI on the line | Steady voice, trained register ("sounding like his commander") | Nikolai: notes the safety of the position |
 | Ch 38 — Beat 2 | Vocabulary collapse | Absorption front reaches through unsevered conduit | "The panels — they opened — there's —" broken syntax, past panic | Nikolai: commands fall back |
 | Ch 38 — Beat 3 | Terror (witnessed) | Faces in the conduit — absorbed looking at him | "They're looking at me" — breather seal activates automatically | Nikolai: uses first name |

@@ -2,9 +2,9 @@
 title: "Rhythm Tracking"
 type: tracking
 lastUpdated: "2026-02-14"
-lastChapter: "Chapter 38"
+lastChapter: "Chapter 20"
 totalChapters: 53
-analyzedChapters: 22
+analyzedChapters: 23
 project_name: "Untitled"
 ---
 
@@ -2304,5 +2304,103 @@ Arc: Word count decreasing as Aurielle compresses. Tension peaks decreasing (10�
 | Ch 46 | 4,700 | TEXTURE | ~14% | 3→4→6→3 | 9.2 | 15/85 |
 
 Arc: Word count decreasing as Aurielle compresses. Tension peaks decreasing (10→8→7→9→6) — the external stakes diminish as internal horror deepens. Ch 19 fits the downward arc: the peak (7) is institutional, not dramatic. Dialogue consistent (8-15%). Flow consistently high (8.8-9.2). Reflection-dominant throughout.
+
+---
+
+## Chapter 20: "The Crack" — Nikolai Volkov (PRESSURE)
+
+### Basic Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,600 | 4,000–5,500 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~13% | 10–20% | ✅ |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~19% | 15–25% | ✅ |
+
+### Beat Map
+
+1. [2%] HOOK — Deployment order at 04:20; Nikolai reads it before the alert sounds → +1
+2. [6%] TEXTURE — Garrison quarters, field log review, Vladivostok habit → 0
+3. [10%] BRIEFING — Sump Sector 9-East; non-radial propagation; "The shape was wrong" → +1
+4. [15%] DESCENT — Staging Bay 3 to Sump; "The word sat differently" → 0
+5. [20%] TEXTURE — Evacuation zone; boot mat with one boot missing; domestic detail → 0
+6. [28%] COMPLICATION — Lattice follows conduit map; dead-end corridors untouched → +1
+7. [35%] DIALOGUE — Kowalski reports non-uniform advancement; specificity escalates → +1
+8. [42%] REVEAL — Junction 9-14: two absorbed maintenance technicians, night shift → +1
+9. [48%] DATA — RCI 24.1; lattice boundary 1.8m; Stage 2 "the way a river is still a river" → 0
+10. [55%] PIVOT — Kowalski: "It's going around us. Toward the trunk-lines." → +1
+11. [60%] INSIGHT — Void routing confirmed: bypasses dead-ends, prioritizes trunk-lines → 0
+12. [68%] TEXTURE — Extraction team deployment; Okonkwo and Patil positions → -1
+13. [75%] TRANSITION — Return to garrison; transit shaft at 8.1 → -1
+14. [82%] DUAL RECORD — After-action report: "No anomalous observations" typed and known as lie → +1
+15. [88%] PRIVATE RECORD — Field log: "The pattern is not diffusion. It is routing." → 0
+16. [92%] META-OBSERVATION — "One of them is a lie. I know which one." Gap→crack→fault line → 0
+17. [96%] CLOSING — Mess hall, thirty-one operators, nothing asked. Hum at 8.1. "It did not sound right." → -1
+
+**Beat density:** 1 per ~270 words — high density for PRESSURE mode, driven by field observations and dual-record architecture
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |              ★
+ 7 |         ●  ●
+ 6 |       ●
+ 5 |     ●         ●
+ 4 |                  ●
+ 3 | ●  ●                ●
+ 2 |
+ 1 |
+   +--+--+--+--+--+--+--+--→
+     O  1  2  3  4  5  6  C
+
+O=Opening, 1=Descent, 2=Evacuation zone, 3=Lattice anomaly,
+4=Junction 9-14/absorbed, 5=Routing confirmed, 6=Return/report, C=Closing
+```
+
+**Shape:** Operational ramp (3→5→7→8→4) — tension builds through accumulated field observations, peaks at routing confirmation + active suppression, descends through institutional processing. Unlike Ch 11's shock curve (single peak at Deng's name), Ch 20 sustains a plateau through scenes 2-3 before the dual-record denouement provides controlled descent.
+
+### Flow Assessment
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Opening hook | 9/10 | Pre-alert awareness → immediate deployment order. Vladivostok habit. |
+| Scene transitions | 9/10 | Clean horizontal rules; each scene deepens the observation |
+| Sentence variety | 9/10 | Strong bimodal — fragments ("Sixty-two percent.") to 60+ word atmospheric passages |
+| Paragraph rhythm | 9/10 | Dense observational blocks alternating with single-line operational punches |
+| Scene transitions | 9/10 | Garrison → Sump → junction → garrison; spatial architecture mirrors moral architecture |
+| Motif integration | 9/10 | Hum (8.1 bookend), field log, after-action report, copper smell, lattice boundary, pen |
+| **Overall Flow** | **9.0/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** 35% (deployment, descent, field observation, instrument readings, extraction coordination)
+- **Reflection:** 65% (Vladivostok memories, routing analysis, suppression decision, dual-record architecture)
+- Appropriate for PRESSURE mode Phase 2 military-operational chapter. Higher action ratio than Ch 11 (45/55 → 35/65) reflects deepening reflective register as Nikolai's complicity evolves.
+
+### Pacing Notes
+
+- **Strengths:** The routing revelation builds through accumulated field data rather than single dramatic moment — each observation (non-radial perimeter, dead-end avoidance, trunk-line priority) adds evidence until Kowalski names it. The dual-record scene (Scene 4) is the chapter's rhythmic payoff — the action stops, the institutional machinery takes over, and the silence between the two records is where the horror lives. "It did not sound right" as closing echo of Ch 11 completes the acoustic bookend.
+- **Concerns:** Dialogue at ~13% is within range but the Kowalski exchanges could carry slightly more weight. The routing revelation is technical — watch for reader comprehension of conduit infrastructure vocabulary.
+- **Recommendations:** PRESSURE subtype confirmed: **military-operational / infrastructure-horror** (field observations as scene architecture, conduit routing as tension engine, dual-record as moral architecture). Cross-link with Ch 19 (Aurielle): "someone had decided, this quarter, did not need to be repaired" — the deferrals that Aurielle signed enable the void routing Nikolai observes.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2, PRESSURE, 4–5.5K words)
+- Adjacent chapter contrast: ✅ (Ch 19 = Aurielle/TEXTURE/corporate-institutional → Ch 20 = Nikolai/PRESSURE/military-operational → Ch 21 = TBD)
+
+### Comparison to Previous Nikolai Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 11 | 4,500 | PRESSURE | 8% | 3→7→5 | 9.0 | 45/55 |
+| **Ch 20** | **4,600** | **PRESSURE** | **~13%** | **3→5→7→8→4** | **9.0** | **35/65** |
+| Ch 38 | 5,200 | PRESSURE | 12% | 4→6→9→7→5 | 9.0 | 25/75 |
+
+Arc: Word count increasing as deployments intensify. Dialogue improving (8→13→12%). Tension peaks escalating (7→8→9) — each deployment reveals more. Action ratio decreasing (45→35→25%) — more reflection as complicity deepens. Flow consistently 9.0. All three chapters PRESSURE mode — Nikolai's POV is structurally consistent.
 
 <!-- INSERT_NEXT_ANALYSIS -->

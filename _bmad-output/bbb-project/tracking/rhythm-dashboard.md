@@ -41,6 +41,7 @@ project_name: "Untitled"
 | **B2: AEGIS-1** | AEGIS | 2,800 | N/A | 0% | 3→8→10→6→3 | 9.0 | 0/100 | ✅ |
 | **B2: AEGIS-2** | AEGIS | 3,400 | N/A | 2% | 3→5→7→10→8→3 | 9.2 | 0/100 | ✅ |
 | **19** | Aurielle | 4,300 | TEXTURE | ~11% | 2→7→6→3 | 9.0 | 20/80 | ✅ |
+| **20** | Nikolai | 4,600 | PRESSURE | ~13% | 3→5→7→8→4 | 9.0 | 35/65 | ✅ |
 | 15–17,21–22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
@@ -61,7 +62,7 @@ project_name: "Untitled"
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 8/12 | 8/12 | 8.7 | 4.9 | 2P/6T | 📝 |
+| Phase 2 | 9/12 | 9/12 | 8.8 | 5.0 | 3P/6T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 1/7 | 1/7 | 9.2 | 4.0 | 0P/1T | 📝 |
@@ -69,4 +70,4 @@ project_name: "Untitled"
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 46 — "Congratulations" rhythm analysis_
+_Updated by: Chapter 20 — "The Crack" rhythm analysis_

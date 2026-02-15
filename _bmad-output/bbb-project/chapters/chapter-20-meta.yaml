@@ -1,0 +1,115 @@
+---
+chapterNumber: 20
+title: "The Crack"
+pov: "Nikolai Volkov"
+phase: 2
+mode: PRESSURE
+wordCount: 4600
+scenes: 4
+status: v1-complete
+completedDate: "2026-02-15"
+draftVersion: 1
+
+# Epigraph
+epigraph_source: "Resonance and Ruin"
+epigraph_text: "Field Note 41: The propagation followed the conduit junction sequence. Not the direct path — the infrastructure path."
+epigraph_thread: "Scientific observer noting void infrastructure routing — institutional dismissal (SOP 7.1)"
+
+# Rhetoric Reference
+rhetoric_reference: "After-Action Report Form VS-7 — 500-character anomalous observations field"
+
+# Scene Structure
+scenes_detail:
+  - scene: 1
+    location: "Garrison quarters → Staging Bay 3"
+    action: "Deployment order received; field log reviewed; briefing — Sector 9-East breach with non-radial propagation"
+    characters: ["Nikolai", "Stalker-7 unit"]
+    tension: "3/10 → 5/10"
+  - scene: 2
+    location: "Sump Sector 9 — evacuation zone and breach perimeter"
+    action: "Descent into Sump; encounter translucent infrastructure; Kowalski reports non-uniform lattice advancement"
+    characters: ["Nikolai", "Kowalski", "Scanner team"]
+    tension: "5/10 → 7/10"
+  - scene: 3
+    location: "Junction node 9-14"
+    action: "Two absorbed maintenance workers found; routing confirmed — lattice follows conduit network; Kowalski observes 'going around us'"
+    characters: ["Nikolai", "Kowalski", "Okonkwo", "Patil", "Scanner team"]
+    tension: "7/10 → 8/10"
+  - scene: 4
+    location: "Garrison quarters"
+    action: "Dual-record writing — after-action report (lie) vs field log (truth); first active suppression"
+    characters: ["Nikolai (alone)"]
+    tension: "8/10 → 4/10"
+
+# Key Events
+keyEvents:
+  - "Stalker-7 deployed to Sump Sector 9-East — first Sump operation"
+  - "Void propagation follows conduit infrastructure — bypasses dead-end corridors, prioritizes trunk-lines"
+  - "Kowalski observes routing pattern independently: 'It's going around us. Toward the trunk-lines.'"
+  - "Two maintenance technicians absorbed at junction 9-14 — night shift workers"
+  - "RCI peak: 24.1 at junction — highest Nikolai has personally recorded outside Deep Sump"
+  - "After-action report: 'No anomalous observations' — first active suppression (escalation from Ch 11 passive omission)"
+  - "Field log records: 'The pattern is not diffusion. It is routing.'"
+  - "Gap → crack → fault line metaphor tracks dual-record erosion"
+
+# Characters
+characters:
+  nikolai:
+    role: POV
+    arc_state: "Phase 2/5 — suppression deepening"
+    key_moment: "Types 'No anomalous observations' knowing it's a lie"
+    coherence_score: 9.5
+  kowalski:
+    role: Supporting
+    arc_state: "Phase 2/5 — questions sharpening"
+    key_moment: "'It's going around us. Toward the trunk-lines.'"
+    coherence_score: 9.0
+  stalker_7:
+    role: Supporting (unit)
+    key_detail: "Fully manned (Yeung back); Rask did not ask about mage liaison"
+    coherence_score: 8.5
+
+# New Elements
+newElements:
+  locations:
+    - "Sump Sector 9-East — residential core on first-generation conduit infrastructure"
+    - "Junction node 9-14 (Sump) — trunk-line intersection, three primary conduits"
+    - "Junction node 9-17 (Sump) — downstream trunk-line junction"
+  objects:
+    - "VS-7 After-Action Report Form — 500-character anomalous observations field"
+    - "CPCC — Conduit-Proximate Coherence Channeling (VEC-STK-2169.4)"
+  concepts:
+    - "Void routing — non-radial lattice propagation following conduit infrastructure"
+    - "Active suppression vs passive omission — escalation of complicity"
+    - "Dead-end avoidance — lattice discriminates between corridor types"
+
+# Continuity
+continuityFlags:
+  - "Kowalski's routing observation shared within Stalker-7 — unit dynamics affected"
+  - "Sector 9 breach mobile (4 m/min) — VEC monitoring requested; track status"
+  - "CPCC now in Nikolai's doctrinal vocabulary — track usage"
+  - "Two absorbed technicians at junction 9-14 — possible Fuxi connection (municipal workers)"
+  - "Field log entry explicitly says 'It is routing' — damning if found"
+  - "Active suppression escalation: Ch 11 (passive) → Ch 20 (active) → Ch 23 (next)"
+  - "Rask stopped asking about mage liaison — institutional contagion"
+  - "Extraction team not cleared — breach still mobile at chapter end"
+  - "Ch 19 cross-link: deferred maintenance enables void routing through degraded junctions"
+
+# Thematic Profile
+themes:
+  dominant: ["Systemic Complicity", "Architecture of Power"]
+  strong: ["Truth as Weapon"]
+  moderate: ["Progress Requires Atrocity", "Irrelevance of Individual Being", "Commodification of Suffering"]
+  background: ["What We Owe", "Where Identity Ends"]
+
+# Style Audit
+auditResults:
+  styleAudit: "12/12 pass (3 fixes applied: Mirelle leak, 2 NbA trims)"
+  characterAudit: "Average 9.0/10 (Nikolai 9.5, Kowalski 9.0, Unit 8.5)"
+  continuityCheck: "20/20 items verified"
+  thematicAnalysis: "Complete — 8 themes tracked"
+
+# Files
+auditFile: "tracking/audit-chapter-20.md"
+themeFile: "tracking/chapter-20-themes.md"
+---

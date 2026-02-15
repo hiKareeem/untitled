@@ -755,4 +755,4 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 38 — "Perimeter" bible update_
+_Updated by: Chapter 20 — "The Crack" bible update_

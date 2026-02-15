@@ -140,7 +140,13 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Ch 4:** Fuxi returns from Deep Sump shift. Residential corridor and apartment details established. Nuwa absent (textile recycling second shift, ends 20:00). Fuxi sits in the hum and thinks about monitor 6.
 - **Ch 8:** First shared domestic scene — Fuxi and Nuwa together in the apartment. Nuwa cooking (early rotation, 06:00-14:00). Boot-mat ritual. P-3 / Mid-Level transfer argument. Shimmer near Hum Market conduit access points — neither names it ("Normal crowd"). Jun's multitool first prose appearance. Nuwa's shift details confirmed (this rotation: early). Municipal advisory updated twice ("Ambient hum levels within certified tolerance").
 - **Ch 16:** Nuwa's transfer plan progressing — the apartment at its most domestic and hopeful. Fuxi withholds the private log from Nuwa. Closes on the blue textile with the file open on the cracked frame. The apartment as site of competing architectures: rising (Nuwa's plan) and counting (Fuxi's log).
+- **Ch 20:** Stalker-7 deployed to Sump Sector 9-East — first Sump operation. Breach propagation non-radial: lattice follows conduit infrastructure, bypasses dead-end corridors, prioritizes high-throughput trunk-lines and junction nodes. Two maintenance technicians absorbed at junction node 9-14 (night shift, 02:15). RCI peak 24.1. Lattice advancing at 4 m/min along trunk-line toward junction 9-17. Absorbed: eleven percent metabolic/neural baseline (canonical). Breach still mobile at chapter end — extraction team not cleared.
 - **Ch 42:** BLACKWEIR hits Block 14. Power out, hum changes to wet/pressurized, conduit glow drops from orange to nothing. Walkway between Building 14 and Building 11 (4th floor, metal grating) — people absorbed into infrastructure (embedded, not dissolved). Mrs. Huang's laundry still on the line. Neighbor's hand on Nuwa's frosted polymer window — textile reclamation staining, drawn into the polymer. Nuwa descends via back stairwell (masonry walls, not metal framing) to masonry annex (ground floor, Block 14 — poured concrete, manual door on wooden frame, no electronic lock, no conduit connections). Coherence spike (11 seconds) passes through masonry. Violet glow replaces orange conduit glow. Post-spike: hum "fuller" — contains more than building resonance should.
+
+**New sub-locations (Ch 20):**
+- **Sector 9-East:** Sump residential core on first-generation conduit infrastructure. Higher baseline vibration than other sectors due to trunk-line proximity. Evacuation zone established during Ch 20 breach. Boot mat with one boot missing in an apartment doorway — Sump domesticity interrupted.
+- **Junction node 9-14:** Trunk-line intersection, three primary conduits converging. Site of two absorbed maintenance technicians (night shift, 02:15). RCI peak 24.1 — highest Nikolai has recorded outside Deep Sump. Lattice boundary 1.8m. Lattice extending northeast along trunk-line toward 9-17.
+- **Junction node 9-17:** Downstream trunk-line junction northeast of 9-14. Patil's L-Frame held position here. Lattice advancing toward this node at 4 m/min at chapter end.
 
 **New sub-locations (Ch 42):**
 - **Walkway (Building 14 ↔ Building 11):** 4th floor metal grating connection. 18m gap between buildings (ventilation corridor per original construction codes for conduit heat dissipation). Emergency strips on railing (non-functional during BLACKWEIR). Absorption site.
@@ -720,5 +726,5 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-_Last updated: 2026-02-12 (AEGIS-2 "Converged")_
-_Updated by: AEGIS-2 bible update_
+_Last updated: 2026-02-15_
+_Updated by: Chapter 20 — "The Crack" bible update_
