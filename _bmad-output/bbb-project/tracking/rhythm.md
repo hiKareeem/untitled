@@ -2111,4 +2111,95 @@ Ch 18 is a deliberately lower-tension chapter than Ch 10. The debut needed the s
 
 > **Dashboard moved to `tracking/rhythm-dashboard.md`** for faster Step 06 updates.
 > This file contains full per-chapter rhythm analyses only.
+---
+
+## Chapter 46 — "Congratulations" (Aurielle Vasquez)
+
+**Phase:** 5 (Radiation) | **Mode:** TEXTURE | **Subtype:** corporate/institutional
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,700 | 4000-5500 | ✅ |
+| Scenes | 4 | 3-5 | ✅ |
+| Paragraphs | ~65 | — | — |
+| Dialogue % | ~14% | 15-20% | ⚠️ (restored from <10% Phase 4 run; structurally constrained by solo Scenes 3-4) |
+| Avg sentence length | ~14 words | Bimodal | ✅ |
+| Fragment % | ~18% | 20-25% | ⚠️ (appropriate for TEXTURE mode) |
+| NbA count | 7 | 6-8 (Aurielle) | ✅ |
+
+### Tension Curve
+
+```
+Scene 1 (Boardroom):    ███░░░░░░░  3 → rising through commendation
+Scene 2 (Corridor):     ████░░░░░░  4 → SHEPHERD seed
+Scene 3 (Office):       ██████░░░░  6 → hum thinner = normal, small voice merged
+Scene 4 (Window):       ███░░░░░░░  3 → institutional continuation
+```
+
+Tension profile: 3→4→6→3 — TEXTURE mode with internal peak at Scene 3 (identity dissolution). No external crisis; the horror is normalcy.
+
+### Beat Map
+
+| Beat | Position | Tension | Description |
+|------|----------|---------|-------------|
+| Board meeting opens | 0% | 3 | Same room, same temperature, same architecture |
+| Stock ticker | 8% | 3 | NTRC +3.7% — market absorbed genocide |
+| "Not applicable" | 15% | 4 | Medical staging language erasing reality |
+| Commendation vote | 25% | 4 | Unanimous — institutional validation |
+| Corridor walk | 35% | 4 | Walk motif 4th iteration; Thorne as equal |
+| SHEPHERD seed | 42% | 5 | "Opportunities" — Anchor Zone assessment |
+| Eduardo's office | 50% | 5 | Sandalwood fading, chair impression intermediate |
+| The feed | 60% | 5 | All data at same priority |
+| Hum thinner = normal | 70% | 6 | "That was worse" — adaptation as horror |
+| Small voice merged | 78% | 6 | "The partition had never existed" |
+| Executive balcony | 85% | 4 | Looked at, not opened |
+| "The Chair opened the next report" | 100% | 3 | Title replaces name — continuation |
+
+### Transitions
+
+- **Scene 1→2:** Section break. Board meeting → corridor. Smooth institutional flow.
+- **Scene 2→3:** Section break. Corridor → Eduardo's office. Thorne departs — solitude begins.
+- **Scene 3→4:** Continuous. Office interior → window → balcony glance → desk return. Internal movement.
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Sentence variety | 9/10 | Strong bimodal — fragments to 50+ word accumulations |
+| Paragraph rhythm | 9/10 | Dense institutional blocks alternating with single-line punches |
+| Scene transitions | 9/10 | Clean breaks, institutional continuity |
+| Motif integration | 10/10 | Walk, hum, small voice, chair, sandalwood, slide 17, handkerchief — all present |
+| **Overall Flow** | **9.2/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** 15% (board meeting mechanics, corridor walk, desk actions)
+- **Reflection:** 85% (institutional processing, sensory adaptation, identity dissolution)
+- Appropriate for TEXTURE mode Phase 5 radiation chapter.
+
+### Pacing Notes
+
+- **Strengths:** Motif density is the highest of any Aurielle chapter — every established motif appears and evolves. The tension curve is deliberately flat (TEXTURE/radiation mode) with the internal peak at exactly the right moment (identity dissolution). Dialogue restoration significant after six consecutive chapters with <10%.
+- **Concerns:** Dialogue at ~14% still slightly below 15-20% target, but structurally constrained — Scenes 3-4 are solo. The six-chapter dialogue drought is broken.
+- **Recommendations:** TEXTURE subtype confirmed: **corporate/institutional** (board meeting as scene architecture, institutional language as horror engine, stock ticker as automated rhetoric). First Phase 5 chapter establishes the radiation mode baseline.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 5, TEXTURE, 4-5.5K words)
+- Adjacent chapter contrast: ✅ (Ch 45 = Zeyad/TEXTURE/institutional-procedural → Ch 46 = Aurielle/TEXTURE/corporate-institutional → Ch 47 = TBD)
+
+### Comparison to Previous Aurielle Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 1 | 5,200 | PRESSURE | 11% | 2→10→3 | 9.2 | 40/60 |
+| Ch 7 | 5,300 | TEXTURE | 10% | 2→4→7→5 | 8.8 | 25/75 |
+| Ch 12 | 5,400 | PRESSURE | 15% | 2→8→5 | 9.0 | 20/80 |
+| Ch 37 | 5,100 | PRESSURE | ~8% | 3→6→9→4 | 9.2 | 15/85 |
+| **Ch 46** | **4,700** | **TEXTURE** | **~14%** | **3→4→6→3** | **9.2** | **15/85** |
+
+Arc: Word count decreasing as Aurielle compresses. Tension peaks decreasing (10→8→9→6) — the external stakes diminish as internal horror deepens. Dialogue restored. Flow consistently high (8.8-9.2). Reflection-dominant throughout.
+
 <!-- INSERT_NEXT_ANALYSIS -->
