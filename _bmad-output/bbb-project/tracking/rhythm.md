@@ -3006,3 +3006,100 @@ This is the correct ratio for Sofia — her "action" is cognitive, her "reflecti
 **Arc:** Sofia's chapters are compressing (length declining), dialogue declining toward zero, NbA technique intensifying, flow improving. The trajectory is toward a pure interior discovery mode. Ch 27 is the current terminus of this arc — the moment the scientific method produces a result the institution will suppress.
 
 <!-- INSERT_NEXT_ANALYSIS -->
+
+## Chapter 32: "Class Three" — Nikolai Volkov (PRESSURE)
+
+### Basic Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~5,500 | 4,000–5,500 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~72 | — | — |
+| Dialogue % | ~15% | 10–20% | ✅ |
+| Avg sentence length | ~14 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~18% | 15–25% | ✅ |
+
+### Beat Map
+
+1. [2%] HOOK — Deployment briefing: Class Three, Sector 7, "largest incursion in the unit's operational history" → +1
+2. [5%] TEXTURE — Garrison briefing room; unit deployment geometry; Jarek as secondary scanner → 0
+3. [10%] DESCENT — Transit to Sector 7; hum deepening; RCI climbing through corridors → +1
+4. [15%] DATA — North trunk-line lattice propagation; RCI 32-34; gradient tracking → +1
+5. [22%] ORDER — Nikolai sends Jarek to forward position for trunk-line readings → +1
+6. [28%] OBSERVATION — Jarek reports from forward: "bypassing dead-ends, trunk-line only" → +1
+7. [33%] REVEAL — "It's not spreading. It's *navigating.*" → +2
+8. [38%] CRISIS — Panel blows; Jarek's P-Frame shielding compromised to 40% → +2
+9. [42%] RESPONSE — Nikolai drags Jarek back; reports to Command → 0
+10. [48%] ESCALATION — Residential blocks absorbing in sequence; civilian band screaming → +1
+11. [55%] PIVOT — Jarek: "What are we doing?" / "We're not protecting anyone." → +1
+12. [62%] INSTITUTIONAL — "The containment zone will not be reinforced." Command abandons Sector 7 → +1
+13. [70%] HOLDING — Perimeter held while lattice completes absorption; hum resolves → -1
+14. [78%] TRANSITION — Garrison; desk; two documents → -2
+15. [85%] DUAL RECORD — After-action report: writes "non-random distribution," deletes to "none" → +1
+16. [90%] PRIVATE RECORD — Field log: "navigating." The word the doctrine doesn't use → 0
+17. [95%] CLOSING — Hands steady. Pen still. Gap wider. → -1
+
+**Beat density:** 1 per ~325 words — high density for PRESSURE mode, driven by field observations, Frame damage crisis, and dual-record architecture
+
+### Tension Curve
+
+```
+10 |
+ 9 |           ★  ★
+ 8 |        ●        ●
+ 7 |     ●              ●
+ 6 |                       ●
+ 5 |  ●                       ●
+ 4 |                             ●
+ 3 | ●                              ●
+ 2 |
+ 1 |
+   +--+--+--+--+--+--+--+--+--+--+--→
+     O  1  2  3  4  5  6  7  8  9  C
+
+O=Briefing, 1=Descent, 2=Forward position, 3="Navigating",
+4=Panel/Frame damage, 5=Absorptions, 6="What are we doing?",
+7=Not reinforced, 8=Holding, 9=Dual record, C=Closing
+```
+
+**Shape:** Sustained plateau with twin peaks (3→7→9→9→6→5→3) — tension builds through accumulated field observations, peaks at Frame damage + "navigating" revelation, sustains through absorption horror and moral crisis, descends through institutional processing. Unlike Ch 20's operational ramp (3→8→4), Ch 32 holds its peak longer — the scale of the incursion prevents the usual descent into documentation until Scene 4.
+
+### Flow Assessment
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Opening hook | 9/10 | "Class Three" as deployment classification — immediate stakes escalation |
+| Scene transitions | 9/10 | Clean horizontal rules; spatial movement mirrors moral escalation |
+| Sentence variety | 9/10 | Strong bimodal — fragments ("Forty percent.") to 80+ word guilt-architecture passages |
+| Paragraph rhythm | 9/10 | Dense observational blocks alternating with single-line operational/moral punches |
+| Motif integration | 9/10 | Hum, field log, after-action report, amber HUD, hands steady, gap wider |
+| **Overall Flow** | **9.0/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** 40% (deployment, field operations, Frame damage, perimeter enforcement, civilian band monitoring)
+- **Reflection:** 60% (routing analysis, guilt processing, moral vertigo, dual-record architecture, closing meditation)
+- Higher action ratio than Ch 20 (35/65) — the scale of the incursion demands more operational scenes. The Frame damage crisis adds a physical action beat absent from previous Nikolai chapters.
+
+### Pacing Notes
+
+- **Strengths:** The Frame damage scene (lines 258-298) is the chapter's rhythmic fulcrum — the order, the trust, the explosion, the guilt, all compressed into ~400 words. "What are we doing?" lands harder because Jarek is asking with compromised shielding. The dual-record closing (Scene 4) mirrors Ch 11 and Ch 20 but with escalated falsification: Nikolai now writes the truth *and deletes it*, rather than simply omitting. The gap-wider motif completes the trilogy (gap → crack → wider).
+- **Concerns:** Dialogue at ~15% is the highest of Nikolai's chapters — justified by the Jarek exchanges and Command comms but monitor for drift. The chapter is at the upper end of the word count target.
+- **Recommendations:** PRESSURE subtype confirmed: **military-operational / infrastructure-horror / guilt-architecture** (Frame damage as scene fulcrum, routing revelation as intellectual peak, perimeter as moral architecture). Cross-link with Ch 38: Nikolai's guilt from the forward position order directly motivates the "safest position" assignment that gets Jarek absorbed.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 3, PRESSURE, 4–5.5K words)
+- Adjacent chapter contrast: ✅ (Ch 31 = Kira/TEXTURE/performance-domestic → Ch 32 = Nikolai/PRESSURE/military-operational → Ch 33 = Sofia/TBD)
+
+### Comparison to Previous Nikolai Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 11 | 4,500 | PRESSURE | 8% | 3→7→5 | 9.0 | 45/55 |
+| Ch 20 | 4,600 | PRESSURE | ~13% | 3→5→7→8→4 | 9.0 | 35/65 |
+| **Ch 32** | **5,500** | **PRESSURE** | **~15%** | **3→7→9→9→6→3** | **9.0** | **40/60** |
+| Ch 38 | 5,200 | PRESSURE | 12% | 4→6→9→7→5 | 9.0 | 25/75 |
+
+Arc: Word count increasing as deployments intensify (4,500→4,600→5,500→5,200). Dialogue steadily rising then dropping (8→13→15→12%) — Ch 32 is the peak, driven by Jarek exchanges and Command comms; Ch 38 drops as Jarek is absorbed. Tension peaks escalating (7→8→9→9) — Ch 32 and Ch 38 share the peak but Ch 32 sustains it longer. Action ratio oscillates (45→35→40→25%) — Ch 32's Frame damage adds a physical action beat. Flow consistently 9.0. All four chapters PRESSURE mode — Nikolai's POV is structurally consistent. Guilt architecture introduced in Ch 32 (absent from Ch 11/20) carries directly into Ch 38.

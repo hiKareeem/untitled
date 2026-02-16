@@ -503,6 +503,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 26 | Identity (Strong), Irrelevance (Strong), Architecture (Strong), Obligation (Moderate), Complicity (Moderate), Truth (Moderate), Commodification (Background), Atrocity (Background) | Nephthys arrival in Neo-Shanghai; Cathedral sealed by Luminarch; chorus resolves; "third option" theology; dramatic irony with Ch 25 |
 | Ch 24 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Moderate), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Identity (Background) | Below Level 12: hidden NitroCore infrastructure (2171-2173). RCI gradient 34.6→41.3. Form 14-C as "the system's syntax for disappearance." Dead-hand deposit growing. |
 | Ch 28 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Fuxi POV — Kindling network meeting. 47 flood valves. Nuwa's transfer denied (14-J). Log evolves. |
+| Ch 32 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), What We Owe (Moderate), Irrelevance (Moderate), Commodification (Background), Identity (Background) | Nikolai POV — Class Three, Sector 7. Routing as navigation confirmed. Jarek's P-Frame damaged by Nikolai's order. "What are we doing?" Falsification escalation. Gap wider. |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -752,6 +753,15 @@ This bible dimension tracks **theme evolution**:
 | Ch 30 | Practiced smile (involuntary) | Appears without being summoned — "He did not remember putting it there" | Composure as reflex, not choice |
 | Ch 30 | Portrait touch (deliberate) | NOT touched in corridor (symbolic rupture); deliberately touched in closing (burden acknowledged) | Ch 6/17: ritual calibration → Ch 30: grief |
 | Ch 30 | "Be careful" | First unprocedural statement to Mirelle — vulnerability across institutional boundary | Mirelle recognizes the shift immediately |
+| Ch 32 | "It's *navigating.*" | Truth, Architecture | The word the doctrine doesn't use — naming void intelligence |
+| Ch 32 | Panel explosion / 40% shielding | Complicity, Atrocity | Nikolai's order causes the damage — guilt as architecture |
+| Ch 32 | "What are we doing?" | Complicity, Truth | The question that names the perimeter's true function |
+| Ch 32 | Amber HUD status | Complicity, What We Owe | Persistent visual reminder of commander's responsibility |
+| Ch 32 | "The containment zone will not be reinforced" | Architecture, Atrocity | Command abandoning sectors — institutional triage |
+| Ch 32 | Civilian band (screams → silence → hum) | Atrocity, Irrelevance | Absorption perceived through audio channel — the sound of six thousand |
+| Ch 32 | "Non-random distribution" (written then deleted) | Truth, Complicity | The truth that existed briefly in the institutional record before being erased |
+| Ch 32 | "The gap was wider" | Complicity, Truth | Closing motif — escalation from Ch 20's "crack" to Ch 32's widening |
+| Ch 32 | Hands steady (closing) | Complicity, Identity | Composure as mechanism — "the person inside the steadiness was coming apart" |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

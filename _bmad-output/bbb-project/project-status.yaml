@@ -444,6 +444,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Zeyad POV (3rd appearance). Emergency UGC session — Neo-Shanghai escalation. Invokes Article 7, Section 3 (first invocation in 11 years). NitroCore Legal counsel invokes Section 14 sovereign consent ('where practicable' as veto). Committee votes 23-3 to continue monitoring with enhanced briefing cadence. Cease-and-desist delivered (Article 12, Section 8). Back-channel exchange with Mirelle: 'The system permits evidence that is individually explicable and collectively invisible. That's not a failure of the record. That's the record's function.' Types 'Be careful' — first unprocedural statement. Notebook full (47 questions), placed on desk not in drawer. Portrait NOT touched in corridor; deliberately touched in closing. Jordanian flag still flickering (9 weeks). 'The mechanism did not exist.' Institutional faith destroyed."
 
-completedCount: 43
-totalWords: 200637
+  chapter_32:
+    title: "Class Three"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 5500
+    completedDate: "2026-02-16"
+    metaFile: "chapter-32-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 3 — Nikolai POV (4th appearance). Class Three containment, Sector 7. Lattice follows conduit trunk-lines — 'It's not spreading. It's *navigating.*' Nikolai orders Jarek to forward position; panel explosion compromises P-Frame shielding to 40%. Six residential blocks absorbed (~6,000 people); perimeter prevents egress. 'What are we doing?' / 'We're following the protocol.' Command: 'The containment zone will not be reinforced.' After-action report: writes 'non-random distribution' then deletes to 'anomalous observations: none' — falsification escalation. Field log records 'navigating.' RCI peak 46.2. Deployment Q1-0428. Guilt architecture → Ch 38 'safest position.'"
+
+completedCount: 44
+totalWords: 206137
 lastUpdated: "2026-02-16"

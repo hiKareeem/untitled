@@ -778,7 +778,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Personal datapad, digital entries
 - Function: The most comprehensive firsthand void behavior dataset in existence — 15 years of observations from breach zones across multiple continents and strata
-- Condition: Active, growing. Entries span Vladivostok (2161), Baltic corridor (2170), Neo-Shanghai Mid-Levels (Ch 11), Sump Sector 9-East (Ch 20), BLACKWEIR perimeter (Ch 38)
+- Condition: Active, growing. Entries span Vladivostok (2161), Baltic corridor (2170), Neo-Shanghai Mid-Levels (Ch 11), Sump Sector 9-East (Ch 20), Sector 7 Class Three (Ch 32), BLACKWEIR perimeter (Ch 38)
 
 **Significance:** The field log is where the dual-record architecture lives — the private language that cannot contaminate the institutional record. It parallels Sofia's personal archive (14+1 entries), Fuxi's private log (RCI correlations), Mirelle's dead-hand cache, and Zeyad's notebook drawer. All five POVs maintain parallel private records. The field log has no delivery system, no recipient — it exists because not-recording was never an option for Nikolai. "The field log's word was *listening*."
 
@@ -810,6 +810,7 @@ An object deserves documentation if it:
 **History:**
 - Ch 11: Nikolai signs after-action report — institutional record complete, field log records the truth. "The pen did not shake."
 - Ch 20: "No anomalous observations" typed into the 500-character field — first active suppression (Ch 11 was passive omission). Nikolai looks at the sentence and knows it is a lie.
+- Ch 32: Writes "non-random distribution" in the narrative section, reads it, deletes it, replaces with "anomalous observations: none." Escalation: passive omission (Ch 11) → active suppression (Ch 20) → deliberate falsification (Ch 32). The gap between what the report says and what the field log says is now a fabrication, not an omission.
 - Ch 38: "Anomalous resonance observation: none" — active institutional lie. Evolution complete. Field log blank.
 
 ---
