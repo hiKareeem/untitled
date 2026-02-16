@@ -604,10 +604,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 1→2/5 (Equilibrium → Disruption — catalyst arrives)
-- Emotional State: Avoidance broken by evidence weight. Engaging reluctantly. Lumina: daily 40mg routine, extra 15mg bump crept to twice/week. Numb fingertips intermittent (worsening). Hum described as "tighter" — aligning, organizing. Still tells herself she's in control.
-- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is." (cracking — the mages contacting her redefine her platform as network, not performance)
-- Internal Contradictions: Uses performance as armor; substitutes audience for intimacy. Hard line on Lumina ("never at work") holds — for now. The bump frequency is the crack she won't examine.
+- Phase: 2→3/5 (Disruption → Struggle — active investigation begins)
+- Emotional State: Filing system breaking. Geographic amplification in Neo-Shanghai proved the hum is environmental, not personal — the institutional explanation is wrong and she knows it. Hands shaking (new). Fingertip dropout ulnar distribution (ring + little). Performer persona fails to contain the data backstage. Sent "It's words" to mage network. No longer in denial about the signal; still in denial about what the signal means.
+- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is." (breaking — the hum in Neo-Shanghai doesn't care about the platform)
+- Internal Contradictions: Uses performance as armor; the armor failed backstage. Files everything — the tremor is "a data point she could not file." Named the signal ("words") before she was ready to understand it.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -626,19 +626,24 @@ This bible dimension tracks **current character states**:
 | Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
 
 **Current Arc:** Performer → Witness
-- Current Phase: 2/5 (Disruption — catalyst arrived)
-- Progression: Seeds germinating. Four mages reported structured signals. Priya's Ch 10 question answered ("Yeah. I felt it."). Kira engaged — responding to mages, connecting accounts, violating Section 14.3. Still in denial about Lumina. The network is forming around her.
-- Next Step: Next Kira chapter — the mage network develops; Kira's engagement deepens; the "tighter" hum evolves; institutional pushback begins.
+- Current Phase: 3/5 (Struggle — active investigation)
+- Progression: Geographic amplification confirmed in Neo-Shanghai. Performer persona barely held during panel; collapsed backstage. Pill sorting as grounding ritual. Hum assessed as "structured" — articulate, phrasing, directional. Sent "It's words" to mage network — the naming that catalyzes the next phase. Hands shaking (new symptom). The filing system that kept her functional is breaking.
+- Next Step: Ch 43 (already written) — BLACKWEIR coherence spike mid-stream, 847K viewers, the hum goes "full." The gap between Ch 31 and Ch 43 is the gap between naming and overwhelm.
 
-**Recent History (Ch 18):**
+**Recent History (Ch 31):**
+- Monthly pharmacy pickup in Bay Area — the one transaction where she's a patient, not a celebrity. Upper-end dosages. Carried medications in carry-on to Neo-Shanghai.
+- Neo-Shanghai arrival: hum changed immediately. Denser, more resolved, each harmonic snapping into precision. R3 implant housing warm (running at capacity). Geographic amplification — proximity to dense conduit infrastructure intensifies the signal.
+- Academy promo panel ("Mage Perspectives: Cultural Engagement in a Connected World"): managed on-camera. Hum spike mid-answer — jaw locked, smile held, audience didn't notice. Backstage: hands shaking (new symptom, escalation from fingertip dropout).
+- Hotel room (Spire Meridian, 32nd floor): pill sorting ritual as grounding (30-day holder, click click click). Assessed hum in silence — "structured," "articulate," "phrasing." The signal is organized, directional, using infrastructure as medium.
+- Sent message to mage network: "It's louder here. Much louder. Does anyone else feel like it's words?" — twelve words. The naming. Someone responded (three dots → message). She wasn't the only one.
+- Fingertip dropout now ulnar distribution (ring + little, ~2 seconds). Tremor in both hands (new — indistinguishable from hum vibration). Chord shapes evolving: D minor, A diminished, E-flat something.
+- Hum evolution: Ch 10 "thicker" → Ch 18 "tighter" → Ch 31 "stronger, more structured / articulate / phrasing / words" → Ch 43 "full."
+
+**Previous History (Ch 18):**
 - Post-stream routine: numb fingertips now intermittent (worsening — three or four times per session). Files it. Performer shutdown. Lumina: 40mg nightly, bump (15mg) twice/week now.
-- Four private messages from Academy mages outside her friend group: Ren Matsuda (Kyoto — structured signal, four repetitions, ~90-second intervals), Lena Okafor (Lagos/Accra — repeating sequence, "like something was trying to transmit"), Yuki Tanaka (Osaka — "structured input," institutional reluctance), anonymous voice (identifier stripped, steady/afraid, nine years experience, confirmed consistent intervals).
-- Group chat: Dex surfaces Academy health bulletin ("Structured auditory phenomena are artifacts of implant resonance feedback"). Priya challenges Suki's institutional defense; Suki goes silent. Section 14.3 discourages "peer discussion of unverified phenomena."
-- Priya DMs Kira directly: "two other mages contacted me after that night." Validates Ch 10 question.
-- Kira assembles the pattern despite Lumina: four messages + two via Priya + Priya + her. "However she counted it, it wasn't an anomaly."
-- Responds to all four mages (anonymized connection offer) + Priya ("Yeah. I felt it." — three words, not four; edited out "too" = solidarity she wasn't ready for).
-- Hum: "tighter" — aligning, organizing, resolving toward something she can't hear yet. The chord shapes have changed (D minor, A diminished, G suspended).
-- Archive folder now populated. Ring light finally turned off. "Almost certain she was in control."
+- Four private messages from Academy mages outside her friend group: Ren Matsuda (Kyoto), Lena Okafor (Lagos/Accra), Yuki Tanaka (Osaka), anonymous voice.
+- Group chat: Academy health bulletin re "structured auditory phenomena." Section 14.3. Priya challenges Suki.
+- Responds to all four mages + Priya ("I felt it."). Hum: "tighter." Archive folder populated. Ring light turned off.
 
 **Previous History (Ch 10):**
 - Streams from Bay Area apartment (fourteenth floor, mid-rise). Ten-hour stream: gameplay, chat, deployment-schedule commentary.
@@ -652,6 +657,7 @@ This bible dimension tracks **current character states**:
 |-------|-------|-----------|
 | 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction (Ch 10); performance as normalcy |
 | 2/5 | Mages contact her — structured signals during incursions | Private mage network forms (Ch 18); avoidance → engagement |
+| 2→3/5 | Neo-Shanghai promo tour — geographic amplification, "it's words" | Active investigation begins (Ch 31); naming the signal |
 | 3/5 | On-stream break — the scream has syntax | Public witness; Academy pushback |
 | 4/5 | Eleven-second broadcast during BLACKWEIR | Carrier for the coherence spike; audience witnesses |
 | 5/5 | Post-broadcast reckoning | The performance layer gone; witness without armor |
@@ -688,7 +694,7 @@ This bible dimension tracks **current character states**:
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
-| Kira | Performer → Witness | 1/5 | Ch 18 — four mages report coherent signals |
+| Kira | Performer → Witness | 3/5 | Ch 31 — geographic amplification, "it's words" message sent |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 

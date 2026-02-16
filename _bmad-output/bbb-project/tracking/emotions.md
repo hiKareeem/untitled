@@ -408,6 +408,18 @@ Kira's debut chapter compresses her entire emotional operating system into a sin
 | Ch 10 — Beat 9 | Alarm → avoidance | Priya's "pull" at 11:30 UTC matches scream timestamp | Starts typing, stops; fingers hover over desk edge making silent chord shapes (C minor, F diminished); closes chat | Group chat moves on without her confirmation |
 | Ch 10 — Beat 10 | Fraying | Quiet room filling back up; pattern-seeking machinery has something specific to say | Returns to bathroom; fifteen milligrams; "Not a dose. A nudge."; doesn't look in mirror | None — alone |
 | Ch 10 — Beat 11 | Suspended waiting | Sitting in streaming chair in the dark; hum thicker | Touches back of neck where implant sits; "It had always been enough." | None — alone; the hum is waiting |
+| Ch 31 — Beat 1 | Relief (micro) | Pharmacy pickup — pharmacist doesn't look up | "Thanks" — meant it more than anything on camera in months | Pharmacist: professional silence; transaction complete |
+| Ch 31 — Beat 2 | Resigned anticipation | Transit station; four hours to flight; HUD scrolling | Leaned against carry-on; pressed fingers to implant housing; "Filed it. Filed everything." | None — alone |
+| Ch 31 — Beat 3 | Physical alarm | Plane lands; hum shifts immediately — half-step, intensified | Jaw tightened involuntary; body's early warning system | None — internal |
+| Ch 31 — Beat 4 | Performer autopilot | Academy liaison at arrivals; institutional choreography | Reflex smile; "Great. Sounds good." Three words. Stopped listening. | Liaison: keeps talking |
+| Ch 31 — Beat 5 | Managed unease | Car through Neo-Shanghai; hum at new density | Touched back of neck (implant housing warm); fingertip dropout (ring + little, 2 sec); fist, opened, fingers worked | None — alone in car |
+| Ch 31 — Beat 6 | Professional suppression (spike) | Hum spike during panel answer — jaw locked half-second | Gripped armrest; smile held; voice held; chord shapes traced against thigh (D minor, A diminished, E-flat) | Audience: didn't notice; moderator: moved on |
+| Ch 31 — Beat 7 | Collapse (extended) | Backstage — performer leaves | Smile fading in stages; posture collapsing; hands shaking (NEW); water bottle put down; palms flat on cold table | Handler: "Car's ready" — she gives it thirty seconds |
+| Ch 31 — Beat 8 | Grounding ritual | Hotel room — pill sorting | Click click click; hands steadied; 30-day holder, bottles lined up, ceremony performed a hundred times | None — alone; the sorting is the point |
+| Ch 31 — Beat 9 | Analytical absorption | Sitting still; hum assessed in silence | "Structured." "Phrasing." Pressed fingers to implant housing (warmer). The word she'd been circling. | None — alone; the revelation is physical |
+| Ch 31 — Beat 10 | Tremor (unfiled) | Pill sorting complete; tremor still there | "A vibration that was hers and wasn't hers"; couldn't tell shaking from hum; "a data point she could not file" | None — alone |
+| Ch 31 — Beat 11 | Impulsive naming | Typing message to mage group on gesture board | Typed, deleted, typed again; twelve words; "words" sitting like a grenade; sent it | Mage network: three dots appear — someone typing |
+| Ch 31 — Beat 12 | Vulnerable waiting | Eyes closed; three dots still there; knees pulled up | Made herself small; performer gone, filer gone; "just Kira, on a bed, in a room" | Three dots resolve — she wasn't the only one |
 
 ---
 

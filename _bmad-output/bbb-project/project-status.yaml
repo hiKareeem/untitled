@@ -414,6 +414,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Fuxi POV (5th appearance). Kindling network meeting (decommissioned pump station, 12 workers, 214 combined years). 47 flood valves revealed (NitroCore, 2171-2173, 'pressure management upgrade'). 'The conduits aren't just power distribution. They're a delivery system. And we've been maintaining it.' Step-function spike sustained 48 hours. 41 disappearances tracked. Black Babel/Wire/Erasure List named. Nuwa's transfer denied (reason code 14-J, retention priority indefinite). Entry 63: log evolves from technical to political. Bench from Ch 22 removed. The Lie fatally wounded."
 
-completedCount: 40
-totalWords: 187237
+  chapter_31:
+    title: "Cultural Engagement"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4500
+    completedDate: "2026-02-16"
+    metaFile: "chapter-31-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Kira POV (3rd appearance). Monthly pharmacy pickup (Bay Area) → Neo-Shanghai for Academy promo tour. Geographic amplification: hum shifts on landing — denser, more resolved, R3 at capacity. Panel managed on-camera; backstage hands shaking (new symptom). Hotel room: pill sorting ritual as grounding (30-day holder). Hum assessed as 'structured,' 'articulate,' 'phrasing' — signal using infrastructure as medium. Message to mage network: 'It's louder here. Much louder. Does anyone else feel like it's words?' — the naming. Fingertip dropout now ulnar (ring + little). Epigraph: Academy travel advisory irony."
+
+completedCount: 41
+totalWords: 191737
 lastUpdated: "2026-02-16"
