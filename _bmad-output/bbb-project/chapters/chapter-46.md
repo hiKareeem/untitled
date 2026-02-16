@@ -211,11 +211,11 @@ She turned to the office door.
 
 ---
 
-The sandalwood was fainter.
+The sandalwood was gone.
 
-Three days. The atmospheric scrubbers had been cycling through a full environmental purge — standard post-event maintenance protocol, the building's systems processing the elevated particulate from the infrastructure activation below. Nobody had intended to scrub Eduardo's cologne from the office. The system had done it as a side effect. The same system that processed everything — the quarterly, the authorization, the aftermath — had processed the dead man's scent as particulate and reduced it.
+It had been gone for weeks — the atmospheric scrubbers had processed the last molecular trace before BLACKWEIR, before the authorization, before the alternatives analysis confirmed what she had already known. Nobody had intended to erase Eduardo's cologne from the office. The system had done it without intent. The same system that processed everything — the quarterly, the authorization, the aftermath — had processed the dead man's scent as particulate and erased it.
 
-She could still smell it. Fainter. A residue rather than a presence.
+She could not smell it. Not even a residue. The office smelled like a room.
 
 She sat at the desk. Spanish walnut. Shipped from Cádiz, where the Vasquez name started. The desk chair received her — the same hydraulic response, the nanite-threaded leather adjusting to her weight and temperature and the architecture of a body that had occupied this chair every day for months. Eduardo's impression had been in the leather. She had felt it in the early weeks — the shape of a larger man, the warmth pattern calibrated to a body that would never return. The ghost in the ergonomics.
 
@@ -247,7 +247,7 @@ That was worse than the silence of the small voice. The small voice had stopped 
 
 She was that person.
 
-She opened the evening brief. Thorne's draft — *NitroCore expresses its profound regret for the displacement events associated with the Confluence containment operation and commits to leading the institutional response through immediate humanitarian deployment and long-term infrastructure assessment* — scrolled across the display. She read it. The language was correct. *Displacement events* for absorption. *Containment operation* for BLACKWEIR. *Profound regret* for the thing that lived in the space where Eduardo's sandalwood used to be stronger and the hum used to carry more tones and the small voice used to be a voice instead of the only way she knew how to think.
+She opened the evening brief. Thorne's draft — *NitroCore expresses its profound regret for the displacement events associated with the Confluence containment operation and commits to leading the institutional response through immediate humanitarian deployment and long-term infrastructure assessment* — scrolled across the display. She read it. The language was correct. *Displacement events* for absorption. *Containment operation* for BLACKWEIR. *Profound regret* for the thing that lived in the space where Eduardo's sandalwood used to be and the hum used to carry more tones and the small voice used to be a voice instead of the only way she knew how to think.
 
 She approved the statement. Marked it for release. Closed the brief.
 
@@ -265,7 +265,7 @@ She looked at it. The glass door. The terrace beyond. The city below, invisible.
 
 She did not go to it.
 
-She returned to the desk. Sat. The chair adjusted — the hydraulics, the leather, the temperature regulation, the small mechanical accommodations that the institution made for the body it required. Eduardo's shape in the leather was fainter now. Like the sandalwood. Like the hum's missing tone. The chair was learning her the way the institution had learned her — through presence, through repetition, through the daily accumulation of a body occupying a position until the position and the body were the same shape.
+She returned to the desk. Sat. The chair adjusted — the hydraulics, the leather, the temperature regulation, the small mechanical accommodations that the institution made for the body it required. Eduardo's shape in the leather was almost gone now. Like the sandalwood. Like the hum's missing tone. The chair was learning her the way the institution had learned her — through presence, through repetition, through the daily accumulation of a body occupying a position until the position and the body were the same shape.
 
 She opened the quarterly forecast. New projections. New numbers. The post-BLACKWEIR landscape formatted in the visual language of opportunity and stabilization and long-term infrastructure potential. Slide seventeen was labeled *Anchor Zone: Preliminary Assessment.* She read it from the last page first.
 

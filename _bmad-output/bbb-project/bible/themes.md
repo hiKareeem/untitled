@@ -499,6 +499,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 19 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Obligation (Moderate), Truth (Moderate), Identity (Background), Irrelevance (Background) | First active complicity — signs 7 Sump deferrals. Work Order #2175-1847 (62%, 400 units). Eduardo's 70% violated. Pen motif introduced. "Because she had filed it." |
 | Ch 21 | Truth (Dominant), Architecture (Strong), Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Matched-district analysis — four datasets converging. Editorial policy as designed truth-containment. "The verification standard is the design." Deep Sump access offered. "The twenty-fourth might be mine." |
 | Ch 22 | Complicity (Dominant), Truth (Strong), Commodification (Strong), Architecture (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Phase 2→3 transition trigger. Private log at 62 entries — step-function spike (43.1, sustained, no correction). First in-person Kindling contact: "Your file. Our frame." Wen Zhaoyang disappeared (form 14-C). Chen Wei's doctrine broken — leaves 47 minutes early. VEC-THR-2169.4-D classified cross-reference in automated alert. 500-character notes field as architectural limit. Fuxi releases multitool — identity shift. "Thursday was two days away." |
+| Ch 25 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), What We Owe (Moderate), Truth (Moderate), Identity (Moderate), Irrelevance (Background) | BLACKWEIR introduced — three-generation protocol. Deferrals map to sacrifice zone. Confluence: 6 trunk-lines, 4-6 weeks. "The architecture did not require conspiracy." Sandalwood gone. Small voice = institutional competence. |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -700,6 +701,14 @@ This bible dimension tracks **theme evolution**:
 | "The twenty-fourth might be mine" (Ch 21) | Irrelevance of Individual, Truth as Weapon | Self-count — journalist entering the dataset she built; foreshadows Ch 40 absorption |
 | Chemical-strip green (Ch 21) | Architecture of Power | Talia's meeting lit in decommissioned color — truth exchanged in abandoned institutional spaces |
 | Dead-hand timer numbers (Ch 21) | Truth as Weapon, What We Owe | 26→24→23→20→48 — the rhythm of maintenance as daily structure; survival measured in check-in intervals |
+| The Confluence (Ch 25) | Architecture, Atrocity, Complicity | Six trunk-lines converging beneath Junction 7 — void's infrastructure-following pattern made geographic; the system's crisis mirrors its structure |
+| BLACKWEIR (Ch 25) | Complicity, Atrocity, Architecture | "System management protocol" — institutional vocabulary for genocide; controlled conduit flooding as infrastructure terminology |
+| Absorption sink (Ch 25) | Commodification, Atrocity | The Sump's designation — population as throughput variable; thirteen million as engineering constant |
+| Violet (Ch 25) | Architecture, Commodification | Color beyond institutional palette — readings the classification system cannot contain; the display's limit |
+| Pre-installed charges (Ch 25) | Complicity, Architecture | Filed as "structural reinforcement" — infrastructure always designed to flood; three generations of authorization |
+| "The architecture did not require conspiracy" (Ch 25) | Complicity | Systemic complicity thesis — the system needs competent people, not villains |
+| Alternatives analysis (Ch 25) | Complicity, Truth | Conscience as audit trail — institutional due diligence as complicity mechanism; the document that proves consideration |
+| Three generations (Ch 25) | Architecture, What We Owe | Grandfather Phase One, Eduardo Phase Two, Aurielle Phase Three — institutional debt through inheritance |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

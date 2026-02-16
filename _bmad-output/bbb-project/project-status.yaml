@@ -354,6 +354,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 2→3 transition trigger — Fuxi POV (4th appearance). Step-function spike on monitor 6 (27.1→43.1, 4.7σ, sustained, no correction). First in-person Kindling contact. Wen Zhaoyang disappeared (junction 9, form 14-C). Chen Wei doctrine broken — leaves 47 minutes early. Private log at 62 entries. Multitool released. 'Thursday was two days away.' The Confluence begins its activation gradient."
 
-completedCount: 34
-totalWords: 160900
+  chapter_25:
+    title: "Confluence"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 4500
+    completedDate: "2026-02-15"
+    metaFile: "chapter-25-meta.yaml"
+    mode: PRESSURE
+    notes: "Phase 3 — Aurielle POV (5th appearance). BLACKWEIR introduced as 'system management protocol.' Confluence: 6 trunk-lines converging beneath Junction 7, 4-6 weeks. Three-generation protocol. Evacuation paradox. Deferrals map to BLACKWEIR perimeter. Sandalwood gone. 'The architecture did not require conspiracy.' First Phase 3 chapter written."
+
+completedCount: 35
+totalWords: 165400
 lastUpdated: "2026-02-15"

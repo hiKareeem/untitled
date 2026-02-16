@@ -3,7 +3,7 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-15"
-lastChapter: 22
+lastChapter: 25
 totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"
@@ -478,6 +478,7 @@ An object deserves documentation if it:
 - Symbol of the transaction: Thorne offers control disguised as tenderness; Aurielle accepts because the institution requires it
 - **Ch 7 update:** Bloodstain confirmed — "the bloodstain that wouldn't fully clean because some stains were structural rather than superficial." The handkerchief is in the top left drawer. Aurielle does not open the drawer in Ch 7 — she knows what's inside and choosing not to look is itself a kind of management. "Keeping it was easier than understanding why she'd been given it."
 - **Ch 19 update:** Referenced but not opened. "She did not need anything from it, and the decision she had made this morning was not a decision that required comfort or reassurance or the physical evidence of a debt she could not repay." The drawer is "within reach" — proximity as temptation resisted. The handkerchief's function evolves: Ch 1 (offered), Ch 7 (kept), Ch 19 (acknowledged but denied).
+- **Ch 25 update:** Drawer closed without touching — "the stain that would not lift." Handkerchief present but receding in narrative weight as sandalwood disappears and institutional identity consolidates. Function: Ch 25 (present but untouched — the object persists while Eduardo's sensory traces vanish).
 
 **Current Owner:** Aurielle Vasquez (top left drawer, Eduardo's desk, Eduardo's office)
 

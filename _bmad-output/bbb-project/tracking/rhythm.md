@@ -2566,4 +2566,18 @@ Arc: Word count trending slightly below average but density is high. Dialogue in
 
 Arc: Tension peaks escalating chapter by chapter (5→5→6→9→10) — consistent with Fuxi's arc from routine to radicalization to BLACKWEIR. Dialogue fluctuates but stays low (5-12%), appropriate for Fuxi's internal register. Flow consistently strong. Word count stable. Ch 22 marks the pivot from TEXTURE to the Phase 3 chapters where Fuxi acts — the tension peak of 9 is the highest pre-BLACKWEIR Fuxi chapter, appropriate for the phase transition trigger.
 
+### Aurielle Vasquez — Arc Analysis
+
+| Chapter | Words | Mode | Dialogue | Tension Curve | Flow | A/R Ratio |
+|---------|-------|------|----------|---------------|------|-----|
+| Ch 1 | 5,400 | TEXTURE | 18% | 3→10→4 | 9.0 | 25/75 |
+| Ch 7 | 5,200 | TEXTURE | 15% | 3→5→7→4 | 9.0 | 20/80 |
+| Ch 12 | 4,800 | TEXTURE | ~10% | 3→5→7→5 | 9.2 | 15/85 |
+| Ch 19 | 4,300 | TEXTURE | ~11% | 2→7→6→3 | 9.0 | 15/85 |
+| **Ch 25** | **4,500** | **PRESSURE** | **~8%** | **3→6→8→5** | **9.0** | **15/85** |
+| Ch 37 | 5,100 | PRESSURE | ~8% | 3→6→9→4 | 9.2 | 15/85 |
+| Ch 46 | 4,700 | TEXTURE | ~14% | 3→4→6→3 | 9.2 | 15/85 |
+
+Arc: Tension peaks escalating through Aurielle's arc (10→7→7→7→8→9→6) — Ch 1 remains highest (assassination shock), but the arc's institutional tension builds steadily from Ch 7 through Ch 37 (BLACKWEIR execution). Ch 25 marks the TEXTURE→PRESSURE transition as BLACKWEIR enters the narrative. Dialogue consistently low (8-18%), appropriate for Aurielle's internal register — Ch 25's 8% is the lowest, justified by the briefing structure. Flow consistently high (9.0-9.2). A/R ratio stable at 15/85 (highly reflective) — consistent with the corporate-institutional register where action is decision, not motion.
+
 <!-- INSERT_NEXT_ANALYSIS -->

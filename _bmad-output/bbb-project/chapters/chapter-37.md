@@ -236,7 +236,7 @@ The execution log scrolled its final entry.
 
 *01:24:00 — Protocol BLACKWEIR: complete. Absorption front: stabilized. Grid status: nominal. Spire integrity: 98.4%. Casualty assessment: pending institutional review.*
 
-Pending institutional review. The casualties were pending because the institution had not yet counted them. The institution would count them — in time, through channels, formatted in tables that fit the committee's display protocols. The counting would take weeks. The counted number would be classified. The classification would be filed. The filing would be processed. And the processed number would eventually reach a quarterly report that Aurielle Vasquez would read in Eduardo's office, at the Spanish walnut desk, with the sandalwood and the handkerchief and the water glass, and the number would be a line on a page and the page would be slide seventeen and slide seventeen would say *Sump Infrastructure Lifecycle Management — Post-BLACKWEIR Summary* and the terminology would be new and the architecture would be the same.
+Pending institutional review. The casualties were pending because the institution had not yet counted them. The institution would count them — in time, through channels, formatted in tables that fit the committee's display protocols. The counting would take weeks. The counted number would be classified. The classification would be filed. The filing would be processed. And the processed number would eventually reach a quarterly report that Aurielle Vasquez would read in Eduardo's office, at the Spanish walnut desk, with the handkerchief and the water glass and the silence where the sandalwood had been, and the number would be a line on a page and the page would be slide seventeen and slide seventeen would say *Sump Infrastructure Lifecycle Management — Post-BLACKWEIR Summary* and the terminology would be new and the architecture would be the same.
 
 Thorne was watching her. The managed surface. The patient assessment. The decades of institutional teaching that had produced Eduardo and produced her and would produce the next one — because there would be a next one, because the Chair was not a person but a position and the position would be occupied and the occupant would be walked through the same corridor and shown the same numbers and taught the same arithmetic and brought to the same conclusion, because the conclusion was not hers. The conclusion was the institution's. She had merely been the person sitting in the chair when the institution's arithmetic reached its result.
 
@@ -282,7 +282,7 @@ The corridor was thirty meters. She walked it alone. Her hands were at her sides
 
 There was nothing left to calculate.
 
-She reached Eduardo's office. The door opened to her biometrics. She stepped inside. Sandalwood — deeper than the atmospheric scrubbers could reach, embedded at the molecular level, the smell of her father's presence in a room her father would never occupy again. She sat at the desk. Spanish walnut. Shipped from Cádiz, where the Vasquez name started. The desk chair still held Eduardo's body impression. It did not hold hers. It had never held hers.
+She reached Eduardo's office. The door opened to her biometrics. She stepped inside. The sandalwood was gone — the atmospheric scrubbers had finished their work weeks ago, processing the last molecular trace of Eduardo's presence out of the leather and the wood and the air. The office smelled like a room. Like a room her father would never occupy again. She sat at the desk. Spanish walnut. Shipped from Cádiz, where the Vasquez name started. The desk chair still held Eduardo's body impression. It did not hold hers. It had never held hers.
 
 She placed her hands flat on the desk. The same posture. The same stillness. The same architecture that had held in the Sub-level 7 briefing room and held in every quarterly and held in the authorization meeting and held in the operations center while the numbers worked and the display changed color and the Sump went dark.
 
@@ -294,7 +294,7 @@ She picked up the glass. Drank. Set it down.
 
 The quarterly report was on her first datapad. She did not open it. There would be a new report. There would be new numbers. There would be a new slide seventeen — *Post-BLACKWEIR Containment Summary* or *Anchor Zone Stabilization Metrics* or whatever the institutional language decided to call the aftermath of what she had just watched happen from a chair that adjusted to her body in a room designed for watching.
 
-She sat at Eduardo's desk. The sandalwood. The hum. The silence that was not silence but the sound of the grid working without the people in it.
+She sat at Eduardo's desk. The absence where the sandalwood had been. The hum. The silence that was not silence but the sound of the grid working without the people in it.
 
 The small voice did not speak. The small voice had nothing to say. The arithmetic was finished. The numbers were the truth. The truth was a field of violet on a holographic display, sixty-three floors below, in a room she would never enter again.
 
