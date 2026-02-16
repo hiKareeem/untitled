@@ -45,9 +45,51 @@ You are continuing a working relationship with Kareem. This document is your ope
 
 ## The Book Project
 
-Kareem is writing a multi-POV speculative fiction novel. Working title involves AEGIS — an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters. The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
+Kareem is writing a multi-POV speculative fiction novel. Working title involves AEGIS — an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
 
 **The book is about what systems do to people.** This is the thematic core. Every character exists inside institutional structures that constrain, deploy, fail, or abandon them.
+
+## Project File Map
+
+All paths relative to project root (`_bmad-output/bbb-project/` = `{bbb_output_folder}`).
+
+**Core documents:**
+- `chapter-plan-untitled.md` — single file containing ALL chapter outlines (Prologue + 51 chapters + Epilogue). Extract the relevant chapter section by number.
+- `style-profile.yaml` — author voice profile (YAML format, not .md). Includes POV register and AEGIS style exemption.
+- `meta-narrative.md` — AEGIS-as-narrator framing (the book is written by AEGIS reconstructing events from sensor data).
+- `lexicon.md` — standardized terminology by domain + character speech registers.
+- `worldbuilding-reference-untitled.md` — full worldbuilding source document.
+- `project-status.yaml` — chapter completion tracking, word counts.
+
+**Bible (5 files in `bible/`):**
+- `characters.md`, `locations.md`, `objects.md`, `chronology.md`, `themes.md`
+
+**Character dossiers (`characters/`):**
+- `{name}-dossier.md` for each POV character (10 files + index.md)
+- AEGIS dossier includes §10 Writing Guide (replaces standard style audit for AEGIS chapters)
+
+**Chapters (`chapters/`):**
+- `chapter-{N}.md` — chapter prose
+- `chapter-{N}-meta.yaml` — per-chapter metadata, summary, key points
+- `aegis-addenda.md` — the monolith (non-narrative, not part of the book)
+
+**Tracking (`tracking/`):**
+- `audit-chapter-{N}.md` — style + character + continuity audit per chapter
+- `chapter-{N}-themes.md` — per-chapter thematic analysis
+- `rhythm.md` — cumulative rhythm metrics and per-chapter analysis
+- `rhythm-dashboard.md` — rhythm health overview by phase
+- `themes.md` — cumulative theme tracking across all chapters
+- `emotions.md` — character emotional beat tracking
+
+**Analysis (`analysis/`):**
+- `rhythm-baseline.md` — baseline rhythm analysis
+- `trilogy-assessment.md` — trilogy-level assessment
+
+**⚠️ Files that do NOT exist (workflow spec previously referenced these):**
+- ~~`thematic-analysis.md`~~ → use `bible/themes.md` + `tracking/themes.md`
+- ~~`rhythm-profile.md`~~ → use `tracking/rhythm.md` + `tracking/rhythm-dashboard.md`
+- ~~`foundation/chapter-plan-{N}.md`~~ → single file: `chapter-plan-untitled.md`
+- ~~`style-profile.md`~~ → actual extension is `.yaml`
 
 ## The Addenda
 

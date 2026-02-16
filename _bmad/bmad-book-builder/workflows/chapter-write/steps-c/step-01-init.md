@@ -17,21 +17,25 @@ inputDocuments: []
 requiredInputCount: 7
 
 # Input Sources
-chapterPlanFolder: '{bbb_output_folder}/foundation/'
-styleProfilePath: '{bbb_output_folder}/style-profile.md'
+chapterPlanPath: '{bbb_output_folder}/chapter-plan-untitled.md'
+styleProfilePath: '{bbb_output_folder}/style-profile.yaml'
 storyBiblePath: '{bbb_output_folder}/bible/'
 chaptersFolder: '{bbb_output_folder}/chapters/'
-thematicContextPath: '{bbb_output_folder}/thematic-analysis.md'
-rhythmGuidelinesPath: '{bbb_output_folder}/rhythm-profile.md'
+thematicContextPath: '{bbb_output_folder}/bible/themes.md'
+rhythmGuidelinesPath: '{bbb_output_folder}/tracking/rhythm.md'
+# Additional thematic/rhythm sources (load if available):
+# - Per-chapter thematic analysis: {bbb_output_folder}/tracking/chapter-{N}-themes.md
+# - Rhythm dashboard: {bbb_output_folder}/tracking/rhythm-dashboard.md
+# - Rhythm baseline: {bbb_output_folder}/analysis/rhythm-baseline.md
 
 # Input Patterns
 inputFilePatterns:
-  - 'chapter-plan-*.md'
-  - 'style-profile.md'
-  - 'bible-*.md'
-  - 'chapter-*-meta.yaml'
-  - 'thematic-analysis.md'
-  - 'rhythm-profile.md'
+  - 'chapter-plan-untitled.md'
+  - 'style-profile.yaml'
+  - 'bible/*.md'
+  - 'chapters/chapter-*-meta.yaml'
+  - 'bible/themes.md'
+  - 'tracking/rhythm.md'
 
 # Reference Documents
 requiredInputsSpec: '../data/references/required-inputs-specification.md'
@@ -124,12 +128,12 @@ Search for and validate ALL 7 required inputs per `{requiredInputsSpec}`:
 - Present discovery results table as specified
 
 **Quick Reference:**
-- Input 1: Chapter Plan → `{chapterPlanFolder}/chapter-plan-{chapter_number}.md`
+- Input 1: Chapter Plan → `{chapterPlanPath}` (single file, extract Ch {chapter_number} details)
 - Input 2: Style Profile → `{styleProfilePath}`
-- Input 3: Story Bible → `{storyBiblePath}` (bible files)
+- Input 3: Story Bible → `{storyBiblePath}` (5 files: characters, locations, objects, chronology, themes)
 - Input 4: Previous Summaries → `{chaptersFolder}/chapter-*-meta.yaml` (if chapter > 1)
-- Input 5: Thematic Context → `{thematicContextPath}`
-- Input 6: Rhythm Guidelines → `{rhythmGuidelinesPath}`
+- Input 5: Thematic Context → `{thematicContextPath}` (also check tracking/chapter-*-themes.md for per-chapter analysis)
+- Input 6: Rhythm Guidelines → `{rhythmGuidelinesPath}` (also check tracking/rhythm-dashboard.md)
 
 ### 4. Validate Discovery Results
 

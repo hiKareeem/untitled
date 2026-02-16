@@ -8,30 +8,33 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 
 ### Input 1: Chapter Plan
 
-**Location:** `{chapterPlanFolder}/chapter-plan-{chapter_number}.md`
+**Location:** `{chapterPlanPath}` (single file containing all chapters)
 
 **Contains:**
-- Scene breakdown for the chapter
+- Scene breakdown for ALL chapters (extract the relevant chapter's section)
 - Chapter objectives and goals
 - Plot points to address
 - Required conflicts
 - Thematic beats
 - Transformation objectives
+- Epigraph assignments
+- In-chapter rhetoric references
 
 **Validation:**
-- IF FOUND: "✅ Chapter plan found"
-- IF MISSING: "❌ Chapter plan not found. Please run Foundation workflow first."
+- IF FOUND: "✅ Chapter plan found (Ch {chapter_number} details extracted)"
+- IF MISSING: "❌ Chapter plan not found at {chapterPlanPath}."
 
 **Usage:**
 - Guides scene-by-scene writing
 - Ensures all required plot points are addressed
 - Maintains alignment with story structure
+- Extract ONLY the section for the target chapter number
 
 ---
 
 ### Input 2: Style Profile
 
-**Location:** `{styleProfilePath}`
+**Location:** `{styleProfilePath}` (YAML format)
 
 **Contains:**
 - Author's quantitative voice metrics:
@@ -44,6 +47,9 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
   - Dialogue style
   - Narrative distance
   - Show vs tell balance
+- Full POV Register with per-character voice notes
+- AEGIS Full Style Exemption section
+- Meta-Narrative Framing reference
 
 **Validation:**
 - IF FOUND: "✅ Style profile found"
@@ -58,7 +64,7 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 
 ### Input 3: Story Bible
 
-**Location:** `{storyBiblePath}` (directory with bible-*.md files)
+**Location:** `{storyBiblePath}` (directory with 5 .md files: characters, locations, objects, chronology, themes)
 
 **Contains (5 dimensions):**
 
@@ -129,19 +135,22 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 
 ### Input 5: Thematic Context
 
-**Location:** `{thematicContextPath}`
+**Location:** `{thematicContextPath}` (primary: bible/themes.md)
+
+**Additional sources (load if available):**
+- Per-chapter thematic analysis: `{bbb_output_folder}/tracking/chapter-{N}-themes.md` (for previous chapters)
+- Cumulative themes tracking: `{bbb_output_folder}/tracking/themes.md`
 
 **Contains:**
-- Current theme states
+- 8 central themes with definitions and progression
 - Thematic arcs in progress
-- Motif usage patterns
-- Symbolic elements
-- Emotional arcs
-- Theme progression targets
+- Motif usage patterns and symbol tables
+- Per-chapter theme presence tracking
+- Thematic resistances and trilogy arcs
 
 **Validation:**
-- IF FOUND: "✅ Thematic context found"
-- IF MISSING: "❌ Thematic context not found. Please run Thematic Weaver analysis first."
+- IF bible/themes.md FOUND: "✅ Thematic context found"
+- IF bible/themes.md MISSING: "⚠️ Primary thematic context (bible/themes.md) not found — check tracking/themes.md as fallback"
 
 **Usage:**
 - Ensures thematic continuity
@@ -153,19 +162,22 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 
 ### Input 6: Rhythm Guidelines
 
-**Location:** `{rhythmGuidelinesPath}`
+**Location:** `{rhythmGuidelinesPath}` (primary: tracking/rhythm.md)
+
+**Additional sources (load if available):**
+- Rhythm dashboard: `{bbb_output_folder}/tracking/rhythm-dashboard.md`
+- Rhythm baseline: `{bbb_output_folder}/analysis/rhythm-baseline.md`
 
 **Contains:**
-- Pacing patterns
-- Sentence distribution targets
-- Paragraph length patterns
-- Scene length targets
-- Chapter rhythm goals
+- Per-chapter rhythm metrics (flow, tension, action/reflection ratio, fragment %)
+- TEXTURE subtypes per chapter
+- Pacing patterns and sentence distribution targets
+- Phase-level rhythm health
 - Tension/release patterns
 
 **Validation:**
-- IF FOUND: "✅ Rhythm guidelines found"
-- IF MISSING: "❌ Rhythm guidelines not found. Please run Rhythm Monitor analysis first."
+- IF tracking/rhythm.md FOUND: "✅ Rhythm guidelines found"
+- IF tracking/rhythm.md MISSING: "⚠️ Primary rhythm file not found — check tracking/rhythm-dashboard.md or analysis/rhythm-baseline.md as fallback"
 
 **Usage:**
 - Maintains appropriate pacing
@@ -206,12 +218,13 @@ When all inputs have been discovered, present:
 
 | Input | Status | Path |
 |-------|--------|------|
-| Chapter Plan | ✅/❌ | {path} |
-| Style Profile | ✅/❌ | {path} |
-| Story Bible | ✅/❌ | {path} |
-| Previous Summaries | ✅/❌ | {count} files |
-| Thematic Context | ✅/❌ | {path} |
-| Rhythm Guidelines | ✅/❌ | {path} |
+| Chapter Plan | ✅/❌ | chapter-plan-untitled.md (Ch {N} details extracted) |
+| Style Profile | ✅/❌ | style-profile.yaml |
+| Story Bible | ✅/❌ | bible/ ({N} files: locations, characters, themes, objects, chronology) |
+| Previous Summaries | ✅/❌ | {count} meta.yaml files (Prologue–Ch {N-1}) |
+| Thematic Context | ✅/⚠️/❌ | bible/themes.md — tracking/themes.md covers partial |
+| Rhythm Guidelines | ✅/⚠️/❌ | tracking/rhythm.md |
+| Character Dossier | ✅/❌ | characters/{name}-dossier.md |
 ```
 
 ## Failure Handling
