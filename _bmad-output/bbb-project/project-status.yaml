@@ -394,6 +394,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Mirelle POV (5th appearance). Deep Sump expedition below Level 12 with former NitroCore inspector. Discovers hidden parallel conduit infrastructure: modern composite, 2170s serial numbers, installation dates 2171-2173. Four junctions documented (B-12-East/South/Sub/Confluence). RCI gradient 34.6→41.3. Infrastructure concealed by decommission classification. Form 14-C: 'the system's syntax for disappearance' (23 names). Dead-hand deposit updated. Nitro-ear at 8 weeks (4 remaining). 'The pattern is not negligence. It is design.'"
 
-completedCount: 38
-totalWords: 179350
-lastUpdated: "2026-02-15"
+  chapter_27:
+    title: "The Non-Physical Variable"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 3787
+    completedDate: "2026-02-16"
+    metaFile: "chapter-27-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Sofia POV (2nd appearance). 7-hour immersion pod session. Model residual 31% collapses to 3% (correlation 0.97) only when consciousness-dependent variable added: conscious event density via Feed engagement data weighted by conduit proximity. Nitro = experiential substrate recording conscious suffering. Void responds to what material has heard. Paper written, not submitted — Entry 17, external encryption. Scientific framework cracks: discipline has no framework for the variable. Mother parallel (Elena Vargas). Closing: field kit in hands, 04:17am, dark lab. 'Not yet was not the same as nothing.'"
+
+completedCount: 39
+totalWords: 183137
+lastUpdated: "2026-02-16"

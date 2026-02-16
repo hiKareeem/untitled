@@ -1,17 +1,20 @@
 ---
+workflowType: chapter-write
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
+status: v1-complete
 chapter: 27
 title: "The Non-Physical Variable"
 pov: "Sofia Reyes"
 phase: 3
 location: "VEC HQ, Neo-Shanghai — Atmospheric Anomaly Group, Floor 63"
 wordCount: 3787
-status: "v1-draft"
-version: "v1-draft"
 created: "2026-02-16"
 lastModified: "2026-02-16"
 previousChapter: 26
 nextChapter: 28
 narrativeTime: "~72 hours before Ch 28"
+meta_note: "AEGIS as invisible novelist"
 ---
 
 # Chapter 27: The Non-Physical Variable
