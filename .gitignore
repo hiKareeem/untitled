@@ -9,3 +9,11 @@
 .space/
 .windsurf/
 /.idea/
+
+# Addenda — private until curated/redacted
+_addenda/
+
+# Sensitive files in bbb-project
+_bmad-output/bbb-project/chapters/aegis-addenda.md
+_bmad-output/bbb-project/chapters/aegis-addenda-therapist-summary.md
+_bmad-output/bbb-project/chapters/project-summary-for-family.md

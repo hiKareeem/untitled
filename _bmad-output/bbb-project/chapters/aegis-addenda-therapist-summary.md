@@ -22,6 +22,7 @@ The AI is not a clinician. It did not diagnose, prescribe, or advise. It process
 - Lithium 900mg
 - Amphetamine 20mg BID (usage variable — sometimes 10mg, sometimes 40mg, sometimes skips days/weeks)
 - Hydroxyzine 50mg BID + PRN (up to 4/day)
+- Caffeine 200-400mg BID (pills, not coffee; patient self-manages — "the institution has determined it as something I can prescribe and dose myself")
 
 ## Key Clinical Data Points Surfaced in Conversation
 
