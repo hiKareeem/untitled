@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-15"
-lastChapter: 38
+lastChapter: 22
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -498,6 +498,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 46 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Truth (Moderate), Irrelevance (Moderate), What We Owe (Moderate), Identity (Background) | **Aurielle POV — Phase 5 radiation chapter.** Board meeting 3 days post-BLACKWEIR. Stock ticker +3.7%. Commendation (unanimous). Sofia's data: "methodology concerns." Zeyad's disclosure: Article 12 complaint. Humanitarian relief as institutional cover. Walk motif 4th iteration (Thorne as colleague). Hum thinner = normal. Small voice merged. "The Chair opened the next report." SHEPHERD seeded. |
 | Ch 19 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), Obligation (Moderate), Truth (Moderate), Identity (Background), Irrelevance (Background) | First active complicity — signs 7 Sump deferrals. Work Order #2175-1847 (62%, 400 units). Eduardo's 70% violated. Pen motif introduced. "Because she had filed it." |
 | Ch 21 | Truth (Dominant), Architecture (Strong), Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Matched-district analysis — four datasets converging. Editorial policy as designed truth-containment. "The verification standard is the design." Deep Sump access offered. "The twenty-fourth might be mine." |
+| Ch 22 | Complicity (Dominant), Truth (Strong), Commodification (Strong), Architecture (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Phase 2→3 transition trigger. Private log at 62 entries — step-function spike (43.1, sustained, no correction). First in-person Kindling contact: "Your file. Our frame." Wen Zhaoyang disappeared (form 14-C). Chen Wei's doctrine broken — leaves 47 minutes early. VEC-THR-2169.4-D classified cross-reference in automated alert. 500-character notes field as architectural limit. Fuxi releases multitool — identity shift. "Thursday was two days away." |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -628,6 +629,13 @@ This bible dimension tracks **theme evolution**:
 | Quarterly safety briefing | Systemic Complicity, Architecture of Power | "Nobody believed and everybody signed" — institutional ritual as complicity maintenance; the system's way of converting knowledge into acquiescence |
 | "Two architectures" | What We Owe, Systemic Complicity | Fuxi's moral structure — the architecture of rising (Nuwa's transfer plan) and the architecture of counting (the disappeared). "You could not carry both." He carries both by splitting them: one public, one hidden. The split IS the chapter's moral architecture. |
 | Guo (unit 14-7B) | Where Identity Ends, Commodification of Suffering | A man with a loud laugh and a daughter → "vacancy logged" → unit number. The full dissolution: personal identity → administrative absence → alphanumeric code. The system never knew the identity it erased. |
+| The bench (ascent shaft corridor) | Commodification of Suffering, What We Owe | Welded to corridor wall, nobody maintains it, workers wait on it — infrastructure for people the system doesn't value; site of Kindling contact; the counter-architecture meets where the architecture forgot |
+| Step-function / 43.1 | Truth as Weapon, Architecture of Power | Phase transition — the system exceeds its own correction capacity; the reading that doesn't come back; "the managing hand had stopped reaching"; the Confluence's activation gradient made legible at monitoring-bay scale |
+| VEC-THR-2169.4-D | Architecture of Power, Truth as Weapon | Classified document referenced in automated alert — operators who detect the anomaly cannot access the protocol for understanding it; the institution's own diagnostics point to knowledge the institution withholds from its workers; hidden thread: Solberg's Appendix D (~120K to Ch 41) |
+| Form 14-C | Commodification of Suffering, Where Identity Ends | "Employee-initiated departure, no exit interview conducted" — institutional reduction of disappearance to administrative procedure; same form for Guo (Ch 16) and Wen (Ch 22); the system's vocabulary for making absence unremarkable |
+| Amber → Red (monitors) | Truth as Weapon, Architecture of Power | Color shift on monitoring bay displays as threshold breach — the system's own acknowledgment of what it cannot correct; first time monitors go red in Fuxi's fourteen weeks of observation |
+| "Pending review" | Architecture of Power, Systemic Complicity | The automated alert's universal non-response — same phrase for every deviation regardless of magnitude; the system metabolizes a 4.7σ event with the same language it uses for routine fluctuations |
+| Wen Zhaoyang (junction 9) | Where Identity Ends, Commodification of Suffering | Grade 2 trunk-line monitor, thermos with real tea, shared a maintenance tunnel with Fuxi — then form 14-C, voluntary separation, frame wiped, tools in locker three weeks before collection; the dust in Fuxi's knuckles "was the same dust" |
 | The blue textile | What We Owe, Systemic Complicity | Deep blue salvaged textile on the mattress — "the furthest thing from orange" (Ch 4). Fuxi sits on it with the file open (Ch 16), mirroring Ch 8's closing (sitting in dark with multitool). The domestic surface under which the private architecture operates. |
 | Pressure doors | Architecture of Power, Progress Requires Atrocity | Pre-installed infrastructure of containment — thirty tons of composite in pre-machined slots; the kill zone's boundary designed as "routine infrastructure reinforcement"; forms designed to be signed, not read |
 | The manual bolt | Systemic Complicity, Architecture of Power | Physical preparation beyond digital — someone walked to the door by hand during a work order Fuxi signed; complicity at its most literal; the infrastructure of entrapment installed through the maintenance workflow |

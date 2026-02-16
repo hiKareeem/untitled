@@ -1,0 +1,126 @@
+---
+chapter: 22
+title: "The Spike"
+pov: "Fuxi Lin"
+povAppearance: 4
+phase: 2
+mode: TEXTURE
+status: v1-complete
+wordCount: 5200
+completedDate: "2026-02-15"
+draftVersion: 1
+
+# Structure
+scenes: 4
+sceneBreakdown:
+  - scene: 1
+    location: "Deep Sump — Monitoring Bay, Section 4-East"
+    characters: ["Fuxi Lin", "Chen Wei"]
+    summary: "End of shift. Entry 61. Nine spikes in fourteen weeks, acceleration from 40s to 14s corrections. Chen Wei leaves with 'Quiet shift.' Fuxi alone with 62 entries and no one to give them to."
+  - scene: 2
+    location: "Deep Sump — Ascent shaft corridor"
+    characters: ["Fuxi Lin", "Kindling contact (unnamed)"]
+    summary: "First in-person Kindling contact. Water-recycling worker on welded bench. Reveals Wen Zhaoyang (junction 9, Grade 2) disappeared 8 weeks ago. 'Your file. Our frame. The picture resolves.' Tuesdays and Thursdays."
+  - scene: 3
+    location: "Deep Sump — Monitoring Bay, Section 4-East"
+    characters: ["Fuxi Lin", "Chen Wei"]
+    summary: "Next shift (Thursday). Monitor 6 step-function spike: 27.1→43.1 vertical jump. No correction. Automated alert: 4.7σ, sustained, VEC-THR-2169.4-D cross-reference. Chen Wei leaves 47 minutes early. 'File the report. That's the procedure.'"
+  - scene: 4
+    location: "Deep Sump — Monitoring Bay → Level 0 residential corridor"
+    characters: ["Fuxi Lin"]
+    summary: "31 minutes alone. Entry 62. Phase transition. Thinks of Nuwa's transfer plan. Lets go of multitool. Walks home. Apartment smells like broth. Thursday is two days away."
+
+# Epigraph & Rhetoric
+epigraph:
+  text: "The step-function at Station 14 could not be modeled as gradual escalation. The system was in one state, and then it was in another. I have no precedent for this in any controlled variable. This is not a trend. This is a phase transition."
+  source: "Solberg"
+  work: "On the Statistical Correlation Between Throughput Density and Resonance Events in Closed Nitro Systems"
+rhetoric:
+  text: "RCI step-function, 4.7σ above baseline. Duration: sustained. Classification: [PENDING]. Manual review required."
+  source: "Deep Sump RCI Station Automated Alert"
+  ref: "VEC-STK-2175-Q1-0412"
+
+# Characters
+characters:
+  fuxi_lin:
+    role: POV
+    coherence: 9.5
+    arcPhase: "2→3 transition"
+    keyMoments:
+      - "Entry 62 — step-function logged"
+      - "First Kindling in-person contact"
+      - "Releases multitool — symbolic identity shift"
+    objects: ["cracked frame", "Jun's multitool (released)", "service jacket"]
+  kindling_contact:
+    role: New character
+    coherence: 9.0
+    description: "Unnamed woman, water-recycling division, grey temples, scarred hands. Evidence-first. Tuesdays and Thursdays."
+  chen_wei:
+    role: Supporting
+    coherence: 9.5
+    keyMoments:
+      - "Doctrine broken: reading doesn't self-correct"
+      - "Leaves 47 minutes early"
+      - "'File the report. That's the procedure.'"
+  nuwa_lin:
+    role: Referenced
+    coherence: 9.0
+    state: "Transfer under review, 2 months. Not present but felt."
+  wen_zhaoyang:
+    role: Referenced (new canonical)
+    description: "Junction 9, Grade 2, trunk-line monitor. Thermos, real tea. Gone 8 weeks. Form 14-C."
+
+# Themes
+themes:
+  systemic_complicity: Dominant
+  truth: Strong
+  commodification: Strong
+  architecture: Moderate
+  what_we_owe: Moderate
+  irrelevance: Moderate
+  atrocity: Background
+  identity: Background
+
+# Style Audit
+styleAudit:
+  result: "12/12 PASS"
+  fixesApplied: 7
+  nbaCount: 4
+  dialoguePercent: 10
+  fragmentPercent: 18
+  avgSentenceLength: 14
+  sensoryHierarchy: "Sound > Temperature > Tactile > Visual > Taste"
+  antiSlop: PASS
+
+# Continuity
+continuity:
+  timeline: PASS
+  objects: PASS
+  locations: PASS
+  knowledgeBoundaries: PASS
+  planAdherence: PASS
+
+# Key Data Points
+canonicalData:
+  rciBaseline: "26.4-27.8 (monitoring bay normal)"
+  rciPeak: "43.1 (4.7σ above baseline)"
+  decayProfile: "NONE — step-function, sustained"
+  alertRef: "VEC-STK-2175-Q1-0412"
+  crossRef: "VEC-THR-2169.4-D (classified — Solberg Appendix D)"
+  privateLogEntries: 62
+  correctionAcceleration: "40s → 14s → step-function (no correction)"
+  wenDisappearance: "8 weeks prior, junction 9, form 14-C"
+
+# Forward References
+forwardRefs:
+  - "Step-function spike sustained — VEC detects independently (Sofia pipeline)"
+  - "Kindling relationship deepens Phase 3 — Tuesdays and Thursdays"
+  - "Private log becomes politically legible — delivery system offered"
+  - "VEC-THR-2169.4-D → Ch 41 Solberg (~120K words)"
+  - "Wen Zhaoyang junction 9 ↔ Ch 20 junction 9-14 absorption"
+  - "Chen Wei doctrine broken → Ch 39 voice on comm, survival unknown"
+  - "Multitool released — track return in Phase 3+"
+  - "Q1-0412 in same series as Nikolai's Q1-0347, Q1-0391"
+
+# Narrative Significance
+significance: "Phase 2→3 transition trigger. The Confluence begins its activation gradient. Final Phase 2 chapter. Fuxi's turn from documentation to potential action — from isolated technician to Kindling collaborator."

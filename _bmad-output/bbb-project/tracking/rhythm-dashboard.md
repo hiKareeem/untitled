@@ -4,7 +4,7 @@ type: tracking
 lastUpdated: "2026-02-15"
 lastChapter: "Chapter 46"
 totalChapters: 53
-analyzedChapters: 23
+analyzedChapters: 24
 project_name: "Untitled"
 ---
 
@@ -43,7 +43,8 @@ project_name: "Untitled"
 | **19** | Aurielle | 4,300 | TEXTURE | ~11% | 2→7→6→3 | 9.0 | 20/80 | ✅ |
 | **20** | Nikolai | 4,600 | PRESSURE | ~13% | 3→5→7→8→4 | 9.0 | 35/65 | ✅ |
 | **21** | Mirelle | 3,600 | TEXTURE | ~22% | 3→6→8→4 | 8.8 | 30/70 | ✅ |
-| 15–17,22 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| **22** | Fuxi | 5,200 | TEXTURE | ~10% | 3→6→9→5 | 9.0 | 20/80 | ✅ |
+| 15–17 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
 | **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
 | **40** | Mirelle | 3,800 | PRESSURE | 0% | 7→8→9→10→∅ | 9.2 | 40/60 | ✅ |
@@ -63,7 +64,7 @@ project_name: "Untitled"
 | Phase | Written | Analyzed | Avg Flow | Avg Tension | P/T Ratio | Health |
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
-| Phase 2 | 10/12 | 10/12 | 8.8 | 5.2 | 3P/7T | 📝 |
+| Phase 2 | 11/12 | 11/12 | 8.9 | 5.4 | 3P/8T | 📝 |
 | Phase 3 | 0/14 | 0/14 | — | — | — | 📝 |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 1/7 | 1/7 | 9.2 | 4.0 | 0P/1T | 📝 |
@@ -71,4 +72,4 @@ project_name: "Untitled"
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 21 — "Matched Districts" rhythm analysis_
+_Updated by: Chapter 22 — "The Spike" rhythm analysis_

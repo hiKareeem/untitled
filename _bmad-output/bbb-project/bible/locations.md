@@ -2,8 +2,8 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-12"
-lastChapter: 14
+lastUpdated: "2026-02-15"
+lastChapter: 22
 totalLocations: 18
 activeLocations: 13
 project_name: "Untitled"
@@ -101,6 +101,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Ch 4:** RCI fluctuation on monitor 6 (Section 4-East, near Resonance District boundary). Spike from 27.1 to 31.2, held ~40 seconds, self-corrected with atypical linear decay profile. Fuxi logged anomaly; Chen Wei dismissed. Baseline for this section: 26-28. Alarm threshold: 35. Emergency protocols: 40.
 - **Ch 16:** Eleven weeks of accumulated data. Seven spikes logged on monitor 6, acceleration pattern visible (40s → 19s decay times). First-generation infrastructure running at three times design specification. Fuxi maintains private log correlating spikes with residential disappearances. Quarterly safety briefing conducted in the bay — "nobody believed and everybody signed." Chen Wei continues institutional routine without examining the pattern.
 - **Ch 40:** Mirelle Dubois absorbed in western maintenance corridor during BLACKWEIR. Running toward Resonance District service level access (RS-WEST junction marker). Flood valves FV-7 and FV-3 documented as open. Wet-film residue saturating corridors — airborne, substrate-propagated. Absorption front advancing along conduit network. Mirelle stops 140m from RS-WEST, absorbed mid-sentence while thought-dictating to Black Babel. Implant continues transmitting briefly after body ceases motor function.
+- **Ch 22:** Step-function spike on monitor 6 — 27.1→43.1, 4.7σ above baseline, sustained, no correction. Phase 2→3 transition trigger (The Confluence begins its activation gradient). Automated alert fires: VEC-STK-2175-Q1-0412, cross-references classified VEC-THR-2169.4-D. Chen Wei leaves 47 minutes early — doctrine broken. Monitoring bay goes amber→red for the first time. Private log entry 62 recorded.
 - **Ch 39:** BLACKWEIR activation. Eighth spike on monitor 6 — step-function, no decay (27.3→34.1+, still climbing). Every maintenance alarm fires simultaneously. R0 crude floods trunk-lines via synchronized NitroCore corporate valve override. Pressure doors seal Sump sectors in cascade — 23 sectors, "[17 alerts suppressed]." Fuxi in converter station recognizes infrastructure as delivery system. Both exits sealed. Absorption front propagates along conduit network — visible on residential grid map as violet wave. Duan (co-operator) attempts valve shutdown — lockout. Converter station survives as processed-air pocket below the flooding.
 
 **Significance:** The Confluence sits beneath the Resonance District here — six first-generation trunk-lines converge at the highest-throughput conduit junction in the city. This is where BLACKWEIR detonates.

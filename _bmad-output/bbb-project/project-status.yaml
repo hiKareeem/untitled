@@ -344,6 +344,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 2 — Mirelle POV (4th appearance). Matched-district analysis: 4 datasets converging. Gauthier: 'correlation, not causation' + editorial policy. Talia offers Deep Sump access (below Level 12, 12-hour window). 'The twenty-fourth might be mine.'"
 
-completedCount: 33
-totalWords: 155700
+  chapter_22:
+    title: "The Spike"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 5200
+    completedDate: "2026-02-15"
+    metaFile: "chapter-22-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 2→3 transition trigger — Fuxi POV (4th appearance). Step-function spike on monitor 6 (27.1→43.1, 4.7σ, sustained, no correction). First in-person Kindling contact. Wen Zhaoyang disappeared (junction 9, form 14-C). Chen Wei doctrine broken — leaves 47 minutes early. Private log at 62 entries. Multitool released. 'Thursday was two days away.' The Confluence begins its activation gradient."
+
+completedCount: 34
+totalWords: 160900
 lastUpdated: "2026-02-15"

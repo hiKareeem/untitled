@@ -1,10 +1,10 @@
 ---
 title: "Rhythm Tracking"
 type: tracking
-lastUpdated: "2026-02-14"
-lastChapter: "Chapter 20"
+lastUpdated: "2026-02-15"
+lastChapter: "Chapter 22"
 totalChapters: 53
-analyzedChapters: 23
+analyzedChapters: 24
 project_name: "Untitled"
 ---
 
@@ -2490,5 +2490,80 @@ Scene 4: ████░░░░░░ 4 (transit box return — metronomic sol
 | Ch 40 | 4,200 | PRESSURE | 0% | 5→7→9→10 | 9.5 | 60/40 |
 
 Arc: Word count trending slightly below average but density is high. Dialogue increases significantly (10→22%) driven by dual exchanges — appropriate as Mirelle shifts from solo analysis to advocacy. Tension peaks escalating (7→8) as stakes rise. Flow consistently strong. Ch 21 is the pivot from TEXTURE to PRESSURE — the last chapter where Mirelle operates through institutional channels before going physical.
+
+---
+
+## Chapter 22 — "The Spike" (Fuxi Lin)
+
+### Basic Metrics
+
+| Metric | Value |
+|--------|-------|
+| Word Count | ~5,200 |
+| Scenes | 4 |
+| Paragraphs | ~95 |
+| Avg Sentence Length | ~14 words |
+| Dialogue % | ~10% |
+| Fragment % | ~18% |
+| NbA Count | 4 (target: 2-4) |
+| Mode | TEXTURE |
+| Subtype | domestic/Sump-radicalization |
+| Flow Score | 9.0/10 |
+
+### Tension Arc
+
+| Scene | Tension | Description |
+|-------|---------|-------------|
+| Scene 1 (Monitoring bay — end of shift) | 3→4 | Routine precision, entry 61, acceleration pattern visible. Low-burn — the pattern established over 14 weeks. Chen Wei's "Quiet shift" as ironic understatement. |
+| Scene 2 (Ascent shaft corridor — bench) | 4→6 | First Kindling in-person contact. Wen Zhaoyang's disappearance. "Your file. Our frame." Tension rises through revelation, not action — evidence-first, not ideology-first. |
+| Scene 3 (Monitoring bay — next shift) | 6→9 | Step-function spike: 27.1→43.1, vertical, no correction. Automated alert. Chen Wei's doctrine breaks. Leaves 47 minutes early. Peak tension at the reading that doesn't come back. |
+| Scene 4 (Monitoring bay → home) | 9→5 | 31 minutes alone. Entry 62. Phase transition comprehended. Multitool released. Walk home. Broth smell. "Thursday was two days away." Controlled descent — not resolution but intention. |
+
+**Tension Profile:** 3→4→6→9→5
+**Peak:** 9 (step-function spike — sustained, no correction, doctrine broken)
+**Resolution:** 5 (not resolved — redirected toward action)
+
+### Pacing Analysis
+
+- **Scene 1 (routine/log):** Slow, methodical. Establishes the 14-week accumulation. Single-sentence paragraphs alternate with dense observational blocks. The rhythm mirrors Fuxi's monitoring bay routine — measured, repetitive, calibrated.
+- **Scene 2 (Kindling contact):** Medium pace. Dialogue-driven but sparse — the contact speaks in evidence, not persuasion. Short exchanges with long internal processing gaps. Bimodal paragraphs: her words (short), his processing (dense).
+- **Scene 3 (step-function):** Accelerating. The spike is the pacing event — vertical jump on monitor, no decay, amber→red. Chen Wei's compressed dialogue ("Report it." Twice.) Chen Wei leaving is a pacing hole — the scene slows as Fuxi is alone with the reading. The automated alert provides institutional texture without relief.
+- **Scene 4 (aftermath):** Decelerating. Single-line paragraphs dominate. The multitool release is a single sentence. The walk home is compressed. The closing ("Thursday was two days away") is intention, not action — the pacing leaves the reader leaning forward.
+
+### Action/Reflection Ratio
+
+**20/80 (Action/Reflection)** — consistent with Fuxi's internal register. Action concentrated in Scene 3 (spike event, Chen Wei's departure). Reflection dominant in Scenes 1, 2, and 4. The chapter's engine is comprehension, not physical action.
+
+### Dialogue Analysis
+
+- ~10% dialogue (improvement over Ch 16's 5%, appropriate for a chapter with a new character encounter)
+- Kindling contact: terse, evidence-first, no emotional appeals. "Your file. Our frame. The picture resolves." / "Tuesdays and Thursdays."
+- Chen Wei: compressed to institutional minimum. "Quiet shift." / "Report it." / "File the report. That's the procedure."
+- Fuxi: shift-report register when speaking aloud, internal register when processing. The gap between what he says and what he thinks IS the chapter.
+
+### Sensory Hierarchy
+
+1. **Sound/vibration:** Hum present throughout — bass drone (monitoring bay) → composite (ascent shaft) → "thinner, quicker" (Level 0). Step-function as auditory event (monitors, alerts).
+2. **Temperature:** Monitoring bay concrete cold; corridor cooler; apartment warm (broth).
+3. **Tactile:** Multitool weight in pocket → grip → release. Grating vibration through boots. Dust in knuckles.
+4. **Visual:** Amber/green monitors → amber→red shift. Orange conduit glow. Child on grating. Bench welded to wall.
+5. **Taste:** Copper (baseline Deep Sump), broth (apartment — home marker).
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 2→3 transition, TEXTURE, 3-6K words)
+- Adjacent chapter contrast: ✅ (Ch 21 = Mirelle/TEXTURE/investigative-institutional → Ch 22 = Fuxi/TEXTURE/domestic-Sump-radicalization → Ch 23 = TBD)
+
+### Comparison to Previous Fuxi Chapters
+
+| Chapter | Words | Mode | Dialogue | Tension Arc | Flow | A/R |
+|---------|-------|------|----------|-------------|------|-----|
+| Ch 4 | 5,400 | TEXTURE | 5% | 3→5→3→4 | 8.5 | 15/85 |
+| Ch 8 | 4,800 | TEXTURE | 12% | 3→4→5→3 | 9.0 | 20/80 |
+| Ch 16 | 4,800 | TEXTURE | 5% | 3→5→6→4 | 8.8 | 15/85 |
+| **Ch 22** | **5,200** | **TEXTURE** | **~10%** | **3→6→9→5** | **9.0** | **20/80** |
+| Ch 39 | 5,100 | PRESSURE | 3% | 5→8→10→7 | 9.2 | 30/70 |
+
+Arc: Tension peaks escalating chapter by chapter (5→5→6→9→10) — consistent with Fuxi's arc from routine to radicalization to BLACKWEIR. Dialogue fluctuates but stays low (5-12%), appropriate for Fuxi's internal register. Flow consistently strong. Word count stable. Ch 22 marks the pivot from TEXTURE to the Phase 3 chapters where Fuxi acts — the tension peak of 9 is the highest pre-BLACKWEIR Fuxi chapter, appropriate for the phase transition trigger.
 
 <!-- INSERT_NEXT_ANALYSIS -->

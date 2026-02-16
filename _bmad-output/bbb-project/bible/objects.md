@@ -3,7 +3,7 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-15"
-lastChapter: 20
+lastChapter: 22
 totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"
@@ -734,6 +734,7 @@ An object deserves documentation if it:
 **History:**
 - Ch 8: First prose appearance. Fuxi holds it in the dark after Nuwa goes to sleep. The weight as presence. Jun's death named: "chronic resonance fatigue syndrome" / "the hum got him."
 - Ch 16: Carried into the monitoring bay. The inherited obligation now accompanies documentation — Jun's generation couldn't see the pattern; Fuxi can.
+- Ch 22: Gripped as self-soothing after the step-function spike — "the inherited reflex, the hand finding the tool the way the hand had always found the tool." Then released: "He let go of the multitool." First time Fuxi voluntarily disengages from the inherited object. Symbolic: releasing institutional identity, releasing Jun's belief that the system was a system. The next gesture is walking toward the Kindling bench.
 
 ---
 
@@ -747,7 +748,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Digital file on a cracked frame. Columns: date, time, monitor, peak RCI, decay shape, duration, and — in later entries — the name or unit number of the person who went dark
 - Function: Unofficial correlation log tracking RCI spikes against residential disappearances
-- Condition: Eight entries over eleven weeks and four days. Acceleration pattern terminated: step-function spike (no decay). File closed by Fuxi during BLACKWEIR.
+- Condition: 62 entries over fourteen weeks as of Ch 22. Acceleration pattern (40s→14s) terminated by step-function spike (no decay). File closed by Fuxi during BLACKWEIR (Ch 39).
 
 **Significance:** The log is Fuxi's version of Nikolai's field log and Sofia's personal archive — a private record maintained outside institutional channels because institutional language cannot accommodate what the data says. It parallels Mirelle's dead-hand (truth preserved against institutional erasure) but has no delivery system, no recipient, no dead-hand. It exists because not-recording became harder than recording. The Kindling pamphlet ("We do not ask you to rebel. We ask you to describe what you see.") provides the vocabulary; the log is Fuxi describing what he sees. "The file had no conclusion because Fuxi did not have one."
 
@@ -756,6 +757,7 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 16: First referenced. Seven entries. Acceleration pattern documented. Guo (unit 14-7B) is the entry where technical language strains against personal knowledge — Fuxi knew this one.
+- Ch 22: 62 entries. Step-function spike logged as entry 62 (43.1, 4.7σ, no decay — "Decay profile: NONE. Step-function."). Kindling contact offers delivery system: "Your file. Our frame." The log's missing recipient has appeared. The data is now politically legible.
 - Ch 39: Eighth entry added during BLACKWEIR (peak 34.1+, no decay, duration: ongoing). The acceleration pattern reaches its predicted terminus — step-function spike. "The column for names still empty because the names were not disappearing one at a time anymore." Fuxi closes the file: "the pattern was complete." The log's truth is confirmed and made irrelevant simultaneously. *Describe what you see* fulfilled; "the description had changed nothing."
 
 ---
