@@ -374,6 +374,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Nephthys POV (3rd appearance). Arrives in Neo-Shanghai; Sump descent; worst chorus episode yet. Cathedral sealed by Luminarch's Office on Malachi's recommendation. Inside: chorus resolves for first time — individual threads distinguishable, pain gone. Stone's geological inertness dephases infrastructure noise. 'Third option' theology articulated. Dramatic irony with Ch 25 (reader knows Sump = BLACKWEIR kill zone). Seeds Ch 35 (First Congregation) and Ch 44 (BLACKWEIR survival)."
 
-completedCount: 36
-totalWords: 170050
+  chapter_24:
+    title: "Below Level 12"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 4700
+    completedDate: "2026-02-15"
+    metaFile: "chapter-24-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Mirelle POV (5th appearance). Deep Sump expedition below Level 12 with former NitroCore inspector. Discovers hidden parallel conduit infrastructure: modern composite, 2170s serial numbers, installation dates 2171-2173. Four junctions documented (B-12-East/South/Sub/Confluence). RCI gradient 34.6→41.3. Infrastructure concealed by decommission classification. Form 14-C: 'the system's syntax for disappearance' (23 names). Dead-hand deposit updated. Nitro-ear at 8 weeks (4 remaining). 'The pattern is not negligence. It is design.'"
+
+completedCount: 37
+totalWords: 174750
 lastUpdated: "2026-02-15"

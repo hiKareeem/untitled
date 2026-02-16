@@ -501,6 +501,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 22 | Complicity (Dominant), Truth (Strong), Commodification (Strong), Architecture (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Phase 2→3 transition trigger. Private log at 62 entries — step-function spike (43.1, sustained, no correction). First in-person Kindling contact: "Your file. Our frame." Wen Zhaoyang disappeared (form 14-C). Chen Wei's doctrine broken — leaves 47 minutes early. VEC-THR-2169.4-D classified cross-reference in automated alert. 500-character notes field as architectural limit. Fuxi releases multitool — identity shift. "Thursday was two days away." |
 | Ch 25 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), What We Owe (Moderate), Truth (Moderate), Identity (Moderate), Irrelevance (Background) | BLACKWEIR introduced — three-generation protocol. Deferrals map to sacrifice zone. Confluence: 6 trunk-lines, 4-6 weeks. "The architecture did not require conspiracy." Sandalwood gone. Small voice = institutional competence. |
 | Ch 26 | Identity (Strong), Irrelevance (Strong), Architecture (Strong), Obligation (Moderate), Complicity (Moderate), Truth (Moderate), Commodification (Background), Atrocity (Background) | Nephthys arrival in Neo-Shanghai; Cathedral sealed by Luminarch; chorus resolves; "third option" theology; dramatic irony with Ch 25 |
+| Ch 24 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Moderate), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Identity (Background) | Below Level 12: hidden NitroCore infrastructure (2171-2173). RCI gradient 34.6→41.3. Form 14-C as "the system's syntax for disappearance." Dead-hand deposit growing. |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -717,6 +718,15 @@ This bible dimension tracks **theme evolution**:
 | "Third option" (Ch 26) | Truth, Identity | Nephthys's framing: not God, not nothing, but structured presence — foundation of her theology |
 | Stone's inertness (Ch 26) | Identity, Architecture | Geological formation that refuses to participate in the conduit network; holding by not vibrating |
 | Weeping without choosing (Ch 26) | Identity | Tears as physiological response to the absence of pain; grief as the body's protocol for relief |
+| Below Level 12 (Ch 24) | Architecture, Complicity | Hidden stratum beneath the acknowledged bottom — power operating below visibility |
+| "Decommissioned. No active infrastructure." (Ch 24) | Complicity, Architecture | The official lie as infrastructure map notation — designed ignorance |
+| RCI gradient 34.6→41.3 (Ch 24) | Truth, Architecture | Truth told through measurement; the numbers as narrative |
+| "The maps were blank because the maps were drawn to be blank" (Ch 24) | Complicity, Architecture | Cartographic complicity — institutional production of ignorance |
+| "The pattern is not negligence. It is design." (Ch 24) | Truth, Complicity | Mirelle's raw register compressed to weaponized form |
+| "The person was the variable. The form was the constant." (Ch 24) | Irrelevance, Commodification | Form 14-C as system syntax for disappearance — individuals interchangeable |
+| Talia's processing ring (Ch 24) | Architecture | Amber (observation) / green (analysis) — technology as emotional proxy |
+| Forty-one point three (Ch 24) | Truth, Identity | RCI reading as personal stake — numbers as reasons to stay |
+| Zhongshan Medical (Ch 24) | Architecture | Corporate healthcare as separate entity outside NitroCore network |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

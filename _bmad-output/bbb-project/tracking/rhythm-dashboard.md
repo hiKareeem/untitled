@@ -4,7 +4,7 @@ type: tracking
 lastUpdated: "2026-02-15"
 lastChapter: "Chapter 46"
 totalChapters: 53
-analyzedChapters: 24
+analyzedChapters: 25
 project_name: "Untitled"
 ---
 
@@ -59,6 +59,7 @@ project_name: "Untitled"
 | 47–51+Ep | Phase 5 | — | All Texture | — | — | — | — | 📝 |
 | **25** | Aurielle | 4,500 | PRESSURE | ~8% | 3→6→8→5 | 9.0 | 15/85 | ✅ |
 | **26** | Nephthys | 4,650 | TEXTURE | ~7% | 3→8→3→7→4 | 9.0 | 10/90 | ✅ |
+| **24** | Mirelle | 4,700 | TEXTURE | ~6% | 2→4→7→4 | 9.0 | 30/70 | ✅ |
 <!-- INSERT_NEXT_DASHBOARD -->
 
 ### Phase Health
@@ -67,11 +68,11 @@ project_name: "Untitled"
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 11/12 | 11/12 | 8.9 | 5.4 | 3P/8T | 📝 |
-| Phase 3 | 2/14 | 2/14 | 9.0 | 5.3 | 1P/1T | 📝 |
+| Phase 3 | 3/14 | 3/14 | 9.0 | 5.2 | 1P/2T | 📝 |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 1/7 | 1/7 | 9.2 | 4.0 | 0P/1T | 📝 |
 
 ---
 
 _Last updated: 2026-02-15_
-_Updated by: Chapter 26 — "The Wound in the World" rhythm analysis_
+_Updated by: Chapter 24 — "Below Level 12" rhythm analysis_

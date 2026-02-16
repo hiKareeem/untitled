@@ -2682,4 +2682,106 @@ Arc: Tension peaks escalating through Aurielle's arc (10→7→7→7→8→9→6
 
 Arc: Flow improving across Nephthys chapters (8.2→8.6→9.0→9.0). Dialogue declining (18%→25%→7%→8%) — Ch 14 was high due to testimony format; Ch 26 and Ch 44 both low due to sensory dominance. A/R shifts dramatically: Ch 26 (10/90, most reflective — arrival/processing) vs Ch 44 (75/25, most active — BLACKWEIR crisis). Tension peaks escalating toward Ch 44's maximum (10).
 
+---
+
+## Chapter 24 — "Below Level 12" (Mirelle Dubois)
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,700 | 4,000-5,000 | ✅ |
+| Scenes | 4 | 3-5 | ✅ |
+| Paragraphs | ~65 | — | — |
+| Dialogue % | ~6% | 12-15% | ⚠️ Low — justified by solo investigation |
+| Avg sentence length | ~18-20 | 12-16 | ⚠️ High — consistent with Mirelle's dense register |
+| Fragment % | ~20% | 15-25% | ✅ |
+| NbA count | 4 | 2-4 | ✅ |
+
+### Tension Curve
+
+```
+Scene 1 (Transit Box):     ██░░░░░░░░  2/10  — operational ritual, physical baseline
+Scene 2 (Descent):         ████░░░░░░  4/10  — controlled descent, infrastructure discovery
+Scene 3 (Four Junctions):  ██████████  7/10  — gradient revelation, Form 14-C counting
+Scene 4 (Return):          ████░░░░░░  4/10  — evidence processing, metronomic close
+```
+
+Overall: 2→4→7→4 — classic Mirelle TEXTURE arc (slow build, data-driven peak, processing close)
+
+### Beat Map
+
+| Beat | Position | Tension | Description |
+|------|----------|---------|-------------|
+| Dead-hand check | 0% | 2 | Timer at 31 hours — ritual before water, before stimulant |
+| Nitro-ear baseline | 5% | 2 | 8 weeks, specialist warning ignored |
+| Contact meeting | 15% | 3 | Shaft 7-C, credentials exchange |
+| Below Level 12 | 25% | 4 | New infrastructure visible — NitroCore logos, modern composite |
+| First junction (34.6) | 35% | 5 | RCI reading exceeds upper Sump by 2x |
+| Second junction (37.2) | 45% | 6 | Maintenance schedule — infrastructure that doesn't exist being serviced |
+| Form 14-C inventory | 55% | 7 | 23 names, 23 forms — grief as data |
+| Third junction (39.8) | 60% | 7 | Earliest installation (2171), deferred maintenance correlation |
+| Fourth junction (41.3) | 70% | 7 | Six trunk-line branches — Confluence mirror. Peak data revelation. |
+| Evidence transfer | 80% | 5 | Processing — organized by location, cross-referenced |
+| Dead-hand update | 85% | 4 | Deposit growing, annotation: "not negligence — design" |
+| Transit box close | 95% | 3 | Hum carries toward sleep — metronomic |
+| Closing line | 100% | 2 | "The mechanical indifference of a system that did not know she was inside it" |
+
+### Transitions
+
+- **Scene 1→2:** Transit box → Shaft 7-C. Time skip (~hours). Clean break — operational preparation to operational execution.
+- **Scene 2→3:** Descent corridor → junction sequence. Continuous movement. Seamless — geography drives the transition.
+- **Scene 3→4:** Fourth junction → transit box return. Time compression (11 hours → evidence processing). White space break.
+
+Transition quality: **9/10** — geography and procedure drive all transitions; no forced or jarring breaks.
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Sentence rhythm | 9 | Dense blocks punctuated by short punches. Bimodal paragraphs strong. |
+| Scene transitions | 9 | Geography-driven, procedural logic, no forced breaks |
+| Tension management | 9 | Steady data-driven build, no artificial spikes |
+| Information pacing | 9 | Four junctions as escalation ladder — each adds one revelation |
+| Emotional coherence | 9 | Professional containment throughout — grief only surfaces as inventory |
+| **Overall Flow** | **9.0** | |
+
+### Action/Reflection Balance
+
+- **A/R: 30/70** — investigative/processing dominant. Action = physical movement through junctions. Reflection = data analysis, pattern recognition, counting.
+
+### Pacing Notes
+
+**Strengths:**
+- Four-junction structure provides natural escalation without artificial tension
+- RCI gradient as built-in narrative momentum (each reading higher than the last)
+- Form 14-C counting sequence grounds the data in human cost
+- Closing mirrors Ch 21's metronomic ending but with deeper physical integration
+
+**Concerns:**
+- Dialogue at 6% — lowest Mirelle chapter yet (Ch 9 was 25%, Ch 13 was 20%, Ch 21 was 22%). Justified by solo expedition but monitor trend.
+- Sentence length above target — consistent with Mirelle's register but should not drift higher.
+
+**Recommendations:**
+- Ch 34 (next Mirelle) should maintain or slightly increase dialogue percentage (Talia interaction or new contact)
+- The closing's "mechanical indifference" foreshadows Ch 40's absorption — track this dissolution thread
+
+### Comparison to Plan
+
+**Mode match:** TEXTURE ✅ — investigative/infrastructure-documentary texture
+**Adjacent chapter contrast:** Ch 23 (PRESSURE, Nikolai, forward position) → Ch 24 (TEXTURE, Mirelle, deep Sump) — strong contrast. Reader moves from military perimeter to solo investigation.
+
+### Comparison to Previous Mirelle Chapters
+
+| Metric | Ch 2 | Ch 9 | Ch 13 | Ch 21 | Ch 24 | Ch 40 |
+|--------|------|------|-------|-------|-------|-------|
+| Words | — | 5,200 | 4,200 | 3,600 | 4,700 | 3,800 |
+| Dialogue | — | 25% | 20% | 22% | 6% | 0% |
+| Tension | — | 3→6→3 | 3→6→8→4 | 3→6→8→4 | 2→4→7→4 | 7→8→9→10→∅ |
+| Flow | — | 9.0 | 8.6 | 8.8 | 9.0 | 9.2 |
+| A/R | — | 35/65 | 25/75 | 30/70 | 30/70 | 40/60 |
+| NbA | — | — | — | — | 4 | — |
+
+Arc: Dialogue declining steadily (25%→20%→22%→6%→0%) as Mirelle's world narrows — from interviews (Ch 2/9) to analysis (Ch 13/21) to physical investigation (Ch 24) to transmission (Ch 40). Flow improving. Tension peaks escalating subtly toward Ch 40's terminal trajectory.
+
 <!-- INSERT_NEXT_ANALYSIS -->
