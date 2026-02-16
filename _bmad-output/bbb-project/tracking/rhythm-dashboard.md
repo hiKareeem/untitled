@@ -62,6 +62,7 @@ project_name: "Untitled"
 | **24** | Mirelle | 4,700 | TEXTURE | ~6% | 2→4→7→4 | 9.0 | 30/70 | ✅ |
 | **28** | Fuxi | 4,100 | TEXTURE | ~8% | 3→7→3→6 | 9.0 | 15/85 | ✅ |
 | **31** | Kira | 4,500 | TEXTURE | ~8% | 3→8→4→7 | 9.0 | 20/80 | ✅ |
+| **29** | Mirelle | 4,300 | TEXTURE | 0% | 2→4→7→4 | 9.0 | 25/75 | ✅ |
 <!-- INSERT_NEXT_DASHBOARD -->
 
 ### Phase Health
@@ -70,11 +71,11 @@ project_name: "Untitled"
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 11/12 | 11/12 | 8.9 | 5.4 | 3P/8T | 📝 |
-| Phase 3 | 5/14 | 5/14 | 9.0 | 5.4 | 1P/4T | 📝 |
+| Phase 3 | 6/14 | 6/14 | 9.0 | 5.3 | 1P/5T | 📝 |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 1/7 | 1/7 | 9.2 | 4.0 | 0P/1T | 📝 |
 
 ---
 
 _Last updated: 2026-02-16_
-_Updated by: Chapter 28 — "The Network" rhythm analysis_
+_Updated by: Chapter 29 — "The Flood Valves" rhythm analysis_

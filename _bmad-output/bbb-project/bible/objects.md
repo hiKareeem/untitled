@@ -2,8 +2,8 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-15"
-lastChapter: 25
+lastUpdated: "2026-02-16"
+lastChapter: 29
 totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"
@@ -399,6 +399,7 @@ An object deserves documentation if it:
 - Ch 13: Under left insole, 7 months since borrowing. 18 sites measured, 11 above baseline for stratum.
 - Ch 21: 41 measurements across 5 months. Gauthier's objection sharpened: "A single *borrowed* sensor without VEC certification" — the calibration is acknowledged but institutional weight denied. Sensor to accompany Mirelle into Deep Sump (below Level 12) during upcoming expedition.
 - Ch 24: Deep Sump expedition — 4 readings below Level 12: 34.6 (B-12-East), 37.2 (B-12-South), 39.8 (B-12-Sub), 41.3 (B-12-Confluence). RCI gradient increasing with depth and proximity to geological substructure. All readings above Resonance District baseline (30-40) and emergency threshold (40) at the deepest junction. Sensor under left insole throughout expedition.
+- Ch 29: Flood valve expedition — 6 readings across Sectors 4-7: 42.6→43.1→44.7 (deeper than Ch 24 junctions, all above emergency threshold). RCI gradient continues increasing toward the Confluence. Sensor measuring conditions at the outer limits of its design parameters. 8 months since borrowing.
 
 ---
 
@@ -427,6 +428,7 @@ An object deserves documentation if it:
 - Ch 13: Arctic-7 analysis added — infrastructure maps, co-origin annotation, Mirelle's overlay confirming pattern. Timer at 41 hours.
 - Ch 21: Matched-district analysis added to deposit — four-layer overlay (infrastructure density, disappearances, RCI readings, reclassifications). Timer maintained: 26→24→23→20→48 (reset). Deposit now contains complete Phase 2 evidentiary record.
 - Ch 24: Below Level 12 evidence added: continuous ocular recording (11 hours, 4 junctions, time-stamped), 83 offline photographs (dedicated camera, no mesh metadata), 4 RCI readings (junction-specific), installation dates (2171-2173), serial numbers (NitroCore 2170s production run), throughput specifications, 200-word annotation in raw register: "The pattern is not negligence. It is design." Timer at 31 hours when checked (41 remaining). Deposit now contains Phase 3 field evidence.
+- Ch 29: Flood valve evidence added: 47 offline photographs (6 valves, procurement tags, serial numbers, hydraulic specs, secondary drainage outlets, junction mapping), 6 RCI readings (42.6→43.1→44.7), 5h47m continuous ocular recording, 300-word annotation in raw register: "The flood valves are not a maintenance upgrade. They are a weapon. This is an execution architecture designed to be invisible until the moment it activates." Timer at 19 hours when checked (pinged late — working). Deposit now contains flood valve evidence + Below Level 12 infrastructure + matched-district analysis + Arctic-7 + demographics.
 - Phase 4 (Ch 40): Mirelle absorbed mid-sentence during BLACKWEIR. Last check-in 31 hours prior; 41 hours remaining on current window. Two missed windows = ~113 hours post-absorption before auto-distribute fires. Machine delivers.
 - Phase 5: Data reaches recipients. Talia inherits the archive.
 

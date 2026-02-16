@@ -424,6 +424,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Kira POV (3rd appearance). Monthly pharmacy pickup (Bay Area) → Neo-Shanghai for Academy promo tour. Geographic amplification: hum shifts on landing — denser, more resolved, R3 at capacity. Panel managed on-camera; backstage hands shaking (new symptom). Hotel room: pill sorting ritual as grounding (30-day holder). Hum assessed as 'structured,' 'articulate,' 'phrasing' — signal using infrastructure as medium. Message to mage network: 'It's louder here. Much louder. Does anyone else feel like it's words?' — the naming. Fingertip dropout now ulnar (ring + little). Epigraph: Academy travel advisory irony."
 
-completedCount: 41
-totalWords: 191737
+  chapter_29:
+    title: "The Flood Valves"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 4300
+    completedDate: "2026-02-16"
+    metaFile: "chapter-29-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Mirelle POV (6th appearance). Deep Sump flood valve discovery. Descended via Shaft 9-A (municipal maintenance credentials, Contact's chain). Six flood valves documented: NitroCore PMU-7 series (2172), NCS-4400 hydraulic gates, hardwired control (no wireless/mesh), secondary drainage directional toward Confluence. RCI gradient 42.6→43.1→44.7. Does NOT know BLACKWEIR purpose (dramatic irony with Ch 25/28). Nitro-ear bilateral at 9 weeks (3 remaining). Dead-hand updated: 47 photographs, 6 RCI readings, 5h47m recording, 300-word annotation: 'The flood valves are not a maintenance upgrade. They are a weapon.' 26 disappearances / 6 sectors. 'The twenty-seventh had not been hers. Not today.'"
+
+completedCount: 42
+totalWords: 196037
 lastUpdated: "2026-02-16"

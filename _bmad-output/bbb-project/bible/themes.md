@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-16"
-lastChapter: 28
+lastChapter: 29
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -735,6 +735,15 @@ This bible dimension tracks **theme evolution**:
 | Bench removed (Ch 28) | Architecture, Irrelevance | Institutional erasure of gathering points — the welded bench from Ch 22 cut at the bolts |
 | Nuwa's closed door (Ch 28) | What We Owe, Identity | Isolation within the domestic space — withdrawal as response to system failure |
 | Entry 63 (Ch 28) | Truth, Complicity | Log's evolution from technical to political — administrative data enters the record |
+| Flood valves (Ch 29) | Architecture, Atrocity | Physical execution infrastructure — NCS-4400 hydraulic gates, PMU-7 series, spanning full trunk-line diameters. Mirelle's physical discovery (6 valves) parallels Lian's count (47, Ch 28). Cross-POV dramatic irony: reader knows BLACKWEIR purpose (Ch 25), Mirelle doesn't. |
+| "A *gate.*" (Ch 29) | Architecture, Truth | Mirelle's naming — the moment infrastructure becomes weapon in perception. Italicized payoff word. |
+| "*Sealed.*" (Ch 29) | Architecture, Atrocity | NbA payoff: "Not severed. *Sealed.*" — the distinction between cutting and containing. The valves don't destroy, they redirect. |
+| PMU-7 / "Routine Maintenance" (Ch 29) | Complicity, Architecture | Epigraph work order: "Classification: Routine Maintenance. Public notification: Not required." Bureaucratic classification of kill infrastructure as municipal upgrade. |
+| Hardwired control conduit (Ch 29) | Architecture | Command architecture unreachable from outside — no wireless, no mesh, no remote monitoring. Power through physical isolation. Seeds Ch 39 activation. |
+| Secondary drainage outlet (Ch 29) | Architecture, Atrocity | Directional flow toward the Confluence — the valves don't just seal, they redirect. BLACKWEIR mechanism foreshadowed through plumbing. |
+| Bilateral ringing (Ch 29) | Commodification, Identity | Second tone in left ear (lower, wider) — infrastructure writing itself into Mirelle's skull. The body as recording medium. |
+| "Eleven million credits" (Ch 29) | Complicity, Architecture | Cost of flood valve infrastructure hidden in quarterly procurement filings. Corporate spending that doesn't exist in any public record. |
+| "The twenty-seventh" (Ch 29) | Irrelevance, Truth | Disappearance count climbing (Ch 9: 16, Ch 13: 18, Ch 21: 23, Ch 24: 24, Ch 29: 27) toward 31 at Ch 40. Self-count as journalist entering her own dataset. |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---
