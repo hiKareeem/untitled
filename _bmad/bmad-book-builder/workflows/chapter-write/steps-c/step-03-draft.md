@@ -148,13 +148,13 @@ Update frontmatter:
 - Add 'step-03-draft' to stepsCompleted
 - Set draftVersion: {version}
 
-### 6. Auto-Proceed to Review
+### 6. Auto-Proceed to Self-Review
 
-"**Draft saved. Proceeding to multi-agent review...**"
+"**Draft saved. Proceeding to style audit...**"
 
 → Automatically load {nextStepFile}
 
-(No menu at this step — auto-proceed to review)
+(No stop at this step — draft flows directly into style audit. The author review stop comes after step-04.)
 
 ---
 

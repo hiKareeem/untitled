@@ -107,14 +107,24 @@ For each approved fix:
 
 Re-run anti-slop check on all fixed passages.
 
-### 4. Save and Proceed
+### 4. Save and Present for Author Review
 
 Update {outputFile} frontmatter:
 - Add 'step-04-self-review' to stepsCompleted
 
-"**Style audit complete. Proceeding to character and continuity audit...**"
+"**Style audit complete. Draft is ready for author review.**
 
-→ Automatically load {nextStepFile}
+The chapter has been drafted and style-audited. Please review the draft, provide any line-level edits or comments, and confirm when ready to proceed to character/continuity audit.
+
+**Select an option:** `[C]` Continue to Audit `[E]` Edit Mode (apply specific changes first)"
+
+### MENU HANDLING LOGIC:
+
+- IF C: Load, read entire file, then execute {nextStepFile}
+- IF E: Wait for author's line-level edits, apply them, then redisplay menu
+- IF Any other: Help user, then redisplay menu
+
+**CRITICAL: Do NOT auto-proceed. The author MUST review the draft before the audit runs.**
 
 ---
 

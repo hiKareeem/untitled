@@ -44,6 +44,11 @@ status: v1-complete  # Always v1-complete for finished first drafts
 - **State Tracking**: Document progress in output file frontmatter using `stepsCompleted` array
 - **Append-Only Building**: Build documents by appending content as directed to the output file
 - **Audit Chain**: Steps 04-06 form the audit chain: style → character/continuity → bible/tracking update
+- **Stop Architecture**: Two hard stops require author input before proceeding:
+  1. **After Brief (step-02)** — Author approves direction before drafting begins
+  2. **After Self-Review (step-04)** — Author reviews draft and applies line-level edits before audit
+  - Draft→Self-Review (step-03→04): auto-proceed (no user action needed)
+  - Audit→Bible Update (step-05→06): auto-proceed (continuous finalization)
 
 ### Step Processing Rules
 
