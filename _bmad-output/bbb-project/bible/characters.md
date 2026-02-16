@@ -555,6 +555,7 @@ This bible dimension tracks **current character states**:
 - Emotional State: Methodical precision masking horror; the data confirmed everything and prevented nothing
 - Dominant Beliefs: "The data is clean. Defensible. Corroborated." — but the belief that understanding leads to action is shattered
 - Internal Contradictions: Has the complete picture and no institution that will use it; understanding did not produce control
+- **Ch 33 state:** Institutional faith destroyed. The Lie broken ("if the science is good enough, the institution will have to take it seriously" — the science was good enough, the institution classified it twice). Data transmitted to Black Babel. Acting outside institution for first time.
 
 **The Lie:** Science is inherently moral
 
@@ -584,7 +585,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Chapter 41 ("The Data") — 3rd POV chapter
+- Last Appearance: Chapter 41 ("The Data") — 4th POV chapter
+- Previous: Ch 5 (Phase 1), Ch 15 (Phase 2), Ch 27 (Phase 3), Ch 33 (Phase 3), Ch 41 (Phase 4)
 - Next Planned Appearance: Phase 5 (publication through Black Babel)
 
 **Recent History:**
@@ -594,6 +596,8 @@ This bible dimension tracks **current character states**:
 - **Emotional arc (Ch 15):** Methodical focus → controlled awe (0.94) → physical anchoring → strategic compliance → analytical intensification → moral threshold recognition
 - **Ch 27:** 7-hour immersion pod session (04:17am) attempting to close 31% model residual. No physical variable explains the 22-day cycle. Working through social proxies, introduced consciousness-dependent variable: conscious event density (approximated via Feed engagement data weighted by conduit proximity). Adding it collapsed residual to 3%, correlation 0.97. Scientific framework explicitly cracked — "the discipline had no framework for the variable the model required." Nitro established as experiential substrate / recording medium. Void responds to what the material has heard. Wrote full paper with complete methodology, did not submit. Archived as Entry 17, external encryption. Mother parallel surfaced (Elena Vargas — NitroCore classified 14 years of work). Stopped calculating the number: Sump stratum, 340K people/km², 14.3 hrs/day, 47 years. Closing: field kit in hands, dark lab, "Not yet was not the same as nothing."
 - **Emotional arc (Ch 27):** Methodical immersion → breakthrough recognition → scientific framework rupture → horror-as-implication → institutional certainty (will be classified within 48hrs) → archival resolve → calculation avoidance → suspended decision state
+- **Ch 33:** Took Entry 17 paper directly to Director Novak, bypassing Liang. Meeting: Novak + Liang + Classification Directorate already present (briefing read in advance). "We're aware." — the 2170 Solberg Report documented the same convergence pattern (0.89 correlation), recommended 40% throughput reduction. Classified under Directive 7.3 (revised 2171, the year after Solberg). Solberg resigned/disappeared. Sofia's findings placed under same directive. Asked "Where is Dr. Solberg?" — no answer. Walked out. Created Entry 18 (institutional inventory: what VEC knew, what VEC did, what VEC did not do). Elena Vargas parallel surfaced (mother's 14 years classified at NitroCore). Contacted Dr. Yael Orent (VEC Singapore) through research exchange, naming Solberg. Black Babel responded via anonymous encrypted channel. Configured channel, transmitted Entries 17 + 18. Confirmation: timestamp and node identifier. Data outside VEC's classification architecture for the first time.
+- **Emotional arc (Ch 33):** Resolve → institutional dread → betrayal recognition → cold fury → physical rupture (stairwell) → moral clarity → deliberate defiance → action (transmission) → uncertain resolve
 - **Ch 41:** BLACKWEIR observed on instruments — Confluence wave propagation matches convergence models exactly. Locked out of Liang's 47th floor classified briefing (biometric denial). VEC Emergency Alert reveals VPI metric (Sofia's invention) operationalized without her knowledge. 11-second coherence spike overwhelms instruments. Dead-hand cache fragments arrive via Black Babel encrypted relay — anonymous field evidence (RCI measurements, BLACKWEIR designation, flood valve documentation, procurement records) matching her atmospheric data at every point of overlap. Archives complete dataset (atmospheric + field) in personal encrypted archive outside VEC network. "The data was complete. The data had prevented nothing."
 - **Emotional arc (Ch 41):** Scientific urgency → engineered-horror recognition → institutional frustration (locked out) → controlled observation → physical overwhelm (spike) → analytical absorption (fragments) → horror-as-data → calm-as-instrument-reading → archival resolve → impotent clarity
 
@@ -741,8 +745,14 @@ This bible dimension tracks **current character states**:
 | Chen-Nakamura | New character (background) | — | CFO; pearl earrings; seated at Eduardo's right; presents quarterly without inflection through slide 17 | Ch 7 |
 | Sofia Reyes | Arc + Recent History | Phase 1/5, Ch 5 last appearance | Phase 2/5 (Disruption); 0.94 correlation discovered; institutional faith cracking; archive entry 16; "It was becoming a choice" | Ch 15 |
 | Dr. Liang | Appearance + Recent History | Ch 5 last appearance | Second appearance; holds correlation paper for methodology review; escalates from deflection to active containment; wall-vs-valve ambiguity | Ch 15 |
-| Sofia Reyes | Arc + Recent History | Phase 2/5, Ch 15 last appearance | Phase 4/5 (Crisis); instruments confirm BLACKWEIR; locked out of classified briefing; dead-hand cache received; complete dataset archived; "The data had prevented nothing" | Ch 41 |
-| Dr. Liang | Appearance + Recent History | Ch 15 last appearance | Third appearance (visual only); seen through glass in 47th floor classified briefing during BLACKWEIR; hands flat on table; does not look at Sofia; ambiguity preserved | Ch 41 |
+| Sofia Reyes | Arc + Recent History | Phase 2/5, Ch 15 last appearance | Phase 3/5: Takes Entry 17 to Novak; Solberg Report reveal (VEC knew 5 years); Directive 7.3 applied; Entry 18 created; Black Babel channel configured; data transmitted | Ch 33 |
+| Dr. Liang | Appearance + Recent History | Ch 15 last appearance | Third appearance; silent in Novak's office during Ch 33 meeting; hands flat; complicity deepened from gatekeeper to witness | Ch 33 |
+| Director Novak | First on-page appearance | Referenced only (Ch 17 meta, dossier) | First live appearance; reveals Solberg Report; face grey; defers to Classification Directorate; does not answer about Solberg's fate | Ch 33 |
+| Classification Directorate rep | New character (unnamed) | — | Institutional function; delivers Directive 7.3; takes notes; "Standard protocol" | Ch 33 |
+| Dr. Yael Orent | New character (referenced) | — | VEC Singapore; forwarding chain to Black Babel; "I had a similar finding. Mine was also held." | Ch 33 |
+| Dr. Maren Solberg | New character (referenced, absent) | — | 2170 Solberg Report; 23 years at VEC; 0.89 correlation; classified; resigned/disappeared | Ch 33 |
+| Sofia Reyes | Arc + Recent History | Phase 3/5, Ch 33 last appearance | Phase 4/5 (Crisis); instruments confirm BLACKWEIR; locked out of classified briefing; dead-hand cache received; complete dataset archived; "The data had prevented nothing" | Ch 41 |
+| Dr. Liang | Appearance + Recent History | Ch 33 last appearance | Fourth appearance (visual only); seen through glass in 47th floor classified briefing during BLACKWEIR; hands flat on table; does not look at Sofia; ambiguity preserved | Ch 41 |
 
 ---
 

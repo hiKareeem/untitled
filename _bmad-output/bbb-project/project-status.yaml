@@ -454,6 +454,16 @@ chapters:
     mode: PRESSURE
     notes: "Phase 3 — Nikolai POV (4th appearance). Class Three containment, Sector 7. Lattice follows conduit trunk-lines — 'It's not spreading. It's *navigating.*' Nikolai orders Jarek to forward position; panel explosion compromises P-Frame shielding to 40%. Six residential blocks absorbed (~6,000 people); perimeter prevents egress. 'What are we doing?' / 'We're following the protocol.' Command: 'The containment zone will not be reinforced.' After-action report: writes 'non-random distribution' then deletes to 'anomalous observations: none' — falsification escalation. Field log records 'navigating.' RCI peak 46.2. Deployment Q1-0428. Guilt architecture → Ch 38 'safest position.'"
 
-completedCount: 44
-totalWords: 206137
+  chapter_33:
+    title: "They Already Knew"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4300
+    completedDate: "2026-02-16"
+    metaFile: "chapter-33-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Sofia POV (4th appearance). Takes Entry 17 to Director Novak (first on-page). Meeting: Novak + Liang + Classification already present. 'We're aware' — 2170 Solberg Report (0.89 correlation, 40% throughput reduction recommended, classified under Directive 7.3 revised 2171). Solberg resigned/disappeared. Sofia's findings placed under same directive. 'Where is Dr. Solberg?' — no answer. Entry 18 created (institutional inventory). Elena Vargas parallel (mother, 14 years classified). Contacted Dr. Yael Orent (VEC Singapore) through research exchange, naming Solberg. Black Babel responded via anonymous encrypted channel. Transmitted Entries 17 + 18. Confirmation: timestamp + node identifier. Data outside VEC classification architecture for first time. Field kit closing image."
+
+completedCount: 45
+totalWords: 210437
 lastUpdated: "2026-02-16"

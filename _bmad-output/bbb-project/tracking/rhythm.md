@@ -3005,6 +3005,103 @@ This is the correct ratio for Sofia — her "action" is cognitive, her "reflecti
 
 **Arc:** Sofia's chapters are compressing (length declining), dialogue declining toward zero, NbA technique intensifying, flow improving. The trajectory is toward a pure interior discovery mode. Ch 27 is the current terminus of this arc — the moment the scientific method produces a result the institution will suppress.
 
+## Chapter 33: "They Already Knew" — Sofia Reyes (TEXTURE)
+
+### Basic Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,300 | 3,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~58 | — | — |
+| Dialogue % | ~8% | 10–20% | ⚠️ Low — justified: 3 of 4 scenes solo |
+| Avg sentence length | ~20 words | 12–16 | ⚠️ Sofia register (consistent with Ch 27: 22.4) |
+| Fragment % | ~15% | 15–25% | ✅ |
+
+### Beat Map
+
+1. [3%] OPENING — Entry 17, eleven days, "not yet" → +1
+2. [10%] TEXTURE — Convergence data, 0.7 Hz intensified 4%, tolerance bands widened → +1
+3. [18%] DECISION — Not Liang. Novak. Briefing package sent. → +1
+4. [25%] ARRIVAL — 47th floor. Novak not alone. Liang + Classification present. → +2
+5. [33%] PRESENTATION — Standing. 0.97 correlation. Vertical gradient. → hold
+6. [40%] SILENCE — "Not the silence of people absorbing new information." → +1
+7. [45%] REVEAL — "We're aware." Solberg Report 2170. → +2 (peak)
+8. [55%] CLASSIFICATION — Directive 7.3 applied. "Standard protocol." → hold
+9. [60%] QUESTION — "Where is Dr. Solberg?" No answer. → +1
+10. [65%] EXIT — Walks out. Stairwell cold. Hands shaking. → -1
+11. [72%] INVENTORY — Entry 18. Institutional record. Elena Vargas parallel. → +1
+12. [80%] CONTACT — Message to Orent. Names Solberg. → +1
+13. [88%] CHANNEL — Black Babel response. Encrypted. Configures channel. → +1
+14. [93%] TRANSMISSION — Entries 17 + 18 transmitted. Timestamp + node ID. → hold
+15. [98%] CLOSING — Field kit. "Now she was learning what came after." → -1
+
+**Beat density:** 1 per ~285 words — high density, driven by institutional confrontation and rapid-sequence decisions
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |
+ 7 |            ★
+ 6 |         ●     ●
+ 5 |      ●           ●  ●  ●
+ 4 |   ●                       ●
+ 3 | ●                            ●
+ 2 |
+ 1 |
+   +--+--+--+--+--+--+--+--+--+--→
+     O  1  2  3  4  5  6  7  8  C
+
+O=Entry 17, 1=Decision, 2=Arrival, 3=Presentation,
+4="We're aware"/Solberg, 5=Classification/Exit,
+6=Entry 18/Orent, 7=Black Babel, 8=Transmission, C=Closing
+```
+
+**Shape:** Asymmetric peak — tension builds through institutional confrontation (O→4), peaks at Solberg reveal (4), sustains through classification and exit (5), then enters a second lower plateau through the Black Babel sequence (6→8) before settling. Unlike Ch 27's intellectual-discovery plateau, Ch 33's peak is institutional betrayal. The second plateau (transmission sequence) sustains engagement through action rather than reflection.
+
+### Flow Assessment
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Opening hook | 9/10 | "The paper had been finished for eleven days." — temporal precision as tension. |
+| Scene transitions | 9/10 | Clean horizontal rules. Stairwell beat bridges Scenes 2→3 (physical transition = emotional transition). |
+| Sentence variety | 8.5/10 | Bimodal — long analytical blocks + short institutional declarations. Less variety than Ch 27 (no data-discovery momentum). |
+| Paragraph rhythm | 9/10 | Dense institutional blocks alternating with single-line punches ("Nobody stopped her.") |
+| Motif integration | 9/10 | Field kit (4x), hum (all scenes), "not yet" (opening + closing), institutional language as weapon |
+| **Overall Flow** | **9.0/10** | |
+
+### Action/Reflection Balance
+
+- **Action:** 15% (sending briefing, presenting, walking out, composing messages, configuring channel, transmitting)
+- **Reflection:** 85% (institutional analysis, Solberg processing, Elena Vargas parallel, moral calculus)
+- Identical ratio to Ch 27 (15/85). Sofia's "action" remains cognitive/archival. The transmission is the chapter's only true external action — and it happens in four seconds.
+
+### Pacing Notes
+
+- **Strengths:** The meeting scene (Scene 2) is the chapter's architectural center — three faces read in sequence, "We're aware" as the two-word demolition of Sofia's institutional faith. The stairwell beat bridges the emotional rupture into physical sensation. Entry 18 as "inventory" (not paper, not methodology) signals Sofia's shift from scientist to witness. The Black Babel transmission in Scene 4 mirrors the submission-field pause from Ch 27 — same gesture, different meaning.
+- **Concerns:** Dialogue at ~8% is the second-lowest Sofia chapter (Ch 27: 0.5%). Justified by solo scenes but monitor. The meeting scene carries all the dialogue and could support one more Novak line.
+- **Recommendations:** TEXTURE subtype confirmed: **institutional/scientific-betrayal** (meeting as scene architecture, Solberg reveal as tension engine, classification directive as institutional horror, transmission as counter-action). Cross-link with Ch 41: timestamp + node identifier. Cross-link with Ch 22: VEC-THR-2169.4-D = Solberg Appendix D.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 3, TEXTURE, 3–5K words)
+- Adjacent chapter contrast: ✅ (Ch 32 = Nikolai/PRESSURE/military-operational → Ch 33 = Sofia/TEXTURE/institutional-betrayal)
+
+### Comparison to Previous Sofia Chapters
+
+| Metric | Ch 5 | Ch 15 | Ch 27 | **Ch 33** |
+|--------|------|-------|-------|-----------|
+| Words | 4,800 | 4,200 | 3,787 | **4,300** |
+| Dialogue | 8% | 12% | 0.5% | **~8%** |
+| Tension | 2→4→3 | 3→5→4 | 2→4→7→4 | **3→7→5→7→4** |
+| Flow | 8.8 | 8.9 | 9.1 | **9.0** |
+| A/R | 20/80 | 25/75 | 15/85 | **15/85** |
+| NbA | 6 | 7 | 11 | **4** |
+
+**Arc:** Word count stabilizes after Ch 27's compression (3,787→4,300). Dialogue recovers from Ch 27's near-zero (meeting scene provides external voices). Tension peaks escalating across arc (4→5→7→7) — Ch 33 matches Ch 27's peak but sustains it through a dual-peak structure. NbA drops sharply (11→4) — the trimming was deliberate; Ch 33's register shifts from interior discovery to institutional confrontation, which uses declaration rather than negation-before-assertion. Flow stable at 9.0-9.1. Sofia's trajectory has shifted from pure interior discovery mode (Ch 27) to exterior action mode (Ch 33) — the science found the truth, the institution suppressed it, now she acts.
+
 <!-- INSERT_NEXT_ANALYSIS -->
 
 ## Chapter 32: "Class Three" — Nikolai Volkov (PRESSURE)

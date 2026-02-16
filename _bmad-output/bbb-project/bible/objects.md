@@ -611,7 +611,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Ruggedized sensor package (personal, not institutional)
 - Function: Data goes to Sofia's personal archive before anywhere else. Portable atmospheric monitoring independent of VEC systems.
-- Condition: Operational, not yet deployed for the sub-strata anomaly
+- Condition: Operational; scratch on upper housing from Resonance District (5 weeks, smoothing under daily handling)
 
 **Significance:** The field kit represents Sofia's institutional grey zone — not sanctioned, not prohibited, tolerated as long as it doesn't produce results that contradict institutional findings. It exists in the space between institutional compliance and independent investigation. When she deploys it outside VEC for the pulse, she crosses a line.
 
@@ -620,6 +620,9 @@ An object deserves documentation if it:
 
 **History:**
 - Ch 5: Mentioned, picked up from shelf, placed in bag. Not yet deployed for the sub-strata pulse. The taking of the kit is the chapter's most concrete act of quiet defiance.
+- Ch 27: On corner of desk; picked up without deciding to. Scratch on upper housing from Resonance District 3 weeks prior. Held in both hands while sitting in dark. Four hundred grams, familiar weight.
+- Ch 33: Scratch smoothing under 5 weeks of daily handling. Carried in bag to Novak meeting ("the one instrument she trusted more than the institution that had issued it"). Held in lap in empty monitoring lab while waiting for Orent response. Closing image: held in both hands at apartment window. "The instrument that had measured what the institution would not."
+- Ch 41: Present in pod during BLACKWEIR observation.
 
 ---
 
@@ -633,7 +636,7 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Encrypted terminal in Sofia's VEC apartment, small desk
 - Function: Stores data outside VEC's institutional pipeline. Non-VEC network components. Personal research archive.
-- Condition: Active — 16 entries as of Ch 15
+- Condition: Active — 18 entries as of Ch 33; data transmitted to Black Babel
 
 **Significance:** The archive is Sofia's act of responsibility — not rebellion but preservation. It contains 14 previous anomalous readings that VEC's process recalibrated into silence, plus the 15th (the 0.7 Hz pulse). The number 14 connects to the Erasure List epigraph: "Before Solberg, there were fourteen independent attempts to measure the coherence anomaly. All fourteen were recalibrated into silence." The archive becomes critical in Phase 3 when VEC classifies her work, and in Phase 4-5 when she publishes through Black Babel.
 
@@ -643,6 +646,8 @@ An object deserves documentation if it:
 **History:**
 - Ch 5: 15th entry saved — the 0.7 Hz pulse data, waveforms, temporal analysis, recalibration documentation, and the anomaly report submitted through official channels. The official copy enters the pipeline; the personal copy stays outside.
 - Ch 15: 16th entry saved — the full correlation dataset (211 deployments × atmospheric pulse data), the twelve-page preliminary paper ("Temporal Correlation Between Sub-Strata Atmospheric Anomalies and Stalker Tactical Deployments"), and the vertical gradient analysis. Archived the same night Liang held the institutional copy for methodology review. The dual-channel strategy deepens from record to strategic preservation — "record, not rebellion" becoming "a choice."
+- Ch 27: 17th entry saved — the complete consciousness-dependent variable paper ("The Non-Physical Variable"), 0.97 correlation, convergence model, vertical gradient. External encryption. "NV — draft — do not submit."
+- Ch 33: 18th entry saved — institutional inventory (not a paper, not a methodology statement). Documents what VEC knew (Solberg Report 2170), what VEC did (classified, continued operations), what VEC did not do (reduce throughput, assess evacuations). First non-scientific entry — the archive evolves from research record to institutional evidence. Both entries 17 + 18 transmitted to Black Babel via anonymous encrypted channel. Data outside VEC's classification architecture for the first time.
 - Ch 41: Complete dataset merged — real-time Confluence recordings (timestamped), anonymous dead-hand cache fragments (Mirelle's field evidence, unedited, gaps preserved), atmospheric convergence data, vertical gradient analysis, correlation paper. First time atmospheric data and field evidence exist in the same archive. The archive is now the most complete evidentiary record of BLACKWEIR outside institutional channels.
 
 ---

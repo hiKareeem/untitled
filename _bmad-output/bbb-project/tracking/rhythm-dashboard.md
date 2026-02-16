@@ -4,7 +4,7 @@ type: tracking
 lastUpdated: "2026-02-15"
 lastChapter: "Chapter 46"
 totalChapters: 53
-analyzedChapters: 25
+analyzedChapters: 28
 project_name: "Untitled"
 ---
 
@@ -45,7 +45,9 @@ project_name: "Untitled"
 | **21** | Mirelle | 3,600 | TEXTURE | ~22% | 3→6→8→4 | 8.8 | 30/70 | ✅ |
 | **22** | Fuxi | 5,200 | TEXTURE | ~10% | 3→6→9→5 | 9.0 | 20/80 | ✅ |
 | 15–17 | Phase 2 | — | Mixed | — | — | — | — | 📝 |
+| **23** | Nikolai | 4,600 | PRESSURE | ~12% | 3→4→6→5 | 8.8 | 35/65 | ✅ |
 | 23–36 | Phase 3 | — | Pressure-dom | — | — | — | — | 📝 |
+| **27** | Sofia | 3,787 | TEXTURE | ~0.5% | 2→4→7→4 | 9.1 | 15/85 | ✅ |
 | **43** | Kira | 4,600 | TEXTURE | ~8% | 3→10→2 | 9.0 | 20/80 | ✅ |
 | **40** | Mirelle | 3,800 | PRESSURE | 0% | 7→8→9→10→∅ | 9.2 | 40/60 | ✅ |
 | **42** | Nuwa | 4,200 | PRESSURE | 0% | 4→7→5 | 9.2 | 5/95 | ✅ |
@@ -65,6 +67,7 @@ project_name: "Untitled"
 | **29** | Mirelle | 4,300 | TEXTURE | 0% | 2→4→7→4 | 9.0 | 25/75 | ✅ |
 | **30** | Zeyad | 4,600 | TEXTURE | ~15% | 3→6→4→8 | 9.0 | 20/80 | ✅ |
 | **32** | Nikolai | 5,500 | PRESSURE | ~15% | 3→7→9→9→6→3 | 9.0 | 40/60 | ✅ |
+| **33** | Sofia | 4,300 | TEXTURE | ~8% | 3→7→5→7→4 | 9.0 | 15/85 | ✅ |
 <!-- INSERT_NEXT_DASHBOARD -->
 
 ### Phase Health
@@ -73,11 +76,11 @@ project_name: "Untitled"
 |-------|---------|----------|----------|-------------|-----------|--------|
 | Phase 1 | 11/11 | 11/11 | 8.8 | 4.8 | 2P/9T | ✅ |
 | Phase 2 | 11/12 | 11/12 | 8.9 | 5.4 | 3P/8T | 📝 |
-| Phase 3 | 8/14 | 8/14 | 9.0 | 5.5 | 2P/6T | 📝 |
+| Phase 3 | 11/14 | 11/14 | 9.0 | 5.5 | 3P/8T | 📝 |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
 | Phase 5 | 1/7 | 1/7 | 9.2 | 4.0 | 0P/1T | 📝 |
 
 ---
 
 _Last updated: 2026-02-16_
-_Updated by: Chapter 32 — "Class Three" rhythm analysis_
+_Updated by: Chapters 23, 27, 33 — dashboard integration_
