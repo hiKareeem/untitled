@@ -2784,6 +2784,62 @@ Transition quality: **9/10** — geography and procedure drive all transitions; 
 
 Arc: Dialogue declining steadily (25%→20%→22%→6%→0%) as Mirelle's world narrows — from interviews (Ch 2/9) to analysis (Ch 13/21) to physical investigation (Ch 24) to transmission (Ch 40). Flow improving. Tension peaks escalating subtly toward Ch 40's terminal trajectory.
 
+## Chapter 28 — Fuxi Lin: "The Network"
+
+**Phase:** 3 | **Mode:** TEXTURE | **Date analyzed:** 2026-02-16
+
+### Metrics
+
+| Metric | Value |
+|--------|-------|
+| Word count | ~4,100 |
+| Scenes | 4 (bench meeting, pump station, walk home + domestic, apartment closing) |
+| Paragraphs | ~65 |
+| Dialogue % | ~8% |
+| Avg sentence length | ~14 words |
+| Fragment % | ~18% |
+
+### Tension Curve
+
+```
+Scene 1 (Bench):       ██░░░░░░░░ 3 → guarded, data exchange
+Scene 2 (Pump station): █████░░░░░ 5 → collective reckoning, flood valve reveal peaks to 7
+Scene 3 (Walk + home):  ███░░░░░░░ 3 → corridor normalcy, domestic observation
+Scene 4 (Transfer/log): ██████░░░░ 6 → transfer denial, impotence, Entry 63
+```
+
+Tension: 3→7→3→6 — double-valley with revelation peak (pump station) and emotional peak (transfer denial).
+
+### Flow Score: 9.0/10
+
+- **Scene transitions:** 9/10 — section breaks clean; bench→pump station is physical movement; pump station→corridor is temporal; corridor→apartment is seamless
+- **Information delivery:** 9/10 — flood valve data delivered through character expertise, not exposition
+- **Pacing:** 9/10 — pump station scene longest (correctly), domestic scene compressed
+- **Voice consistency:** 9.5/10 — Fuxi's paratactic register maintained throughout
+
+### Action/Reflection Balance: 15/85
+
+Heavy reflection — appropriate for TEXTURE mode. The "action" is informational (meeting, data sharing) rather than physical. The domestic scene is pure observation/reflection.
+
+### Pacing Notes
+
+**Strengths:** The pump station scene builds through accumulation — names, specializations, years — before the flood valve revelation. The domestic scene's compression (broth, silence, transfer denial, goodnight) delivers maximum impact in minimum space. The closing mirrors Ch 22 structurally (alone, dark, frame, file) but the content has evolved.
+
+**Comparison to plan:** TEXTURE mode confirmed. Adjacent chapter contrast: Ch 27 (Sofia, VEC institutional) → Ch 28 (Fuxi, Sump labor) provides strong POV/register shift.
+
+### Comparison to Previous Fuxi Chapters
+
+| Metric | Ch 4 | Ch 8 | Ch 16 | Ch 22 | Ch 28 |
+|--------|------|------|-------|-------|-------|
+| Words | ~4,800 | ~4,600 | ~5,300 | ~5,200 | ~4,100 |
+| Dialogue | ~5% | ~12% | ~5% | ~10% | ~8% |
+| Tension peak | 5 | 4 | 5 | 9 | 7 |
+| Flow | 8.6 | 8.8 | 8.8 | 9.0 | 9.0 |
+| Fragment % | ~20% | ~15% | ~18% | ~20% | ~18% |
+| NbA | 3 | 2 | 3 | 4 | 3 |
+
+Arc: Word count declining slightly (from 5,200→4,100) as Fuxi's chapters compress toward action. Dialogue oscillating (5→12→5→10→8) — Ch 28 at midpoint, appropriate for group meeting format. Tension peaks escalating (5→4→5→9→7) — Ch 22's step-function spike was the series peak; Ch 28 is aftermath/processing. Flow stable at 9.0. NbA within 2-4 target.
+
 <!-- INSERT_NEXT_ANALYSIS -->
 
 ## Chapter 27 — Sofia Reyes: "The Non-Physical Variable"

@@ -761,6 +761,7 @@ An object deserves documentation if it:
 **History:**
 - Ch 16: First referenced. Seven entries. Acceleration pattern documented. Guo (unit 14-7B) is the entry where technical language strains against personal knowledge — Fuxi knew this one.
 - Ch 22: 62 entries. Step-function spike logged as entry 62 (43.1, 4.7σ, no decay — "Decay profile: NONE. Step-function."). Kindling contact offers delivery system: "Your file. Our frame." The log's missing recipient has appeared. The data is now politically legible.
+- Ch 28: 63 entries. Entry 63 records Nuwa's transfer denial (reason code 14-J, infrastructure personnel retention priority, indefinite) alongside RCI data. The log now includes administrative data — evolving from technical to political. "Tuesday was five days away."
 - Ch 39: Eighth entry added during BLACKWEIR (peak 34.1+, no decay, duration: ongoing). The acceleration pattern reaches its predicted terminus — step-function spike. "The column for names still empty because the names were not disappearing one at a time anymore." Fuxi closes the file: "the pattern was complete." The log's truth is confirmed and made irrelevant simultaneously. *Describe what you see* fulfilled; "the description had changed nothing."
 
 ---

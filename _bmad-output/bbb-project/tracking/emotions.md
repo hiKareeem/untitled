@@ -621,6 +621,7 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 - **Ch 8 (Apartment)**: Domestic warmth → provider-identity math → argumentative tenderness → mutual silence → private reflection → deliberate suppression
 - **Ch 16 (Monitoring bay / Apartment)**: Observational precision → pattern recognition → moral weight → Kindling vocabulary → domestic tenderness under strain → unilateral withholding → documentation as containment
 - **Ch 22 (Monitoring bay / Corridor / Apartment)**: Routine precision (strained) → isolation (data without recipient) → recognition (Kindling contact) → grief (Wen) → temptation (framework offered) → shock (step-function) → institutional abandonment → comprehension (phase transition) → release (multitool) → intention (Thursday)
+- **Ch 28 (Bench / Pump station / Apartment)**: Guarded readiness → data confirmation (parallel record) → collective recognition (network meeting) → moral comprehension (delivery system) → domestic observation (Nuwa's tightness) → protective silence → transfer shock → impotence (where would they go?) → documentation (Entry 63)
 
 ### Per-Chapter Emotional Beats
 
@@ -662,6 +663,14 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 | Ch 22 — Beat 8 | Comprehension (phase transition) | 31 minutes alone; entry 62; the word "phase transition" | The data has changed its meaning — spikes were anomalies, now they're evidence of a threshold exceeded. "The hand had stopped reaching, and the number sat at 43.1." | None — alone; the hum through walls |
 | Ch 22 — Beat 9 | Release (multitool) | Grips Jun's wrench — the inherited reflex — then lets go | "He let go of the multitool." First voluntary disengagement from his father's object. The institutional identity, the inherited obligation, the belief that the system is a system — released. | None — internal; the gesture is the turn |
 | Ch 22 — Beat 10 | Intention (Thursday) | Walking home; broth smell; "Thursday was two days away" | The apartment smells like someone is home. The closing is not suppression (Ch 8) or documentation (Ch 16) but intention — he will sit on the bench. The turn from passive to potential. | Nuwa: present (implied, not seen) |
+| Ch 28 — Beat 1 | Guarded readiness | Thursday meeting; Kindling woman on new bench | "Fuxi was not ready." But he sat. He came. The intention from Ch 22 fulfilled. Body present, emotional register cautious. | Kindling woman: waits; reads his readiness accurately |
+| Ch 28 — Beat 2 | Data confirmation | Her frame shows 63 rows matching his log | The pattern was his pattern, rendered in someone else's file. Isolation breaks — the data has witnesses. Not relief; validation. | Kindling woman: "You're not the only one counting." |
+| Ch 28 — Beat 3 | Collective recognition | Pump station; 12 maintenance workers; 214 years | Nobody asked why. They already knew. The recognition is structural — shared expertise, shared blindness, shared reckoning. | Network: silent assessment; names and years as credentials |
+| Ch 28 — Beat 4 | Moral comprehension | Lian: "The infrastructure is doing it" / flood valves | "The infrastructure was a weapon. He'd been maintaining it for thirteen years." The Lie takes its first direct hit. Not destroyed (Ch 39) but fatally wounded. | Lian: precise, quiet, the voice of blueprints |
+| Ch 28 — Beat 5 | Domestic observation | Nuwa at stove; tight shoulders; performance harder | Reads her body — the tightness back, heavier than before. The provider-lens sees the crack before she speaks. | Nuwa: performs normalcy; the performance is visible |
+| Ch 28 — Beat 6 | Transfer shock | "Reason code 14-J. Infrastructure personnel retention priority. Indefinite." | Sets down spoon. The administrative architecture made personal. Nuwa's escape route sealed by a code. | Nuwa: calm, factual, jaw tight. "I didn't want to say it out loud." |
+| Ch 28 — Beat 7 | Protective impotence | "He thought about telling her. He didn't." | Where would they go? Transit denied. Transfer denied. Retention indefinite. The system sealed them in with paperwork. The silence is no longer withholding — it's impotence. | Nuwa: washes bowls, turns off light, walks to room without goodnight |
+| Ch 28 — Beat 8 | Documentation (evolved) | Entry 63: transfer denial recorded | The log evolves — administrative data alongside RCI data. Not suppression (Ch 8), not technical documentation (Ch 16/22), but political documentation. "Tuesday was five days away." | None — alone in the dark; the hum |
 
 ---
 
@@ -683,6 +692,7 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 - **Ch 4 (messages)**: Pragmatic excitement → humor → case-building urgency → protective warning
 - **Ch 8 (in person)**: Domestic competence → case-building determination → sardonic armor → compressed relief → mutual silence → pragmatic exhaustion
 - **Ch 16 (observed by Fuxi)**: Physical ease → plan momentum → genuine lightness → architectural optimism
+- **Ch 28 (observed by Fuxi)**: Tight shoulders → performed normalcy → factual delivery (transfer denied) → controlled shutdown → wordless withdrawal
 - **Ch 42 (POV debut)**: Disorientation → arithmetic default → escalating dread → horror (hand on window) → subtraction → tactical movement → stillness → pressure (coherence spike) → inventory → compliance as survival
 
 ### Per-Chapter Emotional Beats
@@ -702,6 +712,10 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 | Ch 16 — Beat 1 | Physical ease | Transfer plan progressing; paperwork drafted | Shoulders drop two centimetres; jaw unclenches; moves without the usual low-grade calculation | Fuxi: watches; the lightness is what he's protecting and what he's lying to preserve |
 | Ch 16 — Beat 2 | Architectural optimism | QC qualification timeline mapped, transit permit pathway identified | "She had built a structure out of the narrow materials available" — the plan as emotional scaffolding. Genuine confidence, not armor. | Fuxi: runs the math as background process; sees the arrangement holding |
 | Ch 16 — Beat 3 | Genuine lightness | The math checks; the future is calculable | The closest Nuwa comes to unguarded hope. No sardonic deflection, no compressed smile — the plan feels real. | Fuxi: the weight of what he withholds is proportional to her lightness |
+| Ch 28 — Beat 1 | Performed normalcy (strained) | Transfer denial received at 06:00 | Tight shoulders; cooking broth; back to Fuxi. The performance is harder to maintain — the tightness is back, heavier than before. | Fuxi: reads the body before the words |
+| Ch 28 — Beat 2 | Factual delivery | Tells Fuxi about reason code 14-J | "She said it the way she said everything — calm, factual, the emotion underneath it locked down so tight that only the tightness in her jaw gave it away." | Fuxi: stops eating |
+| Ch 28 — Beat 3 | Controlled vulnerability | "I didn't want to say it out loud" | Looks at her hands. The one moment the control slips — not into tears or anger but into the admission that language makes it real. | Fuxi: "We can reapply." (inadequate) |
+| Ch 28 — Beat 4 | Wordless withdrawal | Transfer indefinitely denied | Stands. Picks up bowls. Washes. Turns off light. Walks to room without saying goodnight. Every motion automatic, every silence deliberate. The architecture of rising demolished; the coping architecture remains. | Fuxi: sits in the dark; doesn't follow |
 | Ch 42 — Beat 1 | Disorientation | Power out; hum changes to wet pressure | Stands in dark kitchen; reads municipal alert twice; "The words were administrative. The hum was not." | None — alone |
 | Ch 42 — Beat 2 | Arithmetic default | Implant heating; crisis begins | Credit tally runs before fear: "Nine hundred creds saved. Three hundred short." The number arrives before anything else. | None — internal |
 | Ch 42 — Beat 3 | Escalating dread | Hum pulses; infrastructure clenches | Counts inventory (rice, water, stash, implant charge). Does not move toward the door. Listens. | None — alone |

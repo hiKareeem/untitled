@@ -2,8 +2,8 @@
 title: "Themes"
 type: bible-dimension
 dimension: themes
-lastUpdated: "2026-02-15"
-lastChapter: 22
+lastUpdated: "2026-02-16"
+lastChapter: 28
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -502,6 +502,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 25 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), What We Owe (Moderate), Truth (Moderate), Identity (Moderate), Irrelevance (Background) | BLACKWEIR introduced — three-generation protocol. Deferrals map to sacrifice zone. Confluence: 6 trunk-lines, 4-6 weeks. "The architecture did not require conspiracy." Sandalwood gone. Small voice = institutional competence. |
 | Ch 26 | Identity (Strong), Irrelevance (Strong), Architecture (Strong), Obligation (Moderate), Complicity (Moderate), Truth (Moderate), Commodification (Background), Atrocity (Background) | Nephthys arrival in Neo-Shanghai; Cathedral sealed by Luminarch; chorus resolves; "third option" theology; dramatic irony with Ch 25 |
 | Ch 24 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Moderate), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Identity (Background) | Below Level 12: hidden NitroCore infrastructure (2171-2173). RCI gradient 34.6→41.3. Form 14-C as "the system's syntax for disappearance." Dead-hand deposit growing. |
+| Ch 28 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Fuxi POV — Kindling network meeting. 47 flood valves. Nuwa's transfer denied (14-J). Log evolves. |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -727,6 +728,13 @@ This bible dimension tracks **theme evolution**:
 | Talia's processing ring (Ch 24) | Architecture | Amber (observation) / green (analysis) — technology as emotional proxy |
 | Forty-one point three (Ch 24) | Truth, Identity | RCI reading as personal stake — numbers as reasons to stay |
 | Zhongshan Medical (Ch 24) | Architecture | Corporate healthcare as separate entity outside NitroCore network |
+| Decommissioned pump station (Ch 28) | Architecture, Complicity | Counter-institutional space — resistance meeting in infrastructure the system abandoned |
+| 47 flood valves (Ch 28) | Architecture, Complicity, Atrocity | Pre-installed kill infrastructure disguised as "pressure management upgrade" — NitroCore hardware in municipal infrastructure (2171-2173). Cross-POV: Mirelle discovers same from below (Ch 24) |
+| Reason code 14-J (Ch 28) | Commodification, Architecture | Administrative sealing — retention priority as population control. Foreshadows physical sealing (pressure doors, Ch 39) |
+| "Forty-eight hours and counting" (Ch 28) | Truth, Architecture | Sustained anomaly — the system has transitioned states; step-function as Phase 3 baseline |
+| Bench removed (Ch 28) | Architecture, Irrelevance | Institutional erasure of gathering points — the welded bench from Ch 22 cut at the bolts |
+| Nuwa's closed door (Ch 28) | What We Owe, Identity | Isolation within the domestic space — withdrawal as response to system failure |
+| Entry 63 (Ch 28) | Truth, Complicity | Log's evolution from technical to political — administrative data enters the record |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---
