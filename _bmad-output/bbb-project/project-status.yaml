@@ -434,6 +434,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Mirelle POV (6th appearance). Deep Sump flood valve discovery. Descended via Shaft 9-A (municipal maintenance credentials, Contact's chain). Six flood valves documented: NitroCore PMU-7 series (2172), NCS-4400 hydraulic gates, hardwired control (no wireless/mesh), secondary drainage directional toward Confluence. RCI gradient 42.6→43.1→44.7. Does NOT know BLACKWEIR purpose (dramatic irony with Ch 25/28). Nitro-ear bilateral at 9 weeks (3 remaining). Dead-hand updated: 47 photographs, 6 RCI readings, 5h47m recording, 300-word annotation: 'The flood valves are not a maintenance upgrade. They are a weapon.' 26 disappearances / 6 sectors. 'The twenty-seventh had not been hers. Not today.'"
 
-completedCount: 42
-totalWords: 196037
+  chapter_30:
+    title: "The Mechanism That Doesn't Exist"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4600
+    completedDate: "2026-02-16"
+    metaFile: "chapter-30-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Zeyad POV (3rd appearance). Emergency UGC session — Neo-Shanghai escalation. Invokes Article 7, Section 3 (first invocation in 11 years). NitroCore Legal counsel invokes Section 14 sovereign consent ('where practicable' as veto). Committee votes 23-3 to continue monitoring with enhanced briefing cadence. Cease-and-desist delivered (Article 12, Section 8). Back-channel exchange with Mirelle: 'The system permits evidence that is individually explicable and collectively invisible. That's not a failure of the record. That's the record's function.' Types 'Be careful' — first unprocedural statement. Notebook full (47 questions), placed on desk not in drawer. Portrait NOT touched in corridor; deliberately touched in closing. Jordanian flag still flickering (9 weeks). 'The mechanism did not exist.' Institutional faith destroyed."
+
+completedCount: 43
+totalWords: 200637
 lastUpdated: "2026-02-16"

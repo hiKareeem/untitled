@@ -2842,6 +2842,57 @@ Arc: Word count declining slightly (from 5,200→4,100) as Fuxi's chapters compr
 
 <!-- INSERT_NEXT_ANALYSIS -->
 
+## Chapter 30 — Zeyad Al-Fahim: "The Mechanism That Doesn't Exist"
+
+**Phase:** 3 | **Mode:** TEXTURE | **Date analyzed:** 2026-02-16
+
+### Metrics
+
+| Metric | Value |
+|--------|-------|
+| Word count | ~4,600 |
+| Scene count | 4 (committee session, corridor/office, back-channel, closing) |
+| Dialogue % | ~15% (committee exchanges + back-channel text) |
+| Action/Reflection | 20/80 |
+| Tension arc | 3→6→4→8 |
+| Flow | 9.0/10 |
+| Fragment % | ~20% |
+| Beat density | 1 beat / ~380 words |
+| NbA count | 5 (slightly above 2-4 target; justified — climactic triple-NbA at close) |
+| Avg sentence length | ~22-24 words (GRRM register — longer than baseline, consistent with Ch 6/17) |
+
+### Tension Profile
+
+```
+Scene 1 (committee):     ███░░░░░░░  3→6  (invocation → sovereign consent exchange → vote)
+Scene 2 (corridor/office): ████░░░░░░  6→4  (post-vote dispersal → cease-and-desist)
+Scene 3 (back-channel):  ████░░░░░░  4→5  (diagnosis exchange → "Be careful")
+Scene 4 (closing):       ████████░░  5→8  (portrait → "the mechanism did not exist")
+```
+
+### Analysis
+
+TEXTURE mode, institutional/procedural subtype — committee session as scene architecture, legal exchange as tension engine, back-channel as counter-institutional space. The tension profile is unusual: the climactic peak arrives at the END (closing revelation), not the midpoint (vote). This inverts the expected shape — the vote itself (scene 1) is procedurally devastating but emotionally muted by institutional register. The real tension builds through accumulation: corridor → cease-and-desist → back-channel diagnosis → closing recognition. The chapter's architecture mirrors its theme: the mechanism performs function while the real crisis builds beneath it.
+
+Sentence length tracks the GRRM institutional-chess register established in Ch 6/17 — longer than baseline, appropriate for the POV. Dense institutional blocks alternate with punchy fragments: "Twenty-three to three." / "He knew." / "The notebook was full." Bimodal paragraph structure strong.
+
+Dialogue at ~15% is restored from Ch 17's ~12% — committee exchanges and back-channel text provide two distinct registers (diplomatic vs. analytical). The back-channel register matches Ch 17 exactly.
+
+### Zeyad Series Arc (Ch 6 → Ch 17 → Ch 30)
+
+| Metric | Ch 6 | Ch 17 | Ch 30 |
+|--------|------|-------|-------|
+| Words | ~5,200 | ~4,900 | ~4,600 |
+| Dialogue | ~10% | ~12% | ~15% |
+| Tension peak | 6 | 5 | 8 |
+| Flow | 8.8 | 9.0 | 9.0 |
+| Fragment % | ~18% | ~15% | ~20% |
+| NbA | 3 | 3 | 5 |
+
+Arc: Word count declining as institutional space compresses — Zeyad has less to describe because the mechanism is failing. Dialogue increasing (10→12→15) as more actors confront him (Patel → Mirelle → committee + NitroCore + Mirelle). Tension peaks escalating dramatically (6→5→8) — Ch 30's closing recognition is the series peak. NbA increasing (3→3→5) as the negation-before-assertion technique tracks Zeyad's growing awareness of what things are NOT. Flow stable at 9.0. Fragment percentage rising — the prose fragmenting as institutional composure fragments.
+
+<!-- INSERT_NEXT_ANALYSIS -->
+
 ## Chapter 27 — Sofia Reyes: "The Non-Physical Variable"
 
 **Phase:** 3 | **Mode:** TEXTURE | **Date analyzed:** 2026-02-16
