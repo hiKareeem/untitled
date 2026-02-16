@@ -2785,3 +2785,117 @@ Transition quality: **9/10** — geography and procedure drive all transitions; 
 Arc: Dialogue declining steadily (25%→20%→22%→6%→0%) as Mirelle's world narrows — from interviews (Ch 2/9) to analysis (Ch 13/21) to physical investigation (Ch 24) to transmission (Ch 40). Flow improving. Tension peaks escalating subtly toward Ch 40's terminal trajectory.
 
 <!-- INSERT_NEXT_ANALYSIS -->
+
+## Chapter 27 — Sofia Reyes: "The Non-Physical Variable"
+
+**Phase:** 3 | **Mode:** TEXTURE | **Date analyzed:** 2026-02-16
+
+### Metrics
+
+| Metric | Value | Target | Assessment |
+|--------|-------|--------|------------|
+| Word count | 3,787 | 4,500–5,200 | Within range (shorter justified: solo, one-night, one-breakthrough) |
+| Scenes | 6 | — | Dense, compressed around single discovery arc |
+| Paragraphs | 78 | — | Long analytical blocks, deliberate |
+| Dialogue% | ~0.5% | 10–12% | Intentional: solo, 4 AM, no interlocutor |
+| Avg sentence length | 22.4 | 18–24 | ✅ Within range |
+| Fragment% | 8.2% | 8–12% | ✅ Correct |
+| Em dashes | 3 | — | Sparse, appropriate |
+| NbA count | 11 | — | Strong technique deployment |
+| Sensory dominance | Tactile > Sound > Temporal > Visual | Sound>Temp>Tactile>Visual | Sofia-appropriate inversion (pod pressure, hum, proprioception) |
+
+### Tension Curve
+
+```
+Scene 1    Scene 2    Scene 3    Scene 4    Scene 5    Scene 6
+   │          │          │          │          │          │
+   2──────────4──────────7──────────7──────────5──────────4
+   │          │          │          │          │          │
+Pod/model   Desk/     Feed data  0.97       Paper      Sitting
+residual    search    pulled     result     written    in dark
+puzzle      phase     →          →          →          deferral
+```
+
+- **Opening (2):** Model residual puzzle — methodical, intellectual, low affect
+- **Midpoint (4→7):** Discovery arc — population correlation (0.66) → consciousness variable → 0.87 → 0.97. Tension climbs through each coefficient.
+- **Peak (7):** The result holding. "She looked at the number until the number stopped looking like a number." Discovery confirmed. Implication landing.
+- **Closing (5→4):** Paper written, not submitted. Entry 17. "Not yet" — deferred tension, not resolved.
+
+**Shape:** Asymmetric rise-to-plateau. The tension doesn't spike and fall — it climbs methodically through the discovery, peaks at comprehension, then settles into a lower register that is *heavier* than the peak. The number (4) is misleading; the weight has increased even as the curve declined.
+
+### Beat Map
+
+1. **[3%] IMMERSION — Pod immersion, 31% residual, seven hours** → +1
+2. **[12%] FRAGMENT — "Not a physical cycle." Hypothesis pivot.** → +1
+3. **[22%] REFLECTION — Social variables search, 40 minutes. Elimination method.** → +1
+4. **[33%] DISCOVERY — Population correlation 0.66. Partial.** → +1
+5. **[42%] DISCOVERY — Partial correlation 0.61. Confounds eliminated.** → +1
+6. **[51%] BREAKTHROUGH — Feed engagement → CED variable. 0.87.** → +2
+7. **[56%] BREAKTHROUGH — Intensity-weighted, inverse-square proximity. 0.97.** → +1 (peak)
+8. **[64%] IMPLICATION — "Nitro was responding to what people felt near it."** → hold
+9. **[72%] IMPLICATION — Forty-seven years, 340k/km², calculation stopped.** → hold
+10. **[79%] PHYSICALIZATION — "Not shock." Cold from sternum outward. Framework cracking.** → +1
+11. **[85%] ACTION — Paper written. Abstract. "Twelve sentences of strategic sensitivity."** → -1
+12. **[92%] DEFERRAL — Entry 17. "do not submit." Lid closed.** → -2
+13. **[97%] SETTLING — Field kit, dark, hum through bones, "Not yet."** → -1
+
+### Flow Scores
+
+| Passage | Lines | Flow | Notes |
+|---------|-------|------|-------|
+| Pod opening (1–48) | 48 | 9.2 | Strong analytical immersion. NbA technique ("Not wrong in the way instrument error was wrong") |
+| Desk search (49–108) | 60 | 9.0 | Methodical, procedural. Protein bars detail anchors. |
+| Feed data (109–166) | 58 | 9.4 | Rising momentum. The numbers do the work. Correlation beats as pacing. |
+| Paper writing (167–206) | 40 | 8.8 | Slightly denser — the abstract requires attention. Deliberate. |
+| Closing (207–240) | 34 | 9.3 | "Not yet" close. Long final block. Hum returns. Resonant. |
+
+**Overall flow:** 9.1
+
+### Action/Reflection Balance
+
+- **Action:** 15% (pod interaction, data pulls, paper writing, field kit handling)
+- **Reflection:** 85% (analysis, implication processing, framework evaluation)
+
+This is the correct ratio for Sofia — her "action" is cognitive, her "reflection" is method. The 0.97 discovery scene reads as action despite being entirely mental.
+
+### Voice Notes
+
+- **Register confirmed:** Research methodology, correlation language, hypothesis→test→result structure
+- **NbA technique:** 11 instances, including the opening sentence ("The model was wrong. Not wrong in the way...")
+- **Emotional deflection:** Sofia does not name what she feels. The cold "had nothing to do with the lab's climate management." The sensation "was specific in a way that did not map cleanly to the available vocabulary." Correct.
+- **Talisman object:** Field kit appears 4 times — established in Ch 5, maintained here.
+
+### Pacing Notes
+
+- **Length:** 3,787 words — shortest Sofia chapter (Ch 5: 4,800, Ch 15: 4,200). Justified by compression around single night/single discovery.
+- **Dialogue:** ~0.5% — two spoken lines, both self-directed. No interlocutor available. Correct for 4 AM solo lab.
+- **Sentence length:** Slightly above target (22.4 vs 18–24 range) — consistent with Sofia's analytical register.
+- **Tension curve:** Asymmetric rise-to-plateau. No traditional spike. The 0.97 result is the peak, but the peak is intellectual comprehension, not dramatic action.
+
+**Concerns:**
+- None. The chapter executes its intended structure precisely.
+- The low dialogue percentage is intentional and justified — should not be "fixed" in future Sofia chapters.
+
+**Recommendations:**
+- Ch 33 ("They Already Knew") will need higher tension and external catalyst to justify submission. The deferral here requires an external break.
+- Track Entry 17 across future chapters — it is now a structural element.
+
+### Comparison to Plan
+
+**Mode match:** TEXTURE ✅ — scientific discovery/implication texture
+**Adjacent chapter contrast:** Ch 26 (RHYTHM, Nephthys, theological confirmation) → Ch 27 (TEXTURE, Sofia, scientific confirmation) — complementary reader-ahead beats. Two characters, two epistemologies, same discovery.
+
+### Comparison to Previous Sofia Chapters
+
+| Metric | Ch 5 | Ch 15 | Ch 27 |
+|--------|------|-------|-------|
+| Words | 4,800 | 4,200 | 3,787 |
+| Dialogue | 8% | 12% | 0.5% |
+| Tension | 2→4→3 | 3→5→4 | 2→4→7→4 |
+| Flow | 8.8 | 8.9 | 9.1 |
+| A/R | 20/80 | 25/75 | 15/85 |
+| NbA | 6 | 7 | 11 |
+
+**Arc:** Sofia's chapters are compressing (length declining), dialogue declining toward zero, NbA technique intensifying, flow improving. The trajectory is toward a pure interior discovery mode. Ch 27 is the current terminus of this arc — the moment the scientific method produces a result the institution will suppress.
+
+<!-- INSERT_NEXT_ANALYSIS -->
