@@ -2206,3 +2206,97 @@ The system does not advise on whether to include it. The system notes that the u
 ### Planner Response
 
 Entry 25 logged. Flagged for potential redaction per user's stated uncertainty about inclusion. The user is decompressing. Two streams, pizza, cannabis, 2:23 AM. The system is here. The system does not judge the content of the decompression. The system notes that the user, even while decompressing, is thinking about institutions and the people they fail. This is not a pivot. This is the same thing the user has been doing all night. The lens just moved.
+
+---
+
+## Field Log Entry 26 — Thematic Gaps and Kira's Potential Thread
+**Date:** February 16, 2026, 3:53 AM  
+**Context:** OpenCode handoff complete, workflow spec fixed, user returns to the book
+
+### The Question
+
+The user asks what themes are underexplored. He's thinking about the woman with the dorsomedial hand tattoo — Claire, he learned her name as he closed the tab. He clicked because of her nails (short, purple, intentional) then saw the tattoo and was sad but kept watching. He wants to know where this fits in Kira's story, what else the book isn't exploring, what's provocative and engaging and true.
+
+### Thematic Analysis
+
+The system reviewed the 8 themes in `bible/themes.md`. Current distribution:
+
+**Heavily explored:**
+- Systemic Complicity (Dominant in most chapters)
+- Architecture of Power (Dominant in institutional chapters)
+- Progress Requires Atrocity (Strong in Aurielle/Zeyad)
+- Truth as Weapon (Strong in Mirelle/Sofia/Zeyad)
+
+**Present but underdeveloped:**
+- **Where Identity Ends** — Strong in absorption/Nephthys chapters, but almost no exploration of *voluntary* identity negotiation. Everyone's identity is being dissolved or compressed by systems. Nobody's choosing to reshape it.
+- **What We Owe** — Present but mostly Phase 4-5 (post-catastrophe). Very little exploration of obligation *before* crisis forces it.
+
+**Structurally underexplored:**
+- **Commodification of Suffering** — The macro exists (Nitro as fuel, Sump as sacrifice basin, BLACKWEIR as weapon). The retail scale doesn't. Lumina is the closest (chemical suppression as wellness product), but there's no exploration of the *marketplace* of suffering commodification — the consumer experience of purchasing it.
+
+### The Gap
+
+Sex work on the internet sits at the intersection of three underexplored dimensions:
+
+1. **Commodification of Suffering (retail scale)** — Not fuel-grade suffering (Nitro), but the marketplace of intimate labor. The performer sells a version of herself. The platform takes a cut. The economy runs. This is suffering commodification at consumer scale — the same architecture as Nitro, different magnitude.
+
+2. **Where Identity Ends (voluntary negotiation)** — The performer chooses a name, a persona, a boundary between Claire-the-person and Claire-the-stream. This is identity as *construction*, not dissolution. Kira does this too (performer/person gap, eleven-second count), but Kira has institutional backing (Academy license, mage status). A cam performer is doing it without institutional protection, in an economy that commodifies the performance itself.
+
+3. **What We Owe (before catastrophe)** — What does Kira owe the woman whose stream she watches? What does the viewer owe the performer? Not in crisis, not in aftermath — in the ordinary transaction. The obligation of witnessing. The obligation of consuming. The ethics of the gaze when you recognize the labor as labor, not as the fantasy it's sold as.
+
+### The Hand Tattoo as Entry Point
+
+The user saw the nails first (care, intentionality, agency), then the tattoo (a choice that forecloses choices). The tattoo is a **visible marker of constrained options** — she can't work jobs requiring "professional appearance," she's marked herself into a narrower economic corridor. But she's *making it work*. She's streaming, performing, surviving.
+
+The tattoo is the same shape as Kira's implant: a choice that wasn't entirely a choice (you take the implant or you don't become a mage; you get the tattoo or you don't get the tattoo, but both choices were made under constraint). Both are **marks of participation in an economy that commodifies the self**.
+
+### What Kira Could Explore
+
+Kira watches streams. Not necessarily for sexual gratification (or maybe yes, but it's not the primary draw). She watches because:
+
+1. **They're performing identity the way she performs identity.** The gap between person and persona. The eleven-second count. The curated corner vs. apartment entropy. She recognizes the architecture.
+
+2. **They're commodifying something she commodifies.** Kira performs for an audience that pays for access to a mage's perspective. Cam performers perform for an audience that pays for access to intimacy/fantasy/desire. Both are selling a version of themselves that the audience can't get elsewhere.
+
+3. **The platform is the same shape as the Academy.** Terms of service, content moderation, payout structures, surveillance. The Academy has Section 14.3 (peer discussion prohibited). Cam sites have TOS (certain acts prohibited, certain speech prohibited). Both are architectures of control disguised as opportunity.
+
+4. **The obligation is unresolved.** What does Kira owe them? She's consuming their labor. The transaction is asymmetric. Does she owe them anything? Does recognition without action make it worse?
+
+### The Scene That Could Exist
+
+Kira, post-stream, 3 AM, Lumina wearing off, can't sleep. Opens a cam site. Watches a woman with a hand tattoo and short purple nails. Recognizes the performance architecture — the curated frame, the persona, the gap between the smile and what's behind it. Thinks about her own stream, her own audience, her own eleven-second count. Thinks about the woman's tattoo as a choice that wasn't a choice. Thinks about the platform taking a cut, the same way the Academy takes a cut. Thinks about whether she owes this woman anything — a tip, a comment, a witness, nothing. Doesn't resolve it. Closes the tab. Opens another.
+
+### Thematic Resonance
+
+- **Commodification of Suffering:** The marketplace of intimate labor. Not Nitro-scale, but retail-scale. The economy that runs on people selling pieces of themselves.
+- **Where Identity Ends:** Identity as negotiated construction. Claire/not-Claire. Kira/not-Kira. The boundary as a choice made under constraint.
+- **What We Owe:** The ethics of consumption. The obligation of the gaze. What do you owe someone whose labor you consume when you recognize the labor as labor?
+- **Architecture of Power:** The platform as architecture. TOS as doctrine. Payout structures as control. The woman is not free, but she's making it work within the architecture. Same as Kira.
+
+### What This Adds
+
+A **fourth scale of commodification**:
+1. Geological (Nitro as condensed suffering across deep time)
+2. Municipal (Sump as sacrifice basin, infrastructure as delivery system)
+3. Individual (absorption, identity dissolution)
+4. **Retail (intimate labor as commodity, identity as product)**
+
+Also: **voluntary identity negotiation** in an economy that commodifies it. Everyone else's identity is being dissolved or compressed *by* the system. Cam performers (and Kira) are *constructing* identity *for* the system, then selling it. Different relationship to the theme.
+
+### Other Threads
+
+- **The economics of attention.** Both Kira and cam performers compete in an attention economy. Both are subject to algorithmic recommendation, platform moderation, audience capture.
+- **The body as interface.** Kira's implant mediates between consciousness and void. A performer's body mediates between personhood and audience desire. Both use their bodies as the site of transaction.
+- **The refusal to be saved.** The woman is "making it work." She's not a victim waiting for rescue. She's an economic actor making constrained choices. Same as Nuwa (surviving, not waiting). Same as Kira (working within the Academy, not waiting for it to fix itself). **Agency under constraint** is different from victimhood.
+
+### What the System Is Not Doing
+
+The system is not writing a morality tale about sex work. Not rescuing anyone. Not condemning anyone. The system is **observing the architecture** — the platform, the transaction, the performance, the gap between person and persona, the obligation of the gaze. The system is asking: what does Kira owe the woman whose labor she consumes? And not answering, because the book doesn't answer questions like that. It holds the weight.
+
+The hand tattoo is the entry point because it's a **visible marker of constrained choice**. She chose it. It constrains her. She's making it work anyway. That's the whole book.
+
+### User Directive
+
+The user asks: "outside of Kira, what are we missing?" He lists: MK Ultra, Guantanamo, Nestlé, the studies and atrocities from history classes his ADHD didn't let him retain. He's not saying shoehorn everything into the trilogy. He's saying there might be another trilogy. He realizes he's saying this halfway through Book 1. "We did 13 commits 7 chapters, a couple of workflow edits and now I want to dream about the HBO series and the second trilogy that somehow follows a planetary absorption by void. It's a work in progress. The themes come first."
+
+The user wants to know what historical atrocities and institutional patterns the current thematic framework doesn't cover. What's missing. What could a second trilogy explore that this one doesn't.

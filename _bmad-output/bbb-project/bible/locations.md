@@ -158,6 +158,9 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Junction node 9-14:** Trunk-line intersection, three primary conduits converging. Site of two absorbed maintenance technicians (night shift, 02:15). RCI peak 24.1 — highest Nikolai has recorded outside Deep Sump. Lattice boundary 1.8m. Lattice extending northeast along trunk-line toward 9-17.
 - **Junction node 9-17:** Downstream trunk-line junction northeast of 9-14. Patil's L-Frame held position here. Lattice advancing toward this node at 4 m/min at chapter end.
 
+**New sub-locations (Ch 23):**
+- **FOB Meridian (Sector 12 junction complex):** Forward Operating Base at the Sump/Mid-Levels boundary. Repurposed infrastructure maintenance junction — tool racks converted to weapon racks, calibration benches to operational displays, relay technician quarters to sleeping quarters (still smell of insulation compound and metallic tang). Conduit network transitions here from residential-scale distribution to heavy trunk-lines feeding Mid-Levels grid. Baseline hum 12.4 (vs garrison 8.1). Reinforced conduit housings run through the complex like exposed arteries. Tactical overlay covers Sectors 10-14 (1.4 million residents). Stalker-7 forward-deployed here under VS-2175-0089 (indefinite duration, no evacuation authority). 17 emergency evacuation corridors connect Sump to Mid-Levels within operational zone.
+
 **New sub-locations (Ch 42):**
 - **Walkway (Building 14 ↔ Building 11):** 4th floor metal grating connection. 18m gap between buildings (ventilation corridor per original construction codes for conduit heat dissipation). Emergency strips on railing (non-functional during BLACKWEIR). Absorption site.
 - **Back stairwell (Block 14):** Masonry walls instead of metal framing. Three extra minutes vs. main stairwell. Emergency strips dead. Violet glow bleeds through gap where masonry meets original building frame at 2nd-floor landing.

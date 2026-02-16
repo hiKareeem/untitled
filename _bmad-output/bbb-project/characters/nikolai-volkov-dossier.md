@@ -212,6 +212,9 @@ In operational categories. A person dissolving is a "casualty event" before it i
 - Stands at windows — positional, scanning. Breach-zone hypervigilance migrated into daily life. Never sits with back to a door.
 - Does not drink. Not from principle — from the observation that if he started, he might not stop.
 
+**Prose register**
+Nikolai's technical data must serve emotional suppression, not replace it. RCI readings work when they're evidence of what he's choosing not to conclude. When the data dominates without his active suppression framing it, the prose flattens into documentation. Compress measurements, expand realizations. Let the numbers be in service of the horror he's filing away.
+
 ---
 
 ## Themes explored
