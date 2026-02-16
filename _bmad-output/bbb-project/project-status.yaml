@@ -364,6 +364,16 @@ chapters:
     mode: PRESSURE
     notes: "Phase 3 — Aurielle POV (5th appearance). BLACKWEIR introduced as 'system management protocol.' Confluence: 6 trunk-lines converging beneath Junction 7, 4-6 weeks. Three-generation protocol. Evacuation paradox. Deferrals map to BLACKWEIR perimeter. Sandalwood gone. 'The architecture did not require conspiracy.' First Phase 3 chapter written."
 
-completedCount: 35
-totalWords: 165400
+  chapter_26:
+    title: "The Wound in the World"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4650
+    completedDate: "2026-02-15"
+    metaFile: "chapter-26-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Nephthys POV (3rd appearance). Arrives in Neo-Shanghai; Sump descent; worst chorus episode yet. Cathedral sealed by Luminarch's Office on Malachi's recommendation. Inside: chorus resolves for first time — individual threads distinguishable, pain gone. Stone's geological inertness dephases infrastructure noise. 'Third option' theology articulated. Dramatic irony with Ch 25 (reader knows Sump = BLACKWEIR kill zone). Seeds Ch 35 (First Congregation) and Ch 44 (BLACKWEIR survival)."
+
+completedCount: 36
+totalWords: 170050
 lastUpdated: "2026-02-15"

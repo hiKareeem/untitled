@@ -2580,4 +2580,106 @@ Arc: Tension peaks escalating chapter by chapter (5→5→6→9→10) — consis
 
 Arc: Tension peaks escalating through Aurielle's arc (10→7→7→7→8→9→6) — Ch 1 remains highest (assassination shock), but the arc's institutional tension builds steadily from Ch 7 through Ch 37 (BLACKWEIR execution). Ch 25 marks the TEXTURE→PRESSURE transition as BLACKWEIR enters the narrative. Dialogue consistently low (8-18%), appropriate for Aurielle's internal register — Ch 25's 8% is the lowest, justified by the briefing structure. Flow consistently high (9.0-9.2). A/R ratio stable at 15/85 (highly reflective) — consistent with the corporate-institutional register where action is decision, not motion.
 
+---
+
+## Chapter 26 — "The Wound in the World" (Nephthys)
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,650 | 4,000-5,000 | ✅ |
+| Scenes | 4 | 3-5 | ✅ |
+| Paragraphs | ~55 | — | ✅ |
+| Dialogue % | ~7% | 10-20% | ⚠️ Below (justified: sensory-dominant arrival) |
+| Avg sentence length | ~20 words | 12-16 (Bakker register: ~18-22) | ✅ |
+| Fragment % | ~18% | 15-25% | ✅ |
+| NbA count | 5 (post-trim) | 2-4 | ⚠️ Slightly above (Bakker register) |
+
+### Tension Curve
+
+```
+10 |
+ 9 |
+ 8 |        *
+ 7 |                          *
+ 6 |
+ 5 |
+ 4 |                              *
+ 3 |  *              *
+ 2 |
+ 1 |
+   +--S1----S2----S3----S4----Close
+```
+
+- **S1 (Arrival/freighter):** 3 — Orientation. Sensory buildup. The hum from the hull.
+- **S2 (Sump descent):** 8 — Physical crisis. Migraine detonates. Worst episode. Nosebleed. The roar.
+- **S3 (Cathedral exterior/notice):** 3 — Discovery lowers tension. Sealed door. Institutional notice parsed. Theological fury but controlled.
+- **S4 (Cathedral interior):** 7 — Revelation. Chorus resolves. Pain gone. Weeping. Prophetic certainty.
+- **Close:** 4 — Settled listening. Beads in hand. "An architecture. And she was inside it."
+
+### Beat Map
+
+| Beat | Position | Tension | Delta |
+|------|----------|---------|-------|
+| Freighter approach | 0% | 3 | — |
+| Sump lift descent | 15% | 5 | +2 |
+| Chorus wall / migraine | 25% | 8 | +3 |
+| Imani intervention | 30% | 7 | -1 |
+| Sump streets / Sump life | 40% | 5 | -2 |
+| Cathedral found / sealed | 55% | 4 | -1 |
+| Diocesan notice / Malachi | 60% | 5 | +1 |
+| Door opens / stone corridor | 70% | 3 | -2 |
+| Chorus resolves / pain gone | 80% | 7 | +4 |
+| Weeping / Imani enters | 85% | 6 | -1 |
+| "Third option" speech | 90% | 7 | +1 |
+| Closing — beads, listening | 100% | 4 | -3 |
+
+### Transitions
+
+- **S1→S2:** Freight lift descent — physical transition through urban strata. Light changes. Strong.
+- **S2→S3:** "Toward the stone." — directional single-line punch. Effective.
+- **S3→S4:** "Nephthys stepped inside." — threshold crossing. Clean.
+
+### Flow Score
+
+| Component | Score |
+|-----------|-------|
+| Sentence variety | 9.0 |
+| Paragraph rhythm | 9.0 |
+| Scene transitions | 9.0 |
+| Internal consistency | 9.0 |
+| **Overall** | **9.0** |
+
+### Action/Reflection Balance
+
+- **A/R:** 10/90 — Highly reflective. Minimal physical action (walking, touching walls). Dominated by sensory processing and theological interpretation. Appropriate for Nephthys's sensory-arrival chapter.
+
+### Pacing Notes
+
+**Strengths:**
+- The Sump descent creates immediate physical stakes through sensory escalation
+- The bimodal rhythm (dense sensory blocks + single-line punches like "They walked." and "The migraine detonated.") maintains momentum
+- The Cathedral revelation earns its emotional weight through the preceding pain
+
+**Concerns:**
+- Dialogue at 7% — lowest of any Nephthys chapter (Ch 3: 18%, Ch 14: 25%, Ch 44: 8%). Justified by the chapter's sensory focus but monitor in Ch 35.
+- A/R at 10/90 — most reflective chapter in the project. Justified by TEXTURE mode and the arrival/revelation structure.
+
+**Mode:** TEXTURE (theological/sensory)
+**Adjacent chapter contrast:** Ch 25 (PRESSURE, Aurielle, BLACKWEIR briefing) → Ch 26 (TEXTURE, Nephthys, sensory arrival) — strong contrast. Reader moves from institutional horror to theological wonder. Dramatic irony maximized.
+
+### Comparison to Previous Nephthys Chapters
+
+| Metric | Ch 3 | Ch 14 | Ch 26 | Ch 44 |
+|--------|------|-------|-------|-------|
+| Words | 5,400 | 4,300 | 4,650 | 5,300 |
+| Dialogue | 18% | 25% | 7% | 8% |
+| Tension | 3→7→5 | 3→7→4 | 3→8→3→7→4 | 3→5→8→10→9→6 |
+| Flow | 8.2 | 8.6 | 9.0 | 9.0 |
+| A/R | 25/75 | 15/85 | 10/90 | 75/25 |
+| NbA | ~6 | ~4 | 5 | ~15 |
+
+Arc: Flow improving across Nephthys chapters (8.2→8.6→9.0→9.0). Dialogue declining (18%→25%→7%→8%) — Ch 14 was high due to testimony format; Ch 26 and Ch 44 both low due to sensory dominance. A/R shifts dramatically: Ch 26 (10/90, most reflective — arrival/processing) vs Ch 44 (75/25, most active — BLACKWEIR crisis). Tension peaks escalating toward Ch 44's maximum (10).
+
 <!-- INSERT_NEXT_ANALYSIS -->

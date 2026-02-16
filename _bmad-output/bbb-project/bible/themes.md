@@ -500,6 +500,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 21 | Truth (Dominant), Architecture (Strong), Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Matched-district analysis — four datasets converging. Editorial policy as designed truth-containment. "The verification standard is the design." Deep Sump access offered. "The twenty-fourth might be mine." |
 | Ch 22 | Complicity (Dominant), Truth (Strong), Commodification (Strong), Architecture (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Phase 2→3 transition trigger. Private log at 62 entries — step-function spike (43.1, sustained, no correction). First in-person Kindling contact: "Your file. Our frame." Wen Zhaoyang disappeared (form 14-C). Chen Wei's doctrine broken — leaves 47 minutes early. VEC-THR-2169.4-D classified cross-reference in automated alert. 500-character notes field as architectural limit. Fuxi releases multitool — identity shift. "Thursday was two days away." |
 | Ch 25 | Complicity (Dominant), Architecture (Dominant), Atrocity (Strong), Commodification (Strong), What We Owe (Moderate), Truth (Moderate), Identity (Moderate), Irrelevance (Background) | BLACKWEIR introduced — three-generation protocol. Deferrals map to sacrifice zone. Confluence: 6 trunk-lines, 4-6 weeks. "The architecture did not require conspiracy." Sandalwood gone. Small voice = institutional competence. |
+| Ch 26 | Identity (Strong), Irrelevance (Strong), Architecture (Strong), Obligation (Moderate), Complicity (Moderate), Truth (Moderate), Commodification (Background), Atrocity (Background) | Nephthys arrival in Neo-Shanghai; Cathedral sealed by Luminarch; chorus resolves; "third option" theology; dramatic irony with Ch 25 |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -709,6 +710,13 @@ This bible dimension tracks **theme evolution**:
 | "The architecture did not require conspiracy" (Ch 25) | Complicity | Systemic complicity thesis — the system needs competent people, not villains |
 | Alternatives analysis (Ch 25) | Complicity, Truth | Conscience as audit trail — institutional due diligence as complicity mechanism; the document that proves consideration |
 | Three generations (Ch 25) | Architecture, What We Owe | Grandfather Phase One, Eduardo Phase Two, Aurielle Phase Three — institutional debt through inheritance |
+| Orange conduit glow (Ch 26) | Architecture, Commodification | The Sump's light = the color of its own circulatory system; nitro economy made visible |
+| Sealed Cathedral door (Ch 26) | Architecture, Complicity | Institutional abandonment materialized; magnetic lock dead because the deconsecration severed the conduit |
+| Luminarch's seal (Ch 26) | Architecture | First appearance of global Church authority as institutional actor; Malachi's recommendation carried |
+| Diocesan notice valediction (Ch 26) | Complicity, Architecture | "The hum carries. Go in Radiance." — liturgical formula as receipt for abandonment |
+| "Third option" (Ch 26) | Truth, Identity | Nephthys's framing: not God, not nothing, but structured presence — foundation of her theology |
+| Stone's inertness (Ch 26) | Identity, Architecture | Geological formation that refuses to participate in the conduit network; holding by not vibrating |
+| Weeping without choosing (Ch 26) | Identity | Tears as physiological response to the absence of pain; grief as the body's protocol for relief |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

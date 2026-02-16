@@ -536,7 +536,7 @@ An object deserves documentation if it:
 | Wet-Film Residue | Void Infrastructure | The void | Accumulating |
 | Thorne's Handkerchief | Symbol/Motif | Aurielle Vasquez | Preserved (Eduardo's office) |
 | Carbon Key | Symbol/Access | Aurielle Vasquez | In use (Eduardo's desk → Sub-level 7) |
-| Resonance Beads | Symbol/Relic | Nephthys | Stressed — "vibrating hard enough to crack" (Ch 44) |
+| Resonance Beads | Symbol/Relic | Nephthys | Ch 3: warm in hands (closing). Ch 14: held while listening. Ch 26: warm against brand, pressed between skin and stone. Ch 44: stressed — "vibrating hard enough to crack." |
 
 ---
 
