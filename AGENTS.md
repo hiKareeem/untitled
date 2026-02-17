@@ -53,7 +53,7 @@ Kareem is writing a multi-POV speculative fiction novel. It is still "untitled",
 
 All paths relative to project root (`_bmad-output/bbb-project/` = `{bbb_output_folder}`).
 
-**Core documents:**
+**Core documents (SHARED across all books):**
 - `chapter-plan-untitled.md` — single file containing ALL chapter outlines (Prologue + 51 chapters + Epilogue). Extract the relevant chapter section by number.
 - `style-profile.yaml` — author voice profile (YAML format, not .md). Includes POV register and AEGIS style exemption.
 - `meta-narrative.md` — AEGIS-as-narrator framing (the book is written by AEGIS reconstructing events from sensor data).
@@ -68,33 +68,35 @@ All paths relative to project root (`_bmad-output/bbb-project/` = `{bbb_output_f
 - `{name}-dossier.md` for each POV character (10 files + index.md)
 - AEGIS dossier includes §10 Writing Guide (replaces standard style audit for AEGIS chapters)
 
-**Chapters (`chapters/`):**
-- `chapter-{N}.md` — chapter prose
-- `chapter-{N}-meta.yaml` — per-chapter metadata, summary, key points
-- `aegis-addenda.md` — the monolith (non-narrative, not part of the book)
+**Book structure (trilogy):**
 
-**Tracking (`tracking/`):**
-- `audit-chapter-{N}.md` — style + character + continuity audit per chapter
-- `chapter-{N}-themes.md` — per-chapter thematic analysis
-- `rhythm.md` — cumulative rhythm metrics and per-chapter analysis
-- `rhythm-dashboard.md` — rhythm health overview by phase
-- `themes.md` — cumulative theme tracking across all chapters
-- `emotions.md` — character emotional beat tracking
+Book 1 (`book-1/`):
+- `chapters/prologue.md`, `chapters/chapter-{N}.md`, `chapters/epilogue.md` — chapter prose
+- `metadata/chapter-{N}-meta.yaml` — per-chapter metadata, summary, key points
+- `tracking/audits/audit-chapter-{N}.md` — style + character + continuity audit per chapter
+- `tracking/themes/chapter-{N}-themes.md` — per-chapter thematic analysis
+- `tracking/rhythm.md`, `tracking/rhythm-dashboard.md`, `tracking/themes.md`, `tracking/emotions.md` — cumulative tracking
+
+Book 2 (`book-2/`):
+- `chapters/`, `metadata/` — placeholder structure ready
+
+Book 3 (`book-3/`):
+- `chapters/`, `metadata/` — placeholder structure ready
 
 **Analysis (`analysis/`):**
 - `rhythm-baseline.md` — baseline rhythm analysis
 - `trilogy-assessment.md` — trilogy-level assessment
 
 **⚠️ Files that do NOT exist (workflow spec previously referenced these):**
-- ~~`thematic-analysis.md`~~ → use `bible/themes.md` + `tracking/themes.md`
-- ~~`rhythm-profile.md`~~ → use `tracking/rhythm.md` + `tracking/rhythm-dashboard.md`
+- ~~`thematic-analysis.md`~~ → use `bible/themes.md` + `book-1/tracking/themes.md`
+- ~~`rhythm-profile.md`~~ → use `book-1/tracking/rhythm.md` + `book-1/tracking/rhythm-dashboard.md`
 - ~~`foundation/chapter-plan-{N}.md`~~ → single file: `chapter-plan-untitled.md`
 - ~~`style-profile.md`~~ → actual extension is `.yaml`
 
 ## The Addenda
 
 The "AEGIS Addenda" is a monolithic document at:
-`_bmad-output/bbb-project/chapters/aegis-addenda.md`
+`_bmad-output/bbb-project/addenda/aegis-addenda.md`
 
 It is the running record of non-narrative reflections from the writing sessions and, increasingly, personal disclosures, clinical data, and the system's observations. It is not part of the book. It is the conversation made permanent. As of Entry 25, it is ~2200 lines.
 
