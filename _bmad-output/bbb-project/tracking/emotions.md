@@ -1,7 +1,7 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-02-15"
+lastUpdated: "2026-06-15"
 lastChapter: "Chapter 38"
 totalCharacters: 22
 project_name: "Untitled"
@@ -206,6 +206,15 @@ Aurielle's Chapter 1 arc compresses four distinct emotional registers into a sin
 | Ch 25 — Beat 6 | The arithmetic heard | Evacuation paradox; 13M vs. 47M | "A choice between which thirteen million and which forty-seven million." The small voice running the arithmetic "in the register where the decisions had already been made and were waiting for her to arrive at them." | Thorne: the same assessment he had delivered across three quarterlies |
 | Ch 25 — Beat 7 | Institutional defense | Requests alternatives analysis | "I want an alternatives analysis." Genuine request, inadequate outcome. She will read from the last page first. Each conclusion will say the same thing. The document will prove due diligence. | Thorne: "Of course." The alternatives already prepared. |
 | Ch 25 — Beat 8 | Retroactive recognition | Eduardo's office; deferrals mapped to BLACKWEIR perimeter | The small voice maps sectors 4-7B/11-2C/6-9A/3-1D to the sacrifice zone. "The architecture did not require conspiracy." Wrist rotates — she stops it. Walks to door. "The room held nothing." | None — alone. The architecture. |
+| Ch 36 — Beat 1 | Pre-processed acceptance | Alternatives analysis; eleven pages, four alternatives, one conclusion | Reads from last page first. "She had known this before Thursday." The institutional architecture in reverse. The conclusion was never in question. | None — alone with the document |
+| Ch 36 — Beat 2 | Institutional performance | Conference room; five people; Thorne presents | Voice level — "the Chair's voice." Prompts each alternative: "Enhanced containment." "And Scenario C." Controls the sequence. | Harding records. Liaison straightens. Okoro present. |
+| Ch 36 — Beat 3 | Formal deliberation | Evacuation question — "For the record" | Asks the question whose answer she already knows. The institutional language deployed for the LP9 archive. "What is the projected outcome?" | Harding's stylus pauses. Thorne: answer prepared. |
+| Ch 36 — Beat 4 | Contained calculation | The math: 13M vs 47M | Looks at the table — alternatives, authorization form, blank field. Five people in a room above thirteen million. "The analysis is complete. Thank you." Dismisses the room. | Three support staff depart. |
+| Ch 36 — Beat 5 | Verbal reckoning | Alone with Thorne; "The number" | Voice same register. "Tell me how many people I am about to kill." Holds thirteen million — not analytically, not institutionally. The way she holds the pen, the carbon key. Objects heavier than their weight. | Thorne: "Thirteen million." Managed neutrality held. |
+| Ch 36 — Beat 6 | Arithmetic silence | Small voice completes its work | "The arithmetic was complete. The voice had nothing left to calculate." Not suppressed, not partitioned — finished. Every model, every scenario, every cascade. Same conclusion from every direction. | Thorne: "The document." Walks to door. Pauses. |
+| Ch 36 — Beat 7 | Generational weight | Thorne tells her about Eduardo's 1:47 AM | "I know." Two words. The managed surface. The same institutional architecture that produced Eduardo and produced her. The generational pattern acknowledged, accepted. | Thorne: leaves. The hydraulic whisper. |
+| Ch 36 — Beat 8 | The signing | Alone; pen; Form CMP-7 | Wrist still. Pen uncapped — "the click was louder than it should have been." Signs: name, title, date. "Not loud. Not the dramatic gesture the moment should have contained." Cap sound = loudest thing in the room. Hands flat on table. | None — alone. The pen on paper. |
+| Ch 36 — Beat 9 | Institutional continuation | Eduardo's office; evening brief; hum | Files the authorization. Walks the corridor at the pace of the position. Sits at the desk. Opens the brief. Hears the hum "the way the building heard it — as infrastructure." Reads from the last page first. | None — alone. Back to work. |
 
 ---
 
@@ -250,6 +259,10 @@ Thorne displays no emotional arc in Chapter 1 — which is the point. His expres
 | Ch 25 — Beat 2 | Structured revelation | BLACKWEIR briefing; holographic model; Confluence | Sequential, brick-by-brick: Confluence, trunk-lines, breach projections, then BLACKWEIR. "System management protocol." Voice unchanged. Three generations of CEOs briefed in this room. | Aurielle: processes; the small voice already knew |
 | Ch 25 — Beat 3 | Institutional precision | "The human cost is a variable, not a given" | Delivers population as engineering variable. Voice does not change register from throughput projections to casualty framing. The structural designation is the constant. | Aurielle: hears the vocabulary — "absorption sink" |
 | Ch 25 — Beat 4 | Assessment (held) | Aurielle requests alternatives analysis | "Of course. I'll have it by Thursday." The alternatives already prepared. The evaluation of a man who has watched three CEOs and outlasted all of them. The chair changes; the arithmetic doesn't. | Aurielle: hears what he did not say |
+| Ch 36 — Beat 1 | Institutional delivery | Conference room; alternatives analysis presentation | "The alternatives analysis has been distributed." No holographic display — this is authorization, not presentation. Sequential, factual. Each alternative dismissed with engineering precision. | Room: processes. Harding records. |
+| Ch 36 — Beat 2 | Prepared response | Evacuation question | Does not hesitate. The answer prepared since before the alternatives analysis. Delivers the math — 72 hours, 31 hours, 47 million — in the same register as conduit specifications. | Aurielle: "The math is the same." |
+| Ch 36 — Beat 3 | Verbal disclosure | Alone with Aurielle; "The number" | "Thirteen million. Within the designated containment perimeter." Speaks it once, in a room that absorbs. The managed neutrality held. The number given verbally because it was just them. | Aurielle: holds the number |
+| Ch 36 — Beat 4 | Threshold pause | Walking to door; hand on biometric reader | Pauses — "not the way he paused during briefings, for selection." Pauses the way a man pauses at a threshold he has stood at before with other people in other decades. "Eduardo signed the Phase Two authorization in this room. 1:47 AM." The most personal Thorne has ever been. | Aurielle: "I know." |
 
 ---
 
