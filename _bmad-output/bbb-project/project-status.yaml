@@ -514,6 +514,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Nephthys POV (5th appearance). Emerges from Cathedral 2-3 days post-BLACKWEIR. Walks 30m to junction housing with Imani. Touches conduit — chorus contact with tens of thousands absorbed as composite presence (not individuals). 'They are all still here' spoken to Imani (internalized testimony, not data-parsing). Returns to Cathedral, addresses ~340 survivors. Tells both truths: stone is physics (saved them), absorbed are present (chorus). Congregation begins framework formation. Imani positions beside not behind — editor role. Prophet emergence complete, institution forming, recursion visible. 'The theology that will kill her followers begins here.' Closing: 'The pain was signal. The signal was the chorus. The chorus was everyone.' BLACKWEIR terminology removed from narration per user request — replaced with 'the flood', 'the event', 'three days ago'."
 
-completedCount: 50
-totalWords: 234037
+  chapter_49:
+    title: "The Quietest Scene"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 4200
+    completedDate: "2026-02-17"
+    metaFile: "chapter-49-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 5 — Fuxi POV (5th appearance, FINAL Book 1). Emerges from converter station Day 3 post-BLACKWEIR. Climbs 187 rungs through violet-frosted ascent shaft. Walks to Block 14, finds Nuwa alive in masonry annex. Reunion embrace — full page, no dialogue. 'Fuxi did not count' (emotional peak). Nuwa: 'I'm not going back.' / Fuxi: 'I know.' Relief station: biometric processing, temporary IDs, re-housing queue. Nuwa walks away into Mid-Level crowd — chooses invisibility. Fuxi walks back into Sump toward Kindling. 'Thursday was today.' Rhetoric: Emergency Relief Processing Form — 'Subject departed without completing intake.' Arc completion: Fuxi (Maintenance Man → Radical), Nuwa (Invisible → Deliberately Invisible). Dialogue ~5% (lowest Fuxi chapter, justified). Duan stays in converter station. Tools = 'artifacts of a profession that no longer existed.' FINAL Fuxi POV in Book 1."
+
+completedCount: 51
+totalWords: 238237
 lastUpdated: "2026-02-17"

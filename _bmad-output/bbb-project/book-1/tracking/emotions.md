@@ -1,8 +1,8 @@
 ---
 title: "Emotion Tracking"
 type: tracking
-lastUpdated: "2026-06-15"
-lastChapter: "Chapter 38"
+lastUpdated: "2026-02-17"
+lastChapter: "Chapter 49"
 totalCharacters: 22
 project_name: "Untitled"
 ---
@@ -727,6 +727,22 @@ Fuxi's emotional register is containment — not repression but timing. He proce
 | Ch 28 — Beat 6 | Transfer shock | "Reason code 14-J. Infrastructure personnel retention priority. Indefinite." | Sets down spoon. The administrative architecture made personal. Nuwa's escape route sealed by a code. | Nuwa: calm, factual, jaw tight. "I didn't want to say it out loud." |
 | Ch 28 — Beat 7 | Protective impotence | "He thought about telling her. He didn't." | Where would they go? Transit denied. Transfer denied. Retention indefinite. The system sealed them in with paperwork. The silence is no longer withholding — it's impotence. | Nuwa: washes bowls, turns off light, walks to room without goodnight |
 | Ch 28 — Beat 8 | Documentation (evolved) | Entry 63: transfer denial recorded | The log evolves — administrative data alongside RCI data. Not suppression (Ch 8), not technical documentation (Ch 16/22), but political documentation. "Tuesday was five days away." | None — alone in the dark; the hum |
+| Ch 39 — Beat 1 | Methodical witness | Eighth spike arrives; step-function, no decay | Logs entry 8. The private log's final entry. The pattern complete. Body-knowledge confirmed: the acceleration predicted this. | Duan: silent co-witness; works shutdown procedures |
+| Ch 39 — Beat 2 | Comprehension (infrastructure as weapon) | R0 floods trunk-lines; pressure doors seal; absorption front propagates | "Not as a power grid. As a weapon." The Lie destroyed. Thirteen years of maintenance = thirteen years of weapon assembly. | Duan: stands at glass looking at Fuxi |
+| Ch 39 — Beat 3 | Helpless witness | Block 14 goes violet; cannot reach Nuwa | Three attempts. NETWORK UNAVAILABLE. Two hundred meters and thirty-ton blast doors between them. Body-knowledge useless. | None — sealed in converter station |
+| Ch 39 — Beat 4 | Ontological surrender | Sits on floor; multitool in pocket; waits | "Waited for the architecture to finish what it had always been designed to do." Not action, not resistance — witness. | Duan: silent; the hum everywhere |
+| Ch 49 — Beat 1 | Methodical emergence | Pressure doors unseal; Duan stays; ascent begins | Climbs 187 rungs. Counts them. The body-knowledge persists even after the Lie is destroyed. | Duan: "I'll stay." Fuxi understands without asking. |
+| Ch 49 — Beat 2 | Infrastructure witness | Violet frost traces conduit network | Sees the hidden architecture revealed. "Every pathway visible, every connection mapped." The weapon's blueprint made visible by its own execution. | None — alone in violet streets |
+| Ch 49 — Beat 3 | Suspended hope | Walking to Block 14; masonry annex intact | "The question of whether Nuwa was in the masonry annex or in the walls had not yet been answered." Hope deferred, not expressed. | None — alone |
+| Ch 49 — Beat 4 | Ontological relief | Door opens; Nuwa alive | "She was alive." Three words. The simplest sentence. The weight of three days compressed into recognition. | Nuwa: smaller, contracted, but present |
+| Ch 49 — Beat 5 | Physical connection | Embrace; full page; no dialogue | Holds her. She holds him. "Fuxi did not count." The methodical man stops counting for the first time in thirteen years. The emotional peak. | Nuwa: grips his jacket; doesn't let go |
+| Ch 49 — Beat 6 | Acceptance (her choice) | "I'm not going back." / "I know." | No argument. No provider-math. No logistics. She has chosen. He accepts. The relationship's terms have changed. | Nuwa: contracted, quiet, decided |
+| Ch 49 — Beat 7 | Witness (her departure) | Nuwa walks into Mid-Level crowd; disappears | Watches her go. She doesn't look back. "He had not expected her to." The provider-obligation ends. | Nuwa: walks without looking back |
+| Ch 49 — Beat 8 | Radicalization (complete) | "Thursday was today." Walks back into Sump | The Kindling's offer accepted through action, not declaration. The tools are artifacts. The knowledge is the asset. | None — alone; violet streets |
+
+**Total emotional beats: 37** (Ch 4: 9, Ch 8: 10, Ch 16: 7, Ch 22: 10, Ch 28: 8, Ch 39: 4, Ch 49: 8)
+
+**Arc summary updated:** Fuxi's emotional journey completes in Ch 49. The provider-obligation that defined him (Ch 4-28) is fulfilled in the embrace and released in the departure. The radicalization that began with the Kindling pamphlet (Ch 16), crystallized with the bench contact (Ch 22), and was confirmed by BLACKWEIR (Ch 39) is finalized when he walks back into the Sump. "Thursday was today" closes the thread from Ch 22's "Thursday was two days away." The methodical man who counted everything stops counting during the embrace — the emotional peak of his entire arc. What remains is body-knowledge without institutional frame, expertise without profession, and the Kindling's offer as the only architecture that fits.
 
 ---
 
@@ -784,6 +800,15 @@ Nuwa appears in Ch 4 only through messages — fast, layered, building cases, sa
 | Ch 42 — Beat 10 | Inventory as recovery | Spike passes; hum settles to "fuller" | Wipes nose. Re-soaks cloth. Counts: water, cloth, implant, body, Fuxi (unknown). | None — alone |
 | Ch 42 — Beat 11 | Compliance as survival | Recognizes what saved her | "Not bravery. Not strategy. Not even decision." The accumulated habit of routing along masonry walls. | None — internal |
 | Ch 42 — Beat 12 | Stillness (terminal) | Pact scar in cracked implant glow | "Surrounded by the hum of everyone who hadn't made it to a room without pipes." She is still. | None — alone; the chapter ends |
+| Ch 49 — Beat 1 | Contracted survival | Door opens; Fuxi at threshold | Smaller than he remembered. Folded into herself. Shoulders forward, chin down, taking up less. The survival posture. | Fuxi: sees her alive; relief |
+| Ch 49 — Beat 2 | Physical connection | Embrace; full page; no dialogue | Face against his chest. Hands grip his jacket at the back. Doesn't let go. The way you hold something you weren't sure still existed. | Fuxi: holds her; stops counting |
+| Ch 49 — Beat 3 | Declarative refusal | "I'm not going back." | Quiet voice. Sardonic Nuwa gone. Sentences contracted to minimum load-bearing structure. Three words and a negation. | Fuxi: "I know." |
+| Ch 49 — Beat 4 | System recognition | Relief station processing; temporary ID | Different database. Same architecture. The system that killed the Sump is now offering to put her somewhere new. | Fuxi: takes his ID; watches her |
+| Ch 49 — Beat 5 | Chosen invisibility | Walks away from re-housing queue into Mid-Level crowd | Puts ID in pocket. Walks into crowd. Another small person in a flow of people. The invisibility that had been imposed on her for twenty-four years, chosen now. | Fuxi: watches her go; she doesn't look back |
+
+**Total emotional beats: 17** (Ch 4: 4 messages, Ch 8: 6, Ch 16: 3, Ch 28: 4, Ch 42: 12, Ch 49: 5)
+
+**Arc summary updated:** Nuwa's arc completes in Ch 49. The transfer plan that defined her hope (Ch 8, 16, 28) was destroyed by BLACKWEIR (Ch 42). What remains is the survival architecture — the body-knowledge that saved her (masonry walls, stillness, wet cloth) and the refusal to be processed again. "I'm not going back" is the shortest, most definitive sentence she speaks in the entire book. Her choice to walk into the Mid-Level crowd is the inversion of her oppression: the invisibility that was imposed becomes the invisibility she chooses. The system cannot distinguish between her act of refusal and an administrative error. "Subject departed without completing intake." Her arc ends with feet, not words — the only agency available to a woman who has been below the threshold of notice her entire life.
 
 ---
 

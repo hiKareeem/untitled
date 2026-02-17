@@ -1,10 +1,10 @@
 ---
 title: "Rhythm Tracking"
 type: tracking
-lastUpdated: "2026-02-15"
-lastChapter: "Chapter 22"
+lastUpdated: "2026-02-17"
+lastChapter: "Chapter 49"
 totalChapters: 53
-analyzedChapters: 24
+analyzedChapters: 25
 project_name: "Untitled"
 ---
 
@@ -3300,3 +3300,105 @@ O=Briefing, 1=Descent, 2=Forward position, 3="Navigating",
 | Ch 38 | 5,200 | PRESSURE | 12% | 4→6→9→7→5 | 9.0 | 25/75 |
 
 Arc: Word count increasing as deployments intensify (4,500→4,600→5,500→5,200). Dialogue steadily rising then dropping (8→13→15→12%) — Ch 32 is the peak, driven by Jarek exchanges and Command comms; Ch 38 drops as Jarek is absorbed. Tension peaks escalating (7→8→9→9) — Ch 32 and Ch 38 share the peak but Ch 32 sustains it longer. Action ratio oscillates (45→35→40→25%) — Ch 32's Frame damage adds a physical action beat. Flow consistently 9.0. All four chapters PRESSURE mode — Nikolai's POV is structurally consistent. Guilt architecture introduced in Ch 32 (absent from Ch 11/20) carries directly into Ch 38.
+
+---
+
+## Chapter 49 — Fuxi: "The Quietest Scene"
+
+**Phase:** 5 (Radiation) | **Mode:** TEXTURE (domestic/post-catastrophe) | **Date analyzed:** 2026-02-17
+
+### Metrics
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,200 | 3,000–5,000 | ✅ |
+| Scenes | 4 | 2–4 | ✅ |
+| Paragraphs | ~85 | — | — |
+| Dialogue % | ~5% | 10–20% | ⚠️ Low (justified) |
+| Avg sentence length | ~15 words | 12–16 | ✅ |
+| Fragment % (1–5 word sentences) | ~18% | 15–25% | ✅ |
+
+### Tension Curve
+
+```
+10 |
+ 9 |                    ●
+ 8 |                  ╱   ╲
+ 7 |                ╱       ╲
+ 6 |              ╱           ╲
+ 5 |            ╱               ╲
+ 4 |          ╱                   ╲
+ 3 |        ╱                       ●
+ 2 |  ●───╱
+   +─────────────────────────────────
+     Sc1    Sc2      Sc3        Sc4
+```
+
+- **Opening:** 2/10 — Stillness: pressure doors unseal, Duan stays
+- **Midpoint:** 9/10 — Reunion: the embrace (full page, no dialogue)
+- **Peak:** 9/10 — "I'm not going back" / "I know"
+- **Closing:** 3/10 — Departure: Nuwa walks into crowd, Fuxi walks back to Sump
+- **Shape:** Inverted V — emotional peak at center, administrative aftermath as denouement
+
+### Beat Map
+
+1. [5%] HOOK — Pressure doors unseal: "the sound of a mechanism completing a sequence" → +0 (ambient)
+2. [10%] REVEAL — Duan: "I'll stay." Fuxi understands without asking → +1
+3. [20%] ENVIRONMENT — Ascent shaft violet, conduit glow gone, 187 rungs → +1
+4. [30%] REVEAL — Violet frost traces infrastructure: "every pathway visible" → +2
+5. [40%] ARRIVAL — Block 14, masonry annex, shelving unit barricade → +2
+6. [50%] KNOCK — "Nuwa." Voice raw. Movement inside. → +3
+7. [60%] CLIMAX — Reunion embrace, full page, no dialogue → MAX (9/10)
+8. [70%] DIALOGUE — "I'm not going back." / "I know." → Sustain (9/10)
+9. [80%] PROCESSING — Relief station, biometric scan, temporary ID, re-housing queue → +1
+10. [90%] DEPARTURE — Nuwa walks into Mid-Level crowd; Fuxi walks back to Sump → −6
+11. [95%] CLOSING — "Thursday was today." Rhetoric document. → −3
+
+**Beat density:** 1 per ~380 words — moderate for a TEXTURE chapter
+
+### Transitions
+
+| Transition | Type | Quality |
+|------------|------|---------|
+| Scene 1→2 | Spatial (converter station → ascent shaft → Sump streets) | 9/10 |
+| Scene 2→3 | Spatial (streets → Block 14 → masonry annex) | 10/10 |
+| Scene 3→4 | Time-jump ("The relief shelter opened on the fifth day") | 9/10 |
+
+### Flow Scores
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Scene-to-scene | 9/10 | Spatial transitions smooth; time-jump clear |
+| Paragraph-to-paragraph | 9/10 | Infrastructure vocabulary creates rhythm |
+| Sentence-to-sentence | 9/10 | Paratactic structure; bimodal paragraphs maintained |
+| **Overall Flow** | **9.0/10** | Fuxi's methodical register creates steady pace |
+
+### Action/Reflection Balance
+
+- **Action:** 25% (walking, climbing, knocking, holding, processing, departing)
+- **Reflection:** 75% (infrastructure observation, body-knowledge, Nuwa's rendering, system recognition)
+- **Balance:** 25/75 — heavily reflective, correct for Phase 5 radiation chapter
+
+### Pacing Notes
+
+- **Strengths:** The embrace scene (L164-183) is the rhythmic center — full page without dialogue, tension sustained at 9/10 through physical detail and silence. "Fuxi did not count" (L182) is the emotional peak — the methodical man stops counting for the first time in 13 years. The rhetoric document closing (L258-271) provides administrative counterpoint to the emotional core. Dialogue at ~5% is the lowest of any Fuxi chapter but justified — this is "The Quietest Scene."
+- **Concerns:** Dialogue percentage below target (5% vs. 10-20%) — but this is intentional per chapter plan ("no dialogue for a full page"). The two spoken lines ("I'm not going back" / "I know") land harder because of the surrounding silence.
+- **Recommendations:** TEXTURE subtype confirmed: **domestic/post-catastrophe** (silence as scene architecture, institutional processing as counter-rhythm, infrastructure-as-elegy). The violet frost descriptions function as world-building and thematic revelation simultaneously.
+
+### Comparison to Plan
+
+- Matches plan rhythm target: ✅ YES (Phase 5, TEXTURE, 3-5K words)
+- Adjacent chapter contrast: ✅ (Ch 48 = Nephthys/TEXTURE/theological-horror → Ch 49 = Fuxi/TEXTURE/domestic-post-catastrophe → Ch 50 = Aurielle/TBD)
+
+### Comparison to Previous Fuxi Chapters
+
+| Chapter | Words | Mode | Dial% | Tension | Flow | Balance |
+|---------|-------|------|-------|---------|------|---------|
+| Ch 4 | 4,100 | TEXTURE | 8% | 3→6→4 | 8.5 | 30/70 |
+| Ch 8 | 4,300 | TEXTURE | 12% | 3→5→3 | 9.0 | 25/75 |
+| Ch 16 | 4,800 | TEXTURE | 5% | 3→6→5 | 9.0 | 20/80 |
+| Ch 22 | 5,200 | TEXTURE | 10% | 3→6→9→5 | 9.0 | 35/65 |
+| Ch 39 | 5,800 | PRESSURE | 8% | 3→6→9→10→7 | 9.5 | 40/60 |
+| **Ch 49** | **4,200** | **TEXTURE** | **~5%** | **2→9→9→3** | **9.0** | **25/75** |
+
+Arc: Word count peaks at Ch 39 (BLACKWEIR witness, 5,800) then drops to 4,200 (post-catastrophe). Dialogue oscillates (8→12→5→10→8→5%) — Ch 16 and Ch 49 share the 5% floor (both private/intimate chapters). Tension curves escalate through Phase 2-3 (peaks: 6→5→6→9→10) then shift to inverted V in Ch 49 (peak at center, not climax). Flow consistently 9.0+ except Ch 4 (8.5, first appearance). Balance shifts from 30/70 to 20/80 (Ch 16, private log) then oscillates back. Ch 49 returns to 25/75 — heavily reflective, matching Ch 8 (domestic) but post-catastrophe. Mode: TEXTURE dominant (5 of 6 chapters) except Ch 39 (PRESSURE, BLACKWEIR). Fuxi's POV is structurally consistent: low dialogue, high reflection, infrastructure vocabulary as rhythm engine.
