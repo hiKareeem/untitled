@@ -1,25 +1,3 @@
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 0
-draftVersion: 1
-createdDate: '2026-02-10'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Prologue — Arctic-7"
-pov: "Dr. Elise Vantanen"
-wordTarget: "3500-5000"
-phase: 1
-location: "Arctic-7"
-timeline: "December 2174"
-mode: PRESSURE
-epigraph_source: "On the Statistical Correlation Between Nitro Infrastructure Density and Anomalous Event Frequency"
-epigraph_author: "Dr. Maren Solberg, 2170"
-rhetoric_reference: "Solberg 2170 suppressed report"
----
-
 # Prologue
 
 ## Arctic-7
@@ -238,29 +216,6 @@ It remained for a very long time.
 
 ---
 
-*[End of Prologue]*
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 1
-draftVersion: 1
-createdDate: '2026-02-10'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Heir"
-pov: "Aurielle Vasquez"
-wordTarget: "5000-6000"
-phase: 1
-location: "Neo-Shanghai Spires (Celestial Ballroom)"
-timeline: "2175"
-mode: PRESSURE
-epigraph_source: "A History of Silence"
-epigraph_author: "Unknown; Black Babel networks, post-2176"
-rhetoric_reference: "Board Resolution 2175-003 (Emergency Succession)"
----
-
 # Chapter 1
 
 ## The Heir
@@ -270,55 +225,6 @@ rhetoric_reference: "Board Resolution 2175-003 (Emergency Succession)"
 > — *A History of Silence*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 1
-
-SYNOPSIS: Eduardo Vasquez is assassinated by thermal-kinetic round mid-speech at a corporate gala; his daughter Aurielle, seated on stage with brain matter on her dress, is walked out by Marcus Thorne — whose suit is clean and whose responses were pre-assembled — and inherits NitroCore by emergency succession.
-
-This chapter explores Aurielle's meritocrat-by-inheritance contradiction through the sudden, violent transfer of power from father to daughter. Before the assassination, Aurielle demonstrates institutional fluency at the gala; after it, she demonstrates institutional conditioning — walking when told, wiping her face for the cameras, sealing her suspicion of Thorne because she needs him.
-
-**Phase:** 1/5 (Equilibrium → Disrupted)
-**Themes:** Architecture of Power (Strong), Systemic Complicity (Strong), Where Identity Ends (Moderate), Commodification of Suffering (Background)
-**Characters present:** Aurielle Vasquez (POV), Marcus Thorne, Eduardo Vasquez (deceased)
-**Location:** Neo-Shanghai Spires — Celestial Ballroom (114th floor, NitroCore Tower), corridor, private suite (116th floor)
-
-**Key events:**
-- Aurielle navigates gala, reads the room, catalogs intelligence (GCTA empty chair, Chimera delegation, Okafor's timeline lie)
-- Eduardo assassinated mid-speech by thermal-kinetic round — erased from the nose up, body held upright by lectern
-- Aurielle seated on stage, pieces of her father on her dress, cannot hear/remember the shot
-- Thorne (two chairs away, suit clean) hands her a handkerchief, tells her the cameras are recording
-- Corridor walk: Board Resolution 2175-003 activated, emergency succession, Thorne floats theories but doesn't declare a narrative
-- "Welcome to the throne, my dear. Try not to slip."
-- Aurielle alone in suite: rotates left wrist (signature mannerism), keeps the handkerchief, does not look in the mirror
-
-**Consequences:**
-- Aurielle is now CEO of NitroCore by emergency succession (Board Resolution 2175-003)
-- Thorne established as mentor/handler/suspect — his clean suit and pre-assembled responses plant suspicion
-- Reader humanizes Aurielle before she has power
-- Contrast established: void-death (Prologue) vs human violence (Ch 1) — two kinds of death in two chapters
-- Holographic display still scrolling Eduardo's name as body stands at podium — institutional indifference made visual
-
-**Continuity notes for future chapters:**
-- The handkerchief is kept (drawer in Eduardo's old office, cleaned, folded, never used again, never thrown away)
-- The polished oxfords — only part of Eduardo that looked right (recurring image)
-- Aurielle suspects Thorne ("He knew" — sealed, partitioned) — timing too clean, suit too clean, succession too smooth
-- Board Resolution 2175-003: emergency succession, no quorum required
-- Eduardo's office smells like sandalwood cologne (absorbed into furniture leather)
-- Eduardo's tells: adjusts cuffs when nervous, polishes own oxfords (11-year craftsman in Mid-Levels)
-- Eduardo's rules: "Weakness is a scent." "The smile is for the room." "Ask about their children." "Ask a question — it buys time and sounds like leadership."
-- Aurielle's wrist rotation mannerism established (left wrist, when processing difficult information)
-- The Sump is invisible from Spire altitude — "She couldn't see the Sump from here. Nobody could."
-
-**Bible update needed:**
-- Chronology: Eduardo Vasquez assassinated at NitroCore gala, 2175 (exact date TBD)
-- Locations: Celestial Ballroom (114th floor), private suite (116th floor) — details established
-- Objects: Thorne's white silk handkerchief (recurring motif)
-- Characters: Eduardo details added (cuff tell, oxfords, cologne, teaching rules). Aurielle Recent History needs update. Thorne's first appearance logged.
-- Themes: Architecture of Power (strong), Systemic Complicity (strong) for Ch 1 progression tables
--->
-
-## Draft v1
 
 The Celestial Ballroom occupied the 114th floor of NitroCore Tower, and Aurielle Vasquez had been smiling for two hours.
 
@@ -501,60 +407,6 @@ Outside the window, 114 floors above the city that hummed beneath her, the Spire
 She didn't look down. She couldn't see the Sump from here. Nobody could.
 
 ---
-_Draft generated: 2026-02-10_
-_Word count: ~5,200_
-
-## Multi-Agent Review
-
-**Date:** 2026-02-10
-**Overall Status:** ✅ PASS
-
-### Agent Results
-
-| Agent | Pass | Issues |
-|-------|------|--------|
-| Continuity Editor | ✅ | 0 |
-| Documentaliste | ✅ | 1 low |
-| Style Coach | ✅ | 2 low |
-| Character Keeper | ✅ | 1 low |
-
-### Issues to Address
-
-**Continuity:** None.
-
-**Factual Accuracy:** Vasquez dynasty timeline (Mateo → Eduardo → Aurielle spanning ~133 years) works with nanite-extended lifespans but not explicitly established in bible. Recommend clarification.
-
-**Style & Voice:**
-- Voice Match: 88%
-- Slop Patterns Found: 0
-- Note: 3 similes in 5,200 words (slightly above prologue baseline)
-- Note: "the world had rearranged itself" — borderline anti-slop proximity
-
-**Bible Consistency:** Eduardo's cuff-adjustment tell and shoe-polishing ritual are new details — recommend adding to bible for future flashback continuity.
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 2
-draftVersion: 1
-createdDate: '2026-02-10'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Feed Says Relocated"
-pov: "Mirelle Dubois"
-wordTarget: "5000-6000"
-phase: 1
-location: "Neo-Shanghai Sump"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "Songs of the Deep Sump"
-epigraph_author: "Folk tradition, collected post-BLACKWEIR"
-rhetoric_reference: "NitroCore Sump Division press release"
----
 
 # Chapter 2
 
@@ -565,55 +417,6 @@ rhetoric_reference: "NitroCore Sump Division press release"
 > — *Songs of the Deep Sump*, "Chalk Song"
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 2
-
-SYNOPSIS: Mirelle Dubois investigates the disappearance of a conduit worker named Dao Suen near Junction 7, interviewing his wife Lien in a Sump apartment where the hum never stops. The Feed says "relocated" — NitroCore's press release says "reassigned." Lien says he walked toward a shimmer near a trunk-line access point and didn't come back. Mirelle's editor Gauthier dismisses the story as anecdotal — one missing worker, no confirmed body, corporate records show transfer authorization. Mirelle catalogs the details that don't fit: the chalk name on the wall near Junction 7, the second disappearance Lien mentions (a woman from the floor above, three weeks earlier, also "relocated"), and the ambient RCI readings from Mirelle's borrowed sensor that spike near the access point. She files nothing. She keeps the notes.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Commodification of Suffering (Strong), Systemic Complicity (Strong), Truth as Weapon (Moderate), Architecture of Power (Background)
-**Characters present:** Mirelle Dubois (POV), Lien Suen (new — Dao's wife), Gauthier (new — Mirelle's editor, via comms)
-**Location:** Neo-Shanghai Sump — residential block near Junction 7, Sump street level, conduit access corridor
-
-**Key events:**
-- Mirelle interviews Lien Suen about her husband Dao's disappearance near Junction 7
-- Lien describes the shimmer — not dramatic, just a wrongness in the air near the trunk-line access point
-- Mirelle examines the corridor near Junction 7 — finds Dao's name written in chalk on the wall, fading
-- Second disappearance mentioned: a woman from Lien's building, three weeks prior, also "relocated" per the Feed
-- Mirelle contacts editor Gauthier — presents the pattern (two disappearances, same block, same proximity to Junction 7)
-- Gauthier: "One missing worker and a chalk name on a wall. That's not a story, Mirelle. That's a rumor."
-- Mirelle's borrowed RCI sensor shows elevated readings near the access corridor — 19.4, baseline should be 14-16
-- She does not file. She keeps the notes. She starts building the case.
-
-**Consequences:**
-- Mirelle's investigative method established: physical presence, source cultivation, borrowed tech, notes vs. published pieces
-- The Sump's information asymmetry introduced: the Feed says one thing, the residents say another, neither can prove the other wrong
-- Junction 7 seeded as a significant location (BLACKWEIR severance point)
-- The chalk tradition established — Sump workers write the names of the disappeared on walls near where they vanished
-- Editor Gauthier's evidentiary standard established — not wrong, but the standard is the mechanism that keeps truth unpublished
-- RCI baseline elevation in the Sump noted — data point that will connect to Sofia's atmospheric readings
-- Mirelle's Lie reinforced: "If people know, they'll act" — she believes this story matters, that evidence changes things
-
-**Continuity notes for future chapters:**
-- Dao Suen: conduit maintenance tech, NitroCore municipal contract, vanished near Junction 7 trunk-line access
-- Lien Suen: Dao's wife, works textile recycling in the Sump, has a daughter (unnamed, ~6 years old)
-- Chalk names: Sump tradition — workers write names of the disappeared near the site. Dao's name in chalk near Junction 7. Fading.
-- Second disappearance: unnamed woman, floor above Lien, three weeks before Dao. Also "relocated."
-- Gauthier: Mirelle's editor at The Wire. Based in Paris bureau. French-speaking (they switch to French in private). Not corrupt — just applying evidentiary standards that happen to serve power.
-- Mirelle's borrowed RCI sensor: handheld, not her own — borrowed from a contact. Reading 19.4 near Junction 7 (baseline should be 14-16 for this stratum)
-- NitroCore Sump Division press release: "All Junction 7 personnel reassigned. No disruption expected." — the corporate record Mirelle is investigating against
-- Mirelle's notes vs. pieces: raw notes are angry, surgical; published pieces are clean. She keeps two sets of files.
-- Mirelle has been working the Sump beat for five months — this is not her first disappearance, but Dao is the first one she's been able to trace to a specific location
-
-**Bible update needed:**
-- Characters: Add Lien Suen (supporting, Sump), Gauthier (supporting, editor). Update Mirelle Recent History.
-- Locations: Junction 7 corridor details. Sump residential block near Junction 7.
-- Objects: Mirelle's borrowed RCI sensor. Chalk names tradition.
-- Chronology: Dao Suen disappearance (weeks before chapter). Second disappearance (three weeks before Dao).
--->
-
-## Draft v1
 
 The apartment smelled like solder flux and boiled greens. Mirelle Dubois sat on a stool that had been designed for a child and held a cup of tea she would not drink.
 
@@ -852,77 +655,6 @@ She would count them.
 She turned from the brightline and walked back into the Sump, and the current took her, and the hum followed, and the Feed scrolled on above her head — *no disruption to service expected* — and Dao Suen's name was still written in chalk on a wall near Junction 7, where the air smelled like cold and the reading was nineteen point four and the tolerance band was wide enough to hold a man's disappearance without anyone having to call it what it was.
 
 ---
-_Draft generated: 2026-02-10_
-_Word count: ~5,100_
-
-## Multi-Agent Review
-
-**Date:** 2026-02-10
-**Overall Status:** ✅ PASS (1 fix applied)
-
-### Agent Results
-
-| Agent | Pass | Issues |
-|-------|------|--------|
-| Continuity Editor | ✅ | 0 (manual check — no contradictions with Ch1 or plan) |
-| Documentaliste | ✅ | 0 |
-| Style Coach | ✅ | 1 medium, 3 low |
-| Character Keeper | ✅ | 1 medium (fixed), 4 low |
-
-### Fix Applied
-
-**"first year" → "first weeks":** Mirelle has been on the Sump beat five months, not a year. Fixed in draft.
-
-### Remaining Low-Priority Notes
-
-**Style & Voice:**
-- Voice Match: 85%
-- Slop Patterns Found: 0
-- Negation-before-assertion: 3 instances (target 4 — slightly underused; can add in revision)
-- "Scar tissue forming over a wound" — borderline cliché; consider freshening
-- "The current split around her" — borderline poetic/AI proximity; could ground in tactile
-- Sensory hierarchy: exemplary (sound/vibration dominant throughout)
-- Dialogue: clean, no said-bookisms, subtext-heavy
-
-**Bible Consistency:**
-- Mirelle's flaw ("treats the story as more real than the people") present but softer than bible claim — the flowers scene shows restraint that slightly undercuts the flaw. Could be sharpened in revision.
-- Black Babel not yet referenced on-page (absence is fine — dead-drop planned Ch 9)
-- Dao Suen specific details (nine-year route, knee, shift timing) added to bible under Lien Suen entry and Junction 7 location
-
-**Factual Accuracy:**
-- All bible facts verified: RCI readings, location details, character behaviors, technology, lexicon compliance
-- No corrections required
-
-**Continuity with Ch1:**
-- Spire/Sump contrast effective: Ch1 closes with "She couldn't see the Sump from here. Nobody could." Ch2 opens inside the Sump that's invisible from above
-- Spire reference in Ch2 kept subtle (one pass — "press pool for some corporate function") — no direct naming of Celestial Ballroom or characters from Ch1
-- Dramatic irony: reader now holds both perspectives (the CEO inheriting a machine she doesn't understand + the journalist investigating what that machine hides)
-- No temporal or logical inconsistencies detected
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 3
-draftVersion: 2
-createdDate: '2026-02-10'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Pain Is Signal"
-pov: "Nephthys"
-wordTarget: "5000-6000"
-phase: 1
-location: "European Outlands (dead town, former energy grid edge)"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "The Book of Radiance"
-epigraph_author: "Church of the Blessed Nitro, ~2085"
-epigraph_ref: "7:4"
-rhetoric_reference: "Church liturgical language, Nephthys counter-liturgy"
----
 
 # Chapter 3
 
@@ -933,63 +665,6 @@ rhetoric_reference: "Church liturgical language, Nephthys counter-liturgy"
 > — *The Book of Radiance*, 7:4
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 3
-
-SYNOPSIS: Nephthys and Imani walk through a dead Outlands town — depopulated, grid-disconnected, residual void scar from a years-old event. The chorus flares near old conduit infrastructure: migraines, nosebleeds, perceived structure in the hum. Imani insists on suppressants. Nephthys refuses — the pain is signal, not symptom. Establishes the pilgrimage, the companion dynamic, and Nephthys's core claim: the hum is not one voice (the Church's teaching) but many — a chorus. She does NOT yet know what the chorus contains or whether the absorbed are conscious. She is a seeker with questions, not a prophet with answers.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Where Identity Ends (Strong), Irrelevance of Individual Being (Strong), Commodification of Suffering (Moderate), Systemic Complicity (Background)
-**Characters present:** Nephthys (POV), Imani (companion)
-**Location:** European Outlands — dead town near former energy grid edge, abandoned conduit infrastructure
-
-**Key events:**
-- Nephthys and Imani arrive at a dead Outlands town — depopulated after a void event years ago, grid-disconnected, residual infrastructure
-- Nephthys feels the chorus flare near old conduit infrastructure — migraines, nosebleeds, structured patterns in the hum
-- Imani insists on suppressants for the migraines; Nephthys refuses — the pain is signal, not symptom
-- Nephthys interprets the chorus as plural (not the Church's singular Voice) but does NOT identify the layers as absorbed individuals — she senses multiplicity without understanding its source
-- They find the void scar in the town square — cold stone, warped buildings, milky glass. Nephthys kneels and listens.
-- Nephthys detects structured, active, layered signal in the scar — but cannot decode it. "I do not know what it is."
-- Imani's doubt and loyalty established — she follows Nephthys the person, not the theology
-- Nephthys notes correlation: chorus intensity may relate to number absorbed (question, not conclusion)
-- The chapter closes with Nephthys orienting toward Neo-Shanghai — the chorus is louder to the east
-
-**Revelation calibration (what Nephthys knows vs. will learn):**
-- KNOWS: The hum is composite, not singular. The chorus has structure. Pain correlates with proximity to void scars.
-- SUSPECTS: The chorus relates to the absorbed somehow. The Church and VEC are both wrong.
-- DOES NOT KNOW: Whether the absorbed are conscious. Whether the layers are individual people. What the chorus is actually saying. The network/archive structure (learns Ch 26). "They are all still here" (learns Ch 44).
-
-**Consequences:**
-- Nephthys's pilgrimage and method established: she follows the chorus the way a scientist follows data, but interprets it through faith
-- Imani's role as practical counterweight and reader surrogate established
-- The Outlands as geography of abandonment — what happens to places the grid leaves behind
-- The chorus mechanism seeded: migraines, nosebleeds, perceived structure — biological, not supernatural, but Nephthys doesn't know that
-- Counter-liturgy vocabulary introduced: the chorus (vs. the Voice)
-- Neo-Shanghai established as destination — the chorus pulls east
-- The dead town's void scar establishes that absorption events have been happening for years, outside the cities, unclassified, unreported
-- Void scars are COLD (consistent with Ch 2 "the air smelled cold" and prologue)
-
-**Continuity notes for future chapters:**
-- Nephthys's migraines worsen with proximity to void-scarred infrastructure — biological mechanism
-- Imani carries the supplies, manages logistics, worries about Nephthys's health
-- The dead town is unnamed — Outlands towns lose their names when the grid disconnects
-- Nephthys was Silenced (excommunicated) by Arch-Prelate Malachi — referenced in backstory
-- Nephthys's resonance beads: nitro-glass, inherited from her ordination, still hum faintly — she kept them after excommunication
-- The chorus is directional — stronger toward higher nitro-throughput infrastructure (Neo-Shanghai)
-- Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed)
-- Nephthys's counter-liturgy is developing in real-time — she has questions, not answers
-
-**Bible update needed:**
-- Locations: Dead Outlands town details (unnamed, grid-disconnected, void scar in town square, abandoned church hall)
-- Characters: Nephthys Recent History — first chapter appearance, chorus episode, refusal of suppressants
-- Characters: Imani Recent History — first chapter appearance, dynamic with Nephthys established
-- Objects: Nephthys's resonance beads (nitro-glass, ordination relic, still hum)
-- Objects: Imani's medical kit (suppressants, field supplies)
-- Chronology: Outlands void event (years prior, unclassified). Previous scars: Bruges relay, Metz junction.
--->
-
-## Draft v1
 
 The town had no name anymore. It had one once — Imani had found it on an old grid map, printed on actual paper, salvaged from a relay station forty kilometers back. But the map was from before the disconnection, and when the grid pulled out it took the names with it. The town existed now only as a gap in the infrastructure — a place the conduit network had once reached and then abandoned, the way a river abandons an oxbow: not violently, not suddenly, but with the slow indifference of a system that had found a more efficient path.
 
@@ -1236,33 +911,6 @@ She would listen until she could. Or until she couldn't.
 Outside, the wind carried dust through the empty square, and the scar held its cold, and the church spire pointed at a sky that had no opinion about what was sacred and what was dying and whether the difference mattered.
 
 ---
-_Draft generated: 2026-02-10_
-_Word count: ~5,400_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 4
-draftVersion: 1
-createdDate: '2026-02-10'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Monitor 6"
-pov: "Fuxi Lin"
-wordTarget: "5000-6000"
-phase: 1
-location: "Neo-Shanghai Deep Sump"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "Resonance and Ruin"
-epigraph_author: "Anonymous VEC researcher (Erasure List)"
-epigraph_ref: "Field Note 22"
-rhetoric_reference: "Corporate infrastructure vocabulary, Sump/Street terminology"
----
 
 # Chapter 4
 
@@ -1273,51 +921,6 @@ rhetoric_reference: "Corporate infrastructure vocabulary, Sump/Street terminolog
 > — *Resonance and Ruin*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 4
-
-SYNOPSIS: Fuxi Lin's first POV chapter. Routine trunk-line inspection in Deep Sump — the lowest stratum of Neo-Shanghai, below ground level, where the city's circulatory system runs through first-generation infrastructure. RCI fluctuation on monitor 6 that self-corrects after forty seconds. Shift supervisor Chen Wei dismisses it: "They always self-correct." Fuxi logs it per protocol. Nuwa messages him about a better implant she found on the Hum Market — needs three more months of savings. Establishes Sump daily reality, the sibling bond, and Fuxi's working-class intimacy with the infrastructure that will become the murder weapon.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Systemic Complicity (Strong), Commodification of Suffering (Moderate), Progress Requires Atrocity (Background)
-**Characters present:** Fuxi Lin (POV), Chen Wei (shift supervisor), Nuwa Lin (via frame messages)
-**Location:** Neo-Shanghai Deep Sump — trunk-line inspection corridor, monitoring bay, converter station proximity
-
-**Key events:**
-- Fuxi conducts routine trunk-line inspection in Deep Sump — physical, sensory, embedded in infrastructure
-- RCI fluctuation on monitor 6: reading spikes to 31.2 (baseline 26-28 for this section), holds for ~40 seconds, self-corrects
-- Chen Wei dismisses it — "They always self-correct." Twenty years of calcified institutional faith.
-- Fuxi logs the anomaly per protocol but notices: the self-correction was too clean. Too symmetrical. Like the reading corrected itself rather than decayed naturally.
-- Nuwa messages via frame about a Shenlong P-3 on the Hum Market — humor, dreams of escape, the savings they need
-- Fuxi's shift ends. He ascends from Deep Sump to Sump residential. The transition from workplace to home — the hum changes character but never stops.
-
-**Consequences:**
-- Deep Sump established as physical environment: heat, hum, orange glow, cramped corridors, trunk-line vibration
-- Fuxi's voice established: working-class pragmatism, body-knowledge, infrastructure intimacy
-- The RCI anomaly planted — the first data point in Fuxi's private unease
-- Chen Wei established as institutional mirror — what Fuxi becomes if he stays
-- Nuwa's presence established through messages — humor, practicality, dreams
-- The reader learns the Sump from the inside: not as a place of horror but as a workplace, a home, a life
-
-**Continuity notes for future chapters:**
-- Monitor 6 is in Trunk-Line Section 4-East, near the Resonance District boundary
-- Chen Wei has been shift supervisor for 20 years — pre-dates Fuxi by a decade
-- Fuxi's shift pattern: 10-hour rotations, Deep Sump maintenance crew of 6 per shift
-- Nuwa wants a Shenlong P-3 (personal, mass-market) with sensory filter — currently has a salvaged second-hand unit
-- The implant Nuwa wants is a sensory-filter upgrade — reduces hum-drunk symptoms
-- Fuxi and Nuwa's apartment is in the Sump residential district, above the Deep Sump work zone
-- The RCI fluctuation pattern (spike-hold-clean correction) will recur and worsen in Phase 2
-
-**Bible update needed:**
-- Characters: Fuxi Recent History — first chapter appearance, RCI anomaly, Chen Wei dynamic
-- Characters: Chen Wei — new supporting character entry (shift supervisor, 20 years service)
-- Characters: Nuwa — first indirect appearance via messages
-- Locations: Deep Sump interior details (monitoring bay, trunk-line corridors, converter station proximity)
-- Objects: Monitor 6 (trunk-line monitoring station, Section 4-East)
--->
-
-## Draft v1
 
 The hum in Section 4-East was running three hertz flat.
 
@@ -1510,33 +1113,6 @@ Outside, the conduit glow pulsed its steady orange through the frosted polymer w
 Not yet.
 
 ---
-_Draft generated: 2026-02-10_
-_Word count: ~5,200_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 5
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Instrument Drift"
-pov: "Sofia Reyes"
-wordTarget: "5000-6000"
-phase: 1
-location: "VEC HQ, Neo-Shanghai"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "A History of Silence"
-epigraph_author: "Anonymous"
-epigraph_ref: "Fourteen attempts"
-rhetoric_reference: "SOP 7.1: Anomalous Data Handling, VEC institutional vocabulary"
----
 
 # Chapter 5
 
@@ -1547,49 +1123,6 @@ rhetoric_reference: "SOP 7.1: Anomalous Data Handling, VEC institutional vocabul
 > — *A History of Silence*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 5
-
-SYNOPSIS: Sofia Reyes's first POV chapter. Atmospheric data analysis at VEC HQ in Neo-Shanghai. Sofia detects a low-frequency pulse in the sub-strata readings — structured, repeating, correlating with nothing in her atmospheric models. She flags it for Dr. Liang, her supervisor. Liang tells her to check the instruments. She checks. The instruments are fine. She runs the data again. The pulse is still there — faint, structured, and behaving in ways that suggest organization rather than entropy. Liang asks her to recalibrate and resubmit. Sofia recalibrates. The pulse persists. She begins cross-referencing against other datasets. No correlation yet — but the reader, having read Fuxi's chapter, recognizes the timing. This is the first data point the reader will eventually connect to Nikolai's deployments and Fuxi's RCI anomalies.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Systemic Complicity (Moderate), Truth as Weapon (Background), Commodification of Suffering (Background), Architecture of Power (Moderate)
-**Characters present:** Sofia Reyes (POV), Dr. Liang (supervisor), colleagues in Atmospheric Anomaly Group (background)
-**Location:** VEC HQ, Neo-Shanghai — immersion pod, atmospheric monitoring lab, Sofia's workstation
-
-**Key events:**
-- Sofia working in the immersion pod — haptic suit, holographic data environment, the space where she is most herself
-- Detects anomalous low-frequency pulse in sub-strata atmospheric readings — structured, repeating, correlating with nothing
-- Flags it for Dr. Liang. Liang: "Check the instruments." Standard institutional response.
-- Instruments are fine. She runs the data again. Pulse persists.
-- Liang: recalibrate and resubmit. Sofia recalibrates. Pulse persists.
-- Sofia begins cross-referencing — atmospheric models, throughput data, historical records. No correlation yet.
-- The chapter ends with Sofia alone in the lab, the data on her screen, the pulse continuing, and the institutional machinery already beginning to absorb the anomaly into procedure.
-
-**Consequences:**
-- VEC HQ established as physical environment: clean, well-funded, structurally irrelevant
-- Sofia's voice established: scientific register, data patterns, discovery as compulsion
-- Dr. Liang established as institutional mechanism — not hostile, just process
-- The anomalous pulse planted — the reader's first scientific data point for the void's atmospheric signature
-- Reader-ahead architecture: the pulse timing will correlate with Fuxi's RCI spike and future Stalker deployments
-
-**Continuity notes for future chapters:**
-- The pulse is in the sub-strata readings — low-frequency, below standard monitoring thresholds
-- Sofia's immersion pod is her primary workspace — haptic suit, holographic environment
-- The Atmospheric Anomaly Group has 11 researchers; Sofia is the most talented and the most isolated
-- Dr. Liang's response is institutional, not hostile — "check the instruments" is SOP 7.1
-- Sofia's field kit (personal sensor package) is mentioned but not yet deployed outside VEC
-- The pulse will correlate with Stalker deployment records in Phase 2 (Ch 15: "Correlation 0.94")
-
-**Bible update needed:**
-- Characters: Sofia Recent History — first chapter appearance, anomalous pulse detection, Liang dynamic
-- Characters: Dr. Liang — first direct appearance (supervisor, institutional mechanism)
-- Locations: VEC HQ interior details (immersion pod, atmospheric monitoring lab, workstation)
-- Objects: Immersion pod (VEC holographic analysis environment)
--->
-
-## Draft v1
 
 The pulse was there again.
 
@@ -1818,69 +1351,9 @@ Onset. Plateau. Withdrawal.
 She fell asleep counting the intervals.
 
 ---
-_Draft generated: 2026-02-11_
-_Word count: ~5,400_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 6
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Portrait in the Chamber"
-pov: "Zeyad Al-Fahim"
-wordTarget: "5000-6000"
-phase: 1
-location: "New Geneva, UGC Headquarters"
-timeline: "2175, Q1"
-mode: TEXTURE
-epigraph_source: "Address to the Signatories"
-epigraph_author: "Ambassador Khalil Al-Fahim"
-epigraph_ref: "2044 — ornamental accords warning"
-rhetoric_reference: "Nitro Accords, Preamble (2044)"
----
-
-# Chapter 6 — Zeyad: "The Portrait in the Chamber"
-
-<!--
-SYNOPSIS: Routine Accords compliance review. A delegate mentions Arctic-7 — "contained, no action required." Zeyad requests the full briefing. Denied: classification above his access. His grandfather's portrait on the wall.
-
-PHASE: 1 (Equilibrium)
-POV: Zeyad Al-Fahim
-LOCATION: New Geneva, UGC Headquarters
-TIMELINE: 2175, Q1
-MODE: TEXTURE
-
-EPIGRAPH SOURCE: Address to the Signatories — Ambassador Khalil Al-Fahim, 2044
-NOTE: Khalil Al-Fahim (great-grandfather) signed the Accords, 2044. Tariq Al-Fahim (grandfather) is the man Zeyad knew personally. Pen chain: Khalil → Tariq → Kamal → Zeyad.
-
-RHETORIC REFERENCE: Nitro Accords, Preamble (2044) — "No single entity may hold dominion over the lifeblood of human civilization."
-
-READER-AHEAD BEAT: Arctic-7 — same station from the Prologue. Zeyad encounters it as a line item in a compliance review. The institutional machinery that will eventually destroy him begins here, with a procedural reclassification he is not supposed to notice.
-
-KEY ITEMS: Antique pen (Khalil's, via Tariq and Kamal), leather notebook (private record), photograph (desk — Khalil at signing), portrait (Hall of Nations — Khalil)
-
-INVENTORY:
-  - Zeyad carries: antique pen, leather notebook, 3 datapads, UGC credentials
-  - No changes this chapter
-
-CONTINUITY NOTES:
-  - Arctic-7 was the site of the Prologue breach (Vantanen's team). Zeyad does not know this.
-  - Dr. Patel is the VEC liaison delegate — minor recurring character.
-  - Dr. Elara Mbutha chairs this session (rotating presidency, Kenyan delegation).
-  - GCTA observer seat has been empty for 14 months — this is a detail Zeyad has been tracking.
-  - The Jordanian holographic flag flicker is a recurring motif for institutional decay.
-  - Delegate Kova (Euro-Asian Energy Bloc) does not appear this chapter; his challenge comes later.
-  - Mirelle Dubois contact has not yet been established at this point in the timeline.
--->
-
----
+# Chapter 6 
+## The Portrait in the Chamber
 
 > "The danger of any accord is that it becomes ornamental — hung on a wall, admired for its calligraphy, invoked in speeches, and ignored in practice. We must not build a beautiful document. We must build a machine that works when the operator has every reason to break it."
 >
@@ -2103,95 +1576,15 @@ The corridor was quiet. The holographic flags rippled. The Jordanian standard fl
 Zeyad walked toward Committee Chamber 2, his family's pen in his breast pocket, his own questions in a drawer, his great-grandfather's Accords on the wall — signed, precise, and ornamental.
 
 ---
-_Draft generated: 2026-02-11_
-_Word count: ~5,200_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 7
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Real Briefing"
-pov: "Aurielle Vasquez"
-wordTarget: "5000-6000"
-phase: 1
-location: "Neo-Shanghai Spires — NitroCore Tower"
-timeline: "2175, weeks post-assassination"
-mode: TEXTURE
-epigraph_source: "The Cascade Lectures"
-epigraph_author: "Vasht"
-epigraph_ref: "2161 — system observation / looking elsewhere"
-rhetoric_reference: "Internal Memo — Legacy Protocol 9 (C-Suite)"
----
-
-# Chapter 7 — Aurielle: "The Real Briefing"
-
-<!--
-SYNOPSIS: Aurielle's first quarterly board meeting as CEO — the numbers are excellent, one slide uses terminology she doesn't understand, she doesn't ask. Afterward, Thorne delivers the private briefing: RCI climbing in three metropolitan zones, Neo-Shanghai worst, containment expenditure 40% over budget. Legacy Protocol 9. "Your father managed this. Now you do." The mentorship deepens from Ch 1.
-
-PHASE: 1 (Equilibrium)
-POV: Aurielle Vasquez
-LOCATION: Neo-Shanghai Spires — NitroCore Tower (boardroom, Eduardo's office, Thorne's briefing room)
-TIMELINE: 2175, weeks post-assassination
-MODE: TEXTURE
-
-EPIGRAPH SOURCE: The Cascade Lectures — Vasht, 2161
-RHETORIC REFERENCE: Internal Memo — Legacy Protocol 9 (C-Suite): "Classified under Legacy Protocol 9. Distribution beyond executive chain constitutes breach of corporate sovereignty."
-
-READER-AHEAD BEAT: The containment expenditure overrun and RCI trends Thorne shows Aurielle are the institutional mirror of what Fuxi sees at ground level (Ch 4, monitor 6) and what Sofia detects in atmospheric data (Ch 5, 0.7 Hz pulse). Same system, different altitude.
-
-KEY ITEMS: Eduardo's desk, sandalwood cologne, the handkerchief (drawer), NitroCore-branded water glass, quarterly projection datapads
-
-INVENTORY:
-  - Aurielle carries: Frame (nano-integrated), NitroCore executive credentials
-  - Handkerchief status: cleaned, folded, in drawer of Eduardo's office (Ch 1)
-  - No transfers this chapter
-
-CONTINUITY NOTES:
-  - Weeks post-assassination (Ch 1). Aurielle has been performing CEO.
-  - Board Resolution 2175-003 established emergency succession (Ch 1).
-  - Thorne's role shifts from crisis manager (Ch 1) to institutional educator.
-  - Eduardo's office details: sandalwood cologne in leather furniture, the desk she won't replace.
-  - First encounter with "Sump Infrastructure Lifecycle Management" as a budget line she doesn't fully understand.
-  - The "small voice" motif (established Ch 1) continues — the calculating voice growing.
-  - Wrist rotation mannerism: left wrist, when processing difficult information.
-  - Reads documents from last page first (new detail from dossier).
-  - Never sits with back to door (new detail from dossier).
-  - Water glass, not stimulants (new detail from dossier).
-  - Hands flat on surfaces = confident; touching wrist = stressed.
-  - "Weakness is a scent" — Eduardo's rule, still operating.
-
-CONSEQUENCES:
-  - Aurielle now knows NitroCore's real infrastructure state (classified, Legacy Protocol 9)
-  - Thorne established as institutional educator — sharing truth as mentorship
-  - The first threshold crossed: she chose not to ask about "Sump Lifecycle Management" in the board meeting. The truth she avoided came to her anyway, privately, through Thorne.
-  - The small voice is now calculating with real numbers instead of abstractions
-  - Seeds planted for Ch 12 ("The Real Numbers") where Thorne shows her the full picture
-
-BIBLE UPDATE NEEDED:
-  - Characters: Aurielle Recent History updated, Thorne second appearance logged
-  - Characters: Board members mentioned (Chen-Nakamura returning from Ch 1)
-  - Locations: NitroCore boardroom details, Eduardo's office interior expanded
-  - Objects: NitroCore water glass (recurring), quarterly datapads
-  - Themes: Architecture of Power (strong), Progress Requires Atrocity (moderate), Systemic Complicity (strong)
--->
-
----
+# Chapter 7
+## The Real Briefing
 
 > "A system is not what it does when observed. A system is what it does when the observer has been optimized to look elsewhere."
 >
 > — *The Cascade Lectures* — Vasht, 2161
 
 ---
-
-## Draft v1
 
 Eduardo's chair was too large for her.
 
@@ -2416,39 +1809,6 @@ She didn't open it. She didn't need to. She knew what was inside — the handker
 She left the office. The door closed behind her. The sandalwood remained.
 
 ---
-_Draft generated: 2026-02-11_
-_Word count: ~5,300_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 8
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: "White Noise"
-pov: "Fuxi Lin"
-wordTarget: '5000-6000'
-phase: 1
-location: "Neo-Shanghai Sump — Fuxi and Nuwa's apartment, Block 14"
-timeline: '2175'
-mode: TEXTURE
-epigraph_source: 'The Kindling Letters, Vol. II'
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: 'Sump residential advisory (automated): "Ambient hum levels within certified tolerance. If you experience headaches, contact NitroCore health station."'
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-11
-**Divergences Noted:** None
-**Author Notes:** None
 
 # Chapter 8
 
@@ -2459,45 +1819,6 @@ rhetoric_reference: 'Sump residential advisory (automated): "Ambient hum levels 
 > — *The Kindling Letters*, Vol. II
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 8
-
-SYNOPSIS: Fuxi Lin's second POV chapter. Domestic scene in the Sump apartment he shares with Nuwa — the first time the reader sees Nuwa in person rather than through frame messages. Shared meal. The hum through the walls is their white noise. Nuwa talks about getting out — Mid-Level textile positions, transit permits, the P-3 frame as gateway. Fuxi talks about staying safe — seniority, the math, the rent. Neither acknowledges the shimmer they both saw near the Hum Market. The normalcy BLACKWEIR will destroy.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Systemic Complicity (Strong), Commodification of Suffering (Moderate), What We Owe (Moderate)
-**Characters present:** Fuxi Lin (POV), Nuwa Lin (first in-person appearance)
-**Location:** Neo-Shanghai Sump — Fuxi and Nuwa's apartment, residential corridor
-
-**Key events:**
-- Fuxi returns from shift, Nuwa is cooking — first physical description of Nuwa through Fuxi's lens
-- Shared meal — sibling dynamic established in person, banter, the P-3 savings update
-- Nuwa mentions the Hum Market route — something near stall 14 she doesn't name. Fuxi notices her deflection. Neither says "shimmer."
-- Nuwa talks about Mid-Level transfer possibilities. Fuxi argues for staying safe. The argument they've had before.
-- Fuxi alone after Nuwa sleeps — the hum, Jun's multitool (first prose appearance), monitor 6 unresolved
-
-**Consequences:**
-- Nuwa established as a physical presence — humor, hands, tiredness, survival architecture the reader catches but Fuxi misses
-- The shimmer becomes a shared silence — information control as love
-- Fuxi's provider identity fully operational — the Lie at maximum comfort
-- Domestic normalcy rendered with enough warmth to make its eventual destruction devastating
-
-**Continuity notes for future chapters:**
-- Nuwa's Mid-Level transfer ambition — will be blocked by transit permit restrictions (Phase 2)
-- The shimmer near the market — neither named it, both saw it — will recur and worsen
-- Jun's multitool physically present — connects to Fuxi's radicalization arc
-- P-3 savings timeline: ~2 months remaining (from Ch 4's 3 months, time has passed)
-- Nuwa's chemical staining on hands — textile recycling exposure, connects to health/commodification themes
-
-**Bible update needed:**
-- Characters: Nuwa — first in-person appearance, physical description, voice, Mid-Level ambitions
-- Characters: Fuxi — domestic mode, provider identity, multitool, continued suppression of monitor 6 unease
-- Locations: Apartment interior — cooking details, meal routine
-- Objects: Jun's multitool — first prose appearance
--->
-
-## Draft v1
 
 Nuwa was cooking when he came through the door.
 
@@ -2664,40 +1985,6 @@ He would stay. She would rise. He would keep the pipes running and the hum const
 Outside, the conduit glow pulsed through the frosted polymer window. Orange. Constant. The color of the world that worked. The hum carried through the building and into the bones of a man sitting in the dark with a dead man's tool in his hands, and the system was running, and the system was fine, and the readings were within tolerance, and the advisory had been updated only twice, and somewhere two hundred meters below, the trunk-lines carried what they carried at volumes that were classified and temperatures that were rising and in a pattern that — if you looked at it from exactly the right angle, and if you had spent six years learning what the instruments couldn't show you — was not quite noise.
 
 ---
-_Draft generated: 2026-02-11_
-_Word count: ~5,400_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 9
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: "Dead Drop"
-pov: "Mirelle Dubois"
-wordTarget: '5000-6000'
-phase: 1
-location: "Neo-Shanghai Sump → Resonance District (Talia Ravid's node)"
-timeline: '2175'
-mode: TEXTURE
-epigraph_source: 'The Wire: Collected Dispatches'
-epigraph_author: 'Mirelle Dubois'
-epigraph_ref: ''
-rhetoric_reference: 'Black Babel transaction log: "Package received. Dead-hand registered. Client: M. Expiry: 72h rolling. — Node RD-7"'
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-11
-**Divergences Noted:** None
-**Author Notes:** Mortality recognition stays implicit — the dead-hand protocol IS the statement. No interior monologue about dying. Tradecraft as subtext.
 
 # Chapter 9
 
@@ -2708,47 +1995,6 @@ rhetoric_reference: 'Black Babel transaction log: "Package received. Dead-hand r
 > — *The Wire: Collected Dispatches*, Mirelle Dubois
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 9
-
-SYNOPSIS: Mirelle Dubois, seven months into the Sump beat, assembles an evidence cache of sixteen confirmed disappearances across five sectors and deposits it with Black Babel via Talia Ravid in the Resonance District. She establishes a dead-hand protocol — a seventy-two-hour rolling check-in that auto-distributes her data to three recipients if she misses two consecutive windows.
-
-**Phase:** 1/5 (Equilibrium)
-**Themes:** Truth as Weapon (Strong), Commodification of Suffering (Moderate), Systemic Complicity (Strong), Architecture of Power (Background)
-**Characters present:** Mirelle Dubois (POV), Talia Ravid (new on-page)
-**Location:** Sump Sector 3 → Sump transit corridors → Resonance District (Talia's node)
-
-**Key events:**
-- Mirelle assembles evidence package: 16 disappearances, 5 sectors, RCI readings, tolerance-band widening, Feed reclassifications
-- Counter-surveillance approach through Sump to Resonance District; nitro-ear established (3 weeks, right ear)
-- First on-page meeting with Talia Ravid at Black Babel node (repair shop front, Resonance District)
-- Dead-hand protocol registered: 72h rolling, 2 missed windows triggers auto-distribute to 3 sealed recipients
-- Babel price: anonymized source network metadata
-- Intel received: 7 junction reclassifications next quarter (3 overlap disappearance sites)
-
-**Consequences:**
-- Dead-hand fires posthumously Phase 5 after Mirelle's absorption
-- Talia Ravid introduced on-page — transactional, no sentiment, mutual professional respect
-- Junction reclassification intel creates urgency — must access before restricted-corporate lockdown
-- Feed language expanding: "five sectors" — reclassification outpacing Mirelle's count
-
-**Continuity notes:**
-- 16 disappearances (up from 7 Ch 2), 5 sectors (up from 3). Bai Lin earliest (Sector 7), Ramos most recent (Sector 2)
-- Mirelle now in Sump Sector 3 transient room (was Mid-Levels District 5)
-- Nitro-ear: 3 weeks, right ear
-- Dead-hand recipients: São Paulo Wire journalist, Singapore freelancer, unnamed institutional contact
-- 7 junctions reclassifying municipal → restricted-corporate next quarter; 3 overlap disappearance map
-- Talia's node: repair shop front, Cantonese access phrase (monthly rotation), insulated back room
-- Gauthier's two-week deadline (Ch 2) has passed — Mirelle operating beyond sanctioned timeline
-
-**Bible update needed:**
-- Characters: Talia on-page. Mirelle updated (count, nitro-ear, dead-hand). Bai Lin, Ramos mentioned.
-- Locations: Talia's node. Resonance District street-level.
-- Objects: Dead-hand protocol. Source network metadata.
--->
-
-## Draft v1
 
 The room cost four hundred credits a week and smelled like the last occupant's cooking oil. Mirelle Dubois sat cross-legged on the floor with the contents of her investigation laid out in front of her in three rows.
 
@@ -2977,33 +2223,6 @@ She had seventy-two hours. Then she would ping the address Talia had given her, 
 Seventy-two hours. Then seventy-two more.
 
 ---
-_Draft generated: 2026-02-11_
-_Word count: ~5,200_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 10
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Gap"
-pov: "Kira Calloway"
-wordTarget: "5000-6000"
-phase: 1
-location: "PCC Bay Area"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "Lives of the Illuminated"
-epigraph_author: "Anonymous (Church hagiography)"
-epigraph_ref: "The Martyrdom of Saint Cadence"
-rhetoric_reference: "Varma Academy media guidelines, streaming/platform vocabulary"
----
 
 # Chapter 10
 
@@ -3014,54 +2233,6 @@ rhetoric_reference: "Varma Academy media guidelines, streaming/platform vocabula
 > — *Lives of the Illuminated*, "The Martyrdom of Saint Cadence"
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 10
-
-SYNOPSIS: Kira Calloway's first POV chapter. She arrives home in PCC Bay Area, recognized on the street, unable to disappear. Pre-stream: sees the Lumina kit, doesn't touch it — hard line, never at work. A full-day stream — lifestyle content, video games, chat interaction, casual mage discussion. Mid-stream, the hum in her spinal implant spikes into a scream episode that she suppresses professionally; the reader sees the effort, the audience doesn't. Post-stream wind-down reveals the gap between the performer and the person. First Lumina dose (40mg, to sleep — precise, routine). She checks a group chat with academy mage friends — someone asks "did any of you feel that?" at the same timestamp as her scream, dismissed with jokes. She closes the chat without confirming. Second Lumina hit — 15mg bump, not a full dose. The forty was supposed to be enough. The fraying begins. Establishes Kira's world, voice, the performance-as-armor dynamic, and the first hint that the scream is not a malfunction.
-
-**Phase:** 1/5 (Equilibrium — late introduction)
-**Themes:** Commodification of Suffering (Strong), Where Identity Ends (Strong), Systemic Complicity (Moderate), Architecture of Power (Background)
-**Characters present:** Kira Calloway (POV), streaming audience (chat), Dex/Priya/Tomás/Suki (group chat, text only)
-**Location:** PCC Bay Area — Kira's apartment, streaming setup
-
-**Key events:**
-- Kira arrives home — recognized on the street, can't disappear, the cost of the brand
-- Pre-stream: sees the Lumina kit, doesn't touch it. Hard line — never at work.
-- Kira goes live for a ten-hour stream — establishes the curated space vs. the entropy of her real apartment
-- Lifestyle stream: video games, chat interaction, casual mage talk mixed in naturally
-- The scream episode: hum spikes mid-stream, she suppresses it completely — professional, not her first. Reader and Kira notice. Audience does not.
-- Post-stream wind-down: performer switches off, the posture shift, the apartment reasserts itself
-- Group chat with mage friends: "Weird question, did any of you feel that?" — dismissed with jokes and emoji
-- First Lumina dose post-stream: 40mg, to sleep. Precise, routine.
-- Second Lumina hit after messages: 15mg bump. The forty was supposed to be enough.
-- Kira alone, the gap between what she is and what they need her to be
-
-**Consequences:**
-- Kira's voice established: stream-persona (energetic, quick, warm) vs. private (tired, quiet, trailing off)
-- The streaming world introduced as both armor and cage
-- The scream episode planted — first crack, professionally managed, but the reader knows
-- Mage network seeded through the group chat dismissal — the question will come back
-- PCC Bay Area established as Kira's physical world
-- Musical metaphor domain introduced naturally through her perception of the hum
-
-**Continuity notes for future chapters:**
-- Kira streams regularly, lifestyle content, hundreds of thousands of viewers
-- The scream episodes have been happening — this is not the first, but they're getting stronger
-- Group chat includes academy friends and mage streamers — Dex, Priya, Tomás, Suki
-- She uses Lumina (synthetic, blue powder, insufflated, promises silence, marketed as void-residue). 40mg is her calibrated dose. Hard line: never before or during a stream.
-- Lumina kit: milligram scale, glass vial, metal straw, matte black zippered case, kept in bathroom cabinet
-- The 15mg bump after messages is the first fray — the forty was supposed to be enough
-- The hum in her spine is constant; she perceives it in musical terms unconsciously
-- The apartment entropy (pizza boxes, mess) contrasts with the curated stream corner
-
-**Bible update needed:**
-- Characters: Kira Recent History — first chapter appearance, scream episode during stream, group chat seeded
-- Characters: Group chat contacts — Dex, Priya, Tomás, Suki (supporting, mage network)
-- Locations: Kira's Bay Area apartment (streaming setup details)
--->
-
-## Draft v1
 
 The Bay was loud at sundown.
 
@@ -3267,43 +2438,15 @@ She touched the back of her neck, where the implant sat against the bone. The hu
 
 It had always been enough.
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 11
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Acoustic Mimicry'
-pov: 'Nikolai Volkov'
-wordTarget: '4000-5000'
-phase: 2
-location: 'Neo-Shanghai Mid-Levels — breach zone'
-timeline: '2175'
-mode: PRESSURE
-epigraph_source: 'Reflections from the Perimeter — Sgt. Haraldsen'
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: 'Stalker Field Manual §9.2: Anomalous Acoustics'
 ---
 
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-11
-**Divergences Noted:** Void biology reframed per author direction — absorbed do not vocalize/move in Book 1; name perceived in hum's harmonic structure. Sgt. Mäkelä renamed to Sgt. Haraldsen (collision with prologue character). Ch 18 references this incursion ~3 weeks prior — compatible.
-**Author Notes:** Absorbed are statues. Name heard in hum, not spoken. Military "acoustic mimicry" classification is pre-existing doctrine.
-
-## Draft v1
+# Chapter 11: 
+## Acoustic Mimicry
 
 > *Sgt. Haraldsen kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there.*
 > — *Reflections from the Perimeter*
 
-# Chapter 11: Acoustic Mimicry
+---
 
 The hum in the staging corridor was 8.4. Standard for Mid-Levels garrison, Stratum B. Nikolai had checked the readout twice on the way from his quarters — not because 8.4 was anomalous but because the quality had changed. Same amplitude. Same frequency band. Different texture. Like a word you've heard a thousand times spoken by a new voice.
 
@@ -3517,88 +2660,14 @@ Through the window, the transit shaft hummed at 8.1 — normal, stable, the soun
 
 ---
 
-*Draft generated: 2026-02-11*
-*Word count: ~4,500*
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: [step-01-init, step-02-brief, step-03-draft, step-04-self-review, step-05-audit, step-06-bible-update]
-lastStep: step-06-bible-update
-chapterNumber: 12
-draftVersion: 1
-createdDate: '2025-07-15'
-author: Kareem
-status: v1-complete
-executionMode: quick
-title: 'The Real Numbers'
-pov: 'Aurielle Vasquez'
-wordTarget: '5000-6000'
-phase: 2
-location: 'Neo-Shanghai Spires — Secure Facility'
-timeline: 'Post-Ch 7, Post-Ch 11'
-mode: TEXTURE
-epigraph_source: 'A History of Silence'
-epigraph_author: 'Unknown; Black Babel networks, post-2176'
-epigraph_ref: 'There are hours missing from the executive schedule of every NitroCore CEO since the founding. The same hours, the same quarterly rhythm. No explanation has ever been offered or requested.'
-rhetoric_reference: 'Q4 2174 Containment Expenditure Summary — "Containment costs exceeded projections by 41.3%. Reclassify Sump maintenance as deferred to offset."'
----
-
-# Chapter 12: The Real Numbers
-
-<!--
-📋 SYNOPSIS - Chapter 12
-
-SYNOPSIS: Thorne walks Aurielle through the actual state of NitroCore's infrastructure — Sump holograms, absorption overlays, cost projections — beginning her moral laddering with information rather than decisions.
-
-This chapter explores Aurielle Vasquez's competence-as-complicity contradiction through her confrontation with the real numbers behind NitroCore's operations.
-
-**Phase:** 2/5 (Moral Laddering Begins)
-**Themes:** Systemic Complicity, The Architecture of Power, Progress Requires Atrocity, The Commodification of Suffering
-**Characters present:** Aurielle Vasquez, Marcus Thorne
-**Location:** Neo-Shanghai Spires — Secure Facility
-
-**Key events:**
-- Thorne presents actual infrastructure state via Sump holograms and absorption overlays
-- Cost projections reveal the true scale of containment expenditure overruns
-- Aurielle processes the private face of NitroCore — what the board version omits
-- Moral laddering begins with information, not decisions
-
-**Consequences:**
-- Aurielle's Phase 1 equilibrium breaks — she now possesses information that makes ignorance impossible
-- The gap between reform and Spire survival becomes visible
-- Thorne's role shifts from educator to architect of complicity
-
-**Continuity notes:**
-- Follows from Ch 7: LP9 discovery, RCI trends, Thorne's private briefing
-- Rhetoric reference: Q4 2174 Containment Expenditure Summary
-- Must establish foundation for Ch 19 "Deferred Maintenance" — first active complicity
-- Aurielle's arc: Phase 1/5 → 2/5 transition
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 5000-6000 words
-Voice: Match author's style profile — GRRM power-politics register, negation-before-assertion (6-8 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2025-07-15
-**Divergences Noted:** None requiring adjustment. Ch 1 and Ch 7 new elements (Eduardo's teaching rules, water glass, Executive Chamber details, LP9 memo) enrich Ch 12.
-**Author Notes:** None — proceeding with plan as-is.
-
----
+# Chapter 12
+## The Real Numbers
 
 > "There are hours missing from the executive schedule of every NitroCore CEO since the founding. The same hours, the same quarterly rhythm. No explanation has ever been offered or requested."
 >
 > — *A History of Silence*
 
 ---
-
-## Draft v1
 
 The elevator did not go down.
 
@@ -3919,65 +2988,14 @@ She could hear the grid working.
 She did not find it beautiful.
 
 ---
-_Draft generated: 2025-07-15_
-_Word count: ~5,400_
 
-
-
----
-workflowType: 'chapter-write-create'
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 13
-createdDate: '2026-02-12'
-author: 'Kareem'
-status: 'v1-complete'
-title: 'The Pattern'
-pov: 'Mirelle Dubois'
-wordTarget: '4000-5000'
-phase: 2
-location: 'Neo-Shanghai — lower Mid-Levels → Resonance District (Talia Ravid node RD-14) → transit box'
-timeline: 'Phase 2, weeks after Ch 9 dead-drop registration'
-mode: 'create'
-epigraph_source: 'On the Statistical Correlation...'
-epigraph_author: 'Solberg'
-epigraph_ref: 'Suppressed VEC Report, 2170'
-rhetoric_reference: 'Wire internal dispatch (encrypted)'
-draftVersion: 3
----
-
-<!--
-CORRECTIONS FROM V1:
-- Burner comms (battery-powered legacy devices), not burner Frames
-- RCI sensor: in boot, under insole (Ch 9 L103)
-- Shop front: woman at counter, refurbished components on backlit shelf, sliding door (Ch 9 L131-133)
-- Passphrase: six words in Cantonese (Ch 9 L131)
-- Talia: plain gray coverall (Ch 9 L145)
-- Room: workstation in center, back to door, storage racks, relay stations, three displays (Ch 9 L137-139)
-- Arctic-7 document by unnamed atmospheric research lead (not Solberg)
-- No Sofia Reyes reference (POV violation)
-- No fabricated correlation figures
-- Revelation = architecture not negligence; NOT void-is-responsive
-- No "Chapter 2" meta reference
-- No Zeyad connection (Ch 17 is first bridge)
-- No French from Talia (Ghanaian-Israeli, no French connection)
-- Arctic-7 timeline: December 2174, ~1 year ago (not 5)
-- Talia already knows Mirelle is counting disappearances (Ch 9)
-- lowercase brightline, lowercase frame in prose
-
-CORRECTIONS FROM V2:
-- Do NOT repeat 'four minutes early' beat from Ch 9
-- Do NOT copy-paste or closely paraphrase Ch 9 scene descriptions
-- Write a RETURN VISIT — familiarity, what's changed, different sensory emphasis
-- Do NOT re-describe known details at length
--->
+# Chapter 13
+## The Pattern
 
 > *"The geographic distribution of the sample set is not random. I have overlaid it with six demographic maps and four infrastructure schematics. The clustering cannot be explained by any variable in the public dataset."*
 > — Dr. Maren Solberg, *On the Statistical Correlation Between Nitro Throughput Density and Void Breach Frequency*, 2170 (suppressed)
 
 ---
-
-# The Pattern
 
 She checked the dead-hand timer before she checked anything else. Forty-one hours. The address had pinged clean yesterday, the seventy-two-hour window reset, and somewhere in Black Babel's automated architecture a sealed data package continued to exist independent of her — holding the weight of sixteen names and everything she'd compiled around them. Two missed windows and the data would move on its own, delivered to three addresses she'd set and Talia had never seen.
 
@@ -4156,105 +3174,14 @@ The pattern was behind her eyes. Not diminished. Not resolved. Held. Encrypted o
 Including her.
 
 ---
-_Draft v3 generated: 2026-02-12_
-_Rewrite from scratch per handoff prompt_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 14
-draftVersion: 1
-createdDate: '2026-02-12'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Commune'
-pov: 'Nephthys'
-wordTarget: '4000-5000'
-phase: 2
-location: 'European Outlands (energy grid edge, Void Witness commune)'
-timeline: 'Phase 2, weeks after Ch 3'
-mode: TEXTURE
-epigraph_source: 'Operational Theology'
-epigraph_author: 'Nephthys'
-epigraph_ref: 'undated journal'
-rhetoric_reference: 'Church liturgical language, Void Witness testimony'
----
-
-<!--
-📋 SYNOPSIS - Chapter 14
-
-SYNOPSIS: Nephthys and Imani arrive at a Void Witness commune on the European energy grid edge. The community takes them in. A former Flame acolyte shares testimony: during a minor incursion, she felt peace — not pain, not terror, but something structured and calm. Nephthys recognizes her own experience in someone else's words for the first time. Grassroots validation feeds the flaw — certainty hardens toward conviction. The seeker begins to give answers instead of asking questions.
-
-**Phase:** 2/5 (Disruption — "Fault Lines")
-**Themes:** Where Identity Ends (Strong), What We Owe (Moderate), Truth as Weapon (Moderate), Irrelevance of Individual Being (Moderate), Commodification of Suffering (Background), Architecture of Power (Background)
-**Characters present:** Nephthys (POV), Imani (companion), Void Witness commune members (new: former Flame acolyte — testimony giver)
-**Location:** European Outlands — Void Witness commune near energy grid edge, converted infrastructure (relay station or similar)
-
-**Key events:**
-- Nephthys and Imani arrive at a Void Witness commune — a community of excommunicates and dissident believers living in converted infrastructure near the grid edge
-- The commune provides shelter, food, and — critically — shared testimony that validates Nephthys's chorus experience
-- A former Flame acolyte shares her experience: during a minor incursion years ago, she felt peace. Not the Church's prescribed terror. Not the VEC's clinical "psychological stress response." Peace. Structured. Calm.
-- Nephthys recognizes her own experience in another person's words — the first external validation since excommunication
-- The seeker-to-prophet transition advances: Nephthys begins offering theological framework to the commune's unstructured observations. She interprets their testimony. They receive her interpretation. Neither notices the power dynamic forming.
-- Imani observes the shift — sees the commune responding to Nephthys as authority, not fellow seeker
-- Practical outcome: the commune provides forged transit papers for passage toward Neo-Shanghai
-- The chorus is present but quieter here — residual, not acute. Nephthys can think clearly. This clarity is itself dangerous — she builds theology when the pain isn't interrupting.
-
-**Revelation calibration (what Nephthys knows vs. will learn):**
-- KNOWS: The hum is composite (chorus, not Voice). The chorus has structure. Pain correlates with proximity. The chorus is directionally stronger toward Neo-Shanghai.
-- LEARNS THIS CHAPTER: Other people have experienced similar phenomena independently. The experiences share structural features across different locations and circumstances. The Church's framework cannot accommodate these observations.
-- SUSPECTS: The chorus relates to the absorbed. The Church and VEC are both wrong.
-- DOES NOT KNOW: Whether the absorbed are conscious. Whether the layers are individual people. What the chorus is actually saying. The network/archive structure. "They are all still here."
-
-**Consequences:**
-- Nephthys's certainty deepens from private conviction to shared framework — the seeker-to-prophet transition accelerates
-- The Void Witness commune becomes the first node in what will become Nephthys's grassroots network
-- Imani's concern shifts from physical health to theological direction — she sees the prophet forming
-- Transit papers secured — the pilgrimage can continue toward Neo-Shanghai
-- The commune's testimony provides data points Nephthys will carry forward
-
-**Continuity from Ch 3:**
-- Imani said she'd seek forged transit papers from "the Void Witness commune near the border"
-- Chorus directional — stronger toward east/Neo-Shanghai
-- Nephthys's 18-month terminal diagnosis (nitro-psychosis)
-- Resonance beads (nitro-glass, ordination relic)
-- Counter-liturgy: chorus vs Voice
-- Previous scars: Bruges relay (1 absorbed), Metz junction (1 absorbed), dead town (3 absorbed, Ch 3)
-- Imani's loyalty is personal, not theological
-- "The pain is signal, not symptom"
-
-**Seeds for future chapters:**
-- Nephthys's grassroots network expanding (connects to Phase 2-3 arc)
-- Seeker-to-prophet transition visible to Imani but not Nephthys
-- Testimony data will feed her theological synthesis at the Cathedral (Phase 3)
-- The commune's acolyte testimony parallels what Kira's mage network reports (reader-ahead beat — structured signal during incursions)
-
-**Bible update needed:**
-- Characters: Nephthys recent history updated (Ch 14), arc phase 2/5
-- Characters: Imani updated (concern shifts)
-- Characters: Former acolyte (new supporting, if named)
-- Locations: Void Witness commune (European grid edge) — new sub-location
-- Themes: Ch 14 row in Progression tables
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-12
-**Divergences Noted:** None — Ch 3 continuity intact, Imani's transit paper line seeds this chapter directly
-**Author Notes:** Nephthys dossier provided as primary character reference. Bakker benchmark (philosophical depth, liturgical weight). Seeker-to-prophet transition should be subtle — Nephthys doesn't notice it. Imani does.
-
----
+# Chapter 14
+## The Commune
 
 > *"The woman in the third row was not singing. She was listening. I watched her for an hour before I realized she was doing what I do."*
 > — Nephthys, *Operational Theology* (undated journal)
 
 ---
-
-## Draft v1
 
 The commune had been a relay station once. You could see it in the bones of the place — the reinforced concrete foundations, the mounting brackets where signal equipment had been bolted to the walls, the rectangular scars on the roof where antenna arrays had stood before the grid pulled out and someone had stripped the hardware for salvage. The building itself was ugly in the way all infrastructure was ugly: designed for function, abandoned when the function moved on, repurposed by the people the function had left behind.
 
@@ -4473,33 +3400,6 @@ She had come here to listen. She was not certain that was what she had done.
 Outside, the Outlands dark held its silence, and the relay station's stripped walls hummed with what they remembered, and Nephthys lay awake and thought of the woman in the third row who was not singing, and wondered whether what Lene had heard and what she had heard were the same thing, or whether she had already begun to shape the answer before the question was asked.
 
 ---
-_Draft generated: 2026-02-12_
-_Word count: ~4,500_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 15
-draftVersion: 1
-createdDate: '2026-02-12'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Correlation 0.94"
-pov: "Sofia Reyes"
-wordTarget: "4000-5000"
-phase: 2
-location: "VEC HQ, Neo-Shanghai"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "On the Ethics of Containment"
-epigraph_author: "Dr. Ilya Petrov"
-epigraph_ref: "Former VEC ethicist"
-rhetoric_reference: "VEC institutional vocabulary, SOP 7.1, methodology review procedures"
----
 
 # Chapter 15
 
@@ -4510,53 +3410,6 @@ rhetoric_reference: "VEC institutional vocabulary, SOP 7.1, methodology review p
 > — Dr. Ilya Petrov, *On the Ethics of Containment*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 15
-
-SYNOPSIS: Sofia Reyes's second POV chapter. Ten weeks after Chapter 5. The cross-departmental data access request was approved — partially. Sofia now has Stalker deployment timestamps (dates, times, sectors) but not operational details. She overlays deployment timestamps against her atmospheric pulse data and finds a 0.94 correlation: the 0.7 Hz pulse intensifies in the hours preceding Stalker deployments. She writes a preliminary paper. Liang reads it and tells her to hold publication for "methodology review." Sofia recognizes the pattern — not in the data, but in the institution. She archives the full dataset independently.
-
-**Phase:** 2/5 (Disruption)
-**Themes:** Truth as Weapon (Strong), Systemic Complicity (Strong), Architecture of Power (Moderate), What We Owe (Moderate)
-**Characters present:** Sofia Reyes (POV), Dr. Liang (supervisor), colleagues background
-**Location:** VEC HQ, Neo-Shanghai — immersion pod, Liang's office, monitoring lab, apartment
-
-**Key events:**
-- Sofia overlays Stalker deployment timestamps against atmospheric pulse data — correlation 0.94
-- The pulse intensifies 2-4 hours before each recorded deployment
-- She writes a preliminary paper: "Temporal Correlation Between Sub-Strata Atmospheric Anomalies and Stalker Tactical Deployments"
-- Liang reads it. Tells her to hold for methodology review. "The correlation is interesting. The implication is premature."
-- Sofia recognizes institutional containment — not the instruments this time, but the findings
-- Archives the full dataset and draft paper to her personal encrypted terminal
-
-**Consequences:**
-- Reader-ahead beat #1: the reader recognizes Ch 11's deployment (14:17 local) in Sofia's data
-- Liang escalates from deflection to active suppression
-- Sofia's arc moves from Phase 1 to Phase 2 (institutional faith beginning to erode)
-- The dual-channel strategy deepens (institutional copy held; personal copy archived)
-- The preliminary paper exists — it can resurface
-
-**Continuity notes for future chapters:**
-- Cross-departmental access was partial: timestamps and sectors only, no operational details
-- Correlation 0.94 is now Sofia's central finding
-- Liang's "methodology review" has no timeline — institutional delay as containment
-- Personal archive now contains the correlation dataset + draft paper
-- Sofia has not yet contacted anyone outside VEC
-- Field kit still not deployed externally
-
-**Bible update needed:**
-- Characters: Sofia — arc phase 1→2, methodology review hold, correlation finding
-- Characters: Liang — escalation from SOP 7.1 to methodology review suppression
-- Themes: Truth as Weapon strengthened, Systemic Complicity explicit
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-12
-**Divergences Noted:** None — Ch 5 established all prerequisites cleanly
-**Author Notes:** No Solberg reference in prose. Divide by scenes.
-
-## Draft v1
 
 The access had come through on a Tuesday. Partial approval — Liang's signature on the internal authorization, the classification review completed in nine days rather than the projected three weeks, the data released with restrictions that told Sofia more about VEC's institutional priorities than the data itself would. She could have the Stalker deployment timestamps. Dates, times, sectors. She could not have operational details, mission parameters, RCI readings at deployment sites, or any documentation classified above Standard Monitoring. The authorization memo was four paragraphs long. Three of them described what she couldn't access. The fourth granted what she could.
 
@@ -4763,41 +3616,6 @@ The correlation was 0.94.
 She fell asleep with the number behind her eyes.
 
 ---
-_Draft generated: 2026-02-12_
-_Word count: ~5,200_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 16
-draftVersion: 1
-createdDate: '2026-02-14'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Private Log"
-pov: "Fuxi Lin"
-wordTarget: '3000-6000'
-phase: 2
-location: "Neo-Shanghai Sump — monitoring bay, apartment, residential corridor"
-timeline: '2175'
-mode: TEXTURE
-epigraph_source: 'The Kindling Letters, Vol. III'
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: 'Municipal conduit authority shift reports; Sump residential advisory'
-meta_note: 'AEGIS as invisible novelist'
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-14
-**Divergences Noted:** None
-**Author Notes:** None
 
 # Chapter 16
 
@@ -4808,48 +3626,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — *The Kindling Letters*, Vol. III
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 16
-
-SYNOPSIS: Fuxi Lin's third POV chapter. He has been keeping an unofficial private log — timestamps, RCI readings, decay profiles — since the monitor 6 spike in Ch 4. Tonight, cross-referencing his log with Sump disappearance dates, the correlation emerges: each anomalous trunk-line spike corresponds within 48-72 hours to a resident going missing in the surrounding blocks. Through his eyes, Nuwa is close to completing the P-3 savings, performing normalcy. He chooses not to tell her. Encounters Kindling material — language he previously dismissed — and finds it landing differently. Complicity becomes conscious.
-
-**Phase:** 2/5 (Disruption — readings worsen, keeping private log, Kindling approaches)
-**Themes:** Systemic Complicity (Strong), Commodification of Suffering (Strong), Progress Requires Atrocity (Moderate), What We Owe (Background)
-**Characters present:** Fuxi Lin (POV), Nuwa Lin (through Fuxi's lens), Chen Wei (reference), Kindling (collective presence)
-**Location:** Neo-Shanghai Sump — monitoring bay, Fuxi and Nuwa's apartment, residential corridor
-
-**Key events:**
-- Fuxi reviews his private log — months of unofficial RCI tracking since the Ch 4 spike
-- Cross-references trunk-line anomalies with Sump disappearance dates — correlation emerges
-- Sees Nuwa performing normalcy — P-3 savings nearly complete, Mid-Level transfer progressing
-- Chooses not to tell her — the Lie at maximum strain
-- Encounters Kindling pamphlet/language — first terms entering his vocabulary, displacing corporate language
-- Complicity becomes conscious — he cannot un-see the pattern
-
-**Consequences:**
-- Fuxi transitions from Phase 1 (Equilibrium) to Phase 2 (Disruption)
-- The private log established as the document bridging Fuxi's technical knowledge to Kindling's political frame
-- Nuwa rendered through Fuxi's protective lens — reader sees what he misses
-- First Kindling terms in Fuxi's register — radicalization begins linguistically
-
-**Continuity notes for future chapters:**
-- Private log contains months of data — will become evidence in Ch 22 and Phase 3
-- Nuwa's P-3 acquisition imminent — savings nearly complete
-- Kindling language entering Fuxi's vocabulary — track displacement of corporate terms
-- The correlation (spikes ↔ disappearances) is Fuxi's data; Kindling has the political frame
-- Chen Wei's dismissal pattern ("they always self-correct") now reads as institutional complicity, not just calcification
-- Municipal advisory updated four times this quarter (up from twice in Ch 8)
-
-**Bible update needed:**
-- Characters: Fuxi — Phase 2 transition, private log, correlation discovery, Kindling exposure
-- Characters: Nuwa — P-3 savings status, continued Mid-Level ambition, performing normalcy
-- Objects: Private log (Fuxi's unofficial RCI tracking document)
-- Locations: Monitoring bay — additional trunk-line data details
-- Tracking: Rhythm, themes, emotions for Ch 16
--->
-
-## Draft v1
 
 The log was not a log.
 
@@ -5038,41 +3814,6 @@ Outside, the conduit glow pulsed. The hum carried through the walls. The municip
 And in a gasket requisition file on a cracked frame in the maintenance-scheduling partition that nobody audited, fifty-three entries said that the system's corrections were too clean and its tolerances were too precise and its vacancies had timestamps that matched its spikes, and a maintenance man in the Sump of Neo-Shanghai sat with the data in his pocket and the pamphlet next to his father's tool and did not speak.
 
 ---
-_Draft generated: 2026-02-14_
-_Word count: ~5,100_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 17
-draftVersion: 1
-createdDate: '2026-02-14'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: "The Back-Channel"
-pov: "Zeyad Al-Fahim"
-wordTarget: '4000-5500'
-phase: 2
-location: "New Geneva, UGC Headquarters — Zeyad's office, secure comm room"
-timeline: '2175, weeks after Ch 6'
-mode: TEXTURE
-epigraph_source: 'Address to the Signatories'
-epigraph_author: 'Khalil Al-Fahim, 2044'
-epigraph_ref: 'Epigraph thread: Al-Fahim escalating fears — Ch 6 (ornamentality), Ch 17 (exhaustion), Ch 45 (insufficiency)'
-rhetoric_reference: 'GCTA Classification Protocol, Annex C — "Data classified under Annex C may not be shared across institutional boundaries without dual authorization."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-14
-**Divergences Noted:** None
-**Author Notes:** None
 
 # Chapter 17
 
@@ -5083,52 +3824,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — *Address to the Signatories* — Khalil Al-Fahim, 2044
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 17
-
-SYNOPSIS: Zeyad Al-Fahim's second POV chapter. Weeks after the Accords Compliance Review, his formal data request on Arctic-7 has returned — not denied but processed into uselessness: redacted sensor logs, reclassified routing, the institutional machinery producing an answer shaped exactly like a refusal. That evening, he initiates first contact with an encrypted channel he received through a back-channel diplomatic contact: a journalist in the Neo-Shanghai Sump who has been asking questions about disappearances. The exchange is his first meaningful act outside institutional protocol. He shares the Arctic-7 classification anomaly. She shares matched-district correlation data. Neither has the full picture; together, the fragments form the outline of a system functioning as designed. He does not log the exchange.
-
-**Phase:** 2/5 (Disruption — institutional faith cracking; first extra-institutional act)
-**Themes:** Architecture of Power (Strong), Systemic Complicity (Strong), Truth as Weapon (Moderate), What We Owe (Background), Institutional Impotence (Zeyad-specific, Strong)
-**Characters present:** Zeyad Al-Fahim (POV), Mirelle Dubois (voice only — encrypted channel), Director Novak (referenced)
-**Location:** New Geneva, UGC Headquarters — Zeyad's office (Admin Wing, 2nd floor), secure comm alcove
-
-**Key events:**
-- Data request returns: redacted beyond utility — 8 of 14 pages classified, sensor logs "unavailable due to ongoing assessment"
-- Zeyad discovers Annex C restriction: data cannot cross institutional boundaries without dual authorization from Classification Directorate AND originating entity
-- Initiates encrypted back-channel contact with Mirelle Dubois — first exchange
-- Shares: Arctic-7 classification anomaly, "contained" status, Annex B/C routing architecture
-- Receives: Mirelle's matched-district data — disappearances correlating with infrastructure density at city scale
-- Neither names the full pattern; the reader assembles the picture from fragments across POVs
-- Chooses not to log the exchange — first time Zeyad withholds from the institutional record
-
-**Consequences:**
-- Zeyad transitions from Phase 1 (Equilibrium) to Phase 2 (Disruption)
-- The back-channel is operational — information now flows outside institutional pipeline
-- First information bridge between POVs: diplomatic and journalistic evidence converging
-- Zeyad's relationship to documentation shifts: the notebook now contains things the archive does not
-- Annex C established as the legal architecture that criminalizes cross-institutional transparency
-
-**Continuity notes for future chapters:**
-- Back-channel established — encrypted, unlogged, off-record. Track usage in future Zeyad chapters.
-- Mirelle's data referenced but not fully described from Zeyad's POV — maintain POV knowledge boundary
-- Annex C "dual authorization" rule — the specific legal provision Zeyad will eventually violate when he publishes
-- The notebook now has two categories: institutional observations (loggable) and back-channel intelligence (not)
-- Arctic-7 data request timeline: filed Ch 6, returned Ch 17 — weeks of processing for a non-answer
-- GCTA observer seat still empty (14+ months now)
-- Khalil's pen writes both the institutional record and the secret one — same instrument, different function
-- The practiced smile is thinner this chapter — the face beneath it closer to the surface
-
-**Bible update needed:**
-- Characters: Zeyad — Phase 2 transition, back-channel initiated, first extra-institutional act, data request denied
-- Characters: Mirelle — referenced via voice/text, encrypted channel contact with UGC diplomat
-- Objects: Back-channel comm (encrypted diplomatic channel, unlogged)
-- Locations: Secure comm alcove (UGC admin wing)
-- Tracking: Rhythm, themes, emotions for Ch 17
--->
-
-## Draft v1
 
 The response arrived on a Tuesday.
 
@@ -5325,34 +4020,6 @@ What happens when the record-keeper discovers that the record is designed to be 
 The flag was still flickering. He couldn't see it from here. He knew.
 
 ---
-_Draft generated: 2026-02-14_
-_Word count: ~4,900_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 18
-draftVersion: 1
-createdDate: '2026-02-11'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: "Signal"
-pov: "Kira Calloway"
-wordTarget: "4000-5000"
-phase: 2
-location: "PCC Bay Area"
-timeline: "2175"
-mode: TEXTURE
-epigraph_source: "A History of Silence"
-epigraph_author: ""
-epigraph_ref: ""
-rhetoric_reference: "Academy internal health bulletin"
----
 
 # Chapter 18
 
@@ -5363,51 +4030,6 @@ rhetoric_reference: "Academy internal health bulletin"
 > — *A History of Silence*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 18
-
-SYNOPSIS: Kira's second POV chapter. Weeks after Ch 10. She's been avoiding Priya's question, grinding through streams, and the nightly Lumina is routine but the extra bump has crept from once a week to twice. She still thinks she's in control. Then private messages arrive from mages outside her friend group — Academy contacts who've heard she might understand. Four of them describe the same thing: during recent incursions, their implants registered coherent signals. Structured. Patterned. Not noise. Kira tries to ignore them, but the pattern-seeking machinery assembles the data against her will. Priya's pull. The four reports. Her own scream. The chapter ends with her typing a response — not heroism, just exhaustion making avoidance harder than engagement.
-
-**Phase:** 2/5 (Disruption — catalyst arrives)
-**Themes:** Truth as Weapon (Strong), Commodification of Suffering (Strong), Where Identity Ends (Moderate), Systemic Complicity (Moderate)
-**Characters present:** Kira Calloway (POV), Priya (messages), Dex (group chat texture), four mages (private messages — Ren, unnamed others)
-**Location:** PCC Bay Area — Kira's apartment
-
-**Key events:**
-- Lumina bump escalation established (extra 15mg twice a week now, nightly 40mg routine)
-- Four mages message privately — coherent signals during incursions, structured, patterned
-- Academy health bulletin dismisses structured auditory phenomena as "implant resonance feedback"
-- Kira assembles the data despite herself — Priya's pull + four reports + her own scream
-- She responds to the mages — avoidance becomes harder than engagement
-
-**Consequences:**
-- Kira's arc moves from 1/5 to 2/5 — the catalyst
-- Mage testimony network seeded beyond the friend group
-- "The scream has syntax" planted for reader — light, not fully articulated
-- Academy institutional line established as counter-narrative
-- Priya's Ch 10 question validated
-
-**Continuity notes for future chapters:**
-- Lumina bump now twice a week (was once a week; nightly 40mg unchanged)
-- Numb fingertips now intermittent (worsening)
-- Kira has engaged with the mage network — she's a node now
-- The signals are structured but Kira hasn't fully decoded what that means yet
-- Academy health bulletin = the institutional cover story she now knows is wrong
-
-**Bible update needed:**
-- Characters: Kira Recent History — second appearance, mage network engagement, Lumina frequency
-- Characters: Ren (new — mage contact, private message)
-- Tracking: Kira emotions — avoidance → reluctant engagement
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-11
-**Divergences Noted:** None — Ch 10 seeds carried forward
-**Author Notes:** Lumina: nightly 40mg routine; extra 15mg bump crept from once/week to twice. She still thinks she's in control. Dialogue heavier okay. Keep revelations LIGHT — she's only beginning to assemble the pattern, not solving the mystery. Pause before audit for author revision.
-
-## Draft v1
 
 The fingertips came and went.
 
@@ -5607,76 +4229,10 @@ The quiet room was still quiet. The forty milligrams was holding. She was in con
 
 She closed her eyes. The hum held. Tighter now. Waiting.
 
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 19
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Deferred Maintenance'
-pov: 'Aurielle Vasquez'
-wordTarget: '4000-5500'
-phase: 2
-location: 'NitroCore Tower, Neo-Shanghai Spires'
-timeline: 'Weeks after Ch 12 (The Real Numbers)'
-mode: TEXTURE
-epigraph_source: 'The Kindling Letters, Vol. IV'
-epigraph_author: 'Collective authorship'
-epigraph_ref: 'Epigraph thread: Kindling also used Ch 8 — "describe what you see." Ch 19 escalates: "They will ask you to sign something."'
-rhetoric_reference: 'Work Order #2175-1847 (Deferred): "Conduit junction replacement, Sector 4-7B. Priority: Routine. Status: Deferred. Junction integrity: 62%."'
-meta_note: 'AEGIS as invisible novelist'
 ---
 
-# Chapter 19: Deferred Maintenance
-
-<!--
-📋 SYNOPSIS - Chapter 19
-
-SYNOPSIS: Weeks after Ch 12's Sub-level 7 briefing, Aurielle processes the quarterly containment expenditure offset — routine Sump maintenance reclassified as "deferred" to balance the 41.3% budget overrun. She signs Work Order #2175-1847 (Sector 4-7B junction replacement, integrity 62%, below Eduardo's 70% threshold). Thorne is present but does not mention the work order. First active complicity — not information, but decision.
-
-**Phase:** 2/5 (First Moral Threshold)
-**Themes:** Systemic Complicity, The Architecture of Power, Progress Requires Atrocity
-**Characters present:** Aurielle Vasquez, Marcus Thorne
-**Location:** NitroCore Tower, Neo-Shanghai Spires
-
-**Key events:**
-- Aurielle reviews batch of Sump maintenance reclassifications required by containment budget offset
-- Work Order #2175-1847: Sector 4-7B junction replacement deferred at 62% integrity
-- Thorne visits but discusses containment success, not the deferrals — silence as enablement
-- She signs. First rung of the moral ladder. Complicity feels like competence.
-
-**Consequences:**
-- First active decision that degrades Sump infrastructure — the moral ladder begins
-- Eduardo's 70% threshold violated by his daughter's hand
-- Small voice motif: no longer arguing, calculating
-- Seeds Ch 25 (Confluence) and Ch 36 (Projected Casualties) — thresholds shrinking
-
-**Continuity notes:**
-- Follows Ch 12: Sub-level 7 briefing, three scenarios, 41.3% overrun, "Same time next quarter"
-- Rhetoric reference: Work Order #2175-1847 (Deferred)
-- Eduardo's 70% threshold from Ch 12 (Sector 9 at 47% worst; 4-7B at 62% is mid-range)
-- Handkerchief in top left drawer (Ch 7), carbon key (Ch 12), sandalwood (Ch 1/7/12)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile — GRRM power-politics register, negation-before-assertion (6-8 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** None — Ch 19 is the direct execution of Ch 12's budget offset line
-**Author Notes:** Stop after self-review, before audit, for author comments
+# Chapter 19: 
+## Deferred Maintenance
 
 ---
 
@@ -5874,86 +4430,8 @@ Not because she had forgotten. Because she had filed it.
 
 ---
 
-_Draft generated: 2026-02-15_
-_Word count: ~4,300_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 20
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Crack'
-pov: 'Nikolai Volkov'
-wordTarget: '4000-5500'
-phase: 2
-location: 'Neo-Shanghai Sump — second incursion'
-timeline: 'Weeks after Ch 11 (Mid-Levels breach)'
-mode: PRESSURE
-epigraph_source: 'Resonance and Ruin'
-epigraph_author: ''
-epigraph_ref: 'Field Note 41 — propagation followed infrastructure path, not direct path. Request returned with SOP 7.1 note.'
-rhetoric_reference: 'After-Action Report Form VS-7 — routing observation omitted'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 20: The Crack
-
-<!--
-📋 SYNOPSIS - Chapter 20
-
-SYNOPSIS: Second incursion — Sump deployment, escalation from Mid-Levels Ch 11. The void propagates along the conduit network with purpose — bypassing dead-end infrastructure, prioritizing high-throughput junctions. Jarek observes: "It's not attacking us. It's going *around* us. Toward the trunk-lines." Two workers don't come home. Nikolai writes the after-action report — omits the routing observation. First active suppression (escalation from Ch 11's passive omission).
-
-**Phase:** 2/5 (Disruption deepening)
-**Themes:** Systemic Complicity (Strong), Architecture of Power (Strong), Truth as Weapon (Moderate), Progress Requires Atrocity (Background)
-**Characters present:** Nikolai Volkov, Jarek Kowalski, Stalker-7 unit
-**Location:** Neo-Shanghai Sump — breach zone near conduit infrastructure
-
-**Key events:**
-- Stalker-7 deployed to Sump breach — lower stratum than Ch 11, higher RCI, more infrastructure
-- Void propagation follows conduit routing — bypasses dead-end corridors, prioritizes high-throughput junctions
-- Jarek observes the routing pattern independently — says it aloud
-- Two Sump workers (conduit maintenance) do not return — "absorbed, non-recoverable" in report
-- Nikolai writes the after-action report — omits the routing observation entirely
-- Field log records the pattern but with a question he cannot answer
-- Escalation: Ch 11 = passive omission (corroboration not in report); Ch 20 = active suppression (tactical intelligence omitted)
-
-**Consequences:**
-- Routing observation would constitute evidence that the void has agency/intelligence — doctrine cannot accommodate this
-- The suppressed observation connects to Aurielle's Ch 19 deferred maintenance — degraded junctions = higher throughput = void targets
-- Jarek's questions sharpen — he is approaching the threshold Nikolai retreated from
-- Field log grows; gap between records widens
-- Seeds Ch 23 (Nikolai's Phase 3 chapter — Sump deployment, acceleration)
-
-**Continuity notes:**
-- Follows Ch 11: same unit, same dual-record system, same Kowalski dynamic
-- Ch 19 cross-link: Sector 4-7B at 62% integrity — junction degradation increases throughput concentration
-- After-Action Report Form VS-7 referenced in chapter plan (Ch 20, 47)
-- RCI ranges must be consistent: Sump 15-25 (bible), with breach zone elevated
-- Stalker-7 unit composition: 32 soldiers, 4 L-Frame operators, unfilled mage liaison
-- Epigraph thread: Field Note 41 from Resonance and Ruin (scientific observer noting infrastructure routing)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile — Erikson soldier-poet register, negation-before-assertion (2-4 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** None — Ch 20 is the direct escalation from Ch 11's Mid-Levels breach to Sump-level operations
-**Author Notes:** Stop after self-review, before audit, for author comments
-
----
+# Chapter 20: 
+## The Crack
 
 > *Field Note 41: The propagation followed the conduit junction sequence. Not the direct path — the infrastructure path. I have no model for this. I have filed a request for additional monitoring. The request was returned with a note: "Already addressed in SOP 7.1."*
 >
@@ -6138,12 +4616,7 @@ The hum followed him down the corridor. It was 8.1. It was always 8.1. It did no
 ---
 
 _Draft generated: 2026-02-15_
-_Word count: ~4,600_
-
-
-
-
----
+_Word count: ~4,600_nn---
 workflowType: 'chapter-write-create'
 stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
 lastStep: 'step-06-bible-update'
@@ -6164,43 +4637,13 @@ epigraph_ref: 'Underground publication'
 rhetoric_reference: 'Feed editorial policy memo (leaked)'
 meta_note: 'AEGIS as invisible novelist — confident reconstruction from sensor data'
 draftVersion: 1
----
-
-<!--
-CHAPTER BRIEF — Confirmed 2026-02-15
-
-SYNOPSIS: Mirelle builds the matched-district case correlating Sump absorption rates with NitroCore infrastructure density, hits the editorial ceiling when Gauthier demands VEC-certified verification, and receives a Black Babel offer that requires going deeper — setting up Phase 3's Deep Sump expedition.
-
-Phase: 2 (final Phase 2 Mirelle chapter)
-Themes: Truth as Weapon (Dominant), Architecture of Power (Strong), Systemic Complicity (Strong)
-Characters present: Mirelle (POV), Gauthier (editor, via comms), Talia Ravid (Black Babel)
-Location: Transit box → Resonance District → transit box
-
-Key events:
-- Matched-district analysis: infrastructure density maps overlaid with absorption/disappearance data
-- Editor exchange: "Correlation, not causation" — evidentiary standard as institutional shield
-- Feed editorial policy memo: VEC-certified verification required
-- Black Babel bigger trade: requires Deep Sump access (below Level 12)
-- Nitro-ear progression (~6-7 weeks)
-- Dead-hand maintenance
-
-Continuity notes:
-- Arctic-7 co-origin data (Ch 13) is foundation
-- Zeyad exchange (Ch 17) happened — Mirelle knows institutional actor is also alarmed
-- Disappearance count 18+ (may have grown)
-- Ch 19 cross-link: deferred maintenance enables void routing (reader knows, Mirelle doesn't)
-- Forward: Ch 24 Deep Sump expedition, Ch 22 Fuxi step-function spike
-
-Divergences: None significant. Ch 13 established stronger evidentiary base than plan anticipated.
-Author Notes: None — proceed with plan as-is.
--->
-
-> *"Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."*
+---nn> *"Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."*
 > — "Vox," *The Scream Made Readable* (underground publication, undated)
 
 ---
 
-# Matched Districts
+# Chapter 21
+## Matched Districts
 
 She woke to the dead-hand timer. Twenty-six hours. The address had pinged clean at 03:00, the window reset, the automated architecture holding its shape in the dark while she slept. She checked the number twice — not because she doubted the system but because the ritual of checking was the first structure her day had, and structure was what kept the rest of it from sliding.
 
@@ -6422,40 +4865,9 @@ The hum came up through the floor. Through the chair. Through the desk. The ring
 
 She lay on the cot. The frame vibrated. She pressed her thumb against the tragus again. The cartilage deformed.
 
-The ringing did not.
-
-
-
+The ringing did not
 
 ---
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 22
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "The Spike"
-pov: "Fuxi Lin"
-wordTarget: '3000-6000'
-phase: 2
-location: "Neo-Shanghai Deep Sump — monitoring bay, Sump corridors, apartment"
-timeline: '2175'
-mode: TEXTURE
-epigraph_source: 'On the Statistical Correlation Between Throughput Density and Resonance Events in Closed Nitro Systems'
-epigraph_author: 'Solberg'
-epigraph_ref: ''
-rhetoric_reference: 'Deep Sump RCI Station Automated Alert'
-meta_note: 'AEGIS as invisible novelist'
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** Kindling recruiter is FIRST in-person contact (not a return — Ch 8/16 had pamphlets only)
-**Author Notes:** Stop after self-review for author written review before audit
 
 # Chapter 22
 
@@ -6466,34 +4878,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Solberg, *On the Statistical Correlation Between Throughput Density and Resonance Events in Closed Nitro Systems*
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 22
-
-SYNOPSIS: Fuxi Lin's fourth POV chapter and final Phase 2 chapter. The Kindling make first in-person contact — a Sump worker who recognizes Fuxi's awareness. Fuxi learns one of the disappeared workers was someone he maintained a junction with. The Kindling offer a framework: his data has a delivery system if he wants one. Then, during shift, monitor 6 spikes — step-function, not fluctuation. No correction. The Confluence begins its activation gradient. Phase 2→3 transition trigger.
-
-**Phase:** 2/5 (Disruption → Phase 2→3 transition trigger)
-**Themes:** Systemic Complicity (Dominant), Truth (Strong), Commodification (Strong), Architecture (Moderate), What We Owe (Moderate)
-**Characters present:** Fuxi Lin (POV), Kindling contact (first appearance), Chen Wei (background)
-**Location:** Neo-Shanghai Deep Sump — monitoring bay, ascent shaft corridor, monitoring bay (return)
-
-**Key events:**
-- First in-person Kindling contact — a Sump worker approaches Fuxi
-- The disappeared worker Fuxi knew: someone from his infrastructure, not just a corridor face
-- The Kindling offer a delivery system for his data
-- Monitor 6 step-function spike — sustained, no correction
-- Automated alert fires: "RCI step-function, 4.7σ above baseline. Duration: sustained."
-- Chen Wei's response — or absence of response
-- The Lie under maximum strain
-
-**Continuity notes for future chapters:**
-- Step-function spike is sustained — VEC will detect independently (Sofia's atmospheric data, Phase 2→3 transition)
-- Kindling relationship established — Phase 3 deepens
-- Private log now politically legible — delivery system offered
-- Solberg's Appendix D mentioned in automated alert recommendation
--->
-
-## Draft v1
 
 The sixty-first entry was the same as the sixtieth.
 
@@ -6753,92 +5137,9 @@ He stepped onto the mat. Pulled off his boots. The apartment smelled like broth.
 Thursday was two days away.
 
 ---
-_Draft generated: 2026-02-15_
-_Word count: ~5,200_
 
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 23
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Forward Position'
-pov: 'Nikolai Volkov'
-povAppearance: 3
-wordTarget: '4000-5500'
-phase: 3
-location: 'Neo-Shanghai Sump perimeter — FOB Meridian'
-timeline: 'Weeks after Ch 20 (Sector 9 breach). Permanent forward deployment.'
-mode: PRESSURE
-pressureSubtype: 'military-operational (pre-positioning as horror engine, institutional geometry as tension mechanism, evacuation absence as dread)'
-epigraph_source: 'Reflections from the Perimeter'
-epigraph_author: ''
-epigraph_ref: 'Haraldsen ghost story thread — Ch 11 (word list) → Ch 23 (rotation extended) → Ch 38 (counting) → Ch 47 (final fragment)'
-rhetoric_reference: 'Deployment Order VS-2175-0089 — Forward position, Sump perimeter. Duration: indefinite. Evacuation authority: none issued.'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 23: Forward Position
-
-<!--
-📋 SYNOPSIS - Chapter 23
-
-SYNOPSIS: Permanent deployment to Neo-Shanghai Sump perimeter. Not response — pre-positioning. Forward base in repurposed maintenance junction. Micro-incursions every few days, baseline RCI elevated and not returning. Containment zones mapped, evacuation routes charted — but no evacuation orders. Being positioned for something. Suppression escalation: Ch 11 (passive omission) → Ch 20 (active suppression) → Ch 23 (structural recognition — sees the deployment geometry for what it is, continues to execute).
-
-**Phase:** 3/5 (Phase 3 opener — "The Weight of Knowing")
-**Themes:** Systemic Complicity (Dominant), Architecture of Power (Strong), Truth as Weapon (Moderate), Progress Requires Atrocity (Moderate)
-**Characters present:** Nikolai Volkov, Jarek Kowalski, Stalker-7 unit (Okonkwo, Rask, Yeung)
-**Location:** FOB Meridian — Sump/Mid-Levels boundary, Sector 12 junction complex
-
-**Key events:**
-- Deployment Order VS-2175-0089: indefinite duration, no evacuation authority
-- FOB Meridian established in repurposed maintenance junction — irony of military presence inside void-routing infrastructure
-- Micro-incursions probing and retreating — baseline RCI ratcheting upward (12.4→14.1+, not returning between events)
-- Kowalski observes "ratcheting" — unit dynamics shifting post-routing-observation
-- Nikolai maps evacuation routes on own initiative — infrastructure exists, routes work, no orders to use them
-- Deferred maintenance junctions visible on tactical overlay — Ch 19 cross-link
-- Forward position faces inward — containment, not protection
-- Field log entry: "We are not here to respond to breaches. We are here to hold a line."
-- Suppression escalation: from omitting data to omitting conclusions
-
-**Consequences:**
-- Seeds Ch 32 (Class Three — largest incursion, Jarek saves Nikolai, routing as navigation)
-- Seeds Ch 38 (BLACKWEIR perimeter enforcement — the line Nikolai holds becomes lethal)
-- Evacuation routes mapped but unused — dramatic irony with Ch 25 (Confluence/BLACKWEIR)
-- Deferred maintenance visible to Nikolai without context — Ch 19 cross-link deepens
-- 1.4 million residents in operational zone — subset of Ch 37's 13 million
-- Unit cohesion straining under accumulated knowledge
-
-**Continuity notes:**
-- Follows Ch 20: Sector 9 breach still mobile (now removed from active monitoring list), Kowalski routing observation shared, CPCC in vocabulary, active suppression established
-- Ch 19 cross-link: deferred maintenance junctions (4-7B at 62%, 11-2C, 6-9A, 3-1D) visible on display
-- Deployment number: VS-2175-0089 (follows Q1-0347 Ch 11, Q1-0391 Ch 20)
-- Epigraph thread: Haraldsen ghost story (Ch 11 word list → Ch 23 rotation extended → Ch 38 counting → Ch 47 final)
-- RCI ranges: Sump baseline 15-25 (bible), with FOB at boundary zone 12-15
-- American spelling convention (meters, not metres)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile — Erikson soldier-poet register, negation-before-assertion (2-4 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** None — Ch 23 is the direct Phase 3 escalation from Ch 20's Sump deployment
-**Author Notes:** Stop after self-review, before audit, for author comments
-
----
+# Chapter 23: 
+## Forward Position
 
 > *Rotation was supposed to be ninety days. Haraldsen's unit did two hundred and six. Nobody signed the extension. It just didn't come.*
 >
@@ -7012,38 +5313,13 @@ The hum followed him. It did not change. It did not need to.
 
 ---
 
-_Draft generated: 2026-02-15_
-_Word count: ~4,600_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 24
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Below Level 12'
-pov: 'Mirelle Dubois'
-wordTarget: '4000-5000'
-phase: 3
-location: 'Neo-Shanghai Deep Sump (below Level 12)'
-timeline: '2175, ~11 days after Ch 21'
-mode: TEXTURE
-epigraph_source: 'A History of Silence'
-epigraph_text: '"The geological surveys for Sectors 7 through 12 were commissioned in 2168 and completed in 2169. The surveys for Sectors 13 through 18 were commissioned on the same date. No public record of these surveys has been located."'
-rhetoric_reference: 'Sump Infrastructure Map (public version): "Below Level 12: Decommissioned. No active infrastructure."'
-meta_note: 'AEGIS as invisible novelist'
----
+# Chapter 24
+## Below Level 12
 
 > *"The geological surveys for Sectors 7 through 12 were commissioned in 2168 and completed in 2169. The surveys for Sectors 13 through 18 were commissioned on the same date. No public record of these surveys has been located."*
 > — *A History of Silence*
 
-# Chapter 24: Below Level 12
+---
 
 The dead-hand timer read thirty-one hours.
 
@@ -7192,72 +5468,9 @@ The twenty-fourth had not been hers. Not today.
 She closed her eyes. The hum carried her toward sleep the way it always did — with the mechanical indifference of a system that did not know she was inside it.
 
 ---
-_Draft generated: 2026-02-15_
-_Word count: ~4,700_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-status: v1-complete
-chapterNumber: 25
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-executionMode: quick
-title: 'Confluence'
-pov: 'Aurielle Vasquez'
-povAppearance: 5
-wordTarget: '4000-5000'
-phase: 3
-thread: A
-location: 'NitroCore Tower, Neo-Shanghai Spires'
-timeline: 'Q1 2175 — weeks after Ch 19 (deferred maintenance), post-step-function spike (Ch 22)'
-mode: PRESSURE
-epigraph_source: 'Personal Correspondence of Arch-Prelate Malachi'
-epigraph_text: "She asked me once whether the Voice could be wounded. I told her that was heresy. I did not tell her I had asked the same question at seminary, and that my instructor wept."
-rhetoric_reference: 'BLACKWEIR Protocol Executive Summary'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 25: Confluence
-
-<!--
-📋 SYNOPSIS - Chapter 25
-
-SYNOPSIS: Thorne introduces the Confluence and BLACKWEIR to Aurielle, transforming the managed-attrition timeline into an emergency protocol requiring the sacrifice of the entire Sump.
-
-This chapter explores Aurielle's institutional-vs-moral contradiction through the revelation that managed attrition is no longer viable and something far worse is required.
-
-**Phase:** 3 (Struggle)
-**Themes:** Architecture of Power (Dominant), Systemic Complicity (Dominant), Progress Requires Atrocity (Strong), Commodification of Suffering (Strong)
-**Characters present:** Aurielle Vasquez (POV), Marcus Thorne (Supporting)
-**Location:** NitroCore Tower — Eduardo's Office, Sub-level 7
-
-**Key events:**
-- Step-function spike has collapsed Scenario C (managed attrition) timeline
-- Thorne introduces the Confluence: six first-generation trunk-lines converging at highest-throughput junction
-- BLACKWEIR presented as "system management protocol" — controlled flooding, junction severance, Sump as absorption sink
-- "The human cost is a variable, not a given."
-- Aurielle demands an alternatives analysis — the document that will prove she tried
-- Sandalwood gone. Small voice calculates before asked.
-
-**Consequences:**
-- Reader now knows what BLACKWEIR is (dramatic irony engine activated for Ch 29, 36)
-- Aurielle's moral laddering continues — from signing deferrals (Ch 19) to requesting alternatives to genocide
-- The trap closes: every alternative Thorne produces will lead back to BLACKWEIR
-
-**Continuity notes:**
-- Sandalwood extinction (flagged Ch 19)
-- Small voice progression: Ch 7 uncertain → Ch 12 Eduardo's voice → Ch 19 calculates without arguing → Ch 25 calculates before asked
-- Walk motif: track iteration
-- Pen motif: continues from Ch 19
-- Wrist rotation: track progression
-- Sector 4-7B at 62% (Ch 19) — track whether Confluence data includes these degraded sectors
-- Timeline: post-step-function spike (Ch 22), post-Nikolai forward deployment (Ch 23)
--->
+# Chapter 25 
+## Confluence
 
 > *"She asked me once whether the Voice could be wounded. I told her that was heresy. I did not tell her I had asked the same question at seminary, and that my instructor wept."*
 > — Personal Correspondence of Arch-Prelate Malachi
@@ -7411,34 +5624,6 @@ Not because the schedule required it. Not because the next meeting demanded the 
 The door closed behind her. The room held nothing.
 
 ---
-_Draft generated: 2026-02-15_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 26
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: "The Wound in the World"
-pov: "Nephthys"
-wordTarget: "4000-5000"
-phase: 3
-location: "Neo-Shanghai Sump — Cathedral of the Living Sound"
-timeline: "Phase 3 — weeks after Ch 14 (commune), days after Ch 25 (Confluence)"
-mode: TEXTURE
-epigraph_source: "The Book of Radiance"
-epigraph_author: "Church of the Blessed Nitro, ~2085"
-epigraph_ref: "2:11"
-rhetoric_reference: "Diocesan Notice — Cathedral of the Living Sound deconsecrated"
-meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fingerprint structural not textual"
----
 
 # Chapter 26
 
@@ -7449,71 +5634,6 @@ meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fin
 > — *The Book of Radiance*, 2:11
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 26
-
-SYNOPSIS: Nephthys arrives in Neo-Shanghai and descends into the Sump. The chorus — a murmur in the Outlands, a pressure in the communes — becomes a roar in the conduit-saturated streets. Worst migraines yet. Imani manages. They find the Cathedral of the Living Sound sealed by diocesan notice: deconsecrated, the Church withdrawing from the Sump. Inside, the chorus resolves for the first time — not words but architecture. The pain recedes. Nephthys interprets this as arrival, destination, divine confirmation. The reader suspects physics.
-
-**Phase:** 3/5 (Struggle)
-**Themes:** Where Identity Ends (Strong), Irrelevance of Individual Being (Strong), What We Owe (Moderate), Architecture of Power (Moderate), Systemic Complicity (Background), Truth as Weapon (Background)
-**Characters present:** Nephthys (POV), Imani (companion)
-**Location:** Neo-Shanghai Sump → Cathedral of the Living Sound
-
-**Key events:**
-- Nephthys and Imani arrive in Neo-Shanghai via cargo route, descend from Mid-Levels into the Sump
-- The chorus overwhelms — conduit density makes the hum a wall of signal, worst episodes yet
-- They find the Cathedral sealed: diocesan notice from Malachi's office, deconsecrated, faithful directed to Mid-Level District 3
-- Inside the Cathedral, the chorus resolves — individual threads distinguishable for the first time
-- Pain recedes inside the stone. The geological formation dephases the ambient coherence into something structured.
-- Nephthys interprets this as divine architecture. The reader suspects physics (broadband acoustic dampening).
-- The seeker-to-prophet transition advances — certainty hardens into conviction
-
-**Revelation calibration:**
-- KNEW: Chorus is composite, structured, directional toward Neo-Shanghai, responsive (Ch 14)
-- LEARNS THIS CHAPTER: The Cathedral's acoustic/geological architecture resolves the chorus into distinguishable threads; the chorus has spatial properties; the Church knew enough to build here and chose to abandon it
-- SUSPECTS: Individual threads may be individual absorbed; the chorus is not random but organized
-- DOES NOT KNOW: Whether the absorbed are conscious; "They are all still here" (Ch 44); the network structure; that the Cathedral's protection is physics not theology
-
-**Consequences:**
-- Nephthys established in Neo-Shanghai Sump — positioned in the BLACKWEIR kill zone (dramatic irony from Ch 25)
-- Cathedral becomes her base of operations through Phase 3-4
-- The seeker arrives at her destination — now the prophet begins to form
-- Seeds Ch 35 ("The First Congregation") and Ch 44 ("They Are All Still Here")
-
-**Continuity from Ch 14:**
-- Transit papers from Dara's contact (Mid-European corridor → eastern hub → cargo route)
-- Chorus directional — stronger toward Neo-Shanghai (confirmed)
-- 18-month terminal diagnosis (nitro-psychosis) — time passing
-- Resonance beads (nitro-glass, ordination relic)
-- Counter-liturgy: chorus vs Voice
-- Imani's loyalty personal, not theological
-- "The pain is signal" motif
-- "Responsive" — Nephthys's naming word from Lene's testimony
-
-**Seeds for future chapters:**
-- Cathedral as base → Ch 35 first congregation forms around Nephthys's listening
-- 31 people present by Ch 44 (BLACKWEIR) — organic gathering begins here
-- Imani makes the Cathedral functional (referenced Ch 44)
-- Stone's geological properties seed the BLACKWEIR survival pocket
-- Diocesan notice = institutional abandonment of the Sump (Church withdrawing before BLACKWEIR)
-
-**Bible update needed:**
-- Characters: Nephthys (Ch 26, arc phase 3/5, arrival), Imani (Ch 26, practical management)
-- Locations: Cathedral of Living Sound (Ch 26 key event — first entry, deconsecrated)
-- Themes: Ch 26 row in all theme tables
-- Tracking: rhythm, emotions, audit
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** None — Ch 14 continuity intact, transit route seeds fulfilled
-**Author Notes:** Ch 44 already written — must seed backward. Bakker register. Dramatic irony with Ch 25 (reader knows Sump = kill zone).
-
----
-
-## Draft v1
 
 Neo-Shanghai was a sound before it was a city.
 
@@ -7690,31 +5810,9 @@ The pain was signal. The signal was the chorus. The chorus was no longer a quest
 It was an architecture. And she was inside it.
 
 ---
-_Draft generated: 2026-02-15_
-_Word count: ~4,700_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-status: v1-complete
-chapter: 27
-title: "The Non-Physical Variable"
-pov: "Sofia Reyes"
-phase: 3
-location: "VEC HQ, Neo-Shanghai — Atmospheric Anomaly Group, Floor 63"
-wordCount: 3787
-created: "2026-02-16"
-lastModified: "2026-02-16"
-previousChapter: 26
-nextChapter: 28
-narrativeTime: "~72 hours before Ch 28"
-meta_note: "AEGIS as invisible novelist"
----
-
-# Chapter 27: The Non-Physical Variable
+# Chapter 27
+## The Non-Physical Variable
 
 The model was wrong.
 
@@ -7938,76 +6036,12 @@ Not yet was not the same as nothing. She knew that.
 
 She was still learning what it was instead.
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 28
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Network'
-pov: 'Fuxi Lin'
-wordTarget: '4000-5000'
-phase: 3
-location: 'Neo-Shanghai Deep Sump'
-timeline: 'Phase 3 — STRUGGLE'
-mode: TEXTURE
-epigraph_source: ''
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: ''
 ---
 
-# Chapter 28: The Network
+# Chapter 28
+## The Network
 
-<!--
-📋 SYNOPSIS - Chapter 28
-
-SYNOPSIS: The Kindling takes Fuxi to a meeting of maintenance workers documenting the same anomalies he's been tracking — a parallel investigation from below.
-
-This chapter explores Fuxi's transformation from isolated documenter to networked witness through his discovery that he is not alone in seeing the pattern.
-
-**Phase:** 3 (Struggle — conscious knowledge)
-**Themes:** Systemic Complicity, Truth as Weapon, What We Owe
-**Characters present:** Fuxi Lin, Kindling recruiter, maintenance workers network, Nuwa Lin (referenced)
-**Location:** Neo-Shanghai Deep Sump — undisclosed meeting location
-
-**Key events:**
-- Kindling recruiter takes Fuxi to underground meeting
-- Discovers parallel investigation: maintenance workers documenting same anomalies
-- No credentials, just plumbing knowledge — grassroots truth-gathering
-- Recruiter: "Keep documenting. When this breaks, someone needs to know it was visible."
-- Through Fuxi's eyes: Nuwa's performed normalcy becoming harder to maintain
-
-**Consequences:**
-- Fuxi's private log becomes politically legible — part of larger resistance network
-- The file that was impotent isolation becomes potential collective evidence
-- Complicity shifts from individual burden to collective refusal
-
-**Continuity notes:**
-- Follows Ch 22 (step-function spike, first Kindling contact, multitool released)
-- Sets up Ch 34 (Mirelle's dead-hand includes Kindling data via Fuxi's network)
-- Nuwa's transfer plan still active — dramatic irony deepens
-- Private log at 62+ entries, acceleration pattern continuing
-
----
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-16
-**Divergences Noted:** None
-**Author Notes:** Nuwa appears in brief domestic observation scene (minimal dialogue) — Fuxi observing her performed normalcy cracking without extended conversation. Maintains emotional grounding and dramatic irony while respecting Fuxi's low-dialogue register.
-
--->
-
----
-
-## Draft v1
+NEEDS EPIGRAPH
 
 The woman was waiting on the bench.
 
@@ -8271,37 +6305,13 @@ Tuesday was five days away.
 
 ---
 
-_Draft generated: 2026-02-16_
-_Word count: ~4,100_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-status: v1-complete
-chapterNumber: 29
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-chapter: 29
-title: "The Flood Valves"
-pov: "Mirelle Dubois"
-phase: 3
-location: "Neo-Shanghai Deep Sump — Sub-Level Infrastructure, Sectors 4-7"
-wordTarget: "4000-5200"
-mode: TEXTURE
-epigraph_source: "NitroCore Infrastructure Division, Work Order 2171-Q3-PMU"
-epigraph_text: "Pressure Management Upgrade — Phase 2: Installation of hydraulic flow-control assemblies at designated junction nodes per specifications PMU-7.2 through PMU-7.9. All assemblies to be hardwired per NitroCore Security Directive 2171-C. Classification: Infrastructure Maintenance. Public notification: Not required."
-rhetoric_reference: "NitroCore Procurement Manifest, 2172-Q2: 'PMU-7.4 — NCS-4400 hydraulic specification — Routine Maintenance — Authorization: NitroCore Infrastructure Division, Project Management Office'"
-meta_note: "AEGIS as invisible novelist"
----
+# Chapter 29
+## The Flood Valves
 
 > *"Pressure Management Upgrade — Phase 2: Installation of hydraulic flow-control assemblies at designated junction nodes per specifications PMU-7.2 through PMU-7.9. All assemblies to be hardwired per NitroCore Security Directive 2171-C. Classification: Infrastructure Maintenance. Public notification: Not required."*
 > — NitroCore Infrastructure Division, Work Order 2171-Q3-PMU
 
-# Chapter 29: The Flood Valves
+---
 
 The dead-hand timer read nineteen hours.
 
@@ -8437,11 +6447,7 @@ She closed her eyes. The hum carried her toward sleep the way it always did — 
 
 ---
 _Draft generated: 2026-02-16_
-_Word count: ~4,300_
-
-
-
----
+_Word count: ~4,300_nn---
 workflowType: chapter-write
 stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
 lastStep: 'step-06-bible-update'
@@ -8460,40 +6466,7 @@ epigraph_source: "Nitro Accords, Article 7, Section 3"
 epigraph_text: "In the event of credible evidence indicating imminent systemic harm to civilian populations within signatory or licensed operational zones, the Council may convene an emergency coordination session and, upon majority vote, authorize investigative action including but not limited to: independent infrastructure assessment, population risk evaluation, and the temporary suspension of operational sovereignty pending the completion of said assessment. Sovereign consent of the operational license holder shall be obtained where practicable."
 rhetoric_reference: "UGC Emergency Session Transcript, 2175-Q1-14 — Motion to invoke Article 7, Section 3 (preemptive infrastructure assessment). Vote: 23-3, motion fails. Reason cited: sovereign consent not obtained."
 meta_note: "AEGIS as invisible novelist"
----
-
-<!--
-📋 SYNOPSIS - Chapter 30
-
-SYNOPSIS: Emergency UGC session on Neo-Shanghai escalation. Zeyad invokes Article 7, Section 3 — the emergency clause Khalil helped draft. NitroCore legal invokes corporate sovereignty. The committee votes 23-3 to continue monitoring. Cease-and-desist delivered. Zeyad contacts Mirelle through the back-channel: the mechanism failed. The notebook is full. Forty-seven questions. The mechanism that was supposed to prevent this does not exist — it performs existence while architecturally ensuring inaction.
-
-**Phase:** 3/5 (Struggle — institutional faith tested to destruction)
-**Themes:** Architecture of Power (Dominant), Systemic Complicity (Dominant), Truth as Weapon (Strong), What We Owe (Moderate)
-**Characters present:** Zeyad Al-Fahim (POV), NitroCore legal counsel (voice — secure link), committee delegates, Mirelle Dubois (voice — encrypted channel)
-**Location:** New Geneva, UGC Headquarters — Committee Chamber 3, administrative corridor, Zeyad's office, secure comm alcove
-
-**Key events:**
-- Emergency session convened on Neo-Shanghai Apex-trajectory escalation
-- Zeyad invokes Article 7, Section 3 — preemptive infrastructure assessment
-- NitroCore legal counsel invokes sovereign consent provision ("where practicable")
-- Committee votes 23-3: motion to continue monitoring with enhanced briefing cadence
-- NitroCore cease-and-desist on Zeyad's data request chain
-- Back-channel exchange with Mirelle: "the committee voted to monitor and the monitoring is monitoring a countdown"
-- Notebook reaches 47 questions. The five from Ch 6 have multiplied.
-- Closing: the mechanism doesn't exist. The clause is ornamental. The notebook is full.
-
-**Continuity notes:**
-- Article 7, Section 3 invoked here; referenced in Ch 45 as "eleven days ago"
-- Committee vote 23-3 referenced in Ch 45 line 104 (NOTE: Ch 45 says "11-3" — needs correction to 23-3)
-- Back-channel exchange "the committee voted to monitor and the monitoring is monitoring a countdown" referenced in Ch 45 line 130
-- Cease-and-desist sets up Article 12, Section 8 prosecution in Phase 5
-- "Forty-seven questions" referenced in Ch 45 line 114
-- Jordanian flag still flickering
-- Epigraph thread: Ch 6 (ornamentality) → Ch 17 (exhaustion) → Ch 30 (mechanism) → Ch 45 (insufficiency)
-- Does NOT start drafting public statement — that begins fresh in Ch 45, triggered by Mirelle's dead-hand
--->
-
----
+---nn---
 
 > *"In the event of credible evidence indicating imminent systemic harm to civilian populations within signatory or licensed operational zones, the Council may convene an emergency coordination session and, upon majority vote, authorize investigative action including but not limited to: independent infrastructure assessment, population risk evaluation, and the temporary suspension of operational sovereignty pending the completion of said assessment. Sovereign consent of the operational license holder shall be obtained where practicable."*
 >
@@ -8501,7 +6474,8 @@ SYNOPSIS: Emergency UGC session on Neo-Shanghai escalation. Zeyad invokes Articl
 
 ---
 
-# Chapter 30: The Mechanism That Doesn't Exist
+# Chapter 30
+## The Mechanism That Doesn't Exist
 
 The emergency session was convened at 09:00 on a Thursday.
 
@@ -8744,30 +6718,6 @@ The flag was still flickering. He couldn't see it from here.
 He knew.
 
 ---
-_Draft generated: 2026-02-16_
-_Word count: ~4,800_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 31
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Cultural Engagement"
-pov: "Kira Calloway"
-wordTarget: "4000-5000"
-phase: 3
-location: "Neo-Shanghai"
-timeline: "2175"
-mode: TEXTURE
-meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fingerprint structural not textual"
----
 
 # Chapter 31
 
@@ -8778,52 +6728,6 @@ meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fin
 > — Varma Academy Travel Advisory, Mage Health & Wellness Bulletin, 2174 (rev. 3)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 31
-
-SYNOPSIS: Kira's third POV chapter. Phase 3. Opens with pharmacy pickup in Bay Area — monthly, regulated, the pharmacist sees her as a patient not a celebrity. Antidepressants, antipsychotics, anxiolytics, upper-end dosages. Then Neo-Shanghai for Academy promotional tour. The implant screams — stronger, more structured than Bay Area. Geography matters. Manages it on camera; off camera, hands shake. Hotel room: pill sorting ritual (30-day holder, grounding in unfamiliar space), physical inventory, the hum assessed. It feels like *words*. Private message to mage group: "It's louder here. Much louder. Does anyone else feel like it's *words*?" Phase 2→3 transition: from reluctant node to active investigator.
-
-**Phase:** 3/5 (Struggle — "The Weight of Knowing")
-**Themes:** Where Identity Ends (Strong), Commodification of Suffering (Strong), Truth as Weapon (Moderate), Systemic Complicity (Moderate), Architecture of Power (Background)
-**Characters present:** Kira Calloway (POV), pharmacist (brief), Academy handlers (promo event), mage group (messages)
-**Location:** PCC Bay Area (pharmacy) → Neo-Shanghai (Academy promo event, hotel room)
-
-**Key events:**
-- Monthly pharmacy pickup — the one public interaction where she's just a patient
-- Arrival in Neo-Shanghai — implant screams stronger, more structured than Bay Area
-- On-camera Academy promo event — manages scream professionally
-- Off-camera: hands shake (new symptom, geographic escalation)
-- Hotel room: pill sorting ritual as grounding, hum assessment, "feels like words"
-- Private message to mage network: the question that can't be unasked
-
-**Consequences:**
-- Geographic amplification established — proximity to Confluence matters
-- Kira's arc moves from 2/5 to 3/5 — active struggle
-- Mage testimony network expanding beyond Bay Area data
-- "Words" — the first articulation that the signal has semantic content
-- Physical escalation: shaking hands, worsening fingertip numbness
-
-**Continuity notes for future chapters:**
-- Hum evolution: Ch 10 "thicker" → Ch 18 "tighter" → Ch 31 "stronger, more structured" → Ch 43 "full"
-- Lumina: nightly 40mg routine, bump twice/week (may increase under Neo-Shanghai pressure)
-- Mage network: Kira now actively investigating, not just receiving reports
-- Neo-Shanghai as environment — she'll be here for the promo tour duration
-- Academy Section 14.3 (institutional cover story) now directly contradicted by geographic evidence
-
-**Bible update needed:**
-- Characters: Kira Recent History — third appearance, Neo-Shanghai arrival, geographic amplification, "words"
-- Locations: Neo-Shanghai (Kira's experience — hotel, promo venue)
-- Tracking: Kira emotions — reluctant engagement → active investigation
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-16
-**Divergences Noted:** Pill sorting moved to Neo-Shanghai hotel room (structural choice — grounding ritual against unfamiliar environment hits harder than pre-flight). Ch 43 (already written) confirms hum evolution endpoint: "tighter" → "stronger, more structured" → "full."
-**Author Notes:** Geographic amplification is the revelation — the hum is environmental, not personal. Hands shaking is new (escalation from fingertip numbness). Message to mage group is the chapter's pivot: avoidance harder than engagement, continued from Ch 18. Keep "words" light — she's naming the sensation, not decoding it.
-
-## Draft v1
 
 The pharmacist didn't look up.
 
@@ -8998,89 +6902,11 @@ She read it.
 She wasn't.
 
 ---
-_Draft generated: 2026-02-16_
-_Word count: ~4,700_
 
+# Chapter 32
+## Class Three
 
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 32
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Class Three'
-pov: 'Nikolai Volkov'
-wordTarget: '4000-5500'
-phase: 3
-location: 'Neo-Shanghai Sump Sector 7'
-timeline: 'Phase 3 (Crisis/Convergence)'
-mode: PRESSURE
-epigraph_source: 'Void Stalker Field Manual'
-epigraph_author: 'VEC Military Operations Division'
-epigraph_ref: '§4.8 — Personnel Exposure Limits'
-rhetoric_reference: 'VS-7 After-Action Report, Deployment 2175-Q1-0428'
----
-
-# Chapter 32: Class Three
-
-<!--
-📋 SYNOPSIS - Chapter 32
-
-SYNOPSIS: Largest Neo-Shanghai incursion to date. The void propagates along conduit network with purpose — routing, not spreading.
-
-This chapter explores Nikolai's doctrine-as-survival contradiction through direct observation of intelligent void behavior that doctrine cannot classify.
-
-**Phase:** 3/5 (Crisis)
-**Themes:** Systemic Complicity, Truth as Weapon, Architecture of Power
-**Characters present:** Nikolai Volkov, Jarek Kowalski, Stalker-7 unit
-**Location:** Neo-Shanghai Sump Sector 7
-
-**Key events:**
-- Largest incursion deployment
-- Void bypasses dead-ends, targets high-throughput junctions
-- Jarek saves Nikolai, takes Frame damage
-- Containment zone "will not be reinforced"
-- Nikolai omits routing pattern from after-action report
-
-**Consequences:**
-- Pattern recognition: void navigates infrastructure with purpose
-- Jarek's observation: "It's not spreading. It's *navigating*."
-- Suppression escalates from passive omission to active falsification
-
-**Continuity notes:**
-- Third Nikolai chapter (after Ch 11, Ch 20)
-- Neo-Shanghai Phase 3 convergence
-- Cross-references Ch 28 (Fuxi's network), Ch 29 (Mirelle's flood valves)
-- Sets up Ch 38 (BLACKWEIR perimeter enforcement)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5000 words
-Voice: Match author's style profile (Nikolai = Erikson register, military-operational)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-16
-**Divergences Noted:** None — Ch 38 continuity verified (Jarek survives this chapter, absorbed 16:47 during BLACKWEIR)
-**Author Notes:** Stop after self-review for comments. Maintain continuity with Ch 38 (Jarek at Junction 14-East, Frame damage explains "safest position" assignment).
-
-**Continuity Locks:**
-- Jarek saves Nikolai, takes Frame damage (explains Ch 38 positioning)
-- Routing pattern observed by both Nikolai and Jarek
-- Escalation: Ch 11 (passive omission) → Ch 20 (active suppression) → Ch 32 (falsification)
-- Command: "will not be reinforced" = institutional abandonment
-
----
-
-## Draft v1
+NEEDS EPIGRAPH
 
 The briefing lasted four minutes.
 
@@ -9488,38 +7314,8 @@ The gap was wider.
 
 ---
 
-*Draft generated: 2026-02-16*
-*Word count: ~5,500*
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 33
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-title: 'They Already Knew'
-pov: 'Sofia Reyes'
-wordTarget: '3000-5000'
-phase: 3
-location: 'VEC HQ, Neo-Shanghai'
-timeline: '2175 — Phase 3, weeks before BLACKWEIR'
-mode: TEXTURE
-epigraph_source: 'VEC Classification Directive 7.3: Strategic Sensitivity'
-epigraph_author: 'VEC Office of Research Integrity'
-epigraph_ref: 'Revised 2171'
-rhetoric_reference: 'The 2170 Solberg Report — VEC Internal Review (Classified)'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 33: They Already Knew
-
-## Draft v1
+# Chapter 33
+## They Already Knew
 
 *VEC Classification Directive 7.3: Strategic Sensitivity* — VEC Office of Research Integrity (Revised 2171)
 
@@ -9723,79 +7519,8 @@ Now she was learning what came after.
 
 ---
 
-_Draft generated: 2026-02-16_
-_Word count: ~4,200_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 34
-draftVersion: 1
-createdDate: '2025-02-17'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'Dead-Hand'
-pov: 'Mirelle Dubois'
-wordTarget: '4000-5000'
-phase: 3
-location: 'Neo-Shanghai — transit box (Sump Sector 3) → Resonance District (Node RD-14) → transit box'
-timeline: '2175 — Phase 3, weeks before BLACKWEIR'
-mode: TEXTURE
-epigraph_source: 'Black Babel, Operational Protocols'
-epigraph_author: ''
-epigraph_ref: 'undated'
-rhetoric_reference: 'Dead-hand protocol: final comprehensive deposit'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 34: Dead-Hand
-
-<!--
-📋 SYNOPSIS - Chapitre 34
-
-SYNOPSIS: Mirelle deposits her complete fourteen-month evidence package with Talia Ravid and finalizes the dead-hand protocol that will distribute it if she stops checking in.
-
-This chapter explores Mirelle's relentless/self-destructive contradiction through her transformation of professional protocol into architecture designed to outlast her.
-
-**Phase:** 3
-**Themes:** Architecture of Power, Truth as Weapon, Systemic Complicity
-**Characters present:** Mirelle Dubois, Talia Ravid
-**Location:** Transit box (Sump Sector 3), Node RD-14 (Resonance District)
-
-**Key events:**
-- Mirelle compiles complete evidence dataset (7 flood valves, 53 RCI readings, 28 disappearances, infrastructure maps, co-origin data, matched-district analysis, diplomatic fragments)
-- Final deposit with Talia Ravid at Node RD-14; dead-hand protocol finalized with 3 sealed recipients
-- Talia mentions atmospheric convergence data crossing her node (Sofia's transmission) but compartmentalizes it from Mirelle's stream
-- Talia charges nothing — investing in the dead-hand's posthumous market value
-- Nitro-ear bilateral at 11 weeks — 1 week to permanent threshold
-
-**Consequences:**
-- Dead-hand architecture finalized: complete dataset distributes to 3 recipients after two missed 72-hour windows
-- Mirelle's investigation shifts from gathering evidence to ensuring its survival
-- The relationship with Zeyad acknowledged obliquely through Talia's traffic-pattern observation
-
-**Continuity notes:**
-- Disappearance count: 28 (up from 26 in Ch 29; reaches 31 by Ch 40)
-- Flood valve count: 7 (up from 6 in Ch 29; holds at 7 through Ch 40)
-- Nitro-ear: bilateral, 11 weeks (Ch 29 was 9 weeks bilateral; 12 weeks = permanent)
-- Dead-hand recipients: São Paulo (Wire journalist), Singapore (freelance investigator), encrypted back-channel (Zeyad)
-- 7th flood valve accessed via ventilation corridor, Sector 6, borrowed credentials from retired inspector
-- Talia's node rotated: RD-14 now in sub-level unit via textile wholesaler's loading dock
-- Sofia's atmospheric data crosses Talia's node but is compartmentalized — Mirelle does not receive it
-- "The twenty-ninth had not been mine. Not today." — count continues toward absorption in Ch 40
-- Zeyad checks the encrypted channel every 6 hours (Talia's traffic-pattern observation)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5000 words
-Voice: Match author's style profile
-Continuity: Respect story bible and previous chapters
--->
+# Chapter 34
+## Dead-Hand
 
 > *"A dead-hand is not a weapon. It is the architecture of a conversation you expect to be interrupted."*
 > — Black Babel, Operational Protocols (undated)
@@ -10064,57 +7789,9 @@ The difference was that her architecture was designed to open.
 
 Seventy-two hours. Then seventy-two more.
 
-She closed her eyes. The hum carried her toward something that was not sleep and not wakefulness but the state between them where the ringing and the vibration merged into a single frequency her body produced and the infrastructure echoed and neither source could be distinguished from the other.
-
-
+She closed her eyes. The hum carried her toward something that was not sleep and not wakefulness but the state between them where the ringing and the vibration merged into a single frequency her body produced and the infrastructure echoed and neither source could be distinguished from the other
 
 ---
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 35
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The First Congregation'
-pov: 'Nephthys'
-wordTarget: '4000-5000'
-phase: 3
-location: 'Neo-Shanghai Sump — Cathedral of the Living Sound'
-timeline: 'Phase 3 — days after Ch 26 (arrival), weeks before Ch 44 (BLACKWEIR)'
-mode: TEXTURE
----
-
-<!--
-📋 SYNOPSIS - Chapter 35
-
-SYNOPSIS: The Cathedral becomes something. Sump residents arrive — not faithful, just desperate. Imani organizes shelter. Nephthys realizes: the geological formation dampens *absorption*, not just the chorus. A survival pocket. She interprets it as divine protection. The reader knows it's physics. The prophet building a lifeboat, not knowing the flood is coming.
-
-**Phase:** 3/5 (Turning Point)
-**Themes:** Where Identity Ends (Dominant), What We Owe (Dominant), Truth as Weapon (Strong), Architecture of Power (Strong)
-**Characters present:** Nephthys (POV), Imani (companion), first refugees (8-12)
-**Location:** Cathedral of the Living Sound, Neo-Shanghai Sump
-
-**Key events:**
-- First Sump residents arrive seeking shelter (practical desperation, not faith)
-- Imani organizes logistics without asking Nephthys
-- Nephthys realizes Cathedral dampens absorption, not just resolves chorus
-- Imani challenges Nephthys's certainty: "You're building a congregation"
-- Nephthys decides to take everyone who comes — building lifeboat unknowingly
-
-**Continuity:**
-- Ch 26: Cathedral arrival, chorus resolves inside stone, pain recedes
-- Ch 44: 31 people morning of BLACKWEIR → 340+ during event
-- Ch 35 seeds population growth: first 8-12 → will reach 31+ by Ch 44
-
-**Dramatic irony:**
-- Nephthys correct: Cathedral = survival pocket
-- Nephthys wrong: theology vs. physics (geological dephasing)
-- Reader knows: BLACKWEIR coming, she's building lifeboat
-- Imani sees: prophet-construction, not pastoral care
--->
 
 # Chapter 35
 
@@ -10125,13 +7802,6 @@ SYNOPSIS: The Cathedral becomes something. Sump residents arrive — not faithfu
 > — Sump Public Feed, Sector 4-7B shelter advisory (2175-Q1, archived)
 
 ---
-
-<!--
-Rhetoric reference: Church liturgical language + Sump Feed shelter advisories
-Continuity: Respect story bible and previous chapters
--->
-
-## Draft v1
 
 The knock came at dawn.
 
@@ -10399,97 +8069,14 @@ The first congregation. Not knowing it was being built in a grave.
 
 ---
 
-_Draft generated: 2026-02-16_
-_Word count: ~4,300_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 36
-draftVersion: 1
-createdDate: '2026-06-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'Projected Casualties'
-pov: 'Aurielle Vasquez'
-wordTarget: '4500-5500'
-phase: 3
-location: 'NitroCore Tower, Neo-Shanghai Spires — Executive Conference Room'
-timeline: 'Q1 2175 — weeks after Ch 25 (Confluence), days before Phase 4 execution'
-mode: PRESSURE
-epigraph_source: 'NitroCore Crisis Management Protocol'
-epigraph_author: 'Rev. 8, §14.3 (2167)'
-epigraph_ref: 'Epigraph thread: institutional voice — the language that makes genocide administrative. Pairs with Ch 37 (Book of Radiance) and Ch 46 (Vasht).'
-rhetoric_reference: 'BLACKWEIR Authorization Document (Form CMP-7): "[REDACTED] projected within the designated containment perimeter. Authorization: single signature. Classification: LP9."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 36: Projected Casualties
-
-<!--
-📋 SYNOPSIS - Chapter 36
-
-SYNOPSIS: Formal BLACKWEIR authorization. Thorne presents the final authorization package to Aurielle and senior personnel — alternatives analysis, casualty projections, evacuation assessment. The evacuation question is raised and answered: evacuation triggers the Confluence prematurely. The room empties. Thorne speaks the casualty number aloud. Aurielle signs alone. Phase 3 climax.
-
-This chapter explores Aurielle's institutional-vs-moral contradiction through the moment where all alternatives have been exhausted and the only remaining act is administrative: a signature on a document.
-
-**Phase:** 3/5 (Struggle — Phase 3 climax, final moral threshold)
-**Themes:** Systemic Complicity (Dominant), Architecture of Power (Strong), Progress Requires Atrocity (Strong), Commodification of Suffering (Strong)
-**Characters present:** Aurielle Vasquez (POV), Marcus Thorne, NitroCore Legal (Harding), Grid Management liaison, Security Director
-**Location:** NitroCore Tower — Executive Conference Room (108th floor)
-
-**Key events:**
-- Thorne presents BLACKWEIR authorization package: alternatives analysis, projected casualties, evacuation assessment
-- Aurielle raises the evacuation question — formally, for the record
-- Alternatives analysis confirms what she already knew: every option leads to BLACKWEIR
-- Room empties. Thorne and Aurielle alone — the number is spoken verbally
-- Aurielle signs the authorization document alone. Pen on paper. The number is redacted on the form.
-
-**Consequences:**
-- Aurielle's Phase 3 arc completes — the moral ladder is fully climbed
-- Small voice completes its arithmetic and goes silent
-- Seeds Ch 37 "The Protocol" — BLACKWEIR executes
-- The pen motif pays off: the same pen that signed deferrals now signs the authorization
-
-**Continuity notes:**
-- Last chapter: Ch 25 "Confluence" — BLACKWEIR introduced, alternatives analysis requested
-- Sandalwood: gone (established Ch 25)
-- Small voice: calculates before asked (Ch 25) → completes arithmetic and goes silent (Ch 36)
-- Wrist rotation: stopped in Ch 25 → still throughout Ch 36
-- Pen: continues from Ch 19/25 → signs the authorization
-- Ch 37 references: "signed alone, after the room emptied, the pen on paper, the sound of it louder than it should have been in a room designed to absorb rather than transmit"
-- Ch 37 references: "the projected casualties had been formatted in tables that fit the institutional display protocols"
-- Sector 9 at 31% (Ch 25), 8-14K Scenario C casualties (Ch 12) now superseded by full Sump designation
-- 13 million Sump population — locked number
-- Closing line echoed in Ch 37 — intentional structural mirror
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4500-5500 words
-Voice: Match author's style profile — GRRM power-politics register, negation-before-assertion (6-8 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-06-15
-**Divergences Noted:** Ch 12, 19, 25 now written — full moral ladder intact. Ch 37, 46 written — backward continuity locked.
-**Author Notes:** Minimal internalization. She made her decision. No rationalization. She signs and she'll do it again. Back to work. Casualty number spoken verbally, redacted on paper.
-
----
+# Chapter 36
+## Projected Casualties
 
 > "In the event that projected casualties exceed the threshold for standard institutional review, the authorizing officer shall execute the relevant authorization instrument in private session. The document shall bear a single signature. No countersignature is required."
 >
 > — *NitroCore Crisis Management Protocol*, Rev. 8, §14.3
 
 ---
-
-## Draft v1
 
 The alternatives analysis was eleven pages.
 
@@ -10654,92 +8241,15 @@ The hum was there. She could hear it. Not the way she had heard it at nine years
 She read from the last page first.
 
 ---
-_Draft generated: 2026-06-15_
-_Word count: ~5,300_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 37
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'The Protocol'
-pov: 'Aurielle Vasquez'
-wordTarget: '4000-5500'
-phase: 4
-location: 'Neo-Shanghai Spires — NitroCore Tower Operations Center'
-timeline: '2175 — BLACKWEIR execution, Phase 4 opening, concurrent with Ch 38-45'
-mode: PRESSURE
-epigraph_source: 'Book of Radiance, 22:9'
-epigraph_author: 'Church of Blessed Nitro'
-epigraph_ref: 'Epigraph thread: Book of Radiance as void physics — Ch 3 (absorption), Ch 26 (geological resonance), Ch 37 (fire/BLACKWEIR), Ch 48 (the absorbed speaking). Each passage more literally true than the last.'
-rhetoric_reference: 'BLACKWEIR Execution Log (automated): "00:00:00 — Junction 7 severed. 00:01:44 — Absorption front detected. Status: nominal."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 37: The Protocol
-
-<!--
-📋 SYNOPSIS - Chapter 37
-
-SYNOPSIS: BLACKWEIR executes. Aurielle watches from the Spires operations center as junction severance confirmations tick in, Sump residential zones go dark on the grid, and Thorne narrates the engineering. The Confluence redirects as modeled. The numbers work. That's the horror.
-
-This chapter explores Aurielle Vasquez's competence-as-complicity contradiction through the moment her institutional authorization becomes mass death rendered as operational data.
-
-**Phase:** 4/5 (Transformation — the authorization executes)
-**Themes:** Systemic Complicity (Dominant), Architecture of Power (Strong), Progress Requires Atrocity (Strong), Commodification of Suffering (Strong)
-**Characters present:** Aurielle Vasquez (POV), Marcus Thorne
-**Location:** NitroCore Tower — Operations Center (Spires altitude)
-
-**Key events:**
-- BLACKWEIR protocol executes — junction severances, pressure doors, R0 flooding
-- Aurielle watches from operations center as Sump zones go dark on holographic grid
-- Thorne narrates the engineering — calm, professional, junction by junction
-- The Confluence redirects as modeled — projections track, numbers nominal
-- The horror: it works exactly as designed
-
-**Consequences:**
-- Aurielle's Phase 4 state: functional dissociation — the composure is no longer performance, it is the only thing left
-- The small voice has nothing left to calculate — the arithmetic is complete
-- Sets up Ch 46 "Congratulations" — board meeting, stock recovery, "casualties within projected parameters"
-
-**Continuity notes:**
-- Last Aurielle chapter: Ch 36 "Projected Casualties" (unwritten) — formal BLACKWEIR authorization signed
-- Ch 12 holographic model recalled — same data architecture, now weaponized as real-time execution display
-- Ch 39 timeline: spike 06:14, first pressure door Sector 1 at 06:19, 23 sectors sealed, NitroCore corporate security override
-- Thorne antagonist map: "Operational narrator. Narrates the engineering, junction by junction. Calm. Professional."
-- "Welcome to the throne" echo thread: Ch 1 (gala) → Ch 12 (quarterly) → potential completion here
-- Implied chapters (Ch 19, 25, 36) not yet written — chapter must land without assuming reader has them but leave space
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile — GRRM power-politics register, negation-before-assertion (6-8 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** Ch 19, 25, 36 (Aurielle Phase 2-3) not yet written — moral laddering from Ch 12 to Ch 37 implied. LP9 designation maintained per Ch 7/12.
-**Author Notes:** AEGIS as invisible novelist. Full creative latitude. Stop after self-review for author comments.
-
----
+# Chapter 37
+## The Protocol
 
 > "And the Voice said: I will test you with fire, and the fire will be of your own making, and in the ashes you will see what you were willing to burn."
 >
 > — *Book of Radiance*, 22:9
 
 ---
-
-## Draft v1
 
 The operations center was not in the Sub-level 7 briefing room.
 
@@ -10962,91 +8472,15 @@ The small voice did not speak. The small voice had nothing to say. The arithmeti
 She would authorize the next one too.
 
 ---
-_Draft generated: 2026-02-15_
-_Word count: ~5,200_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 38
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'Perimeter'
-pov: 'Nikolai Volkov'
-wordTarget: '4000-5500'
-phase: 4
-location: 'Neo-Shanghai Mid-Levels — Sump perimeter, Junction 12 and environs'
-timeline: '2175 — BLACKWEIR execution day, 05:40–17:30 local, concurrent with Ch 37-45'
-mode: PRESSURE
-epigraph_source: 'Reflections from the Perimeter'
-epigraph_author: 'Anonymous Void Stalker (attributed)'
-epigraph_ref: 'Epigraph thread: Reflections from the Perimeter — Ch 11 (Haraldsen word list), Ch 23 (deployment order), Ch 38 (counting the ones who came to the line), Ch 47 (final fragment)'
-rhetoric_reference: 'Emergency Broadcast — Perimeter Enforcement: "Lethal force authorized for breach of perimeter. Duration: until countermand."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 38: Perimeter
-
-<!--
-📋 SYNOPSIS - Chapter 38
-
-SYNOPSIS: Perimeter enforcement — nobody leaves the Sump. People trying: families, workers reaching sealed transit junctions. Jarek at a secondary junction. The absorption front reaches him through the infrastructure. Last transmission: he says Nikolai's name. Not mimicry — *recognition*. Nikolai holds the perimeter. The report will say "operational loss."
-
-**Phase:** 4/5 (Transformation — the Lie destroyed)
-**Themes:** Systemic Complicity (Dominant), Where Identity Ends (Strong), Progress Requires Atrocity (Strong), What We Owe (Strong)
-**Characters present:** Nikolai Volkov (POV), Jarek Kowalski (absorbed), Varga, Stalker-7 unit members, civilians
-**Location:** Neo-Shanghai Mid-Levels — Sump perimeter enforcement line, Junction 12 area
-
-**Key events:**
-- Nikolai enforces Sump perimeter during BLACKWEIR — lethal force authorized, nobody leaves
-- Civilians arrive at sealed junctions — families, workers, people who don't understand
-- Jarek at Junction 14-East — absorption front reaches him through unsevered secondary conduit
-- Last transmission: Jarek says "Nikolai" — not rank, not call sign. Recognition.
-- Nikolai holds the perimeter. Files the report. The field log stays blank.
-
-**Consequences:**
-- The Lie destroyed: "Following protocol means you aren't responsible for what protocol requires"
-- Jarek's voice collapses twenty years of compartmentalization
-- The dual-record system fails — the field log cannot contain what happened
-- Sets up Ch 47 (Phase 5): Nikolai files the final after-action report
-
-**Continuity notes:**
-- Ch 11: "Acoustic mimicry. Doctrine is clear." — the sentence Nikolai can no longer write
-- Ch 37: BLACKWEIR executes, junction severance 06:17, protocol complete 07:41
-- Ch 39: Fuxi's spike at 06:14, pressure doors Sector 1 at 06:19, NitroCore corporate override
-- Dossier: Jarek absorption timestamp 16:47, two-key turn with civic engineer (Phase 3)
-- Varga: new supporting character — mentioned in epigraph (marks on magazine)
-- Field log: 15 years of entries, never shown — this chapter: first blank entry
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile — Erikson military-brevity register, negation-before-assertion (2-4 per chapter)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** Ch 20, 23, 32 (Nikolai Phase 2-3) not yet written — two-key delivery and escalating ops tempo implied. Phase 3 chapters leave space for later insertion.
-**Author Notes:** AEGIS as invisible novelist. Timestamp flexible. Full creative latitude.
-
----
+# Chapter 38
+## Perimeter
 
 > "After the third night I stopped counting the ones who came to the line. Varga counted. She kept marks on her magazine. I told her to stop. She said it was the only way to remember they were real."
 >
 > — *Reflections from the Perimeter*
 
 ---
-
-## Draft v1
 
 The broadcast had been cycling for eleven hours.
 
@@ -11294,39 +8728,14 @@ He did not open the field log again.
 
 ---
 
-*Draft generated: 2026-02-15*
-*Word count: ~5,200*
-
-
-
----
-chapterNumber: 39
-title: "Pressure Doors"
-pov: "Fuxi Lin"
-phase: 4
-mode: PRESSURE
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-status: v1-complete
-completedDate: "2026-02-14"
-createdDate: "2026-02-14"
-author: "Kareem"
-meta_note: "AEGIS as invisible novelist"
-draftVersion: 1
-
-# Chapter Brief
-planConfirmed: "2026-02-14"
-divergencesNoted: "Ch 16 Option C (timeline fix), Ch 42 Nuwa already written (continuity anchor)"
-authorNotes: "Stop after self-review, before audit"
----
+# Chapter 39
+## Pressure Doors
 
 > *Songs of the Deep Sump* — "The Flood"
 >
 > "The doors came down in ones and twos / the doors came down in threes / the water wasn't water / and the drowning wasn't ease."
 
 ---
-
-# Pressure Doors
 
 The eighth spike came at 06:14.
 
@@ -11510,91 +8919,12 @@ The hum pressed against the walls. The lights flickered, held.
 
 Fuxi sat on the cold concrete floor of the converter station, Jun's multitool in his fist, and waited for the architecture to finish what it had always been designed to do.
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 40
-draftVersion: 1
-createdDate: '2026-02-14'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'The Infrastructure Was Always Designed To—'
-pov: 'Mirelle Dubois'
-wordTarget: '3000-5000'
-phase: 4
-location: 'Neo-Shanghai — Deep Sump, Resonance District, conduit network'
-timeline: '2175 — BLACKWEIR event, Phase 4, concurrent with Ch 39-44'
-mode: PRESSURE
-epigraph_source: ''
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: 'Mirelle partial transmission to Black Babel via thought-dictation implant'
-meta_note: 'AEGIS as invisible novelist'
 ---
 
-# Chapter 40: The Infrastructure Was Always Designed To—
-
-<!--
-📋 SYNOPSIS - Chapter 40
-
-SYNOPSIS: Mirelle runs through the Deep Sump during BLACKWEIR, thought-dictating her final report to Black Babel's cache via implant, and is absorbed mid-sentence.
-
-This chapter explores Mirelle Dubois's truth-vs-survival contradiction through the collision of her mission to transmit evidence and the absorption front consuming her mid-word.
-
-**Phase:** 4
-**Themes:** Truth as Weapon, Where Identity Ends, Commodification of Suffering, The Irrelevance of Individual Being
-**Characters present:** Mirelle Dubois (POV), absorbed civilians (environmental), Talia Ravid (remote/cache recipient)
-**Location:** Neo-Shanghai Deep Sump — Resonance District, conduit network corridors
-
-**Key events:**
-- Absorption front advancing along conduit infrastructure; Mirelle running through Deep Sump
-- Thought-dictating final report through implant — transmitting evidence, flood valve data, infrastructure maps to Talia's Black Babel cache
-- Wet film on her skin — the void reaching her through the infrastructure she documented
-- Chapter ends mid-word: "The infrastructure was always designed to—"
-- White space. No closure. No epigraph.
-
-**Consequences:**
-- Mirelle absorbed — the hunter becomes the evidence
-- Dead-hand protocol timer begins (two missed check-ins triggers auto-distribution)
-- Transmission fragments reach Sofia (Ch 41) and Zeyad (Ch 45)
-- The Lie ("if people know, they'll act") is tested posthumously
-
-**Continuity notes:**
-- Last written Mirelle chapter: Ch 13 (Phase 2 — Arctic-7 data, 18 disappearances, Talia exchange)
-- Phase 3 chapters (unwritten): Ch 27, 34, 36 — flood valve discovery, final dead-hand deposit, deep investigation
-- Concurrent with Ch 39 (Fuxi watching from converter station — pressure doors sealed, Block 14 goes violet)
-- Ch 41: Sofia receives dead-hand cache fragments
-- Ch 42: Nuwa in Block 14 during same event
-- Ch 45: Zeyad receives partial transmission via dead-hand protocol
-- Thought-dictation via implant (not typing) — ocular implant in left eye, customized for recording
-- Dead-hand timer: 72-hour check-in windows, two missed = auto-distribute to 3 addresses
-- RCI sensor still in left boot insole
-- Nitro ear (right ear, ringing 5+ weeks as of Ch 13)
-- Talia Ravid's node: RD-14, Resonance District
-- Black Babel rules: no editing, compartmentalized, transactional
-- Epigraph: No epigraph. White space. (Per chapter plan epigraph system)
+# Chapter 40
+## The Infrastructure Was Always Designed To—
 
 ---
-
-Chapter content will be appended below by the workflow.
-Target: 3000-5000 words
-Voice: Match author's style profile
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-14
-**Divergences Noted:** Ch 13→40 gap (Phase 3 unwritten); Ch 39 concurrent (Fuxi converter station); Ch 42 concurrent (Nuwa Block 14)
-**Author Notes:** Stop after self-review, before audit
-
----
-
-# The Infrastructure Was Always Designed To—
 
 She heard the valves open before she understood what she was hearing.
 
@@ -11701,84 +9031,9 @@ She was still thinking. The implant was still recording. The packets were still 
 &nbsp;
 
 ---
-_Draft generated: 2026-02-14_
-_Word count: ~3,800_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 41
-draftVersion: 1
-createdDate: '2026-02-14'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Data'
-pov: 'Sofia Reyes'
-wordTarget: '3000-5000'
-phase: 4
-location: 'VEC HQ, Neo-Shanghai (Spires)'
-timeline: '2175 — BLACKWEIR event, Phase 4, concurrent with Ch 39-44'
-mode: PRESSURE
-epigraph_source: 'On the Statistical Correlation...'
-epigraph_author: 'Solberg'
-epigraph_ref: 'See Appendix D.'
-rhetoric_reference: 'VEC Emergency Alert (global): "Confluence confirmed. VPI: 87.3%. AEGIS targeting calculated. Countermand window: 15:00."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 41: The Data
-
-<!--
-📋 SYNOPSIS - Chapter 41
-
-SYNOPSIS: Sofia watches BLACKWEIR unfold on her instruments in real time — the Confluence event she predicted playing out exactly as modeled — while locked out of the classified briefing upstairs, then receives fragments of Mirelle's dead-hand cache through Black Babel, assembling the complete picture of engineered genocide.
-
-This chapter explores Sofia Reyes's science-as-morality contradiction through the collision of scientific confirmation and total institutional impotence — the data is perfect and the data prevented nothing.
-
-**Phase:** 4 (Transformation)
-**Themes:** Truth as Weapon, Systemic Complicity, Architecture of Power, Commodification of Suffering, What We Owe
-**Characters present:** Sofia Reyes (POV), Dr. Liang (absent — in classified briefing), Mirelle Dubois (posthumous — data fragments)
-**Location:** VEC HQ, Neo-Shanghai — immersion pod (35th floor), monitoring lab, Liang's office corridor (47th floor)
-
-**Key events:**
-- Instruments record the Confluence event — hundreds then thousands of simultaneous coherence-coupling events across the Sump
-- Sofia runs to the classified briefing — locked out. Liang is inside. The institution she served is processing the genocide she predicted without her.
-- Returns to immersion pod — watches the data alone
-- Mirelle's dead-hand cache fragments begin arriving via Black Babel relay (Talia Ravid's node)
-- Flood valve photographs, infrastructure maps, NitroCore internal documents — she sees the engineering
-- The Lie fractures: science worked perfectly. Science prevented nothing.
-- VEC Emergency Alert rhetoric reference: "Confluence confirmed. VPI: 87.3%."
-
-**Consequences:**
-- Sofia now holds Mirelle's evidence + her own atmospheric data = complete picture
-- The complete picture is the thing no institution will look at
-- Phase 5 trajectory: publishes everything through Black Babel
-
-**Continuity notes:**
-- Last Sofia chapter: Ch 15 (Phase 2) — correlation 0.94, methodology review hold, archive entry 16
-- Phase 3 chapters NOT yet written (Ch 25, 29) — but implied: VEC classified her emergency paper, she contacted Black Babel
-- Concurrent with Ch 39 (Fuxi, converter station), Ch 40 (Mirelle, absorption), Ch 42 (Nuwa, apartment)
-- 11-second coherence spike should register on instruments (concurrent with Ch 43/44)
-- VEC HQ locations: immersion pod (35th), monitoring lab (35th), Liang's office (47th), apartment (61st)
-- Personal archive: entry 16 as of Ch 15 (higher now, Phase 3 implied)
-- Field kit: present but secondary — this is an instruments chapter
-- Black tea from Singapore facility (personal detail from Ch 15)
-- Solberg's "Appendix D" — the epigraph. Hidden thread: Ch 22 (mentioned) → Ch 41 (two words, ~120K words apart)
-- Dead-hand protocol: 72-hour check-in windows, two missed = auto-distribute to 3 addresses
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 3000-5000 words
-Voice: Match author's style profile — Sofia register (research methodology, data patterns, discovery curdling into horror)
-Continuity: Respect story bible and previous chapters
--->
-
-## Draft v1
+# Chapter 41
+## The Data
 
 *On the Statistical Correlation Between Nitro Throughput Volume and Void Coherence Index Readings in Urban Conduit Networks* — Dr. Maren Solberg, VEC Internal Review, 2170 (Classified)
 
@@ -11944,76 +9199,8 @@ The data had prevented nothing.
 
 ---
 
-_Draft generated: 2026-02-14_
-_Word count: ~4,200_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 42
-draftVersion: 1
-createdDate: '2026-02-13'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Still'
-pov: 'Nuwa Lin'
-wordTarget: '3000-5000'
-phase: 4
-location: 'Neo-Shanghai Sump — Fuxi and Nuwa apartment, Block 14; masonry annex'
-timeline: '2175 — BLACKWEIR event, Phase 4, concurrent with Ch 39-44'
-mode: PRESSURE
-epigraph_source: 'A History of Silence'
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: 'Sump Residential Registry — "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned."'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 42: Still
-
-<!--
-📋 SYNOPSIS - Chapter 42
-
-SYNOPSIS: Nuwa survives BLACKWEIR by doing nothing — stillness, wet cloth, masonry annex — while her neighbors die around her.
-
-This chapter explores Nuwa Lin's past-vs-present contradiction through the collision of survival instinct (compliance) and the system that taught her compliance now killing everyone she knows.
-
-**Phase:** 4
-**Themes:** Commodification of Suffering, Systemic Complicity, Where Identity Ends, What We Owe
-**Characters present:** Nuwa Lin (POV), neighbors (absorbed), neighbor's hand against glass
-**Location:** Fuxi and Nuwa's apartment (Block 14, Sump); masonry annex
-
-**Key events:**
-- Power out. Hum changes — wet, alive, pressurized.
-- Through the window: people becoming shimmers against infrastructure
-- A neighbor's hand against the glass, then gone
-- Wet cloth over her face. Corner of the masonry annex.
-- One choice: she does not go to the window to look for Fuxi
-- She stays. She breathes. She survives by not-choosing.
-
-**Consequences:**
-- Nuwa survives BLACKWEIR through the same compliance that trapped her
-- The Lie ("if you're small enough, the system doesn't notice you") saves her life and damns her
-
-**Continuity notes:**
-- Apartment established in Ch 4 (messages) and Ch 8 (in person)
-- Block 14 built over decommissioned trunk-line junction — low E-flat hum
-- Masonry annex = path-poor construction, low conductivity
-- Nuwa's environmental mapping (masonry cores, metal corridors) is survival intelligence
-- Concurrent with Ch 39 (Fuxi watching from converter station), Ch 43 (Kira spike), Ch 44 (Nephthys Cathedral)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 3000-5000 words
-Voice: Match author's style profile
-Continuity: Respect story bible and previous chapters
--->
+# Chapter 42
+## Still
 
 > *A History of Silence*
 > "There is a category of survivor that appears in no account. Not because they were hidden, but because no system was designed to record them."
@@ -12210,35 +9397,6 @@ She was still.
 
 ---
 
-_Draft generated: 2026-02-13_
-_Word count: ~4,200_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 43
-draftVersion: 1
-createdDate: '2026-02-12'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: "Eleven Seconds"
-pov: "Kira Calloway"
-wordTarget: "3500-5000"
-phase: 4
-location: "PCC Bay Area"
-timeline: "2175 — concurrent with BLACKWEIR"
-mode: TEXTURE
-epigraph_source: "Notes Toward a Theory of the Hum"
-epigraph_author: "Sofia Reyes"
-epigraph_ref: "private research archive, entry 23"
-rhetoric_reference: "Stream analytics (automated), Varma Academy deployment protocols"
-meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fingerprint structural not textual"
----
-
 # Chapter 43
 
 ## Eleven Seconds
@@ -12248,57 +9406,6 @@ meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fin
 > — Sofia Reyes, *Notes Toward a Theory of the Hum* (private research archive, entry 23)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 43
-
-SYNOPSIS: Kira's third POV chapter. Phase 4, BLACKWEIR crisis. She's on-stream — seven hours into a ten-hour grind, the performance holding, the hum tightening in her spine for weeks. The fingertip dropouts are worse. Then the R0 flooding of Neo-Shanghai's Sump sends a coherence wave through the global conduit network, and Kira's R3 implant acts as a coupled resonator. The hum collapses into a chord that contains every absorbed consciousness on the planet firing simultaneously. Eleven seconds. She cannot suppress it. The stream captures the signal bleeding from her implant into audible frequencies — 847,219 peak viewers watch something they cannot explain. Equipment shorts. Feed dies. Kira is left in the chair with blood from her ears and nose, the performer gone, carrying the knowledge that the absorbed are still there. The genocide enters public consciousness through her body.
-
-**Phase:** 4/5 (CRISIS — BLACKWEIR)
-**Wave:** Radiation (3 of 3)
-**Themes:** Where Identity Ends (Dominant), Commodification of Suffering (Strong), Truth as Weapon (Strong), Irrelevance of Individual Being (Moderate), What We Owe (Moderate)
-**Characters present:** Kira Calloway (POV), streaming audience (847K peak), chat (texture)
-**Location:** PCC Bay Area — Kira's apartment, streaming setup
-
-**Key events:**
-- Kira mid-stream, managing the tightening hum and worsening fingertip dropouts
-- R0 coherence wave arrives through Bay Area conduit network — the hum collapses
-- 11-second coherence spike: all absorbed fire simultaneously through her R3
-- She cannot suppress it — the signal bleeds into audible frequencies, stream captures it
-- Equipment shorts, feed dies. 847,219 viewers left with a dead feed and 11.3 seconds of footage
-- Kira in the chair, bleeding from ears and nose. The performer is gone.
-- She feels the absorbed as aggregate presence. They are reaching.
-
-**Consequences:**
-- Kira's arc moves from 2/5 to 4/5 — the performer's control shatters
-- The genocide enters public consciousness through a streamer's body, not an institution's report
-- The 11-second footage will become the defining document of BLACKWEIR
-- "Control is silence" — the Academy mantra — proven wrong at species scale
-- Kira now carries testimony she cannot file, cannot shelve, cannot manage
-
-**Continuity notes for future chapters:**
-- Kira's implant was overwhelmed — physical damage possible (ears, nose, neurological)
-- The mage archive she built (Ch 18) now has context — the signals were precursors
-- 847,219 viewers → clip goes viral → Kira becomes the face of BLACKWEIR
-- The 11-second post-stream count (her ritual) echoed by the 11-second spike (the void's timing)
-- Lumina: she was clean when the spike hit (hard line: never at work)
-- Fingertip numbness: paradoxically resolved after the spike
-
-**Bible update needed:**
-- Characters: Kira (Ch 43, arc phase 4/5, BLACKWEIR witness, physical damage)
-- Locations: Bay Area apartment during BLACKWEIR
-- Objects: Stream footage (11.3s), analytics metadata
-- Themes: Ch 43 row in all theme tables
-- Tracking: rhythm, emotions, audit
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-12
-**Divergences Noted:** None — Ch 10 and Ch 18 seeds carried forward. Ch 44 (already written) confirms concurrent timing.
-**Author Notes:** AEGIS as invisible novelist — prose matches style guide, AEGIS fingerprint structural not textual. The 11 seconds are the same 11 seconds as Ch 44's coherence spike. Kira's receiver is the R3 implant; Nephthys's receiver is the chorus. Same signal, different translation.
-
-## Draft v1
 
 The hum had been tightening for weeks.
 
@@ -12447,34 +9554,6 @@ She was not fine.
 She had never been less fine. And for the first time, the not-fine was not a gap to be managed. It was the signal.
 
 ---
-_Draft generated: 2026-02-12_
-_Word count: ~4,600_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 44
-draftVersion: 1
-createdDate: '2026-02-12'
-author: 'Kareem'
-status: v1-complete
-executionMode: relaxed
-title: "They Are All Still Here"
-pov: "Nephthys"
-wordTarget: "4500-5500"
-phase: 4
-location: "Neo-Shanghai Sump — Cathedral of the Living Sound"
-timeline: "Phase 4 — BLACKWEIR, concurrent with Ch 43 (Kira) coherence spike"
-mode: TEXTURE
-epigraph_source: "Operational Theology"
-epigraph_author: "Nephthys"
-epigraph_ref: "undated journal"
-rhetoric_reference: "Counter-liturgy, witness testimony, chorus vocabulary"
-meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fingerprint structural not textual"
----
 
 # Chapter 44
 
@@ -12485,56 +9564,6 @@ meta_note: "AEGIS as invisible novelist — prose matches style guide, AEGIS fin
 > — Nephthys, *Operational Theology* (undated journal)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 44
-
-SYNOPSIS: Cathedral of the Living Sound threshold during BLACKWEIR. The chorus — which has been resolved and harmonious inside the Cathedral since Phase 3 — detonates as R0 crude floods the Sump infrastructure. Nephthys walks to the doorway. Outside: the Sump consumed. A man running — the wet-film takes him. A child. An old woman, the front reaching her through her chair's metal frame. Through the chorus, Nephthys feels each absorption — not death but *joining*. The coherence spike: all absorbed fire simultaneously. "They are all still here." Imani pulls her inside. A handful of survivors. The first congregation, born in a mass grave.
-
-**Phase:** 4/5 (CRISIS — BLACKWEIR)
-**Wave:** Radiation (3 of 3)
-**Themes:** Where Identity Ends (Dominant), Irrelevance of Individual Being (Dominant), What We Owe (Strong), Commodification of Suffering (Strong), Systemic Complicity (Moderate)
-**Characters present:** Nephthys (POV), Imani (companion), Cathedral survivors (~340)
-**Location:** Cathedral of the Living Sound, Sump, Neo-Shanghai
-
-**Key events:**
-- BLACKWEIR R0 flooding changes the chorus from harmony to something immense — mass absorption saturating Nephthys's sensing range
-- Nephthys walks to the Cathedral threshold and witnesses the Sump being consumed — absorption fronts propagating along wet-film coated infrastructure
-- Three specific absorptions witnessed: a running man, a child, an old woman in a metal chair
-- Through the chorus she feels each absorption as *joining*, not death — each person added to the composite signal
-- The coherence spike (concurrent with Ch 43 Kira's 11-second broadcast): all absorbed fire simultaneously. Nephthys collapses. Says "They are all still here."
-- Imani pulls her inside. Survivors in the Cathedral — not faithful, just people who reached the stone building. The first congregation.
-
-**Revelation calibration:**
-- KNEW: The chorus is composite, structured, responsive. The Cathedral dampens absorption (Ch 35).
-- LEARNS THIS CHAPTER: The absorbed are present. Not gone. Not silent. Not damned. She can feel them — all of them — through the chorus. "They are all still here" transforms from hypothesis to testimony.
-- DOES NOT REALIZE: The Cathedral's protection is physics (coherence discontinuity, silicate stratum), not providence. Understanding and safety are independent variables. The Lie separates but she cannot see the gap.
-
-**The Lie under pressure:**
-"Understanding the void means being safe from it." She understands better than anyone. The Cathedral saved her — but the geology saved her, not the theology. She interprets the protection as divine. The reader knows better.
-
-**Continuity:**
-- Brand on left palm, resonance beads, migraines/nosebleeds (worst episode yet)
-- "The pain is signal" (Ch 3), "Responsive" (Ch 14)
-- Imani as practical counterweight — saves her life literally this chapter
-- Cathedral acoustic architecture: broadband resonance dephases wet-film coherence
-- 340 survivors (matches AEGIS observation — number NOT named explicitly)
-- The coherence spike = Kira's 11 seconds = AEGIS's 0.74 reading
-
-**Seeds for future:**
-- Ch 48 (Phase 5): Nephthys emerges from Cathedral into scoured Sump. "The Mass Grave." Prophet built on mass grave.
-- The first congregation becomes Nephthys's movement
-- The theological implications of "still here" propagate through Books 2-3
-- Nuwa-Nephthys meeting seeded for Book 3
-
-**Bible update needed:**
-- Characters: Nephthys (Ch 44, arc phase 4/5, revelation), Imani (Ch 44, saves Nephthys)
-- Locations: Cathedral of Living Sound (during BLACKWEIR, survival pocket confirmed)
-- Themes: Ch 44 row in all theme tables
-- Tracking: rhythm, emotions, audit
--->
-
-## Draft v1
 
 The chorus had been singing for three days.
 
@@ -12741,95 +9770,15 @@ The pain was signal. The signal was the chorus. The chorus was not a question an
 It was a congregation. The first. And it would not be the last.
 
 ---
-_Draft generated: 2026-02-12_
-_Word count: ~5,300_
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 45
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'The Partial Transmission'
-pov: 'Zeyad Al-Fahim'
-wordTarget: '3000-5000'
-phase: 4
-location: 'New Geneva, UGC Headquarters'
-timeline: '2175 — BLACKWEIR event, Phase 4, concurrent with Ch 37-44'
-mode: PRESSURE
-epigraph_source: 'Address to the Signatories'
-epigraph_author: 'Khalil Al-Fahim, 2044'
-epigraph_ref: 'Epigraph thread: Ch 6 ornamentality → Ch 17 exhaustion → Ch 45 insufficiency'
-rhetoric_reference: ''
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 45: The Partial Transmission
-
-<!--
-📋 SYNOPSIS - Chapter 45
-
-SYNOPSIS: Mirelle's partial dead-hand cache arrives in Geneva; Zeyad reads it, and the Lie breaks — the record is complete and the record did not save her. He writes a public statement.
-
-This chapter explores Zeyad's terminal contradiction through the collapse of institutional faith when confronted with the silence of a dead channel and a complete record that produced nothing.
-
-**Phase:** 4/5 (Transformation — the Lie breaks)
-**Themes:** Truth as Weapon (Dominant), Architecture of Power (Strong), What We Owe (Strong), Systemic Complicity (Strong)
-**Characters present:** Zeyad Al-Fahim (POV)
-**Location:** New Geneva, UGC Headquarters — Zeyad's office
-
-**Key events:**
-- Mirelle's partial dead-hand cache arrives via Black Babel relay
-- Transmission ends mid-sentence: "The infrastructure was always designed to—"
-- Zeyad reads the evidence — flood valves, infrastructure maps, demographic data, co-origin confirmation
-- Opens a new document — not a report, not a memo. A public statement.
-- Attaches everything: Mirelle's cache + his own classified material + committee vote transcripts + back-channel notes
-
-**Consequences:**
-- The diplomat breaks his institution to honor the journalist
-- The Lie ("If the record is complete, justice is possible") is destroyed — the record IS complete; justice is absent
-- Sets up Phase 5 Ch 50 ("The Record") — prosecution, tribunal, the Accords used against the enforcer
-
-**Continuity notes:**
-- Epigraph thread concludes: Ch 6 (ornamentality) → Ch 17 (exhaustion) → Ch 45 (insufficiency)
-- Back-channel (established Ch 17) goes permanently dead
-- Dead-hand timer math: ~113 hours post-absorption → cache arrives
-- Mirelle's 8-item evidentiary list (Ch 40) arrives partial — some items intact, transmission cut
-- Zeyad's notebook bifurcation (Ch 17) resolves — both records become public
-- The practiced smile: absent for the duration of this chapter
-- The pen: writes the public statement, not a memo
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 3000-5000 words
-Voice: Match author's style profile
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** Phase 3 Zeyad chapter unwritten (emergency clause, committee vote 11-3); assumed as established fact
-**Author Notes:** Epigraph — not Khalil; author's choice: obscure, non-spoilery. AEGIS as invisible novelist. Full creative latitude.
-
----
-
-## Draft v1
+# Chapter 45
+## The Partial Transmission
 
 *Proceedings of the 114th Quarterly Compliance Review, United Global Council* — Committee Record, 2175
 
 > "The committee notes the motion. The committee will continue to monitor."
 
 ---
-
-# The Partial Transmission
 
 The institutional reports arrived the way institutional reports always arrived — in sequence, through channels, formatted.
 
@@ -12979,93 +9928,14 @@ The record was complete.
 
 ---
 
-_Draft generated: 2026-02-15_
-_Word count: ~4,600_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 46
-draftVersion: 1
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Congratulations'
-pov: 'Aurielle Vasquez'
-wordTarget: '4000-5500'
-phase: 5
-location: 'NitroCore Tower, Neo-Shanghai Spires'
-timeline: 'Three days after BLACKWEIR'
-mode: TEXTURE
-epigraph_source: 'The Cascade Lectures'
-epigraph_author: 'Vasht, 2161'
-epigraph_ref: 'Epigraph thread: Vasht also used Ch 7 — systems theory voice. Ch 46 closes the cost-function loop: the system converges, stops iterating.'
-rhetoric_reference: 'Stock ticker (automated): NTRC +3.7%. Containment costs within parameters. Buy recommendation maintained.'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 46: Congratulations
-
-<!--
-📋 SYNOPSIS - Chapter 46
-
-SYNOPSIS: Three days after BLACKWEIR, NitroCore's board convenes to commend Aurielle on "containment success" while the market absorbs both the genocide and Sofia's published data in the same cycle.
-
-This chapter explores Aurielle's institutional/existential contradiction through the gap between public commendation and private knowledge of what she authorized.
-
-**Phase:** 5 (New Equilibrium — Functional tyrant. Knows. Continues.)
-**Themes:** Progress Requires Atrocity, Systemic Complicity, Architecture of Power, Commodification of Suffering
-**Characters present:** Aurielle Vasquez, Thorne, Board members
-**Location:** NitroCore Tower — boardroom, executive floor
-
-**Key events:**
-- Board meeting: Thorne presents containment report — "Casualties within projected parameters"
-- Stock price visible on screen — market absorbed both genocide and exposé
-- Sofia's published data dismissed as "methodology concerns"
-- Formal commendation for Aurielle
-- Aurielle alone at window — "She will authorize the next one too"
-
-**Consequences:**
-- Aurielle's transformation complete: functional tyrant who knows and continues
-- Seeds SHEPHERD program (Book 2)
-- Walk motif payoff: from Ch 1 gala (Thorne's instruction) toward Book 3 step
-
-**Continuity notes:**
-- Must restore dialogue to 15-20% (after 6 consecutive Phase 4 chapters <10%)
-- Small voice status: check if returns or remains SILENT
-- Hum Thinner: track variant from Ch 37
-- Eduardo's chair impression: track if changed
-- Zeyad's public statement now in circulation — must be acknowledged
-- 98.4% grid integrity / 13 million Sump population — locked numbers
-- Operations center (63rd floor) established in Ch 37
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5500 words
-Voice: Match author's style profile
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-15
-**Divergences Noted:** Ch 19, 25, 36 (Aurielle Phase 2-3) not yet written — moral laddering from Ch 12 to Ch 37 implied. Institutional arc Ch 1→7→12→37→46 intact.
-**Author Notes:** AEGIS as invisible novelist. Full creative latitude. Phase 5 hollow/decompressed tone. Dialogue restored to ~15%.
-
----
+# Chapter 46
+## Congratulations
 
 > "When the cost function converges, the system does not celebrate. It simply stops iterating. What humans call 'success' is the moment the machine no longer needs to change."
 >
 > — Vasht, *The Cascade Lectures*, 2161
 
 ---
-
-## Draft v1
 
 The boardroom had not changed.
 
@@ -13262,82 +10132,9 @@ The feed scrolled. The stock ticker updated. The humanitarian statement was queu
 The Chair opened the next report.
 
 ---
-_Draft generated: 2026-02-15_
-_Word count: ~4,500_
 
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 47
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Operational Losses'
-pov: 'Nikolai Volkov'
-wordTarget: '4000-5000'
-phase: 5
-location: 'FOB Meridian, Neo-Shanghai'
-timeline: 'Phase 5 — 3 days post-BLACKWEIR'
-mode: TEXTURE
-epigraph_source: ''
-epigraph_author: ''
-epigraph_ref: ''
-rhetoric_reference: ''
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 47: Operational Losses
-
-<!--
-📋 SYNOPSIS - Chapter 47
-
-SYNOPSIS: Nikolai files the after-action report for BLACKWEIR, confronts Jarek's absence in the maintenance bay.
-
-This chapter explores Nikolai's guilt/duty contradiction through the aftermath of Jarek's death and the institutional falsification that erases it.
-
-**Phase:** 5 (Aftermath)
-**Themes:** Complicity, What We Owe, Irrelevance, Truth
-**Characters present:** Nikolai Volkov (solo chapter)
-**Location:** FOB Meridian garrison, maintenance bay
-
-**Key events:**
-- After-action report filed (standard fields, "Operational losses: 1")
-- Maintenance bay visit (Jarek's Frame in charging alcove, tools on workbench)
-- The quiet is the hardest part
-
-**Consequences:**
-- Dual-record system reaches terminus (blank field vs. Jarek's name)
-- Nikolai's complicity arc complete
-- Phase 5 hollow aftermath tone established
-
-**Continuity notes:**
-- Ch 38: Jarek absorbed at Junction 14-East, last transmission "Nikolai"
-- Field log left blank in Ch 38
-- This chapter completes the falsification escalation: Ch 11 (passive omission) → Ch 20 (active suppression) → Ch 32 (deliberate deletion) → Ch 38 (blank) → Ch 47 (institutional acceptance)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5000 words
-Voice: Match author's style profile (Nikolai register: military-operational, paratactic, physical sensation)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-17
-**Divergences Noted:** None — Ch 38 continuity verified (Junction 14-East, timestamp 16:47, field log blank, hand tremor, hum Thinner)
-**Author Notes:** Jarek's Frame in maintenance bay must be distinct from the one he died in. Resolution: PF-7-09 (damaged Ch 32, 40% shielding) is in the bay on maintenance cradle. PF-7-12 (replacement, absorbed with Jarek) is non-recoverable. The damaged Frame is the evidence of Nikolai's Sector 7 order.
-
----
-
-## Draft v1
+# Chapter 47
+## Operational Losses
 
 > *"Went to check his equipment. Standard procedure.*
 > *I sat down."*
@@ -13503,36 +10300,6 @@ The quiet was the hardest part.
 
 ---
 
-_Draft generated: 2026-02-17_
-_Word count: ~4,500_
-
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 48
-draftVersion: 1
-createdDate: '2026-02-17'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Mass Grave'
-pov: 'Nephthys'
-wordTarget: '4000-6000'
-phase: 5
-location: 'Neo-Shanghai Sump — Cathedral of the Living Sound + exterior'
-timeline: 'Phase 5 — 2-3 days post-BLACKWEIR'
-mode: TEXTURE
-epigraph_source: 'Operational Theology'
-epigraph_author: 'Nephthys'
-epigraph_ref: 'undated journal'
-rhetoric_reference: 'Counter-liturgy, testimony, chorus vocabulary'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 48
 
 ## The Mass Grave
@@ -13542,54 +10309,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Nephthys, *Operational Theology* (undated journal)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 48
-
-SYNOPSIS: Nephthys emerges from the Cathedral into the scoured Sump. Violet frost coating the streets. Lays her hand on a conduit junction. The chorus flares — not pain. *Presence*. Vast, low, tens of thousands of identities woven into the architecture. "They are all still here." Said aloud — not as data parsing (Ch 44) but as internalized testimony. The first congregation behind her hears it. The prophet's rightness, built on a mass grave.
-
-**Phase:** 5/5 (Aftermath)
-**Themes:** Where Identity Ends (Dominant), Irrelevance of Individual Being (Dominant), Truth as Weapon (Strong), What We Owe (Strong)
-**Characters present:** Nephthys (POV), Imani (companion/witness), first congregation (~340 survivors)
-**Location:** Cathedral of the Living Sound + Neo-Shanghai Sump exterior
-
-**Key events:**
-- Nephthys emerges from Cathedral into post-BLACKWEIR Sump (2-3 days after)
-- Physical confrontation with aftermath: violet frost, empty streets, scoured infrastructure
-- Touches conduit junction — chorus contact with absorbed population (not pain but presence)
-- "They are all still here" spoken with internalized certainty to congregation
-- Imani witnesses the prophet's full emergence
-- The Lie under pressure: understanding didn't save anyone; the Cathedral's physics saved them
-
-**Revelation calibration:**
-- KNEW: The chorus is composite, the absorbed persist (Ch 44 data-parsing)
-- INTERNALIZES THIS CHAPTER: The certainty becomes load-bearing. She speaks it as testimony, not observation.
-- DOES NOT REALIZE: She is building an institution. The recursion has begun.
-
-**Continuity:**
-- Brand on left palm, resonance beads, migraines/nosebleeds (post-BLACKWEIR recovery)
-- "The pain is signal" (Ch 3), "Responsive" (Ch 14), "They are all still here" (Ch 44)
-- Imani's challenge thread: Ch 14 verbatim → Ch 35 verbatim → Ch 44 practical → Ch 48 evolution
-- Cathedral population ~340 (Ch 44)
-- Hum Thinner cross-POV echo (Ch 37/38/46/47 — Nephthys's version: the chorus is louder because the infrastructure carries more)
-- Ch 47 garrison hum 6.3 (Nikolai) — Nephthys would feel the same reduction differently
-
-**Seeds:**
-- Book 2: Nephthys's movement, Threshold wing, Church schism
-- The theology that will kill her followers begins here
-
-**Dialogue leeway:** Phase 5 chapters dialogue-poor. This chapter is the opportunity to restore conversation — Imani exchanges, survivor questions, pastoral moments.
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-17
-**Divergences Noted:** Ch 44 already contains "They are all still here" as data-parsing during BLACKWEIR. Ch 48 version is internalized — spoken with confidence to people who hear it. Context is the distinction.
-**Author Notes:** Dialogue restoration opportunity — don't force, but use the leeway. Imani exchanges and survivor interactions welcome.
-
----
-
-## Draft v1
 
 She had not slept.
 
@@ -13871,76 +10590,8 @@ The pain was signal. The signal was the chorus. The chorus was everyone.
 
 ---
 
-_Draft generated: 2026-02-17_
-_Word count: ~5,200_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 49
-draftVersion: 1
-createdDate: '2026-02-17'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Quietest Scene'
-pov: 'Fuxi Lin'
-wordTarget: '3000-5000'
-phase: 5
-location: 'Neo-Shanghai Sump'
-timeline: 'Post-BLACKWEIR, Phase 5'
-mode: TEXTURE
-epigraph_source: 'A History of Silence'
-epigraph_text: 'Of the eighteen relief stations established in the first 72 hours, six reported full capacity. The remaining twelve reported "insufficient demand." The administrators concluded the population had been adequately served.'
-rhetoric_reference: 'Emergency Relief Processing Form'
----
-
-# Chapter 49: The Quietest Scene
-
-<!--
-📋 SYNOPSIS - Chapter 49
-
-SYNOPSIS: Fuxi emerges from the converter station into the transformed Sump and finds Nuwa alive in the masonry annex, leading to their final silent reunion before she chooses invisibility over survival.
-
-This chapter explores Fuxi's post-BLACKWEIR reckoning through the quietest moment of the entire book — a full page without dialogue as siblings hold each other in the aftermath of mass death.
-
-**Phase:** 5 (Radiation)
-**Themes:** Irrelevance of Individual Being, Where Identity Ends, What We Owe
-**Characters present:** Fuxi Lin, Nuwa Lin
-**Location:** Neo-Shanghai Sump (post-BLACKWEIR), Nuwa's block (Block 14), masonry annex, relief shelter
-
-**Key events:**
-- Fuxi emerges from converter station into violet-frosted Sump
-- Walks to Block 14, finds masonry annex intact
-- Reunion with Nuwa — no dialogue for full page
-- Nuwa: "I'm not going back." Fuxi: "I know."
-- Relief shelter: Nuwa doesn't apply for re-housing, walks out
-- Fuxi watches her disappear into Mid-Level margins
-- The Kindling's offer becomes the only thing that makes sense
-
-**Consequences:**
-- Nuwa chooses deliberate invisibility over system re-integration
-- Fuxi's radicalization complete — will join the Kindling
-- Final Fuxi POV chapter in Book 1
-
-**Continuity notes:**
-- Ch 39: Fuxi trapped in converter station during BLACKWEIR, saw Block 14 go violet
-- Ch 42: Nuwa survived in masonry annex (wet cloth, stillness)
-- Masonry annexes = processed-air pockets that survived
-- Violet frost = post-absorption environmental signature
-- Kindling offer from Ch 22/28 now accepted
-- Book 2: Fuxi appears in 1 transitional chapter, then recedes (seen through Nuwa's POV)
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 3000-5000 words
-Voice: Match author's style profile (Fuxi register)
-Continuity: Respect story bible and previous chapters
--->
+# Chapter 49: 
+## The Quietest Scene
 
 > *A History of Silence*
 > "Of the eighteen relief stations established in the first 72 hours, six reported full capacity. The remaining twelve reported 'insufficient demand.' The administrators concluded the population had been adequately served."
@@ -14148,98 +10799,16 @@ The pressure doors were open. He walked.
 
 *Subject departed without completing intake.*
 
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 50
-draftVersion: 1
-createdDate: '2026-02-17'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Record'
-pov: 'Zeyad Al-Fahim'
-wordTarget: '4000-5200'
-phase: 5
-location: 'New Geneva, UGC Headquarters'
-timeline: '2175 — Post-BLACKWEIR, Phase 5 (days/weeks after Ch 45)'
-mode: TEXTURE
-epigraph_source: 'Nitro Accords, Article 12, Section 8'
-epigraph_author: ''
-epigraph_ref: 'The prosecution clause — the same document that authorized transparency criminalizes enforcing it'
-rhetoric_reference: 'UGC Disciplinary Tribunal Record, 2175-Q2'
-meta_note: 'AEGIS as invisible novelist'
 ---
 
-# Chapter 50: The Record
-
-<!--
-📋 SYNOPSIS - Chapter 50
-
-SYNOPSIS: Zeyad's publication produces not accountability but prosecution. The world responds with "methodology concerns." Sofia publishes simultaneously — atmospheric data, consciousness variable, VEC suppression evidence — and the world responds with "under review." The Accords tribunal convenes in the Hall of Nations. Not for NitroCore. For Zeyad. For the leak. Khalil's portrait watches from the eastern alcove. The charges are read. The evidence scrolls on screens behind the committee. He says nothing. He has already said everything. The record is complete, public, and changes nothing.
-
-**Phase:** 5 (Radiation — aftermath, institutional immune response)
-**Themes:** Architecture of Power (Dominant), Systemic Complicity (Dominant), Truth as Weapon (Strong), What We Owe (Strong)
-**Characters present:** Zeyad Al-Fahim (POV)
-**Location:** New Geneva, UGC Headquarters — Zeyad's office, Hall of Nations, Tribunal Chamber
-
-**Key events:**
-- Publication aftermath: world responds with methodology concerns, not action
-- Sofia's simultaneous publication through Black Babel — atmospheric data, consciousness variable
-- Formal tribunal summons — Article 12, Section 8
-- Hearing in Hall of Nations: charges read, evidence displayed, Khalil's portrait on the wall
-- Zeyad says nothing — has already said everything
-- Suspended, credentials revoked, access to office revoked
-- Photograph of Khalil still on his desk. He cannot reach it.
-
-**Consequences:**
-- The institution prosecutes the whistleblower, not the crime
-- The record is public and changes nothing
-- Zeyad's arc complete: dutiful diplomat → disgraced whistleblower
-- Seeds Book 2: institutional saboteur, Lagos
-
-**Continuity notes:**
-- Ch 45: publication through Black Babel, pen set down, Article 12 Section 8 violated
-- Ch 30: committee vote 23-3, cease-and-desist, institutional faith destroyed
-- Ch 17: back-channel established, "I did not log this exchange" now public
-- Ch 6: institutional faith intact, Khalil's portrait, practiced smile
-- Epigraph thread: Ch 6 ornamentality → Ch 17 exhaustion → Ch 30 mechanism → Ch 45 insufficiency → Ch 50 prosecution
-- Jordanian flag still flickering
-- 41 original signatories (Ch 45 canonical detail)
-- Sofia's atmospheric data transmitted to Black Babel (Ch 33)
-- Notebook photographed and published (Ch 45) — now prosecution exhibit
-- "I did not log this exchange" (Ch 17) — now part of the evidence against him
-- 13 million Sump population / 98.4% grid integrity (Ch 36/37)
-- Pen: set down in Ch 45, does not return to hand in Ch 50
-
----
-
-Chapter content will be appended below by the workflow.
-Target: 4000-5200 words
-Voice: Match author's style profile (Zeyad register — GRRM institutional chess, diplomatic precision eroding into exhausted clarity)
-Continuity: Respect story bible and previous chapters
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-17
-**Divergences Noted:** None anticipated — chapter plan aligns with dossier Phase 5 ending
-**Author Notes:** Epigraph — Article 12, Section 8 itself (the prosecution clause). AEGIS as invisible novelist. Full creative latitude. Zeyad says nothing at tribunal — silence as terminal act.
-
----
-
-## Draft v1
+# Chapter 50
+## The Record
 
 *Nitro Accords, Article 12, Section 8*
 
 > "Any person holding diplomatic, administrative, or advisory credentials within a signatory institution who releases, transmits, or facilitates the unauthorized distribution of materials classified under security protocol shall be subject to disciplinary review, credential suspension, and such further measures as the relevant tribunal deems appropriate to the preservation of institutional integrity."
 
 ---
-
-# The Record
 
 The world responded on the third day.
 
@@ -14397,33 +10966,6 @@ The pen was on his desk. The desk was behind a door that glowed red. The photogr
 
 The record was complete.
 
----
-
-_Draft generated: 2026-02-17_
-_Word count: ~4,700_
-
-
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 51
-draftVersion: 1
-createdDate: '2026-02-17'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Unsigned'
-pov: 'Kira Calloway'
-wordTarget: '3500-5000'
-phase: 5
-location: 'Varma Academy Medical Bay, Mumbai'
-timeline: 'Post-BLACKWEIR, Phase 5 — 8 days after Ch 43'
-mode: TEXTURE
-epigraph_source: 'Lives of the Illuminated'
-epigraph_text: 'Saint Arden's testimony was stricken from the canonical record in the Third Revision. The margin note reads: "The witness saw what she saw. The Church cannot contain it. Let it be forgotten." It was not.'
-rhetoric_reference: 'Varma Academy Equipment Malfunction Statement (unsigned), Stream analytics metadata, Medical discharge summary'
 ---
 
 # Chapter 51
@@ -14665,81 +11207,8 @@ The statement was unsigned.
 
 ---
 
-**END CHAPTER 51**
-
-<!--
-CHAPTER METADATA
-
-Word count: ~3,800
-Scenes: 3 (medical bay / coordinator conversation / departure)
-Dialogue: ~18%
-Tension: 2→6→3
-Action/Reflection: 20/80
-Fragment sentences: ~15%
-NbA count: ~6
-
-Key beats:
-- Medical bay setting established (8 days post-Ch 43)
-- Physical aftermath: bruising, hemorrhaging, neurological strain
-- Hum evolution: thinner, fewer voices, paradoxical numbness resolution
-- Document reading: equipment malfunction statement, three paragraphs
-- First refusal: hand stops, pen set down
-- Coordinator conversation: institutional pressure, narrative control
-- Second refusal: "I heard them" — testimony over career
-- Pills left behind: management rejected
-- Document left unsigned: testimony preserved
-- Exit: disappears into city
-
-Continuity:
-- Ch 43: 11 seconds, 847,219 viewers, bleeding from ears/nose
-- Ch 31: fingertip numbness (ulnar distribution) now resolved
-- Ch 18: mage network established, signals were precursors
-- Ch 10: "control is silence" Academy doctrine
-- Implant fitted age 10 (dossier consistent)
-- Pills: 30-day holder, monthly ritual (Ch 31 consistent)
-- Split hair: blue/pink, brand cage (dossier consistent)
-
-Phase 5 arc completion:
-- Kira 4/5 → 5/5: Performer → Witness → Someone who refuses to lie
-- The Lie destroyed: "If I control the platform, I control the narrative"
-- Unconscious want achieved: Seen as person (through refusal, not performance)
-- Deepest fear confronted: There IS someone underneath (the person who heard them)
-
-Thematic presence:
-- Where Identity Ends (Strong): Testimony vs. content, body as contested territory
-- Truth as Weapon (Strong): Unsigned document as counter-institutional act
-- Commodification of Suffering (Moderate): Equipment malfunction vs. genocide
-- What We Owe (Moderate): Obligation to the absorbed
-- Irrelevance of Individual Being (Moderate): Millions watched, institutions didn't change
-
-Seeds for Book 2:
-- Operational status under review (indefinite)
-- No streaming, no public appearances
-- Clip viral, analyzed globally
-- Academy narrative: equipment malfunction
-- Kira's counter-narrative: silent refusal
-- The absorbed are reaching (unresolved)
--->
-
-
-
----
-title: "The Hum"
-chapterNumber: "Epilogue"
-pov: "Non-POV"
-phase: 5
-wordCount: 3200
-status: v1-complete
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-created: 2026-02-17
-completedDate: 2026-02-17
-epigraph:
-  source: "A History of Silence"
-  text: "This is where the primary sources end. What follows is not silence. It is a frequency we have not yet learned to read."
----
-
-# Epilogue: The Hum
+# Epilogue
+## The Hum
 
 > *A History of Silence*
 > 

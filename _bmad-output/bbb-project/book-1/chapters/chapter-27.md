@@ -7,7 +7,7 @@ chapter: 27
 title: "The Non-Physical Variable"
 pov: "Sofia Reyes"
 phase: 3
-location: "VEC HQ, Neo-Shanghai — Atmospheric Anomaly Group, Floor 63"
+location: "VEC HQ, Neo-Shanghai — Atmospheric Anomaly Group, Floor 35"
 wordCount: 3787
 created: "2026-02-16"
 lastModified: "2026-02-16"
