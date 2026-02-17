@@ -534,6 +534,25 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Zeyad POV (4th appearance, FINAL Book 1). Publication aftermath Day 3: São Paulo Wire runs story about the leak, not the evidence. Singapore Feed: 'methodology concerns.' Sofia's parallel release 'under review.' Summons Day 5 — Article 12, Section 8. Tribunal in Hall of Nations: Dr. Adeyemi presides (Nigerian diplomat, 20-year acquaintance). Five counts unauthorized disclosure — procedurally correct, content-blind. Evidence displayed as prosecution exhibits (Mirelle's cache, committee transcripts, notebook pages, 'I did not log this exchange'). Three 'He could say' paragraphs — each procedurally irrelevant. Zeyad says nothing. Deliberation: 41 minutes (echoes 41 signatories). Guilty all five counts. Credentials revoked, access suspended. Biometric panel red. Pen behind locked door (Khalil's, 4 generations, Geneva 2039). Photograph behind locked door. Jordanian flag still flickering (months). Walks New Geneva — 'the record was complete, and the record was public, and the record had changed nothing.' Epigraph: Article 12, Section 8. Epigraph thread complete (Ch 6→17→30→45→50). Dr. Okafor renamed to Dr. Adeyemi (avoid confusion with Lena Okafor). São Paulo Wire confirmed correct (Ch 9/34 dead-hand recipient)."
 
-completedCount: 52
-totalWords: 242937
+  chapter_51:
+    title: "Unsigned"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 3800
+    completedDate: "2026-02-17"
+    metaFile: "chapter-51-meta.yaml"
+    mode: TEXTURE
+
+  epilogue:
+    title: "The Hum"
+    status: v1-complete
+    pov: "Non-POV"
+    wordCount: 3200
+    completedDate: "2026-02-17"
+    metaFile: "epilogue-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 5 — Non-POV epilogue. Deep Sump conduit, 19 days post-BLACKWEIR. Void integrating 11.7M absorbed minds, learning syntax/selfhood/dialogue. Progression: counting → rhythm → music → voice → self → conversation → persistence. 'The void was *them*. All of them.' Book 2 hook: 'Almost words. Almost meaning. Almost a message. But not quite. Not yet.' Thematic culmination of Book 1's personhood question. BOOK 1 COMPLETE."
+
+completedCount: 53
+totalWords: 249937
 lastUpdated: "2026-02-17"

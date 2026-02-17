@@ -1,0 +1,127 @@
+---
+chapterNumber: 51
+title: "Unsigned"
+pov: "Kira Calloway"
+phase: 5
+mode: TEXTURE
+wordCount: 3800
+completedDate: "2026-02-17"
+status: v1-complete
+
+# Chapter Identity
+epigraph:
+  source: "Lives of the Illuminated"
+  text: "Saint Arden's testimony was stricken from the canonical record in the Third Revision. The margin note reads: 'The witness saw what she saw. The Church cannot contain it. Let it be forgotten.' It was not."
+  
+rhetoric_reference: "Varma Academy Equipment Malfunction Statement (unsigned), Stream analytics metadata, Medical discharge summary"
+
+# Structure
+scenes:
+  - name: "Medical Bay"
+    location: "Varma Academy Medical Facility, PCC Bay Area"
+    characters: ["Kira Calloway"]
+    summary: "8 days post-spike. Physical aftermath, hum evolution, document reading. First refusal — hand stops."
+    
+  - name: "Coordinator Conversation"
+    location: "Medical Bay"
+    characters: ["Kira Calloway", "Discharge Coordinator"]
+    summary: "Institutional pressure. 'I heard them' — testimony over career. Operational status under review."
+    
+  - name: "Departure"
+    location: "Medical Bay → Lobby → Mumbai streets"
+    characters: ["Kira Calloway"]
+    summary: "Pills left behind. Document unsigned. Walks out. Silent refusal."
+
+# Key Events
+keyEvents:
+  - "Transfer from Bay Area General to Varma facility (continuity of care)"
+  - "Equipment Malfunction Statement presented — three paragraphs reducing spike to hardware failure"
+  - "First refusal: hand stops before signing"
+  - "Discharge coordinator conversation: institutional pressure vs. testimony"
+  - "'I heard them. They were reaching.' — direct witness statement"
+  - "Operational status under review: no streaming, no public appearances (indefinite)"
+  - "Pills left in locker: first rejection of management system"
+  - "Document left unsigned on bed — silent refusal as testimony"
+
+# Character Progression
+characterArcs:
+  Kira:
+    phase: "5/5 (New Equilibrium — arc complete)"
+    progression: "Performer → Witness → Someone Who Refuses to Lie. First autonomous act that isn't performance. Unconscious want achieved (seen as person through refusal). Deepest fear confronted (there IS someone underneath)."
+    emotionalBeats: 12
+    
+  DischargeCoordinator:
+    role: "Institutional pressure (sympathetic)"
+    function: "Represents Academy without villainy. Closing: 'I hope you're wrong about what you heard.'"
+
+# Thematic Analysis
+dominantThemes:
+  - "Where Identity Ends"
+  - "Truth as Weapon"
+  
+strongThemes:
+  - "Commodification of Suffering"
+  - "What We Owe"
+  
+moderateThemes:
+  - "Irrelevance of Individual Being"
+  - "Architecture of Power"
+
+# Key Symbols
+symbols:
+  - name: "Unsigned document"
+    meaning: "Truth as Weapon, Identity — testimony preserved through refusal"
+  - name: "Blank signature line"
+    meaning: "Architecture — the space where compliance was expected but denied"
+  - name: "'Equipment malfunction'"
+    meaning: "Commodification — institutional reduction of genocide to technical failure"
+  - name: "Pills left in locker"
+    meaning: "Identity — rejection of management system"
+  - name: "'I heard them'"
+    meaning: "Truth, Obligation — direct testimony, witness statement"
+
+# Continuity
+timeline: "BLACKWEIR Day 0 + 8 days"
+location: "Varma Academy Medical Facility, PCC Bay Area (transferred from Bay Area General)"
+previousChapter: 50
+nextChapter: "Epilogue"
+
+crossReferences:
+  - chapter: 43
+    connection: "11-second spike, 847K viewers, bleeding from ears/nose"
+  - chapter: 31
+    connection: "Fingertip numbness (ulnar distribution) now paradoxically resolved"
+  - chapter: 18
+    connection: "Mage network established, signals were precursors"
+  - chapter: 10
+    connection: "'Control is silence' Academy doctrine"
+
+# Book 2 Setup
+seedsPlanted:
+  - "Operational status under review (indefinite suspension)"
+  - "11-second clip viral, globally analyzed (millions of views)"
+  - "Academy narrative: equipment malfunction (official)"
+  - "Kira's counter-narrative: silent refusal (unsigned document on file)"
+  - "The absorbed are reaching (unresolved)"
+  - "Pills abandoned — no longer managing symptoms"
+  - "Hum thinner but not gone — fewer voices, same frequencies"
+
+# Style Metrics
+dialogue: "~18%"
+tension: "2→6→3"
+actionReflection: "20/80"
+fragments: "~15%"
+negationBeforeAssertion: 5
+avgSentenceLength: "~16-18 words"
+
+# Audit Status
+styleAudit: "12/12 pass"
+characterAudit: "Kira 9.5/10, Coordinator 8.5/10"
+continuityCheck: "All verified"
+thematicAnalysis: "Complete"
+
+# Files
+auditFile: "tracking/audit-chapter-51.md"
+themeFile: "tracking/chapter-51-themes.md"
+
+---

@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-06-15"
-lastChapter: 36
+lastUpdated: "2026-02-17"
+lastChapter: 51
 totalCharacters: 15
 project_name: "Untitled"
 ---
@@ -606,10 +606,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 2→3/5 (Disruption → Struggle — active investigation begins)
-- Emotional State: Filing system breaking. Geographic amplification in Neo-Shanghai proved the hum is environmental, not personal — the institutional explanation is wrong and she knows it. Hands shaking (new). Fingertip dropout ulnar distribution (ring + little). Performer persona fails to contain the data backstage. Sent "It's words" to mage network. No longer in denial about the signal; still in denial about what the signal means.
-- Dominant Beliefs: "If she controls the platform, she controls the narrative of what she is." (breaking — the hum in Neo-Shanghai doesn't care about the platform)
-- Internal Contradictions: Uses performance as armor; the armor failed backstage. Files everything — the tremor is "a data point she could not file." Named the signal ("words") before she was ready to understand it.
+- Phase: 5/5 (New Equilibrium — Transformation complete)
+- Emotional State: Quiet. No performance layer. The person underneath the brand exists and has testified. Refuses to sign Academy's equipment malfunction statement — not because she's decided to speak publicly, but because she can't sign something that erases the absorbed. Operational status under review (indefinite). No plan for what comes next. Only knows what she won't do. Pills left behind. The refusal is identity.
+- Dominant Beliefs: "The absorbed weren't a malfunction. They were people. They were still there." (The Lie destroyed — she no longer believes controlling the platform controls the narrative)
+- Internal Contradictions: None remaining. The transformation is complete. She is a witness who refuses to lie.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -627,19 +627,23 @@ This bible dimension tracks **current character states**:
 | Streaming audience | Performance | Surface | ~200K followers; armor and cage; parasocial bond with color palette |
 | Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
 
-**Current Arc:** Performer → Witness
-- Current Phase: 3/5 (Struggle — active investigation)
-- Progression: Geographic amplification confirmed in Neo-Shanghai. Performer persona barely held during panel; collapsed backstage. Pill sorting as grounding ritual. Hum assessed as "structured" — articulate, phrasing, directional. Sent "It's words" to mage network — the naming that catalyzes the next phase. Hands shaking (new symptom). The filing system that kept her functional is breaking.
-- Next Step: Ch 43 (already written) — BLACKWEIR coherence spike mid-stream, 847K viewers, the hum goes "full." The gap between Ch 31 and Ch 43 is the gap between naming and overwhelm.
+**Current Arc:** Performer → Witness → Someone Who Refuses to Lie
+- Current Phase: 5/5 (New Equilibrium — arc complete)
+- Progression: Ch 10 suppression → Ch 18 mage network → Ch 31 "it's words" → Ch 43 eleven-second spike (performer shattered) → Ch 51 unsigned document (transformation complete). The refusal to sign is her first autonomous act that isn't performance. She doesn't know what comes next. She only knows she can't erase the absorbed. The testimony is the person underneath.
+- Book 1 Complete: Final Kira POV. Arc resolved. Unconscious want achieved (seen as person through refusal, not performance). Deepest fear confronted (there IS someone underneath the brand).
 
-**Recent History (Ch 31):**
-- Monthly pharmacy pickup in Bay Area — the one transaction where she's a patient, not a celebrity. Upper-end dosages. Carried medications in carry-on to Neo-Shanghai.
-- Neo-Shanghai arrival: hum changed immediately. Denser, more resolved, each harmonic snapping into precision. R3 implant housing warm (running at capacity). Geographic amplification — proximity to dense conduit infrastructure intensifies the signal.
-- Academy promo panel ("Mage Perspectives: Cultural Engagement in a Connected World"): managed on-camera. Hum spike mid-answer — jaw locked, smile held, audience didn't notice. Backstage: hands shaking (new symptom, escalation from fingertip dropout).
-- Hotel room (Spire Meridian, 32nd floor): pill sorting ritual as grounding (30-day holder, click click click). Assessed hum in silence — "structured," "articulate," "phrasing." The signal is organized, directional, using infrastructure as medium.
-- Sent message to mage network: "It's louder here. Much louder. Does anyone else feel like it's words?" — twelve words. The naming. Someone responded (three dots → message). She wasn't the only one.
-- Fingertip dropout now ulnar distribution (ring + little, ~2 seconds). Tremor in both hands (new — indistinguishable from hum vibration). Chord shapes evolving: D minor, A diminished, E-flat something.
-- Hum evolution: Ch 10 "thicker" → Ch 18 "tighter" → Ch 31 "stronger, more structured / articulate / phrasing / words" → Ch 43 "full."
+**Recent History (Ch 51):**
+- Varma Academy Medical Facility, PCC Bay Area (transferred from Bay Area General 6 hours post-spike for continuity of care — Varma fitted her implant, R3 specialist team knows baseline). 8 days post-BLACKWEIR.
+- Physical aftermath: bruising (purple→yellow-green), subconjunctival hemorrhage (bloodshot eye), ears/nose bled. Neurologist used "strain" 17 times, never "damage" — semantic evasion.
+- Hum evolution: thinner, fewer voices, same frequencies but less dense. Paradoxical numbness resolution — fingertip dropout completely gone (unexplained). The spike broke something and fixed something simultaneously.
+- Equipment Malfunction Statement: Academy document reducing 11-second spike to "implant hardware generating interference patterns under load." Three paragraphs. Signature line blank.
+- First refusal: hand stops before signing. "Not because she'd decided. Because her hand had stopped."
+- Discharge coordinator conversation: institutional pressure, narrative control. "The Academy can't protect you from that narrative if you don't sign the statement that contradicts it."
+- "I heard them": direct testimony. "They were reaching. And I can't sign a document that says they weren't."
+- Operational status under review: no streaming, no public appearances, no Academy activities (indefinite).
+- Pills left in locker: antidepressants, antipsychotics, anxiolytics, Lumina. First rejection of management system. Choosing unmediated experience.
+- Document unsigned: walked out, left statement on bed. Silent refusal more powerful than speech. "The absorbed weren't a malfunction. They were people. They were still there."
+- 11-second clip viral: millions of views, globally analyzed. Academy issued multiple statements. Kira issued none. The refusal is her testimony.
 
 **Previous History (Ch 18):**
 - Post-stream routine: numb fingertips now intermittent (worsening — three or four times per session). Files it. Performer shutdown. Lumina: 40mg nightly, bump (15mg) twice/week now.
@@ -660,9 +664,8 @@ This bible dimension tracks **current character states**:
 | 1→2/5 | Streaming from Bay Area; suppressing minor scream episodes | Introduction (Ch 10); performance as normalcy |
 | 2/5 | Mages contact her — structured signals during incursions | Private mage network forms (Ch 18); avoidance → engagement |
 | 2→3/5 | Neo-Shanghai promo tour — geographic amplification, "it's words" | Active investigation begins (Ch 31); naming the signal |
-| 3/5 | On-stream break — the scream has syntax | Public witness; Academy pushback |
-| 4/5 | Eleven-second broadcast during BLACKWEIR | Carrier for the coherence spike; audience witnesses |
-| 5/5 | Post-broadcast reckoning | The performance layer gone; witness without armor |
+| 4/5 | Eleven-second broadcast during BLACKWEIR | Ch 43: Carrier for coherence spike; 847K viewers; performer shattered |
+| 5/5 | Medical bay, unsigned document | Ch 51: Refuses to sign equipment malfunction statement; testimony over career; arc complete |
 
 ---
 
@@ -696,7 +699,7 @@ This bible dimension tracks **current character states**:
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
 | Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
-| Kira | Performer → Witness | 3/5 | Ch 31 — geographic amplification, "it's words" message sent |
+| Kira | Performer → Witness → Someone Who Refuses to Lie | 5/5 | Ch 51 — unsigned document; Book 1 arc complete |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 
