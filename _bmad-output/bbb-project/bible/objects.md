@@ -3,7 +3,7 @@ title: "Objects"
 type: bible-dimension
 dimension: objects
 lastUpdated: "2026-02-16"
-lastChapter: 30
+lastChapter: 46
 totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"
@@ -430,8 +430,10 @@ An object deserves documentation if it:
 - Ch 24: Below Level 12 evidence added: continuous ocular recording (11 hours, 4 junctions, time-stamped), 83 offline photographs (dedicated camera, no mesh metadata), 4 RCI readings (junction-specific), installation dates (2171-2173), serial numbers (NitroCore 2170s production run), throughput specifications, 200-word annotation in raw register: "The pattern is not negligence. It is design." Timer at 31 hours when checked (41 remaining). Deposit now contains Phase 3 field evidence.
 - Ch 29: Flood valve evidence added: 47 offline photographs (6 valves, procurement tags, serial numbers, hydraulic specs, secondary drainage outlets, junction mapping), 6 RCI readings (42.6→43.1→44.7), 5h47m continuous ocular recording, 300-word annotation in raw register: "The flood valves are not a maintenance upgrade. They are a weapon. This is an execution architecture designed to be invisible until the moment it activates." Timer at 19 hours when checked (pinged late — working). Deposit now contains flood valve evidence + Below Level 12 infrastructure + matched-district analysis + Arctic-7 + demographics.
 - Ch 34: FINAL DEPOSIT. Complete fourteen-month evidence package deposited with Talia Ravid at Node RD-14: 7 flood valves (7th via ventilation corridor Sector 6), 53 RCI readings, 28 disappearances/6 sectors, infrastructure maps (Sub-Level 12 corridor network, 4 junctions), co-origin data, matched-district analysis, diplomatic fragments (classification anomalies, Annex B/C routing, observer seat), personal analysis (raw register). Dead-hand protocol finalized: auto-distribute on two missed 72-hour windows (144 hours total). Three sealed recipients unchanged. Talia charges nothing — investing in posthumous market value. Timer at 13h42m when checked. Three-copy redundancy confirmed: drive in boot, paper in coat lining, local partition behind left eye. "The architecture survives the architect."
-- Phase 4 (Ch 40): Mirelle absorbed mid-sentence during BLACKWEIR. Last check-in 31 hours prior; 41 hours remaining on current window. Two missed windows = ~113 hours post-absorption before auto-distribute fires. Machine delivers.
-- Phase 5: Data reaches recipients. Talia inherits the archive.
+- Ch 40: Mirelle absorbed mid-sentence during BLACKWEIR. Last check-in 31 hours prior; 41 hours remaining on current window. Two missed windows = ~113 hours post-absorption before auto-distribute fires. Machine delivers.
+- Ch 41: Dead-hand cache fragments received by Sofia via encrypted relay during BLACKWEIR observation. Partial dataset arrives while Confluence wave propagates on holographic display.
+- Ch 45: Dead-hand fires Day 5 — complete cache arrives. Zeyad receives full evidence package. Publishes public statement through Black Babel relay, violating Article 12, Section 8.
+- Phase 5: Talia inherits the archive.
 
 ---
 

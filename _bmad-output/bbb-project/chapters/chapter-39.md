@@ -125,7 +125,7 @@ Fuxi pressed his palms flat on the console. The metal vibrated with the trunk-li
 
 The R0 was not a leak. It was not a failure. It was a delivery system.
 
-He understood it the way he understood the trunk-lines — not as theory but as body-knowledge, the way his hands understood torque tolerances and his ears understood harmonic shifts in pipe casings. The crude nitro was being pushed through the entire conduit network at maximum throughput. Every junction, every branch, every residential distribution line that ran through walls and under floors and behind the fixtures that hummed in every apartment in the Sump. The signal — the coherence that his log had been tracking for eleven weeks — was riding the crude. The infrastructure he had maintained for nine years was performing exactly as someone had designed it to perform.
+He understood it the way he understood the trunk-lines — not as theory but as body-knowledge, the way his hands understood torque tolerances and his ears understood harmonic shifts in pipe casings. The crude nitro was being pushed through the entire conduit network at maximum throughput. Every junction, every branch, every residential distribution line that ran through walls and under floors and behind the fixtures that hummed in every apartment in the Sump. The signal — the coherence that his log had been tracking for eleven weeks — was riding the crude. The infrastructure he had maintained for thirteen years was performing exactly as someone had designed it to perform.
 
 Not as a power grid. As a weapon.
 
@@ -177,7 +177,7 @@ He tried again. NETWORK UNAVAILABLE.
 
 Again. NETWORK UNAVAILABLE.
 
-He stood in the converter station. Jun's multitool was in his jacket pocket — the weight of it against his thigh the same weight it had been every shift for nine years, the stainless steel warm from his body, the handle worn to polish by his father's hands and now by his. The alarm panel was still red. Duan had stopped working the intake valves and was standing at the reinforced glass, looking at Fuxi, his mouth closed, his hands at his sides.
+He stood in the converter station. Jun's multitool was in his jacket pocket — the weight of it against his thigh the same weight it had been every shift for thirteen years, the stainless steel warm from his body, the handle worn to polish by his father's hands and now by his. The alarm panel was still red. Duan had stopped working the intake valves and was standing at the reinforced glass, looking at Fuxi, his mouth closed, his hands at his sides.
 
 The hum was everywhere now. Not the hum he knew — not the infrastructure drone, not the trunk-line heartbeat, not the frequency that settled behind the eyes and became the sound of a life spent maintaining the thing that was killing the people he maintained it for. This was deeper. Wetter. A sound that had weight, that pressed against his skin the way the crude pressed against pipe walls, that filled the converter station the way R0 was filling every conduit in the network above him.
 
@@ -185,7 +185,7 @@ The grid map on his frame was mostly violet now. The propagation wave had reache
 
 Block 14 was violet.
 
-He could not reach her. He could not call her. He could not open the pressure doors, or override the valve lockout, or stop the R0 flooding, or reverse the propagation, or do anything with the nine years of body-knowledge and infrastructure intimacy that the municipal conduit authority had trained into his hands. He was two hundred meters below his sister and the distance was measured in thirty-ton blast doors and flooded trunk-lines and an authorization code that had never belonged to him.
+He could not reach her. He could not call her. He could not open the pressure doors, or override the valve lockout, or stop the R0 flooding, or reverse the propagation, or do anything with the thirteen years of body-knowledge and infrastructure intimacy that the municipal conduit authority had trained into his hands. He was two hundred meters below his sister and the distance was measured in thirty-ton blast doors and flooded trunk-lines and an authorization code that had never belonged to him.
 
 The private log glowed on the cracked frame. Eight entries. Eleven weeks and four days of spikes that he had documented in the clean columns of a maintenance worker's handwriting because the Kindling pamphlet had said *describe what you see* and he had described what he saw and the description had changed nothing. The file had no recipient. The file had no delivery system. The file sat in a maintenance directory alongside calibration records and firmware changelogs, and the system it documented was performing exactly as designed.
 

@@ -2,9 +2,9 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-11"
-lastChapter: 10
-totalDays: 21
+lastUpdated: "2026-02-16"
+lastChapter: 46
+totalDays: "Weeks to months (Phase 1-3), then compressed to Days 1-5 (Phase 4)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
 ---
@@ -275,6 +275,67 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
+## Phase 2-3 Timeline (Weeks to Months)
+
+**Note:** Phase 2-3 spans weeks to months as evidence accumulates, characters converge on Neo-Shanghai, and institutional pressure builds toward BLACKWEIR authorization. Precise day-by-day tracking becomes less granular as multiple POVs operate in parallel across different locations.
+
+### Phase 2 Key Events (Ch 11-22)
+
+- **Ch 11 (Nikolai):** First Stalker-7 deployment to Mid-Level residential breach (Level 7, junction 7-14). Three absorbed. RCI 14.2-14.6. Hum carries perceived name.
+- **Ch 22 (Fuxi):** Step-function spike (27.1→43.1, sustained, no correction). Phase 2→3 transition trigger. The Confluence begins activation gradient. Kindling contact (Tuesdays/Thursdays). Private log entry 62.
+
+### Phase 3 Key Events (Ch 23-36)
+
+- **Ch 23 (Nikolai):** Forward deployment to FOB Meridian (Sector 12). Indefinite duration, no evacuation authority.
+- **Ch 25 (Aurielle):** Unscheduled quarterly in Sub-level 7. BLACKWEIR introduced. Evacuation paradox presented. Alternatives analysis requested.
+- **Ch 26 (Nephthys):** Arrival at Cathedral of Living Sound. Chorus resolves for first time. Imani makes Cathedral habitable.
+- **Ch 31 (Kira):** Neo-Shanghai arrival. Geographic amplification (hum stronger/structured). "It's words" message to mage network.
+- **Ch 32 (Nikolai):** Class Three deployment, Sector 7. Jarek's Frame damaged (40% shielding). Six residential blocks absorbed (~6,000 people). "What are we doing?" / "We're following the protocol."
+- **Ch 36 (Aurielle):** BLACKWEIR authorization signed in Sub-level 7. Small voice and executive voice merge. "The authorization is signed."
+
+---
+
+## Phase 4 Timeline — BLACKWEIR (Days 1-5)
+
+**Temporal Compression:** Phase 4 operates on a compressed Day 1-5 timeline with precise cross-POV synchronization. The 11-second coherence spike functions as simultaneity anchor across 6 POVs.
+
+### Day 1 — BLACKWEIR Execution
+
+**06:17 (Morning):** BLACKWEIR Activation (Ch 37, 39)
+- **Ch 37 (Aurielle):** Operations Center, 63rd floor. Watches holographic display as 23 Sump sectors sealed, conduit flood initiated. Protocol completes in 84 minutes. 98.4% grid integrity. Returns to Eduardo's office. Hum *Thinner*.
+- **Ch 39 (Fuxi):** Converter station, three levels below monitoring bay. Eighth spike (27.3→34.1+, still climbing). R0 crude floods trunk-lines. Both exits sealed. Recognizes infrastructure as delivery system. Absorption front propagates as violet wave. Converter station survives as processed-air pocket.
+
+**~07:00-16:00 (Morning-Afternoon):** Perimeter Operations (Ch 38)
+- **Ch 38 (Nikolai):** Stalker-7 holds line at Junction 12, Sump/Mid-Level boundary. Blast doors seal 06:17. Emergency broadcast cycling 640+ times. 69 civilians redirected. Absorption front advances through unsevered secondary conduit. Jarek Kowalski absorbed 16:47. Field log left blank.
+
+**~08:00-14:00 (Morning-Afternoon):** Deep Sump Absorption (Ch 40)
+- **Ch 40 (Mirelle):** Running toward RS-WEST junction. Wet-film residue saturating corridors. Absorbed mid-sentence 140m from RS-WEST while thought-dictating to Black Babel. Implant continues transmitting briefly after motor function ceases. Dead-hand timer: 41 hours remaining on current window.
+
+**~09:00-15:00 (Morning-Afternoon):** VEC Observation (Ch 41)
+- **Ch 41 (Sofia):** 35th floor immersion pod. Confluence wave propagation visible on holographic display. Engineered differential confirmed (Sump 3x faster than Mid-Levels). 11-second coherence spike overwhelms pod sensors. Locked out of 47th floor briefing. VEC Emergency Alert: "VPI: 87.3%. AEGIS targeting calculated." Dead-hand cache fragments received via encrypted relay.
+
+**~10:00-16:00 (Morning-Afternoon):** Block 14 Survival (Ch 42)
+- **Ch 42 (Nuwa):** Block 14, Sump. Power out, hum changes to wet/pressurized. Walkway absorptions (Building 14↔11). Descends to masonry annex (ground floor, path-poor construction). 11-second coherence spike passes through masonry. Violet glow replaces orange. Post-spike hum "fuller."
+
+**~11:00 (Late Morning):** 11-Second Coherence Spike — SIMULTANEITY ANCHOR
+- **Cross-POV synchronization:** Sofia (data overflow), Nuwa (physical pressure + 11-second count), Kira (neural broadcast), Nephthys (theological roll-call), Fuxi (infrastructure saturation), AEGIS (VPI spike 87.3%).
+- **Ch 43 (Kira):** On-stream (7 hours in). Coherence spike cannot be suppressed. Mic captures implant resonance bleeding into audible spectrum (11.3s recorded). 847,219 peak viewers. Bleeds from nose and ears. Equipment shorts, feed dies. Post-stream 11-second ritual FAILS. Lumina REFUSED. Fingertip numbness paradoxically resolved.
+
+**~11:00-17:00 (Late Morning-Evening):** Cathedral Survival (Ch 44)
+- **Ch 44 (Nephthys):** Cathedral of Living Sound. Acoustic architecture dephases wet-film propagation. Witnesses three absorptions at threshold (running man, waiting child, old woman). 11-second coherence spike collapses her at threshold (one hand inside, one outside). "They are all still here." Imani pulls her inside. ~340 survivors fill Cathedral. First congregation forms. Resonance beads "vibrating hard enough to crack."
+
+### Day 3 — Institutional Response
+
+**Morning-Afternoon:** Board Meeting (Ch 46)
+- **Ch 46 (Aurielle):** NitroCore board meeting, three days post-BLACKWEIR. Thorne presents containment report. Formal commendation (unanimous). Stock ticker: NTRC +3.7%. Corridor walk (Thorne as colleague). Eduardo's office: sandalwood gone, chair impression intermediate, hum thinner = normal. SHEPHERD seeded via Anchor Zone "opportunities." Executive balcony introduced (not opened).
+
+### Day 5 — Dead-Hand Fires
+
+**Morning-Afternoon:** Evidence Release (Ch 45)
+- **Ch 45 (Zeyad):** New Geneva, UGC. Class Apex reclassification. Committee votes on response framework (how to discuss, not what to do). Dead-hand fires: Mirelle's complete cache arrives (8 items, final packet incomplete: "The infrastructure was always designed to—"). Zeyad writes public statement, attaches cache + committee transcripts + notebook pages. Publishes through Black Babel relay. Article 12, Section 8 violated. Pen set down.
+
+---
+
 ## Major Events Index
 
 | Year/Day | Event | Impact |
@@ -319,5 +380,20 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-11_
-_Updated by: Retroactive bible maintenance — Prologue through Ch 10 events added_
+## Phase 5 — Aftermath (Pending)
+
+**Note:** Phase 5 chapters (Ch 47-51 + Epilogue) remain unwritten. Timeline will track post-BLACKWEIR aftermath, character arc closures, and orphaned setup payoffs.
+
+**Pending Events:**
+- Kira's viral fame aftermath (847,219 viewers, 11.3s footage)
+- Zeyad's Article 12 prosecution
+- Fuxi's emergence from converter station / reunion with Nuwa
+- Sofia's Black Babel publication
+- Nikolai's field log fate
+- Nephthys's Cathedral congregation aftermath (340 survivors)
+- Epilogue: "The Hum" — post-absorption transmission
+
+---
+
+_Last updated: 2026-02-16_
+_Updated by: Bible maintenance — Phase 2-4 timeline added, Phase 4 Day 1-5 cross-POV synchronization established_

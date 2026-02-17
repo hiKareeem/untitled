@@ -2,8 +2,8 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-15"
-lastChapter: 22
+lastUpdated: "2026-02-16"
+lastChapter: 46
 totalLocations: 18
 activeLocations: 13
 project_name: "Untitled"
@@ -229,7 +229,9 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - Ch 5: Sofia detects anomalous 0.7 Hz pulse in VEC HQ sub-strata sensors. Liang deflects (SOP 7.1). Instruments fine. Personal archive entry #15.
 - Ch 15: Sofia discovers 0.94 correlation between atmospheric pulse and Stalker deployments. Liang holds paper for methodology review. Vertical gradient discovered: Sump 0.96, Mid-Levels 0.91, Spires 0.87. Personal archive entry #16.
-- Ch 41: BLACKWEIR observed from 35th floor immersion pod — Confluence wave propagation visible on holographic display, coupling events populating as points of light tracing conduit architecture. Engineered differential confirmed: Sump climbing 3x faster than Mid-Levels, Spires barely moving. 11-second coherence spike overwhelms pod sensors. Sofia locked out of 47th floor classified briefing (biometric denial). VEC Emergency Alert displayed: "Confluence confirmed. VPI: 97.3%. AEGIS targeting calculated." Dead-hand cache fragments received via encrypted relay. Complete dataset archived outside VEC network.
+- Ch 27: Sofia's atmospheric model complete — 0.7 Hz pulse classified as VEC (Void Emergence Correlation). Liang approves for internal circulation only. Model predicts Confluence activation gradient. Personal archive entry #17.
+- Ch 33: Sofia's convergence model presented to VEC senior staff. Throughput reduction recommendation (40%) rejected. Liang assigns Sofia to real-time monitoring during "infrastructure stress test." Personal archive entry #18.
+- Ch 41: BLACKWEIR observed from 35th floor immersion pod — Confluence wave propagation visible on holographic display, coupling events populating as points of light tracing conduit architecture. Engineered differential confirmed: Sump climbing 3x faster than Mid-Levels, Spires barely moving. 11-second coherence spike overwhelms pod sensors. Sofia locked out of 47th floor classified briefing (biometric denial). VEC Emergency Alert displayed: "Confluence confirmed. VPI: 87.3%. AEGIS targeting calculated." Dead-hand cache fragments received via encrypted relay. Complete dataset archived outside VEC network.
 
 **Sub-Locations (established Ch 5):**
 - **VEC Atmospheric Monitoring Lab (35th floor):** 11 workstations in horseshoe around central holographic display (3m sphere, decorative, not used for real analysis). Immersion pods at each station. Sofia's pod at far end (chosen for isolation). Evening protocol dims lights.
@@ -329,7 +331,8 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Ch 37: BLACKWEIR executed from Operations Center (63rd floor). Aurielle and Thorne watch holographic display as 23 Sump sectors sealed, conduit flood initiated, absorption front propagates. Protocol completes in 84 minutes. 98.4% grid integrity. Aurielle returns to Eduardo's office. Hum *Thinner*.
 - Ch 19: First active complicity — Aurielle signs 7 Sump maintenance deferrals in Eduardo's office. Work Order #2175-1847 (Sector 4-7B, 62%). Thorne's standing 08:15 briefing discusses Sector 14 success, not the deferrals. Sandalwood fading. Pen motif introduced. "Because she had filed it."
 - Ch 25: Unscheduled quarterly in Sub-level 7. BLACKWEIR introduced — Confluence briefing, three-generation protocol, "system management protocol." Holographic model shows deferred sectors now red. Evacuation paradox presented. Alternatives analysis requested. Eduardo's office: sandalwood gone (atmospheric scrubbers processed last trace). Chair impression intermediate. Small voice maps deferrals to BLACKWEIR perimeter.
-- Ch 46: Board meeting — three days post-BLACKWEIR. Thorne presents containment report. Formal commendation (unanimous). Stock ticker: NTRC +3.7%. Corridor walk (Thorne as colleague). Eduardo's office: sandalwood fading, chair impression intermediate, hum thinner = normal. SHEPHERD seeded via Anchor Zone "opportunities." Executive balcony introduced (not opened).
+- Ch 36: BLACKWEIR authorization. Aurielle signs in Sub-level 7 after reviewing three-generation protocol. Holographic Sump model shows 23 sectors. "The authorization is signed." Small voice and executive voice merge.
+- Ch 46: Board meeting — three days post-BLACKWEIR. Thorne presents containment report. Formal commendation (unanimous). Stock ticker: NTRC +3.7%. Corridor walk (Thorne as colleague). Eduardo's office: sandalwood gone, chair impression intermediate, hum thinner = normal. SHEPHERD seeded via Anchor Zone "opportunities." Executive balcony introduced (not opened).
 
 **Key Interior Locations (established Ch 46):**
 - **Executive Balcony (adjacent to Eduardo's office):** Glass door with biometric reader (reconfigured from Eduardo's palm to Aurielle's). Narrow terrace, two meters deep, width of the office, matte composite railing. Eduardo never used it. Aurielle has never opened it. "The terrace existed as architecture — executive privilege, outdoor air at Spire altitude, a feature specified in the building plans and maintained by the facilities division and occupied by no one." Seeds Book 2/3.
