@@ -301,11 +301,11 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional impotence
 
 **Current Psychological State:**
-- Phase: 4/5 (Crisis — public statement published)
-- Emotional State: Composure repurposed — institutional vocabulary turned against institution; pen set down
-- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — the record IS complete, the institution monitors)*
-- Internal Contradictions: Has broken the institution he spent 34 years serving; the Accords he invoked contain the article that will prosecute him
-- **Ch 30 State:** Phase 3/5 — institutional faith destroyed. The mechanism does not exist. Notebook full (47 questions). Practiced smile involuntary. Portrait touched deliberately. Cease-and-desist received. "Be careful" — first unprocedural act.
+- Phase: 5/5 (Arc complete — prosecuted, credentials revoked)
+- Emotional State: Exhausted acceptance — the record is complete, public, and changes nothing. Composure intact as habit, not credential.
+- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — the record IS complete, the institution prosecuted the recorder)*
+- Internal Contradictions: The Accords he invoked contain the article that prosecuted him. The pen is behind a locked door. The steadiness survives the system that produced it.
+- **Ch 50 State:** Phase 5/5 — arc terminus. Tribunal convened, guilty on all five counts, credentials revoked, access suspended. Says nothing at tribunal. Pen behind locked door. Practiced smile absent. Walks New Geneva with unhurried gait.
 
 **The Lie:** If the record is complete, justice is possible
 
@@ -320,10 +320,10 @@ This bible dimension tracks **current character states**:
 | Al-Fahim dynasty (Khalil/Tariq) | Inherited duty | Deep | Khalil (great-grandfather) signed the Accords; Tariq (grandfather) carried the legacy and died when Zeyad was 11. Portrait in the Hall, pen in the pocket. |
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
-**Current Arc:** Dutiful Diplomat → Disgraced Whistleblower
-- Current Phase: 4/5 (Crisis — public statement published, Article 12 Section 8 violated)
-- Progression: First fracture → back-channel → emergency clause rejected → public statement
-- Next Step: Phase 5 — suspension, prosecution, hearing
+**Current Arc:** Dutiful Diplomat → Disgraced Whistleblower (COMPLETE)
+- Current Phase: 5/5 (Arc terminus — prosecuted, credentials revoked)
+- Progression: First fracture → back-channel → emergency clause rejected → public statement → prosecution → silence → revocation
+- Next Step: Book 2 — Lagos, institutional saboteur outside the institution
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -332,17 +332,18 @@ This bible dimension tracks **current character states**:
 | 2/5 | Leaked Arctic-7 summary; Mirelle contact | First information bridge; shapes emerging |
 | 3/5 | Emergency clause invoked; committee votes 23-3 to monitor; cease-and-desist received; back-channel deepens | Invokes Article 7, Section 3; NitroCore invokes sovereign consent; "the mechanism did not exist" |
 | 4/5 | Mirelle's last transmission arrives — partial, mid-sentence | Writes public statement; publishes everything |
-| 5/5 | Suspended, prosecuted for leaking. The Accords punish the enforcer. | The record is public. The institution punishes the recorder. |
+| 5/5 | Prosecuted under Article 12, Section 8. Guilty on all five counts. Credentials revoked. Says nothing at tribunal. Pen behind locked door. | The record is public. The institution punishes the recorder. The record changes nothing. |
 
 **Appearances:**
-- Last Appearance: Ch 30 ("The Mechanism That Doesn't Exist")
-- Next Planned Appearance: Ch 45 ("The Partial Transmission")
+- Last Appearance: Ch 50 ("The Record") — FINAL Book 1
+- Next Planned Appearance: Book 2 (Lagos)
 
 **Recent History:**
 - **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
 - **Ch 17:** Arctic-7 data request returns after 23 business days: 14 pages, 8 redacted under Annex C. Sensor logs "unavailable," VEC assessment "outside authorization," classification routing redacted in full. Discovers Annex C dual-authorization mechanism — designed mutual dependency ensuring neither the Classification Directorate nor the VEC can release data without the other's consent. Recognizes: "The system is processing it exactly as designed." That evening, initiates first encrypted back-channel contact with Mirelle Dubois via Mediterranean corridor contact's protocol address — text-only exchange from forgotten cantonal terminal outside UGC network. Shares institutional data (classification anomaly, "contained" status, Annex B/C routing, observer seat empty 14 months, extractors late, reports recycled). Receives Mirelle's field data (18 disappearances, 5 sectors, RCI correlations, Arctic-7 co-origin annotation). Neither has the full picture; the fragments are the same shape. Does NOT log the exchange — first omission from institutional record. Writes in notebook: "I did not log this exchange." The notebook now contains two categories: institutional observations (loggable) and back-channel intelligence (not). Sits alone in the dark. The practiced smile absent. The face beneath it closer to Khalil's.
 - **Ch 30:** Emergency UGC session convened on Neo-Shanghai escalation. Invokes Article 7, Section 3 — first invocation in 11 years. Presents institutional evidence (RCI escalation, Stalker deployments, deferred maintenance, template reports). NitroCore Legal counsel invokes Section 14 sovereign consent ("where practicable" as architectural veto). Committee votes 23-3 to continue monitoring with enhanced briefing cadence. Cease-and-desist delivered same day — Article 12, NitroCore framing data as proprietary. Back-channel exchange with Mirelle: "The committee voted to monitor and the monitoring is monitoring a countdown." Mirelle diagnoses: "The system permits evidence that is individually explicable and collectively invisible. That's not a failure of the record. That's the record's function." Types "Be careful" — first unprocedural statement. Notebook full: 47 questions. Placed on desk, not in drawer. Practiced smile appears unbidden, then gone. Portrait NOT touched in corridor; deliberately touched in closing. Jordanian flag still flickering (9 weeks). "The mechanism did not exist." Khalil's warning: "We must not build a beautiful document. We must build a machine that works when the operator has every reason to break it." They built the beautiful document. Does NOT start drafting public statement — that begins in Ch 45.
 - **Ch 45:** BLACKWEIR reports arrive Day 1 — Class 4 → Class Apex reclassification. Committee emergency session: votes on response framework (how to discuss, not what to do). Zeyad votes yes. Sits in office the rest of the day. Dead-hand fires Day 5: Mirelle's 8-item evidence cache arrives via Black Babel relay on encrypted channel. Raw thought-dictation with degrading syntax. Final packet: "The infrastructure was always designed to—" Nothing after. Writes public statement on encrypted relay; attaches Mirelle's full cache, committee transcripts (23-3 emergency clause rejection), Annex C redacted response, emergency clause invocation, photographed notebook pages including "I did not log this exchange." Publishes through Black Babel relay — every public-facing channel. Article 12, Section 8 violated. Pen set down. "The record was complete."
+- **Ch 50:** Publication aftermath Day 3 — São Paulo Wire runs story about the leak, not the evidence. Singapore Feed: "methodology concerns." Sofia Reyes mentioned (parallel release, "under review"). Summons arrives Day 5 — Article 12, Section 8, Accords Compliance Tribunal. Tribunal in Hall of Nations: Dr. Adeyemi presides (Nigerian diplomat, 20-year acquaintance). Five counts of unauthorized disclosure — procedurally correct, content-blind. Evidence displayed as prosecution exhibits. Zeyad says nothing. Deliberation: 41 minutes. Guilty on all five counts. Credentials revoked, access suspended. Biometric panel glows red — office inaccessible. Pen behind locked door (Khalil's pen, 4 generations, purchased Geneva 2039). Photograph behind locked door (Tariq's copy). Jordanian flag still flickering (months). Walks New Geneva — "the record was complete, and the record was public, and the record had changed nothing." FINAL Zeyad POV in Book 1.
 
 **Key Objects Established (Ch 6, updated Ch 17, Ch 30, Ch 45):**
 - Antique pen (Khalil → Tariq → Kamal → Zeyad; purchased Rue du Rhône, 2039; operational security disguised as nostalgia) — *Ch 17: now writes in both records, institutional and secret*
@@ -352,7 +353,9 @@ This bible dimension tracks **current character states**:
 - Printed agendas (annotated in margins during sessions)
 - 14-page Annex C response (AF-2175-0041) — formatted absence, 8 pages redacted
 - Encrypted back-channel protocol (Mediterranean corridor contact source, text-only, unlogged) — *Ch 45: dead-hand fires through this channel; public statement published through same relay*
-- Zeyad's Public Statement (NEW Ch 45) — published via Black Babel relay; contains: Mirelle's cache (8 items), committee transcripts, Annex C response, emergency clause documents, photographed notebook
+- Zeyad's Public Statement (Ch 45) — published via Black Babel relay; contains: Mirelle's cache (8 items), committee transcripts, Annex C response, emergency clause documents, photographed notebook
+- Tribunal summons (Ch 50) — heavy stock, adhesive seal, Accords Compliance Tribunal emblem
+- Red biometric panel (Ch 50) — access revoked, pen and photograph inaccessible
 
 ---
 
@@ -751,6 +754,7 @@ This bible dimension tracks **current character states**:
 | AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
 | AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
 | Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 2/5, Ch 17 last appearance | Phase 4/5 (Crisis); dead-hand received; public statement published; Article 12 Section 8 violated; pen set down; notebook photographed and attached | Ch 45 |
+| Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 4/5, Ch 45 last appearance | Phase 5/5 (Arc complete); tribunal prosecution; guilty all 5 counts; credentials revoked; pen behind locked door; FINAL Book 1 POV | Ch 50 |
 | Aurielle Vasquez | Arc + Recent History | Phase 1/5, Ch 12 last appearance | Phase 4/5 (Transformation); BLACKWEIR executes; watches from operations center (63rd floor); small voice SILENT; hum *Thinner*; "She would authorize the next one too." Walk motif echoes Ch 1. | Ch 37 |
 | Marcus Thorne | Appearance + Recent History | Ch 12 last appearance | Fourth appearance; operational executor — narrates BLACKWEIR engineering junction by junction; pivots to board briefing logistics post-protocol; the project complete | Ch 37 |
 | AEGIS | Arc + Recent History | Pre-debut | Addenda extracted to aegis-addenda.md. book2_aegis_converged removed (old draft). book3_aegis_ending added to project-status. | Audit 2026-02-16 |

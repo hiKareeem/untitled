@@ -1,0 +1,137 @@
+# Chapter 50 Metadata
+# Generated: 2026-02-17
+
+title: "The Record"
+chapter: 50
+phase: 5
+mode: TEXTURE
+subtypeTexture: "institutional/prosecutorial"
+pov: "Zeyad Al-Fahim"
+povAppearance: 4  # FINAL Book 1
+wordCount: 4700
+sceneCount: 4
+dialoguePercent: 0
+status: v1-complete
+completedDate: "2026-02-17"
+
+scenes:
+  - name: "Publication aftermath"
+    location: "Zeyad's office, New Geneva"
+    characters: ["Zeyad"]
+    tension: 3
+    beats: ["São Paulo Wire story", "methodology concerns", "Sofia mentioned", "desk organized"]
+  - name: "Summons"
+    location: "Zeyad's office → Hall of Nations corridor"
+    characters: ["Zeyad"]
+    tension: 5
+    beats: ["Summons arrives", "portrait not touched", "morning walks stopped"]
+  - name: "Tribunal"
+    location: "Tribunal Chamber, Hall of Nations"
+    characters: ["Zeyad", "Dr. Adeyemi", "tribunal members", "NitroCore observer"]
+    tension: 7
+    beats: ["Five counts read", "evidence as exhibits", "three 'He could say' paragraphs", "silence", "41-minute deliberation", "guilty all counts"]
+  - name: "Revocation and walking"
+    location: "UGC corridor → New Geneva streets"
+    characters: ["Zeyad"]
+    tension: 4
+    beats: ["Biometric panel red", "pen behind locked door", "photograph behind locked door", "Jordanian flag flickering", "walks New Geneva", "record complete"]
+
+epigraph:
+  source: "Nitro Accords, Article 12, Section 8"
+  text: "Any Coordinator, delegate, or affiliated personnel who discloses classified materials..."
+  thread: "Ch 6 ornamentality → Ch 17 exhaustion → Ch 30 mechanism → Ch 45 insufficiency → Ch 50 prosecution"
+  threadPosition: "terminus"
+
+rhetoric:
+  - type: "Legal"
+    document: "Nitro Accords, Article 12, Section 8"
+    function: "Prosecution clause — the document's weapon turned against its enforcer"
+  - type: "Media"
+    document: "São Paulo Wire / Singapore Feed coverage"
+    function: "Institutional immune response — 'methodology concerns' as containment"
+
+tensionCurve: "3→5→7→4"
+flowScore: 9.0
+actionReflectionBalance: "15/85"
+
+nbACount: 5
+fragmentPercent: "~12%"
+avgSentenceLength: "medium-long"
+
+keyMoments:
+  - line: ~94
+    event: "São Paulo Wire runs story about the leak, not the evidence"
+  - line: ~128
+    event: "Summons arrives — Article 12, Section 8"
+  - line: ~162
+    event: "'I did not log this exchange' displayed as prosecution exhibit"
+  - line: ~190
+    event: "Three 'He could say' paragraphs — silence as terminal act"
+  - line: ~216
+    event: "Pen behind locked door"
+  - line: ~232
+    event: "Jordanian flag still flickering"
+  - line: ~248
+    event: "'The record was complete. The record was public. The record had changed nothing.'"
+
+newCanonicalDetails:
+  - "Dr. Adeyemi — Nigerian diplomat, tribunal presider, 20-year acquaintance"
+  - "Pen purchased Geneva 2039 (5 years before signing)"
+  - "Photograph provenance: Tariq's copy (grandfather → Zeyad, skips Kamal)"
+  - "Eleven years in current office"
+  - "NitroCore stock stabilized within 48 hours"
+  - "41 minutes deliberation (echoes 41 signatories)"
+  - "32 national + 14 corporate flag displays in Hall of Nations"
+  - "Tribunal Chamber — same circular architecture as Committee Chamber 3"
+
+continuityVerified:
+  - "Pen not in hand since Ch 45"
+  - "Jordanian flag flickering (months)"
+  - "41 original signatories"
+  - "Committee vote 23-3"
+  - "Article 12, Section 8"
+  - "Notebook photographed/published"
+  - "'I did not log this exchange'"
+  - "Practiced smile absent"
+  - "Khalil portrait — eastern alcove"
+  - "Back-channel dead (Mirelle absorbed)"
+  - "Black Babel relay"
+  - "Annex C redactions"
+  - "Sofia publishes simultaneously"
+  - "Mirelle's sentence fragment"
+  - "São Paulo Wire as dead-hand recipient"
+  - "Pen provenance (4 generations)"
+
+themePresence:
+  architecture: Dominant
+  complicity: Dominant
+  truth: Strong
+  obligation: Strong
+  commodification: Moderate
+  irrelevance: Moderate
+  atrocity: Background
+  identity: Background
+
+auditResults:
+  styleAudit: "12/12 PASS"
+  characterAudit: "Zeyad 9.5/10, Adeyemi 8.5/10, Khalil 9.0/10"
+  continuityCheck: "16/16 PASS"
+  fixesApplied: 9
+  fixesSelfReview: 7
+  fixesAuthorReview: 2
+
+crossReferences:
+  previousZeyad: "Ch 45 — The Partial Transmission"
+  nextZeyad: "Book 2 (Lagos)"
+  epigraphThread: ["Ch 6", "Ch 17", "Ch 30", "Ch 45", "Ch 50"]
+  penArc: ["Ch 6 (held)", "Ch 17 (both records)", "Ch 30 (beside notebook)", "Ch 45 (set down)", "Ch 50 (inaccessible)"]
+  portraitArc: ["Ch 6 (touched unconsciously)", "Ch 17 (present)", "Ch 30 (touched deliberately)", "Ch 45 (touched, ritual eroding)", "Ch 50 (not touched / inaccessible)"]
+  flagArc: ["Ch 6 (43 mornings)", "Ch 17 (still flickering)", "Ch 30 (9 weeks)", "Ch 45 (nobody was going to fix it)", "Ch 50 (months, maintenance request pending)"]
+
+auditFlags:
+  - "Dr. Adeyemi — new named character, track in Book 2"
+  - "Pen purchased Geneva 2039 — new provenance detail"
+  - "NitroCore stock stabilized 48 hours — new canonical detail"
+  - "41 minutes deliberation — AEGIS structural touch"
+  - "Zeyad credentials revoked — Book 2 starts outside institution"
+  - "Pen behind locked door — does it return in Book 2?"

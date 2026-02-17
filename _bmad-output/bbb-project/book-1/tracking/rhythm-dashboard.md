@@ -72,6 +72,9 @@ project_name: "Untitled"
 | **35** | Nephthys | 4,300 | TEXTURE | — | — | — | — | 📝 |
 | **36** | Aurielle | 5,200 | PRESSURE | ~15% | 3→5→7→9→3 | 9.2 | 15/85 | ✅ |
 | **47** | Nikolai | 4,500 | TEXTURE | 0% | 3→5→3 | 9.0 | 5/95 | ✅ |
+| **48** | Nephthys | 5,200 | TEXTURE | ~3% | 3→7→5→8→5 | 9.0 | 15/85 | ✅ |
+| **49** | Fuxi | 4,200 | TEXTURE | ~5% | 4→6→8→5→3 | 9.0 | 20/80 | ✅ |
+| **50** | Zeyad | 4,700 | TEXTURE | 0% | 3→5→7→4 | 9.0 | 15/85 | ✅ |
 <!-- INSERT_NEXT_DASHBOARD -->
 
 ### Phase Health
@@ -82,7 +85,7 @@ project_name: "Untitled"
 | Phase 2 | 11/12 | 11/12 | 8.9 | 5.4 | 3P/8T | 📝 |
 | Phase 3 | 14/14 | 13/14 | 9.0 | 5.5 | 4P/10T | ✅ |
 | Phase 4 | 8/9 | 8/9 | 9.0 | 5.8 | 4P/4T | 📝 |
-| Phase 5 | 2/7 | 2/7 | 9.1 | 3.8 | 0P/2T | 📝 |
+| Phase 5 | 5/7 | 5/7 | 9.0 | 4.0 | 0P/5T | 📝 |
 
 ---
 

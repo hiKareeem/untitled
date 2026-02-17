@@ -618,6 +618,23 @@ Zeyad's emotional register is composure — not performance but architecture. Th
 | Ch 45 — Beat 12 | Deliberate action | Touches photograph deliberately (not ritual); recognizes "the alternative to filing was acting" | Opens new document on encrypted relay. "The document was not a report." Begins writing public statement. | None — alone |
 | Ch 45 — Beat 13 | Composure repurposed | Writing the public statement | "In the notebook, the pen moved." Hand steady. Composure holds for the act — institutional vocabulary turned against institution. | None — alone |
 | Ch 45 — Beat 14 | Release | Publishes statement; sets pen down | "The pen was beside it — not in his hand anymore." The act is complete. The record is complete. The Jordanian flag is still flickering. | None — alone; the packets travel |
+| Ch 50 — Beat 1 | Exhausted recognition | São Paulo Wire runs story about the leak, not the evidence | Reads at desk, lamp on, photograph at edge of vision. Pen beside notebook — not in hand. "The accuracy was the problem." | None — alone |
+| Ch 50 — Beat 2 | Institutional déjà vu | Singapore Feed: "methodology concerns." Sofia mentioned. | "Under review." Recognizes the committee-deliberation-finding-filing cycle will repeat. Closes the Feed. | None — alone |
+| Ch 50 — Beat 3 | Terminal stillness | Desk organized — "not disorderly accumulation but organized stillness" | Does not pick up the pen. The work is completed. The back-channel is dead. | None — alone |
+| Ch 50 — Beat 4 | Institutional recognition (final) | Summons arrives — Article 12, Section 8, heavy stock, adhesive seal | Reads standing. Same posture as cease-and-desist. "The architecture did not bluff. The architecture processed." | None — alone |
+| Ch 50 — Beat 5 | Arrested ritual | Stops at Khalil's portrait en route to tribunal | Does not touch the frame. Morning walks stopped. "The preparation was no longer necessary." | None — alone in corridor |
+| Ch 50 — Beat 6 | Composure as architecture (terminal) | Tribunal chamber — seven members, gallery, NitroCore terminal | Recognizes three committee delegates. "They were institutional." Sits in defendant's seat. | Gallery: institutional observation |
+| Ch 50 — Beat 7 | Silence as terminal act | "Coordinator Al-Fahim. You may respond to the charges." | Says nothing. Three "He could say" paragraphs — each procedurally irrelevant. Looks at Dr. Adeyemi. Twenty years. | Tribunal: notes decision; gallery: waits; NitroCore: watches |
+| Ch 50 — Beat 8 | Composure bearing its own termination | Verdict: guilty on all five counts, credentials revoked | "The composure did not crack." Listens the way he listened to the 23-3 vote. | Tribunal: adjourns; gallery: disperses |
+| Ch 50 — Beat 9 | Loss physicalized | Biometric panel glows red — office inaccessible | Pen behind locked door. Photograph behind locked door. "The pen was behind a door he could not open." | None — alone in corridor |
+| Ch 50 — Beat 10 | Steadiness as residue | Hands steady, practiced smile absent | "The steadiness was the last thing the institution had given him, and the institution could not revoke it because the steadiness was not a credential but a habit." | None — alone |
+| Ch 50 — Beat 11 | Terminal clarity | Walks New Geneva, hum in pavement | "The record was complete. The record was public. The record had changed nothing." Unhurried gait. | None — alone in the streets |
+| Ch 50 — Beat 12 | Exhausted acceptance | Final image — pen on desk behind red door | "The ink was dry on the last page. The record was complete." | None — alone; the arc is finished |
+
+**Phase 5 Emotional State:**
+- **Ch 50 (Opening)**: Exhausted recognition — the world responds to the leak, not the evidence. The institutional vocabulary ("methodology concerns," "under review") confirms the architecture's immune response.
+- **Ch 50 (Tribunal)**: Composure as terminal architecture — holds through prosecution, silence, verdict. Not performance but the last structural element of a demolished identity.
+- **Ch 50 (Closing)**: Exhausted acceptance — the record is complete, public, and changes nothing. The pen is behind a locked door. The steadiness survives as habit. The arc is finished.
 
 ---
 

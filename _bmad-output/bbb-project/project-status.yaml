@@ -524,6 +524,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Fuxi POV (5th appearance, FINAL Book 1). Emerges from converter station Day 3 post-BLACKWEIR. Climbs 187 rungs through violet-frosted ascent shaft. Walks to Block 14, finds Nuwa alive in masonry annex. Reunion embrace — full page, no dialogue. 'Fuxi did not count' (emotional peak). Nuwa: 'I'm not going back.' / Fuxi: 'I know.' Relief station: biometric processing, temporary IDs, re-housing queue. Nuwa walks away into Mid-Level crowd — chooses invisibility. Fuxi walks back into Sump toward Kindling. 'Thursday was today.' Rhetoric: Emergency Relief Processing Form — 'Subject departed without completing intake.' Arc completion: Fuxi (Maintenance Man → Radical), Nuwa (Invisible → Deliberately Invisible). Dialogue ~5% (lowest Fuxi chapter, justified). Duan stays in converter station. Tools = 'artifacts of a profession that no longer existed.' FINAL Fuxi POV in Book 1."
 
-completedCount: 51
-totalWords: 238237
+  chapter_50:
+    title: "The Record"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4700
+    completedDate: "2026-02-17"
+    metaFile: "chapter-50-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 5 — Zeyad POV (4th appearance, FINAL Book 1). Publication aftermath Day 3: São Paulo Wire runs story about the leak, not the evidence. Singapore Feed: 'methodology concerns.' Sofia's parallel release 'under review.' Summons Day 5 — Article 12, Section 8. Tribunal in Hall of Nations: Dr. Adeyemi presides (Nigerian diplomat, 20-year acquaintance). Five counts unauthorized disclosure — procedurally correct, content-blind. Evidence displayed as prosecution exhibits (Mirelle's cache, committee transcripts, notebook pages, 'I did not log this exchange'). Three 'He could say' paragraphs — each procedurally irrelevant. Zeyad says nothing. Deliberation: 41 minutes (echoes 41 signatories). Guilty all five counts. Credentials revoked, access suspended. Biometric panel red. Pen behind locked door (Khalil's, 4 generations, Geneva 2039). Photograph behind locked door. Jordanian flag still flickering (months). Walks New Geneva — 'the record was complete, and the record was public, and the record had changed nothing.' Epigraph: Article 12, Section 8. Epigraph thread complete (Ch 6→17→30→45→50). Dr. Okafor renamed to Dr. Adeyemi (avoid confusion with Lena Okafor). São Paulo Wire confirmed correct (Ch 9/34 dead-hand recipient)."
+
+completedCount: 52
+totalWords: 242937
 lastUpdated: "2026-02-17"
