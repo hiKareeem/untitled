@@ -46,8 +46,8 @@
 - Plan adherence
 
 **Output:**
-- `tracking/audit-chapter-{N}.md` — structured audit findings
-- `tracking/chapter-{N}-themes.md` — per-chapter thematic analysis
+- `tracking/audits/audit-chapter-{N}.md` — structured audit findings
+- `tracking/themes/chapter-{N}-themes.md` — per-chapter thematic analysis
 
 ### Step 06: Bible & Tracking Update (step-06-bible-update.md)
 **Data propagation to tracking and bible files**
@@ -70,7 +70,7 @@
 ## Status Storage
 
 Audit status is tracked in:
-- **Audit file:** `tracking/audit-chapter-{N}.md` (detailed findings)
+- **Audit file:** `tracking/audits/audit-chapter-{N}.md` (detailed findings)
 - **Chapter frontmatter:** `stepsCompleted` array tracks which steps are done
 - **No separate `auditChain` block** in chapter frontmatter — the stepsCompleted array is sufficient
 
@@ -80,8 +80,8 @@ Audit status is tracked in:
 Chapter {N} — "{title}" — v1-complete
 
 Files created:
-- tracking/audit-chapter-{N}.md
-- tracking/chapter-{N}-themes.md
+- tracking/audits/audit-chapter-{N}.md
+- tracking/themes/chapter-{N}-themes.md
 
 Files updated:
 - tracking/themes.md, emotions.md, rhythm.md

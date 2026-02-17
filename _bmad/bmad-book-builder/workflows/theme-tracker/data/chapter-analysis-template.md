@@ -1,6 +1,6 @@
 # Chapter Analysis Template
 
-Use this structure for each chapter analysis file: `tracking/chapter-{XX}-themes.md`
+Use this structure for each chapter analysis file: `tracking/themes/chapter-{XX}-themes.md`
 
 ---
 

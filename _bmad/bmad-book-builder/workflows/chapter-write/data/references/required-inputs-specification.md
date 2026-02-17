@@ -138,7 +138,7 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 **Location:** `{thematicContextPath}` (primary: bible/themes.md)
 
 **Additional sources (load if available):**
-- Per-chapter thematic analysis: `{bbb_output_folder}/current-book/tracking/chapter-{N}-themes.md` (for previous chapters)
+- Per-chapter thematic analysis: `{bbb_output_folder}/current-book/tracking/themes/chapter-{N}-themes.md` (for previous chapters)
 - Cumulative themes tracking: `{bbb_output_folder}/current-book/tracking/themes.md`
 
 **Contains:**

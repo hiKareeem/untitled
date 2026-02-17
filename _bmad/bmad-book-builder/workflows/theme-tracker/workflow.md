@@ -68,7 +68,7 @@ This workflow updates/creates the following files in the project's tracking fold
 
 - `tracking/themes.md` - Complete theme tracking with progression
 - `tracking/emotions.md` - Emotional arc data per character
-- `tracking/chapter-{XX}-themes.md` - Per-chapter thematic analysis
+- `tracking/themes/chapter-{XX}-themes.md` - Per-chapter thematic analysis
 
 ---
 

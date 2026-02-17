@@ -7,8 +7,8 @@ nextStepFile: './step-06-bible-update.md'
 
 # Output
 outputFile: '{bbb_output_folder}/current-book/chapters/chapter-{chapter_number}.md'
-auditFile: '{bbb_output_folder}/current-book/tracking/audit-chapter-{chapter_number}.md'
-themeAnalysisFile: '{bbb_output_folder}/current-book/tracking/chapter-{chapter_number}-themes.md'
+auditFile: '{bbb_output_folder}/current-book/tracking/audits/audit-chapter-{chapter_number}.md'
+themeAnalysisFile: '{bbb_output_folder}/current-book/tracking/themes/chapter-{chapter_number}-themes.md'
 
 # References
 storyBiblePath: '{bbb_output_folder}/bible/'

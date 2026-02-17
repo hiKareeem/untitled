@@ -134,7 +134,7 @@ installed_path: '{project-root}/_bmad/bmad-book-builder/workflows/theme-tracker'
 
 - `tracking/themes.md` — Complete theme tracking with progression
 - `tracking/emotions.md` — Emotional arc data per character
-- `tracking/chapter-{XX}-themes.md` — Theme analysis per chapter
+- `tracking/themes/chapter-{XX}-themes.md` — Theme analysis per chapter
 
 ---
 

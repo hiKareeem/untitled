@@ -80,7 +80,7 @@ Using the per-chapter thematic analysis from step-05:
 ```
 | Ch {N} | **{Intensity}.** {1-2 sentence summary} | {Character}: {1-line impact} | {Next step pointer} |
 ```
-Full thematic analysis remains in `tracking/chapter-{N}-themes.md`.
+Full thematic analysis remains in `tracking/themes/chapter-{N}-themes.md`.
 
 ### 2. Update Tracking: emotions.md
 
@@ -183,8 +183,8 @@ Update {outputFile} frontmatter:
 **Chapter {chapter_number} — "{title}" — v1-complete**
 
 **Files created:**
-- tracking/audit-chapter-{N}.md
-- tracking/chapter-{N}-themes.md
+- tracking/audits/audit-chapter-{N}.md
+- tracking/themes/chapter-{N}-themes.md
 
 **Files updated:**
 - tracking/themes.md — Ch {N} entries in all 8 theme tables

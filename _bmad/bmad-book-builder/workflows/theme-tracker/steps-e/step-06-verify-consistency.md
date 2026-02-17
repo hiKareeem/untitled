@@ -172,7 +172,7 @@ Based on the analysis:
 **Files updated:**
 - ✅ tracking/themes.md
 - ✅ tracking/emotions.md
-- ✅ tracking/chapter-{chapterNumber}-themes.md
+- ✅ tracking/themes/chapter-{chapterNumber}-themes.md
 
 **Overall thematic health:** [Excellent / Good / Watch / Concerning]
 

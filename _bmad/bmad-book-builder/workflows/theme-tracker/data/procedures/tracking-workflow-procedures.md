@@ -17,7 +17,7 @@ The Theme Tracker workflow analyzes chapter content for thematic elements, chara
 **Output Files:**
 - `tracking/themes.md` - Master theme tracking
 - `tracking/emotions.md` - Master emotion tracking
-- `tracking/chapter-{XX}-themes.md` - Per-chapter analysis
+- `tracking/themes/chapter-{XX}-themes.md` - Per-chapter analysis
 
 ---
 
@@ -112,7 +112,7 @@ Check if `{project_folder}/tracking/emotions.md` exists:
 
 **For chapter-{XX}-themes.md:**
 
-Check if `{project_folder}/tracking/chapter-{chapterNumber}-themes.md` exists:
+Check if `{project_folder}/tracking/themes/chapter-{chapterNumber}-themes.md` exists:
 
 - **If exists:**
   - Warn that analysis will be updated
@@ -714,7 +714,7 @@ Or: "No special points of attention"
 **Files updated:**
 - ✅ tracking/themes.md
 - ✅ tracking/emotions.md
-- ✅ tracking/chapter-{N}-themes.md
+- ✅ tracking/themes/chapter-{N}-themes.md
 
 **Overall thematic health:** [Excellent/Good/Watch/Concerning]
 ```

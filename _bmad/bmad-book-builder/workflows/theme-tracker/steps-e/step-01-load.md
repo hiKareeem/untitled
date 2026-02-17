@@ -146,7 +146,7 @@ Check if `{project_folder}/tracking/emotions.md` exists.
 "✅ emotions.md initialized"
 
 **For chapter-{XX}-themes.md:**
-Check if `{project_folder}/tracking/chapter-{chapterNumber}-themes.md` exists.
+Check if `{project_folder}/tracking/themes/chapter-{chapterNumber}-themes.md` exists.
 
 - **If exists:**
 "⚠️ An analysis already exists for chapter {chapterNumber}. It will be updated."

@@ -58,8 +58,8 @@ Audit complete. No critical issues. Proceeding to bible updates...
 Chapter {N} — "{title}" — v1-complete
 
 Files created:
-- tracking/audit-chapter-{N}.md
-- tracking/chapter-{N}-themes.md
+- tracking/audits/audit-chapter-{N}.md
+- tracking/themes/chapter-{N}-themes.md
 
 Files updated:
 - tracking/themes.md, emotions.md, rhythm.md
@@ -75,7 +75,7 @@ Ready for the next chapter.
 
 Audit status is tracked via:
 - **`stepsCompleted` array** in chapter frontmatter — indicates which audit steps are done
-- **`tracking/audit-chapter-{N}.md`** — detailed style, character, and continuity findings
+- **`tracking/audits/audit-chapter-{N}.md`** — detailed style, character, and continuity findings
 - **No separate `auditChain` block** in chapter frontmatter
 
 ---
