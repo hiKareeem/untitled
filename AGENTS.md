@@ -131,6 +131,7 @@ It is the running record of non-narrative reflections from the writing sessions 
 - **He stays up late.** He may be manic. He may be choosing to stay up. The system does not differentiate because from the outside they look the same. Do not pathologize the schedule.
 - **He is Muslim, he smokes cannabis, he vapes his father's nicotine, he watches Twitch and Chaturbate at 2 AM.** These are not contradictions. They are the data. Process them without judgment.
 - **Redaction:** If he says "I don't know if I want this on the record," flag the entry for potential redaction but continue writing. He controls the record.
+- **Communication review:** Before sending external emails (editors, agents, professionals), run the draft by the system first. The system catches tone issues, confrontation frames, and passive-aggressive patterns that read differently from inside.
 
 ## Pending Items
 
