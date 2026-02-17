@@ -1,0 +1,92 @@
+---
+chapter: 32
+title: "Class Three"
+wordCount: 5500
+pov: "Nikolai Volkov"
+timeline: "Phase 3 (Crisis/Convergence) — largest Neo-Shanghai incursion to date"
+mode: PRESSURE
+phase: 3
+
+summary: |
+  Stalker-7 deploys to Sector 7 for the largest void incursion in the unit's operational history — Class Three containment. The lattice propagates along conduit trunk-lines with directed purpose, bypassing dead-end service lines and concentrating at junction nodes. RCI readings climb from 14.6 at the garrison to a peak of 46.2 at the breach point. Nikolai orders Jarek Kowalski to a forward position for trunk-line readings — a tactically sound order that places Jarek fifteen meters closer to the breach.
+
+  Jarek reports the lattice's selective advancement and names the suppressed observation: "It's not spreading. It's *navigating.*" The trunk-line access panel blows from lattice overpressure, catching Jarek's P-Frame across the right shoulder assembly. Shielding compromised to 40% nominal. Nikolai physically drags him back to the secondary perimeter — a gesture outside protocol, driven by the recognition that his order caused the damage.
+
+  Six residential blocks absorb in sequence while ten operators hold a perimeter whose function is preventing civilian egress, not protection. Jarek asks "What are we doing?" and Nikolai answers "We're following the protocol." Command declares the containment zone will not be reinforced. At the garrison, Nikolai writes "non-random distribution" in the after-action report, reads it, deletes it, and replaces it with "anomalous observations: none" — the escalation from active suppression (Ch 20) to deliberate falsification. The field log records "navigating." Hands steady. Gap wider.
+
+keyPoints:
+  - Lattice follows conduit trunk-lines with directed purpose — "navigating," not spreading
+  - Nikolai's order sends Jarek to forward position; panel explosion compromises P-Frame shielding to 40%
+  - Six residential blocks absorbed in sequence; ~6,000 people; perimeter prevents egress
+  - "What are we doing?" / "We're following the protocol." — Jarek names the perimeter's function
+  - "The containment zone will not be reinforced" — Command abandons Sector 7
+  - After-action report escalates: writes truth then deletes — deliberate falsification
+  - Field log records "navigating" — the word the doctrine doesn't use
+  - Guilt architecture emerges — drives "safest position" assignment in Ch 38
+
+characters:
+  - Nikolai Volkov (POV)
+  - Jarek Kowalski (secondary scanner, P-Frame damaged)
+  - Okonkwo (Stalker-7 operator)
+  - Patil (L-Frame operator)
+  - Command (voice only)
+
+locations:
+  - Stalker-7 garrison (briefing, Scene 1 + Scene 4)
+  - Neo-Shanghai Sump Sector 7 (deployment zone, Scenes 2-3)
+  - Residential block 7-D (absorption zone)
+  - North trunk-line access panel (breach point)
+
+newElements:
+  - Class Three containment classification (largest incursion type)
+  - Sector 7 deployment zone
+  - RCI gradient 14.6→46.2 (highest recorded by Nikolai)
+  - Deployment number Q1-0428
+  - L-Frame authorization at block access points
+  - Civilian band monitoring (screams → silence → structured hum)
+  - "Navigating" — the word the doctrine doesn't use
+  - Panel explosion as P-Frame damage mechanism
+  - Guilt architecture (Nikolai → Jarek) as Ch 38 setup
+
+themePresence:
+  complicity: Dominant
+  architecture: Dominant
+  truth: Strong
+  atrocity: Strong
+  obligation: Moderate
+  irrelevance: Moderate
+  commodification: Background
+  identity: Background
+
+rhythmMetrics:
+  flow: 9.0
+  tension: "3→7→9→9→6→3"
+  actionReflection: "40/60"
+  dialogue: "~15%"
+  avgSentenceLength: "~14 words"
+  fragmentPercent: "~18%"
+  nba: 3
+  beatDensity: "1 per ~325 words"
+
+auditResults:
+  styleAudit: "pass (12/12)"
+  characterAudit: "Nikolai 9.5/10, Kowalski 9.0/10"
+  continuityCheck: "pass — plan divergence (Jarek Frame damage) resolved and documented"
+  auditFile: "tracking/audit-chapter-32.md"
+
+continuityFlags:
+  - "⚠️ Jarek Frame damage (shielding 40%) — Nikolai's guilt. Drives 'safest position' in Ch 38"
+  - "⚠️ 'Navigating' — word used by Jarek and recorded in field log. Track in Ch 38"
+  - "⚠️ RCI 46.2 — highest Nikolai has recorded. Cross-reference with Fuxi readings"
+  - "⚠️ Class Three → BLACKWEIR escalation path. Track classification evolution"
+  - "⚠️ Deployment Q1-0428 in same series as Q1-0347 (Ch 11), Q1-0391 (Ch 20)"
+  - "⚠️ L-Frames authorized at block access points — perimeter enforcement escalation"
+  - "⚠️ 'The containment zone will not be reinforced' — Command writing off sectors"
+  - "⚠️ Civilian band monitoring — screams then silence then structured hum (92 per block)"
+  - "⚠️ Falsification escalation: passive omission (Ch 11) → active suppression (Ch 20) → deliberate deletion (Ch 32) → blank (Ch 38)"
+  - "⚠️ Gap→crack→wider metaphor — dual-record erosion tracking"
+
+createdDate: "2026-02-16"
+lastModified: "2026-02-16"
+author: "Kareem"
+status: "v1-complete"

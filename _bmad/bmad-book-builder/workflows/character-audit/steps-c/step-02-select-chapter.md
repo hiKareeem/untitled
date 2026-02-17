@@ -3,7 +3,7 @@ name: 'step-02-select-chapter'
 description: 'Select chapter to audit and verify character appears in it'
 
 # Output
-chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
+chaptersFolder: '{bbb_output_folder}/current-book/chapters/'
 selectedChapter: null
 selectedChapterNumber: null
 selectedChapterFile: null

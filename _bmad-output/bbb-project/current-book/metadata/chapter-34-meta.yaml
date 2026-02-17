@@ -1,0 +1,122 @@
+---
+chapter: 34
+title: "Dead-Hand"
+pov: "Mirelle Dubois"
+phase: 3
+status: v1-complete
+completedDate: "2026-02-17"
+wordCount: 4400
+draftVersion: 1
+mode: TEXTURE
+
+scenes:
+  - number: 1
+    location: "Transit box, Sump Sector 3"
+    characters: ["Mirelle Dubois"]
+    summary: "Dead-hand timer check (13h42m). Nitro-ear bilateral at 11 weeks — 1 week to permanent. Complete evidence inventory: 7 flood valves, 53 RCI readings, 28 disappearances, infrastructure maps, co-origin data, matched-district analysis, diplomatic fragments, personal analysis. 'The shape was the argument.' Tragus test abandoned (redundant). Three-copy redundancy confirmed."
+    tension: 2→3
+  - number: 2
+    location: "Node RD-14, Resonance District (textile wholesaler's loading dock)"
+    characters: ["Mirelle Dubois", "Talia Ravid"]
+    summary: "Final deposit with Talia. Processing ring amber→green. 'You look like shit, Dubois.' Three-minute silence scrolling dataset. 'You're not depositing evidence. You're writing a will.' Dead-hand protocol reviewed — three sealed recipients, 144 hours total. Sofia's atmospheric data on Talia's node — compartmentalized ('I don't cross the streams'). 'Every six hours. Weeks.' — Zeyad's check-in frequency. 'That's somebody's diplomat.' Babel price: nothing. 'I'm investing in your dead-hand, Dubois.' Farewell: 'No sentiment. No follow-up.' Cold tea. 'Go check in.'"
+    tension: 4→7→5
+  - number: 3
+    location: "Transit box, Sump Sector 3"
+    characters: ["Mirelle Dubois"]
+    summary: "Private notation. 'The architecture survives the architect.' Djamel/Abidjan callback (redundancy tradecraft origin). 'The twenty-ninth had not been mine. Not today.' Closing: cot, hum and ringing merge — 'neither source could be distinguished from the other.' Body and infrastructure converging."
+    tension: 4→3
+
+keyPoints:
+  - "Complete fourteen-month evidence dataset deposited with Talia Ravid at Node RD-14"
+  - "Dead-hand protocol finalized: three sealed recipients, auto-distribute on two missed 72-hour windows (144 hours total)"
+  - "Talia charges nothing — investing in the dead-hand's posthumous market value"
+  - "Sofia's atmospheric convergence data crosses Talia's node but compartmentalized from Mirelle's stream"
+  - "Zeyad's 6-hour check-in frequency observed by Talia: 'That's somebody's diplomat'"
+  - "Mirelle does NOT know Zeyad by name — anonymous back-channel contact"
+  - "Mirelle does NOT know BLACKWEIR name or purpose — dramatic irony preserved"
+  - "Nitro-ear bilateral at 11 weeks — 1 week to permanent sensorineural damage"
+  - "7th flood valve documented via ventilation corridor, Sector 6 (retired inspector's credentials)"
+  - "28 disappearances across 6 sectors (progression toward 31 at Ch 40)"
+  - "Three-copy redundancy: drive in boot, paper in coat lining, local partition behind left eye"
+  - "'The architecture survives the architect' — the chapter's thesis"
+  - "Epigraph: Black Babel Operational Protocols — 'Client-initiated dead-hand services are non-negotiable upon registration'"
+
+characters:
+  present:
+    - name: "Mirelle Dubois"
+      role: POV
+      arc: "Hunter → architect — shifts from gathering evidence to ensuring its survival"
+    - name: "Talia Ravid"
+      role: Supporting
+      arc: "Node operator → investor — charges nothing for the first time, calculating posthumous market value"
+  mentioned:
+    - name: "Zeyad Al-Fahim"
+      context: "Referenced as 'the diplomat' — anonymous back-channel contact. 6-hour check-in frequency observed by Talia."
+    - name: "Sofia Reyes"
+      context: "Her atmospheric convergence data crosses Talia's node, compartmentalized from Mirelle's stream"
+    - name: "Gauthier"
+      context: "Referenced obliquely via editorial board and institutional vocabulary"
+    - name: "Djamel"
+      context: "Abidjan backstory — cameraman who taught Mirelle the three-copy redundancy protocol"
+
+locations:
+  - "Transit box, Sump Sector 3 (established Ch 13)"
+  - "Node RD-14, Resonance District — rotated to textile wholesaler's loading dock (NEW sub-location)"
+  - "Ventilation corridor, Sector 6 (referenced — 7th flood valve location)"
+
+newElements:
+  - "Node RD-14 rotation — textile wholesaler's loading dock (Resonance District commercial strip)"
+  - "7th flood valve — ventilation corridor, Sector 6, retired inspector's credentials"
+  - "Talia's 'nothing' price — first time charging nothing (investment in posthumous market value)"
+  - "Djamel (Abidjan) — backstory character, taught three-copy redundancy"
+  - "Cameraman in Caracas — backstory reference ('died proving insufficient')"
+  - "Three-copy redundancy protocol: drive in boot, paper in coat lining, local partition behind left eye"
+
+continuity:
+  verified:
+    - "Nitro-ear timeline: 11 weeks (progression from 9wk Ch 29, consistent with ~3 week gap)"
+    - "Disappearance count: 28 (progression from 26 at Ch 29, toward 31 at Ch 40)"
+    - "Flood valve count: 7 (progression from 6 at Ch 29, matches Ch 40's 7)"
+    - "Dead-hand timer rhythm maintained (72-hour rolling cycle)"
+    - "Processing ring (amber/green) — consistent with Ch 24 establishment"
+    - "Node RD-14 rotation pattern — consistent with 3-month cycle"
+    - "Cantonese passphrase protocol — consistent across appearances"
+    - "Dead-hand recipients unchanged (São Paulo, Singapore, encrypted back-channel)"
+    - "Mirelle does NOT know Zeyad by name (Ch 17 exchange was anonymous)"
+    - "Mirelle does NOT know BLACKWEIR (dramatic irony preserved)"
+    - "Sofia's data compartmentalized from Mirelle's stream (per author instruction)"
+  flags:
+    - "7th flood valve location (ventilation corridor, Sector 6) — new access route, track if referenced"
+    - "Talia's 'nothing' price — track whether referenced in Ch 40 or Ch 45"
+    - "Sofia's atmospheric data on Talia's node — remains compartmentalized through Ch 41"
+    - "Zeyad's 6-hour check-in frequency — must be consistent with Ch 30/45"
+    - "28 disappearances — 3 more needed by Ch 40 (trunk-line welder Sector 5, conduit inspector Sector 2)"
+    - "Djamel (Abidjan) — new backstory name, track if expanded"
+    - "Three-copy redundancy — all three should be present/accessible in Ch 40"
+    - "Processing ring shorthand established — future chapters maintain 'the ring' pattern"
+
+rhetoric:
+  epigraph: "Black Babel Operational Protocols, Revision 14 — 'Client-initiated dead-hand services are non-negotiable upon registration. Modification requires physical presence. Cancellation requires physical presence. In the absence of physical presence, the protocol executes as registered.'"
+  inChapter: "Mirelle's private notation (raw register) — 'The architecture survives the architect'"
+
+style:
+  dialogue: "~18%"
+  nba: 4
+  flow: 9.0
+  tensionArc: "2→7→3"
+  actionReflection: "20/80"
+  avgSentenceLength: "~16 words"
+  fragmentPercent: "~17%"
+  mode: TEXTURE
+  subtype: "investigative/dead-hand-architecture (evidence inventory as scene architecture, Talia scene as tension engine, dead-hand protocol as structural metaphor)"
+
+auditResults:
+  styleAudit: "12/12 pass, 3 style fixes + 1 knowledge boundary fix (author review)"
+  characterAudit: "Mirelle 9.5/10, Talia 9.5/10"
+  continuityCheck: "All pass, 10 flags for future chapters"
+  thematicAnalysis: "Architecture Dominant, Truth Dominant, Complicity Strong, Commodification Strong"
+  auditFile: "tracking/audit-chapter-34.md"
+  thematicFile: "tracking/chapter-34-themes.md"
+
+meta_note: "AEGIS as invisible novelist — Mirelle's POV reconstructed from sensor data, ocular implant feed, RCI station telemetry, and Black Babel node transaction logs. The Talia scene is the highest-confidence reconstruction in this chapter — two data signatures in an acoustically monitored space. The private notation is speculative — interiority inferred from biometric stress indicators and typing patterns on the salvage terminal."
+---

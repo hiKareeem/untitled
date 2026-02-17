@@ -1,0 +1,126 @@
+# Chapter 23 Metadata
+# Generated: 2026-02-15
+
+---
+chapter: 23
+title: "Forward Position"
+status: v1-complete
+pov: "Nikolai Volkov"
+povAppearance: 3  # 1st: Ch 11, 2nd: Ch 20
+phase: 3
+mode: PRESSURE
+pressureSubtype: "military-operational (pre-positioning as horror engine, institutional geometry as tension mechanism, evacuation absence as dread)"
+
+# Timeline
+timelinePosition: "Weeks after Ch 20 (Sector 9 breach). Permanent forward deployment to Sump perimeter."
+concurrentWith: []
+precedesDirectly:
+  - "Ch 24 (Mirelle — Below Level 12, Deep Sump expedition)"
+followsDirectly:
+  - "Ch 22 (Fuxi — The Spike, Phase 2→3 transition trigger)"
+
+# Metrics
+wordCount: 4600
+scenes: 4
+dialoguePercent: 12
+avgSentenceLength: 16
+fragmentPercent: 20
+nbACount: 4
+flowScore: 8.8
+
+# Scenes
+scenes_detail:
+  - name: "Deployment Order / Garrison"
+    location: "Garrison quarters, Neo-Shanghai"
+    tension: "3/10 — institutional dread, reading between the lines"
+    beats: "VS-2175-0089 received, 'indefinite' duration, 'none issued' evacuation authority, field log entries since Sector 9"
+  - name: "FOB Meridian / Briefing"
+    location: "Forward Operating Base Meridian, Sector 12 junction complex"
+    tension: "4/10 — operational routine masking structural wrongness"
+    beats: "Repurposed maintenance junction, hum at 12.4, unit briefing, Kowalski jaw tightened, Rask rules-of-engagement question"
+  - name: "Micro-incursion / Ratcheting"
+    location: "Sector 11 residential corridor, then FOB return"
+    tension: "6/10 — void probing and retreating, baseline not returning"
+    beats: "Stage 1 breach (12m, 40 min), lattice withdrew (not dissipated), RCI ratchet 12.4→14.1, Kowalski 'ratcheting', VEC requests unanswered, child's shoe"
+  - name: "Evacuation Mapping / Field Log"
+    location: "FOB Meridian quarters, then corridor"
+    tension: "5/10 — slow horror of recognition, dread settling into posture"
+    beats: "17 corridors mapped, 1.4 million residents, 20-hour evacuation, deferred maintenance junctions, 'hold a line', hands check (steady), Kowalski tracing Corridor 7"
+
+# Characters
+characters:
+  pov: "Nikolai Volkov"
+  supporting:
+    - name: "Jarek Kowalski"
+      role: "Corporal — sharpening observer, approaching threshold"
+      significance: "Routing observation has changed him. 'Ratcheting.' Tracing evacuation routes independently. Seeds Ch 32 (saves Nikolai) and Ch 38 (absorbed, says 'Nikolai')."
+    - name: "Rask"
+      role: "Sergeant — the question-asker"
+      significance: "Stopped asking about mage liaison (institutional contagion). Now asks about civilian rules of engagement — more urgent question."
+    - name: "Okonkwo"
+      role: "Sergeant, L-Frame team leader"
+      significance: "Continuity from Ch 11/20. L-Frame maintenance."
+    - name: "Yeung"
+      role: "Operator — perimeter sensors"
+      significance: "Back from medical (Ch 20). Calibrating sensors."
+
+# Key Elements
+keyElements:
+  - "Deployment Order VS-2175-0089 — 'indefinite' duration, 'none issued' evacuation authority"
+  - "FOB Meridian — repurposed maintenance junction, tool racks → weapon racks"
+  - "Hum baseline: garrison 8.1 → FOB 12.4 → post-incursion 14.1 (ratcheting, not returning)"
+  - "Micro-incursion pattern: probing, retreating, baseline higher each time"
+  - "Lattice 'withdrew' (not dissipated) — retracing conduit routing with specificity"
+  - "VEC telemetry requests: 4 submitted, 0 acknowledged"
+  - "Sector 9-East removed from active monitoring list"
+  - "Evacuation mapping: 17 corridors, 4K/hr, 1.4 million residents, 20-hour full evacuation"
+  - "Deferred maintenance junctions visible: 4-7B, 11-2C, 6-9A, 3-1D (Ch 19 cross-link)"
+  - "Evacuation corridors share infrastructure with void routing paths"
+  - "Forward position faces inward — containment, not protection"
+  - "'We are not here to respond to breaches. We are here to hold a line.'"
+  - "Suppression escalation: passive omission (Ch 11) → active suppression (Ch 20) → structural recognition (Ch 23)"
+  - "Hands check: steady (continues from Ch 11/20)"
+  - "Child's shoe on floor beneath coat rack — domestic detail in breach corridor"
+  - "Kowalski's father: extraction-site engineer, Baltic corridor (new canonical detail)"
+
+# Epigraph
+epigraph:
+  source: "Reflections from the Perimeter"
+  text: "Rotation was supposed to be ninety days. Haraldsen's unit did two hundred and six. Nobody signed the extension. It just didn't come."
+  thread: "Ch 11 (Haraldsen word list) → Ch 23 (rotation extended, 90→206 unsigned) → Ch 38 (counting) → Ch 47 (final fragment)"
+
+# Rhetoric
+rhetoric:
+  type: "Deployment Order"
+  description: "VS-2175-0089 — institutional language as structural revelation. 'Duration: indefinite. Evacuation authority: none issued.'"
+
+# Thematic Presence
+themes:
+  dominant: ["Systemic Complicity"]
+  strong: ["Architecture of Power"]
+  moderate: ["Truth as Weapon", "Progress Requires Atrocity", "Commodification of Suffering"]
+  background: ["What We Owe", "Irrelevance of Individual Being", "Where Identity Ends"]
+
+# Cross-References
+crossReferences:
+  backward:
+    - "Ch 11: Hands check, field log, hum bookend, Haraldsen epigraph thread, Rask question evolution"
+    - "Ch 20: Sector 9 follow-up (removed from monitoring), Kowalski routing observation ripple, suppression escalation, dual-record system"
+    - "Ch 19: Deferred maintenance junctions (4-7B, 11-2C, 6-9A, 3-1D) visible on Nikolai's display — cross-POV link"
+    - "Ch 22: Q1-0412 alert in same series as Nikolai's deployment numbers"
+  forward:
+    - "Ch 32: Micro-incursions escalate to Class Three event. Kowalski saves Nikolai. Routing becomes navigation."
+    - "Ch 38: 'Hold a line' becomes lethal perimeter enforcement. Evacuation routes unused. Kowalski absorbed at Junction 14-East."
+    - "Ch 25: Aurielle learns about Confluence — the convergence Nikolai's forward position is staged for"
+    - "Ch 47: Final Nikolai chapter (Phase 5) — field log, tremor, Haraldsen thread concludes"
+
+# Audit
+auditFile: "tracking/audit-chapter-23.md"
+themeAnalysisFile: "tracking/chapter-23-themes.md"
+styleAudit: "12/12 pass, 1 fix applied (knowledge boundary — Rask 'suspected' → observable vocal quality)"
+characterAudit: "Nikolai 9.5/10, Kowalski 9.0/10, Unit 8.5/10"
+
+# Workflow
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+completedDate: "2026-02-15"
+author: "Kareem"

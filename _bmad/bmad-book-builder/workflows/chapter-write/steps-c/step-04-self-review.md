@@ -6,7 +6,7 @@ description: 'Style audit of chapter draft using style profile, apply fixes'
 nextStepFile: './step-05-audit.md'
 
 # Output
-outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
+outputFile: '{bbb_output_folder}/current-book/chapters/chapter-{chapter_number}.md'
 
 # Reference
 antiSlopChecklist: '../data/anti-slop-checklist.md'

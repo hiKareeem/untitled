@@ -11,7 +11,7 @@ reportTemplate: '../data/report-template.md'
 
 # Input Sources
 bibleFolder: '{bbb_output_folder}/bible/'
-chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
+chaptersFolder: '{bbb_output_folder}/current-book/chapters/'
 foundationFolder: '{bbb_output_folder}/foundation/'
 styleProfilePath: '{bbb_output_folder}/style-profile.md'
 ---

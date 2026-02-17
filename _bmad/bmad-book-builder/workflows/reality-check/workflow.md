@@ -104,7 +104,7 @@ This workflow produces:
 
 **Input Discovery:**
 - User specifies scope via menu (chapter/scene/element/all)
-- Reads chapter content from `{bbb_output_folder}/book-1/chapters/chapter-{N}.md`
+- Reads chapter content from `{bbb_output_folder}/current-book/chapters/chapter-{N}.md`
 - Scans `{bbb_output_folder}/research/dossiers/` for relevant reference materials
 - Uses web browsing for new fact verification when needed
 

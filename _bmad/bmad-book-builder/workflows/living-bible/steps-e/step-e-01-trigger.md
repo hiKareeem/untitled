@@ -20,7 +20,7 @@ themesFile: '{bbb_output_folder}/bible/themes.md'
 updateSessionFile: '{bbb_output_folder}/bible/.update-session.yaml'
 
 # Input Discovery
-chapterPattern: '{bbb_output_folder}/book-1/chapters/chapter-*.md'
+chapterPattern: '{bbb_output_folder}/current-book/chapters/chapter-*.md'
 chapterPlanPattern: '{bbb_output_folder}/chapter-plan*.md'
 ---
 

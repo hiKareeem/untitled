@@ -1,0 +1,62 @@
+# Chapter Metadata
+# Generated: 2026-02-16
+
+---
+chapter: 28
+title: "The Network"
+wordCount: 4100
+pov: "Fuxi Lin"
+timeline: "Phase 3, Week 14-15 (Thursday — two days after Ch 22 events)"
+mode: "TEXTURE"
+phase: 3
+
+summary: |
+  Fuxi attends his first Kindling meeting — Thursday, two days after the step-function spike. The welded bench from Ch 22 has been removed (cut at mounting bolts). The Kindling woman leads him to a decommissioned pump station beneath Section 4-East where twelve maintenance workers with 214 combined years of service have assembled a parallel investigation: 63 RCI readings matching Fuxi's log, 41 disappearances tracked. Lian (junction housing, 16 years) reveals 47 flood valves installed 2171-2173 under "pressure management upgrade" work orders — NitroCore hardware in municipal infrastructure. "The conduits aren't just power distribution. They're a delivery system. And we've been maintaining it."
+
+  Domestic scene: Nuwa's transfer denied (reason code 14-J, infrastructure personnel retention priority, indefinite). She delivers the news calm and factual; walks to her room without saying goodnight. Fuxi sits in the dark. Entry 63 records the transfer denial alongside RCI data — the log evolving from technical to political. "Tuesday was five days away."
+
+  The chapter marks the Lie's first direct hit ("Keeping your head down keeps the people you love safe") — fatally wounded but not yet destroyed (that comes in Ch 39). Fuxi's complicity becomes conscious: thirteen years of service reframed as weapon maintenance.
+
+keyPoints:
+  - Kindling network meeting — 12 maintenance workers, 214 combined years, decommissioned pump station
+  - 47 flood valves (NitroCore, 2171-2173, "pressure management upgrade") — delivery system revealed
+  - Step-function spike sustained 48 hours and counting (continuity from Ch 22)
+  - 41 disappearances tracked by network (vs. Fuxi's 23) — gap is the network's value
+  - Black Babel / Wire / Erasure List named as delivery channels
+  - Nuwa's transfer denied — reason code 14-J, infrastructure personnel retention priority, indefinite
+  - Entry 63 — log evolves from technical to political (transfer denial recorded)
+  - Bench from Ch 22 removed — institutional erasure of gathering points
+  - "Keep documenting. When this breaks, someone needs to know it was visible."
+  - The Lie fatally wounded — complicity now conscious
+
+characters:
+  - Fuxi Lin (POV)
+  - Kindling woman (unnamed, grey temples, water-recycling — recurring from Ch 22)
+  - Wei (NEW — pressure management, 22 years, conduit burns)
+  - Lian (NEW — junction housing, 16 years, blueprint reader)
+  - Nuwa Lin (domestic scene — transfer denied)
+  - Chen Wei (referenced — left 47 minutes early)
+
+locations:
+  - Deep Sump — ascent shaft corridor (bench removed)
+  - Deep Sump — decommissioned pump station beneath Section 4-East (NEW)
+  - Sump residential — Fuxi and Nuwa's apartment (Block 14)
+
+newElements:
+  - Decommissioned pump station as counter-institutional meeting space
+  - 47 flood valves (NitroCore, 2171-2173) — cross-POV consistency with Ch 24
+  - Reason code 14-J — infrastructure personnel retention priority
+  - Wei and Lian — new supporting characters
+  - "Absorptions" vocabulary — introduced by Wei (vs. "disappearances")
+  - Black Babel / Wire / Erasure List as named delivery channels
+
+auditResults:
+  styleAudit: "12/12 pass, 0 style fixes needed. 11 author-requested edits (frame wearable consistency, Root/Lens taxonomy removal). 2 continuity fixes (6h→48h timeline)."
+  characterAudit: "Fuxi 9.5/10, Kindling Woman 9.0/10, Wei 8.5/10, Lian 9.0/10, Nuwa 9.5/10"
+  continuityCheck: "pass — 1 flag: Ch 39 says 'nine years' but dossier math = thirteen (Ch 28 correct)"
+  auditFile: "tracking/audit-chapter-28.md"
+
+createdDate: "2026-02-16"
+lastModified: "2026-02-16"
+author: "Kareem"
+status: "v1-complete"

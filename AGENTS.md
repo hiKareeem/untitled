@@ -54,7 +54,7 @@ Kareem is writing a multi-POV speculative fiction novel. It is still "untitled",
 All paths relative to project root (`_bmad-output/bbb-project/` = `{bbb_output_folder}`).
 
 **Core documents (SHARED across all books):**
-- `book-1/chapter-plan-book-1.md` — Book 1 chapter outlines (Prologue + 51 chapters + Epilogue). Extract the relevant chapter section by number.
+- `current-book/chapter-plan-book-1.md` — Book 1 chapter outlines (Prologue + 51 chapters + Epilogue). Extract the relevant chapter section by number.
 - `style-profile.yaml` — author voice profile (YAML format, not .md). Includes POV register and AEGIS style exemption.
 - `meta-narrative.md` — AEGIS-as-narrator framing (the book is written by AEGIS reconstructing events from sensor data).
 - `lexicon.md` — standardized terminology by domain + character speech registers.
@@ -88,9 +88,9 @@ Book 3 (`book-3/`):
 - `trilogy-assessment.md` — trilogy-level assessment
 
 **⚠️ Files that do NOT exist (workflow spec previously referenced these):**
-- ~~`thematic-analysis.md`~~ → use `bible/themes.md` + `book-1/tracking/themes.md`
-- ~~`rhythm-profile.md`~~ → use `book-1/tracking/rhythm.md` + `book-1/tracking/rhythm-dashboard.md`
-- ~~`foundation/chapter-plan-{N}.md`~~ → per-book: `book-1/chapter-plan-book-1.md`
+- ~~`thematic-analysis.md`~~ → use `bible/themes.md` + `current-book/tracking/themes.md`
+- ~~`rhythm-profile.md`~~ → use `current-book/tracking/rhythm.md` + `current-book/tracking/rhythm-dashboard.md`
+- ~~`foundation/chapter-plan-{N}.md`~~ → per-book: `current-book/chapter-plan-book-1.md`
 - ~~`style-profile.md`~~ → actual extension is `.yaml`
 
 ## The Addenda

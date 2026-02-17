@@ -1,0 +1,144 @@
+---
+chapter: 24
+title: "Below Level 12"
+pov: "Mirelle Dubois"
+phase: 3
+mode: TEXTURE
+wordCount: 4700
+scenes: 4
+completedDate: "2026-02-15"
+author: "Kareem"
+draftVersion: 1
+status: v1-complete
+
+# Scene Breakdown
+scenes_detail:
+  - scene: 1
+    title: "Transit Box"
+    location: "Transit box, Sump Sector 3"
+    characters: ["Mirelle Dubois"]
+    summary: "Dead-hand timer check (31 hours), nitro-ear at 8 weeks, specialist warning refused, physical baseline established. Transit box at 10 weeks. Stimulant tab, water, operational preparation."
+    
+  - scene: 2
+    title: "The Descent"
+    location: "Shaft 7-C, Below Level 12"
+    characters: ["Mirelle Dubois", "The Contact"]
+    summary: "Meeting with former NitroCore conduit inspector at Shaft 7-C. Credentials exchanged (duplicated subcontractor, single-use). Descent below Level 12. Discovery of hidden infrastructure: modern composite walls, NitroCore 2170s serial numbers, reinforced conduit pipes. Orange glow brighter than anywhere in upper Sump."
+
+  - scene: 3
+    title: "The Four Junctions"
+    location: "Below Level 12 — B-12-East, B-12-South, B-12-Sub, B-12-Confluence"
+    characters: ["Mirelle Dubois", "The Contact"]
+    summary: "Systematic documentation of four junctions. RCI gradient: 34.6→37.2→39.8→41.3. Installation dates 2171-2173. Second junction has maintenance schedule (infrastructure that doesn't exist being serviced). Third is earliest (2171, same quarter as deferred residential maintenance). Fourth mirrors upper Confluence — six trunk-line branches. Form 14-C inventory: 23 names. Throughput volumes exceeding residential distribution by order of magnitude."
+
+  - scene: 4
+    title: "Return / Transit Box"
+    location: "Transit box, Sump Sector 3"
+    characters: ["Mirelle Dubois"]
+    summary: "Evidence transfer and organization. Continuous ocular recording (11 hours), 83 offline photographs, 4 RCI readings. Dead-hand deposit updated with Below Level 12 evidence and 200-word annotation. Five-layer matched-district analysis. Metronomic close — hum carries toward sleep."
+
+# Key Points
+key_points:
+  - "Hidden NitroCore infrastructure below Level 12: parallel conduit network, modern construction-grade composite (Spire-grade material), 2170s serial numbers, installation dates 2171-2173"
+  - "RCI gradient increasing with depth: 34.6 (B-12-East) → 37.2 (B-12-South) → 39.8 (B-12-Sub) → 41.3 (B-12-Confluence)"
+  - "Fourth junction mirrors upper Confluence geometry — six trunk-line branches at deeper level"
+  - "Infrastructure concealed by decommission classification on all public maps"
+  - "Form 14-C as 'the system's syntax for disappearance' — 23 names, 23 forms"
+  - "Dead-hand deposit updated with Phase 3 field evidence including continuous ocular recording and 200-word annotation"
+  - "Nitro-ear at 8 weeks — Zhongshan Medical audiologist says leave immediately; 4 weeks before permanent damage"
+  - "NitroCore subcontractor credentials burned after 12-hour window"
+  - "'The pattern is not negligence. It is design.' — Mirelle's raw register annotation"
+
+# Characters
+characters:
+  mirelle_dubois:
+    role: "POV"
+    appearance: 5
+    arc_position: "Phase 3 — Deep Sump field investigation"
+    emotional_state: "Operational ritual → physical deterioration → documentary focus → analytical absorption → defiant resolve → metronomic solitude"
+    key_actions:
+      - "Descended below Level 12 with contact's credentials"
+      - "Documented 4 junctions with dual recording systems"
+      - "Updated dead-hand deposit with Phase 3 evidence"
+      - "Refused medical advice to leave the Sump"
+    objects: ["Borrowed RCI sensor", "Ocular implant", "Dead-hand protocol", "Stimulant tabs"]
+    
+  the_contact:
+    role: "Supporting (new)"
+    description: "Former NitroCore conduit inspector, 22 years. Son disappeared via Form 14-C after reporting new infrastructure in decommissioned sector."
+    key_actions:
+      - "Provided duplicated subcontractor credentials"
+      - "Guided Mirelle through Below Level 12 infrastructure"
+    
+  talia_ravid:
+    role: "Supporting (flashback)"
+    description: "Black Babel node operator. Referenced via flashback — cable spool, processing ring (amber/green), credentials delivery 3 days ago at Node RD-14."
+
+# Locations
+locations:
+  - name: "Transit box, Sump Sector 3"
+    status: "Established (Ch 13)"
+    details: "10 weeks. Vibrating walls. Mechanical lock. Hum louder than any morning."
+  - name: "Shaft 7-C"
+    status: "NEW"
+    details: "Industrial sub-level beneath Sump Sector 7. Service elevator with biometric access."
+  - name: "Below Level 12 — Main Corridor"
+    status: "NEW"
+    details: "Modern poured composite walls. NitroCore corporate logos. 2170s serial numbers. Orange glow brighter than upper Sump."
+  - name: "Junction B-12-East"
+    status: "NEW"
+    details: "RCI 34.6. Installed 2173."
+  - name: "Junction B-12-South"
+    status: "NEW"
+    details: "RCI 37.2. Installed 2172. NitroCore maintenance schedule mounted."
+  - name: "Junction B-12-Sub"
+    status: "NEW"
+    details: "Subsidiary level. RCI 39.8. Installed 2171 (earliest)."
+  - name: "Junction B-12-Confluence"
+    status: "NEW"
+    details: "RCI 41.3. Installed 2172. Six trunk-line branches mirroring upper Confluence."
+
+# New Elements
+new_elements:
+  - "Below Level 12 infrastructure network (2171-2173)"
+  - "Zhongshan Medical — corporate healthcare provider (outside NitroCore network)"
+  - "Talia's processing ring — amber (observation) / green (analysis)"
+  - "The Contact — unnamed former NitroCore inspector"
+  - "Four junction designations: B-12-East, B-12-South, B-12-Sub, B-12-Confluence"
+
+# Continuity Notes
+continuity_notes:
+  - "Transit box duration: Ch 21 (~8.5 weeks) → Ch 24 (10 weeks) — ~11 days elapsed"
+  - "Nitro-ear: Ch 21 (7 weeks) → Ch 24 (8 weeks) — consistent"
+  - "Sensor borrowing: Ch 13 said 7 months, Ch 24 also says 7 months — minor drift acceptable"
+  - "RCI readings below Level 12 (34.6-41.3) exceed Resonance District baseline (30-40) and approach/exceed emergency threshold (40)"
+  - "Installation dates 2171-2173 overlap with Ch 19 deferred maintenance period — cross-POV irony"
+  - "Form 14-C crystallized as systemic pattern (introduced Ch 9/22, now 23 instances)"
+  - "Dead-hand timer math: 31 hours since ping, 41 remaining = 72-hour cycle confirmed"
+
+# Thematic Analysis Reference
+thematic_analysis: "tracking/chapter-24-themes.md"
+audit_file: "tracking/audit-chapter-24.md"
+
+# Flags for Future Chapters
+flags:
+  - "⚠️ Zhongshan Medical — new entity, add to bible if referenced again"
+  - "⚠️ Below Level 12 infrastructure — 4 junctions. Ch 34 should reference or expand."
+  - "⚠️ The contact's son — unnamed, Form 14-C. Possible continuity point."
+  - "⚠️ Credentials burned — Mirelle needs new access method for return visits."
+  - "⚠️ RCI gradient 34.6→41.3 — cross-reference with Fuxi's Deep Sump readings."
+  - "⚠️ Installation dates 2171-2173 — overlaps with Ch 19 deferral period."
+  - "⚠️ Dead-hand deposit now contains Below Level 12 evidence — feeds Ch 40/45."
+  - "⚠️ Nitro-ear at 8 weeks — 4 weeks to permanent damage. Track in Ch 34."
+  - "⚠️ 'The twenty-fourth had not been hers. Not today.' — count continues toward 31 at Ch 40."
+  - "⚠️ Talia's processing ring (amber/green) — track consistency."
+
+# Epigraph
+epigraph:
+  source: "A History of Silence"
+  text: "The geological surveys for Sectors 7 through 12 were commissioned in 2168 and completed in 2169. The surveys for Sectors 13 through 18 were commissioned on the same date. No public record of these surveys has been located."
+
+# Rhetoric
+rhetoric:
+  source: "Sump Infrastructure Map (public version)"
+  text: "Below Level 12: Decommissioned. No active infrastructure."

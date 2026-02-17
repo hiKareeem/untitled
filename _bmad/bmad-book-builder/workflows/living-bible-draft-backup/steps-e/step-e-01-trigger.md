@@ -23,7 +23,7 @@ personnesTemplate: '../data/people-template.md'
 themesTemplate: '../data/themes-template.md'
 
 # Input Discovery
-chapterPattern: '{bbb_output_folder}/book-1/chapters/chapter-*.md'
+chapterPattern: '{bbb_output_folder}/current-book/chapters/chapter-*.md'
 chapterPlanPattern: '{bbb_output_folder}/chapter-plan*.md'
 ---
 

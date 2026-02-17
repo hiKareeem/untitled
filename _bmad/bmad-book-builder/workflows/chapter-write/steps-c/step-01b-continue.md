@@ -3,7 +3,7 @@ name: 'step-01b-continue'
 description: 'Resume chapter writing from previous session'
 
 # Output
-outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
+outputFile: '{bbb_output_folder}/current-book/chapters/chapter-{chapter_number}.md'
 
 # Step routing
 workflowFile: '../workflow.md'

@@ -101,11 +101,11 @@ This workflow produces:
 > **Frequency:** Run whenever author wants a project overview
 
 **Input Discovery:**
-- Scans `{bbb_output_folder}/book-1/chapters/` for chapter files
+- Scans `{bbb_output_folder}/current-book/chapters/` for chapter files
 - Scans `{bbb_output_folder}/characters/` for character dossiers
 - Scans `{bbb_output_folder}/bible/` for Living Bible dimensions
 - Scans `{bbb_output_folder}/audits/` for character audit reports
-- Scans `{bbb_output_folder}/book-1/tracking/` for theme and rhythm tracking
+- Scans `{bbb_output_folder}/current-book/tracking/` for theme and rhythm tracking
 - Uses file modification timestamps for recent activity
 
 **Output Consumption:**

@@ -3,7 +3,7 @@ name: 'step-01-validate'
 description: 'Validate existing chapter against quality criteria'
 
 # Input
-chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
+chaptersFolder: '{bbb_output_folder}/current-book/chapters/'
 
 # Agent References
 continuityEditorAgent: '{project-root}/_bmad/bmad-book-builder/agents/continuity-editor.yaml'

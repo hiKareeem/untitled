@@ -1,0 +1,83 @@
+# Chapter 21 Metadata
+# Generated: 2026-02-15
+
+---
+chapter: 21
+title: "Matched Districts"
+wordCount: 3600
+pov: "Mirelle Dubois"
+timeline: "Phase 2, weeks after Ch 13 Arctic-7 analysis, after Ch 17 Zeyad exchange"
+mode: "TEXTURE"
+phase: 2
+
+summary: |
+  Mirelle completes her matched-district analysis — a four-layer overlay correlating infrastructure density, disappearances (23), RCI readings (41 measurements), and junction reclassifications (11) across Neo-Shanghai's Sump sectors. The pattern is geographic and architectural: "the phenomenon had a shape, and the shape was the conduit network."
+
+  She presents the case to editor Gauthier via encrypted relay. He engages seriously but hits the institutional ceiling: "Correlation, not causation." The Wire's editorial policy requires VEC-certified verification — the VEC controls the data the policy references. Gauthier will review and escalate to the editorial board (monthly meeting), but publication is blocked by designed institutional architecture.
+
+  Mirelle meets Talia at a decommissioned relay station (Node RD-14, Resonance District). Talia offers Deep Sump access: below Level 12, NitroCore subcontractor credentials, 12-hour window, 4 trunk-line junctions. "Cooperative. They've lost someone." Mirelle accepts — the shift from analytical investigation to physical risk. Returns to transit box. "The twenty-fourth might be mine."
+
+keyPoints:
+  - Matched-district analysis complete — 4 datasets converging on conduit network as architecture of disappearance
+  - Gauthier exchange — "correlation, not causation" + editorial policy requires VEC-certified verification
+  - Editorial policy memo (leaked) — "Submissions linking incursion frequency to infrastructure density require VEC-certified verification"
+  - Talia offers Deep Sump access — below Level 12, subcontractor credentials, 12-hour window, 4 trunk-line junctions
+  - Disappearance count at 23 (up from 18 in Ch 13), 41 RCI measurements, 11 junction reclassifications
+  - Dead-hand deposit updated with matched-district analysis
+  - Nitro-ear at 7 weeks — threshold crossed ("heard through other sounds rather than beneath them")
+  - Abidjan bureau reference — Gauthier trained Mirelle there 8 years ago (new biographical detail)
+  - Gauthier naming pattern — "Mirelle" (first-name) → "Dubois" (register shift to editorial formality)
+  - "The twenty-fourth might be mine" — self-count, foreshadows Ch 40 absorption
+
+characters:
+  - Mirelle Dubois (POV, 4th appearance)
+  - Gauthier (editor, The Wire — supporting, 2nd appearance after Ch 2)
+  - Talia Ravid (Black Babel node operator — supporting, 3rd appearance after Ch 9, 13)
+
+locations:
+  - Transit box, Sump Sector 3 (established Ch 13)
+  - Resonance District, Node RD-14 — decommissioned relay station (NEW sub-location)
+
+newElements:
+  - Matched-district analysis (concept — four-layer overlay)
+  - Node RD-14 — decommissioned relay station meeting location
+  - Abidjan bureau — biographical detail for Mirelle and Gauthier
+  - Editorial policy memo — institutional architecture reference
+  - Deep Sump expedition setup (below Level 12, 11 days, subcontractor credentials)
+  - NitroCore subcontractor contact ("Cooperative. They've lost someone.")
+
+epigraph:
+  text: "Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."
+  source: "Vox"
+  work: "The Scream Made Readable"
+
+rhetoric:
+  - "Feed editorial policy memo (leaked): 'Submissions linking incursion frequency to infrastructure density require VEC-certified verification.'"
+
+crossReferences:
+  - Ch 2 — Gauthier's first refusal ("That's a rumor") → Ch 21 engagement with 23 disappearances
+  - Ch 9 — Dead-hand protocol established → Ch 21 maintained and deposit growing
+  - Ch 13 — Arctic-7 co-origin discovery → Ch 21 foundation for matched-district synthesis
+  - Ch 17 — Zeyad information exchange → Ch 21 knowledge informs analysis (compartmentalized)
+  - Ch 20 — Nikolai confirms void routing along conduits → Ch 21 Mirelle approaches same truth from demographics (reader dramatic irony)
+
+auditResults:
+  styleAudit: "12/12 pass, 5 fixes applied (sensor provenance, Gauthier naming, dialogue attribution, dialogue tag, VEC certification)"
+  characterAudit: "9.2/10 avg (Mirelle 9.5, Gauthier 9.0, Talia 9.0)"
+  continuityCheck: "All pass — timeline, objects, locations, knowledge boundaries, plan adherence, Annex B consistency"
+  auditFile: "tracking/audit-chapter-21.md"
+  themeAnalysisFile: "tracking/chapter-21-themes.md"
+
+flagsForFutureChapters:
+  - "Deep Sump expedition in 11 days — Ch 24 setup"
+  - "NitroCore subcontractor contact will burn cover"
+  - "Gauthier reviewing; may escalate to editorial board"
+  - "Disappearance count at 23, accelerating toward 31 by Ch 40"
+  - "Nitro-ear at 7 weeks — physical deterioration tracking"
+  - "Matched-district analysis in dead-hand deposit — fires in Ch 45"
+  - "Reader dramatic irony: Ch 20 void routing + Ch 21 matched districts = convergence visible to reader only"
+
+createdDate: "2026-02-15"
+lastModified: "2026-02-15"
+author: "Kareem"
+status: "v1-complete"

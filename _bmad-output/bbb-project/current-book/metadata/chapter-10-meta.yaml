@@ -1,0 +1,89 @@
+# Chapter Metadata - Chapter 10: The Gap
+# Generated: 2026-02-11
+
+---
+chapter: 10
+title: "The Gap"
+wordCount: 5200
+pov: "Kira Calloway"
+timeline: "2175 (exact date TBD)"
+phase: 1
+mode: TEXTURE
+
+summary: |
+  Kira Calloway arrives home in the PCC Bay Area and is recognized on the street — the brand makes her visible even when she wants to be nobody. Pre-stream, she sees the Lumina kit behind the bathroom mirror and does not touch it. Hard line: never at work.
+
+  She goes live and grinds through a ten-hour stream: video game, chat warmth, casual mage talk folded into entertainment. Mid-stream (11:30 UTC, hour nine), the hum in her spinal implant spikes into a scream episode. She suppresses it professionally — breath control, camera pan, the performance covering the event — while her body records the cost a beat later (numb fingertips, new symptom).
+
+  After she ends the stream, the performer collapses. She takes a routine 40mg Lumina dose to sleep — precise, calibrated. Then she checks the mage group chat: Priya describes a directional "pull" in the implant at 11:30 UTC. The timestamp matches Kira's scream. Kira starts typing, stops, closes the chat without confirming. She returns to the bathroom and takes a 15mg bump. The forty was supposed to be enough. The chapter ends with the hum thicker — waiting.
+
+keyPoints:
+  - "Never at work" line held: Kira sees Lumina pre-stream and refuses it
+  - Ten-hour stream establishes the performance-as-armor grind (full-time streamer)
+  - Scream episode at 11:30 UTC (hour nine): professional suppression; chat doesn't notice
+  - New symptom: numb fingertips after the scream
+  - Post-stream collapse + eleven-second counting habit bridges on/off
+  - Lumina structure: 40mg routine post-stream (sleep) + 15mg bump after group chat (the fray)
+  - Group chat seed: Priya reports directional pull matching Kira's timestamp; Kira refuses to confirm
+  - Bay Area grounding: fog, Golden Gate monument, expanded bay, low skyline, no Spires
+
+characters:
+  - name: "Kira Calloway"
+    role: POV
+    arc_phase: "1/5 (Equilibrium — late introduction)"
+    key_moments:
+      - "Recognized on street; cannot disappear"
+      - "Suppresses scream mid-stream without breaking performance"
+      - "Refuses to type four words confirming Priya's timestamp"
+      - "Second Lumina bump: the forty was supposed to be enough"
+  - name: "Dex"
+    role: Supporting (text)
+    key_moments:
+      - "Deflects Priya with jokes/emoji; normalizer"
+  - name: "Priya"
+    role: Supporting (text)
+    key_moments:
+      - "Reports directional pull at 11:30 UTC; truth-seeker seed for Ch 18"
+  - name: "Tomás"
+    role: Supporting (text)
+    key_moments:
+      - "Jokes; keeps chat texture casual"
+  - name: "Suki"
+    role: Supporting (text)
+    key_moments:
+      - "On deployment; doesn't notice anything unusual"
+
+locations:
+  - "PCC Bay Area — transit approach to mid-rise residential block"
+  - "Kira's apartment (fourteenth floor)"
+  - "Streaming corner (curated frame) vs apartment entropy (off-camera)"
+  - "Bathroom mirror cabinet (Lumina kit)"
+
+newElements:
+  - "Lumina (blue powder) — marketed as void-residue; functional silence; kit behind mirror"
+  - "Kira's group chat: Dex/Priya/Tomás/Suki (mage network seed)"
+  - "Eleven-second count habit bridging on/off"
+  - "Bay Area grounding details (fog, Golden Gate monument, expanded bay, no Spires)"
+
+reviewResults:
+  continuityEditor:
+    pass: true
+    issues: 0
+  documentaliste:
+    pass: true
+    factsChecked: 6
+    lowNotes: 0
+  styleCoach:
+    pass: true
+    voiceScore: 88
+    slopViolations: 0
+    lowNotes: 1
+  characterKeeper:
+    pass: true
+    inconsistencies: 0
+    lowNotes: 0
+
+createdDate: "2026-02-11"
+lastModified: "2026-02-11"
+author: "Kareem"
+status: "final"

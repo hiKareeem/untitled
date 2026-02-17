@@ -156,11 +156,11 @@ This workflow produces:
 > - When narrative feels "off" but issues are hard to pinpoint
 
 **Input Discovery:**
-- Scans `{bbb_output_folder}/book-1/chapters/` for chapter files (based on scope)
+- Scans `{bbb_output_folder}/current-book/chapters/` for chapter files (based on scope)
 - Scans `{bbb_output_folder}/bible/` for Living Bible dimensions (all 5)
 - Scans `{bbb_output_folder}/reports/` for previous review reports
 - Scans `{bbb_output_folder}/audits/` for character audit reports
-- Scans `{bbb_output_folder}/book-1/tracking/` for theme and rhythm tracking
+- Scans `{bbb_output_folder}/current-book/tracking/` for theme and rhythm tracking
 - Scans `{bbb_output_folder}/foundation/` for chapter plan and project context
 
 **Output Consumption:**

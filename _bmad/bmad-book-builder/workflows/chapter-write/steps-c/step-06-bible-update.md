@@ -6,14 +6,14 @@ description: 'Update tracking files, story bible, project status, and finalize c
 # (No next step — this is the final step)
 
 # Output
-outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
-metaFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}-meta.yaml'
+outputFile: '{bbb_output_folder}/current-book/chapters/chapter-{chapter_number}.md'
+metaFile: '{bbb_output_folder}/current-book/chapters/chapter-{chapter_number}-meta.yaml'
 
 # Tracking Files
-themesTracking: '{bbb_output_folder}/book-1/tracking/themes.md'
-emotionsTracking: '{bbb_output_folder}/book-1/tracking/emotions.md'
-rhythmTracking: '{bbb_output_folder}/book-1/tracking/rhythm.md'
-rhythmDashboard: '{bbb_output_folder}/book-1/tracking/rhythm-dashboard.md'
+themesTracking: '{bbb_output_folder}/current-book/tracking/themes.md'
+emotionsTracking: '{bbb_output_folder}/current-book/tracking/emotions.md'
+rhythmTracking: '{bbb_output_folder}/current-book/tracking/rhythm.md'
+rhythmDashboard: '{bbb_output_folder}/current-book/tracking/rhythm-dashboard.md'
 
 # Bible Files
 charactersBible: '{bbb_output_folder}/bible/characters.md'
