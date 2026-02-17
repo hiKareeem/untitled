@@ -1,0 +1,121 @@
+# Chapter 47 Metadata
+# Generated: 2026-02-17
+
+---
+chapter: 47
+title: "Operational Losses"
+status: v1-complete
+pov: "Nikolai Volkov"
+povAppearance: 6  # 1st: Ch 11, 2nd: Ch 20, 3rd: Ch 23, 4th: Ch 32, 5th: Ch 38, 6th: Ch 47
+phase: 5
+mode: TEXTURE
+textureSubtype: "military-operational / institutional-grief / form-architecture (PCR-11 sections as scene structure, field log as transition, maintenance bay as vigil space)"
+
+# Timeline
+timelinePosition: "BLACKWEIR Day 3 — 0300-0351 garrison (admin office, corridor, maintenance bay)"
+concurrentWith:
+  - "Ch 46 (Aurielle — NitroCore board meeting, same Day 3)"
+
+# Metrics
+wordCount: 4500
+scenes: 4
+dialoguePercent: 0
+avgSentenceLength: 18
+fragmentPercent: 22
+nbACount: 3
+flowScore: 9.0
+
+# Scenes
+scenes_detail:
+  - name: "PCR-11 Filing"
+    location: "Garrison admin office, south wing, second floor"
+    tension: "3/10 — institutional precision, controlled composure"
+    beats: "Forty-seven fields, black ink, Jarek's name, NRC classification, 500-character field (419 used, 81 remaining), Section F (two P-Frames), Section G assessment, signature, hands-check (*still*), pen beside form, outbox tray, basement cabinet"
+  - name: "Field Log"
+    location: "Garrison admin office (same desk)"
+    tension: "5/10 — dual-record collapse"
+    beats: "Blank entry from Ch 38, cursor, field log's language vs. Jarek's voice, types one line duplicating the report, saves, closes drawer"
+  - name: "Corridor Transit"
+    location: "Garrison corridor, south toward maintenance bay"
+    tension: "3/10 — acoustic grief"
+    beats: "0347, night-cycle lighting, hum at 6.3 (down from 8.1), 'not quieter — thinner', boots, mess hall dark, briefing room dark, keycard + code 7714"
+  - name: "Maintenance Bay Vigil"
+    location: "Maintenance bay, south end of garrison"
+    tension: "3/10 — the quiet"
+    beats: "PF-7-09 on cradle (40% shielding), two empty alcoves, Jarek's tools (calibration kit, taped multi-meter, hex wrenches), tape peeling, supply crate, hands-check (*still*), hum layers (electrical + resonance), 6.3 as 'improvement', the quiet, 'the hardest part'"
+
+# Characters
+characters:
+  pov: "Nikolai Volkov"
+  supporting:
+    - name: "Jarek Kowalski"
+      role: "Referenced (absorbed) — rendered through absence"
+      significance: "Present through PCR-11 form fields, tools on workbench, P-Frame on cradle, voice memory ('Nikolai')"
+
+# Key Elements
+keyElements:
+  - "PCR-11 form — Personnel Casualty Report, 47 fields, NRC classification"
+  - "500-character Circumstances field: 419 used, 81 remaining — 'Enough for: He said my name.'"
+  - "Section F: Two P-Frames for one operator — guilt architecture"
+  - "Field log duplicates the after-action report — first time in 15 years (arc terminus)"
+  - "Garrison RCI baseline: 8.1 → 6.3 post-BLACKWEIR — 'not quieter, thinner'"
+  - "PF-7-09 on maintenance cradle at 40% shielding (Ch 32 damage)"
+  - "Jarek's tools: calibration kit, taped multi-meter, hex wrenches in descending order"
+  - "Hands-check: *still* (not steady) — four seconds, Nikolai's number"
+  - "Pen set beside form, not in holder — displacement beneath operational layer"
+  - "Basement cabinet: personnel casualties beside leave requests"
+  - "'The quiet was the hardest part' — chapter's terminal line"
+
+# New Canonical Details
+newCanonical:
+  - "Jarek's service number: JK-2171-2247"
+  - "Nikolai's service number: VK-2155-0914"
+  - "BLACKWEIR deployment authorization: 2175-BKWR-001"
+  - "Garrison RCI post-BLACKWEIR baseline: 6.3"
+  - "PCR-11 form (Personnel Casualty Report, Appendix C, Section 11)"
+  - "Maintenance bay access code: 7714 (Stalker-7, bay 14)"
+  - "Garrison clerk: twenty-year-old specialist, files PCR-11s in basement"
+
+# Epigraph
+epigraph:
+  source: "Recovered field document (final fragment)"
+  attribution: "Stalker garrison archives, Neo-Shanghai Military District"
+  thread: "Ch 11 (Haraldsen word list) → Ch 23 (deployment order) → Ch 38 (counting the ones who came to the line) → Ch 47 (final fragment — 'I sat down.')"
+
+# Thematic Presence
+themes:
+  dominant: ["Systemic Complicity", "Architecture of Power"]
+  strong: ["Truth as Weapon", "What We Owe"]
+  moderate: ["Where Identity Ends", "Irrelevance of Individual Being"]
+  background: ["Commodification of Suffering", "Progress Requires Atrocity"]
+
+# Cross-References
+crossReferences:
+  backward:
+    - "Ch 11: Dual-record system established → Ch 47: dual-record collapsed (field log duplicates report)"
+    - "Ch 11: 'The pen did not shake' → Ch 47: pen set beside form"
+    - "Ch 11: Hands-check (steady) → Ch 47: hands-check (*still*)"
+    - "Ch 20: VS-7 500-character field → Ch 47: PCR-11 500-character field"
+    - "Ch 32: P-Frame damage (40% shielding) → Ch 47: PF-7-09 on maintenance cradle"
+    - "Ch 32: 'What are we doing?' → Ch 47: 'questions the operational vocabulary did not have fields for'"
+    - "Ch 38: Jarek says 'Nikolai' → Ch 47: 'the sound of a person saying the name of the person who put him there'"
+    - "Ch 38: Field log blank → Ch 47: field log duplicates the report"
+    - "Ch 38: Hand tremor → Ch 47: tremor absent (*still*)"
+    - "Ch 38: Hum *Thinner* → Ch 47: 6.3, 'not quieter, thinner'"
+    - "Ch 46: Day 3 post-BLACKWEIR → Ch 47: same timeline"
+  forward:
+    - "Book 2: Field log status — collapsed to institutional language. Does it recover?"
+    - "Book 2: Hand tremor — resolved to stillness. Suppression or adaptation?"
+    - "Book 2: Jarek's tools — institutional processing will clear the bench"
+    - "Book 2: PF-7-09 repaired and reassigned — Nikolai watching someone else wear it"
+
+# Audit
+auditFile: "tracking/audit-chapter-47.md"
+themeAnalysisFile: "tracking/chapter-47-themes.md"
+styleAudit: "12/12 pass, 1 recommended fix applied by author (L190 editorial tail trimmed)"
+characterAudit: "Nikolai 9.5/10, Kowalski 9.5/10"
+
+# Workflow
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+completedDate: "2026-02-17"
+author: "Kareem"

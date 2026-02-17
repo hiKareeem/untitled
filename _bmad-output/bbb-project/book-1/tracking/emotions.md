@@ -932,6 +932,7 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Phase 2 (Ch 20) | Doctrine holds, suppression deepens | Classification requires active lie; routing observation omitted; gap becomes crack becomes fault line |
 | Phase 3 (Ch 32) | Doctrine fracturing, guilt emerging | Largest incursion forces confrontation with routing intelligence; order gets Jarek hurt; falsification replaces suppression; "the gap was wider" |
 | Phase 4 (Ch 38) | Doctrine destroyed, composure fractured | Jarek says his name — the classification cannot seal over it. Field log blank. Hand tremor. The Lie broken. |
+| Phase 5 (Ch 47) | Private language collapsed, grief unnamed | Field log duplicates the report — the private language absorbed by institutional language. Hands *still* (not steady). Sits with the quiet. No vocabulary for what remains. |
 
 ### Emotional Beat Map
 
@@ -978,6 +979,16 @@ Nikolai's debut compresses twenty years of accumulated suppression into sixty mi
 | Ch 38 — Beat 8 | Silence (new) | Opens field log. Cursor blinks. Nine minutes. Closes it. | Blank entry — first in 15 years | N/A — private |
 | Ch 38 — Beat 9 | Composure broken | Checks hands — left index finger tremor | "The kind of movement Nikolai had never seen in his own hands" | N/A — alone |
 | Ch 38 — Beat 10 | Horror as acoustic perception | Hum at new baseline — *Thinner* | "The chord without the people" — a third language, outside institutional and private registers | N/A — alone |
+| Ch 47 — Beat 1 | Institutional precision | Filing PCR-11 — forty-seven fields, black ink, standard-issue pen | Print, not cursive; same pen since second year; the pen as "solution to the specification" | Institution receives a complete personnel casualty report |
+| Ch 47 — Beat 2 | Controlled composure | Writing Jarek's name in Section D | "The pen did not hesitate" — the name occupies the same space as on every other document | N/A — internal |
+| Ch 47 — Beat 3 | Suppressed truth | 500-character field: 419 used, 81 remaining | Does not use remaining characters — "Enough for: *He said my name.*" | Institution receives an accurate but incomplete report |
+| Ch 47 — Beat 4 | Guilt architecture (crystallized) | Section F: two P-Frames for one operator | Completes the section without pause; the observation has no field | N/A — internal |
+| Ch 47 — Beat 5 | Composure as stillness | Hands-check after signing | Left index finger *still* — not steady, still. Four seconds. | N/A — alone |
+| Ch 47 — Beat 6 | Displacement (unconscious) | Sets pen beside form, not in holder | "The deliberation existed in the layer beneath the operational layer" | N/A — alone |
+| Ch 47 — Beat 7 | Dual-record collapse | Opens field log, types one line duplicating the report | "The first field log entry in fifteen years that duplicated the after-action report" | N/A — private; the private language has failed |
+| Ch 47 — Beat 8 | Acoustic grief | Walking garrison corridor at 0347, hum at 6.3 | "Not quieter. *Thinner.*" — subtraction, not reduction | N/A — alone |
+| Ch 47 — Beat 9 | Vigil (unnamed) | Sits on supply crate facing PF-7-09 on maintenance cradle | Does not touch Jarek's tools; does not open field log; does not classify | N/A — alone |
+| Ch 47 — Beat 10 | The quiet | The space where Jarek should be | "The quiet was the hardest part" — no vocabulary, no classification, no form | N/A — alone |
 
 ---
 

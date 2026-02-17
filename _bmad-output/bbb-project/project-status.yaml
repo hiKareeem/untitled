@@ -494,6 +494,16 @@ chapters:
     mode: PRESSURE
     notes: "Phase 3 climax — Aurielle POV (6th appearance). Formal BLACKWEIR authorization. Conference room (108th floor): Thorne presents alternatives analysis (11 pages, 4 alternatives, 1 conclusion). Evacuation question for the record: 72 hrs minimum, Confluence activates in 31 hrs under evacuation, 47M vs 13M. Room empties. Thorne speaks the number verbally: 'Thirteen million.' Casualty field on Form CMP-7 left blank. Eduardo signed Phase Two at 1:47 AM in this room. Small voice completes arithmetic — goes silent. Aurielle signs alone. Pen on paper. Returns to Eduardo's office. Opens evening brief. 'She read from the last page first.' Phase 3 complete (14/14)."
 
-completedCount: 48
-totalWords: 224337
-lastUpdated: "2026-06-15"
+  chapter_47:
+    title: "Operational Losses"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4500
+    completedDate: "2026-02-17"
+    metaFile: "chapter-47-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 5 — Nikolai POV (6th appearance). After-action report (PCR-11): 47 fields, NRC classification, 500-character Circumstances field (419 used, 81 remaining). Signs the lie. Field log duplicates the report — first time in 15 years (arc terminus: passive omission → active suppression → deliberate deletion → blank → duplication). Garrison corridor at 0347, hum at 6.3 (down from 8.1) — 'not quieter, thinner.' Maintenance bay: PF-7-09 on cradle at 40% shielding (Ch 32 damage). Two P-Frames for one operator — guilt architecture. Jarek's tools on workbench. Supply crate. Hands *still* (not steady). 'The quiet was the hardest part.'"
+
+completedCount: 49
+totalWords: 228837
+lastUpdated: "2026-02-17"

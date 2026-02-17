@@ -797,6 +797,7 @@ An object deserves documentation if it:
 - Ch 11: First prose appearance. "I heard it too" — four words recording corroborated perception of Deng's name in the hum. The entry that crosses from individual observation to shared experience.
 - Ch 20: Records void routing observation: "The pattern is not diffusion. It is routing." Also records the meta-observation: "One of them is a lie. I know which one." Gap between records described as escalating from crack (Ch 11) to fault line (Ch 20).
 - Ch 38: Blank. First empty entry in 15 years. Cursor blinks for nine minutes. Neither institutional nor private language can hold what happened. Jarek's name is the entry that cannot be written.
+- Ch 47: Types one line — Jarek's name, service number, location, time. Duplicates the after-action report. "The first field log entry in fifteen years that duplicated the after-action report instead of contradicting it." Arc terminus: the private language has collapsed into the institutional language.
 
 ---
 
@@ -820,6 +821,7 @@ An object deserves documentation if it:
 - Ch 20: "No anomalous observations" typed into the 500-character field — first active suppression (Ch 11 was passive omission). Nikolai looks at the sentence and knows it is a lie.
 - Ch 32: Writes "non-random distribution" in the narrative section, reads it, deletes it, replaces with "anomalous observations: none." Escalation: passive omission (Ch 11) → active suppression (Ch 20) → deliberate falsification (Ch 32). The gap between what the report says and what the field log says is now a fabrication, not an omission.
 - Ch 38: "Anomalous resonance observation: none" — active institutional lie. Evolution complete. Field log blank.
+- Ch 47: PCR-11 (Personnel Casualty Report) filed — new institutional form, same architecture. 500-character Circumstances field: 419 characters used, 81 remaining. "Enough for: *He said my name.*" Falsification arc terminus: passive omission (Ch 11) → active suppression (Ch 20) → deliberate deletion (Ch 32) → blank (Ch 38) → duplication (Ch 47).
 
 ---
 

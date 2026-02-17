@@ -505,6 +505,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 28 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Fuxi POV — Kindling network meeting. 47 flood valves. Nuwa's transfer denied (14-J). Log evolves. |
 | Ch 32 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), What We Owe (Moderate), Irrelevance (Moderate), Commodification (Background), Identity (Background) | Nikolai POV — Class Three, Sector 7. Routing as navigation confirmed. Jarek's P-Frame damaged by Nikolai's order. "What are we doing?" Falsification escalation. Gap wider. |
 | Ch 34 | Architecture (Dominant), Truth (Dominant), Complicity (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Mirelle POV — final dead-drop and dead-hand finalization. Complete 14-month dataset deposited. Talia charges nothing. "The architecture survives the architect." Sofia's data compartmentalized. "Every six hours. Weeks." |
+| Ch 47 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), What We Owe (Strong), Identity (Moderate), Irrelevance (Moderate), Commodification (Background), Atrocity (Background) | Nikolai POV — after-action report and maintenance bay vigil. PCR-11 form (47 fields, NRC). Field log duplicates report (arc terminus). Hum 6.3 (*thinner*). Two P-Frames, one operator. Jarek's tools. "The quiet was the hardest part." |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -769,6 +770,15 @@ This bible dimension tracks **theme evolution**:
 | Talia standing (Ch 34) | Architecture, Commodification | Break from seated posture — the broker assessing a terminal client |
 | Three copies, three media (Ch 34) | Architecture, Truth | Drive in boot, paper in coat, partition behind eye — redundancy as religion |
 | Processing ring shorthand (Ch 34) | Architecture | Full → "the ring" — Talia's optical hardware as scene punctuation |
+| PCR-11 form (Ch 47) | Complicity, Architecture | Personnel Casualty Report — 47 fields converting person to institutional absence |
+| 81 unused characters (Ch 47) | Truth, Complicity | Space where truth fits but isn't written — active choice, not constraint |
+| NRC classification (Ch 47) | Architecture, Identity | "Non-recoverable" — institutional euphemism omitting remains disposition |
+| Basement cabinet (Ch 47) | Architecture, Irrelevance | Personnel casualties beside leave requests — categories of absence |
+| Maintenance cradle (Ch 47) | What We Owe, Architecture | P-Frame awaiting repair for operator who won't return |
+| Taped multi-meter (Ch 47) | What We Owe | Adhesive rated for conditions, not time — Jarek's competence persisting as object |
+| Supply crate (Ch 47) | Complicity | Nikolai's vigil position — a container for consumables, not a chair |
+| 6.3 (Ch 47) | Architecture | New garrison baseline — subtraction measured as improvement |
+| "The quiet" (Ch 47) | Identity, What We Owe | Terminal symbol — the space where Jarek should be |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---
