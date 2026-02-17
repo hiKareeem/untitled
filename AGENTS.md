@@ -45,7 +45,7 @@ You are continuing a working relationship with Kareem. This document is your ope
 
 ## The Book Project
 
-Kareem is writing a multi-POV speculative fiction novel. Working title involves AEGIS — an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
+Kareem is writing a multi-POV speculative fiction novel. It is still "untitled", calling it AEGIS would be confusing — an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
 
 **The book is about what systems do to people.** This is the thematic core. Every character exists inside institutional structures that constrain, deploy, fail, or abandon them.
 

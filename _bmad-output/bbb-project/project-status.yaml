@@ -464,6 +464,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 3 — Sofia POV (4th appearance). Takes Entry 17 to Director Novak (first on-page). Meeting: Novak + Liang + Classification already present. 'We're aware' — 2170 Solberg Report (0.89 correlation, 40% throughput reduction recommended, classified under Directive 7.3 revised 2171). Solberg resigned/disappeared. Sofia's findings placed under same directive. 'Where is Dr. Solberg?' — no answer. Entry 18 created (institutional inventory). Elena Vargas parallel (mother, 14 years classified). Contacted Dr. Yael Orent (VEC Singapore) through research exchange, naming Solberg. Black Babel responded via anonymous encrypted channel. Transmitted Entries 17 + 18. Confirmation: timestamp + node identifier. Data outside VEC classification architecture for first time. Field kit closing image."
 
-completedCount: 45
-totalWords: 210437
-lastUpdated: "2026-02-16"
+  chapter_34:
+    title: "Dead-Hand"
+    status: v1-complete
+    pov: "Mirelle Dubois"
+    wordCount: 4400
+    completedDate: "2026-02-17"
+    metaFile: "chapter-34-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Mirelle POV (7th appearance). Final dead-drop and dead-hand finalization. Complete 14-month evidence dataset deposited with Talia Ravid at Node RD-14: 7 flood valves, 53 RCI readings, 28 disappearances, infrastructure maps, co-origin data, matched-district analysis, diplomatic fragments, personal analysis. Dead-hand protocol finalized: 3 sealed recipients, auto-distribute on 2 missed 72-hour windows (144 hours). Talia charges nothing — investing in posthumous market value. Sofia's atmospheric data on Talia's node, compartmentalized. 'Every six hours. Weeks.' — Zeyad's check-in frequency. Nitro-ear bilateral at 11 weeks (1 week to permanent). 'The architecture survives the architect.'"
+
+completedCount: 46
+totalWords: 214837
+lastUpdated: "2026-02-17"

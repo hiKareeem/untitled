@@ -2840,6 +2840,106 @@ Heavy reflection — appropriate for TEXTURE mode. The "action" is informational
 
 Arc: Word count declining slightly (from 5,200→4,100) as Fuxi's chapters compress toward action. Dialogue oscillating (5→12→5→10→8) — Ch 28 at midpoint, appropriate for group meeting format. Tension peaks escalating (5→4→5→9→7) — Ch 22's step-function spike was the series peak; Ch 28 is aftermath/processing. Flow stable at 9.0. NbA within 2-4 target.
 
+## Chapter 34: "Dead-Hand" — Mirelle Dubois (TEXTURE)
+
+### Basic Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Word count** | ~4,400 |
+| **Scenes** | 3 |
+| **Paragraphs** | ~95 |
+| **Dialogue %** | ~18% |
+| **Avg sentence length** | ~16 words |
+| **Fragment %** | ~17% |
+
+### Beat Map
+
+| Beat | Position | Tension | Description |
+|------|----------|---------|-------------|
+| Opening | 0% | 2 | Transit box. Dead-hand timer check (13h42m). Nitro-ear 11 weeks. Evidence inventory. |
+| Inventory | 10% | 3 | Complete dataset review — seven categories, fourteen months. "The shape was the argument." |
+| Transit | 25% | 3 | Route to Node RD-14. Counter-surveillance. Resonance District descent. |
+| Talia assessment | 30% | 4 | "You look like shit, Dubois." Processing ring. Standing — break from seated pattern. |
+| Dataset deposit | 35% | 5 | Three-minute silence. "You're not depositing evidence. You're writing a will." |
+| Dead-hand review | 45% | 6 | Protocol architecture. Three sealed addresses. "One hundred forty-four hours total." |
+| Sofia's data | 55% | 7 | Atmospheric convergence data on Talia's node. Compartmentalized. "I don't cross the streams." |
+| The diplomat | 65% | 7 | "Every six hours. Weeks." / "He's not my diplomat." / "That's somebody's diplomat." |
+| The Babel price | 70% | 6 | "Nothing." — investment in posthumous market value. "You're investing in my death." |
+| Talia's farewell | 80% | 5 | "No sentiment. No follow-up." Cold tea. "Go check in." |
+| Private notation | 85% | 4 | "The architecture survives the architect." Three-copy redundancy. Djamel callback. |
+| Closing | 95% | 3 | Cot. Hum and ringing merge. "Neither source could be distinguished from the other." |
+
+### Tension Curve
+
+```
+  8 |
+  7 |              ·····
+  6 |         ····       ···
+  5 |      ···              ···
+  4 |   ···                    ···
+  3 | ··                          ···
+  2 |·
+  1 |
+    +--------------------------------
+      0%   25%   50%   75%   100%
+```
+
+**Shape:** Slow build → sustained plateau → gradual descent. The Talia scene is the tension engine; the transit box scenes are the frame. Peak at Sofia's data compartmentalization and the diplomat observation — both knowledge-boundary tensions. No sharp spikes (this is TEXTURE, not PRESSURE).
+
+### Transitions
+
+| Transition | Quality | Notes |
+|------------|---------|-------|
+| Scene 1→2 | ✅ Smooth | Section break. Transit box → route → Node RD-14. Geographic movement as structural bridge. |
+| Scene 2→3 | ✅ Smooth | Section break. Node RD-14 → transit box return. Talia's "Go check in" as transition trigger. |
+
+### Flow Assessment
+
+| Component | Score | Notes |
+|-----------|-------|-------|
+| Sentence rhythm | 9/10 | Bimodal: analytical inventory (25-40w) + fragment punches (3-7w). Mirelle's register. |
+| Paragraph pacing | 9/10 | Dense evidence blocks alternate with single-line beats. Dialogue provides natural rhythm variation. |
+| Scene architecture | 9/10 | Transit box (solo) → Talia (dialogue) → transit box (solo). Clean frame structure. |
+| Tension management | 9/10 | Sustained plateau rather than spike-and-valley. Appropriate for preparation/finalization chapter. |
+| **Overall flow** | **9.0/10** | |
+
+### Action/Reflection Balance
+
+**Ratio:** 20/80 (Action/Reflection)
+
+The chapter is predominantly reflective — evidence inventory, protocol review, private notation. Action is limited to transit and the Talia scene. This is appropriate: Mirelle is preparing, not investigating. The dialogue with Talia provides the chapter's active engine.
+
+### Pacing Notes
+
+**Strengths:**
+- Evidence inventory as scene architecture — the catalog IS the chapter's opening tension
+- Talia scene provides rhythm variation after solo transit box opening
+- Closing mirrors Ch 29's closing but with convergence rather than inscription — the deterioration progresses
+- "Every six hours. Weeks." lands as the chapter's emotional peak precisely because it's embedded in protocol discussion
+
+**Concerns:** None significant.
+
+**Recommendations:** None — the chapter achieves its purpose (finalization/preparation) without dragging.
+
+### Comparison to Plan
+
+- **Mode match:** TEXTURE ✅ (investigative/dead-hand-architecture)
+- **Adjacent contrast:** Ch 33 (Sofia, institutional confrontation) → Ch 34 (Mirelle, preparation/finalization) → Ch 35 (Nephthys, first congregation). TEXTURE-TEXTURE-TEXTURE sequence, but each with distinct subtype and emotional register.
+
+### Comparison to Previous Mirelle Chapters
+
+| Metric | Ch 9 | Ch 13 | Ch 21 | Ch 24 | Ch 29 | **Ch 34** |
+|--------|------|-------|-------|-------|-------|-----------|
+| Words | 4,200 | 4,500 | 4,800 | 4,700 | 4,300 | **~4,400** |
+| Dialogue | 25% | 15% | 22% | 6% | 0% | **~18%** |
+| Tension | 3→6→4 | 2→5→3 | 3→5→7→4 | 2→4→7→4 | 2→4→7→4 | **2→7→3** |
+| Flow | 8.8 | 8.9 | 8.9 | 9.0 | 9.0 | **9.0** |
+| A/R | 30/70 | 20/80 | 30/70 | 30/70 | 25/75 | **20/80** |
+| NbA | 3 | 4 | 3 | 4 | 3 | **4** |
+
+Arc: Dialogue recovers from the 0% nadir (Ch 29) back to near-Ch 9 levels — the Talia scene drives this. Word count stable across the arc (4,200-4,800 range). Tension peaks have escalated across the series (6→5→7→7→7→7) with Ch 34 matching the plateau established in Ch 21. Flow stabilized at 9.0 since Ch 24. Action/Reflection ratio at its lowest (20/80) — appropriate for a preparation chapter where the investigation phase is over. NbA within 2-4 target throughout.
+
 <!-- INSERT_NEXT_ANALYSIS -->
 
 ## Chapter 30 — Zeyad Al-Fahim: "The Mechanism That Doesn't Exist"

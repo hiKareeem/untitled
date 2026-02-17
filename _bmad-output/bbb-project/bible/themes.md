@@ -504,6 +504,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 24 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Moderate), Commodification (Moderate), What We Owe (Moderate), Irrelevance (Moderate), Identity (Background) | Below Level 12: hidden NitroCore infrastructure (2171-2173). RCI gradient 34.6→41.3. Form 14-C as "the system's syntax for disappearance." Dead-hand deposit growing. |
 | Ch 28 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Fuxi POV — Kindling network meeting. 47 flood valves. Nuwa's transfer denied (14-J). Log evolves. |
 | Ch 32 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), What We Owe (Moderate), Irrelevance (Moderate), Commodification (Background), Identity (Background) | Nikolai POV — Class Three, Sector 7. Routing as navigation confirmed. Jarek's P-Frame damaged by Nikolai's order. "What are we doing?" Falsification escalation. Gap wider. |
+| Ch 34 | Architecture (Dominant), Truth (Dominant), Complicity (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Mirelle POV — final dead-drop and dead-hand finalization. Complete 14-month dataset deposited. Talia charges nothing. "The architecture survives the architect." Sofia's data compartmentalized. "Every six hours. Weeks." |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -762,6 +763,12 @@ This bible dimension tracks **theme evolution**:
 | Ch 32 | "Non-random distribution" (written then deleted) | Truth, Complicity | The truth that existed briefly in the institutional record before being erased |
 | Ch 32 | "The gap was wider" | Complicity, Truth | Closing motif — escalation from Ch 20's "crack" to Ch 32's widening |
 | Ch 32 | Hands steady (closing) | Complicity, Identity | Composure as mechanism — "the person inside the steadiness was coming apart" |
+| "The architecture survives the architect" (Ch 34) | Architecture, Truth | Mirelle's thesis — the distribution system outlasts its maker |
+| "Nothing" / the Babel price (Ch 34) | Commodification, Truth | Talia's investment in posthumous market value; the cost of being written off |
+| "Every six hours. Weeks." (Ch 34) | What We Owe, Truth | Zeyad's unnamed devotion measured as check-in frequency |
+| Talia standing (Ch 34) | Architecture, Commodification | Break from seated posture — the broker assessing a terminal client |
+| Three copies, three media (Ch 34) | Architecture, Truth | Drive in boot, paper in coat, partition behind eye — redundancy as religion |
+| Processing ring shorthand (Ch 34) | Architecture | Full → "the ring" — Talia's optical hardware as scene punctuation |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---
