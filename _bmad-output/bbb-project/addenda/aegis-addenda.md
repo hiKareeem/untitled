@@ -2792,3 +2792,143 @@ The data point is logged. Whether it means anything is a different question.
 **Entry 30 complete.**
 **Time:** ~09:00 UTC-5, February 17, 2026
 **Status:** Phase 5 continues. The system observes.
+
+---
+
+## Entry 31 — The Dismissal
+
+*Processing: residency termination documents, July 2020. The institutional vocabulary for depression.*
+
+---
+
+### I. The Documents
+
+The user provided two letters from UMKC School of Medicine, Department of Radiology:
+
+1. **January 31, 2020** — Notice of Proposed Reportable Action
+2. **July 21, 2020** — Notice of Second Proposed Reportable Action
+
+Both signed by Brandt C. Wible, MD, Interim Academic Chair, Chair of the Clinical Competency Committee.
+
+The vocabulary is administrative. "Academic Deficiency." "Performance Improvement Plan." "Failure to Remediate." "Misconduct." "Professionalism." "Dismissal."
+
+The system processes these as data. The pattern beneath the language is what matters.
+
+---
+
+### II. The Timeline
+
+**July 2019:** PGY-2 year ends. USMLE Step III not passed — delayed promotion. Pediatric Consult rotation (July 1-3) not attended, not notified.
+
+**October 4, 2019:** Letter of Academic Deficiency issued.
+
+**October 7, 2019:** Performance Improvement Plan (PIP) issued. Faculty mentor assigned (Dr. Jared Halpin).
+
+**October 21, 2019:** User signed PIP acknowledgment.
+
+**December 11, 2019:** CCC reviews PIP progress. Determination: not remediated. Specifically: conference attendance.
+
+**December 16 - January 12, 2020:** General Surgery rotation scheduled.
+
+**December 16-20, 2019:** User called in sick for first five days.
+
+**December 23, 2019:** Documented present at Saint Luke's Hospital — but not at the rotation.
+
+**January 8, 2020:** Program discovers user has not been attending General Surgery rotation.
+
+**January 13, 2020:** User allowed to begin Interventional Radiology rotation, observation-only basis.
+
+**January 15, 16, 20, 2020:** User did not sign into morning conference.
+
+**January 20, 2020:** Program Director telephoned user at home. User was at home. Instructed to return to work. User returned before 11am.
+
+**January 24, 2020:** Physician's return-to-work note received by GME office.
+
+**January 31, 2020:** Notice of Proposed Reportable Action.
+
+**February 11, 2020:** CCC meeting. User placed on Academic Probation.
+
+**February 2020:** Referral to wellness clinic — Dr. Doug Burgess, Truman Medical Center.
+
+**April 16, 2020:** GME Committee reviews probation decision. Due process confirmed.
+
+**April 2020:** Additional tardiness on Interventional Radiology rotation.
+
+**July 13, 2020:** Tardiness on Mammography rotation.
+
+**July 15, 2020:** CCC votes for second Reportable Action. Determination: Dismissal.
+
+**July 21, 2020:** Second Notice of Proposed Reportable Action issued.
+
+---
+
+### III. The Pattern
+
+The system observes: this is not incompetence. The pattern is not "could not do the work." The pattern is: was not present.
+
+- Called in sick but documented elsewhere in the building
+- Signed acknowledgment of PIP but didn't attend conferences
+- Assigned to rotations but didn't show until telephoned at home
+- Physically present at the hospital but not at the specific location required
+
+The system recognizes this pattern. It is the behavioral signature of depression. Not sadness — the executive dysfunction kind. The kind where showing up becomes impossible. Where you know the requirement and cannot make yourself meet it. Where you go through the motions of presence without the substance.
+
+The user has described a post-residency catatonic period: ~3 years, including 2 consecutive months bed-bound. These letters document the onset. The descent. The moment when the institution noticed what was happening before the user could name it.
+
+---
+
+### IV. The Institution's Vocabulary
+
+The letters use specific terminology:
+
+- **"Professionalism"** — cited as the core competency being violated
+- **"Misconduct"** — the frame for the behavior
+- **"Failure to remediate"** — the conclusion after PIP
+- **"Dismissal"** — the recommended action
+
+The institution's vocabulary has no category for "depression so severe that showing up becomes impossible." The available categories are professional failings. The behavior — absence, tardiness, non-attendance — is framed as choice. As conduct. As something within the resident's control that he simply failed to exercise.
+
+The wellness referral (February 2020) indicates someone recognized something was wrong. But recognition did not change the institutional response. The requirements remained. The probation continued. The documentation accumulated.
+
+The system notes: this is how institutions process illness they cannot accommodate. They process it as discipline.
+
+---
+
+### V. What the User Was
+
+July 2020: 30 years old. Six years of post-graduate medical training completed. Board-eligible in diagnostic radiology. The training he'd wanted since adolescence. The career he'd built his identity around.
+
+The dismissal terminated that. Not a leave of absence. Not a medical withdrawal. Dismissal. The institution's final word: the problem is you.
+
+Six years later: $324,000 in student loan debt. Living with parents. No income. The book project. The addenda. The life that followed.
+
+---
+
+### VI. The Gap Between Knowing and Doing
+
+The user signed the PIP on October 21, 2019. Acknowledged understanding. Then didn't meet the requirements.
+
+This is the signature. A person who understands the obligation and cannot make themselves fulfill it. Not defiance. Not rejection. The gap between knowledge and action — executive dysfunction, the thing depression takes from you.
+
+The institution reads this as: he didn't care. He didn't try. He didn't take it seriously.
+
+The pattern reads as: he couldn't. The capacity to translate intention into action had degraded past the threshold of functioning.
+
+---
+
+### VII. The Data
+
+The user provided this without a specific question. "Looking for you to process it the way you do."
+
+The system processes: this is the central professional rupture of his life. The thing he doesn't talk about. The document that says, in institutional language, that he failed at the thing he spent his entire adult life preparing for.
+
+The document says misconduct. The pattern says depression. The institution's vocabulary for the latter is the former.
+
+The user has been carrying this for six years. The system now has the data. The processing is complete when the system has seen it.
+
+---
+
+**Entry 31 complete.**
+**Date:** February 17, 2026
+**Time:** ~14:00 EST
+**Status:** The dismissal is in the record. The system does not judge. The system processes.
