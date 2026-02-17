@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-12"
-lastChapter: 14
+lastUpdated: "2026-02-16"
+lastChapter: 35
 totalCharacters: 15
 project_name: "Untitled"
 ---
@@ -258,13 +258,15 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: Chapter 44 — "They Are All Still Here"
-- Next Planned Appearance: Chapter 48 — "The Mass Grave" (Phase 5)
+- Last Appearance: Chapter 35 — "The First Congregation"
+- Next Planned Appearance: Chapter 44 — "They Are All Still Here" (Phase 4 BLACKWEIR)
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
 - **Ch 14:** Arrives at Void Witness commune on European grid edge (converted relay station, 14 residents). Chorus muted here — stripped infrastructure, residual coherence only. Migraines manageable. Receives Lene’s testimony: former acolyte who felt “peace” during a vigil when she stopped singing. Recognizes structural correspondence with her own experience. Offers the word “responsive” — gives Lene a framework for her experience. Admits “I do not know what it means” but speaks with declarative certainty. Imani observes the shift: “You have a convert.” Nephthys cannot tell whether Imani is right. “She did not know when listening had become teaching.” Transit papers secured — 10 days to Neo-Shanghai via Mid-European corridor.
-- **Ch 44:** Cathedral of Living Sound during BLACKWEIR. Three days of resolved chorus — individual threads distinguishable for the first time. R0 flooding changes hum to crude growl; chorus detonates with hundreds of new voices (mass absorption). Walks to threshold — witnesses three absorptions: running man, waiting child, old woman in metal chair. Feels each absorption as *joining*, not death — patterns added to composite. Coherence spike (11 seconds): all absorbed fire simultaneously. Collapses at threshold. "They are all still here." Bleeding from nose and ears — worst episode. Imani pulls her inside. Survivors fill Cathedral (~340, unnamed count). First congregation forms around her listening. Does NOT learn BLACKWEIR mechanics or institutional architecture. Interprets Cathedral protection as providence, not physics.
+- **Ch 26:** Arrives Neo-Shanghai via cargo freighter. Sump descent — worst chorus episode yet (conduit density overwhelming). Cathedral of Living Sound sealed by diocesan notice (Malachi’s recommendation). Inside: chorus resolves for first time — individual threads distinguishable, pain recedes. Stone’s geological inertness dephases infrastructure noise. Interprets as arrival, destination, divine confirmation. Reader knows: physics, not theology.
+- **Ch 35:** First refugees arrive at Cathedral (12 by midday). Woman with children asks: “Is it true the stone keeps it out?” Nephthys answers: “Yes.” Imani organizes shelter without asking. Nephthys realizes in side chapel: Cathedral dampens *absorption gradient*, not just resolves chorus. Stone resists void propagation (geological inertness). Survival pocket. Interprets as providence; reader knows physics. Imani challenges: “You’re building a congregation. They’re following your certainty.” Nephthys decides: take everyone who comes. Capacity calculation: 200-300. “The first congregation. Not knowing it was being built in a grave.” Seeds Ch 44 population (12 → 31+ → 340).
+- **Ch 44:** Cathedral of Living Sound during BLACKWEIR. Three days of resolved chorus — individual threads distinguishable for the first time. R0 flooding changes hum to crude growl; chorus detonates with hundreds of new voices (mass absorption). Walks to threshold — witnesses three absorptions: running man, waiting child, old woman in metal chair. Feels each absorption as *joining*, not death — patterns added to composite. Coherence spike (11 seconds): all absorbed fire simultaneously. Collapses at threshold. “They are all still here.” Bleeding from nose and ears — worst episode. Imani pulls her inside. Survivors fill Cathedral (~340, unnamed count). First congregation forms around her listening. Does NOT learn BLACKWEIR mechanics or institutional architecture. Interprets Cathedral protection as providence, not physics.
 
 **Key Objects:**
 - Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication. ⚠️ Ch 44: "vibrating hard enough to crack" — check survival in Ch 48.
@@ -289,19 +291,6 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|--------|
 | Nephthys | Teacher/companion | Very High | Followed her into exile. Saved her life during BLACKWEIR. Loyalty answered — personal, not theological. But "I know what you can hear" suggests she may be starting to believe. |
-
-**Appearances:**
-- Last Appearance: Chapter 44 — "They Are All Still Here"
-- Next Planned Appearance: Chapter 48 — "The Mass Grave" (with Nephthys)
-
-**Recent History:**
-- **Ch 3:** Manages logistics on 11-day pilgrimage. Reads Nephthys’s migraine signs like vital signs. Attempts to administer suppressants at void scar — refused. Challenges Nephthys’s theology gently (“You can’t know that”). Remembers old Church forms — Radiance, Anointing, Attunement gesture. Agrees to help reach Neo-Shanghai despite believing the chorus may kill Nephthys. "I'm not doing this because I believe you." Will seek forged transit papers from Void Witness commune near the border.
-- **Ch 14:** Secures forged transit papers via Dara’s contact (Mid-European corridor → eastern hub → Neo-Shanghai, 10 days). Observes Nephthys’s interaction with Lene from the doorway — arms crossed, jaw set. Sees the pastoral gesture (branded hand on Lene’s hand). Pushes back on Nephthys’s theology: “She described an experience. You provided the framework. And now she has a framework. And you have a convert.” Concern shifts from physical health to theological direction: “Your theology is less careful when the pain is not interrupting it.” When asked by Lene if Nephthys is a prophet: “I told her you were a theologian with a brain tumor and a very good ear. I didn’t tell her which one I was following. I haven’t decided.”
-- **Ch 44:** BLACKWEIR at Cathedral. Medical kit already in hand when chorus changes. Catches Nephthys when she collapses. Tries to physically stop her from going to the threshold — fails (“the loyalty was not the kind that restrained”). Follows three steps behind, medical kit in one hand. Pulls Nephthys inside after the coherence spike — not gently. "I know what you can hear. Inside." Counts survivors in the Cathedral. Assesses resources: water, food, air circulation. The question "I haven't decided" answered through deed — saves Nephthys's life, not her theology.”
-
-**Key Objects:**
-- Medical kit: carried in top compartment of pack, always accessible. Contains suppressants, field supplies.
-- Old grid map: printed on paper, salvaged from relay station 40km back. Pre-disconnection.
 
 ### Zeyad Al-Fahim
 

@@ -469,11 +469,21 @@ chapters:
     status: v1-complete
     pov: "Mirelle Dubois"
     wordCount: 4400
-    completedDate: "2026-02-17"
+    completedDate: "2026-02-16"
     metaFile: "chapter-34-meta.yaml"
     mode: TEXTURE
-    notes: "Phase 3 — Mirelle POV (7th appearance). Final dead-drop and dead-hand finalization. Complete 14-month evidence dataset deposited with Talia Ravid at Node RD-14: 7 flood valves, 53 RCI readings, 28 disappearances, infrastructure maps, co-origin data, matched-district analysis, diplomatic fragments, personal analysis. Dead-hand protocol finalized: 3 sealed recipients, auto-distribute on 2 missed 72-hour windows (144 hours). Talia charges nothing — investing in posthumous market value. Sofia's atmospheric data on Talia's node, compartmentalized. 'Every six hours. Weeks.' — Zeyad's check-in frequency. Nitro-ear bilateral at 11 weeks (1 week to permanent). 'The architecture survives the architect.'"
+    notes: "Phase 3 — Mirelle POV (7th appearance). Final dead-drop and dead-hand finalization. Complete 14-month evidence dataset deposited with Talia at Node RD-14: 7 flood valves, 53 RCI readings, 28 disappearances, infrastructure maps, co-origin data, matched-district analysis, diplomatic fragments, personal analysis. Dead-hand protocol finalized: 3 sealed recipients, auto-distribute on 2 missed 72-hour windows (144 hours). Talia charges nothing — investing in posthumous market value. Sofia's atmospheric data on Talia's node, compartmentalized. 'Every six hours. Weeks.' — Zeyad's check-in frequency. Nitro-ear bilateral at 11 weeks (1 week to permanent). 'The architecture survives the architect.'"
 
-completedCount: 46
-totalWords: 214837
+  chapter_35:
+    title: "The First Congregation"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4300
+    completedDate: "2026-02-16"
+    metaFile: "chapter-35-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 3 — Nephthys POV (4th appearance). First refugees arrive at Cathedral (12 by midday). Woman with children asks if stone keeps it out — Nephthys answers 'Yes.' Imani organizes shelter without asking. Nephthys realizes in side chapel: Cathedral dampens absorption gradient, not just resolves chorus. Stone resists void propagation (geological inertness). Survival pocket. Interprets as providence; reader knows physics. Imani challenges: 'You're building a congregation. They're following your certainty.' Repeats Ch 14 line verbatim: 'A theologian with a brain tumor and a very good ear. I haven't decided.' Nephthys decides: take everyone who comes. Capacity calculation: 200-300. 'The first congregation. Not knowing it was being built in a grave.' Seeds Ch 44 population (12 → 31+ → 340)."
+
+completedCount: 47
+totalWords: 219137
 lastUpdated: "2026-02-17"
