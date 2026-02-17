@@ -6,7 +6,7 @@ description: 'Generate the complete chapter draft following plan, voice, and con
 nextStepFile: './step-04-self-review.md'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
 
 # Reference
 antiSlopChecklist: '../data/anti-slop-checklist.md'

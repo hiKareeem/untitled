@@ -6,7 +6,7 @@ description: 'Load existing chapter for editing'
 nextStepFile: './step-02-edit.md'
 
 # Input
-chaptersFolder: '{bbb_output_folder}/chapters/'
+chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 ---
 
 # Step 1: Load Chapter for Editing

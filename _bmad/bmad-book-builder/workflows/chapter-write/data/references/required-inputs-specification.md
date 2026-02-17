@@ -138,8 +138,8 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 **Location:** `{thematicContextPath}` (primary: bible/themes.md)
 
 **Additional sources (load if available):**
-- Per-chapter thematic analysis: `{bbb_output_folder}/tracking/chapter-{N}-themes.md` (for previous chapters)
-- Cumulative themes tracking: `{bbb_output_folder}/tracking/themes.md`
+- Per-chapter thematic analysis: `{bbb_output_folder}/book-1/tracking/chapter-{N}-themes.md` (for previous chapters)
+- Cumulative themes tracking: `{bbb_output_folder}/book-1/tracking/themes.md`
 
 **Contains:**
 - 8 central themes with definitions and progression
@@ -165,7 +165,7 @@ The Chapter Write workflow requires **exactly 7 inputs** to be loaded and verifi
 **Location:** `{rhythmGuidelinesPath}` (primary: tracking/rhythm.md)
 
 **Additional sources (load if available):**
-- Rhythm dashboard: `{bbb_output_folder}/tracking/rhythm-dashboard.md`
+- Rhythm dashboard: `{bbb_output_folder}/book-1/tracking/rhythm-dashboard.md`
 - Rhythm baseline: `{bbb_output_folder}/analysis/rhythm-baseline.md`
 
 **Contains:**
@@ -218,7 +218,7 @@ When all inputs have been discovered, present:
 
 | Input | Status | Path |
 |-------|--------|------|
-| Chapter Plan | ✅/❌ | chapter-plan-untitled.md (Ch {N} details extracted) |
+| Chapter Plan | ✅/❌ | book-1/chapter-plan-book-1.md (Ch {N} details extracted) |
 | Style Profile | ✅/❌ | style-profile.yaml |
 | Story Bible | ✅/❌ | bible/ ({N} files: locations, characters, themes, objects, chronology) |
 | Previous Summaries | ✅/❌ | {count} meta.yaml files (Prologue–Ch {N-1}) |

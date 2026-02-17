@@ -8,7 +8,7 @@ nextStepFile: './step-02-extract-claims.md'
 # Output
 outputFile: '{bbb_output_folder}/reality-check/chapter-{scope}-report.md'
 bbb_output_folder: '{output_folder}'
-chaptersFolder: '{bbb_output_folder}/chapters/'
+chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 researchFolder: '{bbb_output_folder}/research/dossiers/'
 ---
 

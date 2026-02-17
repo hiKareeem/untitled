@@ -6,7 +6,7 @@ description: 'Make targeted edits to existing chapter'
 nextStepFile: './step-03-finalize.md'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
 
 # Reference
 antiSlopChecklist: '../data/anti-slop-checklist.md'

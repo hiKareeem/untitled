@@ -6,7 +6,7 @@ description: 'Review chapter plan and confirm direction before drafting'
 nextStepFile: './step-03-draft.md'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
 
 # Context (loaded in step-01)
 chapterPlanFile: '{bbb_output_folder}/foundation/chapter-plan-{chapter_number}.md'

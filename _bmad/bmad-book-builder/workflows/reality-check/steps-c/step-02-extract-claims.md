@@ -8,7 +8,7 @@ previousStepFile: './step-01-select-scope.md'
 
 # Output
 outputFile: '{bbb_output_folder}/reality-check/chapter-{scope}-report.md'
-chaptersFolder: '{bbb_output_folder}/chapters/'
+chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 ---
 
 # Step 2: Extract Claims

@@ -8,11 +8,11 @@ nextStepFile: './step-02-analyze.md'
 # Output
 outputFile: '{bbb_output_folder}/reports/status-report-{date}.md'
 bbb_output_folder: '{output_folder}'
-chaptersFolder: '{bbb_output_folder}/chapters/'
+chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 charactersFolder: '{bbb_output_folder}/characters/'
 bibleFolder: '{bbb_output_folder}/bible/'
 auditsFolder: '{bbb_output_folder}/audits/'
-trackingFolder: '{bbb_output_folder}/tracking/'
+trackingFolder: '{bbb_output_folder}/book-1/tracking/'
 foundationFolder: '{bbb_output_folder}/foundation/'
 ---
 

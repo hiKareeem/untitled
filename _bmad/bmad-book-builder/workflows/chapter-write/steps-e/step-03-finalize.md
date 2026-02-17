@@ -3,8 +3,8 @@ name: 'step-03-finalize'
 description: 'Finalize edited chapter and update metadata if needed'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
-metaFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}-meta.yaml'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
+metaFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}-meta.yaml'
 ---
 
 # Step 3: Finalize Edits

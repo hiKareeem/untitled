@@ -6,14 +6,14 @@ description: 'Character audit, continuity check, and per-chapter thematic analys
 nextStepFile: './step-06-bible-update.md'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
-auditFile: '{bbb_output_folder}/tracking/audit-chapter-{chapter_number}.md'
-themeAnalysisFile: '{bbb_output_folder}/tracking/chapter-{chapter_number}-themes.md'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
+auditFile: '{bbb_output_folder}/book-1/tracking/audit-chapter-{chapter_number}.md'
+themeAnalysisFile: '{bbb_output_folder}/book-1/tracking/chapter-{chapter_number}-themes.md'
 
 # References
 storyBiblePath: '{bbb_output_folder}/bible/'
 characterDossiers: '{bbb_output_folder}/characters/'
-previousChaptersFolder: '{bbb_output_folder}/chapters/'
+previousChaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 chapterPlan: '{bbb_output_folder}/chapter-plan-*.md'
 styleProfilePath: '{style_profile_path}'
 lexiconPath: '{bbb_output_folder}/lexicon.md'

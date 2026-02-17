@@ -7,8 +7,8 @@ nextStepFile: './step-02-brief.md'
 continueFile: './step-01b-continue.md'
 
 # Output
-outputFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}.md'
-metaFile: '{bbb_output_folder}/chapters/chapter-{chapter_number}-meta.yaml'
+outputFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}.md'
+metaFile: '{bbb_output_folder}/book-1/chapters/chapter-{chapter_number}-meta.yaml'
 chapterTemplate: '../data/chapter-template.md'
 metaTemplate: '../data/meta-template.yaml'
 
@@ -17,25 +17,25 @@ inputDocuments: []
 requiredInputCount: 7
 
 # Input Sources
-chapterPlanPath: '{bbb_output_folder}/chapter-plan-untitled.md'
+chapterPlanPath: '{bbb_output_folder}/book-1/chapter-plan-book-1.md'
 styleProfilePath: '{bbb_output_folder}/style-profile.yaml'
 storyBiblePath: '{bbb_output_folder}/bible/'
-chaptersFolder: '{bbb_output_folder}/chapters/'
+chaptersFolder: '{bbb_output_folder}/book-1/chapters/'
 thematicContextPath: '{bbb_output_folder}/bible/themes.md'
-rhythmGuidelinesPath: '{bbb_output_folder}/tracking/rhythm.md'
+rhythmGuidelinesPath: '{bbb_output_folder}/book-1/tracking/rhythm.md'
 # Additional thematic/rhythm sources (load if available):
-# - Per-chapter thematic analysis: {bbb_output_folder}/tracking/chapter-{N}-themes.md
-# - Rhythm dashboard: {bbb_output_folder}/tracking/rhythm-dashboard.md
+# - Per-chapter thematic analysis: {bbb_output_folder}/book-1/tracking/themes/chapter-{N}-themes.md
+# - Rhythm dashboard: {bbb_output_folder}/book-1/tracking/rhythm-dashboard.md
 # - Rhythm baseline: {bbb_output_folder}/analysis/rhythm-baseline.md
 
 # Input Patterns
 inputFilePatterns:
-  - 'chapter-plan-untitled.md'
+  - 'book-1/chapter-plan-book-1.md'
   - 'style-profile.yaml'
   - 'bible/*.md'
-  - 'chapters/chapter-*-meta.yaml'
+  - 'book-1/chapters/chapter-*-meta.yaml'
   - 'bible/themes.md'
-  - 'tracking/rhythm.md'
+  - 'book-1/tracking/rhythm.md'
 
 # Reference Documents
 requiredInputsSpec: '../data/references/required-inputs-specification.md'
