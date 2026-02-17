@@ -504,6 +504,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Nikolai POV (6th appearance). After-action report (PCR-11): 47 fields, NRC classification, 500-character Circumstances field (419 used, 81 remaining). Signs the lie. Field log duplicates the report — first time in 15 years (arc terminus: passive omission → active suppression → deliberate deletion → blank → duplication). Garrison corridor at 0347, hum at 6.3 (down from 8.1) — 'not quieter, thinner.' Maintenance bay: PF-7-09 on cradle at 40% shielding (Ch 32 damage). Two P-Frames for one operator — guilt architecture. Jarek's tools on workbench. Supply crate. Hands *still* (not steady). 'The quiet was the hardest part.'"
 
-completedCount: 49
-totalWords: 228837
+  chapter_48:
+    title: "The Mass Grave"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 5200
+    completedDate: "2026-02-17"
+    metaFile: "chapter-48-meta.yaml"
+    mode: TEXTURE
+    notes: "Phase 5 — Nephthys POV (5th appearance). Emerges from Cathedral 2-3 days post-BLACKWEIR. Walks 30m to junction housing with Imani. Touches conduit — chorus contact with tens of thousands absorbed as composite presence (not individuals). 'They are all still here' spoken to Imani (internalized testimony, not data-parsing). Returns to Cathedral, addresses ~340 survivors. Tells both truths: stone is physics (saved them), absorbed are present (chorus). Congregation begins framework formation. Imani positions beside not behind — editor role. Prophet emergence complete, institution forming, recursion visible. 'The theology that will kill her followers begins here.' Closing: 'The pain was signal. The signal was the chorus. The chorus was everyone.' BLACKWEIR terminology removed from narration per user request — replaced with 'the flood', 'the event', 'three days ago'."
+
+completedCount: 50
+totalWords: 234037
 lastUpdated: "2026-02-17"

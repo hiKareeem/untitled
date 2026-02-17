@@ -1,0 +1,130 @@
+---
+chapterNumber: 48
+title: "The Mass Grave"
+pov: "Nephthys"
+phase: 5
+mode: TEXTURE
+wordCount: 5200
+completedDate: "2026-02-17"
+status: v1-complete
+
+# Timeline
+timeline: "Phase 5 — 2-3 days post-BLACKWEIR"
+daysSinceBlackweir: 2-3
+
+# Location
+primaryLocation: "Neo-Shanghai Sump — Cathedral of the Living Sound"
+secondaryLocations:
+  - "Cathedral entrance corridor (3m stone threshold)"
+  - "Sump exterior (violet-coated streets)"
+  - "Junction housing (30m from Cathedral)"
+  - "Cathedral main chamber"
+
+# Characters Present
+povCharacter: "Nephthys"
+supportingCharacters:
+  - name: "Imani"
+    role: "Companion/counterweight, evolving to editor"
+    significance: "Witnesses prophet emergence, provides practical counterweight"
+  - name: "First Congregation"
+    role: "~340 Sump survivors"
+    significance: "Receive prophetic testimony, framework formation begins"
+  - name: "Man with wife in Block 7"
+    role: "Questioner"
+    significance: "Represents congregation's need for individual answers"
+  - name: "Woman with sleeping child"
+    role: "Questioner"
+    significance: "Represents congregation's need for certainty"
+
+# Key Points
+keyEvents:
+  - "Nephthys emerges from Cathedral 2-3 days post-BLACKWEIR"
+  - "Walks 30m to junction housing with Imani"
+  - "Touches conduit junction — chorus contact with absorbed population"
+  - "Experiences tens of thousands as composite presence, not individuals"
+  - "Speaks 'They are all still here' to Imani (second iteration, internalized)"
+  - "Returns to Cathedral, addresses congregation of ~340"
+  - "Tells both truths: stone is physics (saved them), absorbed are present (chorus)"
+  - "Congregation begins framework formation around her testimony"
+  - "Imani positions beside not behind — editor role emerging"
+  - "Prophet emergence complete, institution forming, recursion visible"
+
+revelations:
+  - "Absorbed exist as composite community, not recoverable individuals"
+  - "Cathedral survival was geology not theology (The Lie tested)"
+  - "Understanding doesn't provide safety, only framework"
+  - "Nephthys acknowledges recursion but chooses not to stop it"
+  - "Imani decides: following someone right about chorus, wrong about what rightness means"
+
+# Thematic Analysis
+dominantThemes:
+  - "Where Identity Ends"
+  - "Irrelevance of Individual Being"
+strongThemes:
+  - "Truth as Weapon"
+  - "What We Owe"
+moderateThemes:
+  - "Systemic Complicity"
+  - "Architecture of Power"
+
+# New Elements
+newLocations: []
+newCharacters: []
+newObjects:
+  - "Violet frost (crystalline residue on non-conductive surfaces)"
+  - "Cloth masks (R0 aerosol protection)"
+
+# Continuity Notes
+objectsContinued:
+  - "Branded palm (left hand, broken circle, warm when signal-active)"
+  - "Medical kit (Imani carries, suppressants unused)"
+  - "Junction housing (NitroCore PMU series, violet-coated)"
+  - "Cathedral stone (3m threshold, geological formation)"
+
+physicalState:
+  nephthys: "Functional not strong, nosebleeds light/clotted, migraines reorganized post-flood, knees protesting"
+  imani: "Tired, managing 340 people for 3 days, practical focus"
+
+# Cross-References
+previousChapter: 47
+nextChapter: 49
+relatedChapters:
+  - 3: "The Pain Is Signal (thesis established)"
+  - 14: "The Commune (Imani's 'which one I was following')"
+  - 26: "The Wound in the World (Cathedral arrival)"
+  - 35: "The First Congregation (30-31 people, 'you're building a congregation')"
+  - 44: "They Are All Still Here (first iteration, data-parsing)"
+
+# Arc Progression
+nephthysArc: "Phase 5/5 — Prophet emergence complete. Seeker → Prophet transformation finalized. The Lie tested (understanding ≠ safety). Recursion visible but not stopped."
+imaniArc: "Follower → Editor. 'Someone needs to know the difference.' Beside not behind positioning."
+congregationArc: "Framework formation begins. Theology weaponized. Book 2 movement seeded."
+
+# Seeds for Future
+book2Seeds:
+  - "Nephthys movement and Threshold wing"
+  - "Church schism (grassroots vs institutional)"
+  - "Mass grave theology ('The theology that will kill her followers begins here')"
+  - "Imani as editor/counterweight in movement"
+  - "Cathedral as survival pocket (water/food/ventilation constraints)"
+
+# Epigraph
+epigraphSource: "Operational Theology"
+epigraphAuthor: "Nephthys"
+epigraphRef: "undated journal"
+epigraphText: "The Church taught us the Voice was singular. One tone, one frequency, one God. It was not singular. It was never singular. It was everyone."
+
+# Rhetoric Reference
+rhetoricType: "Counter-liturgy, testimony, chorus vocabulary"
+
+# Style Notes
+dialoguePercent: 22
+avgSentenceLength: 16-18
+fragmentPercent: 20
+nbACount: 4
+textureSubtype: "theological/prophetic"
+
+# Author Notes
+authorNote: "BLACKWEIR terminology removed from Nephthys's narration per user request — replaced with 'the flood', 'the event', 'three days ago'. Institutional designation unknown to congregation."
+divergenceFromPlan: "None. All plan beats executed faithfully."
+---

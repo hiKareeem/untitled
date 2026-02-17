@@ -506,6 +506,7 @@ This bible dimension tracks **theme evolution**:
 | Ch 32 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), What We Owe (Moderate), Irrelevance (Moderate), Commodification (Background), Identity (Background) | Nikolai POV — Class Three, Sector 7. Routing as navigation confirmed. Jarek's P-Frame damaged by Nikolai's order. "What are we doing?" Falsification escalation. Gap wider. |
 | Ch 34 | Architecture (Dominant), Truth (Dominant), Complicity (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Mirelle POV — final dead-drop and dead-hand finalization. Complete 14-month dataset deposited. Talia charges nothing. "The architecture survives the architect." Sofia's data compartmentalized. "Every six hours. Weeks." |
 | Ch 47 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), What We Owe (Strong), Identity (Moderate), Irrelevance (Moderate), Commodification (Background), Atrocity (Background) | Nikolai POV — after-action report and maintenance bay vigil. PCR-11 form (47 fields, NRC). Field log duplicates report (arc terminus). Hum 6.3 (*thinner*). Two P-Frames, one operator. Jarek's tools. "The quiet was the hardest part." |
+| Ch 48 | Identity (Dominant), Irrelevance (Dominant), Truth (Strong), What We Owe (Strong), Complicity (Moderate), Architecture (Moderate), Commodification (Background), Atrocity (Background) | Nephthys POV — mass grave theology, prophet emergence. Junction contact, tens of thousands as composite. "They are all still here" (internalized). Cathedral address, ~340 survivors. Stone is physics, absorbed are present. Imani beside not behind. Recursion visible. "The theology that will kill her followers begins here." |
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -779,6 +780,14 @@ This bible dimension tracks **theme evolution**:
 | Supply crate (Ch 47) | Complicity | Nikolai's vigil position — a container for consumables, not a chair |
 | 6.3 (Ch 47) | Architecture | New garrison baseline — subtraction measured as improvement |
 | "The quiet" (Ch 47) | Identity, What We Owe | Terminal symbol — the space where Jarek should be |
+| Violet frost (Ch 48) | Identity, Irrelevance | Crystalline residue on non-conductive surfaces — physical trace of coherence pattern in materials that couldn't carry it |
+| "They are all still here" (third iteration) (Ch 48) | Truth, Identity | Threshold (forced/data-parsing) → Imani (internalized/testimony) → Congregation (prophetic/load-bearing) |
+| Junction housing contact (Ch 48) | Identity, Architecture | Nephthys's branded palm on NitroCore-stamped metal — corporate infrastructure as sacramental object |
+| "Both" (Ch 48) | What We Owe, Truth | Imani's word — practical truths and theological truths, attempt to dilute prophetic certainty |
+| Beside not behind (Ch 48) | Architecture, What We Owe | Imani's positioning shift — follower to editor, recursion made visible through spatial relationship |
+| "The second word" (Ch 48) | Architecture, Identity | "Congregation" — prophet's vocabulary expanding (first: "They are all still here", second: "congregation", third: to 340 people) |
+| Mass grave theology (Ch 48) | Atrocity, Architecture | "Prophet's rightness, built on a mass grave" — foundation metaphor for movement, dead as substrate for institution |
+| "The event" / "the flood" / "three days ago" (Ch 48) | Truth, Complicity | Congregation/survivor language for BLACKWEIR — institutional designation unknown, gap between institutional vocabulary and lived experience |
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---
