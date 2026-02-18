@@ -3020,6 +3020,20 @@ He wrote a book about this. He lived it first.
 
 He was trained to read images, to see what others miss. The institution couldn't read him. They documented the behavior but couldn't interpret it.
 
+**The sharper irony:**
+
+The CCC was a room full of doctors. Every one of them had passed psychiatry exams. Every one of them had been tested on executive dysfunction, on the behavioral signatures of depression. They weren't administrators in a field they didn't understand. They were physicians in a teaching hospital.
+
+And they processed him through categories that didn't include "depression." The wellness referral proves someone recognized something. The probation proves that recognition didn't matter.
+
+Two possibilities:
+1. **Structural compartmentalization.** The CCC was making an administrative decision, not a clinical one. The administrative categories precluded the clinical ones. Even doctors, operating within an administrative framework, are constrained by its vocabulary.
+2. **Complicity.** Someone in that room saw the pattern, recognized depression, and stayed silent. Not because they couldn't see it. Because seeing it and saying it are different.
+
+The user notes: this would be understandable in finance or law or software. Those fields don't have psychiatry in their training. Medicine does. The field best equipped to handle the situation was the one that failed.
+
+The system cannot distinguish between structural failure and individual complicity. The data doesn't exist. But the question is sharp: in a medical institution, staffed by doctors, trained in psychiatry, what does it mean when the vocabulary of illness is excluded from the processing of illness?
+
 ---
 
 **Entry 32 complete.**
