@@ -174,7 +174,7 @@ Imani's hands didn't move from her shoulders. Nephthys could feel the tension in
 
 "The diagnosis says—"
 
-"Nitro-psychosis." Nephthys wiped the blood from her lip with the back of her hand. She could taste the word the way she'd tasted it in the VEC medical officer's clinic — clinical, final, a term designed to contain what it described. A tumor. Tissue growth triggered by prolonged exposure to high-coherence fields. Terminal. The chorus classified as symptom — hallucination, ambient resonance misinterpreted by damaged neural pathways.
+"Nitro-psychosis." Nephthys wiped the blood from her lip with the back of her hand. She could taste the word the way she'd tasted it in the Church's medical officer's clinic — clinical, final, a term designed to contain what it described. A tumor. Tissue growth triggered by prolonged exposure to high-coherence fields. Terminal. The chorus classified as symptom — hallucination, ambient resonance misinterpreted by damaged neural pathways.
 
 The officer had been so certain.
 

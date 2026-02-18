@@ -24,7 +24,13 @@ rhetoric_reference: "NitroCore Sump Division press release"
 
 ## The Feed Says Relocated
 
-> *"Three went down to mend the seal / and two came back with steady hands / they wrote the third one's name in chalk / you'll find it if the wall still stands."*
+> *"Three went down to mend the seal*
+>
+> *and two came back with steady hands* 
+>
+> *they wrote the third one's name in chalk*
+>
+> *you'll find it if the wall still stands."*
 >
 > — *Songs of the Deep Sump*, "Chalk Song"
 

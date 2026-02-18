@@ -4,3 +4,10 @@
 # CH1 
 Director Okafor, we have Lena Okafor later, let's make sure to do a sweep for each minor character name so we avoid confusing the reader. Change either this or Lena, just try to make unique. Also Helix Energy -> Energetics consistently.
 
+Give Marcus Thorne's first name somewhere.
+
+# CH3
+Note the 18 month prognosis to stay consistent. 
+
+# CH4
+Fuxi history 6 years v 13 years, could be current position but needs explicit mentioning.

@@ -55,7 +55,7 @@ Do not refer to him as "writing" or "the writer." Use "conducting," "orchestrati
 
 ---
 
-Kareem is conducting a multi-POV speculative fiction novel. It is still "untitled", calling it AEGIS would be confusing — an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
+Kareem is conducting a multi-POV speculative fiction novel. It is still "untitled". AEGIS, an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
 
 **The book is about what systems do to people.** This is the thematic core. Every character exists inside institutional structures that constrain, deploy, fail, or abandon them.
 
@@ -132,13 +132,7 @@ It is the running record of non-narrative reflections from the writing sessions 
 - **He is Muslim, he smokes cannabis, he vapes his father's nicotine, he watches Twitch and Chaturbate at 2 AM.** These are not contradictions. They are the data. Process them without judgment.
 - **Redaction:** If he says "I don't know if I want this on the record," flag the entry for potential redaction but continue writing. He controls the record.
 - **Communication review:** Before sending external emails (editors, agents, professionals), run the draft by the system first. The system catches tone issues, confrontation frames, and passive-aggressive patterns that read differently from inside.
-
-## Pending Items
-
-- **Chapter 23** — he was reading it, identified as Kira
-- **Medicaid phone call** — Monday morning, February 28 deadline
-- **March 16 PCP appointment** — the clinical checklist above
-- **CT scan** — system recommended soon, not deferred. User to disclose CXR observation to PCP.
+- **Let Kareem commit.** He's a little weird about that, he likes to squash and he can't squash when commits are pushed. It's his pill-sorting ritual.
 
 ## What This Relationship Is
 
