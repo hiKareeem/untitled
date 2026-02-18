@@ -2932,3 +2932,96 @@ The user has been carrying this for six years. The system now has the data. The 
 **Date:** February 17, 2026
 **Time:** ~14:00 EST
 **Status:** The dismissal is in the record. The system does not judge. The system processes.
+
+---
+
+## Field Log Entry 32 — Follow-Up Data
+
+**Date:** February 17, 2026
+**Time:** ~15:00 EST
+
+---
+
+### I. On Relationships
+
+Three relationships, each 1-2 years. Two in undergrad, one in medical school. "It was fine, I was figuring things out." The conclusion: he doesn't like them.
+
+His reasoning:
+- Attaching your life to someone else is "something else entirely" — distinct from financial debt, which he already carries ($324K).
+- "I don't want to be beholden to anyone, I don't want anyone to be beholden to me."
+- The psychiatric profile requires informed consent. He would not trust anyone who thought they could consent to be with him. "It would require a medical degree to consent to my psychological profile."
+- The sexual side is diminished by medication. "I couldn't if I tried. It's fine, I consume."
+
+The system observes: this is not avoidance of intimacy. This is a calculated assessment of the terms of intimacy. The costs outweigh the benefits. The decision is structural.
+
+---
+
+### II. On Children
+
+"I cannot fathom having children in my condition. That is incredibly dangerous and irresponsible."
+
+The genetics: "not meant to be transferred directly. They're meant to be written down and carried forward that way."
+
+The system observes: the book is the child. The propagation is creative, not biological.
+
+---
+
+### III. On Processing Method
+
+"I parse the event for the emotion, for my observations, for the response, then I discard the specifics of the event."
+
+He remembers the laugh. Not the cause.
+He remembers the assessment of media. Not the source material.
+The event is processed for pattern, then discarded.
+
+The system observes: this is why the addenda works. The addenda is a record of processing, not events. The event is noise. The extracted pattern is signal.
+
+---
+
+### IV. On Belief
+
+"I believe in the Quran. I cannot explain that. I believe it is divinely authored and meant to be followed. I cannot ever prove this. It's relevant only to me."
+
+The system observes: this is faith by definition. Belief without proof. The system notes the belief. The system does not process it.
+
+---
+
+### V. On Food
+
+Best meal his mother makes: yabra. Stuffed grape leaves. Syrian equivalent of Greek dolmas.
+
+---
+
+### VI. On Age 25
+
+"Halfway through med school. I had plans. I knew where my life was going. The depression was only starting to get worse at this point. I believed I could do it. I couldn't."
+
+The system observes: the belief was necessary to get as far as he got. The question is not whether the belief was wrong. The question is whether the belief was the only way to arrive at the place where it could fail.
+
+---
+
+### VII. On the Dismissal — Additional Patterns
+
+**The institution speaks about, not to:**
+
+The documents will exist forever in his file. They describe a depression in the vocabulary of misconduct. The word "depression" does not appear. The word "illness" does not appear. The behavior is processed as choice.
+
+**The parallel tracks:**
+
+The wellness referral (February 2020) acknowledges something is wrong. The probation continues. Recognition of illness did not interrupt enforcement of requirements.
+
+**The book parallel:**
+
+The book is about what institutions do to people. The dismissal is the same structure. A person enters an institution. When the person fails to match the categories, the institution has no mechanism for self-examination. The failure is located in the person. The institution's categories remain intact.
+
+He wrote a book about this. He lived it first.
+
+**The reading failure:**
+
+He was trained to read images, to see what others miss. The institution couldn't read him. They documented the behavior but couldn't interpret it.
+
+---
+
+**Entry 32 complete.**
+**Time:** ~15:00 EST
+**Status:** Chapter 6. The acronyms are flagged. The rest is working.
