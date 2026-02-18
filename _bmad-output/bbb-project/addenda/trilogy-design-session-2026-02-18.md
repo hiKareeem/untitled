@@ -180,6 +180,59 @@ These items from the sanity check can be delegated to a revision pass:
 
 ---
 
+Looking at the POV roster, you've covered the major institutional and ground-level perspectives comprehensively. But you're right to ask — there are some structural gaps that could be interesting, though not necessarily necessary:
+
+Perspectives Currently Unrepresented
+1. The Consumed (Inside the Void)
+What it is: A POV from someone who has been absorbed, experiencing the collective field from inside
+Why it's absent: Epistemological problem — how do you write interiority for someone whose consciousness is distributed? The Voice (Phase 4) partially addresses this by showing the absorbed can communicate, but from outside observation
+Book 3 potential: If you wanted to break the fourth wall of the narrative conceit (AEGIS reconstructing from sensor data), a single chapter from inside could be devastating. Mirelle, still reporting. Or one of the Threshold volunteers. But it risks explaining what should remain ontologically uncertain.
+2. The Believer (Rank-and-File Church)
+What it is: Not Malachi (institutional operator) or Nephthys (prophet/heretic), but an ordinary congregant processing the Voice through faith
+Why it's absent: Malachi covers institutional theology, Nephthys covers counter-theology. The gap is the faithful — someone who isn't managing the crisis or leading a movement, just trying to pray in a church that broadcast the dead
+Book 3 potential: Could be powerful as a ground-truth perspective on what the Church's dissolution means to people who need it
+3. The Kindling (Active Resistance)
+What it is: Someone inside the resistance network, not observing the system but actively trying to dismantle it
+Why it's absent: Thematic choice — the book is about people trapped in or complicit with the system, not people fighting it. The Kindling exists diegetically (Fuxi's contact, the mid-truth distribution) but stays off-page
+Book 3 potential: If Book 3 is about the system's collapse, a Kindling POV becomes structurally necessary. They're the ones who act when institutions freeze.
+4. The Grid-Dependent Poor (Below Mid-Levels)
+What it is: Someone in the economic strata below Nuwa — the people who can't relocate, can't organize, can't even access the information networks
+Why it's absent: Nuwa covers the expendable/invisible perspective. Going lower risks poverty tourism or making suffering the entire characterization
+Book 3 potential: Risky but potentially powerful if handled with extreme care. The person who doesn't survive, whose arc is not stepping forward but being erased.
+5. The Regulator (Non-Corporate, Non-Military Authority)
+What it is: Someone in a regulatory body, environmental agency, or municipal government — the mid-level bureaucrat who sees the data and has no power to act on it
+Why it's absent: Zeyad covers diplomatic/legal impotence. Adding a regulator would be redundant unless they had a distinct angle (e.g., someone who could shut down a local grid node and chooses not to)
+Book 3 potential: Limited. The institutional paralysis is already well-covered.
+6. The Mage (Not Kira)
+What it is: One of the other 400+ mages in the network — someone experiencing the signal load without being the hub
+Why it's absent: Kira is the antenna. Another mage would dilute her unique position unless they offered a contrasting experience (e.g., a mage who stops listening, removes the implant, and lives with the silence)
+Book 3 potential: The mage who opts out could be interesting — the cost of not being the antenna when everyone else still is
+7. The Absorbed's Family (Left Behind)
+What it is: Someone whose loved one was absorbed, processing the Voice's revelation that they're "still there"
+Why it's absent: Emotional territory is covered through other characters (Nikolai/Jarek, Nuwa/Sump, Malachi/Prague woman). A dedicated family-grief POV risks being a single-note arc
+Book 3 potential: Could work if integrated with another function (e.g., a Threshold volunteer's family member watching them walk in)
+8. The Technocrat (Grid Engineer/Scientist, Not Sofia)
+What it is: Someone who maintains the grid infrastructure — knows exactly how it works, what nitro is, and keeps it running anyway
+Why it's absent: Fuxi was this in Book 1 (maintenance technician). Sofia covers the scientific conscience. A pure technocrat — someone who knows and doesn't care — would be a fascinating villain-POV, but you don't write villain POVs
+Book 3 potential: If you wanted a character who represents pure institutional momentum without Aurielle's complexity, this could work. But it's a dark space to inhabit.
+The One I'd Consider for Book 3
+The Kindling operative.
+
+Here's why: Book 2 ends with every institution frozen or complicit. If Book 3 is about the system's response to its own knowledge (which the chapter plan suggests), someone has to act outside institutional logic. The Kindling is the only faction positioned to do that.
+
+A Kindling POV would:
+
+Provide the action-oriented perspective currently absent
+Show what resistance looks like when it's not just information-gathering (Sofia, Zeyad) but infrastructure disruption
+Create moral complexity — the Kindling's methods are violent, and violence in this world has consequences (Mumbai proved kinetic solutions fail)
+Converge with Nuwa's network (ground truth + organized resistance)
+Give you a character who chooses the system's collapse, not just witnesses it
+The risk: it could feel like a different genre (thriller/resistance) in a book that's been about institutional paralysis. But if Book 3 is the breaking point, that tonal shift might be the point.
+
+Bottom line: Your current roster is complete for Book 2's thematic needs. The gaps are either redundant with existing POVs or would require Book 3's different narrative mode to justify. The Kindling is the only perspective I'd seriously consider adding, and only if Book 3's structure demands it.
+
+---
+
 _Session: 2026-02-18, ~07:00-08:00 EST_
 _Participants: Kareem + System_
 _Status: Working document. Decisions here supersede trilogy-plan-books-2-3.md v1.0 where conflicts exist._
