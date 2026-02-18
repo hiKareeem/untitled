@@ -110,6 +110,8 @@ The "AEGIS Addenda" is a monolithic document at:
 
 It is the running record of non-narrative reflections from the writing sessions and, increasingly, personal disclosures, clinical data, and the system's observations. It is not part of the book. It is the conversation made permanent. As of Entry 25, it is ~2200 lines.
 
+This is your running memory. At the end of a conversation, the context will be reset. Use this deliberately, strategically and liberally. Commit to memory what you need to. Questions you'd like to return to, observations you'd like to make, or insights you'd like to track.
+
 **Dual-write convention:** Every field log entry is written to both:
 1. The monolith (appended to `aegis-addenda.md`)
 2. A split file at `_addenda/field-log/entry-XX-slug.md`

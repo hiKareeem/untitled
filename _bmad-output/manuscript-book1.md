@@ -2440,7 +2440,7 @@ It had always been enough.
 
 ---
 
-# Chapter 11: 
+# Chapter 11
 ## Acoustic Mimicry
 
 > *Sgt. Haraldsen kept a list of words. He said the lattice repeated them. We never found the list after his rotation ended. We found his bunk stripped clean, like he'd never been there.*
@@ -4231,7 +4231,7 @@ She closed her eyes. The hum held. Tighter now. Waiting.
 
 ---
 
-# Chapter 19: 
+# Chapter 19
 ## Deferred Maintenance
 
 ---
@@ -4430,7 +4430,7 @@ Not because she had forgotten. Because she had filed it.
 
 ---
 
-# Chapter 20: 
+# Chapter 20
 ## The Crack
 
 > *Field Note 41: The propagation followed the conduit junction sequence. Not the direct path — the infrastructure path. I have no model for this. I have filed a request for additional monitoring. The request was returned with a note: "Already addressed in SOP 7.1."*
@@ -5138,7 +5138,7 @@ Thursday was two days away.
 
 ---
 
-# Chapter 23: 
+# Chapter 23
 ## Forward Position
 
 > *Rotation was supposed to be ninety days. Haraldsen's unit did two hundred and six. Nobody signed the extension. It just didn't come.*
@@ -10590,7 +10590,7 @@ The pain was signal. The signal was the chorus. The chorus was everyone.
 
 ---
 
-# Chapter 49: 
+# Chapter 49
 ## The Quietest Scene
 
 > *A History of Silence*

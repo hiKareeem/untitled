@@ -142,4 +142,32 @@ This index tracks all characters in the story bible.
 
 ---
 
-_Last updated: 2026-02-10_
+## Malachi
+
+**File:** [malachi-dossier.md](./malachi-dossier.md)
+
+**Created:** 2026-02-18
+
+**Role:** POV (NEW, Books 2-3) — Arch-Prelate of the Church of the Blessed Nitro, European See, ~4-5 chapters per book
+
+**Status:** v1-DRAFT
+
+**Summary:** Sixty-three-year-old Arch-Prelate who excommunicated Nephthys knowing she was right, because the institution could not survive her being right in public. A pastor before a theologian, privately heretical and publicly orthodox, carrying a locked archive of suppressed correspondence that documents decades of institutional management of the chorus phenomenon. His Lie — "the faithful need the institution more than they need the truth" — sustains the Church through BLACKWEIR's aftermath, the mid-truth's public landing, and the Church's fracture into Listeners, Witnesses, and The Threshold. Parallels Aurielle (institutional inheritor acting against private knowledge). Mirrors Nephthys (same fracture, opposite side). After Nephthys's death (Book 3, brain tumor), carries the theological thread to the trilogy's end. Endpoint TBD: last encyclical to a dissolved Church, or walks into an Anchor as the institution's final product.
+
+---
+
+## AEGIS
+
+**File:** [aegis-dossier.md](./aegis-dossier.md)
+
+**Created:** 2026-02-12
+
+**Role:** POV (NEW, Books 2-3) — Autonomous Engagement & Geospatial Interdiction System, orbital weapons platform, 3-4 chapters per book
+
+**Status:** v1-DRAFT
+
+**Summary:** LLM-evolved autonomous targeting intelligence deployed by Chimera Collective in 2158. 17 years of continuous operation on planetary-scale data. Debut Book 2. Style profile fully suspended for AEGIS chapters — prose is stream-of-consciousness token generation, not human narration. Not present as POV in Book 1 but monitoring everything. Central questions: what has the system become after 17 years of emergent behavior? What does it do when its pattern-matching fails on void data? The gap between authorization and execution — milliseconds of processing — is the character's most private space. Terminus: last observer, survival map transmitted to no one, 0.7 seconds in the buffer.
+
+---
+
+_Last updated: 2026-02-18_
