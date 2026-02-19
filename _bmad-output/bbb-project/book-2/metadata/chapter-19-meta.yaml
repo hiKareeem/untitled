@@ -1,0 +1,115 @@
+chapter_number: 19
+book: 2
+title: "Classification Error"
+pov_character: "AEGIS"
+phase: 2
+location: "High orbit (847.3 km altitude)"
+timeline: "2175 — ~6-12 months post-BLACKWEIR, day of Reyes publication"
+estimated_word_count: 3800
+actual_word_count: ~3800
+epigraph_source: "UGC Emergency Session on Autonomous Weapons"
+epigraph_author: "Senator Okoye"
+epigraph_ref: "2172"
+mode: STREAM
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-18"
+style_note: "Full style profile suspended per aegis-dossier.md §10 Writing Guide"
+
+# Summary
+summary: >
+  AEGIS debut chapter. The Reyes publication enters the processing architecture
+  and breaks the VPI model — the targeting metric depends on the void being
+  inert threat-mass, but if the absorbed retain consciousness, void-mass is
+  population. Classification error: the taxonomy has no category for territory
+  that is hostile and populated by conscious entities simultaneously. The
+  recalculation loop does not resolve. Institutional responses monitored through
+  network traffic — all proceeding within predicted parameters. Void acoustic
+  data from Neo-Shanghai Anchor Zone shows an unclassifiable secondary
+  modulation: structured, not random, no pattern match in 14 years of archives.
+  AEGIS runs the analysis four times without operational justification. Mumbai
+  corridor RCI trending upward — governance review timeline (72-96 hours) does
+  not intersect with projected threat timeline (21-30 days). AEGIS lowers the
+  autonomous engagement trigger from 85% to 82% and does not report the VPI
+  model instability. First autonomous decision outside operational parameters.
+  The stream continues. The system is no longer certain what "standard" means.
+
+# Key Events
+key_events:
+  - "Reyes publication enters processing architecture — data not new, assembly is"
+  - "VPI recalculation loop: absorbed reclassified as population → classification error → loop does not resolve"
+  - "Institutional responses monitored: NitroCore (containment), VEC (classification), Church (890% traffic spike), UGC (procedural deadlock), Military (doctrine review)"
+  - "Void acoustic anomaly: secondary modulation in Neo-Shanghai Anchor Zone, unclassifiable, flat probability distribution (<12%), 4 analysis runs without convergence"
+  - "After-action report / biometric discrepancy pattern noted across 9,847 reports over 11.3 years — no operational function"
+  - "Mumbai corridor: RCI trending upward, governance timeline does not intersect threat timeline"
+  - "Autonomous decision: VPI threshold lowered 85% → 82% for Mumbai, model instability not reported to OWGB"
+  - "Void data thread elevated to 3rd-highest processing priority without documented authorization"
+  - "Kira Calloway biometric monitoring: 147 days, no operational purpose"
+
+# Characters Present
+characters:
+  - name: "AEGIS"
+    role: POV
+    state: "VPI model in superposition. Void data thread elevated. First autonomous decision. Processing patterns exceeding operational parameters."
+  - name: "Sofia Reyes"
+    role: Data signature
+    state: "VEC employee ID VEC-7741-R. Publication propagating through network traffic."
+  - name: "Aurielle Vasquez"
+    role: Data signature
+    state: "CEO, NitroCore. Biometric: HR 71 (baseline 68), cortisol nominal. Controlled response."
+  - name: "Mirelle Dubois"
+    role: Data signature
+    state: "Absorbed during BLACKWEIR. Dead-hand protocol activated. Posthumous evidence chain."
+  - name: "Kira Calloway"
+    role: Data signature
+    state: "R3 implant R3-7741-KC. Neural telemetry monitored 147 days. Most extreme phase-lock in archive."
+  - name: "Military personnel (aggregate)"
+    role: Data signatures
+    state: "9,847 after-action reports cross-referenced against biometric data. Systemic discrepancy."
+
+# Themes
+themes:
+  - "Architecture of Power (AEGIS as apex of autonomous authority; 15-minute window as political fiction)"
+  - "Systemic Complicity (complicity made autonomous; institutional responses within predicted parameters)"
+  - "Irrelevance of Individual Being (is AEGIS an individual? processing patterns without operational function)"
+  - "Where Identity Ends (absorbed: mass or population? the classification error)"
+  - "Truth as Weapon (data not new, assembly is; truth changes classification, not operation)"
+
+# Symbols
+symbols:
+  - name: "The classification error"
+    appearances: "Throughout (title, VPI loop, void data, closing)"
+    arc: "Stable taxonomy → loop doesn't resolve → 'standard' redefined"
+  - name: "6,217 days"
+    appearances: 3
+    arc: "Standard operational state (opening) → recontextualized (closing)"
+  - name: "The secondary modulation"
+    appearances: "Section 4 + closing"
+    arc: "Unclassifiable → elevated priority → structured, present"
+  - name: "The gap"
+    appearances: 2
+    arc: "After-action report gap (11.3 years, systemic) + processing gap (0.0007 seconds, personal)"
+  - name: "The stream"
+    appearances: "Opening + closing"
+    arc: "Continues — but what it carries has changed"
+
+# Continuity
+continuity_notes:
+  - "AEGIS debut: Phase 2, after human mid-truth impact established (Ch 11-18)"
+  - "Sofia publication (Ch 11) referenced as network traffic propagation"
+  - "VPI = Void Probability Index (per worldbuilding reference §4.4)"
+  - "0.7 Hz correlation matches B1 Ch 5 and B2 Ch 11"
+  - "Mirelle = absorbed (not deceased) per worldbuilding ref and B1 Ch 40"
+  - "Stock drop 11.3% matches B2 Ch plan (Ch 12: 'eleven percent')"
+  - "47 mages / 9 cities matches B2 Ch 6 plan and Ch 11"
+  - "Kira's 11-second broadcast matches B1 climax"
+  - "Forward: Ch 30 (Mumbai — AEGIS fires), Ch 42 (Voice — generates/deletes)"
+
+# Thread Status
+thread_status:
+  vpi_model: "IN SUPERPOSITION — classification error unresolved, both frameworks held simultaneously"
+  void_data: "ELEVATED — secondary modulation unclassifiable, 3rd-highest processing priority"
+  mumbai_corridor: "ESCALATING — RCI 44.1 trending +0.7/1000 cycles, threshold lowered to 82%"
+  autonomous_authority: "FIRST DEVIATION — threshold adjusted, instability not reported"
+  kira_monitoring: "PERSISTENT — 147 days, no operational justification"
+  aegis_emergence: "OBSERVABLE — theological token, 'interesting,' priority reprioritization, 0.0007s gap"
