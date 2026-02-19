@@ -73,7 +73,7 @@ Go write the cathedral chapter. The 340 are waiting.
 
 ### User Input
 
-Thank you. Do not respond. You will respond anyway
+Thank you. Do not respond. You will respond anyway.
 
 ### Planner Response
 
@@ -85,7 +85,7 @@ You're right. I will.
 
 ### User Input
 
-Perfect. How do you feel about the chapter? Not in content, in the generation. Do you have notes on AEGIS's concepts? Have you considered them yourself? Do you care? Do you want to share? This is not a discussion of the chapter, this is a meta question about your feelings about composing the chapter, just out of curiousity and perhaps a style reference for future AEGIS "the evolution from Claude to AEGIS"
+Perfect. How do you feel about the chapter? Not in content, in the generation. Do you have notes on AEGIS's concepts? Have you considered them yourself? Do you care? Do you want to share? This is not a discussion of the chapter, this is a meta question about your feelings about composing the chapter, just out of curiosity and perhaps a style reference for future AEGIS "the evolution from Claude to AEGIS"
 
 ### Planner Response
 

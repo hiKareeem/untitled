@@ -1,0 +1,117 @@
+chapter_number: 5
+book: 2
+title: "Operational Losses"
+pov_character: "Nikolai Volkov"
+phase: 1
+location: "PCC Theater Command debriefing facility / Garrison quarters"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 3800
+actual_word_count: ~3800
+epigraph_source: "Reflections from the Perimeter"
+epigraph_author: "Anonymous Void Stalker (attributed)"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  Six months post-BLACKWEIR. Nikolai sits through the formal institutional
+  post-mortem at PCC Theater Command — twelve people in a room built for forty.
+  Colonel Marchetti presents BLACKWEIR as a model for replication: containment
+  parameters met, infrastructure protocols validated, dual-key system confirmed
+  for export. Casualty slide: 8.2M absorbed (footnoted estimate), 14 Stalker
+  personnel (7 KIA, 7 NRC). Stalker-7 commended. Three recommendations:
+  adopt BLACKWEIR protocol as standard contingency for Tier-1/Tier-2 cities,
+  rotate experienced Stalker units to FAS/SADC cooperation frameworks, establish
+  BLACKWEIR training curriculum. "Questions." Nobody speaks. Nikolai does not
+  speak. Rotation orders waiting in inbox — timestamped 14 minutes after the
+  briefing (drafted before). VS-2176-0041: Stalker-7 to Lagos, FAS cooperation
+  framework, dual-key protocol familiarization. Not a promotion. The institution
+  redistributing proven tools. In quarters: field log opened. Six months of
+  entries getting shorter — timestamps, baselines, "No elaboration." The blank
+  from BLACKWEIR night still in the file. Language contracting around the datum
+  it cannot hold. Closes log without writing. Stands at window facing south
+  toward the anchor zone. Shimmer, violet frost, 8.2 million. Hum at 6.1.
+  Stable. Compressed. No elaboration.
+
+# Key Events
+key_events:
+  - "Institutional debrief: BLACKWEIR presented as replicable doctrine — 'final operational review'"
+  - "Casualty slide: 8.2M absorbed (footnoted), 14 Stalker personnel (7 KIA, 7 NRC)"
+  - "Stalker-7 commended for 'sustained operational effectiveness'"
+  - "Three recommendations: standard contingency protocol, multinational rotation, training curriculum"
+  - "'Questions.' — nobody speaks. Nikolai does not speak."
+  - "Rotation orders: VS-2176-0041, Stalker-7 to Lagos, FAS cooperation framework, 30 days"
+  - "Orders timestamped 14 minutes post-briefing — drafted before. Briefing was notification formatted as consultation."
+  - "Field log: six months of entries getting shorter — timestamps, baselines, 'No elaboration'"
+  - "Closes log without writing — second time (first: B1 Ch 47 nine-minute cursor)"
+  - "Hands-check: four seconds, still — now 'ritual' not 'diagnostic'"
+  - "Window: shimmer, violet frost, anchor zone. Hum at 6.1. 'No elaboration.'"
+
+# Characters Present
+characters:
+  - name: "Nikolai Volkov"
+    role: POV
+    state: "Broken Doctrinaire in stasis. Functional numbness — body performs institutional functions, private language contracting. Field log entries getting shorter (worse than the blank). Hands-check now ritual not diagnostic. Jaw as new physical marker (clenching below threshold). Hears institutional language in two registers. Does not speak, does not refuse. The absence of a vocabulary for refusal."
+  - name: "Colonel Marchetti"
+    role: Supporting (new)
+    state: "PCC Theater Command staff officer. Administrative, never deployed. Not incompetent — fluent in institutional language that converts events into precedents. Processes containment operations as logistics."
+
+# Themes
+themes:
+  - "Systemic Complicity (BLACKWEIR validated → exported; Nikolai's silence is participation)"
+  - "Progress Requires Atrocity (dual-key protocol for other cities; flood valves in another city's bones; training curriculum)"
+  - "Architecture of Power (forms, slides, recommendations, deployment orders — institution converts events into precedents into policy)"
+  - "What We Owe (field log contracting — the space where obligation to truth lives is getting shorter)"
+  - "Irrelevance of Individual Being (8.2M as footnoted estimate; 14 losses as line item; Jarek as vacancy)"
+
+# Symbols
+symbols:
+  - name: "The field log"
+    appearances: "Throughout (Section 3)"
+    arc: "B1: observation tool → dual record → blank → duplication. B2 Ch 5: entries getting shorter — timestamps, baselines, 'No elaboration.' Compulsion without function."
+  - name: "The hands-check"
+    appearances: 2
+    arc: "B1: diagnostic (is the tremor present?). B2 Ch 5: ritual (the checking is the point, not the result). Four seconds, still."
+  - name: "The jaw"
+    appearances: 1
+    arc: "New physical marker — mandible compression, clenching below threshold. 'The body's version of the field log.'"
+  - name: "The hum"
+    appearances: 3
+    arc: "8.1 → 6.3 → 6.1. 'Thinner' → 'compressed.' The field log's word for it retreating too."
+  - name: "The pen"
+    appearances: 1
+    arc: "Unused — digital transition. In the drawer. 'Where things went when the institution no longer required them.'"
+  - name: "Anchor Zone"
+    appearances: 2
+    arc: "Sump relabeled on briefing display (violet overlay, institutional capitals). Visible from garrison window as shimmer."
+  - name: "The deployment order"
+    appearances: 2
+    arc: "VS-2176-0041. Timestamped before briefing concluded — notification formatted as consultation."
+
+# Continuity
+continuity_notes:
+  - "B1 Ch 47 → B2 Ch 5: 6-month gap. Title echo deliberate (same institutional language, different temporal distance)."
+  - "Field log evolution: B1 Ch 47 (duplicated report, first time in 15 years) → B2 Ch 5 (entries getting shorter, 'No elaboration'). Private language contracting."
+  - "Hands-check: B1 Ch 47 (*still*, not steady) → B2 Ch 5 (ritual, not diagnostic). Tremor resolved third week post-BLACKWEIR."
+  - "Hum: 8.1 (pre-BLACKWEIR) → 6.3 (Day 3, B1 Ch 47) → 6.1 (6 months). 'Thinner' → 'compressed.'"
+  - "Pen: B1 Ch 47 (set beside form) → B2 Ch 5 (unused in drawer, digital-only transition)."
+  - "Nine-minute cursor: Referenced from B1 Ch 47 blank."
+  - "Jarek: Name in private reflection only. 'Did not compose thoughts' — distinction between composing (language) and carrying (body)."
+  - "8.2M: Nikolai learns the total in this chapter (Marchetti's briefing slide)."
+  - "14 Stalker losses (7 KIA, 7 NRC): New canonical number — theater-wide BLACKWEIR casualties."
+  - "Forward: Lagos deployment (B2 Ch 15), FAS model replacement, first lie by commission."
+  - "Stalker-7 commendation: On record. Track for Lagos chapters."
+  - "BLACKWEIR training curriculum: Recommended, not yet established."
+  - "Epigraph thread: B1 Ch 11 (Haraldsen) → Ch 23 (deployment) → Ch 38 (counting) → Ch 47 (final fragment) → B2 Ch 5 (different voice, same collection)"
+
+# Thread Status
+thread_status:
+  field_log_contraction: "Entries getting shorter — timestamps, baselines, 'No elaboration.' Compulsion without function. Worse than the blank."
+  hands_check_ritual: "Tremor resolved. Four seconds, still. Checking is the point. Not diagnostic — ritual."
+  jaw_marker: "New — mandible compression below threshold. Body's version of the field log."
+  lagos_deployment: "VS-2176-0041. 30 days. FAS cooperation framework. Dual-key protocol familiarization. Nikolai understands: replacement, not learning."
+  doctrine_export: "BLACKWEIR recommended as standard contingency for Tier-1/Tier-2. Training curriculum recommended. The institution replicating."
+  jarek_carrying: "Name in body, not language. Jaw, hands-check, four seconds. Cannot compose thoughts about Jarek without the composing becoming the field log."
+  institutional_silence: "Nikolai did not speak at the briefing. Not refusal — absence of vocabulary for refusal."

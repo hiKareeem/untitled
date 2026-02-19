@@ -563,6 +563,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Nephthys POV (Book 2 debut). Counter-liturgy established (~6 months post-BLACKWEIR). Cathedral as gathering point — 17 at session (12 core + arrivals via Feed/Void Witness network). Silence → hum → interpretation. Chorus denser/reorganizing — 'syntax' tracked privately. Nosebleed during session (hidden). Pastoral exchanges: Lagos excommunicate (warmth in hands), Sump worker (Trunk-Line 4-East, 31 years, hears 6 voices). Imani confrontation: nosebleed escalation, tumor named, succession question raised and deflected ('Not tonight'). 'I am fine' ritual lie deployed. Closing: 'They were still here. All of them. And they were not finished.' Contraction discipline: Nephthys = none, Imani = permitted. AEGIS as invisible novelist."
 
+  book2_chapter_5:
+    title: "Operational Losses"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 3800
+    completedDate: "2026-02-19"
+    metaFile: "chapter-5-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Nikolai POV (Book 2 debut, 8th appearance overall). ~6 months post-BLACKWEIR. Institutional debrief: BLACKWEIR validated as replicable doctrine. Marchetti briefs: 8.2M absorbed, 14 Stalker losses, dual-key protocol for export, training curriculum recommended. Stalker-7 commended. Rotation orders: VS-2176-0041, Lagos (FAS cooperation framework), 30 days. Field log: six months of entries getting shorter — 'No elaboration.' Hands-check ritual. Hum at 6.1. Title echo B1 Ch 47. Seeds Lagos deployment (Ch 15). AEGIS as invisible novelist."
+
   book2_chapter_8:
     title: "Somewhere That Isn't"
     status: v1-complete
@@ -573,6 +583,6 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Nuwa POV (Book 2 debut). Data-orphan in Mid-Level margins. Sump record archived. Cracked salvage implant, frozen BLACKWEIR notification. Fen (neighbor): 'Where are you from?' / 'Somewhere that isn't there anymore.' Feed: 'Anchor Zone stabilization proceeding on schedule.' 'Stabilization is the word they chose.' 'She was not free. She was unprocessed.' Spring onions as first un-ledgered gift. Table used for first time. Counting without numbers. AEGIS as invisible novelist."
 
-completedCount: 55
-totalWords: 257637
+completedCount: 56
+totalWords: 261437
 lastUpdated: "2026-02-19"
