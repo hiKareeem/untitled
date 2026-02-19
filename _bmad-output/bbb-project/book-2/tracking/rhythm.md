@@ -42,4 +42,34 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
-_Last updated: 2026-02-18_
+### Chapter 2 — "Counter-Liturgy" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-sustained (contemplative) → medium-sustained (session) → brief spike (nosebleed) → pastoral (exchanges) → confrontation (Imani) → contemplative close
+**Pacing:** Even. Five-scene structure with natural rhythm shifts at section breaks. No single scene dominates — balanced distribution.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening (chorus reorganizing) | ~400 | Low-contemplative | Slow, internal, diagnostic |
+| Imani logistics + arrivals | ~700 | Low-medium | Dialogue quickens, practical |
+| Counter-liturgy session | ~1,200 | Medium-sustained | Ritual tempo — silence, hum, reports. Nosebleed = brief spike. |
+| Pastoral exchanges + Sump worker | ~900 | Medium | Dialogue-driven, pastoral register, intimate |
+| Imani confrontation | ~500 | Peak | Compressed, clinical, succession question |
+| Alone with chorus | ~400 | Resolving-contemplative | Internal, closing refrain |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout
+- Counter-liturgy session provides structural rhythm (silence → hum → reports → correction)
+- Nosebleed is the chapter's physical spike — managed with practiced calm, tension through concealment not crisis
+- Imani confrontation is shortest scene but highest tension — compression = intensity
+- Closing mirrors opening (palms on stone, chorus contact) — circular structure
+- Section breaks (---) function as liturgical pauses — appropriate for chapter content
+
+**Dialogue Percentage:** ~15% (balanced — pastoral exchanges + Imani confrontation provide voice breaks in contemplative landscape)
+
+**Pacing Concern:** None. Even distribution prevents drag. Counter-liturgy session is longest but structured internally by ritual progression.
+
+---
+
+_Last updated: 2026-02-19_

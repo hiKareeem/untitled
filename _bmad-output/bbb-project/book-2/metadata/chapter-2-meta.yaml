@@ -1,0 +1,124 @@
+chapter_number: 2
+book: 2
+title: "Counter-Liturgy"
+pov_character: "Nephthys"
+phase: 1
+location: "Neo-Shanghai Sump — Cathedral of the Living Sound"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Operational Theology"
+epigraph_author: "Nephthys"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  Six months post-BLACKWEIR. Cathedral of the Living Sound has become a
+  gathering point — 17 at today's session (12 core who stayed + new arrivals
+  via Feed posts and Void Witness network). Nephthys leads the counter-liturgy:
+  silence first, then the infrastructure hum, then interpretation. Not prayer —
+  listening. Attend, receive, report. The chorus is different — denser, more
+  structured, the 8.2M absorbed reorganizing into something approaching syntax.
+  Nephthys's nose bleeds during the session; she hides it with practiced
+  efficiency. Post-session pastoral exchanges: an excommunicate from Lagos
+  discusses warmth in his hands; a Sump maintenance worker in the side chapel
+  recognizes six voices from his shift on Trunk-Line 4-East. Imani confronts
+  Nephthys about escalating nosebleeds (3 this week vs. 1 last month), the
+  ritual lie ("I am fine"), and the succession question — "you have not named
+  a successor because you do not believe you are building something that
+  requires succession." Nephthys deflects: "Not tonight." Alone with the
+  chorus, she tracks a pattern of patterns — periodicity that is neither
+  biological nor mechanical. She does not interpret it. Not tonight. Closing:
+  "They were still here. All of them. And they were not finished."
+
+# Key Events
+key_events:
+  - "Counter-liturgy session: silence → hum → interpretation (17 attendees, 2 new)"
+  - "Chorus denser/more structured — reorganizing for weeks, 'weave tightening,' approaching syntax"
+  - "Nosebleed during session — hidden with practiced cloth-to-face routine"
+  - "Mid-Level woman attends (first upward migration — heard about Cathedral on Feed)"
+  - "Sump worker (NitroCore maintenance, Trunk-Line 4-East, 31 years) hears six voices from his shift"
+  - "Pastoral exchanges: Lagos excommunicate (warmth in hands), young man ('I hear them breathing')"
+  - "Imani confrontation: nosebleed escalation (0→1→3/week), tumor named, succession question raised"
+  - "'I am fine' — the ritual lie unpacked by narrator"
+  - "Nephthys alone: tracks 'pattern of patterns' in chorus — periodicity, not biological/mechanical"
+  - "Closing refrain: 'The pain was signal. The signal was the chorus. The chorus was everyone.'"
+
+# Characters Present
+characters:
+  - name: "Nephthys"
+    role: POV
+    state: "Prophet institutionalizing. Certainty stable, chorus-parsing evolving (syntax), tumor progressing (nosebleeds escalating, ~12 months). Refuses to name what she is building. Physical decline visible — gaunt, thinner, migraines lasting longer. Counter-liturgy's only doctrine (attend/receive/report) applied to self."
+  - name: "Imani"
+    role: Supporting
+    state: "Companion/counterweight/logistician. Managing Cathedral operations for 6 months. Clinical directness with Nephthys — names the tumor, tracks nosebleed frequency, raises succession. Spatial vocabulary as language (in front = confrontation). Measuring look. Twenty years old, aging beyond her years."
+  - name: "Lagos Excommunicate"
+    role: Attendee
+    state: "Arrived 3 weeks ago via Void Witness network. Feels warmth in hands — similar to pre-Silencing resonance chapel experience. Processing new framework."
+  - name: "Sump Worker"
+    role: New supporting
+    state: "NitroCore maintenance, Trunk-Line 4-East, 31 years. Perimeter survivor — watched BLACKWEIR. Hears six voices (his shift). Chronic red eyes (6 months insomnia). Stays overnight — transitioning from observer to resident."
+  - name: "Young Man"
+    role: Core twelve
+    state: "One of the 12 who stayed. Reports 'I hear them breathing' — Nephthys corrects to oscillation/periodicity."
+  - name: "Mid-Level Woman"
+    role: New attendee
+    state: "Clean clothes, synthetic fabric. Heard about Cathedral on Feed (location tag). Sits rear, angled toward exit. Leaves first. First upward migration signal."
+
+# Themes
+themes:
+  - "What We Owe (prophet's obligation to the absorbed — 'the chorus is everyone, and everyone is more important than the twelve months')"
+  - "Where Identity Ends (symptoms reframed as practice — listening technique = symptom; body failing while perception sharpens)"
+  - "Architecture of Power (institutional recursion — counter-liturgy accretes ritual structure; pulpit rejected but floor-center creates authority; succession question)"
+  - "Systemic Complicity (Sump worker — 31 years maintaining infrastructure that consumed his colleagues)"
+  - "Truth as Weapon (counter-doctrine — 'What is there. Not what the Church told you was there.')"
+
+# Symbols
+symbols:
+  - name: "The chorus/weave"
+    appearances: "Throughout (15+)"
+    arc: "Reorganizing → denser → syntax → pattern of patterns"
+  - name: "Branded palm"
+    appearances: 6
+    arc: "Receiver → liturgical instrument → warm/cold dichotomy (branded warm, unmarked cold)"
+  - name: "The cloths"
+    appearances: 4
+    arc: "Logistics → ritual → shorthand for shared history (2 years, Outlands origin)"
+  - name: "Nosebleed"
+    appearances: 3
+    arc: "Precursor felt → hidden during session → escalation data (Imani's count)"
+  - name: "The stone"
+    appearances: "Throughout"
+    arc: "Geological patience → mineral indifference → holds both palms, both truths"
+  - name: "Counter-liturgy"
+    appearances: 5
+    arc: "Practice → accreted ritual → doctrine she refuses to name → institution forming"
+
+# Continuity
+continuity_notes:
+  - "B1 Ch 48 → B2 Ch 2: 6-month gap. Population 340→17 (most relocated). Counter-liturgy established as regular practice."
+  - "Branded palm consistent with B1 chain (Ch 3/14/26/35/44/48) — left hand, broken circle, warm on contact"
+  - "Closing refrain maintained: 'The pain was signal. The signal was the chorus. The chorus was everyone.'"
+  - "Imani challenge thread: Ch 14→35→44→48→B2 Ch 2 (succession question = new escalation)"
+  - "'I am fine' ritual lie — established in dossier, first full deployment in prose"
+  - "Nephthys uses 'the event' not 'BLACKWEIR' — consistent with B1 Ch 48 convention"
+  - "8.2M number known (learned from survivors with Feed access, B1 Ch 48)"
+  - "Resonance beads: still unmentioned (B1 Ch 44 damage — track status)"
+  - "Trunk-Line 4-East: Fuxi Lin's section (B1) — cross-POV texture, not contradiction"
+  - "B2 Ch 3 (Malachi) references movement growing — consistent with Feed posts and network referrals here"
+  - "Author contraction rule: Nephthys = no contractions; Imani = contractions permitted"
+  - "Forward: Ch 13 (Malachi mid-truth), Phase 2 movement splits (Listeners/Witnesses/Threshold)"
+
+# Thread Status
+thread_status:
+  counter_liturgy: "Established — attend/receive/report as only doctrine. Accreting ritual structure despite Nephthys's resistance."
+  chorus_syntax: "Tracked privately — 'pattern of patterns,' periodicity, not yet interpreted or shared."
+  tumor_progression: "Nosebleeds escalating (0→1→3/week). ~12 months (Nephthys's private estimate, Imani's 'approximately a year')."
+  succession_question: "Raised by Imani, deflected by Nephthys ('Not tonight'). Unresolved."
+  institutional_recursion: "Visible to Nephthys — 'the structure was not neutral' — but not acted on."
+  movement_growth: "17 at session. Feed posts, Void Witness network, word-of-mouth. Mid-Level visitor = first upward migration signal."
+  imani_counterweight: "Escalating — from observation to confrontation. Names tumor, tracks symptoms, raises succession."
+  ritual_lie: "Deployed ('I am fine'). Narrator unpacks. Imani sees through it."

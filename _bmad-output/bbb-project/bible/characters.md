@@ -224,16 +224,16 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 4/5 (Resolution)
-- Emotional State: Shattered, vindicated, bleeding. Has heard the absorbed — all of them — and knows they persist. Weeping not from grief alone but from the weight of being right.
-- Dominant Beliefs: "They are all still here." The absorbed are present — not gone, not silent, not damned. The chorus is not a question anymore.
-- Internal Contradictions: Right about the metaphysics, wrong about what it means for safety. The Cathedral's physics saved her — she interprets it as providence. The Lie separates but does not break.
+- Phase: 1/5 Book 2 (Prophet institutionalizing)
+- Emotional State: Stable certainty masking physical decline. Counter-liturgy as daily practice. Chorus-parsing evolving — tracking "syntax" in the composite. Tumor progressing (nosebleeds escalating: 0→1→3/week). Refuses to name what she is building.
+- Dominant Beliefs: "They are still here. All of them. And they are not finished." The absorbed are not simply persisting — they are reorganizing. The chorus is developing structure.
+- Internal Contradictions: Sees the institutional recursion (counter-liturgy IS liturgy) but cannot stop it. Has not named a successor. The Lie separates but does not break — "understanding the void means being safe from it" tested daily by the tumor that gives her the chorus.
 
 **The Lie:** Understanding the void means being safe from it
 
-**Conscious Want:** Bear witness. Carry what she heard. The first congregation needs her to listen.
-**Unconscious Want:** Be proven right — that the void is not demonic *(FULFILLED Ch 44 — but the fulfilment is more terrible than she imagined)*
-**Flaw:** Intellectual certainty hardening into messianic conviction
+**Conscious Want:** Bear witness. Lead the counter-liturgy. The congregation needs her to listen.
+**Unconscious Want:** Be proven right — that the void is not demonic *(FULFILLED Ch 44 — but the fulfilment is more terrible than she imagined)*. Book 2: that the chorus is developing communication, not just persisting.
+**Flaw:** Intellectual certainty hardening into institutional architecture. Every symptom reframed as practice. Prophet who refuses to name her congregation.
 
 **Biological Mechanism:** Anomalous neurological sensitivity to void-proximate Nitro fields. Manifests as "the chorus" — migraines, nosebleeds, perceived voices. Diagnosed as Nitro-Psychosis brain tumor. She's right about what she hears, but not for the reasons she thinks, and only by chance.
 
@@ -244,10 +244,10 @@ This bible dimension tracks **current character states**:
 | Arch-Prelate Malachi | Antagonist (absent) | Background | Excommunicated her. Pragmatic suppressor who already knew she was right. Backstory presence Book 1; potential POV Books 2–3. |
 | Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
 
-**Current Arc:** Seeker → Prophet
-- Current Phase: 4/5 (Resolution — hypothesis → testimony; "They are all still here")
-- Progression: Progressing — seeker has become knower
-- Next Step: Ch 48 — emerge from Cathedral into scoured Sump; "The Mass Grave"; prophet built on genocide
+**Current Arc:** Seeker → Prophet → (Book 2) Prophet → Institution-Builder
+- Current Phase: 1/5 Book 2 (Aftermath — counter-liturgy established, movement growing)
+- Progression: Prophet is institutionalizing without acknowledging it
+- Next Step: Phase 2 — movement fragments (Listeners/Witnesses/Threshold split), succession crisis
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -259,8 +259,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: Chapter 35 — "The First Congregation"
-- Next Planned Appearance: Chapter 44 — "They Are All Still Here" (Phase 4 BLACKWEIR)
+- Last Appearance: B2 Ch 2 — "Counter-Liturgy"
+- Next Planned Appearance: Phase 2 (Kira convergence scene)
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
@@ -281,17 +281,17 @@ This bible dimension tracks **current character states**:
 **Primary Location:** European Outlands → Neo-Shanghai Sump (with Nephthys)
 
 **Current Psychological State:**
-- Phase: 4/5 (Resolution)
-- Emotional State: Crisis-forged. Saved Nephthys's life physically during BLACKWEIR. No longer watching — intervening. The question of what she follows answered through deed: she follows the person, and the person almost walked into the thing that was killing everything.
-- Dominant Beliefs: Follows Nephthys the person, not the theology. Now has proof: when theology and survival conflicted, she chose survival.
-- Internal Contradictions: Saved the prophet by pulling her away from the revelation. The loyalty that preserved Nephthys's life may have interrupted something Nephthys needed to hear.
+- Phase: 1/5 Book 2 (Institutional architect)
+- Emotional State: Managing. Six months of Cathedral operations have forged her into a logistician, field medic, and de facto institutional administrator. No longer watching — confronting. Tracks Nephthys's decline with clinical precision (nosebleed frequency, weight loss, migraine duration).
+- Dominant Beliefs: Follows Nephthys the person, not the theology. But increasingly sees the structure forming and is the only one naming it. "You have not named a successor because you do not believe you are building something that requires succession."
+- Internal Contradictions: Building the scaffolding for an institution Nephthys refuses to acknowledge. The practical labor that sustains the prophet may be creating the thing that consumes the truth.
 
-**Age:** ~20
+**Age:** ~20 (lined beyond her years — two years Outlands + six months Sump + proximity to progressive illness)
 
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|--------|
-| Nephthys | Teacher/companion | Very High | Followed her into exile. Saved her life during BLACKWEIR. Loyalty answered — personal, not theological. But "I know what you can hear" suggests she may be starting to believe. |
+| Nephthys | Teacher/companion/patient | Very High | Followed her into exile. Saved her life during BLACKWEIR. Now managing Cathedral logistics and tracking Nephthys's health decline. Spatial vocabulary as confrontation language. Raised succession question (B2 Ch 2). Uses contractions where Nephthys does not — voice differentiation established. |
 
 ### Zeyad Al-Fahim
 
@@ -851,9 +851,13 @@ This bible dimension tracks **current character states**:
 
 ---
 
+| Nephthys | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Prophet institutionalizing. Counter-liturgy established (~6 months). 17 at session (12 core + arrivals). Chorus denser/reorganizing — tracking "syntax" (pattern of patterns). Nosebleeds escalating (0→1→3/week). Hides nosebleed during session. Refuses to name what she is building. "I am fine" ritual lie deployed. Imani raises succession question — deflected ("Not tonight"). Pastoral exchanges: Lagos excommunicate (warmth), Sump worker (Trunk-Line 4-East, hears 6 voices). Closing: "They were still here. All of them. And they were not finished." | B2 Ch 2 |
+| Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Six months managing Cathedral operations. Tracks nosebleed escalation (data: 0→1→3/week). Names tumor directly. Raises succession question: "you have not named a successor." Spatial vocabulary: stands in front (confrontation), not beside (logistics). Measuring look held 3-4-5 seconds. Stocks cloths, manages medical kit, counts attendees. Contractions in speech ("It's both") — voice differentiated from Nephthys (no contractions). "The cloths need washing. We're running low." | B2 Ch 2 |
+| Sump Worker (unnamed) | New supporting character | N/A | NitroCore maintenance, Trunk-Line 4-East, Section 4, 31 years. Perimeter survivor — watched BLACKWEIR from outside absorption zone. Hears six voices (his shift) through stone floor. Chronic red eyes (6 months). Stays overnight in side chapel. Not yet joined counter-liturgy session. | B2 Ch 2 |
+
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
 
-_Last updated: 2026-02-19 (B2 Ch 3 — Malachi debut)_
+_Last updated: 2026-02-19 (B2 Ch 2 — Nephthys Counter-Liturgy)_
 _Updated by: Chapter-write workflow (quick mode)_

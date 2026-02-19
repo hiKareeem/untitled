@@ -34,4 +34,18 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
-_Last updated: 2026-02-18_
+### Chapter 2 — "Counter-Liturgy" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | Prophet's obligation | Counter-liturgy as service to the absorbed; "the chorus is everyone, and everyone is more important than the twelve months"; pastoral care as debt |
+| Where Identity Ends | Chorus/tumor merger | Symptoms reframed as practice — listening technique = symptom; body failing while perception sharpens; "You have turned every symptom into a practice" |
+| Architecture of Power | Institutional recursion | Counter-liturgy accretes ritual structure despite Nephthys's resistance; pulpit rejected but floor-center authority; succession question raised and deflected |
+| Systemic Complicity | Maintenance worker | 31 years maintaining Trunk-Line 4-East — the infrastructure that consumed his colleagues. Recognition through familiarity, not theology. |
+| Truth as Weapon | Counter-doctrine | "What is there. Not what the Church told you was there." Epistemological position: "Both are measuring. Neither is complete." |
+
+**Key Resonance:** What We Owe ↔ Architecture of Power. The prophet's obligation to the absorbed *creates* the institutional structure she fled. The debt generates the architecture. The counter-liturgy IS liturgy — Nephthys sees this and cannot stop it.
+
+---
+
+_Last updated: 2026-02-19_
