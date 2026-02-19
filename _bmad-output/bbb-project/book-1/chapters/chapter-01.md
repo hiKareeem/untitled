@@ -91,7 +91,7 @@ The ballroom was full. Three hundred and twelve guests — she'd reviewed the li
 
 Aurielle moved through it the way she'd been taught. A hand on a forearm here. A question about someone's daughter there. *Ask about their children. People reveal their ambitions through their children.* Eduardo's rule. She'd never decided whether it was cynical or observant. Both, probably. The distinction mattered less than the result.
 
-"Aurielle, you look stunning tonight." Director Okafor, Helix Energy, leaning in with his third glass of something amber. His smile was broader than hers and meant even less.
+"Aurielle, you look stunning tonight." Director Okafor, Helix Energetics, leaning in with his third glass of something amber. His smile was broader than hers and meant even less.
 
 "Director. How's the Mombasa expansion?"
 
