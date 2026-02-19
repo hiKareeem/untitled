@@ -1,0 +1,103 @@
+chapter_number: 11
+book: 2
+title: "The Assembly"
+pov_character: "Sofia Reyes"
+phase: 2
+location: "VEC-affiliated housing (61st floor), Neo-Shanghai"
+timeline: "~6 months post-BLACKWEIR, weeks after Book 2 Ch 4"
+estimated_word_count: 4000
+actual_word_count: ~4000
+epigraph_source: "Dead-hand evidence cache"
+epigraph_author: "Mirelle Dubois"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-18"
+
+# Summary
+summary: >
+  Sofia completes the final correlation check on three independent datasets —
+  her atmospheric readings, Mirelle's posthumous field measurements, and the
+  mage network's biological corroboration — then reviews the hybrid document
+  she's spent eleven days writing. The mid-truth: fifty-five pages describing
+  what nitro is (demodulated suffering), how breaches occur (engineered
+  infrastructure), what the absorbed are (conscious, persisting), and what R3
+  implants detect (the same signal from a different receiver). Attribution
+  section names four sources: Mirelle (dead), Solberg (silenced), the mages
+  (anonymous), Sofia (suspended). She publishes through Black Babel at 21:47
+  local time. Makes coffee. Sits at the window. The city has not changed shape.
+  Mirelle would have made it a better story.
+
+# Key Events
+key_events:
+  - "Final correlation check: atmospheric + field + biological data aligned across 3 datasets"
+  - "Reviews hybrid document (12pp accessible core + 43pp technical appendices)"
+  - "Attribution section: Mirelle (posthumous), Solberg (silenced), mage network (anonymous), Sofia (suspended)"
+  - "Publishes through Black Babel distribution network at 21:47 local time"
+  - "Distribution irreversible — 10,000+ locations within an hour"
+  - "Anticlimax: coffee, window, city unchanged"
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: POV
+    state: "Involuntarily remote. Exhausted. Determined. Publishing outside the institution that trained her."
+  - name: "Mirelle Dubois"
+    role: Implicit (posthumous)
+    state: "Present through evidence packages. Named on attribution. Dead-hand cache fully decrypted."
+  - name: "Dr. Maren Solberg"
+    role: Referenced
+    state: "Historical precedent. 2170 report classified. Career ended."
+  - name: "Dr. Liang"
+    role: Referenced
+    state: "Signed remote monitoring memo. Last seen through briefing room glass (Ch 41)."
+  - name: "Director Novak"
+    role: Referenced
+    state: "Protocol Black fear. Grey face. The argument Sofia can't fully refute."
+  - name: "Elena Vargas"
+    role: Referenced
+    state: "Mother. 14 years absorbed by NitroCore subsidiary. The lesson."
+
+# Themes
+themes:
+  - "Truth as Weapon (publication as act of weaponizing classified data)"
+  - "Systemic Complicity (institutional channels designed to contain)"
+  - "What We Owe (posthumous collaboration, attribution as debt)"
+  - "Architecture of Power (classification as infrastructure)"
+  - "Commodification of Suffering (nitro = demodulated suffering)"
+
+# Symbols
+symbols:
+  - name: "The hum"
+    appearances: "Throughout (8+)"
+    arc: "Background constant → data → the thing the document describes"
+  - name: "Cold coffee"
+    appearances: 3
+    arc: "Working → publishing → waiting"
+  - name: "Field kit"
+    appearances: 1
+    arc: "Parallel instrument → talisman → present but passive"
+  - name: "The unfinished sentence"
+    appearances: 2
+    arc: "Mirelle's terminal moment → Sofia's inheritance"
+  - name: "Amber light"
+    appearances: 3
+    arc: "Residential → infrastructure → the system still running"
+
+# Continuity
+continuity_notes:
+  - "Follows B1 Ch 41 (complete dataset, locked out of briefing, data prevents nothing)"
+  - "Follows B2 Ch 4 plan (pushed to margins, dead-hand packages, assembly begins)"
+  - "Mirelle's Wire affiliation matches B1 Ch 40 ('Independent. The Wire.')"
+  - "Vertical gradient values match B1 Ch 15/41 exactly (0.96/0.91/0.87)"
+  - "Mage network count (47/9 cities) matches B2 Ch 6 plan"
+  - "VEC housing 61st floor matches B1 Ch 41 continuity notes"
+  - "Forward: Ch 12 (Aurielle — stock drops 11%), Ch 20 (Sofia — news cycle)"
+
+# Thread Status
+thread_status:
+  mid_truth: "PUBLISHED — irreversible distribution via Black Babel"
+  sofia_vec_employment: "Still technically employed (remote monitoring). Termination expected post-publication."
+  mirelle_evidence: "Fully integrated — dead-hand cache decrypted, attributed, published"
+  solberg_precedent: "Documented in attribution — three scientists, same finding, same burial"
+  mage_corroboration: "Biological data integrated — 47 individuals, 9 cities, 0.93 correlation"

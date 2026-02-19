@@ -549,11 +549,11 @@ This bible dimension tracks **current character states**:
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 4/5 (Crisis)
-- Emotional State: Methodical precision masking horror; the data confirmed everything and prevented nothing
-- Dominant Beliefs: "The data is clean. Defensible. Corroborated." — but the belief that understanding leads to action is shattered
-- Internal Contradictions: Has the complete picture and no institution that will use it; understanding did not produce control
-- **Ch 33 state:** Institutional faith destroyed. The Lie broken ("if the science is good enough, the institution will have to take it seriously" — the science was good enough, the institution classified it twice). Data transmitted to Black Babel. Acting outside institution for first time.
+- Phase: 5/5 (New Equilibrium — mid-truth published)
+- Emotional State: Exhausted, determined, waiting. The data is public. The world has not changed shape. The gap between "people know" and "people act" is the test she inherits from Mirelle.
+- Dominant Beliefs: "The data is clean. Defensible. Corroborated." — suppression produced BLACKWEIR, therefore publication is the pragmatic moral act, even if insufficient
+- Internal Contradictions: Published the most important document in human history; expects it to enter the news cycle "loudly, briefly, insufficiently." Knows institutions absorb inconvenient truth the way the void absorbs people.
+- **B2 Ch 11 state:** Mid-truth published through Black Babel. Involuntarily reassigned to remote monitoring (still technically VEC-employed, VEC housing). Termination expected. Acting fully outside institution.
 
 **The Lie:** Science is inherently moral
 
@@ -569,9 +569,9 @@ This bible dimension tracks **current character states**:
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
 **Current Arc:** Institutional Scientist → Rogue Scientist
-- Current Phase: 4/5 (Crisis — complete data, zero institutional response)
-- Progression: Progressing
-- Next Step: Publishes raw through Black Babel; world responds with "methodology concerns" (Phase 5)
+- Current Phase: 5/5 (New Equilibrium — mid-truth published via Black Babel)
+- Progression: Phase 5 reached (Book 2 Ch 11)
+- Next Step: Ch 20 — "The News Cycle" — watches the world's response
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -583,9 +583,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Chapter 41 ("The Data") — 4th POV chapter
-- Previous: Ch 5 (Phase 1), Ch 15 (Phase 2), Ch 27 (Phase 3), Ch 33 (Phase 3), Ch 41 (Phase 4)
-- Next Planned Appearance: Phase 5 (publication through Black Babel)
+- Last Appearance: Book 2 Chapter 11 ("The Assembly") — 6th POV chapter
+- Previous: B1 Ch 5 (Phase 1), B1 Ch 15 (Phase 2), B1 Ch 27 (Phase 3), B1 Ch 33 (Phase 3), B1 Ch 41 (Phase 4)
+- Next Planned Appearance: Book 2 Ch 20 ("The News Cycle")
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
@@ -598,6 +598,8 @@ This bible dimension tracks **current character states**:
 - **Emotional arc (Ch 33):** Resolve → institutional dread → betrayal recognition → cold fury → physical rupture (stairwell) → moral clarity → deliberate defiance → action (transmission) → uncertain resolve
 - **Ch 41:** BLACKWEIR observed on instruments — Confluence wave propagation matches convergence models exactly. Locked out of Liang's 47th floor classified briefing (biometric denial). VEC Emergency Alert reveals VPI metric (Sofia's invention) operationalized without her knowledge. 11-second coherence spike overwhelms instruments. Dead-hand cache fragments arrive via Black Babel encrypted relay — anonymous field evidence (RCI measurements, BLACKWEIR designation, flood valve documentation, procurement records) matching her atmospheric data at every point of overlap. Archives complete dataset (atmospheric + field) in personal encrypted archive outside VEC network. "The data was complete. The data had prevented nothing."
 - **Emotional arc (Ch 41):** Scientific urgency → engineered-horror recognition → institutional frustration (locked out) → controlled observation → physical overwhelm (spike) → analytical absorption (fragments) → horror-as-data → calm-as-instrument-reading → archival resolve → impotent clarity
+- **B2 Ch 11:** Mid-truth assembled and published. Working from VEC-affiliated apartment (61st floor) — involuntarily reassigned to remote monitoring post-BLACKWEIR (Liang memo, Classification Directorate countersignature). Lab access revoked, immersion pod suspended. Synthesized three independent datasets: her atmospheric data, Mirelle's dead-hand evidence cache (7 packages over 6 weeks, now with Mirelle's name attached), mage network biological corroboration (47 R3 individuals, 9 cities). Wrote hybrid document (12pp accessible core + 43pp technical appendices). Attribution: Mirelle Dubois (posthumous, The Wire), Dr. Maren Solberg (silenced, VEC 2170), anonymous mage network (47/9 cities), Dr. Sofia Reyes (suspended). Published via Black Babel at 21:47 local — irreversible distribution, 10,000+ nodes within an hour. "Mirelle would have made it a better story."
+- **Emotional arc (B2 Ch 11):** Focused intensity (correlation check) → evidence weight (Mirelle's name, Solberg's precedent) → writing as translation (institutional → accessible) → quiet determination (pressed confirm) → deliberate anticlimax (coffee, window, city unchanged) → inherited doubt (news cycle will be loud, brief, insufficient)
 
 ---
 
@@ -682,7 +684,7 @@ This bible dimension tracks **current character states**:
 | **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware | data (UGC credentials) |
 | **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware | data (unit telemetry) |
 | **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) | data (grid worker) |
-| **Sofia** | unaware | unaware (inherits posthumously) | unaware | unaware | unaware | unaware | — | unaware | unaware | data (VEC pipeline) |
+| **Sofia** | unaware | posthumous collaborator (named, attributed) | unaware | unaware | unaware | unaware | — | unaware (mage data anonymized) | unaware | data (VEC pipeline) |
 | **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
 | **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — | low signal (Sump) |
 | **AEGIS** | data (auth chain) | low signal | minimal | data (UGC) | data (unit) | data (grid) | data (VEC) | data (Academy) | low signal | — |
@@ -701,7 +703,7 @@ This bible dimension tracks **current character states**:
 | Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
-| Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
+| Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
 | Kira | Performer → Witness → Someone Who Refuses to Lie | 5/5 | Ch 51 — unsigned document; Book 1 arc complete |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
@@ -783,9 +785,11 @@ This bible dimension tracks **current character states**:
 | Patil | New character (named) | — | L-Frame operator; present at Sector 7 perimeter | Ch 32 |
 | Nikolai Volkov | Arc + Recent History | Phase 4/5, Ch 38 last appearance | Phase 5/5 (arc terminus); files PCR-11 for Jarek; field log duplicates report (first time in 15 years); hands *still* (tremor absent); sits with PF-7-09 on maintenance cradle; "the quiet was the hardest part" | Ch 47 |
 | Jarek Kowalski | Referenced (post-absorption) | Absorbed (Ch 38) | Rendered through absence: PCR-11 form fields, tools on workbench (calibration kit, taped multi-meter, hex wrenches), P-Frame on cradle. Service number JK-2171-2247 (new canonical). "The tools were arranged by a person who expected to come back." | Ch 47 |
+| Sofia Reyes | Arc + Recent History | Phase 4/5, B1 Ch 41 last appearance | Phase 5/5 (New Equilibrium); mid-truth published via Black Babel; involuntarily remote from VEC; three datasets synthesized; hybrid document (55pp); attribution: Mirelle/Solberg/mages/Sofia; 10,000+ nodes; "Mirelle would have made it a better story" | B2 Ch 11 |
+| Mirelle Dubois | Diegetic presence update | Dead-hand cache distributing | Dead-hand cache fully decrypted (7 packages/6 weeks); evidence integrated into Sofia's mid-truth; attributed by name (posthumous); identity known to Sofia | B2 Ch 11 |
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
 
-_Last updated: 2026-02-16 (Audit reconciliation + Thorne scene note)_
-_Updated by: Project audit follow-up_
+_Last updated: 2026-02-18 (B2 Ch 11 — Sofia mid-truth publication)_
+_Updated by: Chapter-write workflow (quick mode)_
