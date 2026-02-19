@@ -1,0 +1,185 @@
+---
+chapterNumber: 4
+bookNumber: 2
+title: "0.7 Hz"
+pov: "Sofia Reyes"
+phase: 1
+mode: TEXTURE
+wordCount: 4500
+draftVersion: 2
+status: complete
+completedDate: "2026-02-19"
+---
+
+# Chapter 4 Metadata — "0.7 Hz"
+
+## Basic Information
+
+**POV Character:** Sofia Reyes (Book 2 debut, 5th overall appearance)
+**Phase:** 1/5 (Aftermath)
+**Timeline:** Weeks post-BLACKWEIR (Part 1) → Six months post-BLACKWEIR (Part 2)
+**Location:** VEC HQ 47th floor (Part 1) → VEC housing 61st floor (Part 2)
+**Mode:** TEXTURE (contemplative assembly work with confrontation opening)
+
+## Structure
+
+**Two-part chapter:**
+
+**Part 1 (lines 56-110):** Novak office scene, ~3 weeks post-BLACKWEIR
+- Corridor approach → office configuration → Sofia presents 0.98 BLACKWEIR correlation
+- Novak: "I know" → Classification Directorate woman delivers reassignment
+- Sofia's exit: "The correlation is 0.98. Delete that."
+- ~1,100 words
+
+**Transition (lines 112-116):** Memo arrival + desk clearing
+- 3 days after meeting → field kit packed → "Neither, now, did she."
+- ~200 words
+
+**Part 2 (lines 118-178):** VEC housing, six months post-BLACKWEIR
+- Apartment as lab → evidence inventory → kitchen interlude → assembly work → midnight reflection
+- ~3,200 words
+
+## Key Moments
+
+1. **The marginalization moment** (Novak scene) — institutional response to validated model: classification + removal
+2. **"Delete that"** — inverts Novak's B1 Ch 33 deletion order; Sofia weaponizes the correlation
+3. **Field kit echo** — "The field kit did not exist within the VEC data architecture. Neither, now, did she."
+4. **The gap on the desk** — physical space for missing biological data, seeds B2 Ch 11
+5. **"Almost" paragraph** — weaponized institutional critique
+6. **Elena Vargas parallel** — mother's lesson: "the most important work happens outside the system that should have supported it"
+7. **Midnight assembly** — pattern visible, work continues
+
+## Themes
+
+**Primary:** Truth as Weapon (0.98 correlation as evidence VEC cannot erase)
+**Secondary:** Systemic Complicity (institutional machinery unchanged pre/post-BLACKWEIR)
+**Tertiary:** Moral Obligation to Consequences (assembly work as moral act)
+
+**Epigraph:** VEC Research Integrity Guidelines §12.4
+- "Data that does not exist within the system does not exist."
+- Oblique on first read (data management policy)
+- Re-read reveals institutional epistemology
+- Payoff: field kit echo (line 114)
+
+## Character States
+
+**Sofia Reyes:**
+- Arc position: Phase 2/5 boundary (institutional scientist → marginalized rogue)
+- Voice evolution: post-BLACKWEIR flatness (anger through precision, not volume)
+- Physical: hands presenting data, field kit weight check, midnight work
+- Internal: empirical morality, pattern recognition compulsion, institutional faith eroding
+
+**Novak:**
+- Grey face (deepened from B1 Ch 33)
+- "I know" — institutional position established pre-BLACKWEIR
+- Defers to Classification Directorate woman
+- Eyes to window (Neo-Shanghai districts, Sump below)
+
+**Liang:**
+- Hands flat/still (enduring, not processing)
+- Silent presence
+- Signature on memo (complicity formalized)
+
+**Classification Directorate woman:**
+- Calibrated register (same as B1 Ch 33)
+- Tablet recording
+- Delivers reassignment: "This reassignment does not constitute disciplinary action."
+
+**Mirelle Dubois (posthumous):**
+- Dead-hand protocol activated
+- Unfinished sentence: "The infrastructure was always designed to—"
+- Name on first page of organized delivery
+- Evidence: RCI measurements, flood valves, NitroCore procurement, infrastructure maps
+
+**Elena Vargas (referenced):**
+- Mother, geophysicist
+- 14 years research absorbed by NitroCore subsidiary
+- Authorship replaced by project number
+- Lesson transmitted as atmosphere
+
+## Continuity Notes
+
+**Cross-references:**
+- **B1 Ch 33:** Same office/staging, Novak's grey face, Liang's flat hands, Classification Directorate woman, Sofia presents standing, Solberg question (NOT asked this time — evolution)
+- **B1 Ch 41:** Raw fragments during BLACKWEIR, unfinished sentence preserved, immersion pod, encrypted archive
+- **B2 Ch 11:** Remote monitoring reassignment, 61st floor housing, field kit, Mirelle's evidence (general), Solberg fragments, amber lighting, climate cycling, Black Babel channel, exact phrase match on reassignment language
+
+**Tightened overlap with B2 Ch 11:**
+- REMOVED: 7 deliveries / 6 weeks schedule
+- REMOVED: "three weeks after BLACKWEIR" timing
+- REMOVED: Singapore coffee detail
+- REMOVED: package-by-package content breakdown
+- REMOVED: Kira view count specificity (now "millions")
+- KEPT: Architectural details (unfinished sentence, field kit, desk layout, hum, amber lighting) — these recur because Sofia's circumstances haven't changed
+
+**Correlation progression:**
+- 0.94 (original deployment-atmospheric)
+- 0.97 (pre-BLACKWEIR paper prediction, per B1 Ch 33)
+- 0.98 (BLACKWEIR dataset)
+
+**Vertical gradient:** Sump 0.96, Mid-Levels 0.91, Spires 0.87
+
+## Style Notes
+
+**Negation-before-assertion:** 3 instances (upper edge of 2-per-chapter cap)
+1. "Not the readings. The physical presence." (mild)
+2. "not noise, not artifact, not instrument drift. The signal encoded consciousness." (core deployment)
+3. "Not because the work was finished... She stopped because the pattern was visible." (structural)
+
+**Dialogue (NEW in v2):**
+- Novak: measured, institutional, grey-faced authority
+- Classification Directorate woman: calibrated register, procedural delivery
+- Sofia: flat, data-first, anger through precision ("Delete that" = challenge, not zinger)
+
+**Sensory hierarchy:** Sound/vibration dominant → temperature → tactile → visual (correct for Sofia)
+
+**Paragraph distribution:** Bimodal (30% single-line isolation, 30% dense 4-6 line blocks)
+
+**Sentence rhythm:** Paratactic dominant, long-long-SHORT pattern, single-sentence paragraph isolation
+
+## Audit Results
+
+**Style Compliance:** PASS
+**Character Consistency:** PASS
+**Continuity:** PASS
+**Rhythm & Pacing:** PASS
+**Thematic Resonance:** PASS
+
+**Overall:** APPROVED FOR FINALIZATION
+
+**Flagged for monitoring:**
+1. Negation-before-assertion at upper edge (3 instances)
+2. Novak scene deliberately echoes B1 Ch 33 (intentional repetition for institutional horror)
+3. Remaining overlap with B2 Ch 11 (architectural details of Sofia's life)
+
+## Forward Connections
+
+**Seeds:**
+- B2 Ch 11: Gap on desk → mage data arrival fills the gap
+- B2 Ch 11: Assembly work → document completion
+- B2 Ch 11: Black Babel channel → publication
+
+**Echoes:**
+- B1 Ch 33: Novak office, deletion order → "Delete that" inversion
+- B1 Ch 41: BLACKWEIR instruments, dead-hand fragments → organized packages
+- Elena Vargas: institutional betrayal as inheritance
+
+## Production Notes
+
+**Draft history:**
+- v1: Single-part structure, assembly only, dual epigraph, detailed package breakdown
+- v2: Two-part structure, Novak scene added, single oblique epigraph, tightened overlap with Ch 11
+
+**User feedback incorporated:**
+- Novak scene on-page (marginalization moment)
+- Single oblique epigraph (Elden Ring style)
+- Tightened evidence inventory (Ch 11 overlap reduced)
+- "Delete that" line approved
+- "Almost" paragraph approved
+
+**AEGIS as invisible novelist:** Meta-narrative framing active but textually invisible
+
+---
+
+_Metadata generated: 2026-02-19_
+_Chapter Writer: Chloe_

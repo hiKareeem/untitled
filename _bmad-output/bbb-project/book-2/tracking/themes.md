@@ -48,4 +48,27 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 4 — "0.7 Hz" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth as Weapon | Weaponization moment | "The correlation is 0.98. Delete that." — Sofia inverts Novak's B1 Ch 33 deletion order; the data becomes challenge, not defense |
+| Systemic Complicity | Institutional continuity | Novak: "I know." — VEC knew before BLACKWEIR, during BLACKWEIR, and the response is identical. Classification → Removal. "You don't bury the report. You bury the researcher." |
+| Truth Without Power | Evidence ≠ action | Model validated (0.98 correlation), 8.2M dead, institutional response = marginalize the scientist. Understanding complete, power absent. |
+| Institutional Collapse vs. Continuity | Continuity wins | "The corridor to the director's office had not been recarpeted." Three weeks post-genocide, the building unchanged. Institutional machinery operates identically. |
+| Moral Obligation to Consequences | Assembly as moral act | "The most important work happens outside the system that should have supported it" (Elena's lesson). Cross-referencing = obligation, not curiosity. |
+
+**Key Resonance:** Truth as Weapon ↔ Truth Without Power. Sofia weaponizes the correlation ("Delete that") but has no institutional power to enforce it. The weapon exists; the target is immune. The data is complete; the institution is unchanged. This is the central tragedy of the scientific POV — knowing the mechanism doesn't grant the power to change it.
+
+**Epigraph Integration:** "Data that does not exist within the system does not exist." (VEC Research Integrity Guidelines §12.4)
+- Thematic function: Institutional epistemology as violence
+- Payoff: "The field kit did not exist within the VEC data architecture. Neither, now, did she."
+- Sofia's entire project = making data exist outside a system that defines existence as institutional recognition
+
+**Gap Device:** The missing biological data (physical gap on desk) = thematic gap between atmospheric/ground-level evidence and lived experience. Two-thirds complete = almost enough, and "almost" is how institutions defer action. The gap is structural, not accidental.
+
+**Inheritance Thread:** Elena Vargas (mother) → Sofia Reyes (daughter). Institutional betrayal as transmitted lesson. "The lesson transmitted not as ideology but as atmosphere." Complicity's aftermath = what you teach your children about systems.
+
+---
+
 _Last updated: 2026-02-19_

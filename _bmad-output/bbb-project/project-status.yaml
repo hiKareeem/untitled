@@ -593,6 +593,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Nuwa POV (Book 2 debut). Data-orphan in Mid-Level margins. Sump record archived. Cracked salvage implant, frozen BLACKWEIR notification. Fen (neighbor): 'Where are you from?' / 'Somewhere that isn't there anymore.' Feed: 'Anchor Zone stabilization proceeding on schedule.' 'Stabilization is the word they chose.' 'She was not free. She was unprocessed.' Spring onions as first un-ledgered gift. Table used for first time. Counting without numbers. AEGIS as invisible novelist."
 
-completedCount: 57
+  book2_chapter_4:
+    title: "0.7 Hz"
+    status: v2-complete
+    pov: "Sofia Reyes"
+    wordCount: 4500
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-4-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Sofia POV (Book 2 debut). Two-part structure: Part 1 (weeks post-BLACKWEIR) = Novak office scene, marginalization moment, 0.98 correlation presentation, reassignment delivered, 'Delete that' exit. Part 2 (six months post-BLACKWEIR) = VEC housing 61st floor, assembly begins, Mirelle's dead-hand evidence + atmospheric data + Solberg fragments, biological data gap, cross-referencing work, midnight. Epigraph: VEC Research Integrity Guidelines §12.4 (oblique, institutional epistemology). Tightened overlap with B2 Ch 11 (package specifics reserved). Novak scene echoes B1 Ch 33 staging. AEGIS as invisible novelist."
+
+completedCount: 58
 totalWords: 264237
 lastUpdated: "2026-02-19"

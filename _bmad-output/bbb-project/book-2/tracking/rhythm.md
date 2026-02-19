@@ -72,4 +72,37 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 4 — "0.7 Hz" (Sofia Reyes)
+
+**Mode:** TEXTURE (with PRESSURE opening)
+**Tension Shape:** High-compressed (Novak scene) → bureaucratic violence (memo/clearing) → time-skip → low-sustained (apartment) → medium-sustained (assembly work) → contemplative close
+**Pacing:** Two-gear structure. Part 1 runs hot and fast (~1,100 words, confrontation register). Part 2 runs cool and slow (~3,200 words, contemplative assembly). Transition compressed to ~200 words.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Novak office (Part 1) | ~1,100 | High-compressed | Dialogue-driven, institutional confrontation, rapid |
+| Memo + desk clearing | ~200 | Medium-bureaucratic | Compressed transition, institutional violence formalized |
+| Apartment setup (Part 2) | ~800 | Low-sustained | Slow, atmospheric, evidence inventory |
+| Kitchen interlude | ~400 | Low | Physical grounding, hum through floor |
+| Assembly work | ~1,400 | Medium-sustained | Cross-referencing, midnight work, pattern emergence |
+| Elena reflection + close | ~600 | Contemplative | Resolving, institutional critique, determination |
+
+**Rhythm Notes:**
+- Two distinct registers: Part 1 = confrontation (dialogue, short exchanges, institutional machinery), Part 2 = solitary assembly (long paragraphs, sensory immersion, data work)
+- Novak scene deliberately echoes B1 Ch 33 staging — repetition creates institutional horror (nothing changed despite 8.2M dead)
+- Time-skip ("Six months later") is abrupt by design — bureaucratic violence happens fast, assembly work happens slow
+- Long-long-long-SHORT pattern dominant in Part 2; shorter exchanges in Part 1 dialogue
+- "The infrastructure did not grieve" = single-sentence paragraph isolation at emotional nadir
+- Closing mirrors opening's institutional language but inverted: opening = VEC removes Sofia from system, closing = Sofia removes herself from VEC epistemology
+- Section breaks (---) mark temporal/register shifts: office → transition → apartment → kitchen → assembly
+
+**Dialogue Percentage:** ~8% (concentrated in Part 1 Novak scene; Part 2 is solo work, zero dialogue)
+
+**Pacing Concern:** Time-skip risks disorientation. Mitigated by clear transition section (memo arrival, desk clearing, field kit as bridge object). Two-part structure provides both dramatic peak and contemplative ballast — addresses "sustained fortissimo" concern from style profile.
+
+**Structural Innovation:** First Sofia chapter with on-page dialogue. Previous Sofia chapters (B1 Ch 5, 15, 27, 33, 41) were either solo work or institutional meetings narrated in summary. Novak scene breaks that pattern — the marginalization moment earns dramatization.
+
+---
+
 _Last updated: 2026-02-19_
