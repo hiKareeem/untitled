@@ -1,0 +1,118 @@
+chapter_number: 3
+book: 2
+title: "The Locked Study"
+pov_character: "Malachi"
+phase: 1
+location: "European See"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 4500
+actual_word_count: ~4300
+epigraph_source: "Locked correspondence"
+epigraph_author: "Malachi"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  First Malachi POV. Tuesday at the European See — diocesan reports accumulate
+  on his desk: forty-one resonance chapels across Europe reporting anomalous
+  acoustic phenomena since BLACKWEIR. Congregants hearing "additional voices"
+  during the Communal Harmonization. Sister Elowen in Reykjavik calls the hum
+  "not singular" — the same word Nephthys used. Malachi convenes a council,
+  delivers the institutional position (deepened perception, not disruption),
+  announces an encyclical: "The Voice Is Not Wounded." Alone afterward, he
+  writes the encyclical — three pages of precise institutional theology he
+  knows is a lie. Then walks forty-three steps to the locked study — a
+  separate room, no digital access logs, mechanical lock. Nephthys's letters,
+  his unsent responses, and his marginal annotation: "A Voice composed of
+  suffering is not a gift. It is a cry." The door closes. The key returns to
+  his chest. The encyclical publishes in the morning.
+
+# Key Events
+key_events:
+  - "Receives 41 diocesan reports of anomalous acoustic phenomena in resonance chapels post-BLACKWEIR"
+  - "Sister Elowen's Reykjavik report uses 'not singular' — echoes Nephthys"
+  - "Convenes council: 14 senior clergy, European See Chapter Hall"
+  - "Delivers institutional framing: deepened perception, not disruption"
+  - "Announces encyclical: 'The Voice Is Not Wounded'"
+  - "Council raises Void Witness migration (19% increase) and Nephthys's movement"
+  - "Malachi names Nephthys aloud in the Chapter Hall"
+  - "Writes encyclical — 3 pages, institutional theology, published by morning"
+  - "Visits locked study — Nephthys's letters, unsent responses, marginal annotations"
+  - "Returns to office. Hands folded. The question survives."
+
+# Characters Present
+characters:
+  - name: "Malachi"
+    role: POV
+    state: "Institutional composure maintained. Private doubt active. Managing the same truth he has suppressed for 22 years as Arch-Prelate. The encyclical is the Lie in action."
+  - name: "Nephthys"
+    role: Absent/referenced
+    state: "Present through letters, the Silencing memory, the word 'not singular,' the movement in Neo-Shanghai. Structural absence as presence."
+  - name: "Prelate Voss"
+    role: Council member
+    state: "Bruges diocese. Pastoral, younger, uncomfortable in institutional settings. Provides 'populated' — the congregants' word."
+  - name: "Prelate Almeida"
+    role: Referenced (report)
+    state: "Lisbon. Institutional to his fingertips. Diplomatic precision."
+  - name: "Sister Elowen"
+    role: Referenced (report)
+    state: "Reykjavik chapel. 11-year veteran. Reports 'not singular' — the Nephthys echo."
+  - name: "Breslin"
+    role: Council member
+    state: "Pastoral affairs coordinator. 20-year veteran. Asks the institutional question with her eyes."
+  - name: "The Luminarch"
+    role: Referenced
+    state: "Superior in New Geneva. Emergency dispatch on BLACKWEIR night. Intelligence office tracking Void Witnesses."
+
+# Themes
+themes:
+  - "Architecture of Power (institutional infrastructure as protagonist — the See, the Chapter Hall, the vestments, the encyclical)"
+  - "Where Identity Ends (public office vs. locked study — forty-three steps between institutional self and private self)"
+  - "Commodification of Suffering (resonance chapels as amplification chambers — the faithful harmonizing with screams)"
+  - "Systemic Complicity (generational suppression — seminary instructor wept, at least two generations of institutional management)"
+
+# Symbols
+symbols:
+  - name: "The hum"
+    appearances: "Throughout (10+)"
+    arc: "Background vibration → denser → populated → screams"
+  - name: "Folded hands"
+    appearances: 4
+    arc: "Composure → reflex → institutional posture → closing image"
+  - name: "The key"
+    appearances: 3
+    arc: "Against chest → opens door → returns to chest. Circular."
+  - name: "Ink-stained thumb"
+    appearances: 2
+    arc: "Physical evidence of institutional labor — the body marked by the work"
+  - name: "Forty-three steps"
+    appearances: 2
+    arc: "The distance between public and private. Counted. Embodied."
+  - name: "The encyclical"
+    appearances: 3
+    arc: "Instrument → lie → framework that holds 'for now'"
+
+# Continuity
+continuity_notes:
+  - "First Malachi POV — no prior chapters to contradict"
+  - "B1 structural absence only: excommunication decree, correspondence epigraph in Nephthys chapters"
+  - "Nephthys Silenced 3 years prior — 'I know,' prescribed suppressants, convened tribunal"
+  - "BLACKWEIR 6 months ago — hum changed globally, 8.2M absorbed"
+  - "Nephthys movement growing (B2 Ch 2) — Void Witnesses migrating"
+  - "Cathedral sealed by Luminarch's Office on Malachi's recommendation (B1 Ch 26)"
+  - "Luminarch in New Geneva — consistent with lexicon"
+  - "Five Harmonies, Communal Harmonization, Book of Radiance — all per lexicon"
+  - "RCI 11.2 (baseline 10.8) for Bruges chapel — plausible non-Sump reading"
+  - "Forward: Ch 13 (Malachi — mid-truth response), Phase 2 Church fracture"
+
+# Thread Status
+thread_status:
+  malachi_institutional_management: "Active — encyclical published, resonance anomalies managed pastorally"
+  locked_study_correspondence: "Visited — Nephthys's letters and unsent responses remain. No new additions this visit."
+  void_witness_migration: "19% increase European See post-BLACKWEIR — flagged at council, framed as pastoral not theological"
+  nephthys_movement: "Acknowledged at council level — framed as social phenomenon, not theological challenge"
+  the_question: "Survives — 'Can the Voice be wounded?' — 44 years and counting"
+  the_lie: "Active — 'The faithful need the institution more than they need the truth'"

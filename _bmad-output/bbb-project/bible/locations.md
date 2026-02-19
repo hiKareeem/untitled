@@ -2,10 +2,10 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-16"
-lastChapter: 46
-totalLocations: 18
-activeLocations: 13
+lastUpdated: "2026-02-19"
+lastChapter: "B2 Ch 3"
+totalLocations: 19
+activeLocations: 14
 project_name: "Untitled"
 ---
 
@@ -749,8 +749,54 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 | Spires | Nanite technology | Elite | Restricted |
 | The Confluence | Nitro throughput | Highest in city | Escalating |
 | New Geneva | Diplomatic infrastructure | Institutional | Active |
+| European See | Church institutional authority | Theological/administrative | Active |
 
 ---
 
-_Last updated: 2026-02-15_
-_Updated by: Chapter 20 — "The Crack" bible update_
+### European See
+
+**Description:** Institutional heart of the Church of the Blessed Nitro in Europe. Administrative complex of vaulted stone ceilings, heavy wooden doors, and architectural grammar designed for deliberation over urgency. The See runs on the same nitro grid as every other building in the diocese — the hum is present but quieter, institutional rather than raw. Post-BLACKWEIR, the hum is denser.
+
+**Discovered:** Established location (Church institutional center)
+
+**Resources:**
+- Theological library (extensive — commentaries on Book of Radiance, doctrinal review proceedings, institutional memory spanning 130+ years)
+- Diocesan administrative infrastructure (secretariat, communications, intelligence office coordination with Luminarch in New Geneva)
+- Resonance chapel network (312 active chapels across European See)
+
+**Dangers:**
+- Institutional suppression mechanisms (nitro-psychosis protocol: diagnose, suppress, reassign)
+- Post-BLACKWEIR: 41/312 resonance chapels reporting anomalous acoustic phenomena (congregants hearing "additional voices")
+- Void Witness migration (19% increase post-BLACKWEIR, congregants leaving for Nephthys's movement)
+
+**Key Events:**
+- B2 Ch 3: Malachi receives 41 diocesan reports of anomalous phenomena. Convenes council. Publishes encyclical "The Voice Is Not Wounded." Visits locked study.
+
+**Significance:** Institutional counterpoint to Nephthys's grassroots Cathedral. The Church's administrative machinery managing the same truth it suppresses. Malachi's domain — where institutional theology is written, where the framework holds "for now."
+
+**Current State:** Active. Managing post-BLACKWEIR resonance anomalies through pastoral framing. Encyclical distributed to 312 chapels. Framework intact but strained.
+
+**Controlled by:** Church of the Blessed Nitro (Arch-Prelate Malachi, reports to Luminarch in New Geneva)
+
+**Key Locations Within:**
+- **Malachi's office:** Dark oak desk, floor-to-ceiling theological library, vaulted stone ceilings. Where institutional documents are written.
+- **Chapter Hall:** Stone chamber, barrel-vaulted ceiling, long oak table (seats 24). Where councils convene.
+- **Locked study:** Separate room at end of unused hallway. Mechanical lock, no digital access logs. Appears as "auxiliary storage" on architectural plans. Forty-three steps from Malachi's office. Bare stone walls, single desk, single lamp. Where the correspondence lives — Nephthys's letters, Malachi's unsent responses, the private theology.
+- **Resonance chapel corridor:** (Referenced but not directly shown in Ch 3)
+
+**Occupants:**
+- Malachi (Arch-Prelate)
+- Diocesan secretariat
+- Senior clergy (14 present at council: diocesan administrators, seminary representatives, theological review board, pastoral affairs coordinator)
+- Prelate Breslin (pastoral affairs coordinator, 20-year veteran)
+
+**Atmospheric Notes:**
+- Quiet by design — sound-absorbing architecture
+- The hum: low vibration through desk surfaces, faint pressure behind sternum
+- Post-BLACKWEIR: hum is denser, "populated" (Voss's word from congregants)
+- Institutional weight expressed through architecture, furniture, vestments
+
+---
+
+_Last updated: 2026-02-19_
+_Updated by: B2 Ch 3 — "The Locked Study" bible update_

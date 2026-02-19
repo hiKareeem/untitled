@@ -2,8 +2,8 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-16"
-lastChapter: 46
+lastUpdated: "2026-02-19"
+lastChapter: "B2 Ch 3"
 totalDays: "Weeks to months (Phase 1-3), then compressed to Days 1-5 (Phase 4)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
@@ -395,5 +395,57 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-16_
-_Updated by: Bible maintenance — Phase 2-4 timeline added, Phase 4 Day 1-5 cross-POV synchronization established_
+## Book 2 Timeline
+
+**Phase 1 (Aftermath) — ~6 months post-BLACKWEIR**
+
+### European See — Tuesday (B2 Ch 3: "The Locked Study")
+
+**Morning:**
+- Diocesan reports arrive (Tuesdays, institutional cadence)
+- Malachi reviews 41 reports: resonance chapels reporting anomalous acoustic phenomena post-BLACKWEIR
+- Sister Elowen (Reykjavik) report: hum is "not singular" — echoes Nephthys's word
+- Characters: Malachi (POV)
+- Location: European See, Malachi's office
+- Consequences: Council convened
+
+**10:00 AM:**
+- Council convenes in Chapter Hall
+- 14 senior clergy present (diocesan administrators, seminary representatives, theological review board, pastoral affairs coordinator)
+- Malachi delivers institutional framing: deepened perception, not disruption
+- Announces encyclical: "The Voice Is Not Wounded"
+- Void Witness migration raised (19% increase European See)
+- Nephthys's movement in Neo-Shanghai discussed
+- Malachi names Nephthys aloud — first time since the Silencing
+- Characters: Malachi, Prelate Voss, Prelate Breslin, council members
+- Location: European See, Chapter Hall
+- Consequences: Encyclical commissioned, institutional response established
+
+**11:47 AM:**
+- Council adjourns
+- Characters: Malachi
+- Location: European See
+- Consequences: Malachi returns to office
+
+**Early Afternoon:**
+- Malachi writes encyclical alone (3 pages, institutional theology)
+- Recognizes: "Every word of it was a lie."
+- Places encyclical in outgoing correspondence tray
+- Characters: Malachi
+- Location: European See, Malachi's office
+- Consequences: Encyclical to be published by morning to 312 resonance chapel parishes
+
+**Afternoon:**
+- Malachi walks forty-three steps to locked study
+- Visits correspondence: Nephthys's letters (pre-Silencing), his unsent responses
+- Reads marginal annotation: "A Voice composed of suffering is not a gift. It is a cry."
+- Does not add to correspondence
+- Returns to office
+- Characters: Malachi
+- Location: European See, locked study → office
+- Consequences: Private truth revisited, public lie maintained. Hands folded. The question survives.
+
+---
+
+_Last updated: 2026-02-19_
+_Updated by: B2 Ch 3 — "The Locked Study" chronology update_

@@ -2,9 +2,9 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-17"
-lastChapter: 51
-totalCharacters: 15
+lastUpdated: "2026-02-19"
+lastChapter: "B2 Ch 3"
+totalCharacters: 16
 project_name: "Untitled"
 ---
 
@@ -787,9 +787,73 @@ This bible dimension tracks **current character states**:
 | Jarek Kowalski | Referenced (post-absorption) | Absorbed (Ch 38) | Rendered through absence: PCR-11 form fields, tools on workbench (calibration kit, taped multi-meter, hex wrenches), P-Frame on cradle. Service number JK-2171-2247 (new canonical). "The tools were arranged by a person who expected to come back." | Ch 47 |
 | Sofia Reyes | Arc + Recent History | Phase 4/5, B1 Ch 41 last appearance | Phase 5/5 (New Equilibrium); mid-truth published via Black Babel; involuntarily remote from VEC; three datasets synthesized; hybrid document (55pp); attribution: Mirelle/Solberg/mages/Sofia; 10,000+ nodes; "Mirelle would have made it a better story" | B2 Ch 11 |
 | Mirelle Dubois | Diegetic presence update | Dead-hand cache distributing | Dead-hand cache fully decrypted (7 packages/6 weeks); evidence integrated into Sofia's mid-truth; attributed by name (posthumous); identity known to Sofia | B2 Ch 11 |
+### Malachi
+
+**Role:** POV #10 (debut Book 2)
+**Faction:** Flame (Church of the Blessed Nitro — Arch-Prelate, European See)
+**Primary Location:** European See
+**Lens:** Institutional management as suppression
+
+**Current Psychological State:**
+- Phase: 1/5 (Aftermath — institutional composure maintained)
+- Emotional State: Private doubt active, public certainty performed
+- Dominant Beliefs: "The faithful need the institution more than they need the truth."
+- Internal Contradictions: Knows the Voice is composite suffering; writes encyclicals claiming it is constant divine gift. The institutional manager who manages the truth he carries.
+
+**The Lie:** The faithful need the institution more than they need the truth.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nephthys | Theological mirror (absent) | Deep/Unresolved | Father-figure to theological daughter. Silenced her 3 years ago ("I know"). She was right. He would do it again. Structural absence as presence — her letters in the locked study, her movement growing, her word ("not singular") echoing in diocesan reports. |
+| The Luminarch | Superior (institutional) | Professional | New Geneva. Authorized the Silencing. Intelligence office tracks Void Witnesses. Relationship is institutional — they agree on management, not necessarily on truth. |
+| The Faithful (aggregate) | Pastoral | Genuine | He cares about the congregations. The care and the suppression coexist. The pastor who withholds the diagnosis. |
+
+**Current Arc:** Institutional Manager → ??? (Book 2-3)
+- Current Phase: 1/5 (Aftermath — managing post-BLACKWEIR anomalies)
+- Progression: Encyclical published, framework holds "for now"
+- Next Step: Mid-truth publication (Ch 13) — institutional response to scientific revelation
+
+**Phase Trajectory:**
+| Phase | State | Key Event |
+|-------|-------|-----------|
+| 1/5 | Post-BLACKWEIR institutional management | Diocesan reports, council convened, encyclical published, locked study visited |
+| 2/5 | TBD | Mid-truth response |
+| 3/5 | TBD | Church fracture |
+| 4/5 | TBD | Institution dissolving |
+| 5/5 | TBD | Option A: Last Encyclical / Option B: Walks into Anchor |
+
+**Appearances:**
+- Last Appearance: B2 Ch 3 ("The Locked Study") — DEBUT
+- Next Planned Appearance: B2 Ch 13 (mid-truth response)
+
+**Recent History:**
+- **B2 Ch 3:** Tuesday at the European See. Receives 41 diocesan reports: resonance chapels across Europe reporting anomalous acoustic phenomena post-BLACKWEIR. Congregants hearing "additional voices" during Communal Harmonization. Sister Elowen (Reykjavik) reports the hum is "not singular" — Nephthys's word. Convenes council (14 senior clergy, Chapter Hall). Delivers institutional framing: deepened perception, not disruption. Announces encyclical: "The Voice Is Not Wounded." Council raises Void Witness migration (19% increase European See) and Nephthys's movement in Neo-Shanghai. Malachi names her aloud in the Chapter Hall — first time since the Silencing. Writes encyclical alone (3 pages, institutional theology, published by morning). Visits locked study — separate room, 40-three steps from office, mechanical lock, no digital access logs. Nephthys's letters (pre-Silencing, when she was still ordained), his unsent responses, marginal annotation: "A Voice composed of suffering is not a gift. It is a cry." Returns to office. Hands folded. The encyclical publishes. The question survives.
+
+**Key Objects Established (B2 Ch 3):**
+- Locked study (separate room, end of unused hallway, mechanical lock, appears as "auxiliary storage" on architectural plans)
+- Key on cord (worn beneath vestments, against chest, under chain of office)
+- Correspondence (Nephthys's letters + Malachi's unsent responses, 3 years of theological exchange)
+- Ink-stained thumb (right hand, dark crescent beneath nail — 40 years of handwritten institutional documents)
+- Vestments (deep violet, gold-thread embroidery at collar/cuffs, chain of office)
+- Encyclical "The Voice Is Not Wounded" (3 pages, published to 312 resonance chapel parishes)
+- Folded hands (institutional posture — thumbs aligned, habitual, involuntary)
+- Forty-three steps (counted distance between public office and locked study)
+
+**Continuity Notes:**
+- Silenced Nephthys 3 years prior (age 60, now 63) — "I know," prescribed suppressants, convened tribunal
+- Arch-Prelate for 22 years (age 41-63)
+- Seminary question at age 19: "Can the Voice be wounded?" — instructor wept
+- Processed nitro-psychosis cases across career (chaplain, seminary instructor, diocesan theologian — all reported hum was composite, all diagnosed/suppressed/reassigned)
+- BLACKWEIR 6 months ago — hum changed ("denser"), 8.2M absorbed
+- Cathedral of Living Sound sealed on his recommendation (Luminarch's Office, B1 Ch 26)
+- European See: administrative wing, Chapter Hall, locked study, theological library
+
+---
+
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
 
-_Last updated: 2026-02-18 (B2 Ch 11 — Sofia mid-truth publication)_
+_Last updated: 2026-02-19 (B2 Ch 3 — Malachi debut)_
 _Updated by: Chapter-write workflow (quick mode)_
