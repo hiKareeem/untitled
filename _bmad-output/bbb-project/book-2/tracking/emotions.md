@@ -44,7 +44,25 @@
 
 ## Chapter Emotional Entries
 
-*Entries will be added as chapters are completed.*
+### Chapter 9 — "The Hum Is Different"
+
+**Fuxi Lin (POV):**
+- **Entering State:** Post-maintenance stasis. Returns to barrier daily. The Lie is ash. No new framework.
+- **Emotional Arc:** Witnessing → approached (Kindling) → refusal through silence → purposeful walk → handoff → departure
+- **Dominant Emotion:** Unresolved aftermath — not grief (that was Book 1), not rage (that was the immediate post-BLACKWEIR). This is the structural quiet after both. The diagnostic frame still runs but has nothing to diagnose.
+- **Key Emotional Beat:** The handoff. "Someone should have these." — the only thing he can still do. The maintenance worker's final maintenance: transferring the record.
+- **Exiting State:** Walking away without answers. Multitool on belt. No destination stated. The gap between two frequencies.
+- **Emotional Shift:** From witnessing (passive, at barrier) to acting (transferring evidence) to releasing (walking away). The arc of a man completing his last obligation and entering uncertainty.
+
+**Nuwa Lin (Supporting):**
+- **Entering State:** Mid-Level margins. Chosen invisibility. Data-orphan.
+- **Emotional Arc:** Door opens → sees Fuxi → three-second look → receives chip → door closes
+- **Dominant Emotion:** Economy. Precision. The contracted emotional range of someone who subtracted everything that could be subtracted.
+- **Key Emotional Beat:** The look — three seconds that carry everything they can't say. No surprise. No performance. Recognition.
+- **Exiting State:** Chip in hand. Evidence in her custody. Door closed.
+
+**Kindling Contact (Minor):**
+- **Emotional Register:** Practical patience. Understands silence. Leaves the offer and walks away.
 
 ---
 

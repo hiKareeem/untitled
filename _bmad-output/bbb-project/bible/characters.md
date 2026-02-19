@@ -419,10 +419,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Complicity in systems
 
 **Current Psychological State:**
-- Phase: 4/5 (Transformation — BLACKWEIR witness)
-- Emotional State: Comprehension without agency — understands exactly what the infrastructure is doing because he maintained it; cannot act. The Lie is destroyed.
-- Dominant Beliefs: "Keeping your head down keeps the people you love safe" — **destroyed.** The infrastructure he maintained IS the delivery system. Keeping his head down built the weapon.
-- Internal Contradictions: None remaining — the contradiction between maintenance and conscience has been resolved by BLACKWEIR. The system revealed itself. What remains is the question of what to do with the knowledge.
+- Phase: 5/5 (New Equilibrium — thread closed, Book 2 Ch 9)
+- Emotional State: Post-maintenance stasis. The Lie is ash. No new framework. Standing between two frequencies — the Anchor's syntax and the Mid-Level baseline. Transferred evidence to Nuwa. Walking away without answers.
+- Dominant Beliefs: "Keeping your head down keeps the people you love safe" — **destroyed** (Ch 39). Replaced by: nothing. The question of who you are without the work has no answer yet.
+- Internal Contradictions: The Kindling want him as an operative. He walked toward them in Ch 49. Six months later, he leaves their chip on the railing. Radicalization is not linear. Dismantling may be another form of maintenance.
 
 **The Lie:** Keeping your head down keeps the people you love safe — **DESTROYED Ch 39**
 
@@ -437,10 +437,10 @@ This bible dimension tracks **current character states**:
 | Kindling | Collective → Ally | Growing | Sump-based political collective grown from families of the disappeared. Evidence-first, not ideology-first. They have the political frame; Fuxi has the technical confirmation. |
 | Chen Wei (shift supervisor) | Institutional | Professional | “They always self-correct” — 20 years of calcified dismissiveness. What Fuxi will become if he stays. |
 
-**Current Arc:** Maintenance Man → Radical
-- Current Phase: 4/5 (Forced witness — watches BLACKWEIR through the infrastructure he maintained)
-- Progression: Late
-- Next Step: Phase 5 — emerges from converter station, finds Nuwa alive, joins Kindling. The private log becomes evidence.
+**Current Arc:** Maintenance Man → Radical → ? (ambiguous exit)
+- Current Phase: 5/5 (Thread closed — Book 2 Ch 9)
+- Progression: **COMPLETE.** Final Fuxi POV chapter (all books).
+- Final Action: Transferred 13 years of private maintenance logs to Nuwa via data chip. "Someone should have these." Thread handoff: Fuxi → Nuwa.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -452,10 +452,13 @@ This bible dimension tracks **current character states**:
 | 5/5 | Emerges. Finds Nuwa alive. Will not maintain conduits again. | Kindling's offer is the only thing that makes sense |
 
 **Appearances:**
-- Last Appearance: Chapter 39 — "Pressure Doors"
-- Next Planned Appearance: Chapter 47 (Phase 5 — emergence, Nuwa alive, Kindling)
+- Last Appearance: **Book 2, Chapter 9 — "The Hum Is Different"** (FINAL)
+- Previous: Book 1 Ch 49 ("The Quietest Scene" — Phase 5 emergence)
+- Previous: Book 1 Ch 39 ("Pressure Doors" — BLACKWEIR)
+- Next Planned Appearance: **None** — POV thread closed. May appear through Nuwa's POV in later chapters.
 
 **Recent History:**
+- **Book 2 Ch 9:** "The Hum Is Different" — **FINAL FUXI CHAPTER.** ~6 months post-BLACKWEIR. Dawn at Anchor Zone perimeter barrier. Stands for one hour. Conduits visible through shimmer barrier — violet frost, structured hum with syntax (not language, but structure). Frame still receives degraded telemetry. The hum is different — denser, layered, containing the residue of 8.2M absorbed. A new Kindling contact (not grey-temples woman — status unknown) offers operational work: junction layouts, access codes, maintenance schedules. Fuxi doesn't answer. Leaves the Kindling's chip on the barrier railing. Walks to Nuwa's Mid-Level building (9th floor, building that doesn't inspect credentials). She opens the door. Face thinner — "Not gaunt — precise." Chemical staining permanent (unchanged from Sump). Three-second look carries everything. Hands her data chip: 13 years of private maintenance logs, extracted, cleaned, translated from conduit shorthand. "Someone should have these." She takes it without asking. Door closes. Fuxi descends, walks into morning. Multitool on belt (3 appearances: barrier, stairs, street). Does not look back. Thread handoff complete: evidence → Nuwa. The maintenance man no longer maintaining, carrying his father's tool, the question unanswered: "if you stop maintaining, who are you?"
 - **Ch 49:** Phase 5 — Post-BLACKWEIR emergence. **FINAL FUXI POV IN BOOK 1.** Pressure doors unseal Day 3. Duan stays in converter station ("I'll stay"). Fuxi climbs 187 rungs through violet-frosted ascent shaft. Violet frost traces entire conduit network — "every pathway visible, every connection mapped." Walks to Block 14. Finds Nuwa alive in masonry annex. Reunion embrace — full page, no dialogue. "Fuxi did not count" (emotional peak — first time in 13 years the methodical man stops counting). Nuwa: "I'm not going back." / Fuxi: "I know." Relief station (Transit Shaft 7): biometric processing, temporary IDs, classification (Anchor Zone survivor, Sump-tier, eligible for re-housing). "Different database. Same architecture." Nuwa walks away from re-housing queue into Mid-Level crowd — chooses invisibility. Fuxi watches her go. She doesn't look back. Walks back into Sump toward Kindling. "Thursday was today." Tools in belt = "artifacts of a profession that no longer existed." Knowledge without institutional frame. Kindling's offer accepted through action, not declaration. Arc complete: Maintenance Man → Radical. Provider-obligation fulfilled and released. Radicalization finalized. Private log closed (eighth entry complete). Multitool still in pocket. Rhetoric: Emergency Relief Processing Form — "Subject departed without completing intake" (Nuwa). Per chapter plan: appears in 1 transitional chapter in Book 2, then recedes (seen through Nuwa's POV).
 - **Ch 28:** Phase 3 — Kindling network meeting (Thursday, two days after Ch 22). Bench from Ch 22 removed (cut at mounting bolts — institutional erasure of gathering points). Kindling woman leads Fuxi to decommissioned pump station beneath Section 4-East: 12 maintenance workers, 214 combined years of service. Parallel investigation revealed — network's table matches Fuxi's log (63 rows). 41 disappearances tracked (vs. Fuxi's 23). Wei (pressure management, 22 years) names the absorptions. Lian (junction housing, 16 years) reveals 47 flood valves installed 2171-2173 under "pressure management upgrade" work orders — NitroCore hardware in municipal infrastructure. "The conduits aren't just power distribution. They're a delivery system. And we've been maintaining it." Black Babel / Wire / Erasure List named as delivery channels. "Keep documenting. When this breaks, someone needs to know it was visible." Domestic scene: Nuwa's transfer denied (reason code 14-J, infrastructure personnel retention priority, indefinite). Her shoulders tight; delivers the news calm and factual; walks to room without saying goodnight. Fuxi sits in the dark. Entry 63: transfer denial recorded alongside RCI data — log evolving from technical to political. "Tuesday was five days away." Psychological state: The Lie fatally wounded but not yet destroyed — complicity now conscious, silence now impotence rather than strategy.
 - **Ch 22:** Phase 2→3 transition trigger. Private log at 62 entries; step-function spike on monitor 6 (27.1→43.1, 4.7σ, sustained, no correction). First in-person Kindling contact — unnamed woman, water-recycling division, on welded bench in ascent shaft corridor. Reveals Wen Zhaoyang (junction 9, Grade 2) disappeared 8 weeks ago — a tech Fuxi shared a maintenance tunnel with, not just a corridor face. "Your file. Our frame. The picture resolves." Kindling offer: Tuesdays and Thursdays, off-shift. Chen Wei's "they always self-correct" doctrine broken — leaves 47 minutes early. Official report filed; automated alert references classified VEC document (VEC-THR-2169.4-D). Fuxi releases Jun's multitool — symbolic shift from inherited institutional identity. Walks home. "Thursday was two days away." Psychological state: the turn from documentation to potential action.
@@ -697,7 +700,7 @@ This bible dimension tracks **current character states**:
 | Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
 | Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
-| Fuxi Lin | Maintenance → Radical | 1/5 | Trunk-line anomalies |
+| Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | 4/5 | Ch 41 — complete dataset assembled; data prevents nothing; Phase 5 publication |
 | Kira | Performer → Witness → Someone Who Refuses to Lie | 5/5 | Ch 51 — unsigned document; Book 1 arc complete |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |

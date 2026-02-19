@@ -1,0 +1,89 @@
+chapter_number: 9
+book: 2
+title: "The Hum Is Different"
+pov_character: "Fuxi Lin"
+phase: 1
+location: "Neo-Shanghai Anchor Zone perimeter / Mid-Levels"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 4500
+actual_word_count: ~4500
+special_status: FINAL_FUXI_CHAPTER
+thread_handoff: "Fuxi → Nuwa (data logs transfer)"
+epigraph_source: "A History of Silence"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-18"
+
+# Summary
+summary: >
+  Fuxi's final chapter. Dawn at the Anchor Zone perimeter — the scoured Sump
+  behind a shimmer barrier, conduits coated in violet frost, the hum structured
+  with syntax he's never heard. A Kindling contact finds him and offers
+  operational work; Fuxi doesn't answer, leaves the chip on the railing. He walks
+  to Nuwa's Mid-Level building, hands her a data chip containing his private
+  maintenance logs — 13 years of evidence — and says "Someone should have these."
+  She takes it without asking. He leaves. Thread handoff complete. The maintenance
+  man, no longer maintaining, walks into the morning with his father's multitool
+  still on his belt and no answer to the question of who he is without the work.
+
+# Key Events
+key_events:
+  - "Fuxi stands at Anchor Zone perimeter barrier for one hour"
+  - "Observes transformed infrastructure: violet frost, structured hum with syntax"
+  - "Kindling contact offers operational work; Fuxi doesn't commit"
+  - "Walks to Nuwa's Mid-Level building (9th floor)"
+  - "Hands Nuwa data chip with 13 years of private maintenance logs"
+  - "\"Someone should have these\" — only handoff dialogue"
+  - "Departs without looking back"
+
+# Characters Present
+characters:
+  - name: "Fuxi Lin"
+    role: POV
+    state: "Post-maintenance. Lie destroyed. Standing between two frequencies."
+  - name: "Nuwa Lin"
+    role: Supporting
+    state: "Mid-Level margins. Chosen invisibility. Receives evidence."
+  - name: "Kindling contact"
+    role: Minor
+    state: "New recruiter (not grey-temples woman). Operational pitch."
+
+# Themes
+themes:
+  - "Systemic Complicity (aftermath)"
+  - "What We Owe (evidence transfer as obligation)"
+  - "Where Identity Ends (absorbed in the hum)"
+  - "Truth as Weapon (data chip as portable evidence)"
+  - "Architecture of Power (barrier as new class boundary)"
+
+# Symbols
+symbols:
+  - name: "Jun's multitool"
+    appearances: 3
+    arc: "Tool without function → father's presence → unanswered question"
+  - name: "The hum"
+    appearances: "Throughout"
+    arc: "Baseline → syntax → density → the absorbed as signal"
+  - name: "Data chip"
+    appearances: 3
+    arc: "Private record → portable evidence → transferred custody"
+  - name: "Violet frost"
+    appearances: "Barrier scene"
+    arc: "Infrastructure traced, structure not destruction"
+
+# Continuity
+continuity_notes:
+  - "Follows Book 1 Ch 49 (Phase 5 emergence, Kindling walk)"
+  - "Follows Book 2 Ch 8 (Nuwa's Mid-Level status established)"
+  - "Kindling arc: Ch 49 acceptance → Ch 9 non-commitment (6-month evolution, plan-supported)"
+  - "Private log extracted from gasket-requisition partition, cleaned, on chip"
+  - "Nuwa's chemical staining: permanent, iridescent (dossier-accurate)"
+  - "Frame: cracked L-class, still receives degraded telemetry through barrier"
+
+# Thread Status
+thread_status:
+  fuxi_pov: CLOSED
+  data_chip: "Transferred to Nuwa — her thread now"
+  kindling_offer: "Unanswered — ambiguous"
+  multitool: "Still on belt — carried forward off-page"

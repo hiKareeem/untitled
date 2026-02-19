@@ -20,7 +20,17 @@ Based on trilogy plan and Book 1 continuation:
 
 ## Chapter Thematic Entries
 
-*Entries will be added as chapters are completed.*
+### Chapter 9 — "The Hum Is Different" (Fuxi Lin)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Systemic Complicity | Post-knowledge | "The chain of maintenance — Jun's hands to his hands to the infrastructure to the city to the thing the city had done" |
+| What We Owe | Evidence transfer | Data chip handoff: 13 years of logs transferred from technician to survivor |
+| Where Identity Ends | Absorbed in infrastructure | The hum has syntax; 8.2M people integrated into conduits as signal |
+| Truth as Weapon | Seeded | Data chip = portable evidence. What Nuwa does with it = her arc. |
+| Architecture of Power | New boundary | Shimmer barrier as institutional boundary between living city and sacrifice zone |
+
+**Key Resonance:** Complicity ↔ What We Owe. The record of complicity *is* the evidence. The maintenance that built the weapon also documented the weapon.
 
 ---
 
