@@ -110,10 +110,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional machinery, reluctant tyrant
 
 **Current Psychological State:**
-- Phase: 1/5 (Equilibrium)
-- Emotional State: Grieving (suppressed), confident (performed), suspicious (partitioned)
-- Dominant Beliefs: "Competence and good intentions are sufficient to prevent atrocity."
-- Internal Contradictions: Conflates institutional survival with moral necessity. Wants to reform from within but inherits a machine designed to resist reform. Suspects Thorne orchestrated her father's assassination but depends on him to run NitroCore — both facts coexist without resolution.
+- Phase: 5/5 (New Equilibrium — functional tyrant, integrated)
+- Emotional State: Institutional. Dual-track cognition operational (corporate register + translation simultaneously, neither louder). Not grieving — recognizing. Not suspicious — past that.
+- Dominant Beliefs: "The machine continues because everyone participates in its continuation. I am the machine."
+- Internal Contradictions: Small voice integrated — partition dissolved. Knows the cost, registers it as infrastructure. The translations arrive like the hum. The horror is in the normalcy, not the decisions.
 - Key Backstory: Father Eduardo Vasquez assassinated at a corporate gala weeks before story begins. Official story: disgruntled employee, workplace violence. Aurielle suspects corporate orchestration. Thorne handed her a white handkerchief, told her not to run, told her the cameras were recording. She walked.
 
 **The Lie:** Competence and good intentions are sufficient to prevent atrocity
@@ -143,8 +143,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Functional tyrant. Knows. Continues. | Congratulated. Stock recovers. She will authorize the next one too. |
 
 **Appearances:**
-- Last Appearance: Chapter 46 — "Congratulations"
-- Next Planned Appearance: Book 2 (SHEPHERD program, void-exploitation R&D)
+- Last Appearance: B2 Ch 1 — "The Chair"
+- Next Planned Appearance: B2 Ch 10 ("Opportunities" — SHEPHERD named, Thorne's full briefing)
 
 **Recent History:**
 - Chapter 36: Sixth POV chapter (Phase 3 climax). Formal BLACKWEIR authorization. Conference room (108th floor) — five attendees: Aurielle, Thorne, Harding (NitroCore Legal), grid management liaison, Okoro (security director). Thorne presents alternatives analysis: four alternatives, one conclusion — partial evacuation (triggers Confluence), full rehabilitation (36 months vs 3-5 weeks), enhanced containment (doubles casualties on longer timeline), managed attrition (inoperative since step-function). Evacuation question asked "for the record": full evacuation requires 72 hours, Confluence activates in 31 hours under evacuation conditions, projected casualties = full Neo-Shanghai vertical architecture (47M). "The math is the same." Room empties. Thorne alone with Aurielle: speaks the number verbally — "Thirteen million. Within the designated containment perimeter." Casualty field on Form CMP-7 left blank — number spoken, not written. Small voice completes arithmetic and goes silent — "The voice had nothing left to calculate." Thorne reveals Eduardo signed Phase Two authorization in this room at 1:47 AM. Aurielle signs alone. Pen on paper — "the click was louder than it should have been in a room designed to absorb rather than transmit." Returns to Eduardo's office. Opens evening brief. Reads from the last page first. Psychological state: no rationalization, no moral wrestling — the decision was made before the chapter began. Phase 3 climax complete. The moral ladder fully climbed.
@@ -862,9 +862,15 @@ This bible dimension tracks **current character states**:
 | Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Six months managing Cathedral operations. Tracks nosebleed escalation (data: 0→1→3/week). Names tumor directly. Raises succession question: "you have not named a successor." Spatial vocabulary: stands in front (confrontation), not beside (logistics). Measuring look held 3-4-5 seconds. Stocks cloths, manages medical kit, counts attendees. Contractions in speech ("It's both") — voice differentiated from Nephthys (no contractions). "The cloths need washing. We're running low." | B2 Ch 2 |
 | Sump Worker (unnamed) | New supporting character | N/A | NitroCore maintenance, Trunk-Line 4-East, Section 4, 31 years. Perimeter survivor — watched BLACKWEIR from outside absorption zone. Hears six voices (his shift) through stone floor. Chronic red eyes (6 months). Stays overnight in side chapel. Not yet joined counter-liturgy session. | B2 Ch 2 |
 
+| Aurielle Vasquez | Arc + Recent History | Phase 5/5, B1 Ch 46 last appearance | B2 Phase 1/5 (Aftermath). ~6 months post-BLACKWEIR. Quarterly board meeting. Eduardo's impression gone from leather. Stock recovered (eleven-day dip). Containment reclassified as "infrastructure investment." Hargrave (COO) presents financials. Marchetti (VP Strategic Development, post-BLACKWEIR role) presents atmospheric data: "commercial applications pending review." Conductivity 3x (board) / 7x (actual). Thorne sits beside her — dynamic fully inverted. SHEPHERD as unnamed R&D line item. Personnel auth: 6-person team (internal transfers). Four-month delay deliberate — "infrastructure before intervention." Small voice integrated. Wrist rotation continues (x2, unconscious). "The method survived the person. The person was the part that did not compound." Closing: "The Chair opened the next report." | B2 Ch 1 |
+| Marcus Thorne | Appearance + Recent History | B1 Ch 46 last appearance | B2 Ch 1: Sits beside Aurielle (right) — dynamic inverted from assessor to executor. Paper folio (post-BLACKWEIR shift from datapads). Provides real conductivity numbers privately (7x not 3x). Personnel authorization prepared (6-person atmospheric analysis team, internal transfers). "Eduardo would have named it already." Seeds Ch 10 SHEPHERD naming. | B2 Ch 1 |
+| David Hargrave | New character (background) | — | COO. Eighteen months in role. Presents quarterly financials — containment expenditure, margins, reclassification. "Good with numbers in the way that mattered here, which was not accuracy but presentation." First name David. | B2 Ch 1 |
+| Marchetti | New character (background) | — | VP Strategic Development (role created week after BLACKWEIR, reports to the Chair). Presents Anchor Zone atmospheric monitoring. Legal-coached pauses. Four-month feasibility timeline proposed. | B2 Ch 1 |
+| Hendricks | New character (background) | — | General Counsel. Asks about FAS exposure. Single functional line. | B2 Ch 1 |
+
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
 
-_Last updated: 2026-02-19 (B2 Ch 2 — Nephthys Counter-Liturgy)_
+_Last updated: 2026-06-22 (B2 Ch 1 — Aurielle "The Chair")_
 _Updated by: Chapter-write workflow (quick mode)_

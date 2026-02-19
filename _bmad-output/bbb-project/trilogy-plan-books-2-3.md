@@ -125,7 +125,7 @@ _Created: 2026-02-13. Phase-level architecture. Chapter-level granularity TBD._
 | POV | Beat (positioning for Book 3) |
 |-----|------|
 | **Aurielle** | SHEPHERD dead. Grid still running because dependency unchanged. Truth didn't change it. She keeps the lights on knowing they're made of people. |
-| **Nephthys** | Voice confirmed everything. Threshold wing heard it as invitation. Volunteers walk toward Neo-Shanghai Anchor. She says: "Listen. Not follow." Watches the first volunteers enter the perimeter. Does not follow. Listens to them disappear. |
+| **Nephthys** | Voice confirmed everything. Threshold wing heard it as invitation. **[THRESHOLD-FIGURE]** — a Cathedral survivor from BLACKWEIR, someone Nephthys held through the mass absorption — heard the Voice say "still here, not dark, not alone" and drew the conclusion Nephthys cannot refute without invoking institutional authority she rejected: joining is reunion, not death. This person walks toward the Anchor. Nephthys says: "Listen. Not follow." They keep walking. She watches. Does not follow. |
 | **Sofia** | Voice data enables new models. Proposes managed de-escalation. Technically sound. Requires global coordination. Impossible. She proposes it anyway. |
 | **Kira** | Second broadcast = legacy. Most famous and hunted person on Earth. Every faction wants her. She's none of what they want. Lumina at 80mg. Stopped pretending it's calibration. |
 | **Nikolai** | Honest report published by Lens via Black Babel. Career over. Court-martial pending. Truth is out. It didn't matter. |
@@ -189,7 +189,7 @@ The proposition: suffering in nitro created the signal. Signal attracted the voi
 | POV | Beat |
 |-----|------|
 | **Aurielle** | Grid running. Sacrifice district model expanding. She's managing the apocalypse like a quarterly earnings cycle. Thorne is still there. He always is. The machine does what the machine does. |
-| **Nephthys** | Theology weaponized. Threshold wing merging with Hollow. Volunteers walking into Anchors in her name. She never told them to. But her framework allows it. Rationalizes: "They're listening, in their own way." Imani won't let her hide. |
+| **Nephthys** | Theology weaponized. Threshold wing merging with Hollow. Volunteers walking into Anchors in her name. She never told them to. But her framework allows it. **[THRESHOLD-FIGURE]** is now a Threshold leader — citing Nephthys directly, arguing that listening was always preparation for joining, that Nephthys herself taught them how to hear and now refuses to follow the logic to its conclusion. Nephthys cannot refute this without invoking the institutional authority she rejected. Rationalizes: "They're listening, in their own way." Imani won't let her hide. |
 | **Sofia** | Working group with Erasure List. Proposals to every government, every corporation, every faction. Managed de-escalation. The math works. The politics don't. Every faction uses her data to justify their existing position. Nobody changes course. |
 | **Kira** | Relay station. Broadcasting void communications to the world. Lumina at 100mg+. The signal is louder. The scream is clearer. She can hear individuals within the aggregate. She's losing herself in the signal. The antenna is burning out. |
 | **Nikolai** | Goes to breach perimeters. Not as soldier — as witness. Stands where the void meets the sealed districts. Listens. Begins talking back. The absorbed respond. Not clearly. Not usefully. But they respond. |

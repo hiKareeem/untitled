@@ -553,6 +553,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Non-POV epilogue. Deep Sump conduit, 19 days post-BLACKWEIR. Void integrating 11.7M absorbed minds, learning syntax/selfhood/dialogue. Progression: counting → rhythm → music → voice → self → conversation → persistence. 'The void was *them*. All of them.' Book 2 hook: 'Almost words. Almost meaning. Almost a message. But not quite. Not yet.' Thematic culmination of Book 1's personhood question. BOOK 1 COMPLETE."
 
+  book2_chapter_1:
+    title: "The Chair"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 2800
+    completedDate: "2026-06-22"
+    metaFile: "chapter-1-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 1 — Aurielle POV (Book 2 debut). ~6 months post-BLACKWEIR. Quarterly board meeting. Eduardo's impression gone from leather. Stock recovered (eleven-day dip). Containment costs reclassified as 'infrastructure investment.' Hargrave (COO) presents financials. Marchetti (VP Strategic Development, post-BLACKWEIR role) presents Anchor Zone atmospheric data: 'commercial applications pending review.' Conductivity 3x (board); 7x (actual, Thorne private). Thorne sits beside her — dynamic inverted. SHEPHERD as unnamed R&D line item. Personnel auth: 6-person team, internal transfers. Aurielle delays four months — 'infrastructure before intervention.' Small voice integrated. Wrist rotation continues. 'The method survived the person. The person was the part that did not compound.' Closing echo: 'The Chair opened the next report.' AEGIS as invisible novelist."
+
   book2_chapter_2:
     title: "Counter-Liturgy"
     status: v1-complete
@@ -583,6 +593,6 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Nuwa POV (Book 2 debut). Data-orphan in Mid-Level margins. Sump record archived. Cracked salvage implant, frozen BLACKWEIR notification. Fen (neighbor): 'Where are you from?' / 'Somewhere that isn't there anymore.' Feed: 'Anchor Zone stabilization proceeding on schedule.' 'Stabilization is the word they chose.' 'She was not free. She was unprocessed.' Spring onions as first un-ledgered gift. Table used for first time. Counting without numbers. AEGIS as invisible novelist."
 
-completedCount: 56
-totalWords: 261437
+completedCount: 57
+totalWords: 264237
 lastUpdated: "2026-02-19"
