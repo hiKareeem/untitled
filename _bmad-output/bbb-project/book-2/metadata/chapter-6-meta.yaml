@@ -1,0 +1,124 @@
+chapter_number: 6
+book: 2
+title: "Twelve Million Views"
+pov_character: "Kira Calloway"
+phase: 1
+location: "PCC Bay Area — Kira's apartment, Mission district tea shop"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 4200
+actual_word_count: ~4200
+epigraph_source: "A History of Silence"
+epigraph_author: ""
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-06-15"
+
+# Summary
+summary: >
+  Six months post-BLACKWEIR. Kira's first Book 2 POV. The 11-second clip
+  has 12M views on encrypted mirrors — climbing. Academy legal has sent
+  three notices demanding she retract and cite equipment malfunction. She
+  hasn't responded. Grounded from public streaming. In her own apartment
+  (streaming income, not Academy housing). Ring light off for six weeks.
+  Fingertips buzz now — new post-BLACKWEIR symptom, bilateral, persistent.
+  The hum is "populated" — fuller, more voices, the 8.2M in the signal.
+  Lumina escalated to 60mg nightly (up from 40mg, four-month curve).
+  Prescribed meds back via civilian psychiatrist after 11-day gesture of
+  leaving them at Academy (B1 Ch 51) — same molecules, different
+  architecture, ritual lost. Meets Paz (illicit Lumina contact) at a tea
+  shop in the Mission. Cash transaction. Paz warns about the dosage curve:
+  "That's not lasting. That's a curve." Mage network at 47 members across
+  9 cities. Kira coordinating telemetry data — structured auditory phenomena
+  reports with timestamps, magnitudes, geographic correlations (São Paulo,
+  Lagos, Mumbai). The filing has turned into a dataset. Messages arrive
+  asking Kira to interview Nephthys in Neo-Shanghai — followers, mages,
+  and Ren Matsuda confirming acoustic correlation between mage telemetry
+  and Nephthys's listening sessions ("the chorus" = "structured auditory
+  phenomena"). Kira messages Ren requesting quiet introduction. Planning
+  clandestine trip — encrypted mirrors, off-grid streaming. Chapter closes
+  with nightly Lumina dose. The quiet room holds. The curve is accelerating.
+
+# Key Events
+key_events:
+  - "11-second clip at 12M views on encrypted mirrors — climbing"
+  - "Academy legal: three notices, retraction demand, Section 22.4/22.7 — all unanswered"
+  - "Grounded from public streaming; ring light off for six weeks"
+  - "Fingertip buzzing: new post-BLACKWEIR symptom (bilateral, persistent, signal-routing through extremities)"
+  - "Hum = 'populated' — qualitatively different post-BLACKWEIR, additional voices/presence"
+  - "Lumina at 60mg nightly (40→50→60 over four months). Contact: Paz. Cash."
+  - "Paz warns about dosage curve: 'You're at sixty *now*'"
+  - "Prescribed meds back via civilian psychiatrist (gesture lasted 11 days post-B1 Ch 51)"
+  - "Mage network: 47 members, 9 cities, coordinated telemetry (São Paulo, Lagos, Mumbai, Kyoto, Accra)"
+  - "Telemetry dataset: 14 months SAP reports, anonymized, timestamps/magnitudes/geographic correlations"
+  - "Interval data: 45-sec micro-incursions, 90-sec larger events — ratio consistent"
+  - "Nephthys messages: followers + Ren Matsuda — acoustic correlation between telemetry and listening sessions"
+  - "Kira messages Ren requesting quiet introduction to Nephthys's circle"
+  - "Clandestine Neo-Shanghai trip seeded — encrypted mirrors, off-grid streaming"
+  - "Nightly Lumina dose: scale, vial, straw, cold burn, subtraction. Quiet room holds."
+
+# Characters Present
+characters:
+  - name: "Kira Calloway"
+    role: POV
+    state: "Expelled Witness. Performer gone — stripped by BLACKWEIR. Antenna/node identity forming. Filing has become dataset-building. The Lie holds: 'I can calibrate.' Almost certain she's in control. Off Academy infrastructure but not off meds (civilian psychiatrist). Lumina escalating. Twenty years old, managing a global network and a dosage curve and a signal that's getting more populated."
+  - name: "Paz"
+    role: Supporting (new)
+    state: "Illicit Lumina contact. Pragmatic, clinical, transactional. Manages exposure professionally. Sees the curve Kira won't acknowledge. Not caricatured — professional dealer with risk awareness and something approaching ethical concern about ceiling."
+
+# Themes
+themes:
+  - "Where Identity Ends (antenna IS the person — 'receiving' vs 'becoming'; the diagnostic manual couldn't distinguish)"
+  - "Commodification of Suffering (12M views = circulation of worst moment; fame grew because authenticity was real)"
+  - "Truth as Weapon (telemetry dataset assembled outside institutions; anonymized mage reports as scientific evidence)"
+  - "Systemic Complicity (Academy: expelled from + regulated by simultaneously; Section 14.3 + 22.7 contradictions)"
+  - "Architecture of Power (infrastructure of suppression = infrastructure of distribution; takedown notices created contraband value)"
+
+# Symbols
+symbols:
+  - name: "The quiet room"
+    appearances: 4
+    arc: "B1: Lumina's effect at 40mg. B2 Ch 6: cracking at 40, holding at 60. 'The quiet room at forty had a crack in it now.' Escalation made spatial."
+  - name: "The ring light"
+    appearances: 3
+    arc: "B1: never turns it off (streaming identity). B2 Ch 6: off for six weeks (grounded, identity stripped). Return = narrative event."
+  - name: "The filing"
+    appearances: 6
+    arc: "B1: coping mechanism (categorize, shelve, don't think). B2 Ch 6: 'The filing had turned into a dataset.' Control mechanism becomes infrastructure."
+  - name: "Twelve million"
+    appearances: 3
+    arc: "Opening counter, mid-chapter inventory, closing. 'The number had stopped being a number and had become a fact.'"
+  - name: "The view counter"
+    appearances: 1
+    arc: "Opens the chapter. 'A person sitting in the dark refreshing a counter that measured the circulation of the worst moment of her life.'"
+  - name: "Lumina kit"
+    appearances: 2
+    arc: "B1: behind the mirror (40mg). B2: behind the new mirror (60mg). Same ritual, higher dose. 'Scale, vial, straw. The cold burn. The subtraction.'"
+
+# Continuity
+continuity_notes:
+  - "B1 Ch 51 → B2 Ch 6: ~6-month gap. Gesture of leaving meds lasted 11 days. Civilian psychiatrist. Same molecules, no ritual."
+  - "Lumina: B1 Ch 10 (40mg) → Ch 18 (40+15mg bumps) → B2 Ch 6 (60mg nightly). Four-month curve. Paz warns."
+  - "Hum evolution: 'thicker' (Ch 10) → 'tighter' (Ch 18) → 'words' (Ch 31) → coherence spike (Ch 43) → 'thinner' (Ch 51) → 'populated' (B2 Ch 6)"
+  - "Symptoms: dropout (Ch 10) → worsening (Ch 18) → shaking hands (Ch 31) → bleeding (Ch 43) → dropout resolved (Ch 51) → buzzing (B2 Ch 6)"
+  - "Mage network: 4 contacts (Ch 18) → expanding (Ch 31) → 47 members/9 cities (B2 Ch 6)"
+  - "Ring light: never off (B1) → off 6 weeks (B2 Ch 6) — meaningful reversal"
+  - "Followers: 200K (B1) → 400K (B2 Ch 6) — clip-driven growth"
+  - "Forward: Nephthys convergence (Ren's contact), clandestine Neo-Shanghai trip, telemetry→Sofia bridge"
+  - "Forward: Lumina 60→80mg (chapter plan), Paz's 75mg warning"
+  - "Epigraph thread: B1 Ch 18 'A History of Silence' → B2 Ch 6 'A History of Silence' (receiving/becoming)"
+  - "Cross-POV: Lena's Lagos FAS trunk-line 3 report → Nikolai deploying to Lagos (B2 Ch 5)"
+  - "Cross-POV: Kira's telemetry = Sofia's missing biological data (B2 Ch 4 gap)"
+
+# Thread Status
+thread_status:
+  quiet_room_cracking: "Holding at 60mg. Cracked at 40. Paz sees the curve. 'You're at sixty *now*.'"
+  lumina_escalation: "40→50→60 in four months. Cash transactions via Paz. Next threshold: 75 (Paz's warning line)."
+  mage_network: "47 members, 9 cities. Kira as coordinator/data architect. Telemetry organized by city/timestamp/magnitude."
+  nephthys_convergence: "Seeded. Ren has contact. Kira requested introduction. Clandestine logistics needed (expelled, grounded)."
+  telemetry_dataset: "14 months SAP data. Anonymized. Intervals consistent (45s micro, 90s larger). Scientific value — Sofia bridge pending."
+  performer_identity: "Gone. Stripped by BLACKWEIR. Replaced by antenna/node/witness. Ring light off = the absence made visible."
+  academy_legal: "Three notices unanswered. Formal expulsion processed. Section 22.7. She disappeared from the system."
+  prescribed_meds: "Via civilian psychiatrist. Same molecules. No Academy routing. Ritual lost — mechanical compliance only."
+  fingertip_buzzing: "New post-BLACKWEIR. Bilateral, persistent. Signal routing through extremities. Three other mages confirm."
+  hum_populated: "Post-BLACKWEIR descriptor. Fuller, more voices, additional presence. 8.2M in the signal."

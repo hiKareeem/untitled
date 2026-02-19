@@ -105,4 +105,36 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
-_Last updated: 2026-02-19_
+### Chapter 6 — "Twelve Million Views" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-sustained (numbness) → medium (institutional defiance) → low-medium (symptoms) → medium-spike (Paz confrontation) → medium-sustained (telemetry work) → rising (Nephthys pull) → resolving (Lumina dose, quiet room)
+**Pacing:** Five-section structure with natural escalation. Opens contemplative, rises through Paz scene, sustains through telemetry, peaks at Nephthys logistics, resolves with nightly dose. No single scene dominates — even distribution.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| View counter + apartment + legal | ~800 | Low-sustained | Contemplative, institutional language parsed internally |
+| Symptoms (fingertips, hum) | ~600 | Low-medium | Diagnostic, physical catalogue, filing |
+| Lumina escalation + Paz scene | ~1,000 | Medium-spike | Dialogue breaks contemplation; Paz = external mirror; transactional tempo |
+| Telemetry coordination | ~800 | Medium-sustained | Data work, organizational rhythm, streamer-as-architect |
+| Nephthys messages + logistics | ~700 | Rising | Pull toward action; messages accelerate; planning begins |
+| Closing (Lumina dose, quiet room) | ~300 | Resolving | Ritual tempo; chemical recession; compressed closing |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — Kira's cognitive register is hypotactic (long subordinate chains, pattern-seeking machinery visible in sentence structure)
+- Paz scene is the rhythmic break — dialogue provides paratactic contrast to Kira's internal voice. Shortest exchanges in the chapter ("It's lasting." / "That's a curve.") create staccato against flowing narration.
+- Telemetry data blocks (São Paulo, Lagos, Mumbai) provide visual and rhythmic structure — formatted entries interrupt prose flow, creating the experience of data-as-texture
+- Closing compresses: 3 paragraphs move from ritual (Lumina) to resolve (Neo-Shanghai) to stasis (quiet room). Shortest section, highest density.
+- "She was almost certain she was in control" = recurring refrain, rhythmic anchor carried from B1
+- Section breaks (---) mark mode shifts: apartment/interior → symptoms → external (Paz) → data work → messages → closing ritual
+
+**Dialogue Percentage:** ~8% (concentrated in Paz scene; remainder is messages/data displayed as text, not spoken)
+
+**Pacing Concern:** Telemetry data blocks risk info-dump. Mitigated by limiting to 3 entries, formatting as displayed HUD text (visual break), and framing through Kira's organizational instinct rather than data delivery. Reader processes them as texture, not exposition.
+
+**Structural Note:** First Kira chapter without a streaming scene. The ring light is off. The LED strip cycles without purpose. The streaming chair is occupied but the stream isn't running. The absence of the performance framework — which structured every B1 Kira chapter — creates a different rhythmic environment: no performer/real-self oscillation, just the person underneath doing work she didn't plan to do.
+
+---
+
+_Last updated: 2026-06-15_

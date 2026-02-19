@@ -66,4 +66,19 @@
 
 ---
 
-_Last updated: 2026-02-18_
+### Chapter 6 — "Twelve Million Views"
+
+**Kira Calloway (POV):**
+- **Entering State:** Post-BLACKWEIR stasis. Performer gone. Expelled. Grounded. Ring light off. The person underneath exists but doesn't know what shape she is yet.
+- **Emotional Arc:** Numbness (view counter) → institutional defiance (legal notices) → physical cataloguing (symptoms) → chemical management (Lumina/Paz) → purposeful organization (telemetry) → pull toward action (Nephthys) → chemical recession (quiet room) → resolve forming
+- **Dominant Emotion:** Controlled drift — not grief, not rage, not performance. The emotional register of a person who has stopped pretending and hasn't started living yet. Filing as emotional management. Almost-certain-she's-in-control as the remaining structure.
+- **Key Emotional Beat:** Paz saying "You're at sixty *now.*" — the only moment another person sees through Kira's self-narrative. The curve made visible by someone outside the quiet room.
+- **Exiting State:** Quiet room holding. Sixty holding. Resolve forming (Neo-Shanghai, Nephthys). Not tonight — but soon. The antenna knows it's going to move.
+- **Emotional Shift:** From passive reception (view counter, legal notices, symptoms — things happening to her) to active construction (telemetry, Ren message, logistics planning — things she's choosing to do). The arc of the chapter is the shift from filed-upon to filing-for-purpose.
+
+**Paz (Supporting):**
+- **Emotional Register:** Clinical pragmatism with undertow of concern. Doesn't look at Kira (exposure management). Counts milligrams the way Kira counts mages — professionally, because the counting is the job. "My ceiling is my problem" / "Your ceiling is my problem when you show up asking for seventy-five" — the only person in the chapter who names the trajectory.
+
+---
+
+_Last updated: 2026-06-15_

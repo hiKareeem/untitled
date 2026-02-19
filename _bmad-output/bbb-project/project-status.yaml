@@ -603,6 +603,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Sofia POV (Book 2 debut). Two-part structure: Part 1 (weeks post-BLACKWEIR) = Novak office scene, marginalization moment, 0.98 correlation presentation, reassignment delivered, 'Delete that' exit. Part 2 (six months post-BLACKWEIR) = VEC housing 61st floor, assembly begins, Mirelle's dead-hand evidence + atmospheric data + Solberg fragments, biological data gap, cross-referencing work, midnight. Epigraph: VEC Research Integrity Guidelines §12.4 (oblique, institutional epistemology). Tightened overlap with B2 Ch 11 (package specifics reserved). Novak scene echoes B1 Ch 33 staging. AEGIS as invisible novelist."
 
-completedCount: 58
-totalWords: 264237
-lastUpdated: "2026-02-19"
+  book2_chapter_6:
+    title: "Twelve Million Views"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4200
+    completedDate: "2026-06-15"
+    metaFile: "chapter-6-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Kira POV (Book 2 debut, 6th appearance overall). ~6 months post-BLACKWEIR. 11-second clip at 12M views. Academy legal demands retraction — refuses. Grounded from streaming. Lumina escalated to 60mg (contact: Paz, illicit, tea shop, cash). Prescribed meds via civilian psych (gesture of leaving lasted 11 days). Mage network: 47 members, 9 cities, coordinated telemetry (São Paulo/Lagos/Mumbai). Nephthys convergence seeded: Ren confirms acoustic correlation, Kira plans clandestine Neo-Shanghai trip. Epigraph: 'A History of Silence' (receiving/becoming). AEGIS as invisible novelist."
+
+completedCount: 59
+totalWords: 268437
+lastUpdated: "2026-06-15"

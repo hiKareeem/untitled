@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-19"
-lastChapter: "B2 Ch 3"
+lastUpdated: "2026-06-15"
+lastChapter: "B2 Ch 6"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -618,10 +618,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 5/5 (New Equilibrium — Transformation complete)
-- Emotional State: Quiet. No performance layer. The person underneath the brand exists and has testified. Refuses to sign Academy's equipment malfunction statement — not because she's decided to speak publicly, but because she can't sign something that erases the absorbed. Operational status under review (indefinite). No plan for what comes next. Only knows what she won't do. Pills left behind. The refusal is identity.
-- Dominant Beliefs: "The absorbed weren't a malfunction. They were people. They were still there." (The Lie destroyed — she no longer believes controlling the platform controls the narrative)
-- Internal Contradictions: None remaining. The transformation is complete. She is a witness who refuses to lie.
+- Phase: 1/5 Book 2 (Expelled Witness — New Stasis)
+- Emotional State: Controlled drift. Performer gone — stripped by BLACKWEIR, not recoverable. Filing as emotional management. Almost-certain-she's-in-control as remaining structure. The person underneath exists but doesn't know what shape she is yet. Antenna/node identity forming through mage network coordination.
+- Dominant Beliefs: "The absorbed were people. They are still there." (Book 1 Lie destroyed.) New Book 2 Lie forming: "If I can calibrate, I can handle the load" — believes the 60mg will hold, believes the network is manageable, believes she can choose when to act.
+- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina escalating). Wants to be seen as person, not weapon — but the network sees her as antenna. The filing that was coping is becoming purpose, and she hasn't noticed the transition.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -633,16 +633,30 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
 | Dex | Group chat (Academy friend) | Warm | Comic normalizer; meme-fluent; affectionate mockery |
-| Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 11:30 UTC; question unanswered |
-| Tomás | Group chat (São Paulo program) | Warm | Connected through streamer circuit; playful |
-| Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; uses implant as Academy intended; minimal, precise |
-| Streaming audience | Performance | Surface | ~200K followers; armor and cage; parasocial bond with color palette |
-| Varma Academy | Institutional | Controlling | Wants her to sign "equipment malfunction" statement |
+| Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 11:30 UTC; original catalyst |
+| Tomás | Mage network (São Paulo) | Warm | Connected through streamer circuit; telemetry contributor |
+| Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; minimal, precise |
+| Ren Matsuda | Mage network (Kyoto, research) | Trusted | Documents everything; first to message (B1 Ch 18); now has contact in Nephthys's circle |
+| Lena Okafor | Mage network (Lagos, active) | Professional | Direct; telemetry contributor; Lagos FAS trunk-line data |
+| Paz | Lumina contact | Transactional | Illicit dealer; sees the dosage curve Kira won't; pragmatic concern |
+| Streaming audience | Performance (suspended) | Surface | ~400K followers (up from 200K); watching dark channel; sending Nephthys messages |
+| Varma Academy | Institutional (severed) | Adversarial | Three legal notices unanswered; formally expelled under Section 22.7 |
+| Nephthys | Unaware (awareness forming) | Potential | Knows name from Feed/followers; Ren's acoustic correlation; planning clandestine contact |
 
-**Current Arc:** Performer → Witness → Someone Who Refuses to Lie
-- Current Phase: 5/5 (New Equilibrium — arc complete)
-- Progression: Ch 10 suppression → Ch 18 mage network → Ch 31 "it's words" → Ch 43 eleven-second spike (performer shattered) → Ch 51 unsigned document (transformation complete). The refusal to sign is her first autonomous act that isn't performance. She doesn't know what comes next. She only knows she can't erase the absorbed. The testimony is the person underneath.
-- Book 1 Complete: Final Kira POV. Arc resolved. Unconscious want achieved (seen as person through refusal, not performance). Deepest fear confronted (there IS someone underneath the brand).
+**Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast → 80mg
+- Current Phase: 1/5 Book 2 (Expelled Witness, networking, refusing retraction)
+- Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
+- Book 2 Progression: B2 Ch 6 — expelled, grounded, 12M views, network at 47, telemetry coordinator, Nephthys convergence seeded. New Lie: "If I can calibrate, I can handle the load."
+
+**Recent History (B2 Ch 6):**
+- Bay Area, own apartment (streaming income). ~6 months post-BLACKWEIR. Ring light off 6 weeks.
+- 11-second clip at 12M views on encrypted mirrors. Academy legal: 3 notices demanding retraction under Section 22.4/22.7. All unanswered. Formally expelled.
+- Prescribed meds: Left at Academy (B1 Ch 51) as gesture. Back on via civilian psychiatrist within 11 days. Same molecules, no Academy routing. Pill-sorting ritual lost — mechanical compliance only.
+- Lumina: Escalated to 60mg nightly (up from 40mg B1). Four-month curve (40→50→60). Contact: Paz (illicit dealer, tea shop in Mission, cash). Paz warned about ceiling: "You're at sixty *now.*"
+- Symptoms: Fingertip buzzing (new, post-BLACKWEIR, bilateral, persistent — signal routing through extremities). Hum = "populated" (8.2M in the signal, fuller, additional presence).
+- Mage network: 47 members, 9 cities. Kira coordinating telemetry — SAP reports with timestamps, magnitudes, geographic correlations. 45-sec intervals (micro-incursions), 90-sec (larger events). Anonymized master log. The filing has become a dataset.
+- Nephthys convergence: Messages from followers + Ren Matsuda confirming acoustic correlation between mage telemetry and Nephthys's listening sessions ("chorus" = "SAP"). Kira requested quiet introduction via Ren's contact. Planning clandestine Neo-Shanghai trip (encrypted mirrors, off-grid).
+- Followers: ~400K (up from 200K). Watching dark channel.
 
 **Recent History (Ch 51):**
 - Varma Academy Medical Facility, PCC Bay Area (transferred from Bay Area General 6 hours post-spike for continuity of care — Varma fitted her implant, R3 specialist team knows baseline). 8 days post-BLACKWEIR.
@@ -711,7 +725,7 @@ This bible dimension tracks **current character states**:
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
-| Kira | Performer → Witness → Someone Who Refuses to Lie | 5/5 | Ch 51 — unsigned document; Book 1 arc complete |
+| Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 1/5 (B2) | B2 Ch 6 — expelled witness, 12M views, network 47/9 cities, telemetry coordinator, Nephthys seed |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 

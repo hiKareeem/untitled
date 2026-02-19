@@ -71,4 +71,25 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
-_Last updated: 2026-02-19_
+### Chapter 6 — "Twelve Million Views" (Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Antenna/node | "She was an antenna. She was a node." Platform identity stripped by BLACKWEIR; replaced by signal-receiver identity she didn't choose. Epigraph: "receiving" vs "becoming" — the diagnostic manual couldn't distinguish. |
+| Commodification of Suffering | Viral circulation | 12M views = worst moment circulating as content. "The clip had made her more famous, more valuable, more visible at the exact moment she'd been told to disappear." Fame grew because authenticity was real — the realness is what destroyed her. |
+| Truth as Weapon | Telemetry dataset | Anonymized mage reports assembled into scientifically valuable dataset outside any institution. "The kind of dataset a scientist would build a correlation model from." Streamer skills repurposed: categorize, label, make legible. |
+| Systemic Complicity | Academy contradictions | Expelled from + regulated by the same institution simultaneously. Section 14.3 (don't discuss) + Section 22.7 (retract what you showed). Legal notices as institutional syntax for reality management. |
+| Architecture of Power | Suppression = distribution | "The infrastructure of suppression was also the infrastructure of distribution." Takedown notices created contraband. Encrypted mirrors did what encrypted mirrors do. |
+
+**Key Resonance:** Where Identity Ends ↔ Commodification of Suffering. The clip commodifies the moment the performer layer shattered — 12M people consuming the moment Kira stopped being a performance and became a person. The audience grew *because* the authenticity was real. The epigraph ("receiving" vs "becoming") sits exactly at this intersection: when does the signal stop passing through the antenna and start *being* the antenna?
+
+**Epigraph Integration:** "By 2138, the distinction between 'receiving' and 'becoming' had been removed from the diagnostic manual. The committee offered no replacement." — *A History of Silence*
+- Thematic function: Institutional failure to categorize what's happening to mages
+- Payoff: Kira is becoming the signal. The Academy's response (Section 14.3, retraction demands) mirrors the committee's: remove the category rather than investigate.
+- Thread: Same source as B1 Ch 18 — institutional silences as documentary record.
+
+**Dataset as Infrastructure:** The filing-as-coping-mechanism from B1 has evolved into filing-as-infrastructure. Kira doesn't know she's building what Sofia needs. The unconscious bridge between POVs: a streamer organizing mage data and a scientist missing biological data are two halves of the same dataset separated by institutional silos that neither can see through.
+
+---
+
+_Last updated: 2026-06-15_
