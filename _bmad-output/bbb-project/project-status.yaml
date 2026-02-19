@@ -553,6 +553,16 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Non-POV epilogue. Deep Sump conduit, 19 days post-BLACKWEIR. Void integrating 11.7M absorbed minds, learning syntax/selfhood/dialogue. Progression: counting → rhythm → music → voice → self → conversation → persistence. 'The void was *them*. All of them.' Book 2 hook: 'Almost words. Almost meaning. Almost a message. But not quite. Not yet.' Thematic culmination of Book 1's personhood question. BOOK 1 COMPLETE."
 
-completedCount: 53
-totalWords: 249937
-lastUpdated: "2026-02-17"
+  book2_chapter_8:
+    title: "Somewhere That Isn't"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 3600
+    completedDate: "2026-02-19"
+    metaFile: "chapter-8-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Nuwa POV (Book 2 debut). Data-orphan in Mid-Level margins. Sump record archived. Cracked salvage implant, frozen BLACKWEIR notification. Fen (neighbor): 'Where are you from?' / 'Somewhere that isn't there anymore.' Feed: 'Anchor Zone stabilization proceeding on schedule.' 'Stabilization is the word they chose.' 'She was not free. She was unprocessed.' Spring onions as first un-ledgered gift. Table used for first time. Counting without numbers. AEGIS as invisible novelist."
+
+completedCount: 54
+totalWords: 253537
+lastUpdated: "2026-02-19"

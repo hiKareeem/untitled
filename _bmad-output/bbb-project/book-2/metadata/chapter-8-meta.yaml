@@ -1,0 +1,111 @@
+chapter_number: 8
+book: 2
+title: "Somewhere That Isn't"
+pov_character: "Nuwa Lin"
+phase: 1
+location: "Neo-Shanghai Mid-Levels"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 3600
+actual_word_count: ~3600
+epigraph_source: "Neo-Shanghai Municipal Services"
+epigraph_ref: "Anchor Zone Administrative Notice, posted Feed-wide"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  First Nuwa POV in Book 2. Six months post-BLACKWEIR. Data-orphan in the
+  Mid-Level margins — Sump residential record archived when the district was
+  reclassified as Anchor Zone, no Mid-Level credential. Lives in a converted
+  warehouse on Mid-Level 4 that doesn't inspect credentials, paying nine creds
+  a day in unregistered transactions. Cracked salvage implant with frozen
+  BLACKWEIR notification she can't dismiss. Morning inventory: creds, food,
+  implant status. A neighbor named Fen asks where she's from. "Somewhere that
+  isn't there anymore." Fen gives her spring onions — the first un-ledgered
+  gift, which breaks Nuwa's transaction reflex. The Feed reports "Anchor Zone
+  stabilization proceeding on schedule" — municipal language for mass death.
+  "Stabilization" is the word they chose. "Formerly" converts a place into a
+  tense. "She was not free. She was unprocessed." Evening: cooks the spring
+  onions, eats at the table for the first time (reserved for Fuxi, who hasn't
+  visited). Counts without numbers — the buildings, block by block. The Feed's
+  words are wrong. That certainty is the first ground she's had in six months.
+
+# Key Events
+key_events:
+  - "Morning inventory: 412 creds, 6 days of food, cracked implant, frozen BLACKWEIR notification"
+  - "Implant itch — cracked housing from 11-second pulse, can't repair (no credentials), can't replace (no creds)"
+  - "Possession inventory: one bowl, one pair of chopsticks, one mug, one change of clothes, one mattress, one temporary ID"
+  - "Fen (Unit 9 neighbor) asks 'Where are you from?'"
+  - "'Somewhere that isn't there anymore' — the chapter's signature line"
+  - "Spring onions accepted — first un-ledgered gift, breaks transaction reflex"
+  - "Feed: 'Anchor Zone Stabilization Update: Phase 2 Remediation On Schedule' — Director Zhao"
+  - "'Stabilization' is the word they chose. 'Formerly' converts a place into a tense."
+  - "'She was not free. She was unprocessed.'"
+  - "Evening: spring onions cooked, table used for first time (reserved for Fuxi)"
+  - "Closing count: buildings not creds — Block 7, 9, 11, 14. Counting without numbers."
+  - "'The Feed's words were wrong' — first certainty in six months"
+
+# Characters Present
+characters:
+  - name: "Nuwa Lin"
+    role: POV
+    state: "Data-orphan. Sump residential record archived. Exists in Mid-Level margins without credentials. Survival habits structured around invisibility. The Lie holds: stay invisible keeps me safe. First micro-cracks: spring onions (un-ledgered gift), table (domestic choice beyond survival minimum)."
+  - name: "Fen"
+    role: New character (neighbor)
+    state: "Unit 9. Mid-thirties. Dark hair. Sorting vegetables. Produce-stall or kitchen hands. Offers spring onions without transaction. Recognizes the shape of Nuwa's answer without pressing. Margin-dweller register."
+  - name: "Fuxi Lin"
+    role: Absent/referenced
+    state: "Has not visited. Table propped against wall 'for Fuxi, if Fuxi came.' Last seen B1 Ch 49 walking back into Sump toward Kindling."
+
+# Themes
+themes:
+  - "Irrelevance of Individual Being (residential record archived, credential server decommissioned, existence reduced to a temporary laminated card)"
+  - "Cost of Survival (standing to eat, four-minute packing time, transaction reflex, masonry routing — survival habits as the shape of unprocessed trauma)"
+  - "Commodification of Suffering (the Feed's vocabulary: 'stabilization' / 'formerly' / 'remediation' — institutional management of mass death)"
+  - "Where Identity Ends (between Sump gone and Mid-Levels doesn't belong — 'She had not been anywhere for six months')"
+
+# Symbols
+symbols:
+  - name: "The hum"
+    appearances: 5
+    arc: "Quieter than Sump → suggestion → E-flat absent → 'something she did not have language for' → closing ('humming')"
+  - name: "The implant"
+    appearances: 6+
+    arc: "Itching → cracked → degraded overlay → frozen notification → persistent heat → untouchable"
+  - name: "Spring onions"
+    appearances: 4
+    arc: "Offered → taken → 'green against grey' → cooked → closing image"
+  - name: "The inventory/counting"
+    appearances: "Bookends"
+    arc: "Opening: creds, room, food, implant (arithmetic) → Closing: blocks, buildings, memories (non-arithmetic). 'Counting the way a hand counts beads.'"
+  - name: "The table"
+    appearances: 2
+    arc: "Propped against wall (reserved for Fuxi) → used for first time (after spring onions)"
+  - name: "The temporary ID"
+    appearances: 3
+    arc: "In pocket → system's offer → not presented"
+
+# Continuity
+continuity_notes:
+  - "B1 Ch 42: Survived BLACKWEIR in masonry annex (wet cloth, stillness, cracked implant housing)"
+  - "B1 Ch 49: Walked out of relief shelter, declined re-housing, disappeared into Mid-Level crowd via Transit Shaft 7"
+  - "Temporary ID: Lin, Nuwa. Credential tier: Basic. Re-housing eligibility: Confirmed. No forwarding address."
+  - "Implant: salvage-grade, external-mount, behind left ear, cracked housing (hairline split from 11-second pulse)"
+  - "Frozen notification: 'Evacuation priority: None assigned' — can't dismiss (requires credential handshake)"
+  - "Chemical staining on fingertips — referenced as something she's stopped noticing"
+  - "Block 14, sixth floor — parents referenced (father/coolant, mother/coughing)"
+  - "E-flat / decommissioned junction — specific harmonic absent"
+  - "Masonry routing habit continuous from B1"
+  - "Currency: 'creds' (corrected from 'credits' during audit — B1 Ch 42 established term)"
+  - "Forward: Ch 9 (Fuxi visits, data chip), Ch 18 (mid-truth gives her language)"
+
+# Thread Status
+thread_status:
+  nuwa_data_orphan: "Active — Sump record archived, no Mid-Level credential, temporary ID unused"
+  nuwa_invisibility_lie: "Holding — comprehensive invisibility strategy operational. First micro-cracks: spring onions, table."
+  fuxi_absent: "Flagged — table propped against wall, hasn't visited. Ch 9 resolves."
+  feed_vocabulary: "'Stabilization' / 'formerly' / 'remediation' — Nuwa knows the words are wrong but doesn't have alternatives. Seeds mid-truth arc."
+  implant_degradation: "Tracking — cracked, degraded overlay, can't repair or replace. Progressive deterioration."
+  fen_neighbor: "Introduced — potential recurring character. Un-ledgered gift as first crack in transaction economy."
