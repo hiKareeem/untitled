@@ -30,7 +30,7 @@ summary: >
   containment): "Acoustic mimicry per doctrine. Non-actionable." The thirty-eighth time
   he has written these words. The first time as commission — not the gap between accurate
   and complete, but a statement he knows to be false, signed, authenticated, filed. Also
-  unreported: the sealed junction spatial anomaly. FAS liaison Major Diallo files a
+  unreported: the sealed junction spatial anomaly. FAS liaison Major Adjei files a
   favorable interoperability assessment. The clean VS-7 becomes evidence that PCC doctrine
   is transferable. His hand does not shake. That is worse.
 
@@ -50,7 +50,7 @@ key_events:
   - "VS-7 Field 22: 'acoustic mimicry per doctrine' — first commission (not omission)"
   - "Second commission: sealed junction anomaly unreported (Anomalous spatial observations: none)"
   - "Signed. Hand steady. 'That's worse.'"
-  - "FAS liaison Diallo files favorable interoperability assessment citing clean VS-7"
+  - "FAS liaison Adjei files favorable interoperability assessment citing clean VS-7"
   - "Field log: longest entry in six months — documents commission explicitly"
   - "Field log function shift: observation → confession"
 
@@ -59,7 +59,7 @@ characters:
   - name: "Nikolai Volkov"
     role: POV
     state: "Phase 2/5 Book 2 — Broken Doctrinaire, first commission. Body performs identically. The integration of the commission is not healing — it is institutional. Field log expanding. Jaw as marker. Hands-check ritual."
-  - name: "Major Diallo"
+  - name: "Major Adjei"
     role: Supporting (new)
     state: "FAS Engineering Corps, Breach Monitoring Division. Professional, competent. Files favorable interoperability assessment. Does not know what Nikolai heard in the corridor."
   - name: "Sergeant Lund"

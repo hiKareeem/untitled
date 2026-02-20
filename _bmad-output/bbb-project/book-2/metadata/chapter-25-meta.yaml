@@ -1,0 +1,144 @@
+chapter_number: 25
+book: 2
+title: "Different Doctrine"
+pov_character: "Nikolai Volkov"
+phase: 3
+location: "Lagos, FAS theater — Apapa industrial corridor / forward staging area / garrison quarters"
+timeline: "~8-9 months post-BLACKWEIR, Phase 3 (mid-truth published and circulating, SHEPHERD expanding, breach frequency accelerating globally)"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Void Stalker field log"
+epigraph_author: "Anonymous (undated)"
+epigraph_ref: "Epigraph thread continues from B1 Ch 11, 23, 38, 47; B2 Ch 5, 15"
+rhetoric_reference: "VS-7 after-action form (31 fields, free-text override); FAS cooperation framework; multinational deployment protocols"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+audit_file: "tracking/audits/audit-chapter-25.md"
+themes_file: "tracking/themes/chapter-25-themes.md"
+
+# Summary
+summary: >
+  Nikolai deploys with Stalker-7 to a Stage 2 breach in the Apapa industrial
+  corridor, Lagos, alongside FAS Breach Containment Division forces under Colonel
+  Afolabi. His training: aggressive containment, kinetic if necessary, collapse the
+  perimeter. FAS protocol: observation, acoustic dampening, managed redirection,
+  non-kinetic infrastructure severance. The breach stabilizes in 4.7 hours without
+  force. Zero secondary absorption events. The two absorbed figures at the junction
+  remain present, uncategorized by the FAS as casualties. Nikolai watches. Twenty
+  years of doctrine says this shouldn't work. It does.
+
+  Filing the VS-7 after-action, the form's dropdown offers no category for what
+  happened. He does not select the closest approximation. He types a free-text
+  override: "FAS non-kinetic containment achieved stable resolution in 4.7 hours.
+  Zero secondary absorption events. No kinetic intervention required." The first
+  honest VS-7 of his career. His CO will flag it for review.
+
+  In garrison quarters, he opens the field log. The most recent entry is six days
+  old — the Lagos hum sounding like the Corridor, like home. He writes the
+  deployment entry. The field log and the official report say the same thing tonight.
+  He sits with the absence of the gap. The architecture of suppression was also the
+  architecture of identity. Without the gap, the field log has no jurisdiction. The
+  man who lived in the jurisdiction has nowhere to stand. He does not know if filing
+  the honest report was courage or the disorientation of a man whose architecture was
+  removed for one evening. He does not know if it matters. He checks his hands.
+  Still. The closing image: Afolabi's hands on the dampening controls, Yelena
+  calibrating the converter by ear. The difference between a diagnostic and a tool.
+
+# Key Events
+key_events:
+  - "Stage 2 breach, Apapa industrial corridor, 06:14 local"
+  - "FAS non-kinetic containment — acoustic dampening + infrastructure severance (non-kinetic)"
+  - "Breach stabilizes 07:42 local, 4.7 hours, RCI 38.2 → 18.3"
+  - "Zero secondary absorption events"
+  - "Two absorbed present at resolution, uncategorized by FAS (non-combatant casualties in a persistent altered state)"
+  - "VS-7 dropdown has no category for FAS approach"
+  - "Free-text override filed — first honest VS-7 in Nikolai's career"
+  - "Field log convergence — first entry where official and private records say the same thing"
+  - "CO will flag for review — seeds Ch40 court-martial arc"
+  - "Corridor memory — Lagos hum = Novosibirsk relay station hum, Yelena calibrating by ear"
+
+# Characters Present
+characters:
+  - name: "Nikolai Volkov"
+    role: "POV"
+    arc_phase: "3/5 Book 2 — doctrine cracking, first honest report"
+  - name: "Colonel Afolabi"
+    role: "FAS district commander, Lagos (new character)"
+    arc_phase: "debut"
+  - name: "Stalker-7"
+    role: "Nikolai's unit (background, unnamed)"
+  - name: "Jarek Kowalski"
+    role: "referenced (absent) — carried in jaw, not language"
+
+# New Characters Introduced
+new_characters:
+  - name: "Colonel Afolabi"
+    faction: "FAS Breach Containment Division"
+    role: "Lagos district command"
+    description: "Woman in her fifties, grey eyes, steady. Compressed efficiency. Occupies authority without performing it. Delivers the chapter's thesis flatly: 'The breach responds. That is the operating assumption of the FAS containment doctrine.'"
+    planned_reappearance: "B2 Ch 31 (Lagos breach escalation)"
+
+# Themes
+dominant_themes:
+  - "Architecture of Power (DOMINANT) — VS-7 dropdown as institutional architecture"
+  - "Systemic Complicity (STRONG) — honest report as first crack"
+  - "Institutional Betrayal (STRONG) — form betrays the event"
+  - "Truth as Weapon (STRONG) — honest report enters the system"
+  - "Progress Requires Atrocity (MODERATE) — inverted"
+  - "Where Identity Ends (MODERATE) — still there"
+  - "What We Owe (MODERATE) — field log convergence"
+  - "Hope as Resistance (MODERATE) — uncertain"
+
+# Symbols
+symbols:
+  new:
+    - "VS-7 dropdown — architecture of institutional processing"
+    - "Acoustic dampening arrays — FAS equipment, doctrine that listens"
+    - "'The breach responds' — Afolabi's three words, FAS operating assumption"
+    - "Apapa industrial corridor — breach zone where different doctrine worked"
+    - "The Corridor (Novosibirsk) — memory trigger, Lagos hum = home hum"
+  evolved:
+    - "Hum discrepancy: 4.2/4.4 (Lagos, wider/shallower than Accra 5.9/6.0)"
+    - "Hands-check: reframed as diagnostic vs. calibration (Afolabi/Yelena)"
+    - "Field log: convergence function (first time official and private records match)"
+    - "'Still there' — evolves from vocalization (Ch15) to observation (Ch25)"
+    - "Window — Lagos at night, distributed amber glow, no vertical hierarchy"
+
+# Continuity Notes
+continuity:
+  timeline: "~8-9 months post-BLACKWEIR. Consistent with B2 arc. Mid-truth circulating months. SHEPHERD expanding."
+  hum_baseline: "Lagos garrison 4.2 Hz (Nikolai) / 4.4 Hz (instruments). Geographic, not temporal. Lower than Accra (5.9/6.0) and Neo-Shanghai (6.1/6.3)."
+  hands_check: "Four seconds, left index finger, still. Ritual not diagnostic. Thread maintained."
+  field_log_compulsion: "Within one hour, before debriefing/eating/sleep. Thread maintained."
+  jaw_reading: "One millimeter — lower than Ch5/Ch15 (two millimeters). Appropriate: trigger is structural (lattice geometry, three degrees off), not perceptual (vocalization). Deliberate calibration."
+  vs7_field22: "Not invoked — no anomalous acoustic events to report. Honest report bypasses Field 22 entirely."
+  plan_adherence: "All key beats from chapter-plan-book-2.md executed. Two deliberate divergences: cost reference omitted (Nikolai not thinking about economics); Corridor backstory added (thematic enhancement, not in plan)."
+
+# Flags for Future Chapters
+flags:
+  - "Colonel Afolabi needs bible entry — DONE (added to characters.md)"
+  - "Apapa industrial corridor added to locations bible — DONE"
+  - "VS-7 free-text override seeds Ch40 court-martial arc"
+  - "FAS classification 'non-combatant casualties in a persistent altered state' — in Nikolai's field log, not yet in operational vocabulary"
+  - "Yelena Volkov detail ('calibrating converter by ear') — first prose appearance, consistent with dossier, canonized"
+  - "B2 Ch 31 (Zeyad) — Lagos breach escalation, Afolabi present, Nikolai's honest report in review queue, convergence seeded"
+  - "B2 Ch 40 (Nikolai) — 'Jarek' chapter, court-martial arc, honest report generates inquiry"
+
+# Arc Markers
+arc_markers:
+  field_log_function: "convergence (Ch25) — official and private records say the same thing for the first time"
+  field_log_arc: "observation (Ch5) → confession (Ch15) → convergence (Ch25)"
+  suppression_arc: "omission (Ch5/11/20/23/38) → commission (Ch15) → honest report (Ch25)"
+  phase_marker: "Phase 3/5 Book 2 — first honest VS-7. Not courage: disorientation. The architecture of suppression was also the architecture of identity."
+
+# Cross-Chapter Connections
+cross_chapter:
+  backward:
+    - "B2 Ch 5 (Nikolai): field log contracting → Ch25 convergence. Contraction → confession → convergence arc complete for Phase 3."
+    - "B2 Ch 15 (Nikolai): first commission → Ch25 first honest report. Structural mirrors."
+    - "B2 Ch 17 (Zeyad): FAS model from UGC side. Same theater, different lenses. Neither knows the other exists yet."
+  forward:
+    - "B2 Ch 31 (Zeyad, planned): Lagos breach escalation. Nikolai + Zeyad + Afolabi. Honest report in review queue."
+    - "B2 Ch 40 (Nikolai, planned): 'Jarek' chapter. Honest report → inquiry → court-martial arc."

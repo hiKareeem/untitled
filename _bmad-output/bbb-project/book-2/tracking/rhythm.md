@@ -326,10 +326,10 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 **Scene Breakdown:**
 | Scene | Words | Tension | Tempo |
 |-------|-------|---------|-------|
-| Arrival / FAS framework | ~650 | Low-operational | Institutional language. Scale assessment. Diallo briefing. Cooperation framework as demonstration. |
+| Arrival / FAS framework | ~650 | Low-operational | Institutional language. Scale assessment. Adjei briefing. Cooperation framework as demonstration. |
 | Containment | ~750 | Medium-sustained | Breach routine. Lattice geometry. Three absorbed. Sealed junction anomaly. Kowalski in jaw. |
 | The two words | ~1,000 | Rising → peak | Hum shift structured. "Still here." Reyes document vocabulary. Mid-truth processed. Extraction. |
-| The form | ~1,050 | Rising → peak | VS-7 Field 22. Omission → commission. Signature. Hand steady. Diallo's favorable report. |
+| The form | ~1,050 | Rising → peak | VS-7 Field 22. Omission → commission. Signature. Hand steady. Adjei's favorable report. |
 | Field log / Close | ~700 | Contemplative → resolving | Longest entry in six months. Hands-check. Jaw. Window. Hum at 5.9. "Still here." Closing line. |
 
 **Rhythm Notes:**
@@ -341,7 +341,7 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 - Closing four paragraphs compress: hands-check → jaw → window → hum → "Still here" → closing line. Fastest section after the longest entry. The private record closes and the institutional world reasserts.
 - Final line ("He did not write it in the log again. He had already written it once today, in the wrong document.") — the chapter's only moment of dry self-awareness. "The wrong document" = the VS-7, the official record. The irony is structural: the lie is in the right document (the form), the truth is in the wrong one (the field log).
 
-**Dialogue Percentage:** ~4% (Diallo briefing, Nikolai's operational responses, Lund extraction confirmation, Diallo closing). Lowest dialogue chapter in Book 2. Appropriate for Nikolai's near-silent register.
+**Dialogue Percentage:** ~4% (Adjei briefing, Nikolai's operational responses, Lund extraction confirmation, Adjei closing). Lowest dialogue chapter in Book 2. Appropriate for Nikolai's near-silent register.
 
 **Pacing Concern:** Containment scene could feel procedural. Mitigated by the sealed junction anomaly (spatial impossibility introduced without comment — tension through what Nikolai does NOT say) and the Kowalski counterfactual ("Kowalski would have asked") which injects emotional weight into the tactical sweep.
 
@@ -353,6 +353,39 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 - Together: institutional processing → active falsification → the body performs identically. The institutional man's rhythm doesn't change when the lie changes from omission to commission.
 
 **Cross-Chapter Rhythm:** Ch 14 (Malachi) → Ch 15 (Nikolai) — consecutive chapters with structural parallel. Both are TEXTURE mode, both have institutional writing scenes (encyclical / VS-7), both close at windows with the institutional posture unchanged. Ch 14's rhythm is three-movement (council/writing/locked study). Ch 15's rhythm is five-scene operational. The rhythmic contrast is register: Malachi's institutional tempo is deliberate, architectural. Nikolai's is clipped, tactical. Same lie, different music.
+
+---
+
+### Chapter 25 — "Different Doctrine" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-operational (breach alert / Afolabi briefing) → medium-sustained (FAS containment observation — watching, not acting) → resolving (breach stabilizes, zero secondary absorption) → medium-rising (VS-7 dropdown — the form cannot hold what happened) → peak (free-text override — honest report filed) → contemplative (field log convergence — the gap absent) → resolving (hands-check / window / closing)
+**Pacing:** Four-scene structure. Observation scene = ~35%. After-action scene = ~25%. Field log = ~30%. Opening and close frame the chapter.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Breach / Afolabi briefing | ~500 | Low-operational | Institutional arrival. Afolabi already reading the breach. "You observe." |
+| FAS containment observation | ~900 | Medium-sustained | Watching the different doctrine work. RCI descent. Absorbed treated as present. "Still there." |
+| After-action / VS-7 | ~1,000 | Rising → peak | Dropdown has no category. Free-text override. Honest report. Hand steady — different reason. |
+| Field log / close | ~1,200 | Contemplative → resolving | Convergence entry. The gap absent. Disorientation. Hands-check. Window. Corridor memory. Closing. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "He watched." / "Still there." / "Still." / "The sound of a different doctrine." Single-line punches terminate observation and institutional-analysis accumulation paragraphs.
+- The chapter is deliberately quieter than Ch5 and Ch15. No vocalization event. No commission. The tension is cognitive, not perceptual — the form's dropdown, the free-text override, the field log convergence. The register is contemplative throughout the second half.
+- Dual-peak structure absent — this chapter has one peak (the honest report) and one extended contemplative movement (the field log convergence). The single peak is appropriate for Phase 3: the doctrine is cracking, not breaking. The honest report is not a climax. It is a disorientation.
+- Field log entries (italicized) carry the chapter's most direct language — the private voice that has been expanding since Accra. The convergence entry is the longest field log passage in any Nikolai chapter. Appropriate: the field log has nothing to confess tonight. It has something to record that the official record already holds.
+- Closing image: Yelena calibrating the converter by ear → Afolabi's hands on the dampening controls → "The difference between a diagnostic and a tool." The chapter's final movement is memory, not action. The rhythm decelerates into the Corridor.
+
+**Dialogue Percentage:** ~5% (Afolabi: 4 lines, Nikolai: 3 lines). Near-silent register consistent with Ch5 (~3%) and Ch15 (~4%). Lowest dialogue in any Phase 3 chapter.
+
+**Pacing Note:** The field log convergence passage (~400 words) is the chapter's longest single interior movement. It risks feeling static. Mitigated by the structural surprise — the reader expects the field log to document something the official record suppresses. It doesn't. The absence of suppression is the event. The rhythm enacts disorientation through the absence of the gap the reader has been trained to expect.
+
+**Comparison to Ch5 and Ch15:**
+- Ch5: ~3,800 words, garrison/institutional, contemplative throughout, field log contracting
+- Ch15: ~4,200 words, deployment/operational, dual-peak, field log expanding (confession)
+- Ch25: ~4,100 words, deployment/observational, single-peak, field log converging (redundancy)
+- Together: contraction (Ch5) → confession (Ch15) → convergence (Ch25). The field log's arc across three chapters mirrors Nikolai's arc across three phases. The rhythm of each chapter matches the field log's function: Ch5 is quiet because the log is quiet. Ch15 has two peaks because the commission demands documentation. Ch25 has one peak and a long contemplative close because the convergence is disorienting, not dramatic.
 
 ---
 

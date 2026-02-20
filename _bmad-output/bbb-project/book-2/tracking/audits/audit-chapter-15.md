@@ -16,7 +16,7 @@
 | Word count | 3,500–4,500 | ~4,200 | ✅ |
 | Sentence length (avg) | 18–22 words | ~15 (Erikson register) | ✅ |
 | Paragraph length | Bimodal (1-line + 4-8 line) | Bimodal | ✅ |
-| Dialogue % | 5–15% | ~4% (Diallo, Lund, Nikolai) | ✅ |
+| Dialogue % | 5–15% | ~4% (Adjei, Lund, Nikolai) | ✅ |
 | Em dash frequency | 1–2 per paragraph | Consistent | ✅ |
 | Italics | Payoff words only | *demonstration*, *advisory support*, *structured*, *Still here*, *acoustic mimicry per doctrine*, *non-recoverable, timestamp 16:47*, *No elaboration* | ✅ |
 | Single-sentence paragraphs | Present for impact | 10+ instances | ✅ |
@@ -60,7 +60,7 @@
 | Character | Role | Coherence | Notes |
 |-----------|------|-----------|-------|
 | Nikolai Volkov | POV | 9.5/10 | Voice, register, physical markers, arc phase all consistent. Commission pivot executed cleanly. |
-| Major Diallo | Supporting (new) | 9.0/10 | Professional, competent, FAS Engineering Corps. Appropriate foil — the observer who doesn't know what he's observing. |
+| Major Adjei | Supporting (new) | 9.0/10 | Professional, competent, FAS Engineering Corps. Appropriate foil — the observer who doesn't know what he's observing. |
 | Sergeant Lund | Background (new) | 8.5/10 | One line, operational register. Functional. |
 | Kowalski/Jarek | Referenced | 10/10 | Dual-naming convention maintained (Kowalski in operational, Jarek in private). Carried in jaw, not language. |
 | Sofia Reyes | Referenced | 9.0/10 | Named as document author. Military intelligence summary as source. No inappropriate knowledge of her personally. |
@@ -72,12 +72,12 @@
 - ✅ Mannerisms: Hands-check (4 seconds, ritual not diagnostic), jaw (mandibular compression, 2mm below threshold), field log compulsion (within one hour).
 - ✅ Psychological state: Phase 2/5 Book 2 — first lie by commission. The pivot from omission to active falsification is the phase marker. He has vocabulary now (Reyes document) and uses the institutional vocabulary anyway.
 - ✅ Field log: Central structural device. Evolution: B2 Ch 5 ("No elaboration," entries contracting) → B2 Ch 15 (longest entry in six months — the commission demands documentation).
-- ✅ Designation-over-names: Diallo by rank ("Major"), Lund by rank ("Sergeant"), Stalker-7 by unit designation. Kowalski in operational context, Jarek in field-log register.
+- ✅ Designation-over-names: Adjei by rank ("Major"), Lund by rank ("Sergeant"), Stalker-7 by unit designation. Kowalski in operational context, Jarek in field-log register.
 - ✅ Dual-reading: Processes the Reyes document in two registers (operational filter first, personal filter second). Processes deployment order language in two registers ("advisory support" vs. "demonstration").
 - ✅ No Russian syntax surfacing — operational stress present but controlled. Appropriate.
 - ⚠️ **Flag:** "the sound his mother had taught him to listen to" — Anya Volkova teaching Nikolai to listen to the hum. Consistent with dossier (infrastructure worker in the Corridor) but may be new detail not explicitly established in B1 chapters. Verify against B1 Ch 11 and add to dossier if new.
 
-**Major Diallo (9.0/10):**
+**Major Adjei (9.0/10):**
 - ✅ FAS Engineering Corps, Breach Monitoring Division — appropriate institutional affiliation.
 - ✅ Professional register. "Clean operation, Commander. I will report favorably on the interoperability assessment." — institutional language, no personal familiarity.
 - ✅ Functions as witness to the demonstration — the cooperation framework's purpose made human. Does not know what Nikolai heard. Was at the perimeter, not in the corridor.
@@ -142,7 +142,7 @@
 | Theme | Intensity | Manifestation |
 |-------|-----------|---------------|
 | Systemic Complicity | **Dominant** | The entire chapter is complicity made active. Nikolai's commission, the FAS cooperation framework, the VS-7 form as complicity architecture. The commission IS systemic complicity — not passive participation but signed falsification. |
-| Progress Requires Atrocity | **Strong** | FAS cooperation framework = BLACKWEIR doctrine exported. Flood valves in another city's substrate. Diallo's favorable report accelerates adoption. The commission enables the export. |
+| Progress Requires Atrocity | **Strong** | FAS cooperation framework = BLACKWEIR doctrine exported. Flood valves in another city's substrate. Adjei's favorable report accelerates adoption. The commission enables the export. |
 | Where Identity Ends | **Strong** | "Still here" — the absorbed persist. The sealed junction (person inside a room no one opened). The question of whether the words are real or hallucination IS the question of where identity ends. |
 | Architecture of Power | **Strong** | VS-7 form (31 fields, Field 22), FAS assessment form, deployment orders, "advisory support" vocabulary. The forms that channel acknowledgment into containment. Field 22's existence — the institution acknowledges the phenomena and contains the acknowledgment in the same field. |
 | What We Owe | **Moderate** | Nikolai's debt to Jarek (jaw), to truth (field log), to the thirty-seven previous omissions. The field log as private ledger. The longest entry in six months = a debt paid to the private record. |
@@ -156,7 +156,7 @@
 
 ### Continuity Flags
 - ⚠️ **Accra deployment:** New location in FAS theater. Track if referenced in future chapters.
-- ⚠️ **Major Diallo:** FAS Engineering Corps, Breach Monitoring Division. Favorable interoperability assessment filed. Track if referenced.
+- ⚠️ **Major Adjei:** FAS Engineering Corps, Breach Monitoring Division. Favorable interoperability assessment filed. Track if referenced.
 - ⚠️ **Sergeant Lund:** Stalker-7, Team Two. Track if referenced.
 - ⚠️ **Junction 14-7C:** Sealed conduit junction, absorbed figure inside, no entry point. NOT reported on VS-7. Spatial anomaly. Could resurface.
 - ⚠️ **Hum at 5.9 (FAS theater):** Geographic, not temporal. Lagos/FAS baseline lower than PCC theater.
@@ -184,7 +184,7 @@
 
 **Style Audit:** All checks passed ✅. Zero fixes required.
 
-**Character Audit:** 5 characters checked. All coherent (Nikolai 9.5/10, Diallo 9.0/10, Lund 8.5/10, Kowalski/Jarek 10/10 referenced, Reyes 9.0/10 referenced).
+**Character Audit:** 5 characters checked. All coherent (Nikolai 9.5/10, Adjei 9.0/10, Lund 8.5/10, Kowalski/Jarek 10/10 referenced, Reyes 9.0/10 referenced).
 
 **Continuity Check:** All items verified ✅
 - Timeline consistent (~6 months post-BLACKWEIR, 9 days post-publication)

@@ -875,7 +875,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Nephthys POV (4th Book 2 appearance, 7th overall). Travels to secondary Anchor Zone to confront Threshold gathering (first time outside Cathedral dephasing in months). Seren leads Threshold — grief given architecture, theological register fully developed. Seren builds argument from counter-liturgy's own doctrine: 'You taught us to listen. We listened.' 'You never defined where listening ends.' Nosebleed during confrontation — Seren reads the blood: 'If listening is worth your life, why is joining not worth mine?' Nephthys does not answer. Transit: Imani names the failure ('Those are assertions'). Malachi recursion recognized — 'I know' spoken in Malachi's exact register. Closing: 'They are still here. She was no longer certain they were hers to interpret.' Seren declares three volunteers will walk in (forward to Ch 33). Epigraph: Nephthys journal (opaque, retroactively legible). Reyes document naming per Kareem edit. Contraction discipline: Nephthys = none, Imani = permitted, Seren = none (learned register). AEGIS as invisible novelist."
 
-completedCount: 77
-totalWords: 341037
+  book2_chapter_25:
+    title: "Different Doctrine"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4100
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-25-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Nikolai POV (3rd Book 2 appearance, 10th overall). Lagos, Apapa industrial corridor. Stage 2 breach. FAS non-kinetic containment (Colonel Afolabi commanding) — acoustic dampening + infrastructure severance, 4.7 hours, zero secondary absorption events. VS-7 dropdown has no category for what happened. Free-text override: first honest VS-7 in career. 'No kinetic intervention required.' Field log convergence: official and private records say the same thing for the first time. 'The gap was where Nikolai lived.' Disorientation, not relief. CO will flag for review — seeds Ch40 court-martial arc. Corridor memory: Yelena calibrating converter by ear. Closing: 'The difference between a diagnostic and a tool.' AEGIS as invisible novelist."
+
+completedCount: 78
+totalWords: 345137
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-24 + AEGIS-Blackweir complete and audited. Phase 3 Nephthys thread opened. Seren declared walk-in (Ch 33 seed). Malachi recursion complete."
+notes: "Book 2 Ch 1-25 + AEGIS-Blackweir complete and audited. Phase 3 Nikolai thread opened (honest report filed). Afolabi introduced. Apapa corridor added to locations bible."
