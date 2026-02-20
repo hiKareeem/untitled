@@ -706,4 +706,50 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+---
+
+### Chapter 27 — "Prague" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-institutional (train, file, hum through rail) → establishing (chapel exterior, Father Ondřej) → rising-observational (Vespers, harmonization building) → peak-quiet (infrastructure responds, structured sound, woman's voice) → falling-institutional (Ondřej exchange — framework delivered, heard, stopped, minimum given) → contemplative (train return, the voice in the compartment) → resolving-still (locked study, dark, sitting without reading)
+**Pacing:** Five-scene structure, decelerating into its closing. Chapel scenes = ~50%. Train sections = ~25%. Ondřej exchange = ~12%. Locked study = ~13%. The chapter front-loads the institutional context (train, file, arrival) and then decelerates through the chapel into the locked study's absolute stillness.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Train out (file, hum through rail, encyclical history) | ~550 | Low-institutional | Slow, deliberate. The file read for the third time. The encyclical count. Hands folded. Waiting for Prague. |
+| Chapel exterior + Father Ondřej | ~450 | Establishing | Brief, efficient. Architectural description. Ondřej's relief. The alcove. "Vespers is in forty minutes." |
+| Congregation arrival + Vespers | ~500 | Rising-observational | Slow build. The faithful settling. The liturgy proceeding. The harmonization beginning. |
+| Infrastructure responds + woman's voice | ~600 | Rising → peak-quiet | The chapter's center of gravity. The sound through the heating grid. The congregation hearing it. The woman's hands on the pew. "That is my mother." — four words, maximum isolation. "He heard them." — two words, maximum isolation. |
+| Ondřej exchange | ~500 | Falling-institutional | The framework delivered. Heard. Stopped. The minimum given. The chaplain's look of recognition. Malachi leaves through the western door without reading the inscription. |
+| Train return (the voice in the compartment) | ~700 | Contemplative | The chapter's philosophical payload. The voice not acoustically present but lodged in the body. The reports, the encyclicals, the Threshold, Nephthys — all the institutional registers for what he heard. None of them are the woman's four words. |
+| Locked study (dark, sitting) | ~500 | Resolving-still | Maximum deceleration. No lamp. No reading. The correspondence as physical mass. The hum through the stone. The circle named. "He sat." — two words, maximum isolation. No closing cadence. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "It amplified." / "He heard them." / "He sat." / "He did not read them." Single declaratives terminate dense atmospheric and institutional-analysis paragraphs.
+- The chapel scene is the chapter's rhythmic center of gravity. The infrastructure response builds through three conduit systems (heating grid → copper fittings → electrical system) before the single declarative: "It amplified." — the chapter's most compressed moment at its most important event. Maximum isolation on the single word.
+- "He heard them." — two words, isolated paragraph. The chapter's emotional pivot. Not "he heard the sound" or "he heard the woman." He heard *them* — the absorbed, the woman's mother, the thing the encyclicals cannot name. The pronoun carries the weight.
+- "He sat." — two words, isolated paragraph. The locked study's closing beat. The institutional man in the dark, without the correspondence, without the lamp, without the encyclical. The posture holds. The product is gone. The rhythm ends on the body's stillness.
+- Train sections provide rhythmic contrast: the train out is analytical (reading the file, reviewing the encyclical count, hands folded). The train back is contemplative (the voice in the compartment, the institutional registers that cannot hold it). Same vehicle, same hum, different interior. The contrast is the chapter's structural argument.
+- Ondřej exchange: Malachi's institutional response begins, stops mid-sentence, restarts at the minimum. The rhythm enacts the interruption — the long institutional sentence running into the wall, the short minimum that follows. "Father Ondřej." — the name as rhythmic reset. The chapter's only moment where the institutional fluency visibly falters in real time.
+- Locked study scene is the chapter's quietest — no reading, no writing, no lamp. The rhythm is accumulative rather than punctuated. The closing sequence: key → door → chair → dark → correspondence (not read) → hum → the circle named → "He sat in the dark." Seven beats, each shorter, the final two sentences isolated. The deceleration is the chapter's emotional arc in miniature.
+- No closing cadence. The structural repetition (Ch 3/14: "The question survived. It always did." / Ch 22: "The answer was getting closer.") is absent. The chapter ends without the refrain. The absence is the refrain.
+
+**Dialogue Percentage:** ~5% (Ondřej's two speeches + Malachi's two responses + the woman's four words + the dismissal formula). Lowest dialogue in any Malachi chapter. The chapter's most important line ("That is my mother. She was in Neo-Shanghai.") is not dialogue between characters — it is speech addressed to the air, to the sound, to the pew. The woman is not speaking to Malachi. The chapel carries it to him anyway.
+
+**Pacing Concern:** The chapel scene risks feeling slow — the harmonization building, the infrastructure responding, the congregation reacting — before the woman speaks. Mitigated by the rhythmic escalation through three conduit systems (each a shorter sentence than the last) and the single-word declarative ("It amplified.") that marks the transition from buildup to event. The reader knows the woman is coming. The rhythm makes them wait for it.
+
+**Structural Note:** Ch 27 completes the Malachi Phase 3 movement (Ch 22 → Ch 27). Ch 22: blank page — the tools fail to produce. Ch 27: Prague — the tools produce the wrong thing (the framework delivered to Ondřej is correct and hollow). The rhythm reflects this: Ch 22 decelerates into the blank page's stillness. Ch 27 decelerates into the locked study's dark. Both chapters end on the same posture (sitting, hum through stone, correspondence present but not read). The product is different: Ch 22 has a blank page on the desk. Ch 27 has four words in the body.
+
+**Comparison to Ch 3 / Ch 14 / Ch 22:**
+- Ch 3: ~4,500 words, three-movement (council/writing/locked study), institutional tools work, encyclical drafted, one letter read. Closing cadence: "The question survived. It always did."
+- Ch 14: ~4,300 words, three-movement, tools work but insufficient, encyclical published+contradicted, post-Silencing letter read. Same closing cadence.
+- Ch 22: ~4,400 words, four-movement, tools fail, blank page, sits without reading. Extended cadence: "The answer was getting closer."
+- Ch 27: ~4,400 words, five-movement (train/chapel/exchange/train/study), tools produce the wrong thing, no encyclical, sits in the dark without reading. No cadence. The structural repetition breaks entirely.
+- Together: institutional management → institutional crisis → institutional silence → institutional hollowness. The posture is the same. The product is gone. The cadence is gone. The question survives. The man in the dark does not say so.
+
+**Cross-Chapter Rhythm:** Ch 26 (Sofia, sacrifice district correlation + proposal) → Ch 27 (Malachi, Prague). Two Phase 3 chapters, consecutive, same revelation in different registers. Sofia: the system is completing a circuit, the proposal is 12%, the boxes are still in the hallway. Malachi: the Voice is someone's mother, the framework is hollow, the locked study is dark. Both chapters end on the same structural note: the person with the truth is sitting in the dark with it, and the truth is not going anywhere.
+
+---
+
 _Last updated: 2026-02-20_

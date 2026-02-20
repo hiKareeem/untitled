@@ -2,10 +2,10 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-19"
-lastChapter: "B2 Ch 3"
-totalLocations: 19
-activeLocations: 14
+lastUpdated: "2026-02-20"
+lastChapter: "B2 Ch 27"
+totalLocations: 20
+activeLocations: 15
 project_name: "Untitled"
 ---
 
@@ -887,5 +887,30 @@ Lagos is the primary FAS city featured in the narrative. Lower conduit density t
 
 ---
 
+---
+
+### Resonance Chapel of St. Václav, Prague (European See)
+
+**Description:** Pre-nitro Romanesque structure in Prague's old city. Walls one meter thick, grey-gold stone darkened by centuries of lamp-smoke and prayer. Arched ceiling fifteen meters above the nave — proportions calculated for choral resonance before the grid existed, before the hum had a name. The acoustic architecture was built by medieval masons who understood resonance the way institutional administrators understand governance: through accumulated practice, not theory. The Church retrofitted it: copper conduit fittings bracketed against medieval masonry with modern fasteners that look surgical against the old stone. Nitro-powered heating grid feeds through the floor — subsurface conduits carrying warmth and the global frequency simultaneously. The old building and the new infrastructure exist in the same space without being designed for each other.
+
+**Discovered:** B2 Ch 27, by Malachi (pastoral investigation visit)
+
+**Key Interior Locations:**
+- **Western door:** Romanesque arch, inscription above in worn pre-nitro lettering: *"The stone remembers every voice that filled it. The stone does not distinguish between the living and the carried."* Malachi passes it on exit without reading it.
+- **Rear alcove:** Stone recess beside the western door, partially screened by a pillar. Where Malachi observes Vespers unannounced. The Arch-Prelate's camouflage: architecture.
+- **Nave:** Old wood pews, dark with use. Sixty to seventy congregants for weekday Vespers — attendance increased since the reports. Amber glow from nitro-powered sconces. Copper conduit fittings visible along walls, catching the light.
+- **Altar:** Where Father Ondřej leads the service. His hands on the lectern after the harmonization. He waits before continuing — the chaplain's instinct: let the room breathe.
+
+**Key Events:**
+- **B2 Ch 27:** Malachi attends Vespers unannounced, observes from rear alcove. During Communal Harmonization, the hum through the heating grid and electrical conduits resolves into structured sound — the chapel's acoustic architecture separating something from the carrier frequency the way a prism separates light. A woman near the front presses her hands flat against the pew and says: "That is my mother. She was in Neo-Shanghai." Malachi hears it. Gives Father Ondřej the institutional framework after the service. Leaves through the western door without reading the inscription.
+
+**Significance:** The specific site that haunts Malachi's Voice chapter (B2 Ch 38). The first time Malachi encounters the hum outside the institutional architecture he governs — no desk, no council, no encyclical, no 43-step corridor. He is in a congregation. He hears what they hear. He cannot manage it from the back of the room. The chapel's pre-nitro acoustic design amplifies what the retrofitted infrastructure carries — generosity exceeding intent. The woman's four words ("That is my mother") are what the locked correspondence cannot say in public and what the encyclicals cannot hold.
+
+**Current State:** Active parish. Father Ondřej continuing services. Applying institutional framework. Attendance elevated.
+
+**Controlled by:** Church of the Blessed Nitro, Prague Diocese (Father Ondřej, chaplain)
+
+---
+
 _Last updated: 2026-02-20_
-_Updated by: B2 Ch 25 — "Different Doctrine" bible update_
+_Updated by: B2 Ch 27 — "Prague" bible update_

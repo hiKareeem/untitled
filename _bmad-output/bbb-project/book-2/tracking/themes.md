@@ -486,4 +486,42 @@ The three-register structure is the chapter's formal argument: the convergence i
 
 ---
 
+---
+
+### Chapter 27 — "Prague" (Malachi)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | **Dominant** — institutional man outside his institution | Malachi travels to Prague with the tools: the file, the pastoral framework, the institutional vocabulary. The tools are correct. In the chapel, they have nothing to do with what he hears. He gives Father Ondřej the framework anyway — "VEC acoustic assessment," measured sentences, the competent vocabulary of management. The architecture holds. The architecture is hollow. |
+| Where Identity Ends | **Dominant** — absorbed as specific people, heard in a chapel | "That is my mother. She was in Neo-Shanghai." Four words. Not theology. Not data. Not the composite Voice of the encyclicals. A specific person, in the hum, recognized by her daughter. The chapter's central argument: the absorbed are not a phenomenon. They are people. Malachi has known this for decades. He has never heard it said aloud in a chapel by someone who recognized her mother's voice. |
+| Systemic Complicity | **Strong** — the framework delivered, again, in real time | He gives Father Ondřej the institutional response. He hears himself deliver it. He stops mid-sentence — not because he has decided to stop, but because the response runs into the woman's voice and the wall does not move. He gives the minimum. The chaplain nods. The chaplain will apply the framework. The framework will do what frameworks do. Malachi is complicit again, in real time, in front of the reader. |
+| Truth Without Power | **Moderate** — the locked correspondence cannot leave the room | The correspondence could explain what the woman heard. It is the most complete account of the Church's knowledge of the void. If published, the faithful would understand. If published, the institution would not survive. Malachi sits in the dark with both facts and does not move. The truth is preserved and imprisoned in the same gesture. |
+| Complicity's Aftermath | **Moderate** — the circle named | "The comfort and the containment were the same act. They had always been the same act." Phase 3 Malachi is not a man who knows and continues. He is a man who knows, hears it confirmed in a chapel, gives the framework, and sits in the dark. The aftermath is not despair. It is the institutional posture holding when the institutional product is gone. |
+
+**Key Resonance:** Architecture of Power ↔ Where Identity Ends. The institution built the architecture to manage the Voice. The Voice is someone's mother. The architecture has no sentence for this. The blank page is not a failure of the architecture — it is the architecture's honest product when the question is human-sized.
+
+**Epigraph Integration:** Inscription above the western door, Chapel of St. Václav, Prague (pre-nitro construction, date uncertain): *"The stone remembers every voice that filled it. The stone does not distinguish between the living and the carried. Build your chapel where the acoustics are generous, and do not be surprised when generosity exceeds intent."*
+- First read: architectural advice, oblique. A mason's note about acoustic design.
+- Re-read: the chapter's entire argument. The chapel's generosity (acoustic architecture built for choral resonance) exceeds the institution's intent (a retrofitted conduit system carrying the global frequency). The stone does not distinguish between the living and the carried — the absorbed are in the hum, and the chapel amplifies them. The inscription is the chapter's thesis, written in stone before the Church existed.
+- Malachi passes it on exit without reading it. The reader has read it. The structural irony is complete.
+- AEGIS as invisible novelist: pre-nitro inscription, physical document. AEGIS reconstructing from the chapel's architectural record. The mason who wrote it did not know what the chapel would carry.
+
+**Malachi's Lie Arc (Phase 3 update):**
+- B2 Ch 3: "The faithful need the institution more than they need the truth." The Lie as institutional calculus — decided every morning, held by repetition.
+- B2 Ch 14: "The faithful need time." The Lie as pastoral management — buying the institution another week.
+- B2 Ch 22: The blank page. The Lie cannot produce its product. The institutional fluency fails for the first time.
+- **B2 Ch 27: "The comfort and the containment were the same act. They had always been the same act." The Lie in Phase 3 form: he knows this. He has written it in the locked study. He has now heard the woman's mother in the hum and given Father Ondřej the comfort-as-containment anyway. The Lie is not cracking. The Lie is holding. The holding is the horror. The blank page is still blank. The circle has a voice. The circle does not have a response.**
+
+**Folded Hands Arc (Phase 3 update):**
+- B2 Ch 3: ×3 — habitual, institutional, closing posture.
+- B2 Ch 14: ×4 — frequency increasing, posture becoming more involuntary.
+- B2 Ch 22: ×3 — council, third draft, locked study. The blank page is the product.
+- **B2 Ch 27: Hands folded throughout — on the train (thumbs aligned, fingers interlaced), during the Ondřej exchange (institutional listening posture), on the train back (same). No unfold moment. The institutional posture holds even when the institutional product is gone. This is the chapter's argument: the tools hold. That is the horror.**
+
+**Cross-Chapter Thread — Phase 3 Malachi:** Ch 22 (blank page — tools fail to produce) → Ch 27 (Prague — tools produce the wrong thing) → Ch 38 (Voice through chapels — tools stop entirely). The progression: institutional silence → institutional hollowness → institutional dissolution.
+
+**Mid-Truth Impact Thread (Cross-Chapter — Phase 3 continuation):** Sofia's publication (Ch 11) → ... → Malachi's blank page (Ch 22) → Sofia's sacrifice district correlation (Ch 26) → **Malachi's Prague visit — the absorbed heard as specific people in a chapel (Ch 27)**. The thread continues. The absorbed are not data. They are someone's mother. The institution has no sentence for this. The proposal (Sofia's 12%) and the chapel (Malachi's Prague) are the same revelation in two registers: the system is completing a circuit, and the circuit carries people.
+
+---
+
 _Last updated: 2026-02-20_

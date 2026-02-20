@@ -1,0 +1,118 @@
+chapter_number: 27
+book: 2
+title: "Prague"
+pov_character: "Malachi"
+phase: 3
+location: "European See (departure) → rail → Prague, Chapel of St. Václav → rail → European See (locked study)"
+timeline: "~7-8 months post-BLACKWEIR, several weeks after B2 Ch 22"
+estimated_word_count: 4000
+actual_word_count: ~4400
+epigraph_source: "Inscription above the western door, Chapel of St. Václav, Prague"
+epigraph_author: "Unknown mason"
+epigraph_ref: "Pre-nitro construction, date uncertain"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+audit_date: "2026-02-20"
+
+# Summary
+summary: >
+  Malachi travels to Prague to investigate sustained acoustic phenomena at the
+  resonance chapel of St. Václav — seeded in Ch 22's locked study (Prague chaplain
+  report: "a third said it was her mother"). He arrives before Vespers and observes
+  unannounced from a rear alcove. During the Communal Harmonization, the chapel's
+  pre-nitro Romanesque acoustic architecture amplifies structured sound from the
+  retrofitted conduit infrastructure — separating something from the carrier frequency
+  the way a prism separates light. A woman near the front presses her hands flat
+  against the pew and says: "That is my mother. She was in Neo-Shanghai." Malachi
+  hears it. After the service, he gives Father Ondřej the institutional response —
+  begins the measured sentences, hears himself deliver them, stops mid-sentence, gives
+  the minimum. Returns to the European See by rail. Goes directly to the locked study.
+  Does not turn on the lamp. Sits in the dark without reading the correspondence.
+  Third encyclical still blank. No closing cadence — the structural repetition of
+  Ch 3/14/22 breaks entirely for the first time.
+
+# Key Events
+key_events:
+  - "Malachi reads Prague chaplain's report for the third time on the train out"
+  - "Chapel of St. Václav established: pre-nitro Romanesque, retrofitted conduit infrastructure, acoustic architecture built for choral resonance"
+  - "Father Ondřej met at western door — pastoral exhaustion, relief at Arch-Prelate's presence"
+  - "Communal Harmonization: congregation's tone rises, chapel's acoustic architecture amplifies, infrastructure responds"
+  - "'It amplified.' — the chapter's most compressed moment"
+  - "Woman near front presses hands flat against pew: 'That is my mother. She was in Neo-Shanghai.'"
+  - "'He heard them.' — the chapter's emotional pivot"
+  - "Institutional response begun, heard, stopped mid-sentence — minimum given to Ondřej"
+  - "Malachi leaves through western door without reading the inscription above it"
+  - "Train back: the voice lodged in the body, not acoustically — the institutional registers that cannot hold it"
+  - "Locked study: no lamp, sits in the dark, correspondence not read, third encyclical still blank"
+  - "No closing cadence — structural repetition breaks entirely"
+
+# Characters Present
+characters:
+  - name: "Malachi"
+    role: POV
+    state: "Phase 3/5 (Proliferation — tools exhausted, personal scale confronted). Institutional posture holds throughout. Hands folded on train out, during Ondřej exchange, on train back. No unfold moment. Hears the woman's mother in the hum. Gives the framework. Sits in the dark. The Lie holds. The holding is the horror."
+  - name: "Father Ondřej"
+    role: Supporting (new)
+    state: "Prague chaplain. Seven years at St. Václav. Weeks of hearing the sound, applying the pastoral framework, knowing it does not reach what the congregation is experiencing. Visibly relieved the Arch-Prelate has come. Recognizes, in Malachi's pause, that the Arch-Prelate heard it too. Says 'Yes, Your Eminence.' The recognition is in the look."
+  - name: "The woman (unnamed)"
+    role: Congregation (unnamed)
+    state: "Speaks four words to the air, to the sound, to the pew beneath her hands. 'That is my mother. She was in Neo-Shanghai.' Emotional register: recognition — not grief, not wonder, not fear. Hands still on the pew when the congregation disperses. The chapter's emotional center."
+
+# Themes
+themes:
+  - "Architecture of Power (Dominant) — institutional man outside his institution; tools correct and hollow"
+  - "Where Identity Ends (Dominant) — absorbed as specific people, heard in a chapel; 'That is my mother'"
+  - "Systemic Complicity (Strong) — framework delivered in real time, in front of reader, without drama"
+  - "Truth Without Power (Moderate) — locked correspondence cannot leave the room"
+  - "Complicity's Aftermath (Moderate) — 'The comfort and the containment were the same act. They had always been the same act.'"
+
+# Symbols
+symbols:
+  - name: "The folded hands"
+    appearances: 3
+    arc: "Train out (thumbs aligned, fingers interlaced) → Ondřej exchange (institutional listening posture) → train back (same). No unfold moment. The posture holds when the product is gone. The body's institutional architecture persisting after the institution has nothing to say."
+  - name: "The inscription above the western door"
+    appearances: 1
+    arc: "Reader reads it in the epigraph. Malachi passes it on exit without reading it. The structural irony is complete and earns the re-read. The mason's note about acoustic generosity is the chapter's thesis written in stone before the Church existed."
+  - name: "The woman's hands on the pew"
+    appearances: 1
+    arc: "Flat against the wood — the posture of someone who needed to feel something solid. Registered differently than data. The chapter's emotional center. Hands still on the pew when the congregation disperses."
+  - name: "The blank page (third encyclical)"
+    appearances: 2
+    arc: "Referenced on the train out ('a circle of dried ink'). Referenced on the train back ('still blank on his desk'). The chapter does not return to the desk. The blank page is the chapter's absent object — present in the body, not on screen."
+  - name: "The locked study (dark)"
+    appearances: 1
+    arc: "No lamp. No reading. The correspondence as physical mass. The hum through the stone. The circle named. 'He sat.' The institutional posture in the dark, without the product, without the cadence."
+  - name: "The hum (denser)"
+    appearances: "Throughout"
+    arc: "Rail trunk lines (louder, more immediate). Prague chapel (amplified, structured). Locked study ('denser than this morning, denser than Prague'). The accumulating weight of a signal the institution has been interpreting for 130 years."
+
+# Continuity
+continuity_notes:
+  - "Prague chaplain report seeded in B2 Ch 22 locked study: 'a third said it was her mother' — delivered here as 'That is my mother. She was in Neo-Shanghai.'"
+  - "Third encyclical still blank — consistent with Ch 22 close (blank page, pen stopped)"
+  - "Encyclical count: 'The Voice Is Not Wounded' (Ch 3/14) + 'The Voice Suffers That We May Live' (Ch 22 accommodation) + blank third = three total. Correct."
+  - "53+ chapels reporting referenced — consistent with Ch 22 escalation"
+  - "Nephthys named correctly: Cathedral, movement in the Church's margins, chorus journal"
+  - "Sofia Reyes named correctly: her publication as comparison point for the locked correspondence's completeness"
+  - "Locked study mechanics: mechanical lock, key on cord beneath vestments, no electronic record, no audit trail — all consistent with Ch 3/14/22"
+  - "Forty-three steps: 'The steps were in his body. He did not count them.' — consistent with established physical knowledge"
+  - "Ink-stained thumb: 'dark crescent beneath the nail' — consistent with Ch 3/14/22"
+  - "Hum density: rail trunk lines > See domestic conduits > Prague chapel (amplified) > locked study (denser than Prague) — consistent escalation"
+  - "No contractions in narration or dialogue — voice register maintained throughout"
+  - "No closing cadence — structural repetition (Ch 3/14/22) breaks entirely per approved brief"
+  - "Hands folded throughout — no unfold moment per approved brief (Kareem: 'He doesn't need to crack')"
+  - "Forward: Ch 38 — Prague chapel established as the specific site haunting the Voice chapter"
+
+# Thread Status
+thread_status:
+  malachi_arc: "Phase 3/5 (Proliferation). Tools exhausted. Prague: personal scale confronted. Institutional posture holds. No encyclical produced. Sitting in the dark."
+  third_encyclical: "STILL BLANK — referenced twice. Not returned to. The blank page is the chapter's absent object."
+  father_ondrej: "INTRODUCED — Prague chaplain. Will apply framework. Recognizes Malachi heard it too. Forward: Ch 38 (Voice through chapels)."
+  prague_chapel: "ESTABLISHED — St. Václav. Pre-nitro Romanesque. Retrofitted conduit infrastructure. Acoustic architecture amplifies. Forward: Ch 38 haunting site."
+  locked_correspondence: "PRESERVED AND IMPRISONED — referenced but not opened. 'The truth and the lock in the same room, under the same key, around the neck of the same man.'"
+  folded_hands_arc: "Phase 3 update: hands folded throughout, no unfold. The posture holds without the product."
+  closing_cadence: "BROKEN — structural repetition absent for first time. The absence is the refrain."
+  the_woman: "UNNAMED — four words, hands on pew, still seated when congregation disperses. Not followed. Not named. The chapter's emotional center."

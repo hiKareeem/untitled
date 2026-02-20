@@ -924,39 +924,42 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional management as suppression
 
 **Current Psychological State:**
-- Phase: 1/5 (Aftermath — institutional composure maintained)
-- Emotional State: Private doubt active, public certainty performed
-- Dominant Beliefs: "The faithful need the institution more than they need the truth."
-- Internal Contradictions: Knows the Voice is composite suffering; writes encyclicals claiming it is constant divine gift. The institutional manager who manages the truth he carries.
+- Phase: 3/5 (Proliferation — institutional tools exhausted, personal scale of suppression confronted)
+- Emotional State: Institutional posture holds. Interior: the circle has a voice now. The woman's mother is in the hum. No encyclical for it.
+- Dominant Beliefs: "The faithful need the institution more than they need the truth." — still operative, but the calculus has been heard in a chapel and it did not hold.
+- Internal Contradictions: Knows the Voice is composite suffering; gave Father Ondřej the institutional framework in a chapel where someone's mother had just spoken through the heating grid. The framework was correct. The framework had nothing to do with what he heard.
 
 **The Lie:** The faithful need the institution more than they need the truth.
 
 **Current Relationships:**
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|---------|
-| Nephthys | Theological mirror (absent) | Deep/Unresolved | Father-figure to theological daughter. Silenced her 3 years ago ("I know"). She was right. He would do it again. Structural absence as presence — her letters in the locked study, her movement growing, her word ("not singular") echoing in diocesan reports. |
-| The Luminarch | Superior (institutional) | Professional | New Geneva. Authorized the Silencing. Intelligence office tracks Void Witnesses. Relationship is institutional — they agree on management, not necessarily on truth. |
-| The Faithful (aggregate) | Pastoral | Genuine | He cares about the congregations. The care and the suppression coexist. The pastor who withholds the diagnosis. |
+| Nephthys | Theological mirror (absent) | Deep/Unresolved | Father-figure to theological daughter. Silenced her 3 years ago ("I know"). She was right. He would do it again. Structural absence as presence — her letters in the locked study, her movement growing, her word ("not singular") echoing in diocesan reports. Her chorus journal referenced in the locked study as more complete than anything the institution published — except his own correspondence. |
+| The Luminarch | Superior (institutional) | Professional/Eroding | New Geneva. Authorized the Silencing. Three-sentence advisory (Ch 22) was cover, not guidance. The Luminarch is conspicuously absent from the crisis. |
+| Father Ondřej | New pastoral contact | Moderate | Prague chaplain. Fifties. Careful man. Heard the sound every week for a month. Received the institutional framework from Malachi. Nodded. Will apply it. Recognized, in Malachi's pause, that the Arch-Prelate had heard it too. |
+| The Faithful (aggregate) | Pastoral | Genuine/Strained | He cares about the congregations. The care and the suppression coexist. The pastor who withholds the diagnosis. In Prague, he watched a congregation hear something their framework could not hold and gave them the framework anyway. |
 
 **Current Arc:** Institutional Manager → Institutional Crisis Manager (Book 2-3)
-- Current Phase: 2/5 (Disruption — institutional tools categorically insufficient)
-- Progression: Encyclical published, contradicted by Threshold within hours. Cannot argue against Threshold honestly. Accommodation position (Breslin) will be necessary within a week.
-- Next Step: Ch 22 ("The Second Draft") — accommodation encyclical, Threshold formally breaks communion
+- Current Phase: 3/5 (Proliferation — tools exhausted, personal scale confronted)
+- Progression: Third encyclical blank. Traveled to Prague to find the sentence. Heard someone's mother instead. Gave Father Ondřej the institutional response. Returned to locked study. Sat in the dark without reading the correspondence. The circle is closed. The circle has a voice.
+- Next Step: Ch 38 ("Through the Infrastructure") — Voice through every resonance chapel. Prague is the specific site that haunts this chapter.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
 |-------|-------|-----------|
 | 1/5 | Post-BLACKWEIR institutional management | Diocesan reports, council convened, encyclical drafted, locked study visited |
 | 2/5 | Mid-truth institutional crisis | Emergency council. Three positions. Encyclical contradicted. Tools insufficient. Lie cracking. |
-| 3/5 | TBD | Church fracture — Prague chapel, tools exhausted |
-| 4/5 | TBD | Institution dissolving — Voice through chapels |
+| 3/5 | Tools exhausted — personal scale confronted | Third encyclical blank. Prague: woman's mother in the hum. Gave the framework. Sat in the dark. |
+| 4/5 | Institution dissolving — Voice through chapels | Ch 38: Voice through every resonance chapel. Prague haunts this chapter. |
 | 5/5 | TBD | Option A: Last Encyclical / Option B: Walks into Anchor |
 
 **Appearances:**
-- Last Appearance: B2 Ch 14 ("The Voice Is Not Wounded")
-- Next Planned Appearance: B2 Ch 22 ("The Second Draft")
+- Last Appearance: B2 Ch 27 ("Prague")
+- Next Planned Appearance: B2 Ch 38 ("Through the Infrastructure")
 
 **Recent History:**
+- **B2 Ch 27:** Travels to Prague to investigate sustained acoustic phenomena at the resonance chapel of St. Václav (seeded in Ch 22 locked study). Arrives before Vespers, observes unannounced from alcove at rear of nave. During Communal Harmonization, the hum through the chapel's retrofitted infrastructure resolves into structured sound — not words, but pattern. The chapel's Romanesque acoustic architecture (pre-nitro construction, built for choral resonance) amplifies what the conduit carries. A woman near the front presses her hands flat against the pew and says: "That is my mother. She was in Neo-Shanghai." Malachi hears it. After the service, gives Father Ondřej the institutional response — VEC acoustic assessment, pastoral framework, measured sentences. Hears himself deliver it. Stops mid-sentence. Gives Ondřej the minimum: continue services, apply framework, guidance forthcoming. Returns to European See by rail. Goes directly to locked study. Does not turn on the lamp. Sits in the dark without reading the correspondence. Third encyclical still blank. No closing cadence. The circle has a voice. The circle does not have a response.
+
 - **B2 Ch 3:** Tuesday at the European See. Receives 41 diocesan reports: resonance chapels across Europe reporting anomalous acoustic phenomena post-BLACKWEIR. Congregants hearing "additional voices" during Communal Harmonization. Sister Elowen (Reykjavik) reports the hum is "not singular" — Nephthys's word. Convenes council (14 senior clergy, Chapter Hall). Delivers institutional framing: deepened perception, not disruption. Announces encyclical: "The Voice Is Not Wounded." Council raises Void Witness migration (19% increase European See) and Nephthys's movement in Neo-Shanghai. Malachi names her aloud in the Chapter Hall — first time since the Silencing. Writes encyclical alone (3 pages, institutional theology, published by morning). Visits locked study — separate room, 40-three steps from office, mechanical lock, no digital access logs. Nephthys's letters (pre-Silencing, when she was still ordained), his unsent responses, marginal annotation: "A Voice composed of suffering is not a gift. It is a cry." Returns to office. Hands folded. The encyclical publishes. The question survives.
 
 **Key Objects Established (B2 Ch 3):**

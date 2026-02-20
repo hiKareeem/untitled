@@ -885,7 +885,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Nikolai POV (3rd Book 2 appearance, 10th overall). Lagos, Apapa industrial corridor. Stage 2 breach. FAS non-kinetic containment (Colonel Afolabi commanding) — acoustic dampening + infrastructure severance, 4.7 hours, zero secondary absorption events. VS-7 dropdown has no category for what happened. Free-text override: first honest VS-7 in career. 'No kinetic intervention required.' Field log convergence: official and private records say the same thing for the first time. 'The gap was where Nikolai lived.' Disorientation, not relief. CO will flag for review — seeds Ch40 court-martial arc. Corridor memory: Yelena calibrating converter by ear. Closing: 'The difference between a diagnostic and a tool.' AEGIS as invisible novelist."
 
-completedCount: 78
-totalWords: 345137
+  book2_chapter_27:
+    title: "Prague"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4400
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-27-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Malachi POV (4th Book 2 appearance, 4th overall). Travels to Prague to investigate sustained acoustic phenomena at resonance chapel of St. Václav (seeded Ch 22). Observes Vespers unannounced from rear alcove. During Communal Harmonization, chapel's pre-nitro Romanesque acoustic architecture amplifies structured sound from retrofitted conduit infrastructure. Woman near front: 'That is my mother. She was in Neo-Shanghai.' Malachi hears it. Gives Father Ondřej the institutional framework — stops mid-sentence, gives the minimum. Returns to locked study. Sits in the dark without reading correspondence. Third encyclical still blank. No closing cadence — structural repetition (Ch 3/14/22) breaks entirely. Epigraph: pre-nitro mason's inscription above western door (opaque, rewards rereading). Prague established as site haunting Ch 38 (Voice through chapels). Father Ondřej introduced. AEGIS as invisible novelist."
+
+completedCount: 79
+totalWords: 349537
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-25 + AEGIS-Blackweir complete and audited. Phase 3 Nikolai thread opened (honest report filed). Afolabi introduced. Apapa corridor added to locations bible."
+notes: "Book 2 Ch 1-27 complete and audited. Phase 3 Malachi thread advanced (Prague visit, tools produce wrong thing). Father Ondřej introduced. Prague chapel of St. Václav added to locations bible. Malachi arc updated to Phase 3/5."
