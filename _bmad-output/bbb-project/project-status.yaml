@@ -855,7 +855,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 closer — Malachi POV (3rd Book 2 appearance, 3rd overall). ~1 week after Ch 14. Accommodation encyclical ('The Voice Suffers That We May Live') weaponized by Threshold in 6 days — Malachi's own theology used correctly. Luminarch's 10-day silence broken: three-sentence advisory (institutional cover, not guidance). Second emergency council: Breslin's controlled anger (new register), Threshold self-separated ('participatory communion'), vigils 60→200+ at Anchor Zone perimeters, Voss's reform position gaining traction, Malachi shuts it down. Third encyclical: three false starts, pen stops, ink bloom, blank page — first failure of institutional fluency in 22 years. Locked study: sits without reading; correspondence as physical mass. Prague chaplain report seeds Ch 27 visit ('A third said it was her mother'). Hum measurably thicker. Blank page waiting at close. Completes Malachi trilogy (Ch 3/14/22): draft → published+contradicted → blank. Phase 2 closes. AEGIS as invisible novelist."
 
-completedCount: 75
-totalWords: 333437
+  book2_chapter_23:
+    title: "Stewardship"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3500
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-23-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 3 opener (Aurielle thread) — Aurielle POV (4th Book 2 appearance, 11th overall). Q3 quarterly: SHEPHERD at 3 operational zones, throughput 18% above projection. Vocabulary fully normalized (no italics, no notation). Slide 19: acoustic anomaly flagged — structured secondary signal during directed absorption events. 'Continue monitoring.' Thorne: feedback mechanism / control variable. Acoustic report: non-random, origin unclassified. Wrist rotation not tried (trying abandoned). Dual-track collapsed. 'She was the mechanism.' Closing echo: 'The Chair opened the next report.' Eduardo comparisons retired. Five-zone scaling model authorized. AEGIS as invisible novelist."
+
+completedCount: 76
+totalWords: 336937
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-22 + AEGIS-Blackweir complete and audited. Phase 2 audit pending. Phase 3 next."
+notes: "Book 2 Ch 1-23 + AEGIS-Blackweir complete and audited. Phase 3 Aurielle thread opened. Phase 3 next."

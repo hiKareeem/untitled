@@ -307,4 +307,28 @@
 
 ---
 
+### Chapter 23 — "Stewardship"
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-Ch 12. Phase 3. SHEPHERD at three operational zones. Vocabulary normalized. Wrist rotation not stopped in Ch 12. Dual-track narration ambient but delayed. The mechanism running.
+- **Emotional Arc:** Routine processing (board, slides 1–18 — no emotional content, the routine is the register) → recognition without alarm (slide 19, the anomaly — she knows what it is, she does not say what it is) → institutional filing ("Continue monitoring" — the recognition converted to process) → peripheral registration (Park's stillness — noted, not acted on) → peer-level exchange (Thorne — the anomaly reframed, she hears the reframing, the translation arrives late, she files it) → alone with what she filed (the report, the classification, the wrist)
+- **Dominant Emotion:** The specific flatness of a mechanism that has absorbed its own operator. Not guilt — guilt would require a self separate from the operation. Not determination — determination implies a choice being made. The emotional register is operational: the mechanism processes, the mechanism files, the mechanism opens the next report. The horror is the absence of the emotional register that should be present.
+- **Key Emotional Beat:** "She was the mechanism. She had been since the morning the chair learned her shape." — The chapter's most precise self-characterization. Not stated as grief or recognition or horror. Stated as fact, in the same register as the throughput figures. The emotional temperature of the sentence is the chapter's emotional temperature: institutional, declarative, complete.
+- **Secondary Beat:** Park's hands flat on the table — "a man holding something down." Aurielle registers it laterally, without turning, and does not look at him. The emotional content is in what she does not do: she does not look at him because looking at him would require acknowledging what his posture means. The not-looking is the filing.
+- **The Translation Arc:** Ch 1 (ambient, beneath attention) → Ch 10 (integrated, automatic) → Ch 12 (noticed, filed — passive voice heard and filed) → Ch 23 (delayed, then collapsed). In Ch 23 the translation arrives late — after the next sentence has already begun — and is filed. In the closing sequence it does not arrive at all. The dual-track has collapsed into a single register. The emotional content that the translation carried has been absorbed into the executive function. The silence where the translation used to be is the chapter's emotional payload.
+- **Wrist Rotation:** "She did not try to stop it. The trying had been abandoned." The verb shift from Ch 12 ("did not stop") to Ch 23 ("did not try to stop") marks the Phase 3 emotional state precisely: the trying was an act of self-monitoring, a gesture toward a self that could intervene. The trying has been abandoned because the self that would intervene has been absorbed. The wrist rotates. The Chair opens the next report.
+- **Exiting State:** Alone at the desk. Acoustic analysis filed. Five-zone scaling model open. The wrist moving, not tried. The next report open. The mechanism operating.
+- **Emotional Shift from Ch 12:** Ch 12 ends with the wrist moving and Aurielle not stopping it — the control eroding, the noticing still present. Ch 23 ends with the wrist moving and Aurielle not trying to stop it — the noticing present, the trying gone. The emotional distance between "did not stop" and "did not try to stop" is the distance between Phase 2 and Phase 3. In Phase 2, the self is still present enough to not-stop. In Phase 3, the self is present enough to note the not-trying, and that is all.
+
+**Aurielle's Emotional Lie Arc (cumulative):**
+- B1 Ch 1–7: Controlled guilt as professional competence. The Lie as emotional management.
+- B1 Ch 19: First active complicity. Guilt converted to process ("Because she had filed it").
+- B1 Ch 25–36: Authorization. Guilt as arithmetic. The small voice completes the math and goes silent.
+- B2 Ch 1: The Chair. Guilt as institutional identity — the hum is the infrastructure, the infrastructure is her.
+- B2 Ch 10: "Send me the projections." Guilt as data request.
+- B2 Ch 12: Passive voice noticed. Guilt as audit trail — the noticing changes nothing.
+- **B2 Ch 23: "She was the mechanism." Guilt is no longer a separate emotional register. It has been absorbed into the executive function. The audit trail continues. The mechanism runs. The emotional content of the Lie is now indistinguishable from the operational content of the role.**
+
+---
+
 _Last updated: 2026-02-20_

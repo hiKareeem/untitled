@@ -554,4 +554,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 23 — "Stewardship" (Aurielle Vasquez)
+
+**Mode:** PRESSURE
+**Tension Shape:** Low-institutional (opening, numbers, routine) → sustained-low (slides 1–18, compressed) → rising (slide 19, anomaly) → flat (filing, Park's stillness) → rising-controlled (Thorne exchange) → resolving-unresolved (alone, report, wrist, next report)
+**Pacing:** Three-beat structure (board → Thorne → alone). Front-loaded toward routine (~40%), anomaly and filing (~25%), Thorne exchange (~23%), closing (~12%). The compression of the closing is the chapter's rhythmic payload.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening (numbers, projections, board convenes) | ~700 | Low-institutional | Slow, routine-establishing. The normalcy is the point. |
+| Slides 1–18 (compressed) | ~400 | Sustained-low | Compression signals normalcy. Vocabulary appears without comment. |
+| Slide 19 — acoustic anomaly | ~600 | Rising | Pace shifts. Translation surfaces briefly. "Structured." — single-word paragraph as rhythmic isolation. |
+| Filing / Park's stillness | ~300 | Medium-flat | Pace flattens. The mechanism absorbs the disruption. Park's hands: human tension in institutional architecture. |
+| Thorne exchange (boardroom) | ~800 | Rising-controlled | Anomaly reframed. Peer register. No Eduardo comparison. Parting line as status report. |
+| Closing (suite, report, wrist) | ~500 | Resolving → unresolved | Maximum compression. Classification. Wrist. Next report. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The grid confirmed the grid." / "Structured." / "She did not say this." / "She filed it." / "She did not look at him." / "She closed the file." / "The Chair opened the next report." Single declaratives terminate institutional-accumulation paragraphs throughout.
+- Opening paragraph sequence: dense (projections, buffers, friction coefficients) → dense (confirmation loop) → SHORT ("The grid confirmed the grid.") — the chapter's first rhythmic signature, establishing the loop that the whole chapter enacts.
+- Slide 19 arrival: "The anomaly arrived on slide nineteen." — section break + declarative opener. The anomaly is announced flatly, the way all institutional events are announced. The rhythm does not mark it as significant. The significance is in what follows.
+- "Structured." — single-word paragraph. The chapter's most compressed moment at its most important word. The void's response named in one word, isolated, then immediately absorbed into the institutional question ("Throughput impact?"). The rhythm enacts the filing.
+- Thorne exchange: his dialogue is shorter and more direct than in Ch 10/12 — peer register, no institutional cushions. Creates staccato against Aurielle's longer translation paragraphs. "It is a response." — four words, no inflection. The confirmation is structural, not dramatic.
+- Closing sequence: seven beats, each shorter — data chip → last page → classification → she closed the file → hum through desk → wrist rotation → next report. The deceleration is the chapter's emotional arc in miniature: recognition → filing → continuation.
+- "The Chair opened the next report." — direct echo of B2 Ch 1 closing. Same sentence. Different interiority. The rhythm is identical; the person inside it has been absorbed.
+
+**Dialogue Percentage:** ~12% (concentrated in board meeting and Thorne exchange; opening and closing are solo narration)
+
+**Pacing Concern:** Board meeting risks feeling like data delivery (slides, percentages, compliance figures). Mitigated by dual-track narration — every institutional figure is simultaneously processed through Aurielle's Phase 3 register. The absence of translation (vocabulary appears without notation) IS the pacing device: the reader waits for the translation that doesn't come, and the waiting is the horror.
+
+**Structural Note:** Ch 23 mirrors the three-beat structure of Ch 1, 10, and 12 (board → private exchange → alone at desk) while advancing each element. Board meeting: Ch 1 (inaugural) → Ch 12 (emergency) → Ch 23 (routine). Thorne exchange: Ch 1 (mentorship) → Ch 10 (briefing) → Ch 23 (peer). Closing: Ch 1 (discovery) → Ch 12 (erosion) → Ch 23 (operation). Same architecture, compressed interiority. The Phase 3 horror: the form is stable. The content is escalating. Aurielle is not changing because the change is complete.
+
+**Comparison to Ch 12:**
+- Ch 12: ~3,700 words, emergency session, crisis tempo, front-loaded toward institutional response. Vocabulary shift introduced (italicized). Wrist rotation: does not stop it. Closing: "Her wrist was still moving. She did not stop it."
+- Ch 23: ~3,500 words, routine quarterly, sustained-low tempo, vocabulary normalized (no italics). Wrist rotation: does not try to stop it. Closing: "The Chair opened the next report."
+- The rhythm has contracted: same structure, lower temperature, higher stakes. The emergency has become the routine. The routine is the escalation.
+
+**Cross-Chapter Rhythm:** Ch 22 (Malachi, blank page) → Ch 23 (Aurielle, quarterly). Phase 2 closes on institutional failure — the pen that cannot produce. Phase 3 opens on institutional operation — the mechanism running at 18% above projection. The rhythmic contrast is register: Ch 22 is solo, failing, the product gone. Ch 23 is ensemble-then-solo, operating, the product exceeding projections. Same institutional world. Different machines. One has stopped. One has not.
+
+---
+
 _Last updated: 2026-02-20_

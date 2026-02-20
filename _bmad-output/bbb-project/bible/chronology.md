@@ -2,8 +2,8 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-19"
-lastChapter: "B2 Ch 3"
+lastUpdated: "2026-02-20"
+lastChapter: "B2 Ch 23"
 totalDays: "Weeks to months (Phase 1-3), then compressed to Days 1-5 (Phase 4)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
@@ -447,5 +447,50 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-19_
-_Updated by: B2 Ch 3 — "The Locked Study" chronology update_
+### Book 2 — Phase 3 Opening (~8 months post-BLACKWEIR)
+
+**Note:** Approximate timeline. Phase 3 chapters span weeks to months. B2 Ch 23 occurs weeks after B2 Ch 22 (Malachi's blank page).
+
+**Morning (Q3 Quarterly Board Meeting — NitroCore Executive Boardroom, Neo-Shanghai Spires):**
+- SHEPHERD Q3 Operational Review presented by Marchetti (VP Strategic Development)
+- Three operational zones: Neo-Shanghai primary, Lagos secondary, Mumbai tertiary
+- Aggregate throughput: 18% above Year 1 projections
+- Compliance: 96% (4% non-compliance — voluntary transition timeline non-engagement)
+- Vocabulary fully normalized in board materials: "stewardship corridors," "managed atmospheric events," "community transition support"
+- Slide 19: Acoustic anomaly flagged — structured secondary signal during directed absorption events, consistent across all three zones
+- Aurielle: "Throughput impact?" / Marchetti: "None." / Aurielle: "Continue monitoring. Flag any throughput variance. Route the acoustic data to the analysis team for classification."
+- Anomaly filed as monitoring priority — board moves to slide 20
+- Park (board abstainer): hands flat on table, stillness changed since Reyes publication
+- Characters: Aurielle Vasquez (POV), Marcus Thorne, Marchetti, Hendricks, Park, board members
+- Location: NitroCore Executive Boardroom, Neo-Shanghai Spires
+- Consequences: SHEPHERD expansion treated as routine; acoustic anomaly institutionally absorbed; five-zone scaling model authorized for Q4 planning
+
+**Late Morning (Private Exchange — Boardroom, after board clears):**
+- Thorne remains; private exchange in boardroom (first time — not executive suite)
+- Thorne confirms: acoustic signal is not noise — coherence check run before quarterly, signal demonstrates internal structure, frequency modulation consistent with information encoding
+- Aurielle: "It's a response." / Thorne: "It is a response."
+- Thorne reframes: "A feedback mechanism is not a liability. It is a control variable."
+- Thorne produces acoustic analysis report (data chip, municipal standard format)
+- Thorne parting line: "We're past the part where this looks like anything other than what it is. That's not a problem. That's the operating environment."
+- Eduardo comparisons retired — peer register established
+- Characters: Aurielle Vasquez, Marcus Thorne
+- Location: NitroCore Executive Boardroom
+- Consequences: Acoustic anomaly reframed as operational opportunity; five-zone scaling model timeline compressed; Thorne-Aurielle dynamic shifts from briefing to peer
+
+**Afternoon (Executive Suite — Eduardo's Desk):**
+- Aurielle reads acoustic analysis report (47 pages) from last page first
+- Last page: signal classification matrix — three zones, nearly identical profiles
+- Classification field: "Non-random. Origin unclassified. Monitoring priority — recommend expanded sensor deployment."
+- Aurielle understands what "non-random, origin unclassified" means — does not act on it
+- Closes file
+- Wrist rotation: does not try to stop it (trying abandoned — verb shift from Ch 12)
+- Opens Q4 infrastructure allocation: five-zone scaling model
+- "The Chair opened the next report."
+- Characters: Aurielle Vasquez
+- Location: NitroCore Executive Suite, Eduardo's desk
+- Consequences: Acoustic anomaly filed; five-zone scaling model open; mechanism continues. Forward: Ch 23A (site inspection), Ch 32 (kill chain), Phase 4 Voice.
+
+---
+
+_Last updated: 2026-02-20_
+_Updated by: B2 Ch 23 — "Stewardship" chronology update_

@@ -1,0 +1,126 @@
+chapter_number: 23
+book: 2
+title: "Stewardship"
+pov_character: "Aurielle Vasquez"
+phase: 3
+location: "Neo-Shanghai Spires — NitroCore Executive Boardroom / Executive Suite"
+timeline: "~8 months post-BLACKWEIR, weeks after Ch 22 (Malachi's second draft)"
+estimated_word_count: 3500
+actual_word_count: ~3500
+epigraph_source: "NitroCore Q3 Operational Review — Anchor Zone Stewardship Program (Directive 7.3)"
+epigraph_author: "Strategic Development Division (Marchetti)"
+mode: PRESSURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  SHEPHERD is operational across three Anchor Zones (Neo-Shanghai primary,
+  Lagos secondary, Mumbai tertiary). The Q3 quarterly board meeting presents
+  throughput optimization curves — 18% above Year 1 projections. The
+  vocabulary shift from Ch 12 is fully normalized: "stewardship corridors,"
+  "managed atmospheric events," "community transition support" appear in
+  slide headers without comment. The board processes the expansion as routine.
+  Slide 19: the data team flags an acoustic anomaly — Anchor Zone output is
+  producing structured secondary signals during directed absorption events.
+  The void is not just absorbing. It is answering. Aurielle knows this. She
+  has the Reyes document, the mage network corroboration, the atmospheric
+  sensor data. She asks the institutional question: "Throughput impact?"
+  Answer: none. "Continue monitoring." The anomaly is filed. Thorne, after:
+  "If the void is responding to directed events, we have a feedback mechanism.
+  That's not a liability. That's a control variable." Aurielle reads the
+  acoustic analysis from the last page. Classification: "Non-random. Origin
+  unclassified. Monitoring priority." She closes the file. Her wrist rotates.
+  She does not try to stop it. She opens the next report.
+
+# Key Events
+key_events:
+  - "Q3 quarterly board meeting — SHEPHERD at three operational zones"
+  - "Throughput 18% above Year 1 projections (Neo-Shanghai / Lagos / Mumbai)"
+  - "Vocabulary fully normalized — stewardship corridors, managed atmospheric events in slide headers"
+  - "Slide 19: acoustic anomaly flagged — structured secondary signal during directed absorption events"
+  - "Aurielle: 'Throughput impact?' / Marchetti: 'None.' / Aurielle: 'Continue monitoring.'"
+  - "Anomaly filed as monitoring priority — board moves to slide 20"
+  - "Park: hands flat on table, stillness changed since Reyes publication, not changed back"
+  - "Thorne private exchange (boardroom — first time, not executive suite)"
+  - "Thorne: 'A feedback mechanism is not a liability. It is a control variable.'"
+  - "Thorne parting line: 'We're past the part where this looks like anything other than what it is. That's not a problem. That's the operating environment.' — Eduardo comparisons retired"
+  - "Acoustic analysis report: 47 pages, last page first"
+  - "Classification: Non-random. Origin unclassified. Monitoring priority."
+  - "Wrist rotation: does not try to stop it (trying abandoned)"
+  - "Five-zone scaling model authorized for Q4 planning"
+  - "Closing echo: 'The Chair opened the next report.' — direct echo of B2 Ch 1"
+
+# Characters Present
+characters:
+  - name: "Aurielle Vasquez"
+    role: POV
+    state: "Phase 3. Vocabulary fully normalized — translation no longer marks euphemism. Acoustic anomaly recognized and filed. Wrist rotation not tried. Dual-track collapsed into single register. 'She was the mechanism.'"
+  - name: "Marcus Thorne"
+    role: Supporting (boardroom — private exchange)
+    state: "Beside her in boardroom. Private exchange stays in boardroom (first time — not executive suite). Eduardo comparisons retired. Peer register: 'operating environment.' Acoustic anomaly as feedback mechanism / control variable."
+  - name: "Marchetti"
+    role: Supporting (VP Strategic Development)
+    state: "Presents Q3 quarterly. Briefing rhythm unchanged. Flags acoustic anomaly on slide 19."
+  - name: "Hendricks"
+    role: Supporting (General Counsel)
+    state: "Reads individual curves for legal exposure. Consistent with Ch 1, 10, 12."
+  - name: "Park"
+    role: Supporting (abstainer)
+    state: "Stillness changed since Reyes publication, not changed back. Hands flat on table — 'a man holding something down.' No dialogue. One registered gesture."
+
+# Themes
+themes:
+  - "Architecture of Power (mechanism as absence of decision — institutional momentum without the interval where choice could occur)"
+  - "Systemic Complicity (recognition without brake — 'She was the mechanism')"
+  - "Progress Requires Atrocity (SHEPHERD expanding, anomaly absorbed, five-zone scaling authorized)"
+  - "The Cost of Knowing (knowing the void is answering, knowing the origin is unclassified, knowing what 'non-random' means — changes nothing)"
+  - "Commodification of Suffering (vocabulary as infrastructure — the euphemism has become the institutional language)"
+
+# Symbols
+symbols:
+  - name: "The hum"
+    appearances: 4
+    arc: "Attenuated by boardroom noise-cancellation, returns when door seals. Felt through table, chair, bones. Infrastructure constant."
+  - name: "The desk"
+    appearances: 2
+    arc: "Eduardo's walnut desk — wear on left side she doesn't lean on. The distinction has stopped mattering."
+  - name: "Wrist rotation"
+    appearances: 1
+    arc: "Phase 3: does not try to stop it. The trying abandoned. Last involuntary signal."
+  - name: "The data chip"
+    appearances: 1
+    arc: "Municipal standard — same format as SHEPHERD humanitarian framework (Ch 10). Delivery mechanism unchanged. Content escalating."
+  - name: "Park's hands"
+    appearances: 1
+    arc: "Flat on table — Aurielle's posture for claiming territory. On Park: suppression."
+  - name: "Slide nineteen"
+    appearances: 1
+    arc: "The anomaly embedded in routine — slide 19 of 23. Institutional framing absorbs it before it can be named."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 22 (Malachi's blank page — Phase 2 closes)"
+  - "SHEPHERD: 1 trial site (Ch 12, +12%) → 3 operational zones (Ch 23, +18% aggregate)"
+  - "Compliance: 6% non-compliant (Ch 12) → 4% non-compliant (Ch 23) — program maturing"
+  - "Vocabulary shift: introduced Ch 12 (Pryce) → fully normalized Ch 23 (no italics, no notation)"
+  - "Wrist rotation arc: stopped (Ch 10) → not stopped (Ch 12) → not tried (Ch 23)"
+  - "Dual-track narration arc: ambient (Ch 1) → integrated (Ch 10) → noticed/filed (Ch 12) → delayed/collapsed (Ch 23)"
+  - "Thorne geometry: boardroom beside her (consistent). Private exchange: boardroom first time (not executive suite)"
+  - "Eduardo comparisons: retired. Thorne shifts from mentor to co-operator."
+  - "Closing line echoes B2 Ch 1 exactly: 'The Chair opened the next report.'"
+  - "Acoustic anomaly cross-reference: AEGIS Ch 19 (same phenomenon, 'secondary modulation, unclassifiable')"
+  - "Forward: Ch 23A 'Ground Level' (anomaly seeds site inspection)"
+  - "Forward: Ch 32 'Kill Chain' (Mumbai throughput data = targeting infrastructure)"
+  - "Forward: Phase 4 Voice chapters (void organizing toward Voice event)"
+  - "Five-zone scaling model: authorized for Q4 planning — SHEPHERD expansion timeline"
+
+# Thread Status
+thread_status:
+  shepherd: "Three operational zones (Neo-Shanghai / Lagos / Mumbai). Throughput 18% above Year 1 projections. Acoustic secondary signal: non-random, origin unclassified, monitoring priority. Five-zone scaling model in Q4 allocation."
+  acoustic_anomaly: "Flagged by data team. Structured secondary signal during directed absorption events. Filed as monitoring priority. Thorne: feedback mechanism / control variable. Classification: non-random, origin unclassified. Cross-reference: AEGIS Ch 19."
+  aurielle_arc: "Phase 3 — vocabulary normalized, dual-track collapsed, wrist rotation not tried, mechanism recognized and executed. 'She was the mechanism.'"
+  thorne_dynamic: "Eduardo comparisons retired. Peer register. Private exchange migrating out of Eduardo's space (boardroom, not suite). 'Operating environment.'"
+  park_tension: "Stillness changed since Reyes publication. Hands flat — suppression posture. No dialogue. Setup for potential future break."
+  vocabulary_shift: "Fully normalized. No italics. No internal notation. Stewardship corridors / managed atmospheric events / directed atmospheric events / community transition support / voluntary transition timeline."
