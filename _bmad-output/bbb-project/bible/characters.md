@@ -687,10 +687,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 2/5 Book 2 (Post-convergence — vocabulary confirmed, streaming returned)
-- Emotional State: Convergence with Nephthys confirmed what fourteen months of filing suggested: the signal carries individual signatures. Names. The absorbed are a population, not a phenomenon. The private vocabulary she built with Idris has been tested against an entirely different epistemological framework and held. First public stream post-expulsion (31K+ viewers from Neo-Shanghai). Ring light back on. The intellectual curiosity that drove her to Neo-Shanghai produced recognition, not alliance.
-- Dominant Beliefs: "The absorbed were people. They are still there." Confirmed technologically AND theologically. Book 2 Lie intact: "If I can calibrate, I can handle the load" — 60mg holding provisionally, but Neo-Shanghai signal density is higher than Bay Area. New belief: the signal is directed, addressed, carries names. Naming the signal and listening to it are the same act.
-- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina at 60mg, provisional). Building a new institution (214-member network with formalized data architecture) while believing she's just filing. The vocabulary she's creating is now corroborated by a prophet — which gives it theological weight she didn't ask for. Shared 14 months of telemetry with Imani — her data is now inside Nephthys's framework. Tremor persistent. The Cathedral's dephasing gave her the first comfortable signal experience since BLACKWEIR — what does it mean that the only place the signal feels manageable is inside someone else's sacred space?
+- Phase: 3/5 Book 2 (Relay coordinator — management frame collapsed, burning)
+- Emotional State: São Paulo relay. 400+ mages. Seven went dark. Tomás confirmed neurological damage. She managed the relay, kept the ring light on, translated for 71K viewers, and took 60mg Lumina mid-crisis at noon because the signal load was more than her R3 could process while functional. The management identity — "calibrating," "adjusting," "filing," "controlling" — named itself and collapsed. "She was not calibrating anymore." The Paz call at the end is the first action taken without the management frame. The curve has moved.
+- Dominant Beliefs: "The absorbed were people. They are still there." Confirmed technologically AND theologically. Book 2 Lie cracking: "If I can calibrate, I can handle the load" — 60mg now used mid-crisis (daytime), not just nightly. The calibration frame has been named as the Lie it is. New knowledge: the relay is military-grade intelligence infrastructure on civilian nervous systems. She built it. It works. It burned seven people. The data is extraordinary.
+- Internal Contradictions: Built the architecture that burned seven people's implants. The data they captured is extraordinary and they are in hospitals. The relay is the most capable mage sensor network ever assembled and it has no protections. She is twenty years old and she is the hub and the hub is burning. Knows what the signal carries (names, individuals, a population) — and relayed it through 400 human nervous systems anyway because the data mattered.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -703,7 +703,7 @@ This bible dimension tracks **current character states**:
 |-----------|--------|----------|---------|
 | Dex | Group chat (Academy friend) | Warm | Comic normalizer; meme-fluent; affectionate mockery |
 | Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 11:30 UTC; original catalyst |
-| Tomás | Mage network (São Paulo) | Warm | Connected through streamer circuit; telemetry contributor |
+| Tomás | Mage network (São Paulo) | Warm — now debt | Connected through streamer circuit; telemetry contributor. Ch 28: ground-level relay, longest node active, confirmed neurological damage. His last entry truncated mid-sentence. |
 | Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; minimal, precise |
 | Ren Matsuda | Mage network (Kyoto, research) | Trusted | Documents everything; first to message (B1 Ch 18); now has contact in Nephthys's circle |
 | Lena Okafor | Mage network (Lagos, active) | Professional | Direct; telemetry contributor; Lagos FAS trunk-line data |
@@ -714,11 +714,25 @@ This bible dimension tracks **current character states**:
 | Varma Academy | Institutional (severed) | Adversarial | Formally expelled under Section 22.7; grounding terms dead with relationship |
 | Nephthys | Met (converged) | Active | Convergence achieved at Cathedral. Same signal, different receiver. "Names." Recognition, not alliance. Neither defers. Shared 14 months telemetry via Imani. |
 
-**Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 2/5 Book 2 (Post-convergence — vocabulary confirmed, streaming returned, Neo-Shanghai)
+**Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → São Paulo Relay → Mumbai Relay → Second Broadcast → 80mg
+- Current Phase: 3/5 Book 2 (Relay coordinator — management frame collapsed, burning)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21. Network 47/9 → 214/31. Filing → dataset → language → language tested against theology. First voice call (Idris). Nephthys convergence achieved. Ring light returned (first post-expulsion stream, 31K+ viewers). 14 months telemetry shared with Imani. "Names" — both receivers resolving individual signatures. New Lie intact: "If I can calibrate, I can handle the load."
-- Next Step: Phase 3 — Mumbai relay (knows what signal carries). Lumina escalation. Streaming consequences from Neo-Shanghai broadcast.
+- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28. Network 47/9 → 214/31 → 400+. Filing → dataset → language → language tested → relay coordinator → burning. Lumina 60mg now daytime-accessible (crisis use). Seven mages dark. Management Lie named and cracking. Paz call initiated.
+- Next Step: Phase 3 → Mumbai relay (Ch 34). Paz dosage conversation (75mg threshold). Stream captured São Paulo relay — institutional/media reactions incoming. The curve has moved.
+
+**Recent History (B2 Ch 28):**
+- São Paulo breach, Category 3. Relay opened 14:07 UTC. 400+ mages worldwide. Ring light on — streaming live, 71K peak viewers. Translated mage telemetry for audience in real time.
+- Key relay data: void produces structured output directed at monitoring equipment. Not ambient, not broadcast — directed. Coherence maps, propagation vectors, neural signature encoding captured. Best picture of a live breach ever recorded.
+- Three mages dark in first nine minutes: Lena (Accra, R3 burnout confirmed), Jakarta, Kyoto. Routed all three to medical. Kept relay open.
+- Own R3 screaming under load — signal in teeth, jaw, bone behind ears. Walked to bathroom mid-relay. Stream showed empty chair. Took 60mg Lumina at noon (first daytime use — escalation marker). Cold burn. Subtraction. No ritual. Chord shapes on bathroom counter (A minor, D diminished seventh). Pharmacist's face surfaced as memory only.
+- Returned to stream: "Sorry, chat. Had to step away." Voice thinner. Relay continued.
+- Breach stabilized 16:43 UTC. Not closed — stabilized. São Paulo now in the populated chord.
+- Seven total mages dark: Lena (Accra), Jakarta, Kyoto, Mumbai (R2), Lagos (Idris's cohort), Bay Area, Tomás (São Paulo — ground-level, longest active, confirmed neurological damage, hospitalized). His last entry truncated mid-sentence describing directed void output.
+- Told stream: "Seven mages went dark during the relay. The people who captured it are in hospitals." Ring light off.
+- Sitting in the dark, knees up, HUD off (first time since Neo-Shanghai). "She was not calibrating anymore." Management frame named and collapsed.
+- Called Paz. Call connected. Dosage conversation pending.
+- Lumina status: 60mg now daytime-accessible (crisis use). Nightly use continues. Paz's 75mg threshold is next.
+- Stream captured relay — second major broadcast event (after 11-second clip). 71K peak viewers witnessed mage network in operation. Institutional/media reactions incoming.
 
 **Recent History (B2 Ch 21):**
 - Ring light activated in transit car — first public stream post-expulsion. No announcement, no pre-stream ritual. Just turned it on. 31K+ viewers.

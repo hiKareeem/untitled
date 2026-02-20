@@ -752,4 +752,48 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+---
+
+### Chapter 28 — "Signal Load" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Immediate-high (relay opens, signal hits spine before first report) → sustained-escalating (relay scales, data extraordinary, Lena drops) → peak-crisis (R3 screaming, bathroom, 60mg mid-relay) → sustained-high (relay continues, Jakarta/Kyoto drop) → resolving-heavy (breach stabilizes, seven-dark enumeration, stream report) → still (dark apartment, fold, Paz call)
+**Pacing:** Three-movement structure. Movement I (relay opens + scales) = ~40%. Movement II (R3 screaming + 60mg) = ~25%. Movement III (aftermath + dark) = ~35%. The chapter front-loads crisis and decelerates into its most thematically dense section.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Relay opens — signal hits spine, ring light on, first report | ~400 | Immediate-high | Fast. Signal before data. Stream-voice activated. |
+| Relay scales — data waves, translation for chat, Lena drops | ~900 | Sustained-escalating | Medium-fast. Relay reports formatted as telemetry entries. Three mages dark in nine minutes. |
+| R3 screaming — bathroom, 60mg, chord shapes, pharmacist memory | ~700 | Peak-crisis | Compressed. The chapter's emotional center. Ritual language without ritual context. |
+| Relay continues — breach stabilizes, seven-dark enumeration | ~800 | Sustained → resolving | Medium. The counting. Tomás last. Medical routing list read in full. |
+| Stream report + ring light off | ~200 | Resolving-heavy | Compressed. "The people who captured it are in hospitals." Maximum isolation. |
+| Dark apartment — fold, quiet room at noon, Paz call | ~700 | Still | Slow. The management frame named and collapsed. "She was not calibrating anymore." Paz call as final action. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Then Lena went dark." / "Seven." / "The call connected." Single declaratives terminate dense relay-description and enumeration paragraphs.
+- "Seven." — isolated single-word paragraph. The chapter's emotional pivot. Not "seven mages" or "seven nodes." Just the number. The compression is the weight.
+- "The call connected." — two words, isolated paragraph. The chapter's closing beat. Not the conversation — the action. The curve acknowledged without drama.
+- Relay reports formatted as telemetry entries (bold header, italic content) — the filing system under live load. The format is the character: she organizes even when the organization is failing.
+- Movement II (bathroom) is the chapter's rhythmic center of gravity. The stream shows an empty chair. Chat interprets. The ritual language ("Scale, vial, straw. The cold burn. The subtraction.") arrives without the ritual context — same words, wrong time. The compression of the familiar into the unfamiliar is the pacing device.
+- Movement III decelerates deliberately. The quiet room at noon vs. midnight distinction is the chapter's most sustained contemplative passage — the only section where the relay is fully over and she is alone with what it cost. The Paz call ends the chapter without resolution, without cadence. The curve has moved. The sentence continues.
+- No closing cadence matching Ch 6/16's "the quiet room held." Ch 28 earns a different ending: the Paz call and "Seven. She was going to remember that number." The quiet room is present but repositioned — mid-chapter, not closing beat.
+
+**Dialogue Percentage:** ~18% (stream-address dialogue dominant; Idris's message; Paz's recalled warning in italics). Stream-address dialogue is the chapter's primary dialogue mode — Kira translating for 71K viewers is the public layer over the operational relay layer.
+
+**Pacing Concern:** The relay's data-delivery risk (too much telemetry, not enough interiority) is mitigated by three devices: (1) the telemetry entries are formatted and brief, not narrated; (2) the translation passages are filtered through Kira's performer-as-translator voice; (3) the node-dropout beats ("Then Lena went dark.") interrupt the data flow with human cost at regular intervals. The reader processes information and horror simultaneously — the same dual-track structure as Aurielle's chapters, different register.
+
+**Structural Note:** Ch 28 is the Phase 3 Kira chapter — the relay coordinator. It pairs with Ch 34 (Mumbai relay — catastrophic, order-of-magnitude worse) as a two-chapter unit: São Paulo (manageable, barely) → Mumbai (not manageable). The rhythm of Ch 28 — sustained-high with a heavy resolving movement — will be the baseline against which Ch 34's catastrophic register lands. Ch 28 is the chapter where the management frame cracks. Ch 34 is where it breaks.
+
+**Comparison to Ch 6 / Ch 16 / Ch 21:**
+- Ch 6: ~4,200 words, Bay Area apartment, ring light off, Lumina 60mg established, Paz scene, network 47/9. Closing: "the quiet room held."
+- Ch 16: ~4,100 words, expulsion letter, Idris call, pharmacist scene, Imani message. Closing: "the quiet room held."
+- Ch 21: ~4,100 words, Cathedral, ring light on/off, Nephthys convergence, "Names." Closing: Nephthys in the dark, blood darker.
+- Ch 28: ~4,200 words, relay, ring light on/off, 60mg daytime, seven dark, Paz call. Closing: "The call connected." — no quiet room closing beat. The management frame is gone. The sentence continues.
+- Together: ring light off (Ch 6) → ring light freed (Ch 16) → ring light on/off as tool (Ch 21) → ring light as relay instrument (Ch 28). Lumina: 60mg nightly (Ch 6) → 60mg provisional (Ch 16) → not mentioned (Ch 21) → 60mg daytime crisis (Ch 28). The escalation is structural across all four chapters.
+
+**Cross-Chapter Rhythm:** Ch 27 (Malachi, Prague — sitting in the dark, management frame hollow) → Ch 28 (Kira, Signal Load — sitting in the dark, management frame collapsed). Two consecutive Phase 3 chapters. Both end on the same posture: person in the dark, the thing they built to manage the situation no longer managing it. Malachi's tools produced the wrong thing. Kira's tools burned seven people. The rhythm is the same. The products are different. The dark is the same.
+
+---
+
 _Last updated: 2026-02-20_

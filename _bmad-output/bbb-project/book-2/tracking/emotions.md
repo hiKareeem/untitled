@@ -443,4 +443,27 @@
 
 ---
 
+---
+
+### Chapter 28 — "Signal Load"
+
+**Kira Calloway (POV):**
+- **Entering State:** Post-Ch 21. Nephthys convergence complete. "Names" confirmed — both receivers resolving individual signatures. Ring light back on. Network 214/31. Lumina 60mg provisional. Management Lie intact: "If I can calibrate, I can handle the load."
+- **Emotional Arc:** Immediate operational readiness (relay opens, stream-voice, ring light on — the hub functioning) → sustained management under escalating load (data extraordinary, Lena drops, Jakarta drops, Kyoto drops — she routes and continues) → peak-crisis (R3 screaming, the management identity requires chemical intervention to continue — bathroom, 60mg at noon, chord shapes on counter, pharmacist's face as memory of ordinary) → sustained management resumed, thinner (relay continues, breach stabilizes, seven-dark enumeration — the counting is the cost) → witness mode (stream report: "The people who captured it are in hospitals" — not performing, reporting) → still (dark apartment, fold, the management frame named and collapsed, Paz call)
+- **Dominant Emotion:** The specific weight of a management identity encountering the thing it cannot manage. Not despair — the stream-voice holds through the relay. Not crisis — the tools function. The horror is that the tools function and burn seven people and produce extraordinary data and she is twenty years old and she built all of it and the building worked and the working cost seven people their implant function and the data is extraordinary. The coexistence of these facts without resolution is the chapter's emotional state.
+- **Key Emotional Beat:** "She was not calibrating anymore." — the management frame named and collapsed. Fourteen months of "adjusting the dosage, managing the load, filing the data, building the network, translating for the audience, performing the steady management of a situation that was not manageable and calling the management *control*." The word *control* is the Lie. The Lie has been named. Not by an external force — by the relay itself. Seven people's implants burned out inside the architecture she built.
+- **Secondary Beat:** "Seven." — isolated paragraph. The count. Not "seven mages" or "seven nodes." The number as weight. She can name three of them. Tomás's last entry truncated mid-sentence. He was filing what the signal *was* when the signal broke the thing that let him file. The sentence is the chapter's most precise image of what the relay costs.
+- **Tertiary Beat:** The Paz call. Not shown as scene — just the action. "She pressed call." / "The call connected." The management frame is gone. The first action taken without it is not filing, not translating, not routing. It is acknowledging the curve has moved. The Paz call is the emotional terminus: not resolution, not collapse, not heroism. Just: the next thing that needs to happen.
+- **Exiting State:** Sitting in the dark, knees up, HUD off, Lumina working its midday shift. The quiet room is present but it is a pause, not an ending. "A chemical parenthesis in a sentence that was still being spoken." The sentence is the relay, the network, the signal, the cost. The Paz call is connected. The conversation is pending. The curve has moved.
+- **Emotional Shift from Ch 21:** Ch 21 ends with recognition — the antenna and the ear, the vocabulary confirmed, the management Lie intact. Ch 28 ends with the management Lie named and cracking. The distance between "the vocabulary is confirmed" and "I am not calibrating anymore" is the distance between Phase 2 and Phase 3. In Phase 2, the tool worked and she knew what it was doing. In Phase 3, the tool worked and she knows what it cost.
+
+**Kira's Emotional Lie Arc (cumulative):**
+- B1 Ch 10/18/51: "If I control the platform, I control the narrative of what I am." The original Lie — platform as identity management.
+- B2 Ch 6: "If I can calibrate, I can handle the load." The Book 2 Lie — chemical/operational management as control. 60mg established. Paz's warning noted and set aside.
+- B2 Ch 16: Lie intact. Expulsion = freedom. Ring light freed. "Not tonight. But soon." The management identity expanding, not contracting.
+- B2 Ch 21: Lie intact. Nephthys convergence. "Names." The management identity confirmed by a second framework. Still calibrating.
+- **B2 Ch 28: "She was not calibrating anymore." The Lie named in the chapter's own narration. Not by a character — by the prose. The management frame has named itself as a frame. The Paz call is the first action taken outside it. The Lie is cracking. It has not broken. The curve has moved. The sentence continues.**
+
+---
+
 _Last updated: 2026-02-20_
