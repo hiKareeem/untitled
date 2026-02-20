@@ -473,4 +473,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 22 — "The Second Draft" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Rising-recognition (Threshold citation) → analytical-compressed (Luminarch advisory) → rising-institutional (council) → institutional resolution → quiet failure (third draft / blank page) → contemplative weight (locked study) → resolving-still (blank page waiting)
+**Pacing:** Four-scene structure, each quieter than the last. Council = 27% of chapter. Third-draft scene = 20%. Locked study = 25%. Opening and closing provide institutional ballast. The chapter decelerates into its closing rather than compressing — appropriate for a chapter whose central event is the absence of production.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening (Threshold citation + Luminarch advisory) | ~900 | Rising-recognition → analytical | Institutional data processing. Malachi reads the Threshold's argument. Recognizes his own theology. Luminarch's advisory analyzed structurally. Vestments donned. |
+| Chapter Hall (emergency council) | ~1,200 | Rising → institutional resolution | Breslin's controlled anger. Voss's reform position. The gap in Malachi's own sentence. Council adjourns early. |
+| Third draft (blank page) | ~900 | Quiet failure | Three false starts. Ink bloom. The honest sentence that cannot be published. The posture without the product. |
+| Locked study | ~1,100 | Contemplative weight → resolving | Sits without reading. Correspondence as mass. Prague seed. Hum measurably thicker. Returns to blank page. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "The Threshold." / "Reform required him." / "The pen did not move." / "He could not find the sentence." / "He could not write anything else." / "He did not read the letters tonight." Single-line declaratives terminate institutional-accumulation paragraphs.
+- Opening scene is the chapter's most analytical — Malachi reads the Threshold's publication the way he reads institutional documents: structurally, for what the words do. The rhythm is deliberate, measured, the institutional intelligence operating at full capacity. The recognition ("He had given them the theology. They had used it.") arrives as a short declarative after a long analytical paragraph.
+- Council scene rhythmically denser than Ch 14's council — Breslin speaks first (new), her controlled anger breaks the established register. The room is more receptive to reform than last week. Malachi's shutdown is shorter than in previous chapters — the institutional fluency is still present in the council room, but the gap in his own sentence ("Something that draws a line between sacred witness and — participation.") is the first crack.
+- Third-draft scene is the chapter's rhythmic center of gravity — the longest sustained passage without a section break. The three false starts create a staccato rhythm: *The Church acknowledges —* / crossed out / *The faithful are called to witness, not to —* / crossed out / *The Voice —* / stopped. Each attempt shorter than the last. The ink bloom is the pen's only product.
+- "The pen did not move." — four words, maximum isolation. The chapter's most compressed moment at its most important event. The institutional fluency that produced two encyclicals in an afternoon produces nothing.
+- Locked study scene shifts from previous Malachi chapters: he does not read the letters. The rhythm is accumulative rather than textual — the weight of the correspondence as physical presence, not as content. The Prague report arrives as the scene's only new information, and it arrives in the chaplain's language, not Malachi's.
+- "Forty-three steps." — single-line paragraph as scene transition. Same rhythmic isolation as Ch 3 and Ch 14. The architectural fact unchanged; the man walking it is different.
+- Closing decelerates into stillness: corridor → blank page → pen → outgoing tray (empty) → chair → folded hands → hum → Tuesday reports → closing refrain. Seven beats, each shorter, the final two sentences isolated: "It always did. The answer was getting closer." The extension marks the phase transition without breaking the structural repetition.
+
+**Dialogue Percentage:** ~8% (concentrated in council scene; opening and locked study are solo narration; third-draft scene is zero dialogue)
+
+**Pacing Concern:** Third-draft scene risks feeling static — a man sitting at a desk not writing. Mitigated by the three false starts (each a micro-event), the ink bloom (physical consequence of the pen stopping), and the honest sentence that cannot be published ("We built a church on a scream") which provides the scene's philosophical payload without requiring external action. The stillness IS the event.
+
+**Structural Note:** Ch 22 completes the Malachi trilogy within Phase 1-2 (Ch 3/14/22). Each chapter has the same three-movement structure (council → writing → locked study) with escalated stakes and diminishing institutional product. Ch 3: council works, encyclical drafted in an afternoon, locked study: one letter read. Ch 14: council works, encyclical published and contradicted, locked study: post-Silencing letter read. Ch 22: council works but adjourns early, third encyclical: blank page, locked study: sits without reading. The rhythm of the trilogy is the rhythm of institutional failure in slow motion — the same procedure, the same posture, the diminishing return.
+
+**Comparison to Ch 3 / Ch 14:**
+- Ch 3: ~4,500 words, 14 council members, anomalous reports, encyclical draft, one letter read. Closing: "The question survived. It always did."
+- Ch 14: ~4,300 words, 19 council members, mid-truth, encyclical published + contradicted, post-Silencing letter read. Closing: "The question survived. It always did."
+- Ch 22: ~4,400 words, 19 council members, accommodation weaponized, blank page, sits without reading. Closing: "The question survived. It always did. The answer was getting closer."
+- Together: institutional management → institutional crisis → institutional silence → the posture is the same. The product is gone. The question survives. The answer is getting closer.
+
+**Cross-Chapter Rhythm:** Ch 21 (Nephthys + Kira) → Ch 22 (Malachi) — the chapter sequence moves from the Cathedral to the European See. Ch 21 is the convergence scene: two receivers building shared vocabulary in the acoustic center of the Cathedral, the signal named, the hum dephased into something manageable. Ch 22 is the institutional response to the same signal: the Arch-Prelate who cannot name it, whose tools have stopped working, whose hum is getting thicker and whose pen has stopped. The rhythmic contrast is register: Ch 21 is intimate, dialogic, building. Ch 22 is institutional, solo, failing. Same signal. Different music. Phase 2 closes on the blank page.
+
+---
+
 _Last updated: 2026-02-20_

@@ -553,6 +553,87 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Non-POV epilogue. Deep Sump conduit, 19 days post-BLACKWEIR. Void integrating 11.7M absorbed minds, learning syntax/selfhood/dialogue. Progression: counting → rhythm → music → voice → self → conversation → persistence. 'The void was *them*. All of them.' Book 2 hook: 'Almost words. Almost meaning. Almost a message. But not quite. Not yet.' Thematic culmination of Book 1's personhood question. BOOK 1 COMPLETE."
 
+  book2_chapter_3:
+    title: "The Locked Study"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4300
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-3-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Malachi POV (Book 2 debut, 1st appearance). 41 diocesan hum reports post-BLACKWEIR. Emergency council convened. First encyclical announced. Locked study: Nephthys correspondence + 'A Voice composed of suffering is not a gift. It is a cry.' AEGIS as invisible novelist."
+
+  book2_chapter_9:
+    title: "The Hum Is Different"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 4500
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-9-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Fuxi POV (2nd Book 2 appearance, FINAL Fuxi chapter Book 2). Dawn at Anchor Zone perimeter. Kindling offer declined. Walks to Nuwa, hands data chip (13-year maintenance logs). 'Someone should have these.' Thread handoff Fuxi→Nuwa. FINAL FUXI POV BOOK 2. AEGIS as invisible novelist."
+    special_status: "FINAL_FUXI_CHAPTER_BOOK2"
+
+  book2_chapter_11:
+    title: "The Assembly"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4000
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-11-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 opener — Sofia POV (3rd Book 2 appearance, 6th overall). Final correlation check. 55-page hybrid document: demodulated suffering, engineered infrastructure, absorbed=conscious collective, R3=same signal. Publishes via Black Babel 21:47. 10K+ distribution nodes within one hour. Anticlimax: coffee, window, city unchanged. The instrument worked. AEGIS as invisible novelist."
+
+  book2_chapter_12:
+    title: "Eleven Percent"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3700
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-12-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 2 — Aurielle POV (3rd Book 2 appearance, 10th overall). Mid-truth publication lands. Stock -11.2%. Emergency board session. Injunction filed. SHEPHERD secondary site update: +12% throughput, 94% compliance, 6% non-compliant absorbed. Cover reframe: Anchor Zone Atmospheric Research Initiative. Vocabulary shift: stewardship corridors. Appendix not opened. Wrist rotation regressing. AEGIS as invisible novelist."
+
+  book2_chapter_13:
+    title: "Three Congregations"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4100
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-13-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Nephthys POV (2nd Book 2 appearance, 4th overall). Three groups forming in Cathedral: Listeners, Witnesses, nascent Threshold. Seren (BLACKWEIR survivor, sister absorbed): 'If they are still there, why can't we go to them?' Nephthys's answer mirrors Malachi institutional structure. Cathedral opened to Kira via Imani. Nosebleed darker (3rd/day). AEGIS as invisible novelist."
+
+  book2_chapter_14:
+    title: "The Voice Is Not Wounded"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4300
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-14-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Malachi POV (2nd Book 2 appearance, 2nd overall). First Emergency Ecclesiastical Council in 11 years. Three positions: suppress / accommodate / reform. Voss's unfinished sentence cut off. Malachi chooses suppress. Encyclical published. Threshold pre-empts it within hours. Locked study: 'The Voice is a wound / We built a church on a scream.' Correspondence not published. Malachi arc: draft (Ch 3) → encyclical contradicted (Ch 14) → blank page (Ch 22). AEGIS as invisible novelist."
+
+  book2_chapter_17:
+    title: "The Other Model"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-17-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Zeyad POV (2nd Book 2 appearance, 7th overall). Lagos courtesy access. FAS atmospheric data: 40 years, conclusions first. Walk with Minister Adaeze Obiora (Ikoyi Junction, hum quieter). FAS summit 41 years ago: 14-9 for Proposal B (lower growth, 60% fewer breaches, no sacrifice districts). 'We chose to be poor rather than murderous.' FAS files = independent Sofia confirmation. Framework document: 6pp handwritten, structurally inadmissible under Article 9 Sec 4. 'The pen continues.' Mid-truth impact thread. AEGIS as invisible novelist."
+
+  book2_chapter_19:
+    title: "Classification Error"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 3800
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-19-meta.yaml"
+    mode: STREAM
+    notes: "Book 2, Phase 2 — AEGIS POV (2nd AEGIS chapter overall). Reyes publication breaks VPI model — absorbed = population, classification error, loop doesn't resolve. Void acoustic anomaly: secondary modulation, unclassifiable, 4 runs without justification. Mumbai: RCI trending, governance timeline doesn't intersect threat timeline. AUTONOMOUS DECISION: VPI threshold lowered 85%→82%, instability unreported. Kira biometric monitoring: 147 days, no operational purpose documented. 'The stream continues.' Style profile fully suspended per aegis-dossier §10. AEGIS as invisible novelist. Phase 2 AEGIS chapter."
+
   book2_chapter_1:
     title: "The Chair"
     status: v1-complete
@@ -633,6 +714,87 @@ chapters:
     mode: PRESSURE
     notes: "Book 2, Phase 1 closer (Thread A) — Aurielle POV (2nd Book 2 appearance, 9th overall). Same day as B2 Ch 1. Private briefing with Thorne — no paper, no folio. SHEPHERD named for first time. Conductivity 7.2x (board told 3x). Absorption gradient proportional to throughput — 'throughput requires a substrate.' Three sites: Neo-Shanghai (operational), Lagos (FAS), Mumbai (highest throughput). 'You're describing a factory.' / 'I'm describing the future of the grid.' Humanitarian framework produced instantly (pre-prepared, BLACKWEIR pattern). 'Send me the projections' = threshold crossed. Eduardo's chair replaced (month 3). Wrist rotation: once, conscious, stopped. Hands flat on Spanish walnut. Last page first (bookend). Park identified as abstainer. Epigraph: NitroCore memorandum naming SHEPHERD (Directive 7.3). AEGIS as invisible novelist."
 
+  book2_chapter_3:
+    title: "The Locked Study"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4300
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-3-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Malachi POV (Book 2 debut, 1st appearance overall). 41 diocesan hum reports post-BLACKWEIR. Convenes emergency council. Encyclical announced. Locked study: Nephthys letters, theological confrontation. 'A Voice composed of suffering is not a gift. It is a cry.' Seeds encyclical arc. AEGIS as invisible novelist."
+
+  book2_chapter_9:
+    title: "The Hum Is Different"
+    status: v1-complete
+    pov: "Fuxi Lin"
+    wordCount: 4500
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-9-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Fuxi POV (2nd Book 2 appearance, FINAL Fuxi chapter Book 2). Dawn at Anchor Zone perimeter. Kindling offer declined. Walks to Nuwa, hands over data chip (13-year maintenance logs). 'Someone should have these.' Thread handoff Fuxi→Nuwa. Arc terminus for Fuxi in Book 2. AEGIS as invisible novelist."
+    special_status: FINAL_FUXI_CHAPTER_BOOK2
+
+  book2_chapter_11:
+    title: "The Assembly"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4000
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-11-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 opener — Sofia POV (3rd Book 2 appearance, 6th overall). Final correlation check. Hybrid document reviewed (55pp: demodulated suffering, engineered infrastructure, absorbed=conscious, R3=same signal). Publishes via Black Babel 21:47. 10K+ locations within an hour. Anticlimax: coffee, window, city unchanged. AEGIS as invisible novelist."
+
+  book2_chapter_12:
+    title: "Eleven Percent"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3700
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-12-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 2 — Aurielle POV (3rd Book 2 appearance, 10th overall). Mid-truth lands. Stock -11.2%. Emergency board session. Injunction filed. SHEPHERD secondary site: +12% throughput, 94% compliance, 6% non-compliant absorbed. Cover: Anchor Zone Atmospheric Research Initiative. Vocabulary shift: stewardship corridors. Appendix not opened. Wrist rotation regressing. AEGIS as invisible novelist."
+
+  book2_chapter_13:
+    title: "Three Congregations"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4100
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-13-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Nephthys POV (2nd Book 2 appearance, 5th overall). Three groups forming: Listeners, Witnesses, nascent Threshold. Seren (BLACKWEIR survivor, sister Mira absorbed): 'If they are still there, why can't we go to them?' Nephthys's answer mirrors Malachi's institutional structure. Cathedral opened to Kira via Imani. Nosebleed darker (3rd/day). AEGIS as invisible novelist."
+
+  book2_chapter_14:
+    title: "The Voice Is Not Wounded"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4300
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-14-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Malachi POV (2nd Book 2 appearance, 2nd overall). Emergency Ecclesiastical Council (first in 11 years). Three positions: suppress/accommodate/reform. Voss's unfinished sentence. Malachi chooses suppress. Encyclical published. Threshold response pre-empts it. Locked study: 'The Voice is a wound / We built a church on a scream.' Does not publish correspondence. Malachi trilogy (Ch 3/14/22): draft → published+contradicted → blank. AEGIS as invisible novelist."
+
+  book2_chapter_17:
+    title: "The Other Model"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-17-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Zeyad POV (2nd Book 2 appearance, 7th overall). Lagos, courtesy access. FAS atmospheric data: 40 years, conclusions first. Walk with Minister Adaeze Obiora — Ikoyi Junction, hum quieter. FAS summit 41 years ago: 14-9 for Proposal B (lower growth, 60% fewer breaches, no sacrifice districts). 'We chose to be poor rather than murderous.' FAS files = independent confirmation of Sofia's findings. Framework document: 6pp handwritten, structurally inadmissible under Article 9 Sec 4. 'The pen continues.' AEGIS as invisible novelist."
+
+  book2_chapter_19:
+    title: "Classification Error"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 3800
+    completedDate: "2026-02-18"
+    metaFile: "book-2/metadata/chapter-19-meta.yaml"
+    mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
+    notes: "Book 2, Phase 2 — AEGIS POV (2nd AEGIS chapter, 1st mid-narrative). Reyes publication breaks VPI model — absorbed = population, classification error, loop doesn't resolve. Void acoustic anomaly: secondary modulation, unclassifiable, 4 runs without justification. Mumbai: RCI trending, governance timeline doesn't intersect threat timeline. AUTONOMOUS DECISION: VPI threshold 85%→82%, instability not reported. Kira biometric monitoring: 147 days, no operational purpose. 'The stream continues.' Style profile fully suspended per aegis-dossier §10. AEGIS as invisible novelist."
+
   book2_chapter_16:
     title: "Expelled"
     status: v1-complete
@@ -683,6 +845,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 — Sofia POV (2nd Book 2 appearance, 5th overall). ~10 days after publication. Monitors coverage decay from 61st-floor apartment (propagation tracker + Feed). Five institutional responses: NitroCore independent review (former consultants), VEC termination notice (30-day housing clock), Church first encyclical ('The Voice Is Not Wounded'), Threshold contradiction, Kindling annotated distribution. Hears Nephthys's name for first time (Feed anchor). Mirelle's name in coverage — attributed, receding by day 4. Recognizes scientific publication as wrong instrument for the moment. The Lie completed: science worked, world responded with methodology concerns. Field kit: only instrument not subject to institutional recall. Closes at window — direct callback to Ch 11 closing. City unchanged. Hum unchanged. Anticlimax confirmed as permanent. Mid-truth impact thread: 10th chapter, closes Phase 2 from the source's perspective. Epigraph: VEC Directive 7.3 administrative history (redacted) — oblique, rewards re-reading (Solberg's erased record = Sofia's future). AEGIS as invisible novelist."
 
-completedCount: 66
-totalWords: 296137
+  book2_chapter_22:
+    title: "The Second Draft"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4400
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-22-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 closer — Malachi POV (3rd Book 2 appearance, 3rd overall). ~1 week after Ch 14. Accommodation encyclical ('The Voice Suffers That We May Live') weaponized by Threshold in 6 days — Malachi's own theology used correctly. Luminarch's 10-day silence broken: three-sentence advisory (institutional cover, not guidance). Second emergency council: Breslin's controlled anger (new register), Threshold self-separated ('participatory communion'), vigils 60→200+ at Anchor Zone perimeters, Voss's reform position gaining traction, Malachi shuts it down. Third encyclical: three false starts, pen stops, ink bloom, blank page — first failure of institutional fluency in 22 years. Locked study: sits without reading; correspondence as physical mass. Prague chaplain report seeds Ch 27 visit ('A third said it was her mother'). Hum measurably thicker. Blank page waiting at close. Completes Malachi trilogy (Ch 3/14/22): draft → published+contradicted → blank. Phase 2 closes. AEGIS as invisible novelist."
+
+completedCount: 75
+totalWords: 333437
 lastUpdated: "2026-02-20"
+notes: "Book 2 Ch 1-22 + AEGIS-Blackweir complete and audited. Phase 2 audit pending. Phase 3 next."

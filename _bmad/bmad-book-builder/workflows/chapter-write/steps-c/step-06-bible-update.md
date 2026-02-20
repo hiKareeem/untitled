@@ -177,7 +177,29 @@ Update {outputFile} frontmatter:
 - Set lastStep: 'step-06-bible-update'
 - Set status: v1-complete
 
-### 11. Present Completion Summary
+### 11. Completion Gate (MANDATORY — must pass before summary)
+
+Before presenting the completion summary, confirm each item explicitly in your response:
+
+```
+COMPLETION GATE — Chapter {N}:
+[ ] tracking/themes.md updated
+[ ] tracking/emotions.md updated
+[ ] tracking/rhythm.md + rhythm-dashboard.md updated
+[ ] bible/characters.md updated
+[ ] bible/locations.md updated
+[ ] bible/objects.md updated
+[ ] bible/themes.md updated
+[ ] chapter-{N}-meta.yaml complete
+[ ] project-status.yaml — chapter_{N} block added, completedCount updated, totalWords updated, lastUpdated updated
+[ ] chapter-{N}.md frontmatter set to v1-complete
+```
+
+**CRITICAL:** Do not present the completion summary until all 10 items above are confirmed. The project-status.yaml update (item 9) is the most frequently missed — verify it was written before marking the gate passed.
+
+If any item is not yet done, complete it now before proceeding.
+
+### 12. Present Completion Summary
 
 ```
 **Chapter {chapter_number} — "{title}" — v1-complete**
@@ -194,7 +216,7 @@ Update {outputFile} frontmatter:
 - bible/locations.md — {list of updated locations}
 - bible/objects.md — {list of updated objects}
 - bible/themes.md — Ch {N} row + {count} new symbols
-- project-status.yaml — Ch {N} added
+- project-status.yaml — Ch {N} added (completedCount: {N}, totalWords: {N})
 
 **Chapter Statistics:**
 - Words: {count}
