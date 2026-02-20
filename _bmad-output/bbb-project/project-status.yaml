@@ -673,6 +673,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 — Nuwa POV (2nd Book 2 appearance, 3rd overall). Days after document publication. Four days routing around terminal — body's knowledge. Forced out by depleted supplies. Reads document at Level 3 junction: clinical vocabulary ('demodulated suffering,' 'conscious collective field,' 'infrastructure-driven absorption gradient') landing against body-memory (hand entering polymer window, wet cloth, E-flat). 12% of Sump survivors, correlation 0.89. Data-orphan: 340,000 individuals whose records were archived. Walks home along masonry wall. Opens Fuxi's data chip for first time — his handwriting in metadata field ('Lin, Fuxi. Grade 3. Section 4-East.'). 13 years of logs, 62 entries, names cross-referenced with junctions (Guo 14-7B, woman from 14-3A, family in 9-12C). Conduit topology of Sump — path-poor zones as survival pockets. Block 9: three trunk-lines, pre-event absorption confirmed. Counts: not for total but for texture, but this time texture has coordinates. Tool without a task. Map without a destination. Notification re-read for first time: 'Re-housing eligibility: Confirmed.' Not dismissed. Not done with it yet. Mid-truth impact thread: 8th chapter, 8th faction. Only POV who experienced the event the document describes. AEGIS as invisible novelist."
 
-completedCount: 65
-totalWords: 292137
+  book2_chapter_20:
+    title: "The News Cycle"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4000
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-20-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Sofia POV (2nd Book 2 appearance, 5th overall). ~10 days after publication. Monitors coverage decay from 61st-floor apartment (propagation tracker + Feed). Five institutional responses: NitroCore independent review (former consultants), VEC termination notice (30-day housing clock), Church first encyclical ('The Voice Is Not Wounded'), Threshold contradiction, Kindling annotated distribution. Hears Nephthys's name for first time (Feed anchor). Mirelle's name in coverage — attributed, receding by day 4. Recognizes scientific publication as wrong instrument for the moment. The Lie completed: science worked, world responded with methodology concerns. Field kit: only instrument not subject to institutional recall. Closes at window — direct callback to Ch 11 closing. City unchanged. Hum unchanged. Anticlimax confirmed as permanent. Mid-truth impact thread: 10th chapter, closes Phase 2 from the source's perspective. Epigraph: VEC Directive 7.3 administrative history (redacted) — oblique, rewards re-reading (Solberg's erased record = Sofia's future). AEGIS as invisible novelist."
+
+completedCount: 66
+totalWords: 296137
 lastUpdated: "2026-02-20"

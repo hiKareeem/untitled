@@ -264,4 +264,29 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 20 — "The News Cycle" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth Without Power | Mirelle's Lie tested and failing | The science is complete. The world received it. The coverage arc: 72 hours breaking news → analysis → methodology concerns → background noise. The document is in the world and the world has not stopped. "She had published the most important scientific document in human history. The document was now a data point in someone else's debate." |
+| Systemic Complicity | Five institutions, five conversions | NitroCore (independent review staffed by former consultants), VEC (termination notice, same font as every prior directive), Church (first encyclical — denial dressed as theological clarity), Threshold (cites encyclical to contradict it — Sofia's data weaponized by a faction the Church cannot control), Kindling (annotated distribution — "Act accordingly"). Every institution converts the document from evidence into ammunition. The machine absorbs the truth the way the void absorbs people. |
+| Moral Obligation to Consequences | The Lie completed | Sofia fulfilled the obligation. The science worked. The world responded with methodology concerns. The moral act was genuine, necessary, and insufficient. The Lie is not wrong — it is *incomplete.* The incompleteness is the wound. |
+| Commodification of Suffering | Grid continues regardless | The hum is indifferent to the document. The infrastructure continues. The naming did not stop the process. The signal continued because the infrastructure continued because the grid continued because the world continued to run on exactly what she had told them it ran on. |
+| Where Identity Ends | Mirelle: absorbed, receding | Named in attribution, credited in day 1-3 coverage, receded by day 4. The institutional logic of authorship — the living author, not the dead one — mirrors the institutional logic that classified Solberg. A name on a page is not the same as a byline on a story. |
+
+**Key Resonance:** Truth Without Power ↔ Moral Obligation to Consequences. The chapter is the completion of both simultaneously. Sofia fulfilled the obligation (published the science). The power was insufficient (the world metabolized it). The two themes converge on the same gap: between what the obligation required and what the obligation could produce. The gap is not a failure of intent. It is a structural feature of the relationship between scientific knowledge and institutional power.
+
+**Epigraph Integration:** VEC Strategic Sensitivity Directive 7.3, administrative history (redacted) — "The record was complete. The record was accurate. The record was filed under a classification that no longer existed, in a directorate that had been restructured, by an office whose mandate had been revised. The record was, in every meaningful sense, gone."
+- Thematic function: The epigraph describes Solberg's report — complete, accurate, and institutionally erased. The reader who has read Ch 11 understands immediately. The reader who hasn't is intrigued by the administrative precision of the erasure. The epigraph is the chapter's thesis stated in institutional language before the chapter demonstrates it in real time.
+- AEGIS as invisible novelist: AEGIS has access to VEC's internal records. The administrative history of Directive 7.3 is exactly the kind of document AEGIS would have intercepted and filed. The epigraph is AEGIS noting the mechanism before Sofia watches it operate on her own publication.
+- Epigraph → chapter: The reader encounters the erasure mechanism before Sofia watches it operate. When the independent review composition appears, the reader already knows what it is. The recognition is structural, not surprise.
+
+**Mid-Truth Impact Thread (Cross-Chapter):** Sofia's publication (Ch 11) → Aurielle's institutional absorption (Ch 12) → Nephthys's movement fracture (Ch 13) → Malachi's institutional suppression (Ch 14) → Nikolai's military falsification (Ch 15) → Kira's expelled-witness agency (Ch 16) → Zeyad's institutional validation without consequence (Ch 17) → Nuwa's body-memory collision and map acquisition (Ch 18) → AEGIS's classification error and first autonomous deviation (Ch 19) → **Sofia's observation of the world metabolizing her data (Ch 20)**. Ten chapters, ten factions. The sequence closes from the source's perspective. Sofia published the document. She has now watched every institutional register process it. The assembly was the act. The disassembly is the consequence. **Phase 2 closes.**
+
+**Parallel with Ch 11:** Ch 11 is the act (pressing confirm, cold coffee, city unchanged, waiting). Ch 20 is the confirmation (the world noticed, the world filed it, cold coffee, city unchanged, the waiting was not temporary). Same apartment. Same window. Same hum. Same anticlimax. Different weight: Ch 11's anticlimax is the gap between the act and the response. Ch 20's anticlimax is the confirmation that the gap is permanent.
+
+**Parallel with Ch 19 (AEGIS):** AEGIS processed the publication as network traffic anomaly and classification error — the most powerful intelligence in the world, watching from orbit, unable to resolve the VPI loop. Sofia processed the publication's aftermath as coverage decay and institutional absorption — the scientist who published it, watching from the 61st floor, unable to change what the world does with the data. Both are watching the same thing. Neither can stop it. The juxtaposition is Phase 2's final thematic argument.
+
+---
+
 _Last updated: 2026-02-20_

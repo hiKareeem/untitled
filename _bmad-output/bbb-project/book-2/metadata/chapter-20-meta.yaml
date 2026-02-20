@@ -1,0 +1,108 @@
+chapter_number: 20
+book: 2
+title: "The News Cycle"
+pov_character: "Sofia Reyes"
+phase: 2
+location: "VEC-affiliated housing (61st floor), Neo-Shanghai"
+timeline: "~7 months post-BLACKWEIR, ~10 days after publication"
+estimated_word_count: 4000
+actual_word_count: ~4000
+epigraph_source: "VEC Strategic Sensitivity Directive 7.3, administrative history (redacted)"
+epigraph_author: ""
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  Sofia's second Book 2 POV. Phase 2 — The Mid-Truth. Ten days after
+  publication. She monitors the document's coverage arc from the 61st-floor
+  apartment via Black Babel's propagation tracker and the public Feed —
+  watching the breaking-news spike decay into analysis, methodology concerns,
+  and "both sides" framing. Institutional responses arrive in sequence:
+  NitroCore's independent review (staffed by former consultants), VEC's
+  termination notice (same font as every prior directive, 30-day housing
+  clock), the Church's first encyclical ("The Voice Is Not Wounded"),
+  Kindling's annotated distribution. She hears Nephthys's name for the
+  first time on a Feed anchor describing the Threshold contradiction.
+  The Mirelle section is the chapter's emotional center: Sofia analyzes
+  the attribution — the gap between a name on a page and a byline on a
+  story — and recognizes that scientific publication was the wrong
+  instrument for what the moment required. She does not have the right
+  one. Closes at the window: same view as Ch 11, same hum, city unchanged.
+  The anticlimax confirmed as permanent.
+
+# Key Events
+key_events:
+  - "Propagation tracker: spike → plateau → decline. Coverage decay curve monitored like atmospheric data."
+  - "First Feed cycle: NitroCore methodology attack, 'both sides' framing, independent review composition (6 names, 4 recognized)"
+  - "VEC termination notice: same font as Classification Directorate directives. 30-day housing access. Read once, not re-read."
+  - "Field kit picked up during termination notice — physical talisman, the one instrument not subject to institutional recall."
+  - "Second Feed cycle: Kindling annotated distribution ('Act accordingly'), Church first encyclical ('The Voice Is Not Wounded'), Threshold contradiction"
+  - "Sofia hears Nephthys's name for the first time — Feed anchor describing the Cathedral movement"
+  - "Institutional absorption paragraph: five institutions, five conversions. 'The document was now a data point in someone else's debate.'"
+  - "Mirelle section: attribution analysis, the wrong instrument, 'Mirelle would have made it a better story' — returned with full context"
+  - "Window closing: same view as Ch 11, same hum, 0.7 Hz, city unchanged. Anticlimax confirmed as permanent."
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: POV
+    state: "Late-phase register: direct, active, no qualifiers. Institutional identity fully severed — lab access revoked, pod credentials suspended, research classified, employment terminated, housing on 30-day clock. Field kit the only instrument not subject to recall. Monitoring the world's response to her publication with the same instruments she used to monitor the void. The science is complete. The science was not enough."
+  - name: "News anchors (Feed)"
+    role: Feed fragments (8)
+    state: "Broadcast register — practiced neutrality, institutional framing, 'both sides' vocabulary. Anonymous. Each fragment represents a different institutional register processing Sofia's data. Cut off mid-sentence as Sofia switches channels."
+  - name: "Mirelle Dubois"
+    role: Referenced (posthumous)
+    state: "Present through attribution and coverage. Named in the Feed (day 1-3), receding by day 4. The gap between a name on a page and a byline on a story is the chapter's most precise characterization of Mirelle — rendered through Sofia's professional assessment."
+
+# Themes
+themes:
+  - "Truth Without Power (Dominant) — The science is complete. The world received it. The world metabolized it into institutional positions. The document is in the world and the world has not stopped. Mirelle's Lie tested and failing in slow motion."
+  - "Systemic Complicity (Dominant) — Five institutions, five conversions. NitroCore (review), VEC (termination), Church (encyclical), Threshold (contradiction), Kindling (radicalization). Every institution converts the document from evidence into ammunition."
+  - "Moral Obligation to Consequences (Strong) — The moral act was genuine, necessary, and insufficient. Sofia's Lie completed: the science worked, the world responded with methodology concerns. The Lie is not wrong — it is incomplete."
+  - "Commodification of Suffering (Background) — The grid continues. The hum continues. The naming did not stop the process."
+  - "Where Identity Ends (Background) — Mirelle: absorbed, not dead. Named in attribution, receding in coverage. The institutional logic of authorship mirrors the institutional logic that classified Solberg."
+
+# Symbols
+symbols:
+  - name: "The propagation curve"
+    appearances: 2
+    arc: "Opening (spike → plateau → decline, monitored like atmospheric data) → closing (implied — the curve is still declining). The document's social impact subject to the same decay dynamics as any atmospheric signal."
+  - name: "The termination notice typography"
+    appearances: 1
+    arc: "Same font as the strategic sensitivity directive that buried her emergency paper. Same font as Liang's reassignment memo. Same font as Solberg's suppression order. The institution's typography is consistent. The institution's typography will survive the institution."
+  - name: "The field kit"
+    appearances: 3
+    arc: "Opening (green, operational, at edge of desk) → termination notice (picked up — the one instrument not subject to institutional recall) → closing (green, recording). The talisman that outlasted the institution."
+  - name: "Cold coffee"
+    appearances: 2
+    arc: "Monitoring section (made, going cold) → window closing (cooled in her hands). Direct callback to Ch 11. The ritual repeated. The anticlimax confirmed as permanent."
+  - name: "The window / city unchanged"
+    appearances: 2
+    arc: "Ch 11 closing: 'The city had not changed shape.' Waiting for the world to notice. Ch 20 closing: same view, ten days later. The world noticed. The world filed it. The waiting was not temporary."
+  - name: "Mirelle's name in coverage"
+    appearances: 3
+    arc: "Day 1 (named, credited) → Day 2 (career noted) → Day 4 (receded — 'the Reyes publication'). The attribution was correct. The attribution was insufficient. A name on a page is not the same as a byline on a story."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 11 → B2 Ch 20: Same apartment, 61st floor. Field kit green/operational. Hum 0.7 Hz through floor/counter/feet. Cold coffee. Window view (Anchor Zone shimmer, conduit glow, city unchanged). 'Mirelle would have made it a better story' — direct callback, returned with full context. Dead-hand header 'Do not wait' recalled. 55-page document. 8.2 million coupling events. Black Babel distribution channel."
+  - "B2 Ch 12 → B2 Ch 20: NitroCore independent review staffed by former consultants. Stock recovery implied through PR framing. Sofia arrives at 'the machine absorbs the truth the way the void absorbs people' independently (parallel to Aurielle's Ch 12 observation)."
+  - "B2 Ch 14 → B2 Ch 20: First encyclical 'The Voice Is Not Wounded' — Arch-Prelate Malachi of the European See (no surname). Threshold contradiction reported on Feed. Second encyclical NOT referenced (correct — Ch 22)."
+  - "B2 Ch 19 → B2 Ch 20: 340,000 endpoints in first hour, 47 of 50 global feeds — matches AEGIS tracking. Sofia sees the same propagation from the human side AEGIS tracked from orbit."
+  - "B2 Ch 18 → B2 Ch 20: Timeline consistent — Ch 18 established 'nine days' post-publication. Ch 20 is day ~10."
+  - "Malachi surname: not established. 'Arch-Prelate Malachi of the European See' used. Flag for bible update when surname decided."
+  - "Forward: VEC housing clock (30 days from termination). Sofia's institutional identity fully severed. Phase 3 must establish new operational base."
+
+# Thread Status
+thread_status:
+  institutional_identity: "SEVERED. Lab access revoked (B1 Ch 33+). Pod credentials suspended (B2 Ch 4). Research classified (multiple). Employment terminated (Ch 20). Housing: 30-day clock. Field kit the only institutional instrument not recalled. Forward: Phase 3 — new operational base required."
+  the_document: "PUBLISHED AND METABOLIZED. In the world. Methodology concerns. Independent review. Termination notice. Encyclical. Kindling annotation. The world received it. The world has not stopped."
+  mirelle_thread: "ATTRIBUTED AND RECEDING. Named in attribution, credited in day 1-3 coverage, receded by day 4. 'Mirelle would have made it a better story' — the wrong instrument recognized. The debt to Mirelle is not discharged by attribution."
+  the_lie: "COMPLETED. The science worked. The world responded with methodology concerns. The moral act was genuine, necessary, and insufficient. The Lie is not wrong — it is incomplete. The incompleteness is the wound. Forward: Phase 3 — what instrument does she acquire?"
+  nephthys_thread: "SEEDED. Sofia hears Nephthys's name for the first time on a Feed anchor. Does not know her. Does not follow the Church. The convergence (Ch 21) is approaching without Sofia knowing it."
+  kindling_thread: "OBSERVED. Annotated distribution recognized. Sofia does not know who Kindling is — recognizes the distribution architecture only. Future contact possible."
+  housing_clock: "ACTIVE. 30 days from termination. Phase 3 decision point: where does Sofia go?"
+  field_kit: "ACTIVE. Green, operational. The one instrument not subject to institutional recall. Recording the hum."

@@ -433,4 +433,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 20 — "The News Cycle" (Sofia Reyes)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-monitoring (propagation tracker) → rising-recognition (Feed cycling, institutional responses) → peak-compression (termination notice) → sustained-reflective (Mirelle section) → resolving-still (window, hum, city unchanged)
+**Pacing:** Back-weighted. Feed cycling sections = 40% of chapter. Mirelle section = 25%. Opening and closing provide monitoring ballast and anticlimax callback.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Propagation tracker (opening) | ~400 | Low-monitoring | Slow, data-driven. Sofia reading the coverage decay curve the way she reads atmospheric data. Same instruments, different signal. |
+| First Feed cycle (NitroCore, methodology) | ~500 | Rising | Channel-switching rhythm — each cut is a different institutional register. Accelerates as she cycles faster. |
+| Termination notice | ~350 | Peak-compression | Institutional weight. Read once, not re-read. Same font as every prior directive. 30-day housing clock. |
+| Field kit / second Feed cycle (Kindling, Church, Threshold) | ~600 | Rising-sustained | Field kit picked up during notice — physical talisman. Second cycle adds theological dimension. Sofia pauses on Nephthys reference. |
+| Institutional absorption paragraph | ~200 | Resolving-compressed | Maximum compression. Five institutions, five conversions. "The document was now a data point in someone else's debate." |
+| Mirelle section | ~900 | Sustained-reflective | Slowest section. The attribution analysis. The wrong instrument. "Mirelle would have made it a better story" — returned with full context. |
+| Window / closing | ~350 | Resolving-still | Direct callback to Ch 11 closing. Same position, same hum, same city. Ten days later. The anticlimax confirmed as permanent. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The Feed had moved on." opens the chapter as the shortest possible statement of the chapter's thesis. "The document was now a data point in someone else's debate." closes the institutional-response section at maximum compression.
+- Feed cycling sections use em-dash fragments as rhythmic interruptions — each anchor line cut off mid-sentence, Sofia switching before the institutional position finishes forming. The incompleteness is structural: the institutions never finish their arguments because Sofia stops listening.
+- Termination notice section uses institutional typography as rhythmic device — the block-quoted notice text breaks the prose rhythm, then Sofia's single-sentence response ("She did not re-read it.") resets.
+- Mirelle section is the chapter's rhythmic center of gravity — longest sustained passage without a section break. The prose slows to match the weight of the attribution analysis. "Mirelle would have made it a better story" arrives as a short declarative after a long analytical paragraph — the chapter's most compressed emotional moment.
+- Closing decelerates into stillness. The hum passage — "The signal continued because the infrastructure continued because the grid continued because the world continued to run on exactly what she had told them it ran on" — is the chapter's longest sentence, building through repetition before the short close: "The coffee cooled in her hands."
+- Bookend structure: "The Feed had moved on" (opening) ↔ "the city that had not changed shape and would not change shape" (closing). The chapter opens with the world moving on and closes with the world staying still. Both are true. The tension between them is the chapter's structural argument.
+
+**Dialogue Percentage:** ~8% (8 Feed anchor fragments across 2 sections; no character-to-character dialogue)
+
+**Pacing Concern:** Mirelle section risks feeling like extended reflection without kinetic anchor. Mitigated by the attribution-as-analysis structure — Sofia reads the coverage the way she reads data, and the analysis is the grief. The professional register keeps the section moving even as it slows.
+
+**Structural Note:** Ch 20 paired with Ch 11 forms Sofia's Phase 2 bracket. Ch 11: assembly and publication — the act of pressing confirm, the anticlimax of cold coffee and unchanged city, the waiting. Ch 20: observation of consequences — the coverage decay, the institutional responses, the confirmation that the waiting was not temporary. The rhythm reflects this: Ch 11 builds toward the keystroke (momentum, assembly, determination). Ch 20 is the aftermath of the keystroke (stillness, monitoring, recognition). Same apartment. Same window. Same hum. Different weight.
+
+**Comparison to Ch 11:**
+- Ch 11: ~4,000 words, assembly + publication, building momentum, single emotional peak (pressing confirm), anticlimax closing
+- Ch 20: ~4,000 words, observation + recognition, sustained monitoring, distributed emotional weight (termination, Mirelle, window), anticlimax confirmed
+- Together: act → consequence. The rhythm of Ch 11 is directed (toward the keystroke). The rhythm of Ch 20 is diffuse (the keystroke's aftermath spreading through institutions). The diffusion IS the chapter's argument.
+
+**Cross-Chapter Rhythm:** Ch 19 (AEGIS) → Ch 20 (Sofia) — the chapter sequence moves from orbit to apartment. AEGIS processes the publication as network traffic anomaly and classification error. Sofia processes the publication's aftermath as coverage decay and institutional absorption. The rhythmic contrast is maximum: Ch 19 is stream-of-consciousness token generation (AEGIS voice exemption), Ch 20 is close-third TEXTURE mode. Same event, opposite registers, opposite distances. The juxtaposition is the Phase 2 sequence's final rhythmic argument: the most powerful intelligence in the world and the scientist who published the document are watching the same thing from opposite ends of the atmosphere, and neither can stop it.
+
+---
+
 _Last updated: 2026-02-20_

@@ -285,4 +285,26 @@
 
 ---
 
+### Chapter 20 — "The News Cycle"
+
+**Sofia Reyes (POV):**
+- **Entering State:** Post-Ch 11. Document published. World received it. Ten days of watching the coverage decay. Institutional identity severed in stages: lab access revoked, pod credentials suspended, research classified, now employment terminated. Field kit the only instrument not subject to institutional recall.
+- **Emotional Arc:** Monitoring stillness (propagation tracker — same instruments, different signal) → recognition without surprise (NitroCore independent review composition — confirmation, not revelation) → institutional severance (termination notice — read once, not re-read, same font as every prior directive) → analytical grief (Mirelle section — the wrong instrument, the attribution analysis, "it was an assessment") → resolving stillness (window, hum, city unchanged — the anticlimax confirmed as permanent)
+- **Dominant Emotion:** The specific flatness of a completed task that didn't do what it was supposed to do. Not despair — despair would require surprise. Not triumph — the document is in the world and the world has not stopped. The emotional register is the scientist's version of aftermath: the experiment is complete, the results are in, the results are insufficient, and the methodology was correct. The insufficiency is not a failure of method. It is a failure of instrument.
+- **Key Emotional Beat:** "The instrument she had used — scientific publication — was the wrong instrument for what the moment required. She did not have the right one. She did not know how to acquire it." — The chapter's most honest moment. Not stated as grief. Stated as assessment. The distinction is the chapter's most precise characterization of Sofia's late-phase register: she has converted grief into analysis because analysis is the only tool she has. The conversion is not suppression. It is the scientist's version of coping — the problem is identified, the solution is unknown, the work continues.
+- **Secondary Beat:** "Mirelle would have made it a better story." — Returned from Ch 11 with full context. In Ch 11 it was a closing thought, a flash of recognition. In Ch 20 it is the conclusion of an extended analysis: evidence does not move people, stories move people, Sofia produced evidence, Mirelle would have produced a story. The thought is not a feeling. It is an assessment. The assessment is the grief.
+- **Exiting State:** At the window. Field kit green. Coffee cold. Hum steady. Thirty-day housing clock running. Institutional identity fully severed. The document is in the world. The world has not stopped. She does not know what instrument she needs. She knows she does not have it. The science is complete. The science was not enough. She is still at the window.
+- **Emotional Shift:** From Ch 11's determined anticipation (pressing confirm, waiting for the world to notice) to Ch 20's confirmed aftermath (the world noticed, the world filed it). The shift is not from hope to despair — Sofia does not operate in those registers. The shift is from active (the keystroke, the waiting) to observational (the monitoring, the recognition). The emotional temperature is the same. The direction has changed: Ch 11 is directed outward (the document entering the world). Ch 20 is directed inward (the world's response entering Sofia).
+
+**Sofia's Lie Arc (cumulative):**
+- B1 Ch 4: "Science is inherently moral — if we caused this, studying it is the responsible act." Invisible because unnecessary — the institution is functioning.
+- B1 Ch 10: First institutional pushback. The Lie begins to separate from the institution.
+- B1 Ch 14: Novak's suppression. The Lie tested: the institution does not want the science.
+- B1 Ch 33: VEC classifies her emergency paper. The Lie fractures: the institution is adversarial.
+- B1 Ch 41: BLACKWEIR. Alone with the data. The Lie is not disproven — the science is still moral. But the science prevented nothing.
+- B2 Ch 11: Publication. The Lie fulfilled: she did the responsible act. The science is complete.
+- **B2 Ch 20: The Lie completed. The science worked. The world responded with methodology concerns. The moral act was genuine, necessary, and insufficient. The Lie is not wrong — it is *incomplete.* And the incompleteness is the wound.**
+
+---
+
 _Last updated: 2026-02-20_
