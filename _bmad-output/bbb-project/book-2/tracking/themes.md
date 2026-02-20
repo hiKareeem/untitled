@@ -289,6 +289,47 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 21 — "Same Signal" (Nephthys + Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Absorbed as named individuals | "Names." Both receivers confirm the same data through different instruments. The signal does not carry void-mass or population — it carries individuals. Nephthys hears them in the chorus. Kira hears them through R3 coherence patterns. The word "names" is the chapter's thematic payload: the absorbed are not a phenomenon. They are people. The chapter does not resolve what to do with this. It names it. |
+| Truth Without Power | Convergence without consequence | Two independent receivers confirm the same signal. The confirmation changes nothing in the world. The Cathedral is still in the Anchor Zone. The infrastructure still runs. The absorbed are still in the conduit network. The convergence is real and complete and insufficient. The chapter's closing image: both women sitting with the word "names" between them, the hum continuing. |
+| What We Owe | The cost of the connection | Nephthys's nosebleed is darker than yesterday. The connection to the chorus has a cost that is accumulating. The chapter does not announce this. It tracks it in the object. What Nephthys owes the chorus — and what the chorus is taking from her — is the chapter's unspoken question. The convergence with Kira does not answer it. |
+| Architecture of Power | Two frameworks, same map | Nephthys's theological framework (the chorus, the Voice, the signal as divine presence) and Kira's scientific framework (R3 coherence patterns, neural signature encoding, signal syntax) produce the same map. Neither framework is institutional. The convergence happens between two people who have been expelled from their respective institutions. The architecture of power is absent from this room — which is why the convergence is possible. |
+| Systemic Complicity | The signal the institutions cannot hold | Every institution in Phase 2 processed the mid-truth and converted it into something manageable. The Cathedral session is the one moment in Phase 2 where the signal is received directly, without institutional mediation. Nephthys and Kira are the only two characters in the manuscript who have experienced the signal as signal rather than as data or doctrine. The convergence is what happens when the institutional filters are removed. |
+| Commodification of Suffering | Absorbed = population, not phenomenon | Kira's reframe: the absorbed are not a phenomenon to be studied or a theological category to be managed. They are a population. The word shifts the register from scientific to political. The absorbed have not been named as a population anywhere in the manuscript before this chapter. The naming is the chapter's second thematic payload, after "names." |
+
+**Key Resonance:** Where Identity Ends ↔ What We Owe. The chapter confirms that the absorbed retain individual identity (names, specific signatures, coherent address). The confirmation immediately generates the obligation: if they are specific people, what is owed to them? The chapter does not answer. It holds the question between two women in a room and lets the hum continue.
+
+**Epigraph Integration:** "Operational Theology" — Nephthys (undated)
+- Thematic function: The epigraph frames the chapter's central argument before it is demonstrated — the theological and the operational are not opposites. They are two registers for the same signal. The convergence scene is the proof.
+- AEGIS as invisible novelist: AEGIS has Nephthys's private writings (the Cathedral is in the Anchor Zone, within sensor range). The epigraph is AEGIS selecting the text that frames the chapter's argument — the invisible novelist choosing the lens.
+- Epigraph → chapter: The reader encounters "Operational Theology" before understanding what it means. After the chapter: the phrase is the convergence itself. Nephthys's theology is operational. Kira's operation is theological. The signal does not distinguish.
+
+**Dual-POV Structure Note:** Ch 21 is the only dual-POV chapter in Book 2. The chapter operates in three distinct registers:
+1. **Nephthys register** (Cathedral as liturgical space): no contractions, theological vocabulary, the chorus as presence, the session as ceremony
+2. **Kira register** (Cathedral as acoustic instrument): contractions, technical vocabulary, R3 as receiver, the session as data
+3. **Convergence register** (shared vocabulary being built in real time): neither character's register dominates; sentences belong to the space between them; the vocabulary is new
+
+The three-register structure is the chapter's formal argument: the convergence is not one framework absorbing the other. It is a third thing emerging from the contact.
+
+**Vocabulary Convergence Thread:**
+- Kira's "phrasing" (from Idris call, Ch 16) = Nephthys's "address" (private journal, pre-Ch 21)
+- R3 coherence patterns = chorus signatures
+- "Names" = the word both characters arrive at independently, simultaneously
+- "Absorbed = population" = Kira's reframe, accepted by Nephthys without resistance
+
+**Mid-Truth Impact Thread (Cross-Chapter):** Sofia's publication (Ch 11) → Aurielle's institutional absorption (Ch 12) → Nephthys's movement fracture (Ch 13) → Malachi's institutional suppression (Ch 14) → Nikolai's military falsification (Ch 15) → Kira's expelled-witness agency (Ch 16) → Zeyad's institutional validation without consequence (Ch 17) → Nuwa's body-memory collision and map acquisition (Ch 18) → AEGIS's classification error and first autonomous deviation (Ch 19) → Sofia's observation of the world metabolizing her data (Ch 20) → **Nephthys-Kira convergence: the signal confirmed by two independent receivers, the absorbed named as individuals (Ch 21)**. Eleven chapters, eleven factions. The convergence is the phase's only moment where the signal is received directly, without institutional mediation. The world has not changed. The hum continues. The names have been named.
+
+**Forward Threads:**
+- AEGIS monitoring thread: Kira's R3 at highest coherence density since BLACKWEIR during the Cathedral session. AEGIS has this data. The next AEGIS chapter must register the Cathedral biometrics.
+- Nephthys's nosebleed: darker than yesterday. Phase 3 must continue the escalation without announcement.
+- "Absorbed = population": Kira's reframe is a Phase 3 political thread. The word "population" implies rights, representation, obligation. The chapter plants it without developing it.
+- Malachi's Prague report (Ch 22): independent confirmation of "names" arriving as institutional intelligence the same week as the Cathedral session. Neither character knows the other has the same data.
+
+---
+
 ### Chapter 22 — "The Second Draft" (Malachi)
 
 | Theme | Phase | Manifestation |

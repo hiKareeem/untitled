@@ -473,6 +473,47 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 21 — "Same Signal" (Nephthys + Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Arrival-public (streaming, Cathedral exterior) → session-observational (Kira watching, Nephthys leading) → transition (ring light off, off-camera) → convergence-building (shared vocabulary, two registers approaching) → peak-quiet ("Names") → resolving-still (both sitting with the word, hum continuing, nosebleed)
+**Pacing:** Three-movement structure. Public section (streaming) = ~20%. Session observation = ~25%. Private convergence = ~55%. The chapter front-loads the institutional/public context and then decelerates into the acoustic center where the chapter's argument lives.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Arrival + streaming (exterior, transit, Cathedral entrance) | ~800 | Low-building | Kira's register dominant. Ring light on. 31K+ viewers. R3 dephasing before the building is seen. The Cathedral as acoustic instrument before it is a theological space. |
+| Session observation (Kira watching Nephthys lead) | ~1,000 | Rising-observational | Split register: Nephthys's liturgical vocabulary in the session, Kira's technical translation in her interiority. The session as data and ceremony simultaneously. |
+| Transition (ring light off, off-camera) | ~200 | Pivot | Shortest section. The ring light going off is the chapter's structural hinge — the public performance ends, the private conversation begins. |
+| Private convergence (acoustic center, shared vocabulary) | ~1,600 | Rising-quiet → peak-quiet | The chapter's center of gravity. Three-register dialogue: Nephthys's theological vocabulary, Kira's technical vocabulary, the shared vocabulary emerging between them. "Names." |
+| Coda (sitting with the word, nosebleed, hum) | ~500 | Resolving-still | Maximum deceleration. The hum continues. The nosebleed is darker. "She was not sure that was enough." |
+
+**Rhythm Notes:**
+- The chapter operates in three distinct rhythmic registers simultaneously, requiring the reader to track which register is active at each moment:
+  - **Nephthys register:** Long sentences, complex syntax, no contractions, theological vocabulary. The chorus as presence. The session as ceremony.
+  - **Kira register:** Shorter sentences, more direct syntax, contractions, technical vocabulary. R3 as receiver. The session as data.
+  - **Convergence register:** Neither character's rhythm dominates. Sentences are shorter than Nephthys's and more formal than Kira's. The vocabulary is new — neither character's prior lexicon.
+- The ring-light-off transition is the chapter's rhythmic pivot: the public register (Kira performing for 31K viewers) drops entirely. The chapter's rhythm contracts from the streaming section's wider range to the private conversation's narrow, intimate register.
+- "Names." — single word, maximum isolation. The chapter's most compressed moment at its most important event. Parallel to "The pen did not move." in Ch 22 — both chapters use maximum compression at the moment of maximum significance.
+- Coda rhythm: deliberately slower than any prior section. The word "names" has been said. The chapter does not accelerate away from it. It sits with it. The hum continues. The nosebleed is darker. "She was not sure that was enough." — the chapter's final SHORT, arriving after the coda's accumulation.
+- Long-long-long-SHORT pattern present but modified by the three-register structure: the SHORTs arrive in different registers depending on which character's interiority is active. Nephthys's SHORTs are declarative-theological ("The signal does not distinguish."). Kira's SHORTs are declarative-technical ("Same signal."). The convergence register's SHORTs are declarative-shared ("Names.").
+- The streaming section uses a fourth rhythm: the chat feed as ambient noise, the viewer count as institutional data, the ring light as performance architecture. This rhythm is entirely absent from the private conversation — the contrast is the chapter's structural argument.
+
+**Dialogue Percentage:** ~35% (concentrated in private convergence scene; streaming section is narration + ambient chat; session observation is narration + Nephthys's liturgical speech; coda is near-zero dialogue)
+
+**Pacing Concern:** The streaming section risks feeling like setup — the reader knows the convergence is coming and the streaming section delays it. Mitigated by the R3 dephasing detail (the Cathedral is already working on Kira before she enters) and the 31K viewer count (the public performance is the chapter's institutional context — the expelled mage streaming her arrival at the Cathedral is itself a political act). The streaming section is not setup. It is the chapter's first argument: the convergence is happening in public before it happens in private.
+
+**Structural Note:** Ch 21 is the only dual-POV chapter in Book 2. The structural choice is the chapter's argument: the convergence cannot be told from one perspective. It requires both receivers to be present simultaneously. The three-register structure (Nephthys / Kira / shared) is the formal enactment of the chapter's thematic content: the signal is the same; the receivers are different; the convergence produces a third thing that belongs to neither.
+
+**Comparison to Ch 13 (Nephthys) and Ch 16 (Kira):**
+- Ch 13: Nephthys alone, movement fracturing, Seren's question unanswered, Cathedral opened to Kira. Rhythm: institutional-ceremonial, the session as governance.
+- Ch 16: Kira alone, expelled, vocabulary built with Idris, Cathedral booked. Rhythm: post-performer, grounding ritual, the ring light as identity architecture.
+- Ch 21: Both together. The rhythm of Ch 13's ceremony and Ch 16's technical register collide and produce the convergence register. Neither prior chapter's rhythm survives the collision intact. The third register is new.
+
+**Cross-Chapter Rhythm:** Ch 20 (Sofia) → Ch 21 (Nephthys + Kira) → Ch 22 (Malachi) — the sequence moves from the 61st-floor apartment (Sofia watching the world metabolize the document) to the Cathedral acoustic center (two receivers confirming the signal directly) to the European See study (the institutional tools failing to respond). The rhythmic arc: diffuse observation → intimate convergence → institutional silence. The middle chapter is the phase's only moment of direct signal contact. The chapters on either side are the world before and after the contact: unchanged.
+
+---
+
 ### Chapter 22 — "The Second Draft" (Malachi)
 
 **Mode:** TEXTURE

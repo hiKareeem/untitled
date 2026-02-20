@@ -1,13 +1,13 @@
 ---
 workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief']
-lastStep: 'step-02-brief'
+stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
+lastStep: 'step-06-bible-update'
 chapterNumber: 18
 draftVersion: 1
 createdDate: '2026-02-20'
 author: 'Kareem'
-status: drafting
-executionMode: full
+status: v1-complete
+executionMode: quick
 title: 'The Word They Chose'
 pov: 'Nuwa Lin'
 wordTarget: '3000-4200'
