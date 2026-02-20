@@ -623,6 +623,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Zeyad POV (Book 2 debut, 6th appearance overall). ~6 months post-BLACKWEIR. Session 63 of Accords Disciplinary Tribunal. Dr. Adeyemi still presides (B1 Ch 50 continuity). Exhibit 217 entered (communication logs). NitroCore as 'interested institutional observer.' Dr. Amara Diallo introduced (lawyer, Diplomatic Personnel Legal Fund). Dead-hand package arrives via Black Babel — 3/7 layers decrypted, NitroCore routing authorizations, capacity expansion 18 months pre-BLACKWEIR. Opens against legal advice (discoverable, continuing violation threat). 'Who signed?' seeds authorization chain. Epigraph: Article 12 Section 11 (respondent rights that prevent defense). AEGIS as invisible novelist."
 
-completedCount: 60
-totalWords: 272537
+  book2_chapter_10:
+    title: "Opportunities"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3200
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-10-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 1 closer (Thread A) — Aurielle POV (2nd Book 2 appearance, 9th overall). Same day as B2 Ch 1. Private briefing with Thorne — no paper, no folio. SHEPHERD named for first time. Conductivity 7.2x (board told 3x). Absorption gradient proportional to throughput — 'throughput requires a substrate.' Three sites: Neo-Shanghai (operational), Lagos (FAS), Mumbai (highest throughput). 'You're describing a factory.' / 'I'm describing the future of the grid.' Humanitarian framework produced instantly (pre-prepared, BLACKWEIR pattern). 'Send me the projections' = threshold crossed. Eduardo's chair replaced (month 3). Wrist rotation: once, conscious, stopped. Hands flat on Spanish walnut. Last page first (bookend). Park identified as abstainer. Epigraph: NitroCore memorandum naming SHEPHERD (Directive 7.3). AEGIS as invisible novelist."
+
+completedCount: 61
+totalWords: 275737
 lastUpdated: "2026-02-19"

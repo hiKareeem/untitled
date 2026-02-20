@@ -44,6 +44,33 @@
 
 ## Chapter Emotional Entries
 
+### Chapter 10 — "Opportunities"
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-Ch 1. The Chair. Board meeting completed. Dual-track narration integrated. Small voice merged. Functional tyrant six months into the role.
+- **Emotional Arc:** Contemplative stillness (office, desk, inheritance objects) → institutional readiness (door chime, Thorne) → controlled processing (real numbers, dual-track translating) → threshold moment ("Send me the projections") → resolving stillness (alone, hands flat, last page)
+- **Dominant Emotion:** Institutional determination without moral resistance. The horror is not the decision — it is the absence of struggle. She translates "throughput requires a substrate" and does not recoil. The fluency IS the emotional state.
+- **Key Emotional Beat:** "The input was people." — the dual-track converges into a single declarative. Not a revelation (she already knew). A statement of what she has become: someone for whom this translation is ambient, not conscious.
+- **Exiting State:** Hands still on the walnut. Projections open. Last page read. The yield estimate is clean, large, and expressed without inputs. She is not distressed. She is not relieved. She is reading. That is the emotional terminus.
+- **Emotional Shift:** From contemplative (objects, inheritance, the room's weight) to operational (data request, humanitarian framework, timeline negotiation). The shift is so smooth it is invisible — that smoothness is the chapter's emotional argument. There is no inflection point. The threshold was crossed without marking.
+
+**Wrist Rotation Arc (cumulative):**
+- B1 Ch 1: unconscious, grief-response
+- B1 Ch 7: unconscious, noticed, stopped
+- B1 Ch 12–25: increasingly deliberate
+- B1 Ch 36: absent — hands still during authorization
+- B1 Ch 46: resumed, compulsive
+- B2 Ch 1: compulsive, unconscious
+- **B2 Ch 10: once, conscious, then stopped. Hands flat. Progression toward Phase 4 stillness.**
+
+**Marcus Thorne (Supporting):**
+- **Entering State:** Post-boardroom. Assessment phase over (acknowledged in Ch 1). Reading, not evaluating.
+- **Emotional Register:** Architectural. Paper-free by deliberate choice — this conversation doesn't produce records. Clipped private diction. No institutional cushions.
+- **Key Emotional Beat:** "Eduardo would have said yes in the room. He preferred decisions with witnesses." — calibrating Aurielle against her father. Not mockery. Genuine recognition that she is more dangerous than Eduardo: she requires data before authorizing, which makes the authorization defensible.
+- **Exiting State:** Nodded. Stood. Did not pause. The interval between one operation and the next.
+
+---
+
 ### Chapter 9 — "The Hum Is Different"
 
 **Fuxi Lin (POV):**

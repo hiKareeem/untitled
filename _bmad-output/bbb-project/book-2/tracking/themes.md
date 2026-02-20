@@ -20,6 +20,29 @@ Based on trilogy plan and Book 1 continuation:
 
 ## Chapter Thematic Entries
 
+### Chapter 10 — "Opportunities" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Institutional machinery, private vs. performed | The boardroom (Ch 1) is performance; Eduardo's office is where decisions are actually made. Thorne arrives without paper — this conversation should not produce a record. The room itself is the architecture. |
+| Progress Requires Atrocity | SHEPHERD as industrialized BLACKWEIR | "BLACKWEIR was emergency surgery. This is the hospital." — atrocity as sustainable policy, not crisis response. Designated sacrifice zones, scheduled absorption events, managed throughput. The ouroboros formalized. |
+| The Cost of Knowing | Fluency as complicity | Dual-track narration fully integrated — Aurielle translates every euphemism ("throughput requires a substrate" = people) without conscious effort. The translation is ambient, like the hum. Knowing IS the cost. |
+| Systemic Complicity | Complicity through process | "Send me the projections" = institutional yes delivered as a request for data. Not saying yes, not saying no — asking for projections, which is the same thing. The threshold crossed without a declaration. |
+| Commodification of Suffering | Void-exploitation as business model | Absorption gradient proportional to throughput. Self-replenishing yield. People converted to megawatt-equivalents. The input classified under Directive 7.3. |
+
+**Key Resonance:** Architecture of Power ↔ Progress Requires Atrocity. The private briefing IS the architecture — the room where the boardroom's performance becomes operational reality. SHEPHERD is BLACKWEIR's logic made permanent, and the architecture that enables it is the same architecture that enabled BLACKWEIR: private rooms, unrecorded conversations, the distance between what the board hears (3x) and what the CEO knows (7.2x).
+
+**Epigraph Integration:** NitroCore Internal Memorandum, Strategic Development Division (Classified, Directive 7.3)
+- Thematic function: The institutional record that names SHEPHERD precedes the human moment that authorized the memo
+- AEGIS as invisible novelist: reconstructing causality from the document trail — the reader sees the conclusion before the argument, the way Aurielle reads from the last page first
+- Same classification (Directive 7.3 revised 2171) that buried the Solberg Report — institutional continuity across decades
+
+**Eduardo Thread:** Present as objects (desk, chair, handkerchief), not grief. "Eduardo would have said yes in the room. He preferred decisions with witnesses." / "I prefer decisions with data." — Aurielle is not Eduardo. She is worse: she requires data before authorizing what Eduardo authorized on instinct. The data makes it defensible. The defensibility is the horror.
+
+**Humanitarian Framework as Symbolic Object:** Thorne produces the data chip instantly — pre-prepared. Same pattern as BLACKWEIR modifications. The modifications are real (notification windows, medical staging, relief funding). They are also entirely compatible with the program. "The math changed when you changed the inputs. She was not changing the inputs." The humanitarian framework is conscience as institutional product.
+
+---
+
 ### Chapter 9 — "The Hum Is Different" (Fuxi Lin)
 
 | Theme | Phase | Manifestation |

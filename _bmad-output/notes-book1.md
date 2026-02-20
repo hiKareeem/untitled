@@ -16,3 +16,5 @@ This is fixable without adding chapters. The revision approach:
 In the Mirelle chapters you've already written — one scene, one moment, where Talia is present as a person not a symbol. A specific thing she does or says. Something Mirelle notices about her that isn't related to the work. A habit, a joke, an argument that's about something small. The relationship needs one grounded human detail that makes the sacrifice legible as a loss, not just a noted cost. Three sentences can do this if they're the right three sentences.
 What to avoid: backstory dump, a scene that's about the relationship failing. The reader needs to see what's worth having before they can feel its loss.
 
+# CH7
+Mateo origin for desk preferred, see B2:C10.

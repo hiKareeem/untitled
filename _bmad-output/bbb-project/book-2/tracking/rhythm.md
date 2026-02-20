@@ -14,6 +14,42 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ## Chapter Rhythm Entries
 
+### Chapter 10 — "Opportunities" (Aurielle Vasquez)
+
+**Mode:** PRESSURE
+**Tension Shape:** Low-contemplative (office) → rising-sustained (briefing) → peak (SHEPHERD named / "Send me the projections") → resolving (alone with yield estimate)
+**Pacing:** Center-weighted. Briefing scene = 56% of chapter. Opening and closing provide contemplative ballast.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| The office (opening) | ~600 | Low-contemplative | Slow, object-driven, inheritance register |
+| Thorne's briefing | ~1,800 | Rising-sustained | Dialogue-driven, data delivery + dual-track translation |
+| The ask + humanitarian framework | ~500 | Peak | Compressed. "Send me the projections" — institutional yes as data request. |
+| Closing (alone with projections) | ~300 | Resolving | Maximum compression. Hands still. Two-line punch. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "The input was people." after dense translation paragraphs
+- Opening scene sets a lower register than Ch 1's boardroom — deliberate deceleration before the briefing accelerates
+- Thorne's dialogue is shorter and more direct than in Ch 1 — private register, no institutional cushions. Creates staccato against Aurielle's longer translation paragraphs
+- "SHEPHERD" enters the room as a single word on its own line — rhythmic isolation mirrors the word's weight
+- Closing compresses: 4 paragraphs from alone → wrist → hands → projections → "Her hands were still." Fastest section, highest density.
+- Bookend structure: "reads from the last page first" deployed in opening (preliminary assessment) and closing (projections)
+- Thorne's exit lines provide rhythmic closure before the final section break — each line shorter than the last
+
+**Dialogue Percentage:** ~12% (concentrated in briefing scene; opening and closing are solo narration)
+
+**Pacing Concern:** Briefing scene risks feeling like data delivery. Mitigated by dual-track narration — every piece of data Thorne delivers is simultaneously translated by Aurielle's interiority. The reader processes information and horror simultaneously. The translation track IS the pacing device.
+
+**Structural Note:** Ch 10 paired with Ch 1 forms a two-chapter unit (board meeting → private briefing, same day). The rhythm shifts from Ch 1's ensemble-room performance to Ch 10's two-person chamber piece. The register contracts: boardroom → office, fourteen people → two people, conservative framing → real numbers, unnamed line item → SHEPHERD.
+
+**Comparison to Ch 1:**
+- Ch 1: ensemble, wider tension range, longer (~2,800 words), more scene variety (meeting → private exchange → alone)
+- Ch 10: duet, tighter tension arc, shorter (~3,200 words), three scenes compressing to one room
+- Together they form Phase 1's Aurielle bracket: public face → private machinery
+
+---
+
 ### Chapter 9 — "The Hum Is Different" (Fuxi Lin)
 
 **Mode:** TEXTURE

@@ -1,0 +1,80 @@
+# Chapter 10 Metadata — Book 2
+# Generated: 2026-02-19
+
+chapter: 10
+book: 2
+title: "Opportunities"
+pov: "Aurielle Vasquez"
+phase: 1
+status: v1-complete
+draftVersion: 1
+wordCount: 3200
+completedDate: "2026-02-19"
+mode: PRESSURE
+location: "Neo-Shanghai Spires — NitroCore Executive Suite (Eduardo's office)"
+timeline: "~6 months post-BLACKWEIR, same day as B2 Ch 1"
+
+epigraph:
+  source: "NitroCore Internal Memorandum, Strategic Development Division"
+  author: "VP Strategic Development (Marchetti)"
+  ref: "Classified under Directive 7.3 revised 2171"
+  text: "Anchor Zone yield data confirms the viability of managed throughput as a sustainable grid infrastructure model. Recommend transition from crisis-response framing to operational-infrastructure framing. Designation: SHEPHERD."
+
+characters_present:
+  - name: "Aurielle Vasquez"
+    role: POV
+    state: "Functional tyrant. Dual-track integrated. SHEPHERD threshold crossed."
+  - name: "Marcus Thorne"
+    role: Supporting
+    state: "Paper-free. Assessment phase over. Narrating, not proposing."
+
+key_events:
+  - "SHEPHERD named for the first time in narrative"
+  - "Real Anchor Zone numbers: conductivity 7.2x, self-replenishing yield"
+  - "Three designated sites: Neo-Shanghai, Lagos, Mumbai"
+  - "Aurielle requests projections — institutional yes as data request"
+  - "Humanitarian framework produced (pre-prepared, same BLACKWEIR pattern)"
+  - "Eduardo's chair replaced (month 3, standard requisition — new detail)"
+  - "Park identified as board abstainer"
+
+themes:
+  dominant: "Architecture of Power"
+  strong:
+    - "Progress Requires Atrocity"
+    - "The Cost of Knowing"
+  present:
+    - "Systemic Complicity"
+    - "Commodification of Suffering"
+
+continuity:
+  cross_references:
+    - "B2 Ch 1 — same day, board meeting earlier"
+    - "B1 Ch 36 — BLACKWEIR authorization, Form CMP-7"
+    - "B1 Ch 46 — SHEPHERD seeded as unnamed line item"
+    - "B2 Ch 9 — Fuxi at barrier, same morning"
+  forward_references:
+    - "B2 Ch 15 — Nikolai Lagos deployment"
+    - "B2 Phase 3 — Mumbai (AEGIS autonomous fire)"
+  flags:
+    - "Desk origin: B2 says Mateo commissioned; B1 Ch 7 says Eduardo. Author prefers Mateo. B1 Ch 7 single-line fix needed."
+    - "Park (board abstainer) — new name, needs bible tracking"
+
+symbols:
+  - name: "Spanish walnut desk"
+    appearances: 4
+    function: "Inheritance surface — three CEOs, same wood, same decisions"
+  - name: "Handkerchief"
+    appearances: 1
+    function: "Present as infrastructure, not examined"
+  - name: "Wrist rotation"
+    appearances: 1
+    function: "Once, conscious, then still — Phase 4 progression"
+  - name: "Hands flat"
+    appearances: 1
+    function: "Claiming territory — same posture as BLACKWEIR authorization"
+  - name: "Last page first"
+    appearances: 2
+    function: "Bookend (opening + closing) — reads the conclusion before the argument"
+
+meta_narrative: "AEGIS as invisible novelist"
+audit_status: "PASS (all 7 categories)"
