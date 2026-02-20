@@ -865,7 +865,17 @@ chapters:
     mode: PRESSURE
     notes: "Book 2, Phase 3 opener (Aurielle thread) — Aurielle POV (4th Book 2 appearance, 11th overall). Q3 quarterly: SHEPHERD at 3 operational zones, throughput 18% above projection. Vocabulary fully normalized (no italics, no notation). Slide 19: acoustic anomaly flagged — structured secondary signal during directed absorption events. 'Continue monitoring.' Thorne: feedback mechanism / control variable. Acoustic report: non-random, origin unclassified. Wrist rotation not tried (trying abandoned). Dual-track collapsed. 'She was the mechanism.' Closing echo: 'The Chair opened the next report.' Eduardo comparisons retired. Five-zone scaling model authorized. AEGIS as invisible novelist."
 
-completedCount: 76
-totalWords: 336937
+  book2_chapter_24:
+    title: "The Boundary"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4100
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-24-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Nephthys POV (4th Book 2 appearance, 7th overall). Travels to secondary Anchor Zone to confront Threshold gathering (first time outside Cathedral dephasing in months). Seren leads Threshold — grief given architecture, theological register fully developed. Seren builds argument from counter-liturgy's own doctrine: 'You taught us to listen. We listened.' 'You never defined where listening ends.' Nosebleed during confrontation — Seren reads the blood: 'If listening is worth your life, why is joining not worth mine?' Nephthys does not answer. Transit: Imani names the failure ('Those are assertions'). Malachi recursion recognized — 'I know' spoken in Malachi's exact register. Closing: 'They are still here. She was no longer certain they were hers to interpret.' Seren declares three volunteers will walk in (forward to Ch 33). Epigraph: Nephthys journal (opaque, retroactively legible). Reyes document naming per Kareem edit. Contraction discipline: Nephthys = none, Imani = permitted, Seren = none (learned register). AEGIS as invisible novelist."
+
+completedCount: 77
+totalWords: 341037
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-23 + AEGIS-Blackweir complete and audited. Phase 3 Aurielle thread opened. Phase 3 next."
+notes: "Book 2 Ch 1-24 + AEGIS-Blackweir complete and audited. Phase 3 Nephthys thread opened. Seren declared walk-in (Ch 33 seed). Malachi recursion complete."

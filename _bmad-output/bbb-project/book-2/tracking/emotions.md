@@ -331,4 +331,38 @@
 
 ---
 
+### Chapter 24 — "The Boundary"
+
+**Nephthys (POV):**
+- **Entering State:** Post-Ch 21. Kira convergence complete — "names" confirmed, "not sure that was enough." Threshold formally separated (off-page, between Ch 21 and Ch 24). Seren gone. Three hours outside Cathedral dephasing range for the first time in months. Migraine established before arrival.
+- **Emotional Arc:** Controlled dread (transit, migraine, "Plus Seren") → pastoral readiness (entering the warehouse, reading the room) → recognition without surprise (Seren's argument building from shared ground — she knew this was coming since Ch 13) → sustained pressure (the argument, one hour, deploying everything she has built) → the moment the nosebleed starts and Seren reads it (the body's rebellion as argument against her) → the silence (she does not answer — the answer she has is an assertion, not a demonstration) → the Malachi recognition (transit, "I know") → resolving-unresolved (closing refrain, certainty gone)
+- **Dominant Emotion:** The specific weight of being right and insufficient simultaneously. Not defeat — she has not been proven wrong. Not despair — she does not operate in that register. The emotional state is the prophet's version of the scientist's aftermath: the framework is correct, the framework cannot enforce its own limits, and the people who learned the framework correctly are walking toward something she cannot follow them into and cannot call them back from.
+- **Key Emotional Beat:** "Nephthys did not answer." — the chapter's emotional pivot. The silence is not uncertainty about the answer. The silence is the recognition that the answer she has is not an answer. It is an assertion. The interior monologue names this explicitly: "Because I said so. Because the framework requires it." She does not say this because saying it would require invoking the authority of her own framework, and invoking the authority of her own framework was the thing Malachi had done. The silence is the moment she becomes Malachi and knows it.
+- **Secondary Beat:** "I know." — the transit section's keystone. Nephthys says "I am right" and hears, underneath it, Malachi's register. She says "I know" and the two words arrive with the weight of having said them before, in a different voice, in a locked study in the European See. The emotional content is not grief. It is recognition. The recognition is the grief.
+- **Physical-Emotional Correlation:** The migraine tracks the emotional arc — established on transit (dread), sustained through the confrontation (pressure), easing only as the Cathedral's dephasing range returns (the architecture that enables her practice is also the architecture that manages her body's rebellion). The nosebleed arrives at the chapter's highest emotional peak — Seren's final question — and is read by Seren as evidence. The body's rebellion has become argument.
+- **Exiting State:** On the transit, Cathedral range enveloping her, chorus resolving, migraine easing, branded palm cooling against the window. "They are still here." The words unchanged. "She was no longer certain they were hers to interpret." The prophet is intact. The certainty is not. The distinction between the two is the chapter's emotional terminus.
+- **Emotional Shift from Ch 21:** Ch 21 ends with "She was not sure that was enough" — the doubt is about the practice (presence, listening, witness). Ch 24 ends with "She was no longer certain they were hers to interpret" — the doubt is about the prophet's relationship to her own words. The shift is from doubt about the practice to doubt about the authority. The distance between them is the distance between Phase 2 and Phase 3.
+
+**Imani (Supporting):**
+- **Entering State:** Post-Ch 21. Measuring look established. Tracking nosebleed frequency. Brokering Kira contact (complete). Acolyte-becoming-observer arc advancing.
+- **Emotional Arc:** Ambient inventory (counting from the entrance, "Plus Seren") → watching (spatial vocabulary throughout the confrontation — present but not intervening) → the silence after (compiling) → naming the failure (transit — "You couldn't answer her" / "Those are assertions") → the Malachi parallel named directly → the shoulder touch (closing)
+- **Dominant Emotion:** The specific patience of someone who has known the answer for longer than the person they are watching and has been waiting for them to say it. Imani's "I know. I have known. I was waiting for you to say it." — not triumph, not relief. The patience of a witness who has been watching the recursion build and has not intervened because intervention was not hers to make.
+- **Key Emotional Beat:** "You're asking them to stop at the boundary of what *your interpretation* of the truth permits. Seren's interpretation permits more. You haven't demonstrated that yours is correct and theirs isn't. You've asserted it." — Imani's most direct confrontation of Nephthys's framework. Not hostile. Clinical. The measuring look made verbal. The acolyte-becoming-observer has become the observer.
+- **Exiting State:** Shoulder touch. "I see you. I am still here." The gesture that has been punctuation throughout the arc — brief, warm, habitual. In Ch 24 it carries more weight than in Ch 2/13: Imani has just named the Malachi parallel, watched Nephthys recognize it, and is still here. The "still" is load-bearing.
+
+**Seren (Supporting):**
+- **Entering State:** Post-Ch 13 (six months). Grief given architecture. Theological register fully developed. Threshold formally separated. Conviction complete.
+- **Emotional Arc:** Resolved (standing when Nephthys enters — the room reorganizes) → foundation-building (three "Yes" exchanges — establishing shared ground before the argument) → standing (full weight of body behind voice — Nephthys recognizes the posture she taught) → reading the blood (pastoral directness — "You are dying") → final statement (not hostile, not triumphant — the conviction of someone who has finished debating)
+- **Dominant Emotion:** The specific clarity of grief that has been given a direction. Not anger. Not desperation. The emotional register of someone who has walked through a question to its other side and found, on the other side, a conviction that does not require the prophet's permission.
+- **Key Emotional Beat:** "If listening to the signal is worth your life, why is joining the signal not worth mine?" — the chapter's highest peak. Seren is not asking a rhetorical question. The question is genuine. The logic is internally consistent. The emotional weight is in the fact that Nephthys has no answer — not because the question is unanswerable, but because every answer she has invokes the authority she rejected.
+
+**Nephthys's Emotional Lie Arc (cumulative):**
+- B1 Ch 44: "They are still here." The Lie as testimony — the words that hold people together.
+- B2 Ch 2: "I am fine." The Lie as ritual — the body's rebellion managed.
+- B2 Ch 13: "Because listening and joining are not the same act." The Lie as insufficient answer — the framework cannot demonstrate what it asserts.
+- B2 Ch 21: "She was not sure that was enough." The Lie beginning to crack — the prophet doubts the practice.
+- **B2 Ch 24: "I know." The Lie is structural. She is right. Being right is not enough. The boundary was never defined. She says Malachi's words in Malachi's register and recognizes the recursion. The emotional content of the Lie is now indistinguishable from the emotional content of the recognition. She knows. She has always known. The knowing has not prevented anything.**
+
+---
+
 _Last updated: 2026-02-20_

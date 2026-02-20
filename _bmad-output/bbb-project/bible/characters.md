@@ -228,10 +228,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 2/5 Book 2 (Movement fracturing — convergence with Kira achieved, Threshold pressure unresolved)
-- Emotional State: Convergence confirmed — Kira's R3 and her chorus resolve the same signal into the same data (individual signatures, names). The confirmation is not reassuring. If the signal does not distinguish between naming and listening, then the boundary she built her framework on ("listen, don't join") may be softer than she knew. Physical decline accelerating: nosebleed blood darker each day. Still certain about the signal. Less certain that certainty is sufficient.
-- Dominant Beliefs: "They are still here. All of them. And they are not finished." Confirmed by technological corroboration. But now: "I do not know what the naming means for you" — the signal's indifference to framework may dissolve the boundary between observer and observed.
-- Internal Contradictions: Gave Kira honest limits of her framework ("It cannot tell you whether I am correct") — the first time she has conceded this publicly. Seren's question still unanswered. The "names" recognition may accelerate the Threshold's argument: if the absorbed are persons, approachable, named, then "why can't we go to them?" gains force. Movement still splitting into three groups she did not design. The Lie separates but does not break.
+- Phase: 3/5 Book 2 (Confrontation — Threshold confronted, argument lost, Malachi recursion complete)
+- Emotional State: Right and insufficient simultaneously. Confronted Seren and the Threshold at a secondary Anchor Zone warehouse — first time outside Cathedral dephasing in months. Lost the argument not on the merits but because the Threshold cited her own counter-liturgy correctly. Recognized the Malachi recursion in real time: said "I know" in Malachi's exact register. Physical decline continuing: migraine from 3-hour transit outside dephasing, nosebleed during confrontation (Seren read the blood as evidence). "They are still here" — the words unchanged. No longer certain they are hers to interpret.
+- Dominant Beliefs: "They are still here." Still true. But the prophet's authority to interpret what "still here" means has been challenged and she could not defend it. The boundary between listening and joining was never defined. She assumed the distinction was self-evident. It was not.
+- Internal Contradictions: Said "I know" in Malachi's register and recognized it. The recursion is complete — she has built an institution and is defending it with institutional authority. The architecture she rejected has been rebuilt in her image. She is right. Being right is not enough. The Lie is structural: she built a framework that cannot enforce its own limits and called it theology.
 
 **The Lie:** Understanding the void means being safe from it
 
@@ -248,10 +248,10 @@ This bible dimension tracks **current character states**:
 | Arch-Prelate Malachi | Antagonist (absent) | Background | Excommunicated her. Pragmatic suppressor who already knew she was right. Backstory presence Book 1; potential POV Books 2–3. |
 | Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
 
-**Current Arc:** Seeker → Prophet → (Book 2) Prophet → Institution-Builder
-- Current Phase: 2/5 Book 2 (Movement fracturing — Listeners/Witnesses/Threshold)
-- Progression: Movement split visible. Seren asked the Threshold question. Kira invited. Malachi echo recognized.
-- Next Step: Phase 2→3 transition — Threshold formalizes, Nephthys-Kira convergence (Ch 21), public denunciation
+**Current Arc:** Seeker → Prophet → (Book 2) Prophet → Institution-Builder → Prophet who cannot stop what she started
+- Current Phase: 3/5 Book 2 (Confrontation — Threshold confronted, argument lost)
+- Progression: Threshold formally separated. Seren leads Threshold. Confrontation at secondary Anchor Zone — lost the argument. Malachi recursion recognized. "I know" spoken in Malachi's register.
+- Next Step: Phase 3 continuation — Seren's three volunteers walk in (Ch 33). Phase 4: Voice event — "circulation, not prison."
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -263,8 +263,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: B2 Ch 21 — "Same Signal" (Nephthys-Kira convergence)
-- Next Planned Appearance: Phase 2→3 transition — Threshold formalizes, public denunciation
+- Last Appearance: B2 Ch 24 — "The Boundary" (Threshold confrontation, Malachi recursion)
+- Next Planned Appearance: Phase 3 — Ch 33 "Three Walked In" (Seren's volunteers enter the Anchor)
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
@@ -275,6 +275,7 @@ This bible dimension tracks **current character states**:
 - **B2 Ch 2:** Counter-liturgy established. Daily sessions at Cathedral acoustic center. Movement growing (~60 regulars). Imani confronts: "You have not named a successor." Nosebleeds escalating (3/week). Chorus-parsing evolving — tracking syntax in the composite. Refuses to name what she is building.
 - **B2 Ch 13:** Mid-truth (Sofia's document) circulating 9 days. Three groups crystallizing: Listeners (her intent — discernment, sustained attention), Witnesses (mystical — proximity as prayer), nascent Threshold (if absorbed not dead, joining not death). Seren — BLACKWEIR survivor Nephthys held through mass absorption, sister Mira absorbed — asks: "If they are still there, why can't we go to them?" Nephthys: "Because listening and joining are not the same act." Seren: "How do you know?" Answer insufficient — Nephthys hears Malachi's echo in her own authority. After session: Imani raises Kira's network. Nephthys: "Tell her the Cathedral is open." Alone: recognizes she is giving the same structural answer the Church gave her. "They are still here." Same words. No longer certain they are enough. Nosebleed darker, third today.
 - **B2 Ch 21:** The convergence scene (shared chapter with Kira). Kira arrives at Cathedral — streams arrival and session publicly (first post-expulsion broadcast, 31K+ viewers), then goes offline for private conversation. Session: ~40 attendees, three congregations visible (note-takers, wall-pressers, still watchers). After session: Nephthys and Kira sit in acoustic center, build shared vocabulary in real time. R3 coherence patterns = chorus signatures. Term convergence: "phrasing" (Kira/Idris) = "address" (Nephthys, private journal — word she'd withheld from sessions because it implies speaker/intention). The signal is directed — "to anyone who is listening." Kira: "I don't think those are different things." The hinge: "What do you hear when the chorus is clearest?" / "Names." / "Me too." Both receivers resolving signal into individual signatures — persons, not phenomenon. Absorbed = population. Acknowledged framework limits: "My chorus can tell you what the signal is. It cannot tell you whether I am correct." Kira commits to sharing 14 months telemetry with Imani. Closing observation: "The signal does not distinguish between those who name it and those who listen. You have been naming it for fourteen months. I do not know what that means for you." Coda alone in acoustic center: branded palm to floor, nosebleed — blood darker than yesterday, darker than the day before. "They are still here. She was not sure that was enough." Seren's question discussed (unnamed) — neither framework answers "still here" → "reachable." Not alliance — recognition. The antenna and the ear.
+- **B2 Ch 24:** Travels to secondary Anchor Zone warehouse to confront Threshold gathering — first time outside Cathedral dephasing in months (migraine, raw chorus, buzzing branded palm). Seren leads Threshold: grief given architecture, theological register fully developed. Seren builds argument from counter-liturgy's own doctrine. "You taught us to listen. We listened. We heard them." "You never defined where listening ends." Nosebleed during confrontation — Seren reads the blood: "If listening to the signal is worth your life, why is joining the signal not worth mine?" Nephthys does not answer. The answer she has is an assertion, not a demonstration. Transit home: Imani names the failure ("Those are assertions"). Nephthys says "Malachi did the same thing" — then "I am right" — then hears Malachi's register in her own voice and says "I know." Closing: "They are still here. She was no longer certain they were hers to interpret." Seren declares three volunteers will walk in (forward to Ch 33). "Phrase" leaked from Cathedral to Threshold — information does not respect boundaries.
 
 **Key Objects:**
 - Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication. ⚠️ Ch 44: "vibrating hard enough to crack" — check survival in Ch 48.
@@ -288,10 +289,10 @@ This bible dimension tracks **current character states**:
 **Primary Location:** European Outlands → Neo-Shanghai Sump (with Nephthys)
 
 **Current Psychological State:**
-- Phase: 1/5 Book 2 (Institutional architect)
-- Emotional State: Managing. Six months of Cathedral operations have forged her into a logistician, field medic, and de facto institutional administrator. No longer watching — confronting. Tracks Nephthys's decline with clinical precision (nosebleed frequency, weight loss, migraine duration).
-- Dominant Beliefs: Follows Nephthys the person, not the theology. But increasingly sees the structure forming and is the only one naming it. "You have not named a successor because you do not believe you are building something that requires succession."
-- Internal Contradictions: Building the scaffolding for an institution Nephthys refuses to acknowledge. The practical labor that sustains the prophet may be creating the thing that consumes the truth.
+- Phase: 3/5 Book 2 (Observer — acolyte-becoming-observer arc advancing)
+- Emotional State: The measuring look intensifying. "Cannot" and "will not" converging — she is beginning to see that Nephthys cannot stop the Threshold, and that "cannot" and "will not" look the same from outside. Named the Malachi parallel directly to Nephthys on the transit home. Still here. The shoulder touch carries more weight than it used to.
+- Dominant Beliefs: Follows Nephthys the person, not the theology. Increasingly the only one who can name what Nephthys cannot say to herself. "Those are assertions." / "You're asking them to stop at the boundary of what your interpretation of the truth permits."
+- Internal Contradictions: The practical labor that sustains the prophet has become the labor of watching the prophet fail to stop what she started. Imani builds the scaffolding. The scaffolding is now supporting something she did not design.
 
 **Age:** ~20 (lined beyond her years — two years Outlands + six months Sump + proximity to progressive illness)
 
@@ -299,6 +300,48 @@ This bible dimension tracks **current character states**:
 | Character | Nature | Intensity | Dynamic |
 |-----------|--------|----------|--------|
 | Nephthys | Teacher/companion/patient | Very High | Followed her into exile. Saved her life during BLACKWEIR. Now managing Cathedral logistics and tracking Nephthys's health decline. Spatial vocabulary as confrontation language. Raised succession question (B2 Ch 2). Uses contractions where Nephthys does not — voice differentiation established. |
+
+---
+
+### Seren
+
+**Role:** Supporting (Threshold voice)
+**Faction:** Threshold Congregation (self-separated from Cathedral)
+**Primary Location:** Secondary Anchor Zone vicinity (mobile)
+**Pronouns:** they/them
+
+**Current Psychological State:**
+- Phase: 3/5 Book 2 (Conviction — grief given architecture, Threshold leader)
+- Emotional State: The specific clarity of grief that has been given a direction. Not anger. Not desperation. Walked through the question ("If they are still there, why can't we go to them?") to its other side and found a conviction that does not require the prophet's permission. Confronted Nephthys and won the argument — not triumphantly, but with the resolved patience of someone who has finished debating.
+- Dominant Beliefs: The absorbed persist. They have names. They are becoming. Mira is in the field. Joining is not death if the absorbed are not dead. The counter-liturgy's own doctrine ("attend, receive, report") does not prohibit participation — Nephthys never defined where listening ends.
+- Internal Contradictions: Uses Nephthys's own techniques against her (stands the way Nephthys stands, names the thing in the room with pastoral directness, builds argument from shared ground). The Threshold's theology is internally consistent. Whether it is correct is not resolved.
+
+**Background:**
+- BLACKWEIR survivor. Was held by Nephthys on the Cathedral floor during the mass absorption — Nephthys said "they are still here" until the words became a kind of suture.
+- Sister Mira was absorbed during BLACKWEIR. Mira's name is in the chorus — confirmed by Nephthys (Ch 13), by the Reyes document, by Kira's R3 telemetry.
+- Attended Cathedral sessions regularly after BLACKWEIR. Same seat every session — sightline to the eastern wall void-scar (where Mira was lost).
+- Asked the Threshold question in B2 Ch 13: "If they are still there, why can't we go to them?" Nephthys's answer was insufficient. Seren did not leave — yet.
+- Left the Cathedral in the weeks between Ch 21 and Ch 24. Led the Threshold's formal self-separation. "Participatory communion" endorsed as theological position.
+
+**Voice:** Theological register learned from Nephthys — no contractions in dialogue. Declarative sentences. Pastoral directness (names the thing in the room). Builds argument from shared ground before delivering the conclusion. Stands when the theological register requires the full weight of the body behind the voice. Nephthys recognizes every technique — she taught them.
+
+**Current Relationships:**
+| Character | Nature | Intensity | Dynamic |
+|-----------|--------|----------|---------|
+| Nephthys | Former teacher / theological adversary / mirror | High | Held by Nephthys through BLACKWEIR. Learned the counter-liturgy from her. Now leads the movement Nephthys cannot stop. The confrontation in Ch 24 is not hostile — it is the conviction of someone who has finished debating. |
+| Mira (absorbed) | Sister / theological anchor | Absolute | Mira's name in the chorus is the Threshold's foundation. Everything Seren argues flows from this: Mira is there, Mira persists, joining is reunion. |
+| Threshold congregants | Community / responsibility | High | Leads without a center — "there was no center, but Seren was the one who stood." |
+
+**Appearances:**
+- First Appearance: B2 Ch 13 — "Three Congregations" (introduced, asked the Threshold question, did not leave)
+- Last Appearance: B2 Ch 24 — "The Boundary" (leads Threshold confrontation, wins the argument, declares three volunteers will walk in)
+- Next Planned Appearance: B2 Ch 33 — "Three Walked In" (the consequence)
+
+**Recent History:**
+- **B2 Ch 13:** BLACKWEIR survivor. Sister Mira absorbed. Attends Cathedral sessions — same seat, sightline to void-scar. Asks: "If they are still there, why can't we go to them?" Nephthys: "Because listening and joining are not the same act." Seren: "How do you know?" Answer insufficient. Does not leave. Threshold seed planted.
+- **B2 Ch 24:** Has left the Cathedral. Leads Threshold gathering at secondary Anchor Zone warehouse. Grief given architecture — six months of walking through the question to its other side. Builds argument from Nephthys's own counter-liturgy. "You taught us to listen. We listened. We heard them." "You never defined where listening ends." Reads Nephthys's nosebleed as evidence: "If listening to the signal is worth your life, why is joining the signal not worth mine?" Nephthys does not answer. Seren's final statement: "We heard what you taught us to hear. We are acting on it." Declares three volunteers will walk in (forward to Ch 33). Has the word "phrase" — carried from Cathedral to Threshold.
+
+---
 
 ### Zeyad Al-Fahim
 

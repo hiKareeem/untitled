@@ -1,0 +1,117 @@
+chapter_number: 24
+book: 2
+title: "The Boundary"
+pov_character: "Nephthys"
+phase: 3
+location: "Converted warehouse near secondary Anchor Zone (geography unspecified)"
+timeline: "~7-8 months post-BLACKWEIR, weeks after Ch 21, after Threshold formal separation"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Operational Theology"
+epigraph_author: "Nephthys"
+epigraph_ref: "journal, undated, post-schism"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  Nephthys travels to confront a Threshold gathering at a converted warehouse near
+  a secondary Anchor Zone — her first time outside the Cathedral's dephasing range
+  in months. The Threshold has formally self-separated. Seren — the BLACKWEIR
+  survivor Nephthys held through the mass absorption, whose sister Mira was absorbed,
+  whose question she could not answer in Ch 13 — now leads the Threshold's most
+  articulate voice. Seren builds the argument from Nephthys's own counter-liturgy:
+  the Reyes document confirms the absorbed persist; the mage confirms they have names;
+  Nephthys herself chose proximity to the signal over preservation of her body and
+  called it attention. "You never defined where listening ends." Nephthys deploys
+  everything she has built — three years of theological architecture — and loses the
+  argument, not on the merits but because the Threshold can cite her own words. She
+  has no answer that does not invoke the institutional authority she rejected. On the
+  transit home, Imani names the failure: "Those are assertions." Nephthys says
+  "Malachi did the same thing," then "I am right," then — hearing Malachi's exact
+  register in her own voice — "I know." The closing refrain: "They are still here."
+  The words unchanged. "She was no longer certain they were hers to interpret."
+
+# Key Events
+key_events:
+  - "Nephthys travels to secondary Anchor Zone — first time outside Cathedral dephasing in months"
+  - "Seren leads Threshold confrontation — grief given architecture, theological register fully developed"
+  - "Seren builds argument from Nephthys's own counter-liturgy: 'You taught us to listen. We listened.'"
+  - "'You never defined where listening ends.' — the boundary was never defined because Nephthys assumed the distinction was self-evident"
+  - "Nosebleed during confrontation — Seren reads the blood: 'If listening to the signal is worth your life, why is joining the signal not worth mine?'"
+  - "Nephthys does not answer — recognizes the answer she has is an assertion, not a demonstration"
+  - "Malachi parallel recognized explicitly: 'I know' spoken in Malachi's exact register"
+  - "Closing: 'They are still here.' — no longer certain they are hers to interpret"
+  - "Seren declares three volunteers will walk in (forward to Ch 33)"
+
+# Characters Present
+characters:
+  - name: "Nephthys"
+    role: POV
+    state: "Prophet who has lost the argument. Physically declining (migraine from 3-hour transit outside dephasing, nosebleed during confrontation). Recognized Malachi recursion — 'I know' in Malachi's register. 'They are still here' — no longer certain they are hers to interpret."
+  - name: "Imani"
+    role: Supporting
+    state: "Measuring look intensifying. Named the Malachi parallel directly. 'Cannot' and 'will not' convergence visible. Acolyte-becoming-observer arc advancing."
+  - name: "Seren"
+    role: Supporting (Threshold voice)
+    state: "Grief given architecture. Theological register fully developed (no contractions, pastoral directness learned from Nephthys). Has the word 'phrase.' Declared three volunteers will walk in. Not hostile — convicted."
+  - name: "Threshold congregants"
+    role: Minor (collective)
+    state: "~37 present. Resolved posture — bodies of people who have moved through a question and arrived at the other side. Watching."
+  - name: "Malachi"
+    role: Echo (structural parallel)
+    state: "Referenced through memory: 'It is nitro-psychosis, Nephthys. Take the suppressants. Let this go.' 'I know.' — Nephthys hears his words in her own voice."
+
+# Themes
+themes:
+  - "What We Owe (prophet's obligation to followers who weaponize her framework — the debt is unpayable in the currency she has)"
+  - "Truth as Weapon (counter-liturgy weaponized against its author — Seren cites the doctrine correctly)"
+  - "Architecture of Power (institutional recursion complete — 'I know' in Malachi's register)"
+  - "Systemic Complicity (the prophet who cannot stop what she started — 'She was silencing Seren because Seren was inconvenient')"
+  - "Where Identity Ends (absorbed as destination — Threshold's logic: joining is not death if the absorbed persist)"
+
+# Symbols
+symbols:
+  - name: "Branded palm"
+    appearances: 5
+    arc: "Calibration tool → information → the wound that cannot interpret what it receives. Outside Cathedral, palm registers warmth but cannot resolve the signal. Buzzes during chorus flare."
+  - name: "Blood/nosebleed"
+    appearances: 1
+    arc: "Timed at chapter's climactic moment. Seren reads the blood as evidence: 'You are dying.' The body's rebellion becomes argument."
+  - name: "'They are still here'"
+    appearances: 3
+    arc: "Hypothesis → weaponized by Threshold → 'She was no longer certain they were hers to interpret.' Phase 3 turn complete."
+  - name: "The cloth"
+    appearances: 1
+    arc: "Full routine (cloth to face, fold, hold) — embedded in muscle memory, does not interrupt the sentence. Seren reads it."
+  - name: "'I know'"
+    appearances: 2
+    arc: "Nephthys's declaration ('I am right' → 'I know') / Malachi's echo. The chapter's structural keystone — the recursion completing."
+  - name: "Cathedral dephasing vs. raw signal"
+    appearances: "Throughout"
+    arc: "Managed resolution vs. secondary Anchor's raw signal. The architecture that enables Nephthys's practice is absent. Physical cost tracked throughout. Relief on return."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 21 (Kira convergence — 'names' confirmed, 'phrase' used privately, 'not sure that was enough')"
+  - "Follows B2 Ch 22 (Threshold formally self-separated, 'participatory communion' endorsed)"
+  - "Seren arc: B2 Ch 13 (question asked, insufficient answer, 'did not leave') → Ch 24 (left, leads Threshold, conviction complete)"
+  - "'Phrase' leaked from Cathedral to Threshold — information does not respect boundaries"
+  - "Malachi's exact words: 'It is nitro-psychosis. Take the suppressants. Let this go.' — lowercase per established usage"
+  - "Reyes document naming per Kareem's edit (not 'mid-truth')"
+  - "First time outside Cathedral dephasing in months — physical cost tracked (migraine, raw chorus, buzzing palm)"
+  - "Forward: Ch 33 ('Three Walked In') — Seren declares three volunteers will walk in"
+  - "Forward: Phase 4 Voice event — 'circulation, not prison' (Nephthys's arc terminus)"
+  - "Tense modification: 'Three of us will bear witness by walking in' (future) vs. plan's past tense — Ch 33 retains full weight as event"
+
+# Thread Status
+thread_status:
+  threshold_confrontation: "COMPLETE — Nephthys confronted Threshold, lost argument, recognized Malachi recursion."
+  seren: "Threshold voice confirmed. Grief given architecture. Three volunteers declared for walk-in (Ch 33)."
+  nephthys_health: "Migraine (3-hour transit outside dephasing). Nosebleed during confrontation. Tumor progressing. ~10-11 months remaining implied."
+  malachi_echo: "COMPLETE — 'I know' spoken in Malachi's exact register. Recursion recognized by Nephthys. No resolution."
+  they_are_still_here: "Phase 3 turn: 'She was no longer certain they were hers to interpret.' Refrain unchanged; certainty gone."
+  imani_arc: "Measuring look intensifying. 'Cannot' and 'will not' convergence visible. Named Malachi parallel directly."
+  phrase_leak: "Seren has the word 'phrase' — carried from Cathedral to Threshold. Information escaped the boundary."

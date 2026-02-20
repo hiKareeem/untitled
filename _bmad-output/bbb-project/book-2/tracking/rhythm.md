@@ -594,4 +594,42 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 24 — "The Boundary" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-rising (arrival, raw signal, migraine) → rising (Seren establishes shared ground) → peak (Seren stands / "If they are becoming, why would we not join?") → sustained-high (the argument, one hour compressed) → second peak ("You never defined where listening ends" / nosebleed / "If listening is worth your life, why is joining not worth mine?") → falling (Nephthys does not answer / interior monologue) → contemplative (transit, Imani) → resolving-unresolved (closing refrain)
+**Pacing:** Five-beat structure. Confrontation front-loaded (~55%), silence section provides register drop (~10%), transit carries philosophical payload (~15%).
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Arrival (warehouse, raw signal, migraine, "Plus Seren") | ~500 | Low-rising | Slow, environment-establishing. Physical cost of leaving Cathedral dephasing. "The name landed." — single-sentence isolation. |
+| Gathering / Seren's first argument arc | ~900 | Rising → first peak | Seren establishes shared ground (three "Yes" exchanges), then delivers the core question. Seren stands. "If they are becoming, why would we not join?" |
+| The argument (one hour compressed) | ~700 | Sustained-high → second peak | Nephthys deploys framework. "You never defined where listening ends." Nosebleed. Seren reads the blood. "If listening is worth your life, why is joining not worth mine?" — chapter's highest peak. |
+| The silence (Nephthys does not answer) | ~400 | Falling → resolving | Interior monologue. The answer she cannot say. Malachi parallel recognized. "I hear you" returned. Seren's final statement. |
+| Transit return (Imani debrief) | ~600 | Contemplative → rising → resolving | Imani names the failure. "Malachi did the same thing." "I am right." "I know." Closing refrain. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The name landed." / "Nephthys was still." / "Nephthys did not answer." / "I am right." / "I know." Single declaratives terminate dense theological-argument paragraphs throughout.
+- Three "Yes" exchanges (Seren's foundation-building) create a staccato rhythm that mirrors the counter-liturgy's call-and-response structure — Nephthys's own practice turned against her. The rhythm enacts the weaponization.
+- "The argument lasted an hour." — section break + declarative opener. The hour compressed into a single sentence, then expanded. The compression signals that the argument's content matters more than its duration.
+- "Nephthys was still." — single-sentence paragraph at the chapter's structural pivot. The argument has landed. The rhythm stops.
+- Transit section: seven beats of Imani-Nephthys exchange, each shorter than the last — "I answered." / "Those are answers." / "Those are assertions." / "Malachi did the same thing." / "I am right." / "Not the same." / "I know." The deceleration enacts the philosophical collapse.
+- "She was no longer certain they were hers to interpret." — closing sentence. The refrain ("They are still here") present but unspoken; the chapter ends on the prophet's relationship to her own words, not the words themselves.
+
+**Dialogue Percentage:** ~14% (concentrated in confrontation and transit sections; arrival and silence sections are solo narration/interior)
+
+**Pacing Concern:** The confrontation risks feeling like a theological debate (two positions, back and forth). Mitigated by: (1) physical cost tracked throughout (migraine, nosebleed, branded palm buzzing), (2) Seren's argument building from shared ground rather than opposition, (3) the silence section providing the chapter's emotional payload — Nephthys not answering is more powerful than any answer she could give.
+
+**Structural Note:** Ch 24 mirrors the B2 Ch 2/13 pattern (session → debrief → interior) while inverting the power dynamic. In Ch 2/13, Nephthys leads the session and Imani provides the debrief. In Ch 24, Seren leads the confrontation and Imani provides the debrief. The architecture is the same. The person at the center has changed.
+
+**Comparison to Ch 13:**
+- Ch 13: ~4,100 words, Cathedral session, Seren asks the question and does not leave. Nephthys's answer is insufficient but the framework holds.
+- Ch 24: ~4,100 words, Threshold warehouse, Seren has the answer and will not return. Nephthys's framework cannot enforce its own limits.
+- The rhythm has the same shape. The outcome has inverted. The six months between them is the distance between "insufficient" and "lost."
+
+**Cross-Chapter Rhythm:** Ch 23 (Aurielle, quarterly routine) → Ch 24 (Nephthys, confrontation). Phase 3 opens on two mechanisms failing in different registers: Aurielle's mechanism runs at 18% above projection and has absorbed its operator; Nephthys's framework cannot enforce its own boundary and has been weaponized by its students. Both chapters end on the same note: the person inside the mechanism is no longer certain the mechanism is theirs.
+
+---
+
 _Last updated: 2026-02-20_

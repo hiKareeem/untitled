@@ -391,4 +391,44 @@ The three-register structure is the chapter's formal argument: the convergence i
 
 ---
 
+### Chapter 24 — "The Boundary" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | Prophet's obligation to followers who weaponize her framework | The chapter's central question: what does Nephthys owe Seren? The honest answer — she cannot demonstrate the boundary she asserts — is the same structural answer the institution gave her. The debt is unpayable in the currency she has. She owes truth. The truth is that the boundary was never defined. |
+| Truth as Weapon | Counter-liturgy weaponized against its author | Seren cites the counter-liturgy's own doctrine ("attend, receive, report") to justify the Threshold's action. The framework is internally consistent. The weapon is Nephthys's own words, used correctly. "Information did not respect the boundaries she built around it." — "phrase" leaked from the Cathedral to the Threshold. |
+| Architecture of Power | Prophet as institution — recursion complete | "I know" — Malachi's words in Nephthys's mouth. The recursion is complete. She has built an institution and is now defending it with institutional authority. The architecture she rejected has been rebuilt in her image. The chapter's argument: the prophet who rejects institutional authority long enough becomes an institution. |
+| Systemic Complicity | The prophet who cannot stop what she started | "She was silencing Seren because Seren was inconvenient." The structural parallel to Malachi's suppression of Nephthys made explicit — same mechanism, different mouth. Complicity here is not knowing and continuing. It is being the structure that makes continuation automatic. |
+| Where Identity Ends | Absorbed as destination | Seren's argument: if the absorbed persist, if they are becoming, if Mira is in there with a name — joining is not death. The identity question drives the Threshold's logic. Nephthys cannot refute it without evidence she does not have. The chapter does not resolve whether Seren is right. |
+
+**Key Resonance:** Truth as Weapon ↔ Architecture of Power. The weapon (counter-liturgy weaponized) is effective because the architecture (Nephthys's framework) has no enforcement mechanism. She built a practice without a doctrine to enforce its limits. The Threshold walked through the gap she left. The gap was always there — she assumed the distinction between listening and joining was self-evident. It was not. The architecture failed because it was never load-bearing where it needed to be.
+
+**Epigraph Integration:** Nephthys, *Operational Theology* (journal, undated, post-schism) — "A wall is tested by what strikes it. A boundary is tested by what it was built to contain. I did not build a wall. I am not certain I built a boundary. I may have built a door and named it otherwise."
+- Thematic function: Opaque on first read — architectural metaphor. Gains meaning retroactively when the reader sees Nephthys discover she built a door and named it a boundary. The epigraph is the chapter's thesis written before the chapter's argument.
+- AEGIS as invisible novelist: Nephthys's journal — "Operational Theology" (established in B2 Ch 21 epigraph). AEGIS reconstructing from her written record. The journal entry is post-schism, meaning Nephthys wrote this after the confrontation — the chapter is the event the epigraph reflects on.
+- The word "door" in the epigraph: the door that has been open the entire time she has been insisting it was a wall. The Threshold walked through it. The chapter's closing image: "She was no longer certain they were hers to interpret."
+
+**Nephthys's Lie Arc (Phase 3):**
+- B1 Ch 3: "The chorus is not the Church's Voice. It is something else." The Lie as discovery.
+- B1 Ch 14: "The Cathedral protects because the stone is inert." The Lie as physics misread as theology.
+- B1 Ch 26: "The third option: neither join nor flee." The Lie as framework.
+- B1 Ch 35: "Take everyone who comes." The Lie as institution-building.
+- B1 Ch 44/48: "They are still here." The Lie as testimony.
+- B2 Ch 2: "The counter-liturgy is not a movement." The Lie as denial of what she has built.
+- B2 Ch 13: "Listening and joining are not the same act." The Lie as insufficient answer.
+- B2 Ch 21: "The signal does not distinguish between those who name it and those who listen." The Lie as shared vocabulary.
+- **B2 Ch 24: "I am right." The Lie is not that she is wrong. The Lie is that being right is enough. The boundary was never defined. The Threshold walked through it. She says "I know" in Malachi's register and recognizes the recursion. The Lie is structural: she built a framework that cannot enforce its own limits and called it theology.**
+
+**"They Are Still Here" Arc (cumulative):**
+- B1 Ch 44: Spoken from the doorway during BLACKWEIR — hypothesis, testimony, suture.
+- B1 Ch 48: Spoken to the first congregation — the words that begin the movement.
+- B2 Ch 2: The counter-liturgy's foundation — the words that organize the practice.
+- B2 Ch 13: "They are still here" — same words, insufficient now. "She was not sure presence was enough."
+- B2 Ch 21: Confirmed by Kira's R3 — "names." The words gain scientific corroboration.
+- **B2 Ch 24: "They are still here. The words she had said from the doorway... She was no longer certain they were hers to interpret." The refrain unchanged. The prophet's relationship to it has changed. Phase 3 turn complete.**
+
+**Cross-Chapter Thread — Phase 3 Nephthys:** Ch 24 (confrontation, lost argument, Malachi recursion) → Ch 33 ("Three Walked In" — the consequence). The chapter plants the seed; Ch 33 is the harvest. Seren's declaration ("Three of us will bear witness by walking in") is the forward thread. The theological argument precedes the act.
+
+---
+
 _Last updated: 2026-02-20_
