@@ -135,4 +135,24 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 16 — "Expelled" (Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Filing → language | Filing-as-coping (B1) → dataset (B2 Ch 6) → language/vocabulary (B2 Ch 16). Each stage = identity shift. Expelled from institution, building selfhood through naming. "This was for her" = first personal choice in months. Streaming-freedom realization: expulsion = key, not lock. |
+| Truth as Weapon | Vocabulary as counter-weapon | Sofia's publication weaponized Kira's data externally. Kira now builds vocabulary as internal counter-weapon to institutional language ("implant resonance feedback"). "Phenomenological character" field = giving truth structure. "There is no correct terminology. The terminology is being built." |
+| Architecture of Power | Institutional architecture read/built | Expulsion letter analyzed for structure (12 paragraphs, 6 of throat-clearing). Grounding paradox: expelled from the institution that grounded her = grounding dies with relationship. Filing categories as power structures — insufficient, rebuilt. Imani bypasses Ren's chain = speed as architecture. |
+| What Systems Do to People | Multiple systems, multiple effects | Academy expels her. Filing system she built evolves beyond its purpose. Pharmaceutical system (legitimate vs illicit). Signal itself as system that doesn't distinguish between namers and listeners. The 214 mages are a system Kira built without intending to. |
+
+**Key Resonance:** Where Identity Ends ↔ Truth as Weapon. The vocabulary Kira builds IS her new identity. The filing-to-language progression is simultaneously an identity arc and a political act — naming the signal outside institutional categories creates a counter-framework. The 2139 committee "did not survive the finding" that namers and listeners are the same; Kira is about to test whether she and Nephthys can.
+
+**Epigraph Integration:** "The committee found that the signal did not distinguish between those who named it and those who listened. The committee did not survive the finding." — Joint Theological-Scientific Review, 2139
+- Thematic function: Dissolved committee = institutional inability to hold the naming/listening distinction. Kira (namer) and Nephthys (listener) converging in the same room = testing whether the finding survives outside institutions.
+- AEGIS as invisible novelist: committee proceedings = archival document. The dissolution IS the record.
+- Closing callback: "the signal — the signal that didn't distinguish — was still waiting for someone to finish the sentence." Reader sees epigraph reflected in Kira's own language, 37 years after the committee died trying to hold the same thought.
+
+**Dataset-to-Language Thread:** B1 Ch 10 (filing as coping) → B2 Ch 6 (filing as dataset) → B2 Ch 16 (dataset as language). The progression is: manage → organize → name. Each verb is a different relationship to the signal. Managing keeps it at distance. Organizing makes it legible. Naming makes it yours. The "Phenomenological character" field is the moment the filing system admits its own insufficiency — and invites 214 people to build what comes next.
+
+---
+
 _Last updated: 2026-02-19_

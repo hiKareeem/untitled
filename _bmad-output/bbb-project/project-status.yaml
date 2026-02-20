@@ -633,6 +633,16 @@ chapters:
     mode: PRESSURE
     notes: "Book 2, Phase 1 closer (Thread A) — Aurielle POV (2nd Book 2 appearance, 9th overall). Same day as B2 Ch 1. Private briefing with Thorne — no paper, no folio. SHEPHERD named for first time. Conductivity 7.2x (board told 3x). Absorption gradient proportional to throughput — 'throughput requires a substrate.' Three sites: Neo-Shanghai (operational), Lagos (FAS), Mumbai (highest throughput). 'You're describing a factory.' / 'I'm describing the future of the grid.' Humanitarian framework produced instantly (pre-prepared, BLACKWEIR pattern). 'Send me the projections' = threshold crossed. Eduardo's chair replaced (month 3). Wrist rotation: once, conscious, stopped. Hands flat on Spanish walnut. Last page first (bookend). Park identified as abstainer. Epigraph: NitroCore memorandum naming SHEPHERD (Directive 7.3). AEGIS as invisible novelist."
 
-completedCount: 61
-totalWords: 275737
+  book2_chapter_16:
+    title: "Expelled"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4500
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-16-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Kira POV (2nd Book 2 appearance, 8th overall). Days after mid-truth publication. Formal expulsion (Section 22.7) — non-event, institution catching up. Streaming freedom realized (expulsion kills grounding). Network 47/9 → 214/31 (publication catalyzed). First voice call: Idris (Accra, R3) — shared vocabulary, 'phrasing'/'communication,' filing categories insufficient. New telemetry field: 'Phenomenological character.' Pharmacist (grounding). Imani message bypasses Ren — Nephthys convergence accelerated. Transport to Neo-Shanghai booked (48 hrs, unannounced). Lumina 60mg provisional. Epigraph: Joint Theological-Scientific Review, 2139 — 'The committee did not survive the finding.' AEGIS as invisible novelist."
+
+completedCount: 62
+totalWords: 280237
 lastUpdated: "2026-02-19"

@@ -261,7 +261,7 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: B2 Ch 13 — "Three Congregations"
+- Last Appearance: B2 Ch 16 — "Expelled"
 - Next Planned Appearance: B2 Ch 21 — "Same Signal" (Nephthys-Kira convergence)
 
 **Recent History:**
@@ -628,10 +628,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 1/5 Book 2 (Expelled Witness — New Stasis)
-- Emotional State: Controlled drift. Performer gone — stripped by BLACKWEIR, not recoverable. Filing as emotional management. Almost-certain-she's-in-control as remaining structure. The person underneath exists but doesn't know what shape she is yet. Antenna/node identity forming through mage network coordination.
-- Dominant Beliefs: "The absorbed were people. They are still there." (Book 1 Lie destroyed.) New Book 2 Lie forming: "If I can calibrate, I can handle the load" — believes the 60mg will hold, believes the network is manageable, believes she can choose when to act.
-- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina escalating). Wants to be seen as person, not weapon — but the network sees her as antenna. The filing that was coping is becoming purpose, and she hasn't noticed the transition.
+- Phase: 2/5 Book 2 (Expelled — Emergent Agency)
+- Emotional State: Emergent agency. Controlled drift broken by two events: Idris voice call (shared vocabulary = isolation broken in new register) and Imani's message (Nephthys convergence accelerated). Filing evolved past management into creation (language-building). First personal choice in months (Neo-Shanghai, unannounced). Streaming freedom realized — expulsion kills grounding terms.
+- Dominant Beliefs: "The absorbed were people. They are still there." Book 2 Lie intact: "If I can calibrate, I can handle the load" — 60mg holding provisionally. New belief forming: the signal has communicative properties, and naming those properties IS the work.
+- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina at 60mg, provisional). Building a new institution (214-member network with formalized data architecture) while believing she's just filing. The vocabulary she's creating may be as load-bearing as the Academy's — and as constraining.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -649,14 +649,27 @@ This bible dimension tracks **current character states**:
 | Ren Matsuda | Mage network (Kyoto, research) | Trusted | Documents everything; first to message (B1 Ch 18); now has contact in Nephthys's circle |
 | Lena Okafor | Mage network (Lagos, active) | Professional | Direct; telemetry contributor; Lagos FAS trunk-line data |
 | Paz | Lumina contact | Transactional | Illicit dealer; sees the dosage curve Kira won't; pragmatic concern |
-| Streaming audience | Performance (suspended) | Surface | ~400K followers (up from 200K); watching dark channel; sending Nephthys messages |
-| Varma Academy | Institutional (severed) | Adversarial | Three legal notices unanswered; formally expelled under Section 22.7 |
-| Nephthys | Unaware (awareness forming) | Potential | Knows name from Feed/followers; Ren's acoustic correlation; planning clandestine contact |
+| Idris | Mage network (Accra, R3, field) | Collaborative | First voice call in network; arrived at "communication" together; shared vocabulary |
+| Imani | Nephthys's aide (message only) | Practical | Direct message bypassing Ren's chain; efficient, no performance; logistics coordinator |
+| Streaming audience | Performance (suspended → returning) | Surface | ~400K followers; watching dark channel; ring light return seeded (expulsion = freedom) |
+| Varma Academy | Institutional (severed) | Adversarial | Formally expelled under Section 22.7; grounding terms dead with relationship |
+| Nephthys | Aware (convergence imminent) | Potential → Active | Invited to Cathedral via Imani; transport booked; 48 hours; "a vocabulary we're still building" |
 
 **Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 1/5 Book 2 (Expelled Witness, networking, refusing retraction)
+- Current Phase: 2/5 Book 2 (Expelled — Emergent Agency, vocabulary-builder, Neo-Shanghai bound)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 — expelled, grounded, 12M views, network at 47, telemetry coordinator, Nephthys convergence seeded. New Lie: "If I can calibrate, I can handle the load."
+- Book 2 Progression: B2 Ch 6 → Ch 16. Network 47/9 → 214/31 (publication catalyzed). Filing → dataset → language. First voice call (Idris). Imani bypassed Ren — Nephthys convergence accelerated. Transport booked. Streaming freedom realized. New Lie intact: "If I can calibrate, I can handle the load."
+- Next Step: Ch 21 — Neo-Shanghai arrival. Nephthys-Kira convergence. Naming meets listening.
+
+**Recent History (B2 Ch 16):**
+- Formal expulsion letter received — Section 22.7, twelve paragraphs, read once. Non-event emotionally. "The letter was the institution filing *her.*"
+- Streaming freedom realized: expulsion kills grounding terms. Ring light can come back on. "Not tonight. But soon." First forward-facing ring light beat.
+- Network exploded post-publication: 214 members across 31 cities (up from 47/9). Sofia's paper gave mages permission. New members arriving with vocabulary.
+- First voice call in network: Idris (Accra, R3, field deployment). Shared vocabulary built in real time — "phrasing," "cadence," "communication." Filing categories insufficient for what signal IS. New telemetry field added: "Phenomenological character."
+- Pharmacist pickup — legitimate prescriptions (civilian psychiatrist). Mundane, grounding.
+- Imani's message bypassed Ren's chain — encrypted, direct. "The Cathedral is open." Nephthys decided faster than Ren's chain could move.
+- Transport to Neo-Shanghai booked — 48 hours, civilian rail, no Academy routing. Not announced to network. "This was for her."
+- Lumina 60mg: quiet room holds provisionally. Cold burn. Subtraction. The dosage matches the load — for now.
 
 **Recent History (B2 Ch 6):**
 - Bay Area, own apartment (streaming income). ~6 months post-BLACKWEIR. Ring light off 6 weeks.

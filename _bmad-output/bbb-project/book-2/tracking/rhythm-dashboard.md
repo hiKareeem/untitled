@@ -9,9 +9,9 @@
 
 *Will be populated as chapters are completed.*
 
-**Total Chapters Analyzed:** 0  
-**Average Tension Level:** —  
-**Pacing Distribution:** —
+**Total Chapters Analyzed:** 7 (Ch 2, 4, 6, 9, 10, 13, 16)  
+**Average Tension Level:** Medium-sustained (TEXTURE-dominant phase)  
+**Pacing Distribution:** Center-weighted (dialogue scenes as peaks)
 
 ---
 

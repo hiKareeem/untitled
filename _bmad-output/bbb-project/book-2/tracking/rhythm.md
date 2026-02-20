@@ -203,4 +203,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 16 — "Expelled" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-flat (expulsion letter) → analytical rise (grounding paradox/streaming freedom) → sustained-medium (network growth) → rising-peak (Idris voice call — "communication") → low-grounding (pharmacist) → directional rise (Imani message, transport booked) → resolving (Lumina, quiet room)
+**Pacing:** Four-section structure with clear emotional center. Idris call = 40% of chapter. Opening and closing provide ballast. Pharmacist = rhythmic pause between peak and resolution.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Expulsion letter + streaming freedom | ~900 | Low → analytical rise | Institutional language parsed; grounding paradox = first excitement |
+| Network growth + new vocabulary | ~600 | Medium-sustained | Data texture, inbox as weather system, members arriving with language |
+| Idris voice call | ~1,600 | Rising → peak | Dialogue-driven; shared vocabulary built in real time; "communication" = chapter peak |
+| Post-call (telemetry field update) | ~300 | Resolving-purposeful | Compressed; "Phenomenological character" field added; framework rebuilt |
+| Pharmacist | ~300 | Low-grounding | Brief, transactional, mundane contrast |
+| Imani message + transport booked | ~500 | Directional rise | Message parsed; Ren bypass noted; transport booked; "This was for her." |
+| Closing (Lumina, quiet room) | ~300 | Resolving | Ritual tempo; epigraph echo; compressed closing |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — Kira's hypotactic cognitive register maintained from Ch 6/B1 Ch 10
+- Idris call provides rhythmic variety: dialogue exchanges (shorter, more paratactic) against Kira's internal processing (longer, subordinated). His pauses create silence-as-rhythm within the dialogue.
+- "It spoke." — two-word paragraph, maximum isolation. Rhythmic equivalent of the three-second camera pan from B1 Ch 10. The beat someone needs before saying the thing.
+- "It does now." — matching two-word response. Rhythmic symmetry across the call.
+- Pharmacist scene is deliberately flat — rhythmic palette cleanser between the voice call's intensity and Imani's message. Shortest scene, lowest tension, highest mundanity.
+- "This was for her." — single-sentence paragraph. Same rhythmic weight as "Two hundred and fourteen mages had decided to stop pretending." One-line punches deployed at emotional turns, not transitions.
+- Closing compresses: Lumina ritual (familiar) → quiet room (provisional) → epigraph echo ("didn't distinguish") → "Forty-eight hours." → "The quiet room held." Five beats, each shorter, forward-pointing.
+- Section breaks (---) mark mode shifts: institutional → network → voice call → post-call → pharmacist → message → closing
+
+**Dialogue Percentage:** ~11% (concentrated in Idris call; pharmacist exchange ~20 words; messages displayed as text)
+
+**Pacing Concern:** Network growth section risks exposition. Mitigated by framing through Kira's organizational instinct and the anonymous mage's message ("It's not louder. It's more specific. Like it's learning to pronounce something.") which provides emotional texture within the data delivery.
+
+**Structural Note:** First Kira chapter with significant dialogue since B1 Ch 10's streaming scene. But the dialogue register is inverted: B1 Ch 10's dialogue was performance (Kira → audience). B2 Ch 16's dialogue is intimate (Kira ↔ Idris, two people building language). The shift from broadcast to conversation mirrors the identity arc: performer → witness → collaborator.
+
+**Comparison to Ch 6:**
+- Ch 6: Five sections, even distribution, no single scene dominates. Paz scene = external mirror. Closing = ritual stasis.
+- Ch 16: Four sections, center-weighted (Idris call = 40%). Voice call = collaborative mirror. Closing = forward motion (48 hours).
+- Together they form Phase 1→2 Kira bracket: managed drift → emergent agency.
+
+---
+
 _Last updated: 2026-02-19_

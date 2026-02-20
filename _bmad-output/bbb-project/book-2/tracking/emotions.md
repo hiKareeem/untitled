@@ -141,4 +141,29 @@
 
 ---
 
+### Chapter 16 — "Expelled"
+
+**Kira Calloway (POV):**
+- **Entering State:** Post-Ch 6. Expelled witness. Grounded. Ring light off. Network coordinator. Lumina 60mg holding. Filing as primary emotional management. "Almost certain she's in control."
+- **Emotional Arc:** Flat processing (expulsion letter — institutional language parsed, not felt) → analytical excitement (grounding paradox — expulsion = key, ring light can return) → purposeful organization (network growth, new members arriving with vocabulary) → alive (Idris voice call — shared vocabulary built in real time, "communication" spoken simultaneously) → grounded mundanity (pharmacist — the one uncurated interaction) → directional pull (Imani's message — "something that pointed forward") → quiet resolve (transport booked, unannounced, personal) → ritual stasis (Lumina, quiet room holds)
+- **Dominant Emotion:** Emergent agency. Not the controlled drift of Ch 6 — something is forming. The filing habit has evolved past management into creation (language-building). The expulsion is a non-event emotionally but its logical consequence (streaming freedom) generates the first excitement she's felt in months. The Idris call is the emotional peak: another person's voice describing what she's been naming alone. "Communication" spoken simultaneously = the isolation breaking in a new register.
+- **Key Emotional Beat:** "It does now." — After Idris says the filing system didn't have a category for "it was talking to me." Kira's response is two words. The shortest sentence in the chapter. The weight is in the brevity: she has just decided, in real time, to rebuild the system. Not fix it. Rebuild it. The emotional register is not excitement — it's the click of purpose.
+- **Exiting State:** Quiet room holding. Transport booked. "This was for her." The first personal choice in months — not for the network, not for the data, not for the platform. For her. The antenna is choosing to move.
+- **Emotional Shift:** From managed stasis (Ch 6: filing, dosing, almost-certain-she's-in-control) to emergent agency (Ch 16: building vocabulary, choosing Neo-Shanghai, "not tonight. But soon."). The shift is not dramatic — it's the difference between maintaining a system and building a new one. Both feel like work. But one has a direction.
+
+**Idris (Supporting — NEW):**
+- **Entering State:** Four months in the network. Clean reports. Precise formatting. Has been carrying an experience the filing system can't hold.
+- **Emotional Arc:** Composed (rehearsed opening) → losing composition (pauses, restarts) → "It spoke" (the thing he called to say) → relief (Kira's "communication" = validation) → collaborative building (shared vocabulary)
+- **Dominant Emotion:** The relief of being heard. Not in the therapeutic sense — in the epistemic sense. He had an experience the categories couldn't contain. Someone else had the word. The word was *phrasing*. The relief is intellectual before it's emotional.
+- **Key Emotional Beat:** "I read it six times." — the repetition count as emotional metric. Six times = the number of times he needed to see the word before believing someone else had found it independently.
+- **Exiting State:** "Communication." Spoken quietly. The word exists between them now. The filing system has been rebuilt.
+
+**Pharmacist (Background):**
+- **Emotional Register:** Transactional efficiency. Zero recognition. The emotional function is *contrast*: after the voice call's intensity, the pharmacist is the one person who sees Kira as a name on a label. The anonymity is relief.
+
+**Imani (Supporting — message only):**
+- **Emotional Register:** Efficient, practical, no performance. "Let me know." Two words that carry no emotional weight and generate enormous emotional consequence. The message's emotional function is delivered through Kira's reaction, not Imani's text.
+
+---
+
 _Last updated: 2026-02-19_

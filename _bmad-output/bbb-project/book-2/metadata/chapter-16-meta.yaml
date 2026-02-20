@@ -1,0 +1,116 @@
+chapter_number: 16
+book: 2
+title: "Expelled"
+pov_character: "Kira Calloway"
+phase: 2
+location: "PCC Bay Area — Kira's apartment, Mission district pharmacy"
+timeline: "~6 months post-BLACKWEIR, days after mid-truth publication"
+estimated_word_count: 4500
+actual_word_count: ~4500
+epigraph_source: "Joint Theological-Scientific Review, 2139"
+epigraph_author: ""
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  Kira's second Book 2 POV. Formal Academy expulsion arrives — Section 22.7,
+  twelve paragraphs, read once. Non-event. The institution catching up to a fact
+  she's been living for months. Realizes expulsion kills grounding terms — ring
+  light can return. Network exploded post-publication: 214 members across 31
+  cities (up from 47/9). First voice call in the network: Idris (Accra, R3)
+  describes micro-incursion with communicative properties — "phrasing," not
+  "pattern." They build shared vocabulary in real time. Filing categories
+  insufficient — new field added: "Phenomenological character." Brief pharmacist
+  scene (legitimate prescriptions, grounding). Imani's message bypasses Ren's
+  chain — Nephthys opened the Cathedral. Kira books transport to Neo-Shanghai
+  without telling the network. "This was for her." Lumina 60mg holds
+  provisionally. Quiet room holds.
+
+# Key Events
+key_events:
+  - "Formal expulsion letter — Section 22.7, twelve paragraphs, read once"
+  - "Streaming freedom realized — expulsion kills grounding terms; ring light can return"
+  - "Network at 214 members across 31 cities (up from 47/9 — publication catalyzed)"
+  - "First voice call: Idris (Accra, R3) — 'phrasing,' 'cadence,' 'communication' — shared vocabulary"
+  - "New telemetry field: 'Phenomenological character' — filing system admits insufficiency"
+  - "Pharmacist scene — legitimate prescriptions, mundane, the one uncurated interaction"
+  - "Imani's message bypasses Ren's chain — Nephthys decided faster than expected"
+  - "Transport to Neo-Shanghai booked — 48 hours, civilian rail, unannounced"
+  - "Lumina 60mg — quiet room holds provisionally"
+
+# Characters Present
+characters:
+  - name: "Kira Calloway"
+    role: POV
+    state: "Emergent agency. Filing evolved to language-building. First personal choice in months (Neo-Shanghai). Streaming freedom realized. Vocabulary as identity."
+  - name: "Idris"
+    role: Supporting (new)
+    state: "Accra, R3, field deployment. Network member 4 months. Careful, precise. Called voice because text couldn't hold what happened. Arrived at 'communication' with Kira."
+  - name: "Pharmacist"
+    role: Background
+    state: "Mid-fifties, efficient, transactional. Knows Kira's name and prescription history. Nothing else."
+  - name: "Imani"
+    role: Supporting (message only)
+    state: "Direct, practical, encrypted. Bypassed Ren's chain on Nephthys's instruction. 'The Cathedral is open.'"
+
+# Themes
+themes:
+  - "Where Identity Ends (Dominant) — filing→dataset→language as identity evolution; expulsion as non-event; 'This was for her'"
+  - "Truth as Weapon (Strong) — vocabulary as counter-weapon to institutional language; 'Phenomenological character' field"
+  - "Architecture of Power (Strong) — expulsion letter analyzed for structure; grounding paradox; filing categories as power structures"
+  - "What Systems Do to People (Strong) — Academy, filing system, pharmaceutical system, signal itself"
+  - "Systemic Complicity (Moderate) — Academy circular logic; Section 14.3 still in effect"
+  - "Commodification of Suffering (Moderate) — streaming money still flowing; data cited anonymously"
+  - "The Cost of Knowing (Moderate) — Lumina 60mg provisional; fingertip buzzing; quiet room"
+
+# Symbols
+symbols:
+  - name: "The quiet room"
+    appearances: 3
+    arc: "Holding provisionally at 60mg. Not the solid walls of a year ago — 'the provisional holding of a structure that worked because the dosage matched the load.' Next change = escalation."
+  - name: "The ring light"
+    appearances: 2
+    arc: "Off for months → 'Not tonight. But soon.' First forward-facing beat. Expulsion = freedom. Return = narrative event."
+  - name: "The filing"
+    appearances: 6
+    arc: "B1: coping → B2 Ch 6: dataset → B2 Ch 16: language. 'The terminology is being built.' The filing system admits its own insufficiency."
+  - name: "Phenomenological character"
+    appearances: 1
+    arc: "New telemetry field. The moment the filing system evolves. 'There is no correct terminology.' Language as infrastructure."
+  - name: "The voice call"
+    appearances: 1
+    arc: "First non-text contact in network. Voice = what data can't hold. Two people building vocabulary in real time."
+  - name: "Lumina kit"
+    appearances: 1
+    arc: "Behind mirror, 60mg, same ritual. Scale, vial, straw. Cold burn. Subtraction. Unchanged = provisional stability."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 6 → B2 Ch 16: Weeks/months gap. Network 47/9 → 214/31. Lumina 60mg holds. Ring light off → streaming freedom seeded. Ren introduction pending → Imani bypassed."
+  - "B2 Ch 11 → B2 Ch 16: Sofia's publication = catalyst. Kira read the 12-page core. Recognized her data in someone else's language. Network exploded."
+  - "B2 Ch 13 → B2 Ch 16: Nephthys told Imani to invite Kira. Message arrives. Cathedral open."
+  - "Lumina: B1 Ch 10 (40mg) → Ch 18 (40+15mg bumps) → B2 Ch 6 (60mg) → B2 Ch 16 (60mg provisional). Next: 75mg (Paz's warning)."
+  - "Hum: 'thicker' (Ch 10) → 'tighter' (Ch 18) → 'words' (Ch 31) → spike (Ch 43) → 'thinner' (Ch 51) → 'populated' (B2 Ch 6) → 'populated + communicative properties' (B2 Ch 16)"
+  - "Symptoms: dropout (Ch 10) → worsening (Ch 18) → shaking hands (Ch 31) → bleeding (Ch 43) → resolved (Ch 51) → buzzing (B2 Ch 6) → buzzing persistent (B2 Ch 16)"
+  - "Network: 4 contacts (Ch 18) → expanding (Ch 31) → 47/9 (B2 Ch 6) → 214/31 (B2 Ch 16)"
+  - "Forward: Ch 21 — Neo-Shanghai arrival, Nephthys-Kira convergence"
+  - "Forward: Ring light return — streaming recommences"
+  - "Forward: Lumina escalation — 60→75mg threshold (Paz's warning)"
+  - "Imani uses contractions (voice rule confirmed: 'won't,' 'that's')"
+
+# Thread Status
+thread_status:
+  quiet_room: "Holding provisionally at 60mg. Not solid — 'the dosage matches the load and the load is stable.' If load changes, structure needs to change."
+  lumina_escalation: "60mg stable. Paz not present (per-supply, not per-chapter). Next: 75mg threshold."
+  mage_network: "214/31. Phenomenological character field added. Vocabulary evolving from measurement to experience."
+  nephthys_convergence: "ACTIVE. Imani messaged. Transport booked. 48 hours. Kira bringing telemetry + vocabulary."
+  streaming_freedom: "SEEDED. Expulsion kills grounding. Ring light can return. 'Not tonight. But soon.'"
+  telemetry_dataset: "Evolved — filing → dataset → language. New field captures what measurement can't. 214 mages contributing."
+  performer_identity: "Shifting. Streaming freedom realized but not acted on. Collaborator identity forming (Idris call)."
+  academy_legal: "RESOLVED. Formally expelled. Grounding terms dead. No further institutional leverage."
+  prescribed_meds: "Via civilian psychiatrist. Pharmacist pickup. Mechanical compliance. Ritual still lost."
+  fingertip_buzzing: "Persistent, bilateral. Merges with desk pressure during Idris call. Signal-body boundary dissolving."
+  hum_populated: "Populated + communicative. 'Phrasing.' 'Cadence.' The vocabulary is being built."
