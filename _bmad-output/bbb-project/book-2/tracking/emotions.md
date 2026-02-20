@@ -232,4 +232,24 @@
 
 ---
 
+### Chapter 15 — "Commission"
+
+**Nikolai Volkov (POV):**
+- **Entering State:** Post-Ch 5. Garrisoned in Lagos. Field log contracting ("No elaboration"). Hands-check as ritual. Jaw as physical marker. Reyes document read through military intelligence summary — vocabulary internalized, not deployed. Broken Doctrinaire in stasis, functioning.
+- **Emotional Arc:** Operational competence (Accra deployment, FAS framework, Diallo briefing — the body performing institutional functions) → recognition (sealed junction anomaly — the question Kowalski would have asked, arriving in the jaw before thought) → perception (hum shifts, "still here" — pressure behind sternum, the place where sound and touch converge) → stillness (three meters from the junction, does not move — the body's response to the un-categorizable) → operational return (extraction confirmed, voice level, the register that does not change) → the choice (Field 22, cursor placed — the same words, not the same act) → commission (types "acoustic mimicry per doctrine" knowing it is false — not omission but statement, signed, authenticated) → the signature (hand steady — "That's worse") → private record (field log — longest entry in six months, the commission documented, the private language expanding) → closing ritual (hands-check, jaw, window, hum at 5.9 — "Still here" — does not write it in the log again)
+- **Dominant Emotion:** The horror of competence. Nikolai's emotional state is not crisis — it is the steady functioning of a man who has just crossed a categorical line and whose body registered no change. The hand did not shake. The jaw clenches below threshold. The operational register holds. The emotional center is the absence of rupture — the integration of the commission into the same body that performed thirty-seven omissions. The institution's most reliable instrument.
+- **Key Emotional Beat:** "They were not the same act." — The sentence that marks the pivot. Every previous Field 22 entry was omission (passive, the gap between accurate and complete). This one is commission (active, a statement known to be false). The emotional weight is not in the typing but in the knowing — he has the Reyes document's vocabulary, could describe what he heard in institutional language, and chooses the other vocabulary. The choosing is the commission. The choosing does not register on his body.
+- **Secondary Beat:** "The name arrived in his jaw before his thoughts could organize it." — Kowalski/Jarek carried in the mandible. The body's emotional record operating faster than the cognitive one. Grief as physical fact, not composed thought. Continuity from B2 Ch 5: "did not compose thoughts about Jarek."
+- **Tertiary Beat:** Field log entry — "This is the longest entry in six months." — The private language expanding BECAUSE the nature of the lie changed. The commission demands documentation in a way omissions did not. The field log shifts from observation record to confession record. The expansion is emotional — the private self breaking through the contraction that BLACKWEIR imposed.
+- **Exiting State:** Window. Hum at 5.9. "Still here." Does not write it in the log again. The commission filed. The field log closed. The city intact. The institutional machinery functioning. Nikolai's emotional terminus is the same as his entry — operational readiness — but the content of the readiness has changed. He is now a man who has committed a lie by commission, documented it privately, and whose body processed both acts without visible change. The integration is complete. The integration is not healing.
+- **Emotional Shift:** From doctrinal erosion (Ch 5: field log contracting, vocabulary retreating, "No elaboration") to active falsification (Ch 15: field log expanding, vocabulary available but suppressed on the form, commission documented). The shift is not in Nikolai's interior experience — his body performs identically. The shift is in the relationship between the two records: the gap between official and private has collapsed from omission into commission. The field log is no longer a private record of observation. It is a private record of institutional falsification.
+
+**Major Diallo (Supporting — new):**
+- **Emotional Register:** Professional competence. "Clean operation, Commander. I will report favorably." The FAS officer performing his role within the cooperation framework. Does not know what Nikolai heard. Does not know what the VS-7 does not contain. His emotional function is institutional normalcy — the witness who validates the demonstration without knowing what the demonstration conceals.
+
+**Sergeant Lund (Background — new):**
+- **Emotional Register:** Operational. One line: "Extraction complete. Perimeter teams confirming seal." The unit functioning. No emotional content beyond professional competence. The background against which Nikolai's interiority is measured.
+
+---
+
 _Last updated: 2026-02-20_

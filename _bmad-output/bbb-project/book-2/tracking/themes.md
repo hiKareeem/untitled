@@ -200,4 +200,21 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 15 — "Commission" (Nikolai Volkov)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Systemic Complicity | Commission as complicity made personal | Nikolai types "acoustic mimicry per doctrine" knowing it is false — not omission (the gap between accurate and complete) but commission (a statement he knows to be wrong, signed, authenticated, filed). The FAS cooperation framework is complicity exported: Diallo's favorable report, the dual-key familiarization, flood valves in another city's substrate. The clean VS-7 becomes evidence that PCC doctrine is transferable. |
+| Progress Requires Atrocity | Doctrine export as replication mechanism | Advisory support = demonstration. Dual-key protocol familiarization = BLACKWEIR architecture installed in Accra. Diallo's favorable assessment accelerates adoption. The commission enables the export — the atrocity is not BLACKWEIR itself but the replication system BLACKWEIR validated. |
+| Where Identity Ends | "Still here" — the absorbed persist | Two words from inside the infrastructure. The absorbed figure in sealed Junction 14-7C — a person inside a room no one opened. The Reyes document provides vocabulary for what Nikolai has observed for twenty years. He uses the vocabulary in the field log. He does not use it on the form. The answer to "where does identity end" is a checkbox. |
+| Architecture of Power | VS-7 as epistemological architecture | Field 22 acknowledges the phenomena and contains the acknowledgment in the same space. 31 fields compress operational events into institutional processing capacity. The FAS assessment form mirrors the VS-7 — both produce favorable evaluations from the same input (lies by different men in different registers). |
+
+**Key Resonance:** Systemic Complicity ↔ Architecture of Power. The VS-7 form converts Nikolai's commission into institutional fact. His lie enters through Field 22, is processed as standard, and produces a clean record the FAS assessment cites. The architecture converts the lie into precedent. The precedent becomes curriculum. The curriculum becomes the next city's containment doctrine. The lie scales.
+
+**Mid-Truth Impact Thread (Cross-Chapter):** Sofia's publication (Ch 11) → Aurielle's institutional absorption (Ch 12) → Nephthys's movement fracture (Ch 13) → Malachi's institutional suppression (Ch 14) → **Nikolai's military falsification (Ch 15)**. Five chapters, five institutions, same revelation. The military's processing is the most intimate — it happens in one man's hand on one form in one field. The institution is Nikolai. The architecture is the VS-7. The processing is the commission.
+
+**Parallel with Ch 14:** Malachi writes an encyclical he knows is false ("The Voice Is Not Wounded"). Nikolai writes a form entry he knows is false ("Acoustic mimicry per doctrine"). Both sign. Neither's hand shakes. The institutional lie and the military lie are structurally identical — a competent man deploying institutional tools to suppress a truth that would destroy the institution that employs him. The difference: Malachi's lie is public governance. Nikolai's lie is a checkbox.
+
+---
+
 _Last updated: 2026-02-20_

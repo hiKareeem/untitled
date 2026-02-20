@@ -317,4 +317,43 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 15 — "Commission" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-operational (arrival/FAS framework) → medium-sustained (containment/sealed junction anomaly) → rising (hum shift/vocalization) → peak ("still here") → medium-sustained (extraction/return) → rising (VS-7 Field 22/commission) → peak (signature — "That's worse") → contemplative (field log — longest entry) → resolving (window/hum/closing)
+**Pacing:** Five-scene structure with dual peaks. Containment scenes = ~40%. Commission scene = ~25%. Field log = ~15%. Arrival and close frame the chapter.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Arrival / FAS framework | ~650 | Low-operational | Institutional language. Scale assessment. Diallo briefing. Cooperation framework as demonstration. |
+| Containment | ~750 | Medium-sustained | Breach routine. Lattice geometry. Three absorbed. Sealed junction anomaly. Kowalski in jaw. |
+| The two words | ~1,000 | Rising → peak | Hum shift structured. "Still here." Reyes document vocabulary. Mid-truth processed. Extraction. |
+| The form | ~1,050 | Rising → peak | VS-7 Field 22. Omission → commission. Signature. Hand steady. Diallo's favorable report. |
+| Field log / Close | ~700 | Contemplative → resolving | Longest entry in six months. Hands-check. Jaw. Window. Hum at 5.9. "Still here." Closing line. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "He moved the unit forward." / "Two words." / "A commission." / "His hand did not shake." / "That was worse." Single-line punches terminate institutional-accumulation paragraphs.
+- Dual-peak structure: first peak at "still here" (perceptual), second at signature (moral). The two peaks mirror the chapter's thesis — the vocalization is the event, the commission is the choice. The chapter's weight is on the second peak.
+- Containment scene rhythmically routine — Nikolai's operational register keeps the tempo flat even as anomalies accumulate (four-degree geometry, sealed junction, absorbed distribution). The tension is subterranean. The rhythm enacts suppression.
+- "Two words." — isolated single-line paragraph as rhythmic event. Maximum isolation on the vocalization. The chapter's shortest sentence at its most important moment.
+- Field log entries (italicized) provide embedded private voice — longer sentences, first person, the register that only exists in the drawer. Rhythmic contrast with the terse operational prose surrounding them.
+- Closing four paragraphs compress: hands-check → jaw → window → hum → "Still here" → closing line. Fastest section after the longest entry. The private record closes and the institutional world reasserts.
+- Final line ("He did not write it in the log again. He had already written it once today, in the wrong document.") — the chapter's only moment of dry self-awareness. "The wrong document" = the VS-7, the official record. The irony is structural: the lie is in the right document (the form), the truth is in the wrong one (the field log).
+
+**Dialogue Percentage:** ~4% (Diallo briefing, Nikolai's operational responses, Lund extraction confirmation, Diallo closing). Lowest dialogue chapter in Book 2. Appropriate for Nikolai's near-silent register.
+
+**Pacing Concern:** Containment scene could feel procedural. Mitigated by the sealed junction anomaly (spatial impossibility introduced without comment — tension through what Nikolai does NOT say) and the Kowalski counterfactual ("Kowalski would have asked") which injects emotional weight into the tactical sweep.
+
+**Structural Note:** Ch 15 paired with Ch 5 forms Nikolai's Phase 1→2 unit. Ch 5: institutional debrief (passive — Nikolai sits, listens, does not speak), rotation orders (passive — sent, not requested), field log contracting (passive — "No elaboration"). Ch 15: deployment (active — Nikolai commands), containment (active — unit led), commission (active — typed, signed). The phase transition is from passive institutional processing to active institutional falsification. The rhythm reflects this: Ch 5 is contemplative throughout (garrison, desk, window). Ch 15 has operational movement (arrival, corridor, extraction, staging area) that resolves into the same contemplative close (quarters, desk, window). The action produces the same posture as the inaction.
+
+**Comparison to Ch 5:**
+- Ch 5: ~3,800 words, garrison/institutional, contemplative tempo, zero operational action, field log contracting
+- Ch 15: ~4,200 words, deployment/operational, dual-peak tempo, active containment, field log expanding
+- Together: institutional processing → active falsification → the body performs identically. The institutional man's rhythm doesn't change when the lie changes from omission to commission.
+
+**Cross-Chapter Rhythm:** Ch 14 (Malachi) → Ch 15 (Nikolai) — consecutive chapters with structural parallel. Both are TEXTURE mode, both have institutional writing scenes (encyclical / VS-7), both close at windows with the institutional posture unchanged. Ch 14's rhythm is three-movement (council/writing/locked study). Ch 15's rhythm is five-scene operational. The rhythmic contrast is register: Malachi's institutional tempo is deliberate, architectural. Nikolai's is clipped, tactical. Same lie, different music.
+
+---
+
 _Last updated: 2026-02-20_

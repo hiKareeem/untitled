@@ -1,0 +1,134 @@
+chapter_number: 15
+book: 2
+title: "Commission"
+pov_character: "Nikolai Volkov"
+phase: 2
+location: "Accra, FAS cooperation framework — conduit sub-grade Sector 14 NE; forward staging area; forward-deployment quarters"
+timeline: "~6 months post-BLACKWEIR, 9 days after mid-truth publication"
+estimated_word_count: 4200
+actual_word_count: ~4200
+epigraph_source: "Void Stalker field log"
+epigraph_author: "Anonymous (undated)"
+epigraph_ref: "Epigraph thread continues from B1 Ch 11, 23, 38, 47; B2 Ch 5"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  FAS cooperation framework deployment — Nikolai commands Stalker-7 at a Stage 2 breach
+  in Accra, Sector 14 NE. Breach contained in three hours. Three absorbed figures in the
+  conduit corridor — one inside sealed Junction 14-7C (no entry point, lock intact, spatial
+  anomaly). During extraction, the hum shifts to structured resonance. Two words from the
+  infrastructure: "still here." Not a name. Not mimicry. The clearest vocalization in twenty
+  years of field operations. Nikolai has read the Reyes document (military intelligence
+  summary: unverified civilian publication). He has vocabulary now — conscious collective
+  field, identity retention, coherent vocalization. He does not use it on the form.
+
+  VS-7 after-action report, Field 22 (Anomalous acoustic or resonance events during
+  containment): "Acoustic mimicry per doctrine. Non-actionable." The thirty-eighth time
+  he has written these words. The first time as commission — not the gap between accurate
+  and complete, but a statement he knows to be false, signed, authenticated, filed. Also
+  unreported: the sealed junction spatial anomaly. FAS liaison Major Diallo files a
+  favorable interoperability assessment. The clean VS-7 becomes evidence that PCC doctrine
+  is transferable. His hand does not shake. That is worse.
+
+  Field log: longest entry in six months. Documents the vocalization, the commission, the
+  gap between the two records. "This is the longest entry in six months." The private
+  language that had been contracting since BLACKWEIR expands because the nature of the lie
+  changed. The field log shifts from observation record to confession record. Closing:
+  hands-check (four seconds, still, ritual), jaw (two millimeters below threshold), window,
+  hum at 5.9, instruments at 6.0. "Still here." Does not write it in the log again.
+
+# Key Events
+key_events:
+  - "Stage 2 breach in Accra (FAS theater), contained in 3 hours by Stalker-7 + FAS units"
+  - "Three absorbed — one inside sealed Junction 14-7C (no entry point, spatial anomaly NOT reported)"
+  - "Hum shift during extraction: structured resonance, ~8 seconds, 'still here' — two words"
+  - "Reyes document vocabulary internalized but not deployed on official form"
+  - "VS-7 Field 22: 'acoustic mimicry per doctrine' — first commission (not omission)"
+  - "Second commission: sealed junction anomaly unreported (Anomalous spatial observations: none)"
+  - "Signed. Hand steady. 'That's worse.'"
+  - "FAS liaison Diallo files favorable interoperability assessment citing clean VS-7"
+  - "Field log: longest entry in six months — documents commission explicitly"
+  - "Field log function shift: observation → confession"
+
+# Characters Present
+characters:
+  - name: "Nikolai Volkov"
+    role: POV
+    state: "Phase 2/5 Book 2 — Broken Doctrinaire, first commission. Body performs identically. The integration of the commission is not healing — it is institutional. Field log expanding. Jaw as marker. Hands-check ritual."
+  - name: "Major Diallo"
+    role: Supporting (new)
+    state: "FAS Engineering Corps, Breach Monitoring Division. Professional, competent. Files favorable interoperability assessment. Does not know what Nikolai heard in the corridor."
+  - name: "Sergeant Lund"
+    role: Background (new)
+    state: "Stalker-7, Team Two. One operational line. Extraction confirmation."
+  - name: "Jarek Kowalski"
+    role: Referenced (absent)
+    state: "Carried in jaw. Name arrives before thoughts organize. Counterfactual: 'Kowalski would have asked.' Dual naming maintained (Kowalski operational, Jarek private)."
+  - name: "Sofia Reyes"
+    role: Referenced (named)
+    state: "Document author. Read via military intelligence summary (unverified civilian publication). Vocabulary internalized. Not deployed on form."
+
+# Themes
+themes:
+  - "Systemic Complicity (Dominant) — commission as complicity made personal and active"
+  - "Progress Requires Atrocity (Strong) — FAS cooperation framework as BLACKWEIR doctrine export"
+  - "Where Identity Ends (Strong) — 'still here' as persistence statement; sealed junction anomaly"
+  - "Architecture of Power (Strong) — VS-7 Field 22 as epistemological architecture"
+  - "What We Owe (Moderate) — field log as private debt ledger; Jarek in jaw"
+  - "Truth as Weapon (Moderate) — Reyes vocabulary available but holstered"
+  - "Institutional Betrayal (Moderate) — institution requires and rewards the commission"
+  - "Hope as Resistance (Background) — field log expanding; private documentation"
+
+# Symbols
+symbols:
+  - name: "Field 22"
+    appearances: 3
+    arc: "The form field that acknowledges and contains the phenomena in the same space. Architecture as epistemological prison."
+  - name: "Junction 14-7C"
+    appearances: 5
+    arc: "Sealed room with absorbed inside, no entry point. Spatial impossibility unreported. The anomaly the form has a field for."
+  - name: "'Still here'"
+    appearances: 4
+    arc: "Two words — not a name, not mimicry. Statement of collective persistence. Escalation from Jarek saying Nikolai's name."
+  - name: "The signature"
+    appearances: 1
+    arc: "Hand steady. 'That's worse.' Body integrated the commission without registering change."
+  - name: "Jaw"
+    appearances: 3
+    arc: "Two millimeters below threshold. 'The body's version of the field log.' Continuity from B2 Ch 5."
+  - name: "Hands-check"
+    appearances: 2
+    arc: "Four seconds, still, ritual not diagnostic. Thread from Vladivostok to present."
+  - name: "Field log"
+    appearances: 6
+    arc: "Contracted since BLACKWEIR → expanded for the commission. Observation → confession. Longest entry in six months."
+  - name: "Hum discrepancy"
+    appearances: 3
+    arc: "5.8/5.9 (Nikolai) vs 6.0 (instruments). The gap between perception and measurement."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 5 directly (Lagos rotation → FAS deployment in Accra)"
+  - "Ch 14 (Malachi) now written — timeline consistent (Ch 14 = 3 days post-publication, Ch 15 = 9 days)"
+  - "Parallel institutional lies: Malachi's encyclical + Nikolai's VS-7. Both signed. Neither hand shakes."
+  - "Mid-truth/Reyes document: 9 days in circulation. Nikolai via military intel summary (unverified)."
+  - "Hum: 5.9 (FAS theater, lower nitro density — geographic, not temporal). Instruments: 6.0."
+  - "Field log: 'No elaboration' refrain since BLACKWEIR → longest entry in six months"
+  - "VS-7 Field 22: 38th entry (37 omissions + 1 commission). Count canonical."
+  - "Kowalski/Jarek dual-naming: operational (Kowalski) vs private (Jarek in field log)"
+  - "PCR-11 reference: non-recoverable, timestamp 16:47 — consistent with B1 Ch 38 and B2 Ch 5"
+  - "Forward: Lagos continues, FAS dual-key familiarization, Zeyad convergence (Ch 17)"
+  - "Flag: 'the sound his mother had taught him to listen to' (Anya Volkova) — verify B1 Ch 11 or canonize"
+
+# Thread Status
+thread_status:
+  mid_truth_impact: "Processed through military intelligence summary as 'unverified civilian publication.' Vocabulary internalized. Used in field log. Not used on VS-7. The military's processing is the most intimate — one man, one form, one field."
+  nikolai_arc: "Phase 2/5 Book 2. Omission → commission pivot complete. The gap between official and private records collapsed from absence into active falsification. Field log shifted from observation to confession."
+  fas_cooperation: "Deployment to Accra. Favorable assessment filed. Doctrine export proceeding. Clean VS-7 as evidence of transferability."
+  field_log: "Expanding. Longest entry in six months. Private record of falsification. New function, new risk."
+  vocalization_escalation: "'Still here' — clearest vocalization in 20 years. Not a name (escalation from Jarek). Structured signal, not mimicry. Filed as 'acoustic mimicry per doctrine.'"
+  sealed_junction: "Junction 14-7C — absorbed inside sealed room, no entry point. Spatial anomaly. NOT reported on VS-7. Second commission."

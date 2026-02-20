@@ -374,14 +374,14 @@ This bible dimension tracks **current character states**:
 
 **Role:** POV #5 (4–5 chapters, enters Phase 2)
 **Faction:** Sword (Void Stalker)
-**Primary Location:** Neo-Shanghai (deployed)
+**Primary Location:** Lagos garrison (FAS cooperation framework, deployed from Neo-Shanghai)
 **Lens:** Doctrine as survival
 
 **Current Psychological State:**
-- Phase: 1/5 Book 2 (Broken Doctrinaire in stasis)
-- Emotional State: Functional numbness — body performs institutional functions, private language contracting. Tremor resolved. Jaw as new physical marker. Hands-check now ritual, not diagnostic.
-- Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires." — **BROKEN** (B1 Ch 38). Not replaced. The absence of a replacement is the current state.
-- Internal Contradictions: Knows doctrine is broken. Complies anyway. The SFM has no category for refusal. Field log entries getting shorter — worse than the blank.
+- Phase: 2/5 Book 2 (Broken Doctrinaire — first commission)
+- Emotional State: The horror of competence. Body performs institutional functions without registering the categorical change from omission to commission. Tremor resolved. Jaw as physical marker. Hands-check as ritual. Field log expanded for first time since BLACKWEIR.
+- Dominant Beliefs: "Following protocol means you aren't responsible for what protocol requires." — **BROKEN** (B1 Ch 38). Not replaced. Compliance continues without belief. The commission makes the compliance active rather than passive.
+- Internal Contradictions: Has the Reyes document's vocabulary to describe what he hears. Uses it in the field log. Does not use it on the form. The two-record system has collapsed from a gap into a wall.
 
 **The Lie:** Following protocol means you aren't responsible for what protocol requires — **DESTROYED** (B1). No new lie has formed. Compliance without belief.
 
@@ -395,11 +395,12 @@ This bible dimension tracks **current character states**:
 | Jarek | Corporal/Subordinate (absorbed) | Carried in body, not language | Name in the jaw, hands-check, four seconds. Cannot compose thoughts — composing requires the field log, the field log cannot hold the name. |
 | His unit | Command | Professional | Stalker-7 commended. Deploying to Lagos. Unit intact minus Jarek. |
 | Colonel Marchetti | Briefing officer | Institutional | Theater Command staff. Never deployed. Fluent in institutional language. Not incompetent. |
+| Major Diallo | FAS liaison officer | Professional | Engineering Corps, Breach Monitoring Division. Filed favorable interoperability assessment. Does not know what Nikolai heard. |
 
 **Current Arc:** Doctrine → Broken Doctrinaire → Complicit Exporter
-- Current Phase: 1/5 Book 2
-- Progression: B1 complete (doctrine destroyed). B2 Ch 5: institutional debrief, BLACKWEIR validated as replicable doctrine, rotation to Lagos ordered. Nikolai silent. Field log contracting.
-- Next Step: B2 Ch 15 — Lagos deployment begins. FAS cooperation framework. First lie by commission.
+- Current Phase: 2/5 Book 2
+- Progression: B1 complete (doctrine destroyed). B2 Ch 5: institutional debrief, BLACKWEIR validated, rotation to Lagos ordered. Field log contracting. B2 Ch 15: FAS deployment (Accra), absorbed speaks ("still here"), first lie by commission, field log expanding.
+- Next Step: B2 Ch 22–25 range — Lagos-based. FAS dual-key familiarization continues. Doctrine export deepens.
 
 **Phase Trajectory (Book 1):**
 | Phase | State | Key Event |
@@ -413,11 +414,12 @@ This bible dimension tracks **current character states**:
 | Phase | State | Key Event |
 |-------|-------|-----------|
 | 1/5 | Functional numbness; institutional debrief; rotation ordered | BLACKWEIR validated. Lagos in 30 days. Field log contracting. "No elaboration." |
+| 2/5 | First commission; FAS deployment; absorbed speaks "still here" | Accra breach. VS-7 Field 22: "acoustic mimicry per doctrine" — typed knowing it false. Signed. Hand steady. Field log: longest entry in six months. |
 
 **Appearances:**
-- Last Appearance: B2 Ch 5 ("Operational Losses")
-- Previous: B1 Ch 47 ("Operational Losses"), Ch 38 ("Perimeter"), Ch 32 ("Class Three"), Ch 23 ("Forward Position"), Ch 20 ("The Crack"), Ch 11 ("Acoustic Mimicry")
-- Next Planned Appearance: B2 Ch 15 (Lagos deployment)
+- Last Appearance: B2 Ch 15 ("Commission")
+- Previous: B2 Ch 5 ("Operational Losses"), B1 Ch 47 ("Operational Losses"), Ch 38 ("Perimeter"), Ch 32 ("Class Three"), Ch 23 ("Forward Position"), Ch 20 ("The Crack"), Ch 11 ("Acoustic Mimicry")
+- Next Planned Appearance: B2 Ch 22–25 range (Lagos, FAS dual-key familiarization)
 
 **Recent History:**
 - **Ch 23:** Third POV. Permanent forward deployment to Sump perimeter — FOB Meridian (repurposed maintenance junction, Sector 12). Deployment Order VS-2175-0089: duration indefinite, evacuation authority none issued. Pre-positioning, not response. Micro-incursions every few days; baseline RCI ratcheting upward (12.4→14.1, not returning between events). Lattice withdrawals retrace conduit routing with specificity. VEC telemetry requests unanswered (4 submitted, 0 acknowledged). Sector 9-East removed from active monitoring list. Maps evacuation routes on own initiative — 17 corridors, 4K/hr, 1.4 million residents, 20-hour full evacuation possible but no orders issued. Discovers deferred maintenance junctions (4-7B, 11-2C, 6-9A, 3-1D) on tactical overlay — cross-link with Aurielle's Ch 19. Evacuation corridors share infrastructure with void routing paths. Forward position faces inward — containment, not protection. Field log: "We are not here to respond to breaches. We are here to hold a line." Suppression escalation: passive omission (Ch 11) → active suppression (Ch 20) → structural recognition (Ch 23). Hands check: steady. Kowalski tracing evacuation corridors independently.
@@ -425,6 +427,7 @@ This bible dimension tracks **current character states**:
 - **Ch 11:** Debut POV. Stalker-7 deploys to Mid-Levels Level 7 breach, junction housing 7-14. Three absorbed, Stage 2 stable but RCI anomalously elevated (14.2-14.6 vs expected 8-10). Third absorbed embedded in junction housing looks "present" — outside Nikolai's doctrinal taxonomy. Hum near junction carries name perceived by both Nikolai (3.5m) and Kowalski (12m) independently — Corporal Deng, Stalker-3, absorbed 4 months prior. Classifies as "acoustic mimicry" per SFM §9.2. Field log records: "I heard it too" — first corroborated perception in 15 years. Thinks of a sergeant on the Murmansk perimeter (Haraldsen, unnamed in prose) — word list, medical discharge, bunk stripped clean. Signs the official report. Pen steady.
 - **Ch 38:** BLACKWEIR perimeter enforcement. Stalker-7 holds Sump/Mid-Level boundary south sector. Emergency broadcast cycling 640+ times. 69 civilians redirected. Jarek Kowalski at Junction 14-East (secondary, "safest position on the line") — absorption front advances through unsevered service conduit not on severance work orders. Jarek's last transmission: "Nikolai" — first name, not call sign, not mimicry. Timestamp 16:47, non-recoverable. After-action report: "Anomalous resonance observation: none" — active institutional lie (evolution from Ch 11's passive omission). Field log blank for first time in 15 years — dual-record collapse. Hand tremor — first in twenty years. Hum *Thinner* (cross-POV echo with Ch 37). Pen still. Hand not.
 - **B1 Ch 47:** Phase 5 after-action report. PCR-11 filed (47 fields, NRC classification, 419/500 characters used). Field log duplicates the report — first time in 15 years (arc terminus). Maintenance bay: PF-7-09 on cradle at 40% shielding (Ch 32 damage). Jarek's tools on workbench. Hands *still* (not steady). Hum at 6.3 — "not quieter, thinner." "The quiet was the hardest part."
+- **B2 Ch 15:** FAS deployment — Accra, Sector 14 NE. Stage 2 breach, contained in 3 hours. Three absorbed — one inside sealed Junction 14-7C (no entry point, lock intact, spatial anomaly NOT reported). Hum shift during extraction: structured, 8 seconds, "still here" — two words, clearest vocalization in 20 years. Reyes document vocabulary internalized (military intel summary: *unverified civilian publication*). VS-7 Field 22: typed "acoustic mimicry per doctrine" knowing it false — first commission (not omission). Signed. Hand steady. "That's worse." Also unreported: sealed junction spatial anomaly (second commission on same form). FAS liaison Diallo files favorable interoperability assessment — clean VS-7 cited as evidence PCC doctrine is transferable. Field log: longest entry in six months. Documents the commission explicitly. "This is the longest entry in six months." Private language expanding because the nature of the lie changed — field log shifts from observation record to confession record. Hum: 5.9 (FAS theater, lower nitro density — geographic, not temporal). Instruments: 6.0. Gap: 0.2 Hz.
 - **B2 Ch 5:** ~6 months post-BLACKWEIR. Institutional debrief at PCC Theater Command — BLACKWEIR presented as replicable doctrine ("final operational review"). Marchetti briefs: containment parameters met, dual-key protocol validated for export, 8.2M absorbed (footnoted estimate), 14 Stalker losses (7 KIA, 7 NRC). Stalker-7 commended. Three recommendations: BLACKWEIR as standard contingency for Tier-1/Tier-2 cities, multinational rotation of experienced units, training curriculum. "Questions." — Nikolai does not speak. Rotation orders: VS-2176-0041, Stalker-7 to Lagos (FAS cooperation framework), 30 days, dual-key protocol familiarization. Timestamped before briefing concluded — notification formatted as consultation. Understands: they are sending Stalker-7 to replace the FAS model, not learn it. Garrison quarters: field log opened — six months of entries getting shorter. Timestamps, baselines, "No elaboration." Language contracting around the datum it cannot hold. Closes log without writing. Hands-check: four seconds, still — now ritual, not diagnostic. Jaw as new physical marker (mandible compression below threshold). Hum at 6.1 (down from 6.3, 8.1). Window: shimmer, violet frost, anchor zone. "Did not compose thoughts about Jarek" — distinction between composing (language) and carrying (body). Lagos in thirty days.
 
 ---

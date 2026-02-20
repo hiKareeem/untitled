@@ -653,6 +653,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 — Shared Nephthys+Kira POV (3rd Kira B2, 3rd Nephthys B2). The convergence scene. Kira streams arrival at Cathedral (first post-expulsion broadcast, 31K+ viewers), observes session, goes offline for private conversation. Vocabulary convergence: 'phrasing' (Kira/Idris) = 'address' (Nephthys/private journal). R3 coherence patterns = chorus signatures. 'Names.' Absorbed = population, not phenomenon. Framework limits acknowledged mutually. Nephthys: 'The signal does not distinguish between those who name it and those who listen.' Coda: nosebleed darker. 'She was not sure that was enough.' First in-person cross-POV convergence. 14 months telemetry shared with Imani. Epigraph: Operational Theology — Nephthys. AEGIS as invisible novelist."
 
-completedCount: 63
-totalWords: 284337
+  book2_chapter_15:
+    title: "Commission"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-15-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Nikolai POV (2nd Book 2 appearance, 9th overall). FAS deployment to Accra. Stage 2 breach contained. Absorbed speaks 'still here' — clearest vocalization in 20 years. VS-7 Field 22: first commission (not omission). Signed. Hand steady. Field log: longest entry in six months — observation → confession. Parallel with Ch 14 (Malachi's encyclical). Mid-truth impact thread: 5th institution processes same revelation. AEGIS as invisible novelist."
+
+completedCount: 64
+totalWords: 288537
 lastUpdated: "2026-02-20"
