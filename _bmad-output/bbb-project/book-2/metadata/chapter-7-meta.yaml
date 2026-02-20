@@ -1,0 +1,119 @@
+chapter_number: 7
+book: 2
+title: "Due Process"
+pov_character: "Zeyad Al-Fahim"
+phase: 1
+location: "New Geneva — Hall of Nations, Tribunal Chamber 1, consultation alcove, diplomatic residence"
+timeline: "~6 months post-BLACKWEIR"
+estimated_word_count: 4100
+actual_word_count: ~4100
+epigraph_source: "Nitro Accords, Article 12, Section 11"
+epigraph_author: ""
+epigraph_ref: "Respondent rights provision — architecturally prevents the defense it promises"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  Six months post-BLACKWEIR. Session 63 of the Accords Disciplinary Tribunal.
+  Zeyad walks the Hall of Nations as defendant — east entrance, visitors'
+  protocol, grey temporary access badge. Jordanian flag worse (9+ months,
+  lower third dissolving). Touches Khalil's portrait (same gesture, same
+  frame). Pen returned to breast pocket 3 weeks post-verdict — writes legal
+  notes, not memos. New notebook (original = Prosecution Exhibit 1). Tribunal
+  Chamber 1: rectangular, hierarchical, not Committee Chamber 3. Dr. Adeyemi
+  still presides. Exhibit 217 entered (communication logs). NitroCore present
+  as "interested institutional observer." Margin note: "217 exhibits. Zero on
+  BLACKWEIR." Post-hearing, Dr. Amara Diallo (lawyer) informs him dead-hand
+  transmission arrived via Black Babel — 3/7 encryption layers resolved,
+  NitroCore infrastructure routing. Legal advice: don't open (discoverable,
+  converts historical to continuing violation, criminal court referral). He
+  opens it. Routing authorizations for Sump conduit capacity expansion, 18
+  months pre-BLACKWEIR. Pre-positioned. "Who signed?" Evidence assembling
+  from Mirelle's dead-hand while tribunal assembles his prosecution.
+
+# Key Events
+key_events:
+  - "Session 63 of Accords Disciplinary Tribunal — ongoing prosecution under Article 12, Section 8"
+  - "Exhibit 217 entered — communication logs proving institutional systems used for disclosure"
+  - "217 exhibits documenting disclosure, zero on BLACKWEIR"
+  - "NitroCore as 'interested institutional observer' — granted Session 14 over Diallo's objection"
+  - "Dead-hand transmission arrives via Black Babel relay — 3/7 layers decrypted"
+  - "Diallo advises against opening — discoverable, historical → continuing violation, criminal referral"
+  - "Zeyad opens anyway — NitroCore routing authorizations, capacity expansion 18 months pre-BLACKWEIR"
+  - "Pattern recognition: Sump conduit throughput ceiling raised systematically from Confluence outward"
+  - "'Who signed?' — Spire-level authorization required, predates current NitroCore leadership"
+  - "Closing: pen writes questions in margins of evidence that will be used against him"
+
+# Characters Present
+characters:
+  - name: "Zeyad Al-Fahim"
+    role: POV
+    state: "Phase 1/5 Book 2. Exhausted endurance — composure as architecture, not expression. Pen returned (legal notes). Practiced smile absent. Opens discoverable evidence against legal advice. Institutional habit survives institutional betrayal."
+  - name: "Dr. Amara Diallo"
+    role: Supporting (new)
+    state: "Defense lawyer. Diplomatic Personnel Legal Fund. Treaty-law specialist. Professional, precise, legally calibrated. Operational personality: 'a relay I am not going to name in any filing.' Objected to NitroCore observer status (overruled). Advises against opening dead-hand package."
+  - name: "Dr. Adeyemi"
+    role: Supporting (continuity from B1 Ch 50)
+    state: "Still presiding, Session 63. Nigerian diplomat, 20-year acquaintance. Once said UGC ensures power answers to process — now presides over process answering to power."
+  - name: "Delegate Ormond"
+    role: Background (new)
+    state: "Australian trade liaison. Tribunal signatory representative. Zeyad counted his vote reliable for 7 compliance reviews."
+  - name: "Professor Vassiliev"
+    role: Background (new)
+    state: "Legal scholar. Academic authority making proceedings appear substantive."
+  - name: "Mirelle Dubois"
+    role: Posthumous presence
+    state: "Dead-hand distribution continuing. Evidence assembling itself beyond her death. Built the system that survives the system that killed her."
+
+# Themes
+themes:
+  - "Architecture of Power (Dominant) — The Accords prosecute the enforcer. Article 12 Section 11 promises defense while architecturally preventing it."
+  - "Systemic Complicity (Strong) — NitroCore observes its own prosecution being conducted on its behalf. 'Proprietary materials' = evidence of genocide."
+  - "Institutional Impotence (Zeyad-specific, Dominant) — The institution that should act on evidence is prosecuting the person who provided it."
+  - "Truth as Weapon (Strong) — Dead-hand evidence arrives during prosecution. Opening it = self-incrimination. Not opening it = complicity in suppression."
+  - "What We Owe (Background) — Mirelle's posthumous evidence. The dead journalist's system still producing justice while the living institution produces a tribunal."
+
+# Symbols
+symbols:
+  - name: "Jordanian flag"
+    appearances: 1
+    arc: "9+ months unfixed, worse — lower third dissolving. Institutional decay accelerating. Flag of a country whose tradition he carries, represented by a degrading emitter."
+  - name: "Khalil's portrait"
+    appearances: 2
+    arc: "Touched (same gesture). Portrait of signing → document's articles used against great-grandson. 131 years."
+  - name: "The pen"
+    appearances: 5
+    arc: "Breast pocket → returned after 3-week absence → unconscious reach (stopped) → writes margin questions → 'He began to write.' Function shifted: compliance notes → disclosure → legal notes → questions in margins of evidence."
+  - name: "Grey access badge"
+    appearances: 2
+    arc: "Institutional negative of credentials. Same ritual (pocket → desk), different object. The form persists after the credential is revoked."
+  - name: "Photograph (unreachable)"
+    appearances: 1
+    arc: "Referenced as absent — on desk in locked office. Khalil's face behind a door whose biometric panel no longer recognizes his hand."
+  - name: "217 exhibits"
+    appearances: 2
+    arc: "Margin note: '217 exhibits. Zero on BLACKWEIR.' The prosecution's evidentiary architecture."
+  - name: "New notebook"
+    appearances: 3
+    arc: "Purchased same shop as pen (Rue du Rhone). Original = Prosecution Exhibit 1. New questions in old patterns."
+
+# Continuity
+continuity_notes:
+  - "B1 Ch 50 → B2 Ch 7: 6-month gap. Adeyemi still presides (continuity). Credentials revoked → grey visitor badge. Office inaccessible → diplomatic residence. Pen behind locked door → pen returned (3 weeks post-verdict, legal notes)."
+  - "B1 Ch 6 → B2 Ch 7: Jordanian flag degradation chain (first noted → 9+ months, worse). Hall of Nations walk inverted (coordinator → defendant). Coffee ritual absent (commissary requires institutional membership)."
+  - "B1 Ch 17: 'I did not log this exchange' → Prosecution Exhibit 1. Back-channel architecture now public."
+  - "B1 Ch 30: NitroCore secure-link terminal in Committee Chamber 3 → same configuration in Tribunal Chamber 1. 'Contained' callback → 'stone in a mechanism designed for glass.'"
+  - "B1 Ch 45: Dead-hand fires → B2 Ch 7: dead-hand still routing. Mirelle's mid-sentence transmission echoed in dead-hand's ongoing decryption."
+  - "B2 Ch 4 (Sofia): Dead-hand packages already organized at 6-month mark. Different content for different recipients. No overlap in dead-hand specifics."
+  - "Forward: Remaining 4 encryption layers → authorization chain. 'Who signed?' → Lagos/FAS investigation (Phase 2)."
+
+# Thread Status
+thread_status:
+  tribunal: "Session 63. Exhibit 217 entered. Building toward criminal court referral (continuing violation frame). Adeyemi presides."
+  dead_hand: "First package to Zeyad via Black Babel. 3/7 layers resolved. Content: NitroCore routing authorizations, capacity expansion 18 months pre-BLACKWEIR. 4 layers remaining on time-release."
+  authorization_chain: "Seeded. 'Who signed?' Spire-level authorization required for capacity modifications exceeding baseline + 15%. Predates current leadership."
+  diallo_relationship: "Established. Professional, protective, institutionally literate. Worth developing in future chapters."
+  criminal_referral: "Threatened. Historical violation (censure + revocation) vs continuing violation (criminal courts). Opening the package = continuing violation evidence."

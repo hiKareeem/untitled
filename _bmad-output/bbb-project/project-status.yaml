@@ -613,6 +613,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Kira POV (Book 2 debut, 6th appearance overall). ~6 months post-BLACKWEIR. 11-second clip at 12M views. Academy legal demands retraction — refuses. Grounded from streaming. Lumina escalated to 60mg (contact: Paz, illicit, tea shop, cash). Prescribed meds via civilian psych (gesture of leaving lasted 11 days). Mage network: 47 members, 9 cities, coordinated telemetry (São Paulo/Lagos/Mumbai). Nephthys convergence seeded: Ren confirms acoustic correlation, Kira plans clandestine Neo-Shanghai trip. Epigraph: 'A History of Silence' (receiving/becoming). AEGIS as invisible novelist."
 
-completedCount: 59
-totalWords: 268437
-lastUpdated: "2026-06-15"
+  book2_chapter_7:
+    title: "Due Process"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4100
+    completedDate: "2026-02-19"
+    metaFile: "book-2/metadata/chapter-7-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 1 — Zeyad POV (Book 2 debut, 6th appearance overall). ~6 months post-BLACKWEIR. Session 63 of Accords Disciplinary Tribunal. Dr. Adeyemi still presides (B1 Ch 50 continuity). Exhibit 217 entered (communication logs). NitroCore as 'interested institutional observer.' Dr. Amara Diallo introduced (lawyer, Diplomatic Personnel Legal Fund). Dead-hand package arrives via Black Babel — 3/7 layers decrypted, NitroCore routing authorizations, capacity expansion 18 months pre-BLACKWEIR. Opens against legal advice (discoverable, continuing violation threat). 'Who signed?' seeds authorization chain. Epigraph: Article 12 Section 11 (respondent rights that prevent defense). AEGIS as invisible novelist."
+
+completedCount: 60
+totalWords: 272537
+lastUpdated: "2026-02-19"
