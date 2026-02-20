@@ -241,4 +241,27 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 18 — "The Word They Chose" (Nuwa Lin)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Irrelevance of Individual Being | Document names frequencies, not people | The document converts 8.2 million people into data. Nuwa is 12%, correlation 0.89, low-conductivity path selection. The clinical apparatus of proof does not name her, does not name anyone from the Sump. It names frequencies. Correlation values. Gradient maps. The hand that entered the polymer window is "absorption event, residential-proximate." The system that consumed her neighbors does not have a word for them. |
+| Cost of Survival | Compliance as double-edged inheritance | The routing that saved her (masonry walls, body's knowledge) is the same compliance the system trained her to perform. The document names it: low-conductivity path selection, instinctive. The instinct was trained. The training was the system. The system consumed the people who moved through metal corridors. She survived by doing what the system taught her. The document explains it. The explanation does not change what it cost. |
+| Truth Without Power | Language + map, no action yet | The document gives vocabulary. The chip gives the map. Together: "a tool without a task. A map without a destination." She has the geometry of survival and no action attached to it yet. The truth is complete. The action is not yet visible. Held breath before Phase 3. |
+| Systemic Complicity | Same architecture, different address | The system archived her residential record, decommissioned her credential server, reclassified her district, consumed her neighbors. Now: "Re-housing eligibility: Confirmed." The notification is not an apology. It is a processing offer. New database. New residential record. New credential. Six to eight weeks. The same architecture. Different address. |
+| What We Owe | Two private ledgers transferred | Fuxi's record: names cross-referenced with junctions that killed them. Filed in a partition nobody audited. "Someone should have these." Nuwa's record: the hand against the polymer, the inventory of the dead maintained without numbers and without purpose. The chip transfers his obligation to her. She now holds both ledgers. |
+
+**Key Resonance:** Irrelevance of Individual Being ↔ Cost of Survival. The document's clinical vocabulary is the system's language for what it did. The body-memory is Nuwa's language for what it felt like. Both are true. Neither changes anything. The chapter holds both simultaneously without resolving the tension — the itch was information the way the document was information and neither changed anything and both were true.
+
+**Epigraph Integration:** "The term 'data-orphan' appears in no official lexicon. It describes approximately 340,000 individuals whose residential records were deleted when their zones were reclassified. The system that made them does not have a word for them."
+- Thematic function: The epigraph names the chapter's central absence — the system's vocabulary gap. The document fills some gaps (demodulated suffering, absorption gradient) but not this one. "Data-orphan" is a word invented outside the system to describe what the system produces and refuses to name.
+- AEGIS as invisible novelist: A History of Silence = the kind of secondary source AEGIS would access in reconstructing events. The epigraph is AEGIS noting the vocabulary gap before Nuwa experiences it.
+- Epigraph → chapter: The reader encounters "data-orphan" before Nuwa does. When she reads it in the implications section, the reader already knows the term is not official. The gap between the system's vocabulary and the document's vocabulary is the chapter's structural argument.
+
+**Mid-Truth Impact Thread (Cross-Chapter):** Sofia's publication (Ch 11) → Aurielle's institutional absorption (Ch 12) → Nephthys's movement fracture (Ch 13) → Malachi's institutional suppression (Ch 14) → Nikolai's military falsification (Ch 15) → Kira's expelled-witness agency (Ch 16) → Zeyad's institutional validation without consequence (Ch 17) → **Nuwa's body-memory collision and map acquisition (Ch 18)**. Eight chapters, eight factions. Nuwa is the only POV character who experienced the event the document describes. Every other character processes the document as information about something that happened to others. Nuwa processes it as vocabulary for something that happened to her body. The document does not tell her anything she did not already know. It tells her what the things she already knew are called.
+
+**Parallel with Ch 17:** Zeyad holds truth without power (framework document, will be tabled). Nuwa holds truth without power (chip data, no action yet). Both chapters close on the held breath before Phase 3. Zeyad's truth requires an institution to act. Nuwa's truth requires only her body and the chip and the knowledge of which buildings have masonry cores. Phase 3 will show which truth has more traction.
+
+---
+
 _Last updated: 2026-02-20_

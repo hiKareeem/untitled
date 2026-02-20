@@ -663,6 +663,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 — Nikolai POV (2nd Book 2 appearance, 9th overall). FAS deployment to Accra. Stage 2 breach contained. Absorbed speaks 'still here' — clearest vocalization in 20 years. VS-7 Field 22: first commission (not omission). Signed. Hand steady. Field log: longest entry in six months — observation → confession. Parallel with Ch 14 (Malachi's encyclical). Mid-truth impact thread: 5th institution processes same revelation. AEGIS as invisible novelist."
 
-completedCount: 64
-totalWords: 288537
+  book2_chapter_18:
+    title: "The Word They Chose"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 3600
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-18-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Nuwa POV (2nd Book 2 appearance, 3rd overall). Days after document publication. Four days routing around terminal — body's knowledge. Forced out by depleted supplies. Reads document at Level 3 junction: clinical vocabulary ('demodulated suffering,' 'conscious collective field,' 'infrastructure-driven absorption gradient') landing against body-memory (hand entering polymer window, wet cloth, E-flat). 12% of Sump survivors, correlation 0.89. Data-orphan: 340,000 individuals whose records were archived. Walks home along masonry wall. Opens Fuxi's data chip for first time — his handwriting in metadata field ('Lin, Fuxi. Grade 3. Section 4-East.'). 13 years of logs, 62 entries, names cross-referenced with junctions (Guo 14-7B, woman from 14-3A, family in 9-12C). Conduit topology of Sump — path-poor zones as survival pockets. Block 9: three trunk-lines, pre-event absorption confirmed. Counts: not for total but for texture, but this time texture has coordinates. Tool without a task. Map without a destination. Notification re-read for first time: 'Re-housing eligibility: Confirmed.' Not dismissed. Not done with it yet. Mid-truth impact thread: 8th chapter, 8th faction. Only POV who experienced the event the document describes. AEGIS as invisible novelist."
+
+completedCount: 65
+totalWords: 292137
 lastUpdated: "2026-02-20"

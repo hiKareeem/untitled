@@ -1,0 +1,128 @@
+chapter_number: 18
+book: 2
+title: "The Word They Chose"
+pov_character: "Nuwa Lin"
+phase: 2
+location: "Neo-Shanghai Mid-Levels — Nuwa's room (9th floor), Level 3 transit junction"
+timeline: "~7 months post-BLACKWEIR, days after document publication"
+estimated_word_count: 3600
+actual_word_count: ~3600
+epigraph_source: "A History of Silence"
+epigraph_author: ""
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  Nuwa's second Book 2 POV. Phase 2 — The Mid-Truth. She has been routing
+  around the Level 3 terminal for four days since the document went public.
+  Forced out by depleted supplies, she passes the junction and reads. The
+  document's clinical vocabulary — "demodulated suffering," "conscious
+  collective field," "infrastructure-driven absorption gradient" — lands
+  against body-memory she has carried since BLACKWEIR: the hum changing
+  pitch, the wet cloth, the hand entering the polymer window. The document
+  gives her survival a vocabulary (12% of Sump survivors, correlation 0.89,
+  low-conductivity path selection). She is a data point in someone else's
+  proof. Walks home along the masonry wall. Climbs to the ninth floor.
+  Opens Fuxi's data chip for the first time. His handwriting in the metadata
+  field — the careful, slightly too-large characters. Thirteen years of logs.
+  The final sixty-two entries: RCI readings, junction coordinates, names
+  cross-referenced with the junctions that killed them. The conduit topology
+  of the Sump — every trunk-line, every path-poor zone, every survival
+  pocket. She can see what survived and what did not. She counts: not for
+  the total but for the texture, but this time the texture has coordinates.
+  The document gave her language. The chip gave her the map. Together they
+  are a tool without a task. She looks at the frozen notification — really
+  looks at it — for the first time in months. Re-housing eligibility:
+  Confirmed. She does not dismiss it. She is not done with it yet.
+
+# Key Events
+key_events:
+  - "Four days of routing around the terminal — body's knowledge, not deliberate avoidance"
+  - "Morning ritual: cred count (206), room paid through week, adhesive on day 9 of 12"
+  - "Frozen notification: 'Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned.'"
+  - "Terminal crowded — people standing still, reading, posture settled"
+  - "Reading the document: 'demodulated suffering,' 'conscious collective field,' 'infrastructure-driven absorption gradient'"
+  - "Body-memory collision: the hand entering the polymer window in Block 9 (BLACKWEIR)"
+  - "Survival as data point: 12% of Sump survivors, low-conductivity path selection, correlation 0.89"
+  - "Document names frequencies, not people — 8.2 million converted to data"
+  - "'Data-orphan' — a word in no official lexicon, 340,000 individuals whose records were archived"
+  - "Walk home along masonry wall — routing automatic, Mid-Level residents move around her"
+  - "Ninth floor, room inventory: rice, oil, greens, market bag unpacked"
+  - "Data chip inserted — cracked housing, corroded contact pins, pressure required"
+  - "Fuxi's handwriting in the metadata field — 'Lin, Fuxi. Grade 3. Section 4-East.'"
+  - "Thirteen years of logs — first entry 3 months after father died, Fuxi at 14"
+  - "Final 62 entries: RCI readings, junction coordinates, names (Guo 14-7B, woman from 14-3A, family in 9-12C)"
+  - "Infrastructure maps: conduit topology of the Sump, path-poor zones as survival pockets"
+  - "Block 9: three trunk-lines, distribution node, pre-event absorption — apartments emptied before BLACKWEIR"
+  - "She closes the map. Opens it. Closes it."
+  - "Counting: Block 14 (path-poor, survival), Block 7 (path-poor, survival), Block 9 (no masonry, no survival)"
+  - "Notification re-read: 'Re-housing eligibility: Confirmed.' — not dismissed, not acted on. Not done with it yet."
+
+# Characters Present
+characters:
+  - name: "Nuwa Lin"
+    role: POV
+    state: "Inventory-driven, terse, practical. Body-memory as primary knowledge system. Receives the document's vocabulary against what she already knew as sensation. Opens the chip. Counts. Does not cry. Holds a tool without a task. For the first time in seven months, the edge of her vision is not where she stores what she cannot look at."
+  - name: "Fuxi Lin"
+    role: Referenced (not present)
+    state: "Present through the data chip — his handwriting in the metadata field, thirteen years of logs, the names cross-referenced with junctions. The chip is the record he could produce when the maintenance was over."
+  - name: "Fen"
+    role: Referenced (not present)
+    state: "Spring onions callback — the one time Nuwa used the table. Weeks ago. Not repeated."
+
+# Themes
+themes:
+  - "Irrelevance of Individual Being (Dominant) — Nuwa is a correlation coefficient. The document names frequencies, not people. 8.2 million converted to data. She is 12%, correlation 0.89, low-conductivity path selection. The system that killed her neighbors does not name them."
+  - "Cost of Survival (Dominant) — The compliance that saved her (routing along masonry walls because metal made the implant itch) is the same compliance that trapped her. The body's knowledge was correct. The body did not know why. The document explains it. The explanation changes nothing."
+  - "Truth Without Power (Strong) — The document gives vocabulary. The chip gives the map. Together they are a tool without a task. She has the language and the geometry of survival. She does not yet have the action."
+  - "Systemic Complicity (Strong) — The system archived her residential record, decommissioned her credential server, reclassified her district, consumed her neighbors. Now it offers re-housing. Same architecture. Different address."
+  - "What We Owe (Background) — Fuxi's record: the names cross-referenced with the junctions that killed them. The private ledger maintained without expectation that it would be read. The record existed because the record was the only thing a maintenance worker could produce when the maintenance was over."
+
+# Symbols
+symbols:
+  - name: "The frozen notification"
+    appearances: 3
+    arc: "Morning (automatic, part of the display) → terminal (not mentioned, body-memory dominant) → closing (really looked at for the first time in months). Ch 8: 'Evacuation priority: None assigned.' Ch 18: 'Re-housing eligibility: Confirmed.' The system's last word on her institutional existence becomes the place where she keeps what she is not done with yet."
+  - name: "The data chip"
+    appearances: 5
+    arc: "Left pocket (carried for weeks, unopened) → warm from her body → inserted (cracked housing, pressure required) → Fuxi's handwriting → infrastructure maps → closed/opened/closed → warm in the data port at closing. The weight of thirteen years compressed to thumbnail-size."
+  - name: "The masonry wall"
+    appearances: 4
+    arc: "Routing (automatic, body's knowledge) → document vocabulary (low-conductivity path selection) → walk home (routing still automatic) → chip data (path-poor zones on the map). The wall that saved her life, now named."
+  - name: "The hand against the polymer"
+    appearances: 1
+    arc: "Body-memory surfaced by the document's word 'conscious.' The hand that entered the polymer window in Block 9 during BLACKWEIR. Her private inventory. The document calls it 'absorption event, residential-proximate.' She has never told anyone. The document gives it a category. The category does not change what she saw."
+  - name: "The table"
+    appearances: 1
+    arc: "Used once (spring onions, Fen's gift). Still propped against the wall. Not used again. The not-knowing is familiar — in the Sump, the distinction between choosing and not-choosing was so thin she stopped trying to locate it."
+  - name: "Fuxi's handwriting"
+    appearances: 2
+    arc: "Metadata field, manually overwritten — 'Lin, Fuxi. Grade 3. Section 4-East.' The careful, slightly too-large characters of a man who learned to write on maintenance forms. She had not expected the handwriting. She looks at it for a long time."
+  - name: "The hum"
+    appearances: 5
+    arc: "Morning (Mid-Level frequency, quieter than Sump, not the E-flat) → terminal (absent — body-memory dominant) → stairwell (concrete walls, faint, residential-grade) → mattress (not the E-flat, not the structured syntax Fuxi heard at the barrier — the hum of a system that continued) → closing (the hum continued). The E-flat is gone. What remains is fuller."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 8 → B2 Ch 18: Room established (9 creds/day, no credential verification). Fen introduced — spring onions callback. Feed terminal at Level 3 — same display. Frozen notification text exact match. Implant crack/moisture/itch. Masonry-wall routing. Creds: 412 (Ch 8) → 206 (Ch 18) — consistent depletion at 9/day + food over ~weeks."
+  - "B2 Ch 9 → B2 Ch 18: Fuxi handed chip ('Someone should have these'). 13 years private logs, 62 entries from 11 weeks pre-BLACKWEIR, junction maps, correlations, names. Chip opened for first time. Fuxi's handwriting in metadata field. Block 9 pre-event absorption confirmed by chip data."
+  - "B2 Ch 11 → B2 Ch 18: Sofia's document published, now public on terminals. Document content consistent with Ch 11's description. '55-page publication' referenced."
+  - "B2 Ch 13 → B2 Ch 18: Document circulating for ~9 days (Nephthys chapter established timeline). 'Nine days' used in Ch 18."
+  - "B1 Ch 42 → B2 Ch 18: Hand-against-polymer detail (lines 143-153 of Ch 42). Same woman, same window, same textile-stained fingers. Ch 18 line 115 is a direct callback, not new material. Blue textile on mattress (Ch 42 line 77) → 'blue textile in the dark' (Ch 18 counting passage)."
+  - "Room on 9th floor confirmed (Ch 9 — Fuxi climbs nine floors, 'Ninth floor. Her corridor.')."
+  - "Block 9 apartments emptied before BLACKWEIR — established in Ch 8 as observed by Nuwa. Ch 18 chip data confirms: pre-event absorption, three trunk-lines, highest conduit density on map."
+  - "Forward: Phase 3 Nuwa chapter — sacrifice district designation hits Mid-Level neighborhood. She starts organizing. Uses chip data to map safe zones. 'Nuwa knocking on doors' scene."
+
+# Thread Status
+thread_status:
+  frozen_notification: "EVOLVED. Ch 8: 'Evacuation priority: None assigned.' Ch 18: 'Re-housing eligibility: Confirmed.' Not dismissed. Not acted on. For the first time in seven months, the edge of her vision is not where she stores what she cannot look at. Forward: Phase 3 — sacrifice district designation will force a decision."
+  data_chip: "OPENED. Fuxi's 13 years. 62 entries, junction maps, path-poor zones, names cross-referenced with junctions. The conduit topology of the Sump. Tool without a task. Forward: Phase 3 — she uses the maps to relocate people."
+  implant_crack: "ACTIVE. Moisture, corroded contact pins, adhesive on day 9 of 12. Chip required pressure to seat. The crack is functional — she can still read the chip. Adhesive cost: 11 creds/tube, 12-day lifespan."
+  masonry_routing: "NAMED. The body's knowledge now has vocabulary: low-conductivity path selection, instinctive. 12% of Sump survivors. Correlation 0.89. The routing that saved her life is now a data point."
+  the_lie: "TRANSFORMING. 'Stay invisible' — the compliance that saved her is the same compliance that trapped her. The document gives her language. The chip gives her the map. She is not yet acting. She is not yet done. Forward: Phase 3 — she chooses to be seen."
+  fuxi_thread: "PRESENT (through chip). His handwriting. His record. The names he cross-referenced. The maps he maintained. He is in Lagos (Ch 9 forward reference). The chip is what he left her."
+  the_document: "PROCESSED. The document's clinical vocabulary lands against body-memory. She is a correlation coefficient. The document names frequencies, not people. She steps back from the display. The itch was information the way the document was information and neither changed anything and both were true."
+  re_housing: "OPEN. 'Re-housing eligibility: Confirmed.' She reads it as words for the first time. Does not dismiss. Does not act. Holds it at the edge of her vision. Forward: Phase 3 decision point."

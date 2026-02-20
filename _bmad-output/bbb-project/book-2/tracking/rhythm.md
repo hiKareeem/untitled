@@ -393,4 +393,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 18 — "The Word They Chose" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-domestic (morning ritual, avoidance) → rising-internal (terminal, document reading, body-memory collision) → medium-sustained (walk home, data-orphan naming) → rising-internal (chip opened, Fuxi's handwriting) → peak (infrastructure maps, Block 9, counting) → resolving-held ("a tool without a task" → notification re-read → "not done with it yet")
+**Pacing:** Three-movement structure. Terminal scene = 45% of chapter. Chip scene = 35%. Opening and closing provide domestic ballast. No external action. All movement is internal.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Morning ritual / avoidance | ~450 | Low-domestic | Slow, inventory-driven. Cred count, adhesive tracking, frozen notification. Table not used. Chip in pocket. |
+| Terminal (document reading) | ~1,600 | Rising → peak | Dense, accumulative. Clinical vocabulary landing against body-memory. Three document extracts. Hand-against-polymer. Data-orphan naming. Steps back. |
+| Walk home / stairwell | ~350 | Medium-sustained | Transitional. Routing automatic. Data-orphan category. Stairwell dark above second floor. Room inventory. |
+| Chip opened (Fuxi's logs) | ~900 | Rising → peak | Inventory-first reading. Fuxi's handwriting. 13 years. Names. Infrastructure maps. Block 9. Closes/opens/closes. |
+| Counting / notification | ~300 | Resolving-held | Maximum compression. "She did not cry. She counted." Three blocks, three outcomes. Tool without a task. Notification re-read. "Not done with it yet." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "She did not cry. She counted." after the dense chip-reading section is the chapter's most compressed moment. "She knew that she had it." after the longest thematic paragraph.
+- Opening scene is the slowest in any Nuwa chapter — the avoidance is rhythmic. She routes around the terminal the way she routes around the metal corridors. The prose routes around the chapter's subject before arriving at it.
+- Terminal scene uses three embedded document extracts (italicized, institutional register) as rhythmic interruptions — each extract followed by Nuwa's translation into body-memory. The alternation between clinical vocabulary and physical sensation is the scene's structural rhythm.
+- The hand-against-polymer passage is the scene's rhythmic event — the longest single sentence in the chapter ("The hand had not shattered the polymer. It had *entered* it.") followed by the shortest: "Conscious."
+- Walk home scene is the chapter's only kinetic section — brief, transitional, the routing automatic. The prose moves the way Nuwa moves: efficiently, without elaboration.
+- Chip scene opens with a single-line isolation: "Fuxi's handwriting." — the chapter's most compressed emotional moment. Everything that follows is inventory.
+- Counting passage (Block 14, Block 7, Block 9) is pure parataxis — noun, descriptor, verdict. Three times. The third has no survival pocket. The rhythm enacts the absence.
+- Closing decelerates into held breath rather than resolution. "She did not know what to do with any of it. / She knew that she had it." — two sentences, the second shorter, the second the chapter's thematic close. The notification re-read follows as coda.
+
+**Dialogue Percentage:** ~0% (no dialogue). Correct for TEXTURE mode and Nuwa's register. Consistent with Ch 8 (minimal dialogue).
+
+**Pacing Concern:** Terminal scene risks feeling like data delivery — Nuwa reading a document is inherently low-kinetic. Mitigated by the body-memory collision structure: every piece of clinical vocabulary is immediately translated into physical sensation. The translation track IS the pacing device (same mechanism as Aurielle's dual-track narration in Ch 10, different register).
+
+**Structural Note:** Ch 18 paired with Ch 8 forms Nuwa's Phase 1→2 unit. Ch 8: arrival (passive — she is placed in the Mid-Levels), observation (passive — watches the Feed, recognizes the lie), chip received but not opened (passive — carries it). Ch 18: document read (active — she chooses to pass the terminal), chip opened (active — she inserts it), notification re-read (active — she looks at it for the first time). The phase transition is from passive reception to active engagement. The rhythm reflects this: Ch 8 is contemplative throughout (room, corridor, terminal, room). Ch 18 has the same spatial arc (room → terminal → room) but the internal movement is directed rather than observational.
+
+**Comparison to Ch 8:**
+- Ch 8: ~2,800 words, arrival/observation, contemplative tempo, chip received, notification filed
+- Ch 18: ~3,600 words, document/chip, accumulative tempo, chip opened, notification re-read
+- Together: institutional placement → active knowledge acquisition → the body performs the same routines. The routing is still automatic. What changes is what the routing is for.
+
+**Cross-Chapter Rhythm:** Ch 16 (Kira) → Ch 17 (Zeyad) → Ch 18 (Nuwa) — three consecutive TEXTURE chapters closing Phase 2. Ch 16 is emergent/escalating (expulsion → vocabulary → choice). Ch 17 is analytical/decelerating (data → confrontation → synthesis → stillness). Ch 18 is accumulative/held (avoidance → body-memory collision → map acquisition → held breath). The rhythmic sequence: emergence → reflection → accumulation. Three tempos, three registers, same revelation. Phase 2 closes on the held breath before action.
+
+---
+
 _Last updated: 2026-02-20_

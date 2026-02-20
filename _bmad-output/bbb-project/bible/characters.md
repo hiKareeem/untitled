@@ -771,7 +771,7 @@ This bible dimension tracks **current character states**:
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
 | Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 2/5 (B2) | B2 Ch 21 — convergence with Nephthys achieved; ring light returned; 'Names'; vocabulary confirmed; telemetry shared |
-| Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
+| Nuwa Lin | Invisible → Deliberately Invisible → Chosen Visibility | 2/5 (B2) | B2 Ch 18 — document read (body-memory collision), chip opened (Fuxi's handwriting, infrastructure maps, path-poor zones), notification re-read for first time. Tool without a task. Not done with it yet. Next: Phase 3 sacrifice district designation → organizing |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 
 ---
@@ -961,5 +961,7 @@ This bible dimension tracks **current character states**:
 **Nuwa Lin — Voice Register Note (established B2 Ch 8):**
 - **Contractions permitted** in narration and internal voice — working-class/practical register (same discipline as Imani, opposite of Nephthys/Malachi). Examples: "She'd stopped seeing it," "She couldn't repair it," "It wasn't a home yet." Register reflects Sump upbringing, maintenance-worker household, no institutional or theological formation. Do not apply no-contraction rule to Nuwa.
 
-_Last updated: 2026-02-20 (B2 Ch 21 — Nephthys+Kira "Same Signal"; convergence achieved; ring light returned; 'Names'; telemetry shared; first cross-POV meeting)_
+| Nuwa Lin | Arc + Recent History | Phase 1/5 (B2), B2 Ch 8 last appearance | Phase 2/5 (B2): Document read at Level 3 terminal — clinical vocabulary landing against body-memory (hand against polymer, wet cloth, E-flat). Chip opened for first time — Fuxi's handwriting in metadata field, 13 years of logs, 62 entries, names cross-referenced with junctions, conduit topology of Sump, path-poor zones as survival pockets. Block 9 pre-event absorption confirmed. Counts: not for total but for texture, but this time texture has coordinates. Notification re-read: 'Re-housing eligibility: Confirmed.' Not dismissed. Not done with it yet. | B2 Ch 18 |
+
+_Last updated: 2026-02-20 (B2 Ch 18 — Nuwa "The Word They Chose"; document processed; chip opened; infrastructure maps acquired; tool without a task)_
 _Updated by: Chapter-write workflow (quick mode)_
