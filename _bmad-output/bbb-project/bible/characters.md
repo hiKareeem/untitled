@@ -306,11 +306,12 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional impotence
 
 **Current Psychological State:**
-- Phase: 1/5 Book 2 (Aftermath — institutional defendant)
-- Emotional State: Exhausted endurance — composure intact as architecture, not expression. The pen returned. The hand writes because the hand cannot stop.
-- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — but the hand still documents)*
-- Internal Contradictions: The Accords he invoked contain the article prosecuting him. The evidence assembles itself from Mirelle's dead-hand while the tribunal assembles his prosecution. Opens discoverable evidence against legal advice.
+- Phase: 2/5 Book 2 (The Mid-Truth — institutional defendant, Lie stress-tested)
+- Emotional State: Institutional disorientation deepening into recognition. Composure intact but the Lie cracking — the FAS model is sound, adoption has not followed. Writes anyway. The pen continues.
+- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — but the hand still documents. Lagos stress-tested the Lie: the alternative exists, is proven, will not be adopted)*
+- Internal Contradictions: The Accords he invoked contain the article prosecuting him AND the provision (Article 9, Section 4) that architecturally prevents the alternative model. Khalil's framework is the cage. The FAS proves the alternative works. The Accords prove it cannot be adopted through institutional channels.
 - **B2 Ch 7 State:** Phase 1/5. Session 63 of Accords Disciplinary Tribunal. Pen returned (legal notes, not memos). New notebook (original = Prosecution Exhibit 1). Grey visitor badge. Diplomatic residence 3 blocks from HQ. Dead-hand package opened — NitroCore routing authorizations, 18 months pre-BLACKWEIR. "Who signed?"
+- **B2 Ch 17 State:** Phase 2/5. Lagos, FAS Ministry of Infrastructure. Courtesy access (COURTESY badge, white with red strip). Reads 40 years of FAS atmospheric compliance data — conclusions in first paragraph, disorienting. Walk with Minister Adaeze Obiora through Ikoyi Junction (distributed conduit infrastructure, hum quieter). FAS intelligence files: independent confirmation of nitro-suffering correlation, 40 years, same answer as Sofia. Framework document written (6 pages, handwritten, UGC submission via Diallo, structurally inadmissible under Article 9 Section 4). "The alternative exists. It is sound. It will not be adopted. The pen continues."
 
 **The Lie:** If the record is complete, justice is possible
 
@@ -326,10 +327,10 @@ This bible dimension tracks **current character states**:
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
 **Current Arc:** Dutiful Diplomat → Disgraced Whistleblower → Institutional Defendant
-- Current Phase: 1/5 Book 2 (Aftermath)
+- Current Phase: 2/5 Book 2 (The Mid-Truth)
 - B1 Progression: First fracture → back-channel → emergency clause rejected → public statement → prosecution → silence → revocation
-- B2 Progression: Ongoing tribunal (63 sessions) → dead-hand evidence arrives → opens against legal advice → pattern forming
-- Next Step: Phase 2 — Lagos/FAS, alternative model, evidence accumulating
+- B2 Progression: Ongoing tribunal (63 sessions) → dead-hand evidence arrives → opens against legal advice → Lagos/FAS alternative model → framework document written → Lie stress-tested
+- Next Step: Phase 3 — Inside the Lagos breach (Ch 31). The hum changes. The alternative model is tested by the event it was designed to prevent.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -341,9 +342,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prosecuted under Article 12, Section 8. Guilty on all five counts. Credentials revoked. Says nothing at tribunal. Pen behind locked door. | The record is public. The institution punishes the recorder. The record changes nothing. |
 
 **Appearances:**
-- Last Appearance: B2 Ch 7 ("Due Process")
-- Previous: B1 Ch 50 ("The Record"), Ch 45, Ch 30, Ch 17, Ch 6
-- Next Planned Appearance: Phase 2 Zeyad chapter (Lagos/FAS)
+- Last Appearance: B2 Ch 17 ("The Other Model")
+- Previous: B2 Ch 7, B1 Ch 50, Ch 45, Ch 30, Ch 17, Ch 6
+- Next Planned Appearance: B2 Ch 31 ("Inside the Zone" — Lagos breach)
 
 **Recent History:**
 - **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
@@ -351,6 +352,7 @@ This bible dimension tracks **current character states**:
 - **Ch 30:** Emergency UGC session convened on Neo-Shanghai escalation. Invokes Article 7, Section 3 — first invocation in 11 years. Presents institutional evidence (RCI escalation, Stalker deployments, deferred maintenance, template reports). NitroCore Legal counsel invokes Section 14 sovereign consent ("where practicable" as architectural veto). Committee votes 23-3 to continue monitoring with enhanced briefing cadence. Cease-and-desist delivered same day — Article 12, NitroCore framing data as proprietary. Back-channel exchange with Mirelle: "The committee voted to monitor and the monitoring is monitoring a countdown." Mirelle diagnoses: "The system permits evidence that is individually explicable and collectively invisible. That's not a failure of the record. That's the record's function." Types "Be careful" — first unprocedural statement. Notebook full: 47 questions. Placed on desk, not in drawer. Practiced smile appears unbidden, then gone. Portrait NOT touched in corridor; deliberately touched in closing. Jordanian flag still flickering (9 weeks). "The mechanism did not exist." Khalil's warning: "We must not build a beautiful document. We must build a machine that works when the operator has every reason to break it." They built the beautiful document. Does NOT start drafting public statement — that begins in Ch 45.
 - **Ch 45:** BLACKWEIR reports arrive Day 1 — Class 4 → Class Apex reclassification. Committee emergency session: votes on response framework (how to discuss, not what to do). Zeyad votes yes. Sits in office the rest of the day. Dead-hand fires Day 5: Mirelle's 8-item evidence cache arrives via Black Babel relay on encrypted channel. Raw thought-dictation with degrading syntax. Final packet: "The infrastructure was always designed to—" Nothing after. Writes public statement on encrypted relay; attaches Mirelle's full cache, committee transcripts (23-3 emergency clause rejection), Annex C redacted response, emergency clause invocation, photographed notebook pages including "I did not log this exchange." Publishes through Black Babel relay — every public-facing channel. Article 12, Section 8 violated. Pen set down. "The record was complete."
 - **B2 Ch 7:** ~6 months post-BLACKWEIR. Session 63 of Accords Disciplinary Tribunal. Walks Hall of Nations as defendant (east entrance, visitors' protocol, grey temporary access badge). Jordanian flag worse (9+ months, lower third dissolving). Touches Khalil's portrait (same gesture). Pen returned to breast pocket 3 weeks post-Ch 50 — writes legal notes in margins of prosecution documents. New notebook (original = Prosecution Exhibit 1, purchased Rue du Rhône). Tribunal Chamber 1 (rectangular, hierarchical — not Committee Chamber 3). Dr. Adeyemi still presides (63 sessions). Exhibit 217 entered (communication logs). NitroCore present as "interested institutional observer" (granted Session 14 over Diallo's objection). Margin note: "217 exhibits. Zero on BLACKWEIR." Post-hearing: Dr. Amara Diallo (lawyer, Diplomatic Personnel Legal Fund) informs him dead-hand transmission arrived via Black Babel relay — 3/7 encryption layers resolved, NitroCore infrastructure routing. Legal advice: don't open (discoverable, converts historical to continuing violation, criminal court referral). Opens it anyway. Content: routing authorizations for Sump conduit capacity expansion, 18 months pre-BLACKWEIR. Pre-positioned. Writes margin question: "Who signed?" Evidence assembling from Mirelle's dead-hand while tribunal assembles his prosecution.
+- **B2 Ch 17:** ~6 months post-BLACKWEIR, days after mid-truth publication. Lagos, FAS Ministry of Infrastructure (Victoria Island). Courtesy access via Mediterranean corridor contact (Kofi, FAS trade liaison, 2158 posting). COURTESY badge (white, FAS federal crest, red strip — third credential in sequence). Reads 40 years of FAS atmospheric compliance data in reading room — conclusions in first paragraph, disorienting after 34 years of UGC conditional framing. Hum quieter (lower density, stays in soles, does not rise into chest). Walk with Minister Adaeze Obiora through Ikoyi Junction — distributed low-density conduit architecture, visible, maintained (service dates 11 days ago). FAS infrastructure summit 41 years ago: vote 14-9 for Proposal B (distributed, lower growth, 60% fewer breaches). "We chose to be poor rather than murderous." Exchange: "Then why are you writing it?" / "Because the record should contain it." FAS intelligence files — 40 years of independent confirmation, same correlation as Sofia, different methodology. "Not incomplete. Not redacted. *Complete.*" Margin notes: "Who would vote for this? / Who has ever voted for this?" Government guesthouse — writes framework document (6 pages, handwritten, UGC submission via Diallo). Article 9, Section 4 invoked — "equivalent throughput capacity" makes it structurally inadmissible. Closing margin note: "The alternative exists. It is sound. It will not be adopted. The pen continues." Lamp off. "The hum continued."
 - **Ch 50:** Publication aftermath Day 3 — São Paulo Wire runs story about the leak, not the evidence. Singapore Feed: "methodology concerns." Sofia Reyes mentioned (parallel release, "under review"). Summons arrives Day 5 — Article 12, Section 8, Accords Compliance Tribunal. Tribunal in Hall of Nations: Dr. Adeyemi presides (Nigerian diplomat, 20-year acquaintance). Five counts of unauthorized disclosure — procedurally correct, content-blind. Evidence displayed as prosecution exhibits. Zeyad says nothing. Deliberation: 41 minutes. Guilty on all five counts. Credentials revoked, access suspended. Biometric panel glows red — office inaccessible. Pen behind locked door (Khalil's pen, 4 generations, purchased Geneva 2039). Photograph behind locked door (Tariq's copy). Jordanian flag still flickering (months). Walks New Geneva — "the record was complete, and the record was public, and the record had changed nothing." FINAL Zeyad POV in Book 1.
 
 **Key Objects Established (Ch 6, updated Ch 17, Ch 30, Ch 45):**
@@ -367,6 +369,8 @@ This bible dimension tracks **current character states**:
 - Grey temporary access badge (B2 Ch 7) — unlaminated, no UGC emblem, institutional negative of credentials; placed on desk nightly as ritual replacement
 - New leather notebook (B2 Ch 7) — purchased Rue du Rhône (same shop as pen, 2039); original notebook is Prosecution Exhibit 1
 - Dead-hand package (B2 Ch 7) — NitroCore routing authorizations via Black Babel relay, 3/7 encryption layers resolved, capacity expansion 18 months pre-BLACKWEIR; remaining 4 layers on time-release
+- COURTESY badge (B2 Ch 17) — white laminated, FAS federal crest (green and gold), red COURTESY strip. Third credential in sequence (diplomatic → grey tribunal → white courtesy). Same desk ritual.
+- Framework document (B2 Ch 17) — 6 pages, handwritten, UGC submission via Diallo. Invokes Article 9 Section 4. Structurally inadmissible ("equivalent throughput capacity"). Will be tabled.
 
 ---
 
@@ -762,7 +766,7 @@ This bible dimension tracks **current character states**:
 | Aurielle | Idealist → Functional Tyrant | 5/5 | Book 2 — SHEPHERD program; complicity self-sustaining |
 | Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
 | Nephthys | Seeker → Prophet → Institution-Builder | 2/5 (B2) | B2 Ch 21 — convergence with Kira achieved; 'Names'; Threshold pressure unresolved; nosebleed escalating |
-| Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
+| Zeyad | Diplomat → Whistleblower → Institutional Defendant | 2/5 (B2) | B2 Ch 17 — Lagos/FAS, alternative model proven, framework document written, Lie stress-tested; next: Ch 31 (Lagos breach) |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
@@ -831,6 +835,10 @@ This bible dimension tracks **current character states**:
 | Aurielle Vasquez | Arc + Recent History | Phase 1/5, Ch 12 last appearance | Phase 4/5 (Transformation); BLACKWEIR executes; watches from operations center (63rd floor); small voice SILENT; hum *Thinner*; "She would authorize the next one too." Walk motif echoes Ch 1. | Ch 37 |
 | Marcus Thorne | Appearance + Recent History | Ch 12 last appearance | Fourth appearance; operational executor — narrates BLACKWEIR engineering junction by junction; pivots to board briefing logistics post-protocol; the project complete | Ch 37 |
 | AEGIS | Arc + Recent History | Pre-debut | Addenda extracted to aegis-addenda.md. book2_aegis_converged removed (old draft). book3_aegis_ending added to project-status. | Audit 2026-02-16 |
+| Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 1/5 (B2), B2 Ch 7 last appearance | Phase 2/5 (B2): Lagos, FAS Ministry. COURTESY badge. 40 years FAS data. Walk with Minister Obiora. Framework document (6pp, handwritten, structurally inadmissible). "The pen continues." | B2 Ch 17 |
+| Minister Adaeze Obiora | New supporting character | — | FAS Minister of Infrastructure and Atmospheric Compliance. Late forties, engineer before minister. Calloused hands, rolled sleeves, plain speech. "We chose to be poor rather than murderous." Potential Phase 3 contact. | B2 Ch 17 |
+| K. Adeyemi | New background character | — | FAS Ministry liaison, Administrative Support, Reading Room 2. Federal uniform. Brings files and coffee. Different person from Dr. Adeyemi (tribunal panel). | B2 Ch 17 |
+| Kofi | New referenced character | — | Mediterranean corridor contact, FAS trade liaison. Worked with Zeyad 2158 posting. Back-channel that opened Lagos access. Named, not present. | B2 Ch 17 |
 | Aurielle Vasquez | Arc + Recent History | Phase 4/5, Ch 37 last appearance | Phase 5/5 (Radiation); board meeting + commendation; corridor walk with Thorne (colleague); Eduardo's office (sandalwood fading, chair learning, hum thinner = normal); small voice merged; executive balcony introduced (not opened); "The Chair opened the next report." SHEPHERD seeded. Final Aurielle chapter Book 1. | Ch 46 |
 | Marcus Thorne | Appearance + Recent History | Ch 37 last appearance | Fifth appearance; victory presenter at board meeting; mentor→colleague transition; seeds SHEPHERD via Anchor Zone "opportunities"; "Already under way." | Ch 46 |
 | Park | New character (background) | — | Board director; raises Al-Fahim disclosure; seconds commendation. Minimal characterization. | Ch 46 |

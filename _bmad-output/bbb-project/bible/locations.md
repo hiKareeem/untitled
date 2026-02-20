@@ -800,5 +800,64 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 ---
 
-_Last updated: 2026-02-19_
-_Updated by: B2 Ch 3 — "The Locked Study" bible update_
+## Lagos, Federation of African States
+
+Lagos is the primary FAS city featured in the narrative. Lower conduit density than grid-dependent cities (New Geneva, Neo-Shanghai). Distributed infrastructure architecture — conduits visible on building facades rather than buried. Hum is present but quieter: stays in the soles, does not rise into the chest. The city that voted for the lower curve.
+
+### FAS Ministry of Infrastructure and Atmospheric Compliance
+
+**Description:** Four-story building on Victoria Island, Lagos. Concrete and glass, functional — "the architecture of a government that had spent its construction budget on load-bearing walls rather than holographic flags." Reading room on second floor, administrative corridor on third.
+
+**Discovered:** B2 Ch 17, by Zeyad Al-Fahim (courtesy access)
+
+**Key Events:**
+- B2 Ch 17: Zeyad reads 40 years of FAS atmospheric compliance data. Conclusions in first paragraph — disorienting. Intelligence files brought by K. Adeyemi. Independent confirmation of nitro-suffering correlation.
+
+**Significance:** The institutional architecture of a government that acts on what it measures. Filing architecture designed for action, not deferral. Contrast with UGC's Hall of Nations.
+
+**Current State:** Active, functioning as designed. Minister Adaeze Obiora in charge.
+
+**Controlled by:** Federation of African States (federal government)
+
+**Atmospheric Notes:**
+- Hum: present but quieter than New Geneva or Neo-Shanghai. Lower conduit density. Stays in soles and ankles, does not rise into chest. "The hum was something he noticed because it was less."
+- Building: concrete floor transmits low-frequency vibration at reduced intensity.
+
+---
+
+### Ikoyi Junction, Lagos
+
+**Description:** Commercial corridor adjacent to FAS Ministry. Conduit infrastructure is not merely visible but architectural — trunk lines along building facades in reinforced channels, clearly labeled, regularly spaced. Junction points marked with maintenance access panels showing service dates stenciled in white paint. Lower-density conduit architecture: no single trunk line carries more than 15% of district capacity. Redundant routing.
+
+**Discovered:** B2 Ch 17, by Zeyad Al-Fahim (walked with Minister Obiora)
+
+**Key Events:**
+- B2 Ch 17: Obiora walks Zeyad through the district. Explains FAS infrastructure summit (41 years ago), Proposal B vote (14-9), distributed architecture. "We chose to be poor rather than murderous." Exchange: "Then why are you writing it?" / "Because the record should contain it." Maintenance crew visible — two workers in federal coveralls, checking conduit access panel.
+
+**Significance:** The physical argument for the alternative model. What infrastructure looks like when designed for resilience rather than efficiency. The hum here "asked nothing." Service dates (11 days ago) contrast with Jordanian flag (9 months).
+
+**Current State:** Active, maintained. Service dates recent.
+
+**Controlled by:** FAS federal infrastructure authority
+
+---
+
+### FAS Government Guesthouse, Lagos
+
+**Description:** Residential compound maintained by FAS Foreign Affairs office for visiting observers. Six blocks from the Ministry. Functional — desk, terminal, bed, window showing Lagos skyline at dusk. Single low-density conduit line along compound wall, junction box at corner, service date stenciled (9 days ago).
+
+**Discovered:** B2 Ch 17, by Zeyad Al-Fahim
+
+**Key Events:**
+- B2 Ch 17: Zeyad writes the framework document (6 pages, handwritten). COURTESY badge placed on desk beside pen. Closing margin note: "The alternative exists. It is sound. It will not be adopted. The pen continues." Lamp off. "The hum continued."
+
+**Significance:** The guesthouse is where Zeyad produces — contrast with New Geneva diplomatic residence (where he receives). The desk ritual (badge, pen, notebook) persists across three credentials and two continents.
+
+**Current State:** Active. Zeyad present as visiting observer.
+
+**Controlled by:** FAS Foreign Affairs office
+
+---
+
+_Last updated: 2026-02-20_
+_Updated by: B2 Ch 17 — "The Other Model" bible update_

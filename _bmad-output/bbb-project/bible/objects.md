@@ -665,18 +665,20 @@ An object deserves documentation if it:
 **Description:**
 - Appearance: Metal pen, antique mechanism, uses modern archival-grade synthetic ink (permanent, black)
 - Function: Writing instrument — but its true function is operational security. Ink on paper cannot be remotely deleted, retroactively classified, lost in server migration, or overwritten during system update.
-- Condition: Inaccessible — behind locked office door (Ch 50, credentials revoked)
+- Condition: Original inaccessible (behind locked office door, Ch 50). New pen acquired B2 Ch 7 — same function, different provenance.
 
-**Significance:** "Operational security disguised as nostalgia, and the disguise worked precisely because it looked like nostalgia." The pen is Zeyad's primary tool — documentation as action, ink as indelible record. The provenance chain (Khalil → Tariq → Kamal → Zeyad) mirrors the inherited duty of the Accords across four generations. The pen becomes critical when Zeyad publishes — the physical record survives classification attempts.
+**Significance:** "Operational security disguised as nostalgia, and the disguise worked precisely because it looked like nostalgia." The pen is Zeyad's primary tool — documentation as action, ink as indelible record. The provenance chain (Khalil → Tariq → Kamal → Zeyad) mirrors the inherited duty of the Accords across four generations. The pen becomes critical when Zeyad publishes — the physical record survives classification attempts. B2: new pen, same habit. The habit outlasts the heirloom.
 
-**Current Owner:** Zeyad Al-Fahim (inaccessible)
-**Location:** Behind locked office door, New Geneva UGC building (credentials revoked Ch 50)
+**Current Owner:** Zeyad Al-Fahim (original inaccessible; new pen active)
+**Location:** Original: behind locked office door, New Geneva. New: Lagos government guesthouse desk drawer (B2 Ch 17)
 
 **History:**
 - Ch 6: Used throughout — margin annotations on printed agenda, notebook entries, formal data request. "The pen moved easily. Black ink on cream paper."
 - Ch 17: Writes in both records — institutional annotations and unlogged back-channel intelligence. Same instrument, different function.
 - Ch 45: "In the notebook, the pen moved." First movement in days — writes the public statement. Then set down: "The pen was beside it — not in his hand anymore." The pen's arc: held → paralyzed → moves → released.
 - Ch 50: Behind locked door. Biometric panel glows red. "The pen was behind a door he could not open." Pen provenance confirmed: purchased Geneva 2039, 5 years before signing. The pen's arc complete: held (Ch 6) → writes both records (Ch 17) → beside notebook (Ch 30) → set down (Ch 45) → inaccessible (Ch 50).
+- B2 Ch 7: New pen returned to breast pocket (3 weeks post-Ch 50). Writes legal notes in margins of prosecution documents. "He began to write."
+- B2 Ch 17: Writes margin notes on FAS reports, framework document (6 pages), closing margin note. Into desk drawer at guesthouse. "The pen continues." The habit outlasts the institution. Arc extended: inaccessible (Ch 50) → returned (B2 Ch 7) → produces (B2 Ch 17).
 
 ---
 
@@ -694,14 +696,16 @@ An object deserves documentation if it:
 
 **Significance:** The notebook is the gap between the institution's record and Zeyad's own. It contains the questions the pipeline cannot process: pattern observations, procedural anomalies, five questions about Arctic-7. When Zeyad becomes a whistleblower, the notebook IS the evidence — timestamps, margin annotations, the record of everything the institution's process was designed to delay.
 
-**Current Owner:** Zeyad Al-Fahim (inaccessible)
-**Location:** Behind locked office door, New Geneva UGC building (credentials revoked Ch 50)
+**Current Owner:** Zeyad Al-Fahim (original inaccessible; new notebook active)
+**Location:** Original: behind locked office door / prosecution exhibit. New: Lagos government guesthouse desk drawer (B2 Ch 17)
 
 **History:**
 - Ch 6: Arctic-7 observations recorded. Five questions written in ink: "Who contained it. When. At whose authorization. What required containment. Where are the personnel."
 - Ch 17: Bifurcated — now contains two categories: institutional observations (loggable) and back-channel intelligence (not). "I did not log this exchange" written in ink.
 - Ch 45: Photographed and attached to public statement. The private record becomes public evidence. Pages including "I did not log this exchange" now published through Black Babel relay. The five questions from Ch 6 have multiplied into forty-seven.
 - Ch 50: Displayed as prosecution exhibit at tribunal — "I did not log this exchange" scrolled on screen behind Zeyad. The private record weaponized against its author. Physical notebook behind locked door.
+- B2 Ch 7: New notebook purchased (Rue du Rhône, same shop). Original = Prosecution Exhibit 1. Writes margin notes on prosecution documents. "Who signed?"
+- B2 Ch 17: Fills with margin notes on FAS data. Analysis of Article 9, Section 4. "Who would vote for this? / Who has ever voted for this?" Framework document (6 pages). Closing note: "The alternative exists. It is sound. It will not be adopted. The pen continues." Into desk drawer. The private record expanding again — now contains institutional analysis of the alternative model + the admission that the record changes nothing.
 
 ---
 
@@ -727,6 +731,8 @@ An object deserves documentation if it:
 - Ch 17: Present as standard — the face beneath the practiced smile "closer to Khalil's."
 - Ch 45: Touched during morning walk (cool frame, ritual eroding). Later touched deliberately before writing statement — reframed as precedent: "the alternative to signing was worse" applied to the alternative to filing. 41 original signatories visible in the photograph (fabric flags, not holographic).
 - Ch 50: Hall version — Zeyad stops at portrait en route to tribunal but does NOT touch the frame. Morning walks stopped. Desk version — behind locked door (credentials revoked). Both versions now inaccessible in different ways: the Hall portrait is reachable but the ritual is broken; the desk copy is physically locked away. Portrait arc: touched unconsciously (Ch 6) → touched deliberately (Ch 30) → not touched (Ch 50, corridor) → inaccessible (Ch 50, office).
+- B2 Ch 7: Hall version touched (same gesture, defendant's entrance). Desk version still inaccessible.
+- B2 Ch 17: Both versions absent — Zeyad is in Lagos. No portrait, no photograph. Only Khalil reference is indirect: Article 9, Section 4 (the Accords Khalil helped draft prevent the alternative model). The absence is the anchor's absence — Zeyad in a city where his family's legacy is not on the wall.
 
 ---
 

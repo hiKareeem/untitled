@@ -356,4 +356,41 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 17 — "The Other Model" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-institutional (arrival/reading room) → medium-sustained (data disorientation) → rising (Obiora walk/confrontation) → peak ("We chose to be poor rather than murderous" / "Because the record should contain it") → medium-sustained (intelligence files/analytical recognition) → rising (margin-note despair / Mirelle reflection) → resolving-sustained (framework document) → stillness ("The hum continued")
+**Pacing:** Four-scene structure, evenly distributed. No single scene dominates. Gradual build through data accumulation → interpersonal confrontation → analytical synthesis → solitary production. The chapter decelerates into its closing rather than compressing.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Ministry / reading room | ~800 | Low → medium | Institutional arrival. Data formatting disorientation. Hum register shift. Quiet opening. |
+| Walk with Obiora | ~1,000 | Rising → peak | Kinetic center. Physical movement. Infrastructure visible. Plain speech. "Poor rather than murderous." The exchange. |
+| Intelligence files | ~1,000 | Medium → rising | Analytical focus. Negation-before-assertion. Margin notes accumulate. Mirelle reflection. "Who would vote for this?" |
+| Guesthouse / framework document | ~900 | Sustained → resolving | Solitary production. Framework document. Closing margin note. Lamp off. "The hum continued." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "The paper was older. The data was the same." / "He knew this. He wrote it anyway." / "The hum continued." Single-line declaratives terminate institutional-accumulation paragraphs.
+- Reading room scene establishes a new rhythmic environment: FAS data formatting (conclusions first, 15 sentences, 3 paragraphs) against Zeyad's expectation of UGC formatting (17 sections of contextual framing). The disorientation is rhythmic — the prose enacts the contrast between institutional registers.
+- Obiora walk is the chapter's kinetic center — the only scene with physical movement through space. Her dialogue creates staccato against Zeyad's longer interior paragraphs. The exchange ("You are going to put that in a report" / "Yes" / "And the committee will table it" / "Yes") is the chapter's shortest dialogue at its emotional peak. Maximum compression.
+- Intelligence files scene is the analytical center — longest paragraphs, densest institutional vocabulary, margin notes fragmenting the prose rhythm. The negation-before-assertion ("Not incomplete. Not redacted. *Complete.*") provides the scene's rhythmic event.
+- Framework document scene decelerates — no dialogue, no external interaction, the pen moving through six pages. The rhythm is accumulative rather than punctuated. The closing four paragraphs slow to near-stillness: notebook closed → pen on desk → skyline dark → picks up pen → final margin note → lamp off → "The hum continued." The deceleration is deliberate — the chapter ends at its quietest rather than compressing.
+- "The hum continued." — two words. Shortest closing sentence in any Zeyad chapter. Ch 7 ended on the pen ("He began to write."). Ch 17 ends on the infrastructure. The rhythmic shift from pen-as-closing to hum-as-closing tracks the chapter's thematic movement.
+
+**Dialogue Percentage:** ~8% (concentrated in Obiora walk scene; reading room and guesthouse are solo narration)
+
+**Pacing Concern:** Reading room scene risks feeling static — Zeyad reading reports is inherently low-kinetic. Mitigated by the formatting contrast (FAS vs. UGC data architecture) and the hum register shift (physical sensation, not just data). The disorientation provides the scene's tension. The walk scene immediately follows, providing kinetic contrast.
+
+**Structural Note:** Ch 17 paired with Ch 7 forms Zeyad's Phase 1→2 unit. Ch 7: tribunal (institutional), Hall of Nations (ceremonial), evidence received (dead-hand), New Geneva (home institution). Ch 17: ministry (functional), Lagos (foreign institution), evidence produced (framework document), FAS (alternative institution). Same public-to-private trajectory, inverted direction: Ch 7 moves from institutional processing (tribunal) to private reception (opens package). Ch 17 moves from institutional encounter (reading room, Obiora) to private production (writes framework document). Ch 7 ended with Zeyad beginning to write. Ch 17 ends with Zeyad putting the pen down.
+
+**Comparison to Ch 7:**
+- Ch 7: ~3,500 words, New Geneva, tribunal/institutional, contemplative-to-received, "He began to write."
+- Ch 17: ~4,200 words, Lagos, encounter/analytical, confronted-to-produced, "The hum continued."
+- Together: institutional defendant → institutional producer → the posture is the same (pen, notebook, badge, desk). The institutional man's rhythm doesn't change when the geography does. The habit runs on different infrastructure.
+
+**Cross-Chapter Rhythm:** Ch 15 (Nikolai) → Ch 16 (Kira) → Ch 17 (Zeyad) — three consecutive TEXTURE chapters in different geographies processing the same mid-truth. Ch 15 is operational/dual-peak (containment + commission). Ch 16 is emergent/escalating (expulsion → vocabulary → choice). Ch 17 is analytical/decelerating (data → confrontation → synthesis → stillness). The rhythmic sequence: action → emergence → reflection. Three tempos, three registers, same revelation.
+
+---
+
 _Last updated: 2026-02-20_
