@@ -452,4 +452,38 @@ The three-register structure is the chapter's formal argument: the convergence i
 
 ---
 
+---
+
+### Chapter 26 — "The Pattern in the Response" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth Without Power | Dominant | The sacrifice district correlation is true, cross-jurisdictional, defensible — and will not change the infrastructure. The de-escalation proposal is the chapter's moral center: technically sound, politically impossible, written anyway. "The obligation doesn't end because the audience is insufficient." |
+| Systemic Complicity | Dominant | The circuit: infrastructure → throughput → breaches → designation → more infrastructure. "Not a failure of the response. A feature." The system adapted to the mid-truth the same way it adapted to ignorance: by protecting the architecture. |
+| Radicalization vs. Reform | Strong | The Erasure List as anti-institution assembled by institutional suppression. The proposal as reform instrument. "The system had created the conditions for its own audit by suppressing the auditors into a network that operated outside the system's reach." |
+| Institutional Collapse vs. Continuity | Strong | The institution continues. The grid runs. The kettle draws power from the same infrastructure whose twelve-percent reduction Sofia is modeling. The hum at 1.4x amplitude is the continuity made physical. |
+| Complicity's Aftermath | Moderate | Verschuur's two years of sitting on data. Tanaka's suppressed findings. The 31 researchers from 12 countries who contributed what their institutions suppressed. The Erasure List is what complicity's aftermath looks like when the expelled find each other. |
+
+**Key Resonance:** Truth Without Power ↔ Systemic Complicity. The correlation is true and the system will not change because the system's response to truth is to build more of itself. The proposal is the chapter's moral act — not because it will work, but because the obligation is not contingent on the audience. The gap between knowing and doing is where Sofia lives. The chapter does not close the gap. It documents the attempt.
+
+**Epigraph Integration:** "The instrument cannot distinguish between a signal that has changed and an instrument that has been moved. Both produce the same reading. The distinction is institutional." (VEC internal methodology archive, attribution redacted, 2173)
+- First read: calibration methodology note — instrument drift vs. signal change.
+- Re-read: the chapter's epistemological argument. Institutions adapt to truth by repositioning their instruments (monitoring points, sacrifice district boundaries, classification directives) rather than acknowledging the signal. The sacrifice district boundary moved to follow the infrastructure. The instrument was moved. The reading changed. The signal did not.
+- "Attribution redacted" — someone at VEC understood this and VEC removed their name. The epigraph is itself an instance of the mechanism it describes.
+- AEGIS as invisible novelist: reconstructing from the institutional archive — the methodology note that predates BLACKWEIR by two years, written by someone who saw the circuit and was erased from the record.
+
+**Sofia's Lie Arc (Phase 3 update):**
+- B1 Ch 5: "Not yet was not the same as nothing." The Lie as suspended decision.
+- B1 Ch 15: "It was becoming a choice." The Lie as threshold.
+- B1 Ch 27: "The discipline had no framework." The Lie cracking.
+- B1 Ch 33: Transmits to Black Babel. The Lie as action.
+- B1 Ch 41: "The data had prevented nothing." The Lie tested.
+- B2 Ch 11: "Mirelle would have made it a better story." The Lie as inheritance.
+- B2 Ch 20: "The instrument was wrong for the moment." The Lie acknowledged.
+- **B2 Ch 26: "The science was the science. Twelve percent was twelve percent. What happened to the number after was not her department — except that it was." The Lie in Phase 3 form: the moral obligation is not contingent on the audience. The science is insufficient. She produces it anyway. The Lie is no longer about whether science is moral — it is about whether the moral act is enough. It is not. She does it anyway.**
+
+**Cross-Chapter Thread — Phase 3 Sofia:** Ch 26 (correlation + proposal) → Ch 35 ("Synchronization" — Phase 4 setup, Voice approaching) → Ch 44 ("The Object Speaks" — post-Voice, void transmitting back). The proposal exists. It will be ignored. When the void speaks, the question changes from "what do we do with the data?" to "what do we do when the data speaks back?"
+
+---
+
 _Last updated: 2026-02-20_

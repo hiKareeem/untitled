@@ -621,11 +621,11 @@ This bible dimension tracks **current character states**:
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 5/5 (New Equilibrium — mid-truth published)
-- Emotional State: Exhausted, determined, waiting. The data is public. The world has not changed shape. The gap between "people know" and "people act" is the test she inherits from Mirelle.
-- Dominant Beliefs: "The data is clean. Defensible. Corroborated." — suppression produced BLACKWEIR, therefore publication is the pragmatic moral act, even if insufficient
-- Internal Contradictions: Published the most important document in human history; expects it to enter the news cycle "loudly, briefly, insufficiently." Knows institutions absorb inconvenient truth the way the void absorbs people.
-- **B2 Ch 11 state:** Mid-truth published through Black Babel. Involuntarily reassigned to remote monitoring (still technically VEC-employed, VEC housing). Termination expected. Acting fully outside institution.
+- Phase: 3/5 B2 (Weaponization — sacrifice district correlation mapped, de-escalation proposal begun)
+- Emotional State: The specific exhaustion of someone who has been right about everything and changed nothing, drafting the next right thing. Not despair. Not hope. The moral obligation has outlasted every instrument she has used to fulfill it.
+- Dominant Beliefs: "The science is the science. The obligation doesn't end because the audience is insufficient."
+- Internal Contradictions: Knows the de-escalation proposal will be ignored. Writes it anyway. The gap between knowing and doing is the gap she lives in. She has stopped waiting for it to close.
+- **B2 Ch 26 state:** VEC terminated, housing clock expired (used 27 of 30 days on analysis). New apartment, Mid-Levels 39th floor, 4 blocks from sacrifice district boundary. Erasure List working group assembled (31 researchers, 12 countries). Sacrifice district correlation documented (0.89-0.95, 14 cities, 4 jurisdictions). De-escalation proposal begun: 12% global nitro reduction, staged, technically sound, politically impossible.
 
 **The Lie:** Science is inherently moral
 
@@ -640,10 +640,10 @@ This bible dimension tracks **current character states**:
 | Black Babel | Source network | New (Phase 3) | Her first rogue act — providing atmospheric convergence data |
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
-**Current Arc:** Institutional Scientist → Rogue Scientist
-- Current Phase: 5/5 (New Equilibrium — mid-truth published via Black Babel)
-- Progression: Phase 5 reached (Book 2 Ch 11)
-- Next Step: Ch 20 — "The News Cycle" — watches the world's response
+**Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst
+- Current Phase: 3/5 B2 (Weaponization — correlation mapped, proposal begun)
+- Progression: B2 Phase 3 reached (Book 2 Ch 26)
+- Next Step: Ch 35 — "Synchronization" — Phase 4 setup, Voice approaching
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -655,9 +655,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Book 2 Chapter 11 ("The Assembly") — 6th POV chapter
-- Previous: B1 Ch 5 (Phase 1), B1 Ch 15 (Phase 2), B1 Ch 27 (Phase 3), B1 Ch 33 (Phase 3), B1 Ch 41 (Phase 4)
-- Next Planned Appearance: Book 2 Ch 20 ("The News Cycle")
+- Last Appearance: Book 2 Chapter 26 ("The Pattern in the Response") — 8th POV chapter
+- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20
+- Next Planned Appearance: Book 2 Ch 35 ("Synchronization")
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
@@ -672,6 +672,10 @@ This bible dimension tracks **current character states**:
 - **Emotional arc (Ch 41):** Scientific urgency → engineered-horror recognition → institutional frustration (locked out) → controlled observation → physical overwhelm (spike) → analytical absorption (fragments) → horror-as-data → calm-as-instrument-reading → archival resolve → impotent clarity
 - **B2 Ch 11:** Mid-truth assembled and published. Working from VEC-affiliated apartment (61st floor) — involuntarily reassigned to remote monitoring post-BLACKWEIR (Liang memo, Classification Directorate countersignature). Lab access revoked, immersion pod suspended. Synthesized three independent datasets: her atmospheric data, Mirelle's dead-hand evidence cache (7 packages over 6 weeks, now with Mirelle's name attached), mage network biological corroboration (47 R3 individuals, 9 cities). Wrote hybrid document (12pp accessible core + 43pp technical appendices). Attribution: Mirelle Dubois (posthumous, The Wire), Dr. Maren Solberg (silenced, VEC 2170), anonymous mage network (47/9 cities), Dr. Sofia Reyes (suspended). Published via Black Babel at 21:47 local — irreversible distribution, 10,000+ nodes within an hour. "Mirelle would have made it a better story."
 - **Emotional arc (B2 Ch 11):** Focused intensity (correlation check) → evidence weight (Mirelle's name, Solberg's precedent) → writing as translation (institutional → accessible) → quiet determination (pressed confirm) → deliberate anticlimax (coffee, window, city unchanged) → inherited doubt (news cycle will be loud, brief, insufficient)
+- **B2 Ch 20:** Monitors world's response to publication. Five institutional responses observed: NitroCore independent review (former consultants), VEC termination notice, Church first encyclical, Threshold contradiction, Kindling annotated distribution. Hears Nephthys's name for first time (Feed anchor). Recognizes scientific publication as wrong instrument for the moment. Field kit: only instrument not subject to institutional recall. "The document was now a data point in someone else's debate."
+- **Emotional arc (B2 Ch 20):** Monitoring focus → institutional response taxonomy → the world metabolizing truth → termination notice → recognition (wrong instrument) → aftermath quiet
+- **B2 Ch 26:** VEC housing clock expired (27 of 30 days used on analysis). Moved to Mid-Levels 39th floor rental — boxes still in hallway, field kit set up first. Working with Erasure List working group (31 researchers, 12 countries, anonymized channel through Black Babel). Sacrifice district correlation: boundary follows conduit infrastructure at 0.89-0.95 across 14 cities, 4 jurisdictions. "Every sacrifice district is a BLACKWEIR in waiting. Not a prediction. A measurement." "Not a failure of the response. A feature." Began drafting de-escalation framework: 12% global nitro throughput reduction, staged 3%/quarter over 4 quarters. Technically sound. Target audience unspecified. Politically impossible.
+- **Emotional arc (B2 Ch 26):** Focused work (new apartment, field kit operational) → collaborative momentum (Erasure List channel, first time not working alone) → correlation closes (the circuit visible) → horror of recognition (the system is completing a circuit, not failing) → the proposal as response (three untyped messages, the gap between knowing and doing) → midnight, boxes still unpacked, hum louder, designation markers 4 blocks east
 
 ---
 
@@ -908,6 +912,9 @@ This bible dimension tracks **current character states**:
 | Sofia Reyes | Arc + Recent History | Phase 4/5, B1 Ch 41 last appearance | Phase 5/5 (New Equilibrium); mid-truth published via Black Babel; involuntarily remote from VEC; three datasets synthesized; hybrid document (55pp); attribution: Mirelle/Solberg/mages/Sofia; 10,000+ nodes; "Mirelle would have made it a better story" | B2 Ch 11 |
 | Mirelle Dubois | Diegetic presence update | Dead-hand cache distributing | Dead-hand cache fully decrypted (7 packages/6 weeks); evidence integrated into Sofia's mid-truth; attributed by name (posthumous); identity known to Sofia | B2 Ch 11 |
 | Sofia Reyes | Arc + Recent History | B2 Ch 11 last appearance | Institutional identity fully severed: employment terminated (VEC), 30-day housing clock active. Monitoring coverage decay from 61st-floor apartment. Five institutional responses observed: NitroCore independent review (former consultants), VEC termination notice, Church first encyclical ("The Voice Is Not Wounded"), Threshold contradiction, Kindling annotated distribution. Hears Nephthys's name for first time (Feed anchor). Recognizes scientific publication as wrong instrument for the moment. The Lie completed: science worked, world responded with methodology concerns. Field kit: only instrument not subject to institutional recall. "The document was now a data point in someone else's debate." | B2 Ch 20 |
+| Sofia Reyes | Arc + Recent History | B2 Ch 20 last appearance | 30-day housing clock expired (27 days used on analysis). Moved to Mid-Levels 39th floor rental — boxes still in hallway, field kit set up first. Erasure List working group: 31 researchers, 12 countries, anonymized channel through Black Babel. Sacrifice district correlation: boundary follows conduit infrastructure at 0.89-0.95 across 14 cities, 4 jurisdictions. "Every sacrifice district is a BLACKWEIR in waiting. Not a prediction. A measurement." "Not a failure of the response. A feature." De-escalation framework begun: 12% global nitro throughput reduction, staged 3%/quarter over 4 quarters. Technically sound. Target audience unspecified. Politically impossible. | B2 Ch 26 |
+| Dr. Yuki Tanaka | New character (Erasure List) | — | Seismologist, PCC Osaka administrative zone. Handle: [TANAKA-OAZ]. Sacrifice district data: Osaka, Nagoya, Bay Area zone (0.91-0.94). 37-city PCC infrastructure topology uploaded. First Erasure List contact. "I know." — two words, deliberate echo of Novak's B2 Ch 4 register. | B2 Ch 26 |
+| Dr. Anouk Verschuur | New character (Erasure List) | — | Infrastructure resonance specialist, European See. Handle: [VERSCHUUR-ESE]. 7 European cities (Rotterdam, Hamburg, Lyon, Turin, Gdańsk, Bratislava, Thessaloniki), correlation 0.89-0.95. VEC European monitoring division classified her study in 2174 (pre-BLACKWEIR — proactive suppression, same pattern as Solberg and Reyes). "Methodology concerns" — identical methodology to VEC's own internal assessments. "We all know. That is why we are here and not in our labs." | B2 Ch 26 |
 | Mirelle Dubois | Referenced (coverage) | B2 Ch 11 last diegetic appearance | Named in day 1-3 coverage, receded by day 4 — "the Reyes publication" displaces "Dubois evidence." Attribution correct; attribution insufficient. A name on a page is not a byline on a story. | B2 Ch 20 |
 ### Malachi
 

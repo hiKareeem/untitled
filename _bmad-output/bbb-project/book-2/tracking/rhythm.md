@@ -665,4 +665,45 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+---
+
+### Chapter 26 — "The Pattern in the Response" (Sofia Reyes)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-focused (new apartment, boxes, field kit operational) → building (Erasure List channel, data assembling) → accelerating (correlation closes — the circuit) → peak (thesis: "Not a failure. A feature.") → pivot (channel: "What do we do with it?") → sustained-quiet (de-escalation proposal, the number) → contemplative-resolving (midnight kitchen, hum louder, boxes still unpacked)
+**Pacing:** Four-beat structure. Channel exchanges front-load the collaborative energy (~30%). Correlation analysis is the chapter's intellectual peak (~25%). De-escalation section is quieter, more internal (~30%). Kitchen/closing provides the structural beat (~15%).
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| New apartment (boxes, field kit, hum louder) | ~500 | Low-focused | Slow, environment-establishing. Priorities visible: field kit before boxes. VEC manifest in italics — institutional typography as recurring motif. |
+| Erasure List channel (first section — Tanaka, Verschuur, correlation) | ~700 | Building → accelerating | Channel exchanges staccato against Sofia's analysis paragraphs. Data assembling in real time. "The boundary followed the pipes." — single-sentence isolation at the correlation's close. |
+| The circuit (correlation analysis) | ~600 | Accelerating → peak | Dense analytical paragraphs punctuated by isolated declaratives. "The system was not responding to the crisis. The system was completing a circuit." / "Not a failure of the response. A feature." — the chapter's highest tension point. |
+| Channel (second section — "What do we do with it?") | ~400 | Peak → pivot | "I know." — two words, eleven-second silence. The pivot from analysis to proposal. Three untyped messages carry the emotional weight. |
+| De-escalation proposal | ~700 | Sustained-quiet | Internal, methodical. The number (twelve percent) as the section's anchor. "She checked the number four times." Long analytical paragraphs, no channel exchanges. The gap between knowing and doing. |
+| Midnight kitchen / closing | ~300 | Contemplative → resolving | Maximum compression. Coffee, counter, hum louder. Designation markers 4 blocks east (not looked at). Channel update (Tanaka: 37 cities). "The boxes could wait." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "The boundary followed the pipes." / "The circularity was the mechanism." / "Twelve percent." / "The boxes could wait." Single declaratives terminate dense data/institutional paragraphs.
+- Channel exchanges create a staccato rhythm against Sofia's analysis paragraphs — the collaborative energy of the Erasure List contrasted with Sofia's solo analytical voice. The channel is fast; the analysis is slow. The chapter alternates between them.
+- "Twelve percent." — single-sentence paragraph. The chapter's number, isolated. Functions like "0.7 Hz" (Ch 4), "0.98" (Ch 4 Novak scene), "55 pages" (Ch 11). The isolation gives the number its weight.
+- The three untyped messages (what Sofia does not type) are the chapter's emotional payload — the gap between what she knows and what she communicates. The rhythm slows here: each untyped message is a full paragraph, dense, ending in silence.
+- "The boxes could wait." — closing line. The bookend device (opening: "boxes still in the hallway") closes on the same image. The work continued. The boxes waited. The rhythm ends on the same note it opened on: focused, instrumental, the domestic deferred.
+- Italics used for institutional language (*Personal effects: 11 containers...*, *available*, *what*, *what next*, *politically impossible*) — the same institutional typography pattern as Ch 11 (reassignment memo) and Ch 20 (termination notice).
+
+**Dialogue Percentage:** ~12% (concentrated in two channel sections; apartment, correlation analysis, and de-escalation sections are solo narration/interior)
+
+**Pacing Concern:** The de-escalation section risks feeling like a technical document (the proposal's methodology). Mitigated by: (1) the three untyped messages establishing the emotional register before the proposal begins, (2) "the gap between knowing and doing" as the section's explicit frame, (3) the kitchen closing providing register drop after the proposal's density.
+
+**Structural Note:** Ch 26 is the first Sofia B2 chapter with dialogue. The channel format solves the no-dialogue problem while maintaining her register — researchers don't chat, they share data. The handle format ([SURNAME-JURISDICTION]) preserves anonymization texture. The chapter's emotional payload is in what Sofia does NOT type, not in what she does.
+
+**Comparison to Ch 20:**
+- Ch 20: ~3,800 words, news cycle monitoring, aftermath register, zero negation-before-assertion instances, "repetition-before-revelation" as structural substitute. Closing: "Known and insufficient. Known and metabolized."
+- Ch 26: ~4,200 words, active analysis + proposal, forward-focused register, 2 negation-before-assertion instances at thesis weight. Closing: "The boxes could wait."
+- The rhythm has shifted from aftermath (Ch 20) to active assembly (Ch 26). The emotional register has shifted from watching the world metabolize truth to building the next instrument. The instrument is still insufficient. The building continues.
+
+**Cross-Chapter Rhythm:** Ch 25 (Nikolai, honest report) → Ch 26 (Sofia, sacrifice district correlation). Phase 3 continues on two characters who have produced true things into systems that will process them as anomalies. Nikolai's honest report is filed; the CO will flag it. Sofia's correlation is assembled; the proposal will be ignored. Both chapters end on the same structural note: the work is done, the system continues, the person inside it has nowhere to stand except at the desk.
+
+---
+
 _Last updated: 2026-02-20_

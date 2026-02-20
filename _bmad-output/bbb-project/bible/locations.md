@@ -182,7 +182,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Stratum:** Middle
 **RCI Range:** 8–15
-**Characters Present:** Nikolai (deployed), Mirelle (mobile)
+**Characters Present:** Nikolai (deployed), Mirelle (mobile), Sofia Reyes (B2 Ch 26+)
 
 **Resources:**
 - Commercial districts (abundant)
@@ -198,6 +198,12 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Key Events:**
 - **Ch 11:** Stalker-7 deploys to Level 7 residential breach, junction housing 7-14. Three absorbed (civilian woman, civilian man embedded in wall, conduit tech embedded in junction housing). RCI 14.2-14.6 (anomalous for stratum). Hum near junction carries perceived name (Corporal Deng). Containment successful, area secured.
 - **Ch 38:** BLACKWEIR perimeter enforcement at Sump/Mid-Level boundary (south sector). Stalker-7 holds line at Junction 12. Blast doors seal at 06:17. Emergency broadcast cycling 640+ times. 69 civilians redirected ("Return to your residence"). Absorption front advances through Junction 14-East via unsevered secondary service conduit — institutional gap in severance work orders. Jarek Kowalski absorbed at 16:47. Garrison south sector used for post-deployment processing.
+
+**New sub-locations (B2 Ch 26):**
+- **Sofia's Apartment (39th floor, Mid-Levels residential block):** Non-VEC-affiliated rental unit. Secondhand desk (purchased from transit corridor dealer — price less than one calibration cycle of the immersion pod). Kitchen 2 meters from desk (vs. 3 at VEC housing). No acoustic dampening. Conduit density higher than 61st-floor VEC tower — hum at 1.4x amplitude, audible without instruments. 4 blocks east of sacrifice district boundary (designation markers visible from window). Field kit set up before boxes unpacked. Encrypted terminal beside field kit on the desk. 11 boxes in hallway (3 unpacked as of B2 Ch 26). Sofia's base of operations from B2 Ch 26 forward.
+
+**Key Events (B2):**
+- **B2 Ch 26:** Sofia moves in after 30-day VEC housing clock expires (27 days used on analysis). Erasure List channel open. Sacrifice district correlation assembled (14 cities, 0.89-0.95). De-escalation framework begun. Midnight: boxes still in hallway, hum through walls, designation markers 4 blocks east.
 
 **Significance:** The buffer zone between Sump expendability and Spire privilege. Where "normal" is maintained longest.
 
