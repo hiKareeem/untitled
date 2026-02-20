@@ -869,6 +869,9 @@ This bible dimension tracks **current character states**:
 - Folded hands (institutional posture — thumbs aligned, habitual, involuntary)
 - Forty-three steps (counted distance between public office and locked study)
 
+**Voice Register:**
+- **No contractions** in narration or dialogue — institutional-ecclesiastical register (same discipline as Nephthys). Sentences sound like institutional documents spoken aloud. The private voice in the locked study uses longer, more subordinate-clause-heavy constructions than the council register, but neither uses contractions. Established B2 Ch 3.
+
 **Continuity Notes:**
 - Silenced Nephthys 3 years prior (age 60, now 63) — "I know," prescribed suppressants, convened tribunal
 - Arch-Prelate for 22 years (age 41-63)
@@ -881,7 +884,7 @@ This bible dimension tracks **current character states**:
 ---
 
 | Nephthys | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Prophet institutionalizing. Counter-liturgy established (~6 months). 17 at session (12 core + arrivals). Chorus denser/reorganizing — tracking "syntax" (pattern of patterns). Nosebleeds escalating (0→1→3/week). Hides nosebleed during session. Refuses to name what she is building. "I am fine" ritual lie deployed. Imani raises succession question — deflected ("Not tonight"). Pastoral exchanges: Lagos excommunicate (warmth), Sump worker (Trunk-Line 4-East, hears 6 voices). Closing: "They were still here. All of them. And they were not finished." | B2 Ch 2 |
-| Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Six months managing Cathedral operations. Tracks nosebleed escalation (data: 0→1→3/week). Names tumor directly. Raises succession question: "you have not named a successor." Spatial vocabulary: stands in front (confrontation), not beside (logistics). Measuring look held 3-4-5 seconds. Stocks cloths, manages medical kit, counts attendees. Contractions in speech ("It's both") — voice differentiated from Nephthys (no contractions). "The cloths need washing. We're running low." | B2 Ch 2 |
+| Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Six months managing Cathedral operations. Tracks nosebleed escalation (data: 0→1→3/week). Names tumor directly. Raises succession question: "you have not named a successor." Spatial vocabulary: stands in front (confrontation), not beside (logistics). Measuring look held 3-4-5 seconds. Stocks cloths, manages medical kit, counts attendees. Contractions in speech ("It's both") — voice differentiated from Nephthys (no contractions). "The cloths need washing. We're running low." **Voice register: contractions permitted, casual/young register. Established B2 Ch 2.** | B2 Ch 2 |
 | Sump Worker (unnamed) | New supporting character | N/A | NitroCore maintenance, Trunk-Line 4-East, Section 4, 31 years. Perimeter survivor — watched BLACKWEIR from outside absorption zone. Hears six voices (his shift) through stone floor. Chronic red eyes (6 months). Stays overnight in side chapel. Not yet joined counter-liturgy session. | B2 Ch 2 |
 
 | Aurielle Vasquez | Arc + Recent History | Phase 5/5, B1 Ch 46 last appearance | B2 Phase 1/5 (Aftermath). ~6 months post-BLACKWEIR. Quarterly board meeting. Eduardo's impression gone from leather. Stock recovered (eleven-day dip). Containment reclassified as "infrastructure investment." Hargrave (COO) presents financials. Marchetti (VP Strategic Development, post-BLACKWEIR role) presents atmospheric data: "commercial applications pending review." Conductivity 3x (board) / 7x (actual). Thorne sits beside her — dynamic fully inverted. SHEPHERD as unnamed R&D line item. Personnel auth: 6-person team (internal transfers). Four-month delay deliberate — "infrastructure before intervention." Small voice integrated. Wrist rotation continues (x2, unconscious). "The method survived the person. The person was the part that did not compound." Closing: "The Chair opened the next report." | B2 Ch 1 |
@@ -899,5 +902,8 @@ This bible dimension tracks **current character states**:
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
 
-_Last updated: 2026-02-19 (B2 Ch 7 — Zeyad "Due Process")_
+**Nuwa Lin — Voice Register Note (established B2 Ch 8):**
+- **Contractions permitted** in narration and internal voice — working-class/practical register (same discipline as Imani, opposite of Nephthys/Malachi). Examples: "She'd stopped seeing it," "She couldn't repair it," "It wasn't a home yet." Register reflects Sump upbringing, maintenance-worker household, no institutional or theological formation. Do not apply no-contraction rule to Nuwa.
+
+_Last updated: 2026-02-19 (B2 Ch 7 — Zeyad "Due Process"; contraction rules added for Malachi + Nuwa per audit 2026-02-19)_
 _Updated by: Chapter-write workflow (full mode)_

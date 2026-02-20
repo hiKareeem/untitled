@@ -4,7 +4,7 @@ stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self
 lastStep: 'step-06-bible-update'
 chapterNumber: 6
 draftVersion: 1
-createdDate: '2026-06-15'
+createdDate: '2026-02-15'
 author: 'Kareem'
 status: v1-complete
 executionMode: quick

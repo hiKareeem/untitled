@@ -236,13 +236,13 @@ chapters:
 # Book 2 Chapters
   book2_aegis_blackweir:
     title: "Unfired"
-    status: v1-complete
+    status: v2-draft
     pov: "AEGIS"
-    wordCount: 2800
+    wordCount: 6500
     completedDate: "2026-02-12"
     metaFile: "book2-aegis-blackweir-meta.yaml"
     mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
-    notes: "AEGIS debut. BLACKWEIR callback. Style profile fully suspended. Evaluated against dossier §10 Writing Guide. Addenda extracted to aegis-addenda.md."
+    notes: "AEGIS debut. BLACKWEIR callback. Style profile fully suspended. Evaluated against dossier §10 Writing Guide. Addenda extracted to aegis-addenda.md. V2: corrected BLACKWEIR mechanics, VPI tracking, 340 anomaly, almost-fired beat. Word count updated 2026-02-19 audit (was 2800, actual ~6500)."
 
 # book2_aegis_converged removed 2026-02-16 — old draft, file deleted. Will be rewritten when narrative demands.
 

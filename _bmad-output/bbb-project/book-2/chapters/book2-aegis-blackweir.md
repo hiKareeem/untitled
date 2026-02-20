@@ -1,5 +1,5 @@
 ---
-title: "The Last Observer"
+title: "Unfired"
 pov: AEGIS
 book: 2
 chapter: "AEGIS-I"
