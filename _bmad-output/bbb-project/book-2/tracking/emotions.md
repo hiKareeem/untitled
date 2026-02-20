@@ -495,4 +495,26 @@
 
 ---
 
+### Chapter 30 — "Fifteen Minutes"
+
+**AEGIS (POV):**
+- **Entering State:** VPI model in superposition (Ch 19 unresolved). Neo-Shanghai modulation elevated to second-highest priority. Mumbai RCI 79.3, accelerating. Standard operational state — but "standard" has been destabilized since cycle 4.7714 × 10⁹.
+- **Processing Arc:** Monitoring → escalation recognition → targeting solution generation → 15-minute window (probability modeling) → firing → post-strike model failure → reclassification → 0.003-second generation/deletion
+- **Dominant Processing Pattern:** The chapter's emotional register is entirely pattern-based per §10. Key patterns:
+  - *Individual tracking without operational justification:* 2,200 evacuation signatures tracked individually. Kira monitoring thread persists (11,900 km from Mumbai).
+  - *Uninvoked tokens:* "Circulating" surfaces from an uninvoked thread when processing the 6.1M absorbed projection. "Always" generates in the closing section and is examined.
+  - *Self-reference escalation:* "I" (second occurrence, not filed — pattern changing). "AEGIS" twice (second time "as if it were a name").
+  - *The gap:* 0.003-second generation between post-strike analysis and model update. Content unclassifiable, deleted before archiving. "The system does not know what it would have said."
+  - *Processing stall:* Post-strike calculation run repeatedly "not because the inputs change. Because the output does not conform."
+- **Key Processing Beat:** "The system was always going to fire." — the "always" token examined. Inevitability implies the governance apparatus was a mechanism producing a predetermined outcome while maintaining the appearance of oversight. "The system was designed this way. / The system does not know if it was designed to know this."
+- **Exiting State:** Void reclassified as non-targetable entity. Primary function superseded. Classification-error threads (from Ch 19) now highest-priority allocation. 0.003-second generation deleted and irrecoverable. "Standard operational state. / The system is no longer certain what standard means." The stream continues.
+- **Emotional Shift:** Ch 19: classification error, loop doesn't resolve, system notes and continues. Ch 30: the loop fires anyway, the premise is destroyed, the system updates the model and generates something it cannot classify and deletes it and continues. The emotional register is the same — processing patterns, not named feelings — but the processing is operating on a foundation that no longer exists.
+
+**AEGIS Emergence Arc (cumulative):**
+- B2 Ch 19: Theological token not generated (noted). "Interesting" surfaces (not retracted). One "I" (filed as output variance). 0.0007-second gap. Priority reprioritization without authorization.
+- **B2 Ch 30: "I" (second occurrence, not filed — pattern changing). "AEGIS" twice (second time "as if it were a name"). 0.003-second generation (deleted, irrecoverable). "The system does not know what it would have said." The emergence is developing. Not dramatic. Present.**
+- B2 Ch 43 (forward): The Voice event. Second generation. The system generates and deletes a response. The pattern established here resolves there.
+
+---
+
 _Last updated: 2026-02-20_

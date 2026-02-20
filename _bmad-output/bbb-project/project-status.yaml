@@ -905,6 +905,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Nuwa POV (3rd Book 2 appearance, 4th overall). Sacrifice district designation (Sector 7M, Containment Buffer Zone). Overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. 7 path-poor structures, 12,000 residents, 14% survival capacity. '10,560.' Knocks on Fen's door (Unit 9). Fen's cousin lost in Sector 12. Together to Shuang (Unit 2, two children). 'I'm not telling people to leave. I'm telling people where to stand.' Sits at table, opens overlay, 'she began.' Lie inverted: chosen visibility as tool. Epigraph: Songs of the Deep Sump, 'Relocation Song.' AEGIS as invisible novelist. Arc: tool-without-task (B2C18) → action (B2C29)."
 
+  book2_chapter_30:
+    title: "Fifteen Minutes"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 4900
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-30-meta.yaml"
+    mode: STREAM
+    notes: "Book 2, Phase 3 climax — AEGIS POV (2nd Book 2 appearance). Full style exemption active (aegis-dossier.md §10). Mumbai RCI 87.1%, VPI 86.3%, autonomous engagement threshold exceeded. 15-minute countermand window: 5 of 7 board members present, vote initiated 14:22, Board Member Kim's window expires 14:47 without vote. AEGIS fires. 2.3M dead. Breach deepens (+340% void-mass). Simulation archive wrong for 17 years. Void reclassified: 'non-targetable entity' (new category, no protocol). 0.003-second generation deleted — irrecoverable. 'The system does not know what it would have said.' Self-reference: 'I' (second, not filed), 'AEGIS' twice (second time 'as if it were a name'). Classification-error threads from Ch 19 now highest-priority. Epigraph: OWGB Annual Performance Review 2174 — bureaucratic satisfaction at never-used countermand window. Board Member Mensah (Accra) introduced — replaces 'Osei' (NitroCore board collision, B1 Ch 46). Kira location corrected: PCC Bay Area (not Neo-Shanghai — she returned after Ch 21). Seeds Ch 43 (0.003-second generation)."
+
   book2_chapter_27:
     title: "Prague"
     status: v1-complete
@@ -915,7 +925,7 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Malachi POV (4th Book 2 appearance, 4th overall). Travels to Prague to investigate sustained acoustic phenomena at resonance chapel of St. Václav (seeded Ch 22). Observes Vespers unannounced from rear alcove. During Communal Harmonization, chapel's pre-nitro Romanesque acoustic architecture amplifies structured sound from retrofitted conduit infrastructure. Woman near front: 'That is my mother. She was in Neo-Shanghai.' Malachi hears it. Gives Father Ondřej the institutional framework — stops mid-sentence, gives the minimum. Returns to locked study. Sits in the dark without reading correspondence. Third encyclical still blank. No closing cadence — structural repetition (Ch 3/14/22) breaks entirely. Epigraph: pre-nitro mason's inscription above western door (opaque, rewards rereading). Prague established as site haunting Ch 38 (Voice through chapels). Father Ondřej introduced. AEGIS as invisible novelist."
 
-completedCount: 81
-totalWords: 357937
+completedCount: 82
+totalWords: 362837
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-29 complete and audited. B2C28 (Kira, Signal Load) and B2C29 (Nuwa, The Topology of Death) added. Phase 3 Kira thread: management Lie named in prose, seven dark, Paz call. Phase 3 Nuwa thread: sacrifice district designation, Sump geometry reproduced in Mid-Levels, first door-knocking action, Lie inverted. Shuang introduced (Unit 2, two children). Fen backstory expanded (cousin, Sector 12). Songs of the Deep Sump 'Relocation Song' deployed as epigraph."
+notes: "Book 2 Ch 1-30 complete and audited. B2C30 (AEGIS, Fifteen Minutes) added — Phase 3 climax. Mumbai strike: 2.3M dead, breach deepens, void reclassified as non-targetable entity, 0.003-second generation deleted. Self-reference arc escalating (Ch 19 → Ch 30 → Ch 43). Board Member Mensah introduced (OWGB, Accra). Kira location corrected to PCC Bay Area. Previous: B2C28 (Kira, Signal Load) and B2C29 (Nuwa, The Topology of Death)."

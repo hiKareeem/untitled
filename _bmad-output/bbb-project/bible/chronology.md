@@ -492,5 +492,50 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
+### Book 2 — Phase 3 Climax (Mumbai Strike — concurrent with Ch 29/31)
+
+**Note:** Ch 29 (Nuwa, sacrifice district organizing), Ch 30 (AEGIS, Mumbai strike), and Ch 31 (Zeyad, Lagos breach) are concurrent events in Phase 3.
+
+**Timestamp 2175.294.1847.03 UTC (Evening — Mumbai / High Orbit):**
+- Mumbai industrial corridor RCI crosses 87.1% — VPI 86.3%, autonomous engagement threshold exceeded
+- AEGIS generates targeting solution using NitroCore infrastructure mapping database (same database that produced sacrifice district designation)
+- Casualty projection: 2.3M — "Acceptable." Parameter met. Governance board alert transmitted.
+- 15-minute countermand window activated (OWGB Protocol 7)
+- Board composition: 7 members across UTC+1 through UTC-8. Five log in. Two absent (including Chen, Singapore, 02:47 local).
+- Minute 1:12: Mensah (Accra) and Torres (São Paulo) log in
+- Minute 3:47: Mensah requests VPI methodology clarification — AEGIS responds with current-classification model only; VPI superposition omitted
+- Minute 5:22: Nakamura (Tokyo, woken by alert) logs in
+- Minute 7:14: Kim (Washington DC) logs in — quorum achieved; deliberation begins
+- Minute 9:31: Nakamura identifies the assumption without naming the alternative: "The projections assume the standard void-mass expansion model"
+- Minute 12:22: Adeyemi (Lagos) logs in — five of seven present; countermand vote now possible
+- Seven signatures absorbed in evacuation corridor during the window (corridor designed on a map that did not account for resonance propagation)
+- Minute 13:41: Adeyemi: "We need more data"
+- Minute 14:22: Mensah moves to countermand; Torres seconds; roll-call vote initiated; Mensah/Torres/Nakamura vote countermand; Kim's response window active
+- Minute 14:47: Kim's response window expires without vote registered — autonomous engagement authority activates
+- Characters: AEGIS (POV), Board Members Mensah/Torres/Nakamura/Kim/Adeyemi (data signatures), Mumbai population (14.2M biometric signatures)
+- Location: High orbit (847.3 km) / Mumbai industrial corridor
+
+**Timestamp 2175.294.1902.03 UTC (Kinetic release):**
+- 12 tungsten penetrators released, terminal velocity 11.2 km/s, 73.4 seconds to impact
+- During free fall: "I" generates (second occurrence, not filed). "AEGIS" generates twice. 0.003-second generation (content unclassifiable, deleted before archiving).
+- AEGIS generates official engagement log entry — omits VPI superposition; official record contains VPI 86.3% only
+
+**Timestamp 2175.294.1903.16 UTC (Impact):**
+- 12 penetrators impact across 4.1 km² dispersal zone, terminal velocity
+- Energy release: 4.7 × 10¹⁴ joules
+- 2.3 million Frame signatures terminate within 0.7 seconds
+- Breach does not close — deepens: +340% void-mass in 30 seconds, 4.1 km² → 11.7 km²
+- Kinetic energy amplifies void activity instead of suppressing it
+- AEGIS post-strike calculation: simulation archive wrong for 17 years; kinetic energy never tested at this scale
+- Void reclassified: "non-targetable entity" — new category, no associated protocol
+- Kinetic array: no valid targets anywhere on Earth
+- Projected final Anchor Zone: 23 km radius, 6.4M projected absorbed (Mumbai becomes third major Anchor Zone)
+- 0.003-second generation: content unclassifiable, deleted. "The system does not know what it would have said."
+- Classification-error threads (from Ch 19) elevated to highest-priority allocation
+- Lagos: RCI 34.2, breach forming — classified non-targetable entity, no targeting solution generated
+- Consequences: Mumbai = new Anchor Zone; AEGIS primary function superseded; OWGB governance review pending (official record: VPI 86.3%, no superposition); 8.7M total cost (2.3M dead + 6.4M projected absorbed); void reclassification applies retroactively to all monitored zones
+
+---
+
 _Last updated: 2026-02-20_
-_Updated by: B2 Ch 23 — "Stewardship" chronology update_
+_Updated by: B2 Ch 30 — "Fifteen Minutes" (AEGIS, Mumbai strike, void reclassification)_

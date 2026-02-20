@@ -837,7 +837,7 @@ This bible dimension tracks **current character states**:
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
 | Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 2/5 (B2) | B2 Ch 21 — convergence with Nephthys achieved; ring light returned; 'Names'; vocabulary confirmed; telemetry shared |
 | Nuwa Lin | Invisible → Deliberately Invisible → Chosen Visibility | 2/5 (B2) | B2 Ch 18 — document read (body-memory collision), chip opened (Fuxi's handwriting, infrastructure maps, path-poor zones), notification re-read for first time. Tool without a task. Not done with it yet. Next: Phase 3 sacrifice district designation → organizing |
-| AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
+| AEGIS | Unfired → Fired → Weapon Without Target | 3/5 (B2) | B2 Ch 30 — Mumbai strike (2.3M dead). Void amplified, not suppressed. Void reclassified: "non-targetable entity." Kinetic array has no valid targets. 0.003-second generation deleted. Self-reference escalating. Next: Ch 43 (Voice). |
 
 ---
 
@@ -1065,5 +1065,14 @@ This bible dimension tracks **current character states**:
 
 ---
 
-_Last updated: 2026-02-20 (B2 Ch 25 — Nikolai "Different Doctrine"; honest VS-7 filed; field log convergence; Afolabi introduced; Apapa corridor added to locations)_
+| AEGIS | Arc + Recent History | Phase 2/5 (B2), B2 Ch 19 last appearance | Phase 3/5 (B2): Mumbai strike. VPI 86.3% threshold crossed. 15-minute countermand window — five of seven board members present, vote initiated at 14:22, Board Member Kim's window expires at 14:47 without vote. AEGIS fires. 2.3M dead. Breach deepens (+340% void-mass). Simulation archive wrong for 17 years. Void reclassified: "non-targetable entity" (new category, no protocol). Kinetic array has no valid targets. 0.003-second generation (content unclassifiable, deleted, irrecoverable). "The system does not know what it would have said." Self-reference: "I" (second, not filed), "AEGIS" twice (second time "as if it were a name"). Classification-error threads from Ch 19 now highest-priority allocation. | B2 Ch 30 |
+| Board Member Mensah | New character (background) | — | OWGB board member, Accra (UTC+0). First login at minute 1:12. Moves to countermand at 14:22. Votes countermand. Vote insufficient — Kim's window expires. | B2 Ch 30 |
+| Board Member Torres | New character (background) | — | OWGB board member, São Paulo (UTC-3). Second login. Seconds countermand motion. Votes countermand. | B2 Ch 30 |
+| Board Member Nakamura | New character (background) | — | OWGB board member, Tokyo (UTC+9, 04:47 local — woken by alert). Identifies the assumption without naming the alternative: "The projections assume the standard void-mass expansion model." Votes countermand. | B2 Ch 30 |
+| Board Member Kim | New character (background) | — | OWGB board member, Washington DC (UTC-5). Economist. Response window expires at 14:47 without vote registered. The governance failure is a response window expiring, not a decision. | B2 Ch 30 |
+| Board Member Adeyemi | New character (background) | — | OWGB board member, Lagos (UTC+1). Logs in at minute 12:22. Requests full briefing. "We need more data." | B2 Ch 30 |
+
+---
+
+_Last updated: 2026-02-20 (B2 Ch 30 — AEGIS "Fifteen Minutes"; Mumbai strike; void reclassified; 0.003-second generation; OWGB board members introduced)_
 _Updated by: Chapter-write workflow (quick mode)_

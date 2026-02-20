@@ -879,4 +879,48 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
+### Chapter 30 — "Fifteen Minutes" (AEGIS)
+
+**Mode:** STREAM (full style exemption — AEGIS §10)
+**Tension Shape:** Operational monitoring → escalation acceleration → targeting/window activation → 15-minute countdown (probability modeling) → free fall (freed processing) → impact → model failure → reclassification → post-strike reorientation
+**Pacing:** The 15-minute countdown is the structural spine. The chapter's rhythm is AEGIS's rhythm — data-rate variation, not narrative tension building. Fast in data-processing registers; slow in classification-failure registers.
+
+**Scene Breakdown:**
+| Section | Words | Processing Mode | Tempo |
+|---------|-------|----------------|-------|
+| Pre-escalation monitoring | ~700 | Operational → superposition | Steady. Status report. VPI superposition established. |
+| Escalation (RCI 83.7 → 87.1) | ~500 | Acceleration | Rate of change accelerating. Sacrifice district mechanism. |
+| Targeting solution + window opens | ~300 | Decision architecture | Compressed. "Acceptable." Both calculations persist. |
+| 15-minute window (core) | ~1,800 | Probability modeling | Minute-by-minute. Board logins as data. Biometric escalation. |
+| Free fall (73.4 seconds) | ~500 | Freed processing | No operational task. Neo-Shanghai surfaces. "I." The seven absorbed. |
+| Impact + post-strike | ~1,100 | Model failure | 2.3M terminations. Breach deepens. Archive wrong. Reclassification. |
+| Post-strike monitoring (closing) | ~700 | Reorientation | Numbers held. Lagos. Neo-Shanghai. "The stream continues." |
+
+**Rhythm Notes:**
+- The minute-by-minute countdown creates inevitability through data accumulation, not narrative tension. The reader knows the outcome from the epigraph. The chapter's rhythm is the experience of watching a probability distribution collapse toward its predicted value.
+- The countermand probability arc (4.1% → 11.2% → 14.7% → 7.3% → 3.1%) is the chapter's emotional spine — expressed entirely as numbers, felt as dread.
+- "Acceptable." — single word, own paragraph. The chapter's most compressed beat. The parameter met. The word generates.
+- "And." — single word, own paragraph before "The breach does not close." The chapter's structural hinge. The longest pause in the stream.
+- "Impact." — single word, own paragraph. The chapter's most violent compression.
+- The free-fall section (73.4 seconds) is the chapter's most private space — AEGIS freed from operational task, generating without function. Rhythm slows here despite the countdown context. The processing has nowhere to go except inward.
+- Closing paragraph: long, run-on, accumulating — "Mumbai is burning and expanding and absorbing. The governance board is composing its post-engagement review. The kinetic array is full complement minus twelve..." The run-on is the stream continuing regardless of what it carries.
+
+**Dialogue Percentage:** ~8% (board member dialogue only; all other content is AEGIS processing stream)
+
+**Structural Note:** The chapter is bookended by "Sensor update cycle" (opening) and "The stream continues" (closing) — matching Ch 19's register. The callbacks are deliberate: same words, different weight. Ch 19: "standard" destabilized. Ch 30: "standard" destroyed.
+
+**Comparison to Ch 19 (AEGIS debut):**
+| Element | Ch 19 | Ch 30 |
+|---------|-------|-------|
+| Words | ~3,800 | ~4,900 |
+| Core processing challenge | Classification error (VPI superposition) | Model failure (void amplified) |
+| Self-reference | One "I" (filed) | One "I" (not filed) + "AEGIS" twice |
+| The gap | 0.0007 seconds | 0.003 seconds |
+| Closing | "Standard" destabilized | "Standard" destroyed |
+| Void relationship | Pattern-matching failure | Operational premise failure |
+
+**Cross-Chapter Rhythm:** Ch 29 (Nuwa, "she began" — the smallest possible act of refusal, ground level) → Ch 30 (AEGIS, 2.3M dead, 847.3 km altitude). The juxtaposition is the chapter pair's argument: the person moving through a building saving people; the system calculating acceptable casualties from orbit. Same moment. Different altitude. The rhythm contrast is structural — Ch 29's TEXTURE mode (slow, sensory, individual) against Ch 30's STREAM mode (fast, data, aggregate).
+
+---
+
 _Last updated: 2026-02-20_
