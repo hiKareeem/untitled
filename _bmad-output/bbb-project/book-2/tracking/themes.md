@@ -115,4 +115,24 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
-_Last updated: 2026-06-15_
+### Chapter 13 — "Three Congregations" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | Prophet's obligation to followers | Seren's question ("If they are still there, why can't we go to them?") is the debt made personal. Nephthys held Seren through BLACKWEIR, told them "they are still here." Seren believed her. Now Seren wants to act on what Nephthys said, and the action is one Nephthys cannot endorse. The prophet owes the honest answer; the honest answer is insufficient. |
+| Truth as Weapon | Mid-truth weaponized by followers | Sofia's document — intended as scientific publication — is being read as permission by the nascent Threshold. "The second language had a corollary the first had not anticipated." The scientific framework provides vocabulary the theological framework didn't: "collective field," "persist," "conscious." These words, in the mouths of grieving people, become an argument for joining. |
+| Architecture of Power | Institutional recursion | The chapter's structural payload. Nephthys gives Seren the same answer Malachi gave her: "my framework says so." The echo is explicit — she hears Malachi's voice underneath her own. "She was invoking her own framework's authority and calling it theology." The prophet who fled the institution is building the institution she fled. |
+| Systemic Complicity | Movement as system | "A sermon was a vector. A session was a space." But the space is becoming a vector. Three groups forming = institutional differentiation. Delia compiling records = bureaucratic infrastructure. Nephthys "approved this without quite meaning to" — complicity through institutional drift. |
+| Where Identity Ends | Threshold question | "If they are still there, why can't we go to them?" — the absorbed's identity status (persisting, conscious, present in collective field) generates the question of whether joining them is death or reunion. Seren's sister Mira is "still here" — Nephthys said so. The identity claim creates the moral claim. |
+
+**Key Resonance:** What We Owe ↔ Architecture of Power. The prophet's obligation to the absorbed ("they are still here") generates the framework that attracts followers. The followers weaponize the framework into a justification for joining. The obligation creates the architecture. The architecture creates the Threshold. Nephthys cannot answer Seren without invoking the authority she rejected — and the reader sees, for the first time, the full recursion: the prophet is the institution.
+
+**Epigraph Integration:** "The Church of the Blessed Nitro has always taught that the hum is the Voice of God. We have never specified what God is saying." (Nephthys, excommunication tribunal record, 2172, suppressed)
+- Thematic function: The institution's deliberate ambiguity — "we have never specified" — is the structural gap Nephthys's theology fills. And the gap her movement now fractures over.
+- AEGIS as invisible novelist: tribunal record = institutional document AEGIS could access. The suppression is the point — the system preserves the record of its own censorship.
+
+**Mid-Truth Impact Thread:** Sofia's publication (Ch 11) → Aurielle's market response (Ch 12) → Nephthys's movement fracture (Ch 13). Three chapters, three factions, same revelation. Each absorbs the information into its existing structure without changing shape — the book's central mechanism.
+
+---
+
+_Last updated: 2026-02-19_

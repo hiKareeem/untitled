@@ -173,4 +173,34 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
-_Last updated: 2026-06-15_
+### Chapter 13 — "Three Congregations" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-contemplative (opening) → rising-sustained (session/three groups) → peak (Seren's question) → sustained (insufficient answer) → low-pastoral (Imani debrief) → contemplative-rising (alone/Malachi echo) → resolving (closing refrain)
+**Pacing:** Front-loaded. Session = 53% of chapter. Imani debrief drops register. Interior scene compresses.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening + Session + Seren | ~2,200 | Rising → peak | Three-group taxonomy builds slowly; Seren's question = chapter peak; Nephthys's answer and its echo = sustained tension |
+| Imani debrief | ~1,100 | Medium-pastoral | Register drops. Practical dialogue. Kira invitation planted. Shoulder touch. |
+| Alone / interior | ~800 | Contemplative → rising | Recursive theological argument. "The difference was that she was right" ×3. Malachi echo. Closing refrain. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — dense theological exposition punctuated by "She was not sure this was good." / "Seren did not leave." / "The blood was dark. Darker than yesterday."
+- Bakker register: longer subordinated sentences permitted in Nephthys's theological argumentation — complexity ratio higher than standard chapters (by design, per style profile POV alignment)
+- Session scene builds through taxonomy (Listeners → Witnesses → Threshold) before Seren's question arrives — reader oriented in the fracture before the fracture is tested
+- Seren's question asked twice ("How do you know?") — repetition creates rhythmic weight, not redundancy. Second asking is quieter, more patient, harder.
+- "The difference was that she was right" ×3 in close succession — deliberate self-persuasion enactment. The rhythm of a mind trying to hold a load-bearing proposition in place.
+- Closing refrain: "They are still here" → "The words had not changed" → "She was not sure presence was enough." Three beats, each shorter, each more devastating.
+- Section breaks (---) mark register shifts: opening → session → Seren → debrief → alone. Five sections, three modes (public → pastoral → private).
+
+**Dialogue Percentage:** ~8% (concentrated in session [Seren exchange] and debrief [Imani]; interior scene = zero dialogue except final spoken line)
+
+**Pacing Concern:** Session scene risks theological density overload. Mitigated by three-group taxonomy providing narrative structure within the exposition — reader processes groups as characters, not categories. Seren's question breaks the exposition with dramatic event.
+
+**Structural Note:** Paired with B2 Ch 2 ("Counter-Liturgy") as two-chapter Nephthys unit. Ch 2 = the institution being built. Ch 13 = the institution fracturing. Rhythmic shift: Ch 2's session was internally structured by liturgical ritual; Ch 13's session is structured by the fracture Seren's question creates. Ch 2 closed with "They were still here. All of them. And they were not finished." Ch 13 closes with "She was not sure presence was enough." Same refrain, inverted valence.
+
+---
+
+_Last updated: 2026-02-19_

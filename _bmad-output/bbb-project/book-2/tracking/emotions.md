@@ -108,4 +108,37 @@
 
 ---
 
-_Last updated: 2026-06-15_
+### Chapter 13 — "Three Congregations"
+
+**Nephthys (POV):**
+- **Entering State:** Post-Ch 2. Counter-liturgy established, movement growing, physical decline accelerating. Stable certainty. Mid-truth arrived 9 days ago — read it, recognized the translation, put it in the pocket with the cloths.
+- **Emotional Arc:** Contemplative certainty (opening — mid-truth as translation, not revelation) → pastoral competence (session — taxonomy of three groups, managed observation) → confrontation (Seren's question — "How do you know?") → epistemological shock (Malachi echo — hearing herself give the same answer) → pastoral deflection (Imani debrief — Kira invitation as practical action) → recursive doubt (alone — "the difference was that she was right" ×3 as self-persuasion) → unresolved (closing — "She was not sure presence was enough")
+- **Dominant Emotion:** Epistemological vertigo. Not doubt about the void or the absorbed — that certainty remains intact. Doubt about the *authority structure* of her certainty. She heard herself invoking her own framework's authority the way Malachi invoked the Church's, and the echo has not stopped.
+- **Key Emotional Beat:** "She was invoking her own framework's authority and calling it theology." — the moment the Malachi echo becomes conscious. Not a collapse — a recognition. The certainty doesn't crack. But it shifts from "I am right" to "I am right, and being right sounds exactly like what being wrong sounds like from inside the institution."
+- **Exiting State:** On the Cathedral floor, branded palm to stone, attending. The discipline she teaches — listen, do not join, presence is enough — applied to herself. She is not sure it is enough. The closing is unresolved: not despair, not doubt, but the weight of a question that her framework generated and cannot answer.
+- **Emotional Shift:** From certainty (the mid-truth confirms what she already knew) to vertigo (the confirmation accelerates a fracture she cannot control) to a new register: *insufficient certainty*. She is still right. Being right is not enough.
+
+**Nosebleed Progression (cumulative):**
+- B1 Ch 3: First on-page nosebleed. Occasional. Signal, not symptom.
+- B1 Ch 14: Manageable (low-infrastructure area).
+- B1 Ch 26: Worst episode yet (Neo-Shanghai conduit density).
+- B1 Ch 44: Bleeding from nose AND ears (BLACKWEIR saturation). Worst ever.
+- B2 Ch 2: Escalating (3/week). Hidden during session. "I am fine."
+- **B2 Ch 13: Third today. Darker than yesterday. Cloth routine embedded (wipe, fold, pocket). Progression visible to Imani and reader.**
+
+**Imani (Supporting):**
+- **Entering State:** Post-Ch 2. Managing Cathedral operations. Confrontational (succession question). Six months of clinical precision.
+- **Emotional Arc:** Observing from doorway → entering (reads the room) → clinical ("third one today") → political ("Seren's question is going to travel") → logistical (Kira broker) → tender ("You're always thinking" / shoulder touch) → departure
+- **Dominant Emotion:** Controlled concern layered over political awareness. She is no longer just tracking Nephthys's health — she is tracking the movement's trajectory. The acolyte is becoming the analyst.
+- **Key Emotional Beat:** "They're going to hear it as confirmation that you don't have one." — Imani sees the political consequence of the theological answer before Nephthys does. The observer has outpaced the prophet.
+- **Exiting State:** Walking away. Kira contact initiated. Shoulder touch — habitual, warm, the last gesture of the acolyte before the analyst takes over.
+
+**Seren (Supporting — NEW):**
+- **Entering State:** Weeks of sessions. Same seat. Watching the void-scarred wall (sightline to where Mira was lost). Building toward the question.
+- **Emotional Arc:** Patient attendance → measured question → receiving insufficient answer → "I hear you" (acceptance without resolution) → sits back (does not leave)
+- **Dominant Emotion:** Grief disciplined into theology. Seren is not angry. Not challenging. Asking. The question comes from love (Mira), not doctrine (Threshold). That is what makes it harder than hostility.
+- **Exiting State:** Still in the Cathedral. Question asked. Answer received. Answer insufficient. The conversion to Threshold is seeded but not complete. "Seren did not leave."
+
+---
+
+_Last updated: 2026-02-19_

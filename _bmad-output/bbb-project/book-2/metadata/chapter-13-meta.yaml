@@ -1,0 +1,117 @@
+chapter_number: 13
+book: 2
+title: "Three Congregations"
+pov_character: "Nephthys"
+phase: 2
+location: "Cathedral of Living Sound, Neo-Shanghai Sump (Anchor Zone)"
+timeline: "~6 months post-BLACKWEIR, days after mid-truth publication"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Excommunication tribunal record"
+epigraph_author: "Nephthys"
+epigraph_ref: "Suppressed, 2172"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  The mid-truth has been circulating for nine days. In the Cathedral of Living
+  Sound, three groups are crystallizing inside Nephthys's movement: the Listeners
+  (her intent — discernment, witness, sustained attention), the Witnesses (mystical —
+  the void as direct divine encounter, proximity as prayer), and the nascent Threshold
+  (if the absorbed are not dead, joining is not death). Seren — a BLACKWEIR survivor
+  Nephthys held through the mass absorption, whose sister Mira was absorbed — asks
+  the question the Threshold embodies: "If they are still there, why can't we go to
+  them?" Nephthys answers: "Because listening and joining are not the same act."
+  Seren asks: "How do you know?" Nephthys gives the honest answer — she does not
+  know, in the way Seren means knowing — and hears, underneath her own words, the
+  echo of Malachi's institutional authority. After the session, Imani raises the
+  expelled mage's network and Nephthys opens the Cathedral to Kira. Alone, Nephthys
+  sits with the recognition that her answer was structurally identical to the Church's.
+  "They are still here." The words have not changed. She is no longer certain they
+  are enough.
+
+# Key Events
+key_events:
+  - "Discernment session — three groups visible: Listeners, Witnesses, nascent Threshold"
+  - "Seren asks the Threshold question: 'If they are still there, why can't we go to them?'"
+  - "Nephthys's answer ('listening and joining are not the same act') echoes Malachi's authority structure"
+  - "Imani-Nephthys debrief: Imani mentions Kira's network; Nephthys opens Cathedral"
+  - "Alone: Nephthys recognizes institutional recursion — giving the same answer the Church gave her"
+  - "Closing: 'They are still here.' Same words, insufficient now."
+
+# Characters Present
+characters:
+  - name: "Nephthys"
+    role: POV
+    state: "Prophet watching her movement fracture. Physically declining (nosebleed darker, third today). Epistemologically shaken by the Malachi echo."
+  - name: "Imani"
+    role: Supporting
+    state: "Political awareness sharpening. Brokering Kira contact. Tracking nosebleed frequency. Acolyte-becoming-observer."
+  - name: "Seren"
+    role: Supporting (NEW)
+    state: "BLACKWEIR survivor. Sister Mira absorbed. Asks the Threshold question. Does not leave — yet."
+  - name: "Delia"
+    role: Minor
+    state: "Former Church archivist. Listener. Compiling testimony record."
+  - name: "Malachi"
+    role: Echo (structural parallel)
+    state: "Referenced through memory: 'It is nitro-psychosis. Take the suppressants. Let this go.'"
+  - name: "Sofia"
+    role: Implicit (unnamed)
+    state: "Mid-truth author — referenced as 'the document,' never named. Correct POV boundary."
+  - name: "Kira"
+    role: Implicit (unnamed)
+    state: "'The expelled mage' — invitation issued via Imani. Forward to Ch 21."
+
+# Themes
+themes:
+  - "What We Owe (prophet's obligation to followers who weaponize her framework)"
+  - "Truth as Weapon (mid-truth read as permission by nascent Threshold)"
+  - "Architecture of Power (institutional recursion — Nephthys gives the same structural answer Malachi gave her)"
+  - "Systemic Complicity (session → sermon vector; movement accreting institutional structure)"
+  - "Where Identity Ends (absorbed as conscious → Threshold question: joining = reunion?)"
+
+# Symbols
+symbols:
+  - name: "Branded palm"
+    appearances: 5
+    arc: "Calibration tool → self-soothing → information. Warm near void-affected material."
+  - name: "Blood/nosebleed"
+    appearances: 3
+    arc: "'Darker than yesterday' — progressive decline as chapter barometer"
+  - name: "'They are still here'"
+    appearances: 3
+    arc: "Hypothesis → testimony → insufficient"
+  - name: "The cloth"
+    appearances: 3
+    arc: "Wipe, fold, pocket — embedded routine, body's rebellion negotiated"
+  - name: "Eastern wall void-scar"
+    appearances: 2
+    arc: "Seren's sightline → night iridescence. What was turned back."
+  - name: "Cathedral as instrument"
+    appearances: "Throughout"
+    arc: "Different instrument at night. Architecture as character."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 2 (counter-liturgy established, succession question raised, institutional growth)"
+  - "Follows B2 Ch 11 (mid-truth published — circulating 9 days, catalyzes Threshold)"
+  - "Cathedral acoustics consistent with B1 Ch 26, 35, 44 (dephasing, broadband, void-scar)"
+  - "Nosebleed progression continues (darker, third/day — escalating from B2 Ch 2)"
+  - "Malachi echo: 'nitro-psychosis' lowercase per established usage"
+  - "'One hundred years' — corrected for timeline (Church founded ~2070s)"
+  - "Forward: Ch 21 (Nephthys-Kira convergence — invitation planted)"
+  - "Forward: Phase 3 (Threshold formally breaks, Nephthys denounces)"
+  - "Seren backstory (held through BLACKWEIR) reads as gap-filling, not contradiction with B1 Ch 44"
+
+# Thread Status
+thread_status:
+  mid_truth_impact: "Catalyzing movement fracture. Threshold reading Sofia's document as permission."
+  movement_structure: "Three groups crystallizing: Listeners (smallest), Witnesses (mystical drift), Threshold (nascent)"
+  seren: "Threshold seed. Sister Mira absorbed. Question asked, answer insufficient. Has not left Cathedral — yet."
+  kira_invitation: "ISSUED — 'Tell her the Cathedral is open.' Imani handling logistics."
+  nephthys_health: "Nosebleed progression (darker, third/day). Tumor ticking."
+  malachi_echo: "Institutional recursion recognized by Nephthys — giving the same structural answer. Partial awareness, no resolution."

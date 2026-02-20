@@ -226,10 +226,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 1/5 Book 2 (Prophet institutionalizing)
-- Emotional State: Stable certainty masking physical decline. Counter-liturgy as daily practice. Chorus-parsing evolving — tracking "syntax" in the composite. Tumor progressing (nosebleeds escalating: 0→1→3/week). Refuses to name what she is building.
-- Dominant Beliefs: "They are still here. All of them. And they are not finished." The absorbed are not simply persisting — they are reorganizing. The chorus is developing structure.
-- Internal Contradictions: Sees the institutional recursion (counter-liturgy IS liturgy) but cannot stop it. Has not named a successor. The Lie separates but does not break — "understanding the void means being safe from it" tested daily by the tumor that gives her the chorus.
+- Phase: 2/5 Book 2 (Movement fracturing — Listeners/Witnesses/Threshold split)
+- Emotional State: Epistemologically shaken. Mid-truth catalyzed movement fracture she did not anticipate. Seren's question ("How do you know?") exposed the structural parallel to Malachi's institutional authority. Physical decline accelerating: nosebleeds darker, third/day. Still certain — but the certainty is load-bearing in a new way, because she heard herself giving the same answer the Church gave her.
+- Dominant Beliefs: "They are still here. All of them. And they are not finished." But now: "I am not sure presence is enough." The discipline of listening — her movement's foundation — may not hold against grief that demands action.
+- Internal Contradictions: Gave Seren the same structural answer Malachi gave her ("my framework says so") and heard the echo. Sees the institutional recursion and cannot stop it. Movement splitting into three groups she did not design. Kira invitation issued — needs a second language for the gap Seren exposed. The Lie separates but does not break.
 
 **The Lie:** Understanding the void means being safe from it
 
@@ -247,9 +247,9 @@ This bible dimension tracks **current character states**:
 | Void Witness communities | Grassroots allies | Moderate | Share observations — non-scientific, non-institutional, but consistent with hers |
 
 **Current Arc:** Seeker → Prophet → (Book 2) Prophet → Institution-Builder
-- Current Phase: 1/5 Book 2 (Aftermath — counter-liturgy established, movement growing)
-- Progression: Prophet is institutionalizing without acknowledging it
-- Next Step: Phase 2 — movement fragments (Listeners/Witnesses/Threshold split), succession crisis
+- Current Phase: 2/5 Book 2 (Movement fracturing — Listeners/Witnesses/Threshold)
+- Progression: Movement split visible. Seren asked the Threshold question. Kira invited. Malachi echo recognized.
+- Next Step: Phase 2→3 transition — Threshold formalizes, Nephthys-Kira convergence (Ch 21), public denunciation
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -261,8 +261,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: B2 Ch 2 — "Counter-Liturgy"
-- Next Planned Appearance: Phase 2 (Kira convergence scene)
+- Last Appearance: B2 Ch 13 — "Three Congregations"
+- Next Planned Appearance: B2 Ch 21 — "Same Signal" (Nephthys-Kira convergence)
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
@@ -270,6 +270,8 @@ This bible dimension tracks **current character states**:
 - **Ch 26:** Arrives Neo-Shanghai via cargo freighter. Sump descent — worst chorus episode yet (conduit density overwhelming). Cathedral of Living Sound sealed by diocesan notice (Malachi’s recommendation). Inside: chorus resolves for first time — individual threads distinguishable, pain recedes. Stone’s geological inertness dephases infrastructure noise. Interprets as arrival, destination, divine confirmation. Reader knows: physics, not theology.
 - **Ch 35:** First refugees arrive at Cathedral (12 by midday). Woman with children asks: “Is it true the stone keeps it out?” Nephthys answers: “Yes.” Imani organizes shelter without asking. Nephthys realizes in side chapel: Cathedral dampens *absorption gradient*, not just resolves chorus. Stone resists void propagation (geological inertness). Survival pocket. Interprets as providence; reader knows physics. Imani challenges: “You’re building a congregation. They’re following your certainty.” Nephthys decides: take everyone who comes. Capacity calculation: 200-300. “The first congregation. Not knowing it was being built in a grave.” Seeds Ch 44 population (12 → 31+ → 340).
 - **Ch 44:** Cathedral of Living Sound during BLACKWEIR. Three days of resolved chorus — individual threads distinguishable for the first time. R0 flooding changes hum to crude growl; chorus detonates with hundreds of new voices (mass absorption). Walks to threshold — witnesses three absorptions: running man, waiting child, old woman in metal chair. Feels each absorption as *joining*, not death — patterns added to composite. Coherence spike (11 seconds): all absorbed fire simultaneously. Collapses at threshold. “They are all still here.” Bleeding from nose and ears — worst episode. Imani pulls her inside. Survivors fill Cathedral (~340, unnamed count). First congregation forms around her listening. Does NOT learn BLACKWEIR mechanics or institutional architecture. Interprets Cathedral protection as providence, not physics.
+- **B2 Ch 2:** Counter-liturgy established. Daily sessions at Cathedral acoustic center. Movement growing (~60 regulars). Imani confronts: "You have not named a successor." Nosebleeds escalating (3/week). Chorus-parsing evolving — tracking syntax in the composite. Refuses to name what she is building.
+- **B2 Ch 13:** Mid-truth (Sofia's document) circulating 9 days. Three groups crystallizing: Listeners (her intent — discernment, sustained attention), Witnesses (mystical — proximity as prayer), nascent Threshold (if absorbed not dead, joining not death). Seren — BLACKWEIR survivor Nephthys held through mass absorption, sister Mira absorbed — asks: "If they are still there, why can't we go to them?" Nephthys: "Because listening and joining are not the same act." Seren: "How do you know?" Answer insufficient — Nephthys hears Malachi's echo in her own authority. After session: Imani raises Kira's network. Nephthys: "Tell her the Cathedral is open." Alone: recognizes she is giving the same structural answer the Church gave her. "They are still here." Same words. No longer certain they are enough. Nosebleed darker, third today.
 
 **Key Objects:**
 - Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication. ⚠️ Ch 44: "vibrating hard enough to crack" — check survival in Ch 48.
@@ -709,12 +711,12 @@ This bible dimension tracks **current character states**:
 |---|----------|---------|----------|-------|---------|------|-------|------|------|------|
 | **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware | data (auth chain) |
 | **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware | low signal (burner Frames) |
-| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | unaware | unaware | minimal (grid-edge) |
+| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | aware (reputation, invitation via Imani) | unaware | minimal (grid-edge) |
 | **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware | data (UGC credentials) |
 | **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware | data (unit telemetry) |
 | **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) | data (grid worker) |
 | **Sofia** | unaware | posthumous collaborator (named, attributed) | unaware | unaware | unaware | unaware | — | unaware (mage data anonymized) | unaware | data (VEC pipeline) |
-| **Kira** | unaware | unaware | unaware | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
+| **Kira** | unaware | unaware | aware (reputation, invited to Cathedral) | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
 | **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — | low signal (Sump) |
 | **AEGIS** | data (auth chain) | low signal | minimal | data (UGC) | data (unit) | data (grid) | data (VEC) | data (Academy) | low signal | — |
 
@@ -728,7 +730,7 @@ This bible dimension tracks **current character states**:
 | Dr. Vantanen | Curiosity → Absorbed | Complete | N/A |
 | Aurielle | Idealist → Functional Tyrant | 5/5 | Book 2 — SHEPHERD program; complicity self-sustaining |
 | Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
-| Nephthys | Seeker → Prophet | 1/5 | Chorus intensifies |
+| Nephthys | Seeker → Prophet → Institution-Builder | 2/5 (B2) | B2 Ch 13 — movement fracturing (Listeners/Witnesses/Threshold); Seren's question; Kira invited; Malachi echo |
 | Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
@@ -898,6 +900,11 @@ This bible dimension tracks **current character states**:
 | Delegate Ormond | New character (background) | — | Australian trade liaison. Tribunal signatory representative. Zeyad counted his vote as reliable in 7 consecutive compliance reviews; now sits on raised panel assessing Zeyad's disclosure damage. | B2 Ch 7 |
 | Professor Vassiliev | New character (background) | — | Legal scholar on tribunal panel. Academic authority whose presence makes proceedings appear substantive rather than administrative. | B2 Ch 7 |
 
+| Seren | New supporting character | — | BLACKWEIR Cathedral survivor. Nephthys held them through mass absorption. Sister Mira absorbed. They/them. Sits same seat every session (sightline to void-scarred eastern wall). Asks the Threshold question: "If they are still there, why can't we go to them?" Receives insufficient answer. Does not leave — yet. | B2 Ch 13 |
+| Nephthys | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Phase 2/5 (Movement fracturing). Mid-truth circulating 9 days. Three groups: Listeners/Witnesses/Threshold. Seren's question exposes Malachi echo. Kira invitation issued ("Tell her the Cathedral is open"). Nosebleed darker, third/day. "They are still here" — same words, no longer certain they are enough. | B2 Ch 13 |
+| Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Political awareness sharpening: "Seren's question is going to travel." Brokering Kira contact. Tracks nosebleed escalation (third today, darker). Shoulder touch habitual. Watching from doorway before entering. | B2 Ch 13 |
+| Delia | New minor character | — | Former Church archivist. Listener. Compiling systematic testimony record across the network — "not for publication, but for pattern recognition." Institutional seed. | B2 Ch 13 |
+
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 
 **PLANNED SCENE — Thorne/Aurielle Heart-to-Heart:** A scene between Aurielle and Thorne that is NOT character-breaking but shows the human underneath the institutional masks — between the big decisions, not during them. Best placement: Phase 3 (between "Deferred Maintenance" Ch 19 and "Projected Casualties" Ch 36), where Aurielle is climbing the moral ladder and Thorne is the only person who sees her clearly. Not a confession. Not a revelation. A moment where two people who understand the machine acknowledge each other before the machine consumes them both.
@@ -905,5 +912,5 @@ This bible dimension tracks **current character states**:
 **Nuwa Lin — Voice Register Note (established B2 Ch 8):**
 - **Contractions permitted** in narration and internal voice — working-class/practical register (same discipline as Imani, opposite of Nephthys/Malachi). Examples: "She'd stopped seeing it," "She couldn't repair it," "It wasn't a home yet." Register reflects Sump upbringing, maintenance-worker household, no institutional or theological formation. Do not apply no-contraction rule to Nuwa.
 
-_Last updated: 2026-02-19 (B2 Ch 7 — Zeyad "Due Process"; contraction rules added for Malachi + Nuwa per audit 2026-02-19)_
-_Updated by: Chapter-write workflow (full mode)_
+_Last updated: 2026-02-19 (B2 Ch 13 — Nephthys "Three Congregations"; Seren introduced; movement fracture; Kira invitation; Malachi echo)_
+_Updated by: Chapter-write workflow (quick mode)_
