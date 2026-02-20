@@ -155,4 +155,27 @@ Based on trilogy plan and Book 1 continuation:
 
 ---
 
+### Chapter 12 — "Eleven Percent" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Institutional absorption mechanism | The emergency response IS the architecture — injunction (legal), PR statement (reputational), independent review (scientific), vocabulary shift (linguistic). "Meaning is determined by the institutional frameworks that process it." The institution contextualizes truth into irrelevance. |
+| Systemic Complicity | Complicity with open eyes | "Every government that has issued a statement of concern about this document is still drawing power from our grid." Dependency unchanged. Knowledge public. Continuation chosen. Aurielle names this to the board AND deploys it. |
+| Progress Requires Atrocity | SHEPHERD uninterrupted | 94% compliance. 6% non-compliant absorbed. Throughput +12%. The appendix she doesn't open contains the absolute figure. The yield estimate is on the last page. She reads it. |
+| Truth as Weapon | Truth absorbed by institution | The mid-truth enters NitroCore and is processed through legal, market, and reputational frameworks. Becomes contested science → news cycle → accommodation. "The document will be forgotten. Not suppressed. Not refuted. Forgotten." |
+| Commodification of Suffering | Vocabulary as commodity | "Stewardship corridors" replacing "sacrifice zones." The euphemism industry producing new product because the old vocabulary became visible. The new terms are accurate and meaningless. |
+
+**Key Resonance:** Architecture of Power ↔ Truth as Weapon. The mid-truth is a weapon that fires and hits the target and the target does not fall. The institution absorbs the impact through its response architecture — the same architecture that absorbed BLACKWEIR. The weapon works. The architecture works better.
+
+**Epigraph Integration:** NitroCore Corporate Communications emergency statement
+- Thematic function: The corporate statement as institutional art form — "preliminary findings" = contested, "independent review" = controlled, "communities we serve" = the most devastating euphemism in the chapter
+- AEGIS as invisible novelist: public record, technically truthful, structurally dishonest
+- Epigraph → chapter: the reader encounters the PR statement before the chapter explains how it was constructed. Re-reading the epigraph after the chapter = hearing the product, not the language.
+
+**Mid-Truth Impact Thread (Cross-Chapter):** Sofia's publication (Ch 11) → Aurielle's institutional absorption (Ch 12) → Nephthys's movement fracture (Ch 13). Three chapters, three factions, same revelation. Each absorbs the information into its existing structure without changing shape. Book 2's central mechanism.
+
+**The Appendix Device:** The thing Aurielle doesn't open — the absolute figure for 6% non-compliant, the demographic breakdown she didn't read for BLACKWEIR, the unasked question from her first quarterly. The device compounds across her arc: each threshold not crossed makes the next one smaller. The appendix is the dossier's "archive, don't destroy" enacted as self-deception — the information preserved, accessible, never accessed.
+
+---
+
 _Last updated: 2026-02-19_

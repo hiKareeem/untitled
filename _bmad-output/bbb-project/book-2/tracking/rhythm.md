@@ -243,4 +243,43 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 12 — "Eleven Percent" (Aurielle Vasquez)
+
+**Mode:** PRESSURE
+**Tension Shape:** Alert-institutional (22:03) → rising-sustained (emergency board) → peak (PR selection + "meaning is determined by frameworks") → compressed time-lapse (stock recovery, news cycle) → medium-rising (Thorne exchange, vocabulary shift) → resolving-unresolved (alone, appendix, wrist)
+**Pacing:** Front-loaded. Emergency board session + PR = 40% of chapter. Time-lapse compresses a week into ~700 words. Second Thorne scene deepens mechanism. Closing compresses to symbolic payload.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Alert + emergency board session | ~900 | Rising-institutional | Timestamp opening, board convenes, Hendricks/injunction, nine members processing |
+| PR statement selection | ~600 | Medium-sustained | Three options ranked by aggression. Pryce prepared. Atmospheric Research Initiative named. |
+| Board processing + Aurielle's speech | ~500 | Peak | "Meaning is determined by the institutional frameworks that process it." The Chair speaks. |
+| Time-lapse (stock, news cycle, SHEPHERD) | ~700 | Sustained-compressed | Days in paragraphs. -3.1%, -0.8%, flat. Methodology objections. SHEPHERD continuing. 94% compliance. |
+| Second Thorne exchange | ~600 | Medium-rising | Vocabulary shift. Passive voice noticed. "The document describes what we are." "We continue." |
+| Closing (alone, appendix, wrist) | ~400 | Resolving → unresolved | Maximum compression. Yield estimate. The appendix not opened. Wrist still moving. She does not stop it. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The architecture had changed." / "The partition had been dissolving for six months." / "She did not stop it."
+- Time-lapse section provides rhythmic contrast: compressed temporal markers (By 06:00 / By the end of the week / By the end of the following week) create staccato against dense institutional paragraphs
+- Emergency board section rhythmically mirrors Ch 1's board meeting but faster — crisis tempo vs. quarterly tempo. Same room, same cast, different pacing.
+- PR statement selection scene uses enumeration rhythm (first / second / third) — institutional options as rhythmic structure
+- Thorne's private exchange shorter and more direct than board scene — register contracts from institutional to personal. Same pattern as Ch 1 → Ch 10 pairing.
+- Closing compresses: 5 paragraphs from alone → appendix → noticing → yield → wrist. Fastest section, highest symbolic density.
+- Final two sentences isolated as their own paragraph: "Her wrist was still moving. / She did not stop it." — maximum rhythmic weight on the regression.
+
+**Dialogue Percentage:** ~14% (concentrated in emergency session and Thorne exchange; time-lapse and closing are solo narration)
+
+**Pacing Concern:** Time-lapse section risks summary-feel. Mitigated by specific market numbers (11.2% → -3.1% → -0.8% → flat) and the SHEPHERD trial data (94% compliance, 6%) providing concrete anchors within the temporal compression.
+
+**Structural Note:** Ch 12 paired with Ch 10 and Ch 1 forms a three-chapter Aurielle unit across Phase 1→2 transition. Ch 1: ensemble board meeting, quarterly rhythm. Ch 10: Thorne duet, SHEPHERD named. Ch 12: crisis response, mid-truth absorbed. The pacing accelerates across the three: Ch 1 is contemplative, Ch 10 is briefing-tempo, Ch 12 is crisis-tempo that resolves into the same contemplative closing as both predecessors (alone at desk, hum, hands). The acceleration demonstrates that crisis and routine produce the same posture — the Chair processes everything at the same temperature.
+
+**Comparison to Ch 1 / Ch 10:**
+- Ch 1: ~2,800 words, ensemble, quarterly tempo, contemplative close ("The Chair opened the next report")
+- Ch 10: ~3,200 words, duet, briefing tempo, stillness close ("Her hands were still")
+- Ch 12: ~3,700 words, mixed (ensemble → duet → solo), crisis tempo, regression close ("She did not stop it")
+- Together: public face → private machinery → crisis management → the posture is the same. The machine doesn't accelerate. The person inside it does.
+
+---
+
 _Last updated: 2026-02-19_

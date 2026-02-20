@@ -1,0 +1,122 @@
+chapter_number: 12
+book: 2
+title: "Eleven Percent"
+pov_character: "Aurielle Vasquez"
+phase: 2
+location: "Neo-Shanghai Spires — NitroCore Executive Suite / Emergency Boardroom"
+timeline: "~6 months post-BLACKWEIR, days after Ch 11 (Sofia publishes)"
+estimated_word_count: 3700
+actual_word_count: ~3700
+epigraph_source: "NitroCore Corporate Communications — Emergency Statement"
+epigraph_author: "NitroCore Corporate Communications"
+mode: PRESSURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-19"
+
+# Summary
+summary: >
+  The mid-truth lands on NitroCore's desk. Stock drops 11.2% in the first
+  hour. Emergency board meeting — Hendricks (Legal) files an injunction for
+  the record, Pryce (PR) issues the most aggressive of three prepared
+  statements positioning NitroCore as a participant in the science rather
+  than a subject of it. Aurielle names the Anchor Zone Atmospheric Research
+  Initiative as cover. The board processes the document through legal,
+  market, and reputational frameworks — the correct frameworks for the
+  institution, the wrong frameworks for the truth. Stock recovers to -3%
+  by morning, flat within two weeks. SHEPHERD trials continue at the
+  secondary Anchor Zone: throughput +12%, 94% compliance, 6% non-compliant
+  absorbed. Aurielle does not open the appendix that contains the absolute
+  figure. She notices herself using the passive voice — "the program the
+  grid requires" — and files the noticing. The vocabulary shifts:
+  "stewardship corridors," "managed atmospheric events." The institution
+  absorbs the truth without changing shape. Her wrist is still moving.
+  She does not stop it.
+
+# Key Events
+key_events:
+  - "Mid-truth reaches NitroCore at 21:52; market alert at 22:03"
+  - "Stock drops 11.2% in first hour of trading"
+  - "Emergency board session (23:00) — nine of fourteen members"
+  - "Hendricks files injunction — 'for the record, not for the document'"
+  - "Pryce issues third statement — NitroCore as research participant"
+  - "Anchor Zone Atmospheric Research Initiative named as cover"
+  - "Stock recovers: -3.1% (morning), -0.8% (end of week), flat (two weeks)"
+  - "SHEPHERD trial: secondary Anchor Zone, throughput +12%, 94% compliance"
+  - "Independent review panel: 14 months, preliminary findings in 8"
+  - "Vocabulary shift: stewardship corridors, managed atmospheric events"
+  - "Aurielle notices passive voice — 'the program the grid requires' — and files it"
+  - "Wrist rotation: two instances, does not stop it (regression from Ch 10)"
+
+# Characters Present
+characters:
+  - name: "Aurielle Vasquez"
+    role: POV
+    state: "Phase 2. Mid-truth absorbed through institutional frameworks. Passive voice noticed. Wrist rotation regressing. The appendix she doesn't open."
+  - name: "Marcus Thorne"
+    role: Supporting (boardroom + private)
+    state: "Beside her in boardroom. Across desk in private. 'The document will be forgotten.' Reading, not assessing."
+  - name: "Hendricks"
+    role: Supporting (General Counsel)
+    state: "Files injunction. Reads legal exposure sections. Consistent with Ch 1, 10."
+  - name: "Park"
+    role: Supporting (abstainer)
+    state: "Names the mechanism: 'You're describing absorption.' The institutional one."
+  - name: "Pryce"
+    role: NEW — PR Director
+    state: "18 months in role. Three pre-prepared statements. Names the Atmospheric Research Initiative."
+  - name: "Marchetti"
+    role: Supporting (VP Strategic Development)
+    state: "Independent review panel composition. Division directly implicated."
+  - name: "Sofia Reyes"
+    role: Referenced
+    state: "Named as 'competent scientist.' Aurielle acknowledges science is defensible."
+  - name: "Mirelle Dubois"
+    role: Referenced
+    state: "Named as 'competent journalist.' Posthumous attribution."
+
+# Themes
+themes:
+  - "Architecture of Power (institutional absorption as architecture — injunction, PR, review panel, vocabulary shift)"
+  - "Systemic Complicity (complicity with open eyes — dependency unchanged, grid still running)"
+  - "Progress Requires Atrocity (SHEPHERD uninterrupted, 6% non-compliant absorbed)"
+  - "Truth as Weapon (mid-truth absorbed without institutional change — truth as PR event)"
+  - "Commodification of Suffering (vocabulary as product — 'stewardship corridors' replacing 'sacrifice zones')"
+
+# Symbols
+symbols:
+  - name: "The hum"
+    appearances: 4
+    arc: "Infrastructure constant — present at every scene break"
+  - name: "The desk"
+    appearances: 3
+    arc: "Eduardo's walnut desk — institutional continuity as furniture"
+  - name: "Wrist rotation"
+    appearances: 2
+    arc: "Phase 2 regression — does not stop it. Control eroding."
+  - name: "The appendix"
+    appearances: 3
+    arc: "The thing she doesn't open — absolute figure, demographic breakdown, inputs"
+  - name: "Clean typography"
+    appearances: 3
+    arc: "Institutional font as dehumanization — every number in the same format"
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 10 (SHEPHERD named, three sites, projections — same day earlier)"
+  - "Follows B2 Ch 11 (Sofia publishes at 21:47 — this chapter opens 22:03)"
+  - "Stock recovery numbers are canon: 11.2% → -3.1% → -0.8% → flat"
+  - "SHEPHERD secondary site: throughput +12%, 94% compliance, 6% non-compliant"
+  - "Anchor Zone Atmospheric Research Initiative created — covers SHEPHERD"
+  - "Independent review panel: 14 months total, preliminary findings in 8"
+  - "Wrist rotation arc: Ch 10 (stopped) → Ch 12 (does not stop) = regression"
+  - "Forward: Ch 23 'Stewardship' (vocabulary established), Ch 32 'Kill Chain' (Mumbai)"
+
+# Thread Status
+thread_status:
+  mid_truth_corporate_response: "Absorbed — injunction filed, PR deployed, independent review commissioned, vocabulary shifted. SHEPHERD uninterrupted."
+  shepherd: "Trial running at secondary Anchor Zone. Throughput +12%. 94% compliance. Cover: Atmospheric Research Initiative."
+  aurielle_arc: "Phase 2 — passive voice noticed, wrist rotation regressing, appendix not opened. Lie mutating: 'I can direct' → 'the grid requires.'"
+  stock_recovery: "Canon numbers: 11.2% dip → -3.1% (morning) → -0.8% (week) → flat (two weeks)"
+  vocabulary_shift: "Deployed: stewardship corridors, managed atmospheric events, community transition support. Old: sacrifice zones, directed absorption, relocation assistance."
+  independent_review: "Panel composed. Three external + two former VEC consultants + one independent critic. 14 months total. Preliminary in 8."

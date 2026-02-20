@@ -166,4 +166,39 @@
 
 ---
 
+### Chapter 12 — "Eleven Percent"
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-Ch 10. SHEPHERD named. Projections reviewed. Hands still on the walnut. The small voice integrated. Dual-track narration ambient. Functional tyrant with open eyes.
+- **Emotional Arc:** Alert-processing (22:03 — institutional register, not panic) → controlled institutional response (emergency board — deploying frameworks, not feeling them) → strategic performance (PR selection, Atmospheric Research Initiative — designing the forgetting) → time-lapse flatness (stock recovery, news cycle — the mechanism working as designed) → recognition (Thorne exchange — "the document describes what we are") → passive voice noticed ("the program the grid requires" — the construction she hears herself use) → unresolved (alone, the appendix, the wrist)
+- **Dominant Emotion:** Operational fluency. The horror is not in the response but in the absence of emotional discontinuity between routine and crisis. She processes the mid-truth — the document that describes NitroCore as a machine that converts people to energy — through the same frameworks she uses for quarterly reports. The emotional temperature does not change. The Chair processes everything at the same temperature. That IS the emotional state.
+- **Key Emotional Beat:** "She did not stop it." — the wrist rotation, which she stopped in Ch 10 (control, composure, the posture of the authorization). Here she feels it and does not stop it. The control is eroding — not dramatically, not visibly, but in the one physical tell no boardroom registers. The regression is involuntary. The not-stopping is the first moment she permits the involuntary to continue.
+- **Secondary Beat:** "I did not open the appendix." — not stated in those words but enacted three times. The appendix containing the absolute figure for 6% non-compliant. The demographic breakdown she didn't read for BLACKWEIR. The first quarterly's unasked question. The pattern is cumulative: each threshold she doesn't cross makes the next one smaller.
+- **Exiting State:** Alone at the desk. Yield estimate open. Wrist moving. The noticing of the passive voice filed with the other questions she doesn't ask. The appendix not opened. She is not distressed. She is not relieved. She is reading the last page first, the way she always reads, the way Eduardo read, the way the Chair reads. The emotional terminus is the same as Ch 1 and Ch 10: the person and the institution indistinguishable.
+- **Emotional Shift:** From processing (alert, board, PR — institutional tempo) to recognition (passive voice, vocabulary shift — she sees the mechanism) to regression (wrist, appendix — the control that held in Ch 10 does not hold here). The shift is subtle: she is MORE self-aware in Phase 2 than Phase 1, and the self-awareness changes nothing. Knowing and continuing. That is Phase 2's emotional architecture.
+
+**Wrist Rotation Arc (cumulative update):**
+- B1 Ch 1: unconscious, grief-response
+- B1 Ch 7: unconscious, noticed, stopped
+- B1 Ch 12–25: increasingly deliberate
+- B1 Ch 36: absent — hands still during authorization
+- B1 Ch 46: resumed, compulsive
+- B2 Ch 1: compulsive, unconscious
+- B2 Ch 10: once, conscious, then stopped. Hands flat.
+- **B2 Ch 12: twice, conscious, does NOT stop it. Regression. Control eroding.**
+
+**Marcus Thorne (Supporting):**
+- **Entering State:** Post-Ch 10. Assessment phase complete. Reading, not evaluating.
+- **Emotional Register:** Architectural efficiency. No paper. Private register — shorter sentences, no institutional cushions. The same man in every room, adapted to the room's configuration.
+- **Key Emotional Beat:** "The document will be forgotten." — not cynicism. Strategic assessment. He is describing what Aurielle has already designed (the independent review, the vocabulary shift, the accommodation phase). The beat is recognition: she no longer needs him to design the forgetting. She designs it herself. His role has shifted from architect to instrument.
+- **Exiting State:** Door closed. The interval between operations. He does not pause. The absence of theatrical weight is itself the emotional register — Thorne does not mark moments because moments are not distinct from process.
+
+**Park (Supporting — abstainer):**
+- **Emotional Register:** "You're describing absorption." — one line. The institutional mechanism named using the void's vocabulary. Park is the only board member who hears both registers. His emotional function is the reader's mirror: the person in the room who sees what Aurielle is doing and names it.
+
+**Pryce (Supporting — NEW):**
+- **Emotional Register:** Professional preparedness. Three statements pre-written. The Atmospheric Research Initiative already bracketed. Her emotional function is institutional efficiency — the machine has people whose job is to have the response ready before the event. Pryce's competence is the institution's emotional immune system.
+
+---
+
 _Last updated: 2026-02-19_
