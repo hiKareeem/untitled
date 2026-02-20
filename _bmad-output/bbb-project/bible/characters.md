@@ -871,23 +871,23 @@ This bible dimension tracks **current character states**:
 | The Luminarch | Superior (institutional) | Professional | New Geneva. Authorized the Silencing. Intelligence office tracks Void Witnesses. Relationship is institutional — they agree on management, not necessarily on truth. |
 | The Faithful (aggregate) | Pastoral | Genuine | He cares about the congregations. The care and the suppression coexist. The pastor who withholds the diagnosis. |
 
-**Current Arc:** Institutional Manager → ??? (Book 2-3)
-- Current Phase: 1/5 (Aftermath — managing post-BLACKWEIR anomalies)
-- Progression: Encyclical published, framework holds "for now"
-- Next Step: Mid-truth publication (Ch 13) — institutional response to scientific revelation
+**Current Arc:** Institutional Manager → Institutional Crisis Manager (Book 2-3)
+- Current Phase: 2/5 (Disruption — institutional tools categorically insufficient)
+- Progression: Encyclical published, contradicted by Threshold within hours. Cannot argue against Threshold honestly. Accommodation position (Breslin) will be necessary within a week.
+- Next Step: Ch 22 ("The Second Draft") — accommodation encyclical, Threshold formally breaks communion
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
 |-------|-------|-----------|
-| 1/5 | Post-BLACKWEIR institutional management | Diocesan reports, council convened, encyclical published, locked study visited |
-| 2/5 | TBD | Mid-truth response |
-| 3/5 | TBD | Church fracture |
-| 4/5 | TBD | Institution dissolving |
+| 1/5 | Post-BLACKWEIR institutional management | Diocesan reports, council convened, encyclical drafted, locked study visited |
+| 2/5 | Mid-truth institutional crisis | Emergency council. Three positions. Encyclical contradicted. Tools insufficient. Lie cracking. |
+| 3/5 | TBD | Church fracture — Prague chapel, tools exhausted |
+| 4/5 | TBD | Institution dissolving — Voice through chapels |
 | 5/5 | TBD | Option A: Last Encyclical / Option B: Walks into Anchor |
 
 **Appearances:**
-- Last Appearance: B2 Ch 3 ("The Locked Study") — DEBUT
-- Next Planned Appearance: B2 Ch 13 (mid-truth response)
+- Last Appearance: B2 Ch 14 ("The Voice Is Not Wounded")
+- Next Planned Appearance: B2 Ch 22 ("The Second Draft")
 
 **Recent History:**
 - **B2 Ch 3:** Tuesday at the European See. Receives 41 diocesan reports: resonance chapels across Europe reporting anomalous acoustic phenomena post-BLACKWEIR. Congregants hearing "additional voices" during Communal Harmonization. Sister Elowen (Reykjavik) reports the hum is "not singular" — Nephthys's word. Convenes council (14 senior clergy, Chapter Hall). Delivers institutional framing: deepened perception, not disruption. Announces encyclical: "The Voice Is Not Wounded." Council raises Void Witness migration (19% increase European See) and Nephthys's movement in Neo-Shanghai. Malachi names her aloud in the Chapter Hall — first time since the Silencing. Writes encyclical alone (3 pages, institutional theology, published by morning). Visits locked study — separate room, 40-three steps from office, mechanical lock, no digital access logs. Nephthys's letters (pre-Silencing, when she was still ordained), his unsent responses, marginal annotation: "A Voice composed of suffering is not a gift. It is a cry." Returns to office. Hands folded. The encyclical publishes. The question survives.
@@ -935,6 +935,13 @@ This bible dimension tracks **current character states**:
 | Nephthys | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Phase 2/5 (Movement fracturing). Mid-truth circulating 9 days. Three groups: Listeners/Witnesses/Threshold. Seren's question exposes Malachi echo. Kira invitation issued ("Tell her the Cathedral is open"). Nosebleed darker, third/day. "They are still here" — same words, no longer certain they are enough. | B2 Ch 13 |
 | Imani | Arc + Recent History | Phase 1/5 B2, B2 Ch 2 | Political awareness sharpening: "Seren's question is going to travel." Brokering Kira contact. Tracks nosebleed escalation (third today, darker). Shoulder touch habitual. Watching from doorway before entering. | B2 Ch 13 |
 | Delia | New minor character | — | Former Church archivist. Listener. Compiling systematic testimony record across the network — "not for publication, but for pattern recognition." Institutional seed. | B2 Ch 13 |
+
+| Malachi | Arc + Recent History | Phase 1/5 B2, B2 Ch 3 | Phase 2/5 (Disruption). Mid-truth hits Church. Emergency Ecclesiastical Council (19 of 24 chairs, first in 11 years). Three positions: suppress (Almeida), accommodate (Breslin), reform (Voss). Voss's unfinished sentence: "every harmonization service has been—" Malachi chooses suppress. Encyclical "The Voice Is Not Wounded" drafted (muscle memory, 3 pages, institutional lie). Threshold response arrives citing Nephthys + mid-truth before encyclical distributes — "participatory communion," "participatory prayer." Cannot make counter-argument honestly. Locked study: reads post-Silencing letter — "The Voice is not wounded. The Voice is a wound." / "We built a church on a scream." Could publish correspondence. Does not. Hum thicker tonight (noticed, not understood). Closing: folded hands, encyclical distributing, question survives. | B2 Ch 14 |
+| Prelate Voss | Arc update | B2 Ch 3 (hesitation) | B2 Ch 14: Hesitation dissolved by mid-truth. Reform position: "The methodology section is complete." Begins unfinished sentence — stops. The room completes it silently. | B2 Ch 14 |
+| Breslin | Arc update | B2 Ch 3 (pastoral affairs) | B2 Ch 14: Accommodation position planted — "The Voice endures so humanity may live." Suffering as sacrament. Recognizes Malachi's calculus ("The faithful need more than suppression"). Forward: this position becomes the second encyclical (Ch 22). | B2 Ch 14 |
+| Almeida | Arc update | B2 Ch 3 (diplomatic precision) | B2 Ch 14: Suppress position — "The document is unverified. Methodology incomplete." Institutional reflex. NitroCore injunction cited. | B2 Ch 14 |
+| The Luminarch | Status update | B2 Ch 3 (absent, referenced) | B2 Ch 14: Conspicuous silence — no advisory for 3 days after mid-truth publication. No private communication. No guidance through secure channel. Waiting to see what Malachi does. | B2 Ch 14 |
+| Threshold (movement) | New entity | — | First publication. Cites Nephthys + mid-truth document. Calls harmonization "participatory communion" and proximity to Anchor Zones "participatory prayer." Not yet formally named in ecclesiastical records. Contradicts "The Voice Is Not Wounded" before it distributes. | B2 Ch 14 |
 
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 

@@ -282,4 +282,39 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
-_Last updated: 2026-02-19_
+### Chapter 14 — "The Voice Is Not Wounded" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-institutional (opening/document) → rising-sustained (council/three positions) → peak (Voss's unfinished sentence) → institutional resolution → medium-sustained (encyclical writing) → spike (Threshold message) → contemplative (locked study/letter) → resolving (closing refrain)
+**Pacing:** Three-movement structure mirroring Ch 3. Council = 42% of chapter. Encyclical + Threshold = transition. Locked study = philosophical payload.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening + Council | ~1,800 | Rising → peak | Political room-reading. Three positions. Voss's unfinished sentence = peak. Malachi fills silence with institutional framing. |
+| Encyclical writing + Threshold | ~1,300 | Medium → spike | Register drops to private. Muscle memory drafting. Threshold message disrupts — encyclical contradicted before distribution. |
+| Locked study | ~1,200 | Contemplative → weight | Quietest section. Post-Silencing letter. "We built a church on a scream." Could publish. Does not. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Every word of it was a lie." / "He could not make the argument." / "He could not do it." / "It always did."
+- Council scene rhythmically denser than Ch 3's council — more voices, higher stakes, but Malachi's institutional register keeps the tempo measured. The room is governed, not chaotic.
+- Encyclical fragments (italicized) provide embedded institutional voice — the reader hears the encyclical's language against Malachi's private assessment. Dual-track narration (the lie being written / the truth being known).
+- Threshold message arrives as rhythmic disruption — interrupts the encyclical's quiet completion with external urgency. Creates spike in otherwise contemplative second movement.
+- Locked study slows to Ch 3 tempo — bare stone, single lamp, paper weight. The letter is the slowest passage. Reader inhabits the room.
+- "Forty-three steps." — single-line paragraph as scene transition. Maximum rhythmic isolation on the architectural fact.
+- Closing refrain identical to Ch 3: "The question survived. / It always did." Deliberate structural repetition — the institutional posture unchanged despite categorically different context.
+
+**Dialogue Percentage:** ~7% (concentrated in council scene; encyclical and locked study are solo narration)
+
+**Pacing Concern:** Council scene risks feeling like a committee meeting. Mitigated by Malachi's internal translation (he knows what each position means, and his institutional fluency is the pacing device — the reader processes politics and character simultaneously). Voss's unfinished sentence provides dramatic peak within the institutional register.
+
+**Structural Note:** Ch 14 paired with Ch 3 forms Malachi's Phase 1→2 unit. Ch 3: managing anomalous reports, institutional tools work, encyclical as draft concept. Ch 14: managing public scientific revelation, institutional tools still work but are categorically insufficient, encyclical as published document contradicted within hours. Same three-movement structure (council → writing → locked study), same closing refrain, escalated context. The structural repetition IS the character — the institutional operator performing the same procedure on a categorically different problem.
+
+**Comparison to Ch 3:**
+- Ch 3: ~4,500 words, 14 council members, anomalous reports, encyclical draft, Nephthys's letters read. Opening: "The reports arrived on Tuesdays."
+- Ch 14: ~4,300 words, 19 council members, mid-truth, encyclical published + contradicted, post-Silencing letter read. Opening: "The document arrived on a Tuesday."
+- Together: institutional management → institutional crisis → the posture is the same. The tools are the same. The situation is categorically different. The question survives.
+
+---
+
+_Last updated: 2026-02-20_

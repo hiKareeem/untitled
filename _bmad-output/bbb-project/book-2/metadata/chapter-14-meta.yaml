@@ -1,0 +1,130 @@
+chapter_number: 14
+book: 2
+title: "The Voice Is Not Wounded"
+pov_character: "Malachi"
+phase: 2
+location: "European See — Chapter Hall, Malachi's study, locked study"
+timeline: "~6 months post-BLACKWEIR, days after mid-truth publication"
+estimated_word_count: 4500
+actual_word_count: ~4300
+epigraph_source: "Locked correspondence"
+epigraph_author: "Malachi"
+epigraph_ref: "Locked correspondence, undated"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  The mid-truth hits the Church. Sofia Reyes's publication — confirming nitro is
+  suffering, the absorbed retain identity, the Church's sacramental framework is built
+  on conscious suffering — arrives at the European See on a Tuesday. Malachi convenes
+  an emergency Ecclesiastical Council, the first in eleven years. Three positions form:
+  suppress (Almeida — the document is unverified), accommodate (Breslin — reframe
+  suffering as sacred), reform (Voss — acknowledge and restructure). Voss begins the
+  sentence the room cannot finish: "every harmonization service for the past hundred
+  and thirty years has been—" Malachi fills the silence with institutional framing and
+  chooses suppress. He writes the encyclical "The Voice Is Not Wounded" — three pages
+  of institutional theology, competent, measured, a lie. Before it distributes, a
+  Threshold response citing Nephthys contradicts the encyclical's premise: the Voice
+  has changed, the change is sacred, proximity is prayer. Malachi cannot make the
+  counter-argument honestly — the Threshold is wrong about what to do with the knowledge,
+  not wrong about the knowledge itself. In the locked study, he reads the post-Silencing
+  letter — "The Voice is not wounded. The Voice is a wound." He could publish the
+  correspondence and vindicate Nephthys. He does not. The encyclical distributes. The
+  tools are working. The tools are not enough. The question survives.
+
+# Key Events
+key_events:
+  - "Emergency Ecclesiastical Council convened — first in eleven years"
+  - "Three positions: suppress (Almeida), accommodate (Breslin), reform (Voss)"
+  - "Voss's unfinished sentence: 'every harmonization service has been—'"
+  - "Malachi chooses suppress — encyclical 'The Voice Is Not Wounded' drafted and published"
+  - "Threshold response arrives citing Nephthys + mid-truth — contradicts encyclical before distribution"
+  - "Malachi cannot make the counter-argument honestly"
+  - "Locked study: reads post-Silencing letter — 'The Voice is a wound' / 'We built a church on a scream'"
+  - "Could publish correspondence. Does not."
+
+# Characters Present
+characters:
+  - name: "Malachi"
+    role: POV
+    state: "Institutional tools still functional but categorically insufficient. Lie cracking: 'the faithful need the institution' — but the faithful have the truth now. Cannot argue against Threshold honestly."
+  - name: "Prelate Voss"
+    role: Supporting
+    state: "Reform position. Hesitation from Ch 3 dissolved by mid-truth. Speaks the unfinished sentence."
+  - name: "Prelate Almeida"
+    role: Supporting
+    state: "Suppress position. Institutional reflex — methodology concerns, injunction cited. The man who knows which words to use."
+  - name: "Breslin"
+    role: Supporting
+    state: "Accommodate position — 'The Voice endures so humanity may live.' Suffering as sacrament. 20-year colleague who sees the cost of Malachi's calculus."
+  - name: "Nephthys"
+    role: Referenced (absent)
+    state: "Cited by Threshold. Letters in locked study. Movement growing. Everyone cites her except the institution that expelled her."
+  - name: "The Luminarch"
+    role: Referenced (absent)
+    state: "Conspicuous silence — no advisory for 3 days. Waiting to see what Malachi does."
+  - name: "Sofia Reyes"
+    role: Referenced (named)
+    state: "Mid-truth author. Named in document attribution. Malachi reads her work alongside the Tuesday reports."
+  - name: "Mirelle"
+    role: Referenced (named)
+    state: "Posthumous attribution in the document. Dead-hand cache evidence."
+
+# Themes
+themes:
+  - "Architecture of Power (institutional response to truth — framing as governance, suppression as sequence)"
+  - "Where Identity Ends (absorbed confirmed present — sacramental framework has no architecture for this)"
+  - "Systemic Complicity (suppression as job description, generational, inherited from predecessor)"
+  - "Truth as Weapon (mid-truth weaponized by Threshold to contradict encyclical)"
+  - "What We Owe (pastoral debt — the pastor who withholds the diagnosis)"
+
+# Symbols
+symbols:
+  - name: "Folded hands"
+    appearances: 4
+    arc: "Institutional composure as involuntary posture — body decides before mind"
+  - name: "Ink-stained thumb"
+    appearances: 1
+    arc: "Forty years of institutional writing as physical mark. Continuity from Ch 3."
+  - name: "The chair"
+    appearances: 2
+    arc: "'The chair received him' — institution as ergonomic accommodation"
+  - name: "43 steps"
+    appearances: 2
+    arc: "Architectural separation between public and private truth"
+  - name: "Key on cord"
+    appearances: 1
+    arc: "Mechanical, analog, no audit trail. Institution cannot see inside."
+  - name: "The locked letter"
+    appearances: 1
+    arc: "'We built a church on a scream.' Could vindicate Nephthys, destroy institution. Preserved and imprisoned."
+  - name: "Vestments"
+    appearances: 2
+    arc: "'He wore the institution.' Weight physical and metaphorical."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 3 directly (same location, same objects, same 43-step count, escalated context)"
+  - "Ch 3: Managing anomalous hum reports → Ch 14: Managing public scientific revelation"
+  - "Mid-truth published (B2 Ch 11) — Sofia's document via Black Babel, named and described"
+  - "NitroCore injunction referenced (B2 Ch 12) — 'proprietary data theft'"
+  - "Threshold forming (B2 Ch 13) — citing Nephthys, publishing own theology"
+  - "Encyclical title formalized from Ch 3 draft concept"
+  - "Chapter Hall: 24 chairs, 19 occupied (vs Ch 3's 14 — emergency means fuller attendance)"
+  - "Hum density: thicker than six months ago, thicker tonight — progressive increase"
+  - "Forward: Ch 22 (accommodation encyclical — Breslin's position adopted)"
+  - "Forward: Ch 27 (Prague — resonance chapel visit)"
+  - "Forward: Phase 4 (Voice through chapels — hum thickening seeded)"
+  - "'Hundred and thirty years' — Church timeline consistent (~2040s founding, story ~2175)"
+
+# Thread Status
+thread_status:
+  mid_truth_impact: "Encyclical published as suppress response. Contradicted by Threshold before distribution. Accommodation (Breslin's draft) will be necessary within a week."
+  church_fracture: "Three positions crystallized in council (suppress/accommodate/reform). Threshold publishing independently, citing Nephthys. Formal schism approaching."
+  locked_correspondence: "Post-Silencing letter read — 'The Voice is a wound.' Private theology more complete than Nephthys's. Could vindicate her, destroy institution. Not published."
+  luminarch: "Conspicuous silence — 3 days without advisory. Institutional distance. Waiting."
+  malachi_lie: "Cracking. The faithful have the truth. The institution still stands. But the Threshold weaponizes the truth against the faithful, and Malachi cannot argue against them honestly."
+  hum_density: "Thicker tonight — noticed, not understood. Forward seed for Voice event."

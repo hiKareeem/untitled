@@ -201,4 +201,35 @@
 
 ---
 
-_Last updated: 2026-02-19_
+### Chapter 14 — "The Voice Is Not Wounded"
+
+**Malachi (POV):**
+- **Entering State:** Post-Ch 3. Institutional composure maintained. Anomalous hum reports managed. Encyclical drafted as concept. Locked correspondence visited. The Lie held: "the faithful need the institution."
+- **Emotional Arc:** Institutional readiness (document received, Tuesday coincidence noted, hands folded) → controlled governance (council — three positions measured, room managed, Voss's unfinished sentence absorbed and filled) → institutional fluency (encyclical written from muscle memory, three pages, the lie competent and measured) → disruption (Threshold message — the tools are contradicted before they deploy) → paralysis (cannot make the counter-argument honestly — the Threshold is wrong about what to do, not wrong about what they know) → contemplative weight (locked study — post-Silencing letter, "The Voice is a wound," "We built a church on a scream") → the choice (could publish, does not) → institutional return (43 steps back, folded hands, closing refrain)
+- **Dominant Emotion:** Institutional exhaustion without collapse. The horror is not the crisis — it is the familiarity. He has performed this procedure before (on Nephthys, on chaplains, on seminary instructors). The tools are the same. The interior state is the same. The situation is categorically different and the emotional response is identical. That sameness IS the emotional state — the institutional operator so practiced that crisis and routine produce the same posture.
+- **Key Emotional Beat:** "He could not make the argument." — The moment the institutional tools fail silently. Not a dramatic collapse — a quiet recognition that the counter-response to the Threshold requires him to argue something he knows is false, and for the first time the institutional fluency that has carried him for twenty-two years encounters a task it cannot perform. He does not break. He walks to the locked study. The institutional man's response to the failure of institutional tools is to visit the private space where the tools have always been inadequate.
+- **Secondary Beat:** "I have decided the institution is necessary. I decide this every morning. I am deciding it again now." — The recursive decision. Not a belief but a daily institutional act. The Lie maintained not through conviction but through repetition. The emotional register is not anguish — it is the exhaustion of someone who has been making the same decision for twenty-two years and knows he will make it again tomorrow.
+- **Exiting State:** Folded hands. Thumbs aligned. Hum through the stone. The encyclical distributing. The Threshold contradicting it. The accommodation position necessary within a week. The locked study closed. The question surviving. The institutional posture unchanged. He is not distressed. He is not relieved. He is the Arch-Prelate, performing the office's functions, the way the office has always performed them. The emotional terminus is institutional stasis at the edge of institutional insufficiency.
+- **Emotional Shift:** From institutional management (Ch 3: anomalous reports, manageable, tools work) to institutional crisis management (Ch 14: public truth, tools still function but are categorically insufficient). The shift is not in Malachi's interior — his interior has been the same for ten years. The shift is in the gap between the interior and the exterior: the truth he carries privately is now public, and the tools designed to manage a secret are being deployed against a public fact. The emotional consequence is not new feeling but new weight on the same feeling.
+
+**Folded Hands Arc (cumulative):**
+- B2 Ch 3: ×3 — opening (habitual), council (institutional composure), locked study return (closing posture)
+- **B2 Ch 14: ×4 — opening (document received), council (institutional decision), post-Threshold (paralysis processed as posture), closing (unchanged). Frequency increasing. The posture is becoming more involuntary, more frequent — the institutional body asserting itself as the institutional mind encounters tasks it cannot perform.**
+
+**Prelate Voss (Supporting):**
+- **Entering State:** Post-Ch 3. The pastoral man who reported "additional voices." Hesitation present — deciding between institutional safety and honest observation.
+- **Emotional Arc:** Composed arrival → hesitation dissolved (mid-truth gave language) → reform position stated → unfinished sentence ("every harmonization service has been—") → stops → sits with the silence Malachi fills
+- **Dominant Emotion:** Dissolved caution. The mid-truth removed the decision between institutional safety and honest observation — the observation is now public. What remains is grief: the sentence he cannot finish is the sentence that implicates the institution he serves.
+- **Key Emotional Beat:** The stop. "He stopped." — Not silenced by Malachi. Silenced by the weight of what the sentence means. The room knows how it ends. He doesn't need to finish. The not-finishing is more devastating than the finishing would be.
+
+**Breslin (Supporting):**
+- **Entering State:** 20 years at the See. Pastoral affairs. Measures human cost before institutional cost.
+- **Emotional Arc:** Observing room → accommodation position (genuine pastoral instinct) → "The faithful need more than suppression" → accepting Malachi's framing (time, sequence, parallel track)
+- **Dominant Emotion:** Pastoral urgency constrained by institutional reality. She sees the cost of Malachi's calculus — the look that is "not attempting to read him but recognizing what she was seeing." She knows. She accepts the framework anyway, because the alternative (no framework) is worse for the frightened faithful she serves.
+
+**Almeida (Supporting):**
+- **Emotional Register:** Institutional reflex. "Methodology concerns" as emotional anesthetic. The careful man who knows which words to use. His emotional function is institutional homeostasis — the voice in the room that argues for doing nothing and calls it prudence.
+
+---
+
+_Last updated: 2026-02-20_
