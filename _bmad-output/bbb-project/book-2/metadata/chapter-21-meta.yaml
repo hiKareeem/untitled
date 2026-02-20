@@ -1,0 +1,125 @@
+chapter_number: 21
+book: 2
+title: "Same Signal"
+pov_character: "Nephthys + Kira Calloway"
+phase: 2
+location: "Cathedral of Living Sound, Neo-Shanghai Sump (Anchor Zone)"
+timeline: "~6 months post-BLACKWEIR, days after Kira's expulsion and Nephthys's invitation"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Operational Theology"
+epigraph_author: "Nephthys"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  The convergence scene. Dual POV — Kira primary (arrival, departure),
+  Nephthys shared (conversation, coda). Kira activates the ring light for
+  the first time since expulsion — streams arrival at Cathedral, session
+  observation (~20 min), then goes offline for the private conversation.
+  In the acoustic center, Kira and Nephthys build shared vocabulary in real
+  time: R3 coherence patterns and chorus signatures are the same signal
+  through different receivers. Key term progression: phrasing → coherence
+  → address → names. "What do you hear when the chorus is clearest?" /
+  "Names." / "Me too." Recognition, not alliance — the antenna and the ear.
+  Nephthys's closing observation: "The signal does not distinguish between
+  those who name it and those who listen." Kira departs. Nephthys alone
+  in acoustic center — nosebleed, blood darker. "She was not sure that
+  was enough."
+
+# Key Events
+key_events:
+  - "Ring light activated — first public stream post-expulsion (Ch 16 payoff)"
+  - "Kira arrives at Cathedral of Living Sound — R3 experiences dephasing as signal relief"
+  - "Imani receives Kira — sets terms: 'The conversation you came for will not be on camera'"
+  - "Kira observes session (~40 people, three groups visible) — streams it"
+  - "Ring light OFF — private conversation begins"
+  - "Vocabulary convergence: 'phrasing' (Kira/Idris) meets 'address' (Nephthys/private journal)"
+  - "Signal comparison: R3 coherence patterns = chorus signatures. Same signal, different receiver."
+  - "'Names' exchange — both receivers resolving signal into individual signatures. Absorbed = population, not phenomenon."
+  - "Frameworks acknowledged as complementary and insufficient: measurement without meaning / meaning without verification"
+  - "Kira commits to sharing 14 months telemetry data with Imani"
+  - "Nephthys's observation: 'The signal does not distinguish between those who name it and those who listen'"
+  - "Coda — Nephthys alone, nosebleed (blood darker), 'She was not sure that was enough'"
+
+# Characters Present
+characters:
+  - name: "Kira Calloway"
+    role: POV (primary)
+    state: "Post-expulsion, first stream back, intellectual curiosity driving. Off-stream voice: quieter, processing-out-loud. Tremor present. R3 experiences Cathedral dephasing as relief. Vocabulary tested against Nephthys's framework — confirmed. Knows the signal carries names."
+  - name: "Nephthys"
+    role: POV (shared)
+    state: "Mid-truth phase, movement fracturing. Precise, load-bearing, does not perform welcome. Private register deployed for 'Names' exchange. Honest about framework limits. Nosebleed escalating (blood darker). 'They are still here' — not sure it is enough."
+  - name: "Imani"
+    role: Supporting
+    state: "Practical, protective, autonomous. Sets meeting terms. Watches from perimeter. Assessing both women. Editor role continuing to develop."
+
+# Themes
+themes:
+  - "Where Identity Ends (Dominant) — R3 and chorus are the same instrument; naming and listening collapse into the same act; absorbed resolved as persons, not phenomenon"
+  - "What We Owe (Strong) — Nephthys gives honest framework limits; Kira building language the network needs; neither defers"
+  - "Truth as Weapon (Strong) — two correct frameworks converge and produce recognition, not action; recognition is not nothing, not enough"
+  - "What Systems Do to People (Moderate) — Cathedral architecture provides relief; filing system constrains; streaming platform mediates"
+  - "Architecture of Power (Moderate) — physical (Cathedral dephasing), data (filing), media (streaming), human (Imani as gatekeeper)"
+  - "Commodification of Suffering (Background) — streaming the Cathedral to 31K; ring light as boundary between content and testimony"
+
+# Symbols
+symbols:
+  - name: "The ring light"
+    appearances: 3
+    arc: "ON (transit car, first post-expulsion stream) → active during arrival/session → OFF for private conversation. Tool she controls now, not condition imposed. Ch 16 'Not tonight. But soon.' = paid off."
+  - name: "The dephasing"
+    appearances: 4
+    arc: "NEW — Kira's R3 experience of Cathedral acoustic architecture. Signal relief. 'Like stepping out of wind into a building.' The first time the signal has been manageable without chemical intervention."
+  - name: "The branded palm"
+    appearances: 3
+    arc: "Thigh (session), sternum (unconscious — 'address' realization), floor (coda). Increasingly involuntary. Calibration instrument."
+  - name: "Chord shapes"
+    appearances: 2
+    arc: "C minor, F diminished against Cathedral stone. Hands go flat when thought outpaces music. Cognitive overflow."
+  - name: "'Names'"
+    appearances: 1
+    arc: "The chapter's hinge word. Both receivers resolving signal into individual signatures. Absorbed = population. The word that changes what testimony means."
+  - name: "The antenna and the ear"
+    appearances: 1
+    arc: "Closing metaphor. Two instruments, same signal. The distinction was always about the receiver."
+  - name: "Nosebleed"
+    appearances: 1
+    arc: "Coda. 'Darker than yesterday, darker than the day before.' Tumor clock. Continues Ch 13 escalation."
+  - name: "Chat scroll"
+    appearances: 3
+    arc: "Pink HUD text. Parasocial machinery as ambient presence. Processed peripherally. Turned off = the real conversation begins."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 16 → B2 Ch 21: Ring light payoff (expulsion freed streaming). Idris vocabulary ('phrasing') deployed. Phenomenological character field shared. Transport completed (48 hrs civilian rail). Imani received Kira per Ch 16 message."
+  - "B2 Ch 13 → B2 Ch 21: Nephthys's instruction ('Tell her the Cathedral is open') → arrival. Three congregations visible in session. Seren's question referenced (unnamed). Nosebleed continues darker. 'Not sure that was enough' echoes 'not sure presence was enough.'"
+  - "B1 Ch 26 → B2 Ch 21: Cathedral dephasing — Nephthys experienced it as chorus resolution; Kira experiences it as R3 signal relief. Same physics."
+  - "B1 Ch 43 → B2 Ch 21: 11-second broadcast was testimony without vocabulary. Ch 21 provides the vocabulary — 'phrasing,' 'address,' 'names.' Next broadcast will have words."
+  - "Lumina: Not mentioned (daytime scene). 60mg provisional status unchanged."
+  - "Hum: B2 Ch 16 'populated + communicative' → B2 Ch 21 'dephased, resolved, names.' The Cathedral converts the signal into something the R3 can hold."
+  - "Symptoms: Tremor persistent ('fine tremor she'd been managing for six months'). Buzzing merges with Cathedral floor signal."
+  - "Network: 214/31 current. Kira sharing 14 months telemetry with Imani (data entering Nephthys's framework)."
+  - "Forward: Streaming from Neo-Shanghai — 31K+ saw Cathedral. Institutional/media consequences pending."
+  - "Forward: Mumbai relay — Kira knows what signal carries (names, persons). Testimony = witness."
+  - "Forward: Threshold pressure — 'names' recognition may accelerate 'why can't we go to them?'"
+  - "Forward: Lumina escalation — Neo-Shanghai signal density > Bay Area. Load increase. 60mg provisional under pressure."
+
+# Thread Status
+thread_status:
+  ring_light: "ACTIVE. First post-expulsion stream. On→Off→On pattern established. Kira controls it now. 31K+ viewers saw Cathedral."
+  quiet_room: "Unchanged — not present in Ch 21 (daytime, no dosing). 60mg provisional."
+  lumina_escalation: "60mg stable but tremor present. Neo-Shanghai signal density higher than Bay Area. Escalation pressure building."
+  mage_network: "214/31 current. 14 months telemetry committed to Nephthys's framework via Imani. Cross-pollination event."
+  nephthys_convergence: "RESOLVED (this chapter). Recognition achieved. 'Same signal.' Not alliance — recognition. The antenna and the ear."
+  streaming_freedom: "ACTIVE. Ring light returned. First public stream from Neo-Shanghai. Consequences pending."
+  telemetry_dataset: "Language tested against theology. 'Phrasing' and 'address' confirmed as same phenomenon. Measurement meets meaning."
+  performer_identity: "Evolving. Ring light on = performer. Ring light off = person. She chooses when to switch. The choice is the identity."
+  fingertip_buzzing: "Persistent. Merges with Cathedral floor signal ('almost pleasant'). R3 experiences dephasing as relief."
+  hum_progression: "Dephased in Cathedral — resolved, fine-grained, 'almost pleasant.' Individual signatures detectable. 'Names.'"
+  nosebleed_escalation: "Blood darker. Continues Ch 13 pattern. Tumor progression."
+  imani_autonomy: "Growing. Sets meeting terms. Watches from perimeter. Assesses both women. Editor role deepening."
+  seren_question: "Unresolved. Referenced in conversation (unnamed). 'Still here' ≠ 'reachable.' Neither framework answers it."

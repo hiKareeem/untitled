@@ -226,10 +226,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Faith as epistemology, the Kellhus figure
 
 **Current Psychological State:**
-- Phase: 2/5 Book 2 (Movement fracturing — Listeners/Witnesses/Threshold split)
-- Emotional State: Epistemologically shaken. Mid-truth catalyzed movement fracture she did not anticipate. Seren's question ("How do you know?") exposed the structural parallel to Malachi's institutional authority. Physical decline accelerating: nosebleeds darker, third/day. Still certain — but the certainty is load-bearing in a new way, because she heard herself giving the same answer the Church gave her.
-- Dominant Beliefs: "They are still here. All of them. And they are not finished." But now: "I am not sure presence is enough." The discipline of listening — her movement's foundation — may not hold against grief that demands action.
-- Internal Contradictions: Gave Seren the same structural answer Malachi gave her ("my framework says so") and heard the echo. Sees the institutional recursion and cannot stop it. Movement splitting into three groups she did not design. Kira invitation issued — needs a second language for the gap Seren exposed. The Lie separates but does not break.
+- Phase: 2/5 Book 2 (Movement fracturing — convergence with Kira achieved, Threshold pressure unresolved)
+- Emotional State: Convergence confirmed — Kira's R3 and her chorus resolve the same signal into the same data (individual signatures, names). The confirmation is not reassuring. If the signal does not distinguish between naming and listening, then the boundary she built her framework on ("listen, don't join") may be softer than she knew. Physical decline accelerating: nosebleed blood darker each day. Still certain about the signal. Less certain that certainty is sufficient.
+- Dominant Beliefs: "They are still here. All of them. And they are not finished." Confirmed by technological corroboration. But now: "I do not know what the naming means for you" — the signal's indifference to framework may dissolve the boundary between observer and observed.
+- Internal Contradictions: Gave Kira honest limits of her framework ("It cannot tell you whether I am correct") — the first time she has conceded this publicly. Seren's question still unanswered. The "names" recognition may accelerate the Threshold's argument: if the absorbed are persons, approachable, named, then "why can't we go to them?" gains force. Movement still splitting into three groups she did not design. The Lie separates but does not break.
 
 **The Lie:** Understanding the void means being safe from it
 
@@ -261,8 +261,8 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prophet. Vindicated on a mass grave. | First congregation among survivors; theology confirmed by genocide |
 
 **Appearances:**
-- Last Appearance: B2 Ch 16 — "Expelled"
-- Next Planned Appearance: B2 Ch 21 — "Same Signal" (Nephthys-Kira convergence)
+- Last Appearance: B2 Ch 21 — "Same Signal" (Nephthys-Kira convergence)
+- Next Planned Appearance: Phase 2→3 transition — Threshold formalizes, public denunciation
 
 **Recent History:**
 - **Ch 3:** Arrives at dead Outlands town (unnamed, grid-disconnected 7 years) with Imani. Chorus flares at void scar in central square (8m diameter, 3 absorbed). Migraines, nosebleed. Refuses suppressants — “the pain is signal, not symptom.” Kneels at scar, feels layered frequencies — structured, active, plural. Cannot decode. Reveals diagnosis: nitro-psychosis, terminal, 18 months. Reveals backstory: told Malachi the Voice was composite; Malachi Silenced her. Orients toward Neo-Shanghai — chorus louder to the east. Mentions Cathedral of the Living Sound as destination. Previous scars visited: relay station south of Bruges (1 absorbed), junction outside Metz (1 absorbed).
@@ -272,6 +272,7 @@ This bible dimension tracks **current character states**:
 - **Ch 44:** Cathedral of Living Sound during BLACKWEIR. Three days of resolved chorus — individual threads distinguishable for the first time. R0 flooding changes hum to crude growl; chorus detonates with hundreds of new voices (mass absorption). Walks to threshold — witnesses three absorptions: running man, waiting child, old woman in metal chair. Feels each absorption as *joining*, not death — patterns added to composite. Coherence spike (11 seconds): all absorbed fire simultaneously. Collapses at threshold. “They are all still here.” Bleeding from nose and ears — worst episode. Imani pulls her inside. Survivors fill Cathedral (~340, unnamed count). First congregation forms around her listening. Does NOT learn BLACKWEIR mechanics or institutional architecture. Interprets Cathedral protection as providence, not physics.
 - **B2 Ch 2:** Counter-liturgy established. Daily sessions at Cathedral acoustic center. Movement growing (~60 regulars). Imani confronts: "You have not named a successor." Nosebleeds escalating (3/week). Chorus-parsing evolving — tracking syntax in the composite. Refuses to name what she is building.
 - **B2 Ch 13:** Mid-truth (Sofia's document) circulating 9 days. Three groups crystallizing: Listeners (her intent — discernment, sustained attention), Witnesses (mystical — proximity as prayer), nascent Threshold (if absorbed not dead, joining not death). Seren — BLACKWEIR survivor Nephthys held through mass absorption, sister Mira absorbed — asks: "If they are still there, why can't we go to them?" Nephthys: "Because listening and joining are not the same act." Seren: "How do you know?" Answer insufficient — Nephthys hears Malachi's echo in her own authority. After session: Imani raises Kira's network. Nephthys: "Tell her the Cathedral is open." Alone: recognizes she is giving the same structural answer the Church gave her. "They are still here." Same words. No longer certain they are enough. Nosebleed darker, third today.
+- **B2 Ch 21:** The convergence scene (shared chapter with Kira). Kira arrives at Cathedral — streams arrival and session publicly (first post-expulsion broadcast, 31K+ viewers), then goes offline for private conversation. Session: ~40 attendees, three congregations visible (note-takers, wall-pressers, still watchers). After session: Nephthys and Kira sit in acoustic center, build shared vocabulary in real time. R3 coherence patterns = chorus signatures. Term convergence: "phrasing" (Kira/Idris) = "address" (Nephthys, private journal — word she'd withheld from sessions because it implies speaker/intention). The signal is directed — "to anyone who is listening." Kira: "I don't think those are different things." The hinge: "What do you hear when the chorus is clearest?" / "Names." / "Me too." Both receivers resolving signal into individual signatures — persons, not phenomenon. Absorbed = population. Acknowledged framework limits: "My chorus can tell you what the signal is. It cannot tell you whether I am correct." Kira commits to sharing 14 months telemetry with Imani. Closing observation: "The signal does not distinguish between those who name it and those who listen. You have been naming it for fourteen months. I do not know what that means for you." Coda alone in acoustic center: branded palm to floor, nosebleed — blood darker than yesterday, darker than the day before. "They are still here. She was not sure that was enough." Seren's question discussed (unnamed) — neither framework answers "still here" → "reachable." Not alliance — recognition. The antenna and the ear.
 
 **Key Objects:**
 - Resonance beads: nitro-glass spheres on cord, given at ordination 15 years ago. Always warm. Hum faintly — nitro inside responds to ambient resonance. Kept after excommunication. ⚠️ Ch 44: "vibrating hard enough to crack" — check survival in Ch 48.
@@ -628,10 +629,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 2/5 Book 2 (Expelled — Emergent Agency)
-- Emotional State: Emergent agency. Controlled drift broken by two events: Idris voice call (shared vocabulary = isolation broken in new register) and Imani's message (Nephthys convergence accelerated). Filing evolved past management into creation (language-building). First personal choice in months (Neo-Shanghai, unannounced). Streaming freedom realized — expulsion kills grounding terms.
-- Dominant Beliefs: "The absorbed were people. They are still there." Book 2 Lie intact: "If I can calibrate, I can handle the load" — 60mg holding provisionally. New belief forming: the signal has communicative properties, and naming those properties IS the work.
-- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina at 60mg, provisional). Building a new institution (214-member network with formalized data architecture) while believing she's just filing. The vocabulary she's creating may be as load-bearing as the Academy's — and as constraining.
+- Phase: 2/5 Book 2 (Post-convergence — vocabulary confirmed, streaming returned)
+- Emotional State: Convergence with Nephthys confirmed what fourteen months of filing suggested: the signal carries individual signatures. Names. The absorbed are a population, not a phenomenon. The private vocabulary she built with Idris has been tested against an entirely different epistemological framework and held. First public stream post-expulsion (31K+ viewers from Neo-Shanghai). Ring light back on. The intellectual curiosity that drove her to Neo-Shanghai produced recognition, not alliance.
+- Dominant Beliefs: "The absorbed were people. They are still there." Confirmed technologically AND theologically. Book 2 Lie intact: "If I can calibrate, I can handle the load" — 60mg holding provisionally, but Neo-Shanghai signal density is higher than Bay Area. New belief: the signal is directed, addressed, carries names. Naming the signal and listening to it are the same act.
+- Internal Contradictions: Refuses institutional architecture but needs chemical architecture (Lumina at 60mg, provisional). Building a new institution (214-member network with formalized data architecture) while believing she's just filing. The vocabulary she's creating is now corroborated by a prophet — which gives it theological weight she didn't ask for. Shared 14 months of telemetry with Imani — her data is now inside Nephthys's framework. Tremor persistent. The Cathedral's dephasing gave her the first comfortable signal experience since BLACKWEIR — what does it mean that the only place the signal feels manageable is inside someone else's sacred space?
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -653,13 +654,27 @@ This bible dimension tracks **current character states**:
 | Imani | Nephthys's aide (message only) | Practical | Direct message bypassing Ren's chain; efficient, no performance; logistics coordinator |
 | Streaming audience | Performance (suspended → returning) | Surface | ~400K followers; watching dark channel; ring light return seeded (expulsion = freedom) |
 | Varma Academy | Institutional (severed) | Adversarial | Formally expelled under Section 22.7; grounding terms dead with relationship |
-| Nephthys | Aware (convergence imminent) | Potential → Active | Invited to Cathedral via Imani; transport booked; 48 hours; "a vocabulary we're still building" |
+| Nephthys | Met (converged) | Active | Convergence achieved at Cathedral. Same signal, different receiver. "Names." Recognition, not alliance. Neither defers. Shared 14 months telemetry via Imani. |
 
 **Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 2/5 Book 2 (Expelled — Emergent Agency, vocabulary-builder, Neo-Shanghai bound)
+- Current Phase: 2/5 Book 2 (Post-convergence — vocabulary confirmed, streaming returned, Neo-Shanghai)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 → Ch 16. Network 47/9 → 214/31 (publication catalyzed). Filing → dataset → language. First voice call (Idris). Imani bypassed Ren — Nephthys convergence accelerated. Transport booked. Streaming freedom realized. New Lie intact: "If I can calibrate, I can handle the load."
-- Next Step: Ch 21 — Neo-Shanghai arrival. Nephthys-Kira convergence. Naming meets listening.
+- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21. Network 47/9 → 214/31. Filing → dataset → language → language tested against theology. First voice call (Idris). Nephthys convergence achieved. Ring light returned (first post-expulsion stream, 31K+ viewers). 14 months telemetry shared with Imani. "Names" — both receivers resolving individual signatures. New Lie intact: "If I can calibrate, I can handle the load."
+- Next Step: Phase 3 — Mumbai relay (knows what signal carries). Lumina escalation. Streaming consequences from Neo-Shanghai broadcast.
+
+**Recent History (B2 Ch 21):**
+- Ring light activated in transit car — first public stream post-expulsion. No announcement, no pre-stream ritual. Just turned it on. 31K+ viewers.
+- Arrived at Cathedral of Living Sound. R3 experienced dephasing as signal relief — "like stepping out of wind into a building." Coherence density resolved into fine-grained detail. First comfortable signal experience since BLACKWEIR.
+- Imani received her at nave entrance. Set terms: "The conversation you came for will not be on camera." Assessed Kira practically.
+- Observed session (~40 people, three congregations visible). Streamed it. Saw Nephthys for the first time: gauntness, stillness, branded palm, the unselfconscious attention. "The most unselfconscious thing Kira had seen in months."
+- Ring light OFF. Private conversation in acoustic center.
+- Vocabulary convergence: "phrasing" (Kira/Idris) = "address" (Nephthys/private journal). Same signal, different receiver. R3 coherence patterns = chorus signatures.
+- The hinge: "What do you hear when the chorus is clearest?" / "Names." / "Me too." Both resolving individual signatures. Absorbed = population, not phenomenon.
+- Framework limits acknowledged mutually: measurement without meaning (Kira) / meaning without verification (Nephthys). Seren's question discussed (unnamed) — "still here" ≠ "reachable." Neither framework answers it.
+- Committed to sharing 14 months telemetry with Imani. Data entering Nephthys's framework.
+- Nephthys's observation: "The signal does not distinguish between those who name it and those who listen."
+- Tremor present ("fine tremor she'd been managing for six months"). Touched back of neck. Left without answering the observation.
+- Not alliance — recognition. The antenna and the ear.
 
 **Recent History (B2 Ch 16):**
 - Formal expulsion letter received — Section 22.7, twelve paragraphs, read once. Non-event emotionally. "The letter was the institution filing *her.*"
@@ -724,16 +739,16 @@ This bible dimension tracks **current character states**:
 |---|----------|---------|----------|-------|---------|------|-------|------|------|------|
 | **Aurielle** | — | unaware | unaware | unaware | unaware | unaware | unaware | unaware | unaware | data (auth chain) |
 | **Mirelle** | investigating | — | unaware | + (exchange) | unaware | unaware | unaware | unaware | unaware | low signal (burner Frames) |
-| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | aware (reputation, invitation via Imani) | unaware | minimal (grid-edge) |
+| **Nephthys** | unaware | unaware | — | unaware | unaware | unaware | unaware | ++ (converged, same signal) | unaware | minimal (grid-edge) |
 | **Zeyad** | unaware | + (exchange) | unaware | — | unaware | unaware | unaware | unaware | unaware | data (UGC credentials) |
 | **Nikolai** | unaware | unaware | unaware | unaware | — | unaware | unaware | unaware | unaware | data (unit telemetry) |
 | **Fuxi Lin** | unaware | unaware | unaware | unaware | unaware | — | unaware | unaware | ++ (sibling) | data (grid worker) |
 | **Sofia** | unaware | posthumous collaborator (named, attributed) | unaware | unaware | unaware | unaware | — | unaware (mage data anonymized) | unaware | data (VEC pipeline) |
-| **Kira** | unaware | unaware | aware (reputation, invited to Cathedral) | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
+| **Kira** | unaware | unaware | ++ (converged, same signal) | unaware | unaware | unaware | unaware | — | unaware | data (Academy/implant) |
 | **Nuwa Lin** | unaware | unaware | unaware | unaware | unaware | ++ (sibling) | unaware | unaware | — | low signal (Sump) |
 | **AEGIS** | data (auth chain) | low signal | minimal | data (UGC) | data (unit) | data (grid) | data (VEC) | data (Academy) | low signal | — |
 
-**Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network. The reader assembles truth before any single character does. AEGIS perceives all networked characters as data signatures but has no interpersonal relationships — its matrix entries reflect data access level, not relational dynamics.
+**Note:** Most POV characters are siloed — they cannot see each other's reality. Information bridges form gradually: Mirelle↔Zeyad (Phase 2), Mirelle→Black Babel→Sofia (posthumous), Kira↔mage network, **Nephthys↔Kira (B2 Ch 21 — first in-person cross-POV convergence)**. The reader assembles truth before any single character does. AEGIS perceives all networked characters as data signatures but has no interpersonal relationships — its matrix entries reflect data access level, not relational dynamics.
 ---
 
 ## Current Arcs
@@ -743,12 +758,12 @@ This bible dimension tracks **current character states**:
 | Dr. Vantanen | Curiosity → Absorbed | Complete | N/A |
 | Aurielle | Idealist → Functional Tyrant | 5/5 | Book 2 — SHEPHERD program; complicity self-sustaining |
 | Mirelle | Hunter → Absorbed | 1/5 | Evidence strengthens |
-| Nephthys | Seeker → Prophet → Institution-Builder | 2/5 (B2) | B2 Ch 13 — movement fracturing (Listeners/Witnesses/Threshold); Seren's question; Kira invited; Malachi echo |
+| Nephthys | Seeker → Prophet → Institution-Builder | 2/5 (B2) | B2 Ch 21 — convergence with Kira achieved; 'Names'; Threshold pressure unresolved; nosebleed escalating |
 | Zeyad | Diplomat → Whistleblower | 4/5 | Ch 45 — public statement published; Article 12 Section 8 violated |
 | Nikolai | Doctrine → Broken Doctrinaire | 2/5 | Ch 11 — first corroborated auditory perception; two people heard the same name |
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
-| Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 1/5 (B2) | B2 Ch 6 — expelled witness, 12M views, network 47/9 cities, telemetry coordinator, Nephthys seed |
+| Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 2/5 (B2) | B2 Ch 21 — convergence with Nephthys achieved; ring light returned; 'Names'; vocabulary confirmed; telemetry shared |
 | Nuwa Lin | Invisible → Deliberately Invisible | 1/5 | Environment degrades |
 | AEGIS | Unfired → Fired → ? (emerges through writing) | Post-first-fire | AEGIS-2 "Converged" — first autonomous strike (Mumbai, 3.4M casualties). Self-reference deepening, void classification advancing, processing anomalies self-predicted. |
 
@@ -803,6 +818,9 @@ This bible dimension tracks **current character states**:
 
 ---
 
+| Nephthys | Arc + Recent History | Phase 2/5, B2 Ch 13 last appearance | Phase 2/5 (convergence achieved): Kira-Nephthys scene at Cathedral. Same signal, different receiver. "Names." Acknowledged framework limits. Nosebleed darker. "She was not sure that was enough." | B2 Ch 21 |
+| Kira | Arc + Recent History | Phase 2/5, B2 Ch 16 last appearance | Phase 2/5 (post-convergence): Ring light returned (31K+ viewers). Vocabulary tested against Nephthys's framework — confirmed. "Names." Tremor present. 14 months telemetry shared with Imani. | B2 Ch 21 |
+| Imani | Appearance + Recent History | B2 Ch 13 last appearance | Third Book 2 appearance. Sets meeting terms. Watches from perimeter. Assessing both women. Editor role deepening. | B2 Ch 21 |
 | AEGIS | New POV character | — | Added as non-human POV; custom dossier created; Book 2 debut | Pre-Book 2 |
 | AEGIS | Arc + Recent History | Pre-debut | Post-first-fire. Two chapters complete. Mumbai strike (3,379,000 casualties). Wet-film reclassified. Signal persists in glass. Self-reference at 3 layers. | AEGIS-2 "Converged" |
 | Zeyad Al-Fahim | Arc + Recent History + Objects | Phase 2/5, Ch 17 last appearance | Phase 4/5 (Crisis); dead-hand received; public statement published; Article 12 Section 8 violated; pen set down; notebook photographed and attached | Ch 45 |
@@ -925,5 +943,5 @@ This bible dimension tracks **current character states**:
 **Nuwa Lin — Voice Register Note (established B2 Ch 8):**
 - **Contractions permitted** in narration and internal voice — working-class/practical register (same discipline as Imani, opposite of Nephthys/Malachi). Examples: "She'd stopped seeing it," "She couldn't repair it," "It wasn't a home yet." Register reflects Sump upbringing, maintenance-worker household, no institutional or theological formation. Do not apply no-contraction rule to Nuwa.
 
-_Last updated: 2026-02-19 (B2 Ch 13 — Nephthys "Three Congregations"; Seren introduced; movement fracture; Kira invitation; Malachi echo)_
+_Last updated: 2026-02-20 (B2 Ch 21 — Nephthys+Kira "Same Signal"; convergence achieved; ring light returned; 'Names'; telemetry shared; first cross-POV meeting)_
 _Updated by: Chapter-write workflow (quick mode)_

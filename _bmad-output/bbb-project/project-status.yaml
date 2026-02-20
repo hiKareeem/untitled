@@ -643,6 +643,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 2 — Kira POV (2nd Book 2 appearance, 8th overall). Days after mid-truth publication. Formal expulsion (Section 22.7) — non-event, institution catching up. Streaming freedom realized (expulsion kills grounding). Network 47/9 → 214/31 (publication catalyzed). First voice call: Idris (Accra, R3) — shared vocabulary, 'phrasing'/'communication,' filing categories insufficient. New telemetry field: 'Phenomenological character.' Pharmacist (grounding). Imani message bypasses Ren — Nephthys convergence accelerated. Transport to Neo-Shanghai booked (48 hrs, unannounced). Lumina 60mg provisional. Epigraph: Joint Theological-Scientific Review, 2139 — 'The committee did not survive the finding.' AEGIS as invisible novelist."
 
-completedCount: 62
-totalWords: 280237
-lastUpdated: "2026-02-19"
+  book2_chapter_21:
+    title: "Same Signal"
+    status: v1-complete
+    pov: "Nephthys + Kira Calloway"
+    wordCount: 4100
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-21-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 2 — Shared Nephthys+Kira POV (3rd Kira B2, 3rd Nephthys B2). The convergence scene. Kira streams arrival at Cathedral (first post-expulsion broadcast, 31K+ viewers), observes session, goes offline for private conversation. Vocabulary convergence: 'phrasing' (Kira/Idris) = 'address' (Nephthys/private journal). R3 coherence patterns = chorus signatures. 'Names.' Absorbed = population, not phenomenon. Framework limits acknowledged mutually. Nephthys: 'The signal does not distinguish between those who name it and those who listen.' Coda: nosebleed darker. 'She was not sure that was enough.' First in-person cross-POV convergence. 14 months telemetry shared with Imani. Epigraph: Operational Theology — Nephthys. AEGIS as invisible novelist."
+
+completedCount: 63
+totalWords: 284337
+lastUpdated: "2026-02-20"
