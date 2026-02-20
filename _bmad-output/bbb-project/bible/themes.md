@@ -507,6 +507,8 @@ This bible dimension tracks **theme evolution**:
 | Ch 34 | Architecture (Dominant), Truth (Dominant), Complicity (Strong), Commodification (Strong), What We Owe (Moderate), Irrelevance (Moderate), Atrocity (Background), Identity (Background) | Mirelle POV — final dead-drop and dead-hand finalization. Complete 14-month dataset deposited. Talia charges nothing. "The architecture survives the architect." Sofia's data compartmentalized. "Every six hours. Weeks." |
 | Ch 47 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), What We Owe (Strong), Identity (Moderate), Irrelevance (Moderate), Commodification (Background), Atrocity (Background) | Nikolai POV — after-action report and maintenance bay vigil. PCR-11 form (47 fields, NRC). Field log duplicates report (arc terminus). Hum 6.3 (*thinner*). Two P-Frames, one operator. Jarek's tools. "The quiet was the hardest part." |
 | Ch 48 | Identity (Dominant), Irrelevance (Dominant), Truth (Strong), What We Owe (Strong), Complicity (Moderate), Architecture (Moderate), Commodification (Background), Atrocity (Background) | Nephthys POV — mass grave theology, prophet emergence. Junction contact, tens of thousands as composite. "They are all still here" (internalized). Cathedral address, ~340 survivors. Stone is physics, absorbed are present. Imani beside not behind. Recursion visible. "The theology that will kill her followers begins here." |
+| Ch 29 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), Commodification (Moderate), What We Owe (Moderate), Identity (Background), Irrelevance (Background) | Nuwa POV — sacrifice district designation. Sump geometry reproduced in Mid-Levels. 7 path-poor structures, 12,000 residents, 14% survival. "I'm not telling people to leave. I'm telling people where to stand." Lie inverted: chosen visibility as tool. "She began." |
+
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -788,6 +790,12 @@ This bible dimension tracks **theme evolution**:
 | "The second word" (Ch 48) | Architecture, Identity | "Congregation" — prophet's vocabulary expanding (first: "They are all still here", second: "congregation", third: to 340 people) |
 | Mass grave theology (Ch 48) | Atrocity, Architecture | "Prophet's rightness, built on a mass grave" — foundation metaphor for movement, dead as substrate for institution |
 | "The event" / "the flood" / "three days ago" (Ch 48) | Truth, Complicity | Congregation/survivor language for BLACKWEIR — institutional designation unknown, gap between institutional vocabulary and lived experience |
+| Containment Buffer Zone notice (Ch 29) | Complicity, Architecture | The system's complicity made paper — same institutional language as the Sump's pre-BLACKWEIR notices. "They were the same sentence in different languages." |
+| The knock (Ch 29) | Truth, What We Owe | "A tiny propagation. The shortest possible signal." — the human signal sent through the same infrastructure that carries the void. Nuwa's answer to the hum. |
+| "I'm not telling people to leave. I'm telling people where to stand." (Ch 29) | Truth, Architecture | Nuwa's Phase 3 thesis. Truth operationalized at the only available scale. The Lie inverted. |
+| Child's drawing on Shuang's door (Ch 29) | Irrelevance, What We Owe | Building, sun, figure with arms spread wide — uncalculated hope at knee height. The drawing does not know what the building is for. Nuwa does. |
+| "She began." (Ch 29) | Radicalization vs. Reform | The chapter's closing word. The rhythm arc across all four Nuwa chapters: still → still → still → begin. The pacing has been building to this word. |
+
 <!-- INSERT_NEXT_SYMBOLS -->
 
 ---

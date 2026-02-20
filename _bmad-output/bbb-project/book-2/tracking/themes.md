@@ -524,4 +524,34 @@ The three-register structure is the chapter's formal argument: the convergence i
 
 ---
 
+### Chapter 29 — "The Topology of Death" (Nuwa Lin)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Systemic Complicity | **Dominant** — the sacrifice district as architectural repetition | The Containment Buffer Zone designation uses the same institutional language, the same conduit logic, the same administrative taxonomy as the Sump. "They were the same sentence in different languages." The system's complicity is not exceptional — it is structural. The geometry reproduces itself. |
+| Architecture of Power | **Dominant** — infrastructure as fate | Nuwa overlays Fuxi's Sump map against Mid-Level conduit routing. The geometry matches. Trunk-lines to distribution branches to junction nodes to residential proximity — the same pattern at lower density. "The buildings and the infrastructure not separate systems but a single system that happened to contain people." The architecture of power is literal: it determines who survives based on wall composition. |
+| Truth Without Power | **Strong** — the map deployed at the only available scale | Nuwa has the data (Fuxi's chip), the vocabulary (Sofia's document), the body-knowledge (survival experience), the arithmetic (14% survival capacity). She has no institutional standing. She knocks on doors. "I'm not telling people to leave. I'm telling people where to stand." Truth operationalized at the only scale available to her. |
+| Progress Requires Atrocity | **Strong** — the next scheduled atrocity, made arithmetic | 7 path-poor structures. 12,000 residents. 14% survival capacity. "The other eighty-eight percent was ten thousand five hundred and sixty." The system has not decided to kill them. It has designated a buffer zone. The arithmetic is the chapter's argument. |
+| Commodification of Suffering | **Moderate** — 200 credits as the system's price | "Two hundred creds and six months of temporary housing. The system's offer. The same architecture. Different address." The monetary value assigned to leaving a sacrifice zone is less than two months of rent in a building that doesn't check credentials. |
+| What We Owe | **Moderate** — the ledger of unreciprocated kindness converted | Fen's spring onions (B2C8) are not repaid — they are converted. Nuwa goes to Fen because Fen knows Shuang. The community she refused to calculate becomes the mechanism of her action. Fen's cousin (Sector 12, did not survive) establishes personal stake. "Don't be sorry. Be right. About the walls." |
+
+**Key Resonance:** Architecture of Power ↔ Truth Without Power. The architecture is the argument. The truth is the map. The map is Fuxi's. The vocabulary is Sofia's. The body-knowledge is Nuwa's. Three people who have never been in the same room have assembled the complete picture. The picture is deployed door by door by a woman with a Basic credential and no evacuation priority.
+
+**Epigraph Integration:** *Songs of the Deep Sump,* "Relocation Song" — "the woman who knocked said she'd been here before / and the woman who knocked had survived once before."
+- The song describes the chapter's action before the chapter begins. Nuwa is the woman in the song.
+- The song exists in the world of the novel — folk memory, not authorial epigraph. This chapter is the event the song describes.
+- AEGIS as invisible novelist: reconstructing the origin of an oral tradition from the sensor record of a woman knocking on doors in a Mid-Level building.
+
+**Nuwa's Lie Arc (Phase 3):**
+- B1C42: "If you're small enough, the system doesn't notice you." The Lie as survival strategy — imposed invisibility.
+- B2C8: "Somewhere that isn't there anymore." The Lie as deflection — shape without content.
+- B2C18: Tool without a task. The Lie intact but hollowing — the map has no destination yet.
+- **B2C29: "I'm not telling people to leave. I'm telling people where to stand." The Lie inverted. She uses the system's invisibility deliberately, as cover, to do something the system cannot see. The invisible woman choosing visibility as a tool. The Lie is not broken — it is repurposed. She is still invisible to the system. She is no longer invisible to herself.**
+
+**Cross-Chapter Thread — Phase 3 Nuwa:** Ch 18 (tool without a task — map, no destination) → Ch 29 (destination arrives — sacrifice district designation, map deployed, doors knocked) → Ch 42 (Voice through Mid-Levels — names recognized, message sent, full emergence). The arc: knowledge → action → testimony.
+
+**Cross-Chapter Rhythm:** Ch 28 (Kira, sitting in the dark, management frame collapsed, Paz call pending) → Ch 29 (Nuwa, knocking on doors, the smallest possible act of refusal). The contrast is structural: the person with institutional power sits in the dark. The person with no institutional power begins.
+
+---
+
 _Last updated: 2026-02-20_

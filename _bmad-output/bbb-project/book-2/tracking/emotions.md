@@ -466,4 +466,33 @@
 
 ---
 
+### Chapter 29 — "The Topology of Death"
+
+**Nuwa Lin (POV):**
+- **Entering State:** Phase 3. Sacrifice district designation arrives. Tool-without-task (B2C18 close) meets destination. 114 creds. Adhesive tube day 11/12. Chip in port permanently. The map has been studied for weeks. No action taken yet.
+- **Beat 1 — Recognition without panic:** The notice on the door. She reads it three times. The words do not change. She rolls the institutional language the way she rolls cred calculations — testing the weight. No spike. No fear response. Recognition: she has been here before. The body knows this before the mind names it. The emotional register is cold and precise. *Containment Buffer Zone* = *sacrifice district*. Same sentence, different language.
+- **Beat 2 — The arithmetic of the unacceptable:** The overlay. The geometry match. "The other eighty-eight percent was ten thousand five hundred and sixty." She does the arithmetic without deciding to. The numbers arrive before the feeling they describe. She closes the overlay. Opens it. Closes it. This is the chapter's only moment of arrested motion — the gap between knowing and doing. Not despair. Not paralysis. The brief pause of a woman whose arithmetic has just produced a number she cannot file and cannot ignore.
+- **Beat 3 — Decision without announcement:** She pulls on her jacket. The mechanical latch clicks. No internal declaration. No moment of resolve. The action precedes the narration of it. This is consistent with her established register: she does not think in terms of decisions. She thinks in terms of what's next.
+- **Beat 4 — Being seen:** Shuang's "You walk along the walls." The contraction in her chest — not pain, not the heartbeat-spike of the annex. A smaller thing. The sensation of being seen by someone she had not calculated into her inventory. This is the chapter's most precise emotional moment: not triumph, not warmth, not connection. The sensation of existing in someone else's observation. She had not known she was visible.
+- **Exiting State:** Sitting at Shuang's table. Overlay open. Beginning. The invisible woman has stepped into view — not to the system, not to institutions, but to the twelve people in a building who will know where to stand if it happens here. The Lie is not broken. It is repurposed.
+- **Emotional Shift from B2C18:** B2C18 ends on "what she was not done with yet" — the map without a destination, the tool without a task, the gap held open. B2C29 closes the gap. The shift is not from passivity to action — Nuwa has never been passive. It is from private knowledge to transferable knowledge. From survival as individual practice to survival as community practice. The arithmetic now includes other people.
+
+**Nuwa's Emotional Lie Arc (cumulative):**
+- B1C42: "If you're small enough, the system doesn't notice you." Imposed invisibility as survival. The Lie saves her life.
+- B2C8: "Somewhere that isn't there anymore." The Lie as deflection — shape without content. The system still doesn't notice her. She is still using this.
+- B2C18: Tool without a task. The Lie intact but hollowing — the map has no destination. She is not done with it yet.
+- **B2C29: "I'm not telling people to leave. I'm telling people where to stand." The Lie inverted. She uses the system's invisibility deliberately, as cover, to do something the system cannot see. She is still invisible to the system. She is no longer invisible to herself. The Lie is not broken — it is repurposed as a tool of chosen agency.**
+
+**Fen (Supporting):**
+- **Entering State:** Established neighbor. Spring onions (unreciprocated). Cousin lost in Sector 12. Institutional notices filed in the drawer, not acted on.
+- **Arc this chapter:** Skepticism → recognition → commitment. The moment of commitment is not the map or the vocabulary — it is Nuwa's "I'm not telling people to leave. I'm telling people where to stand." Fen reaches for her jacket. The gesture is the answer.
+- **Exiting State:** Walking downstairs with Nuwa. Personal stake established (cousin). Bridge between Nuwa and the building's community.
+
+**Shuang (Supporting — new):**
+- **Introduction:** Younger than Fen. Tired. Two children. Cooks in evenings. Has watched Nuwa walk along the walls for months. Filed the observation without acting on it.
+- **Key beat:** "You walk along the walls." — the moment of mutual recognition. She has been watching. Nuwa has been watched. The community already existed; it was not yet organized.
+- **Exiting State:** Stepped back. Let Nuwa in. The table, the cloth, the child-sized chopsticks. The chapter ends before her response to the overlay — but she let Nuwa in. That is the answer.
+
+---
+
 _Last updated: 2026-02-20_

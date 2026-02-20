@@ -781,6 +781,7 @@ An object deserves documentation if it:
 - Ch 16: First referenced. Seven entries. Acceleration pattern documented. Guo (unit 14-7B) is the entry where technical language strains against personal knowledge — Fuxi knew this one.
 - Ch 22: 62 entries. Step-function spike logged as entry 62 (43.1, 4.7σ, no decay — "Decay profile: NONE. Step-function."). Kindling contact offers delivery system: "Your file. Our frame." The log's missing recipient has appeared. The data is now politically legible.
 - Ch 28: 63 entries. Entry 63 records Nuwa's transfer denial (reason code 14-J, infrastructure personnel retention priority, indefinite) alongside RCI data. The log now includes administrative data — evolving from technical to political. "Tuesday was five days away."
+- Ch 29 (via Nuwa): Chip remains in Nuwa's implant port permanently (corroded contact pins, removal risks widening crack). Used to overlay Sump conduit topology against Mid-Level infrastructure directory. First operational deployment — from map-study to active analysis. The chip's data is now being used to save lives.
 - Ch 39: Eighth entry added during BLACKWEIR (peak 34.1+, no decay, duration: ongoing). The acceleration pattern reaches its predicted terminus — step-function spike. "The column for names still empty because the names were not disappearing one at a time anymore." Fuxi closes the file: "the pattern was complete." The log's truth is confirmed and made irrelevant simultaneously. *Describe what you see* fulfilled; "the description had changed nothing."
 
 ---
@@ -844,6 +845,20 @@ An object deserves documentation if it:
 
 ---
 
+### Containment Buffer Zone Notice (B2 Ch 29)
+
+**Description:** Municipal paper notice. Heavy stock. Watermarked with Neo-Shanghai administrative seal (interlocking rings). Wedged in Nuwa's door frame at institutional height — same placement as Sump utility notices, water advisories, and Block 9 relocation notices.
+
+**Text:** *NOTICE OF CONTAINMENT BUFFER ZONE DESIGNATION. Sector 7M — Mid-Level Districts 4 through 6. [...] Residents advised to register for voluntary relocation. [...] One-time transition stipend of 200 credits. [...] No mandatory evacuation is planned at this time.*
+
+**Significance:** The chapter's catalyst. Nuwa reads it three times. Recognizes the institutional language as identical to the Sump's pre-BLACKWEIR notices. Sets it on the counter beside the rice cooker — a new object in a room that does not accumulate objects. The notice is the destination the map (Fuxi's chip) has been waiting for.
+
+**Current State:** On Nuwa's counter. Not filed. Not acted on through official channels. Acted on through door-knocking.
+
+**Symbolic function:** The system's complicity made paper. The same sentence in a different language.
+
+---
+
 ## Lost/Destroyed Objects
 
 | Object | Status | Day | Circumstances |
@@ -852,5 +867,5 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-15_
-_Updated by: Chapter 20 — "The Crack" bible update_
+_Last updated: 2026-02-20_
+_Updated by: B2 Ch 29 — "The Topology of Death" bible update_

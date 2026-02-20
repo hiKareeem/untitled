@@ -796,4 +796,87 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 ---
 
+### Chapter 29 — "The Topology of Death" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-steady (morning inventory, notice on door) → controlled-rising (notice analysis, institutional language dissection) → sustained-analytical (overlay work, geometry match, path-poor list) → arrested (the arithmetic, 10,560, overlay closed/opened/closed) → decision-without-declaration (jacket, latch) → interpersonal-rising (Fen's door, corridor, Fen's room) → pivot (Fen's jacket, "Don't be sorry. Be right.") → quiet-forward (stairs, Shuang's door, child's drawing) → open-ending (table, overlay, "she began")
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Word count | ~4,200 |
+| Scenes | 5 (morning/notice; overlay analysis; path-poor mapping; Fen's room; Shuang's door) |
+| Dialogue % | ~12% |
+| Avg sentence length | ~12-14 words |
+| Fragment % | ~20% |
+| Section breaks | 4 (horizontal rules) |
+
+**Tension Curve:**
+```
+High  |
+      |                    *
+Med   |          * * * *       * * *
+      |  * * *                         * * *
+Low   |                                        *
+      +------------------------------------------→
+       Morning  Notice  Overlay  Arith  Fen  Shuang
+```
+The chapter never peaks — it sustains. The highest tension point is the arithmetic (10,560), which is not dramatized but stated. The chapter's emotional weight is distributed across the overlay analysis, not concentrated in a single crisis beat.
+
+**Beat Map:**
+1. [0-8%] Morning inventory — creds, room, rice, adhesive tube. Ritual opening. Tension: low.
+2. [8-15%] Notice on door — institutional placement recognized before content read. Tension: rising.
+3. [15-28%] Notice analysis — three readings, institutional vocabulary dissected. Tension: controlled-rising.
+4. [28-32%] Breakfast — brushes teeth, boils water, eats standing at sink. Deliberate deceleration. Tension: low.
+5. [32-52%] Overlay analysis — chip, Sump map, Mid-Level directory, geometry match. Tension: sustained-analytical.
+6. [52-62%] Path-poor list — 7 structures, 12,000 residents, 14% survival. The arithmetic. Tension: peak (quiet peak — the number, not the drama).
+7. [62-68%] Decision — notice re-read, 200 credits, jacket, latch. Tension: resolving into action.
+8. [68-82%] Fen's room — knock, radio, sorting hands, spring onions ledger, maps explained. Tension: interpersonal-rising.
+9. [82-90%] Pivot — "I'm not telling people to leave. I'm telling people where to stand." / Fen's jacket. Tension: peak (interpersonal).
+10. [90-100%] Stairs, Shuang's door, "You walk along the walls," table, overlay, "she began." Tension: quiet-forward, open.
+
+**Transitions:**
+- Morning → Notice: seamless (notice visible from mattress before she rises)
+- Notice → Breakfast: deliberate gap (she sets the paper down, brushes teeth, eats). The gap is the chapter's first pacing choice — she does not act immediately. She processes.
+- Breakfast → Overlay: natural (chip in port, she sits on mattress)
+- Overlay → Path-poor list: continuous (same analytical session, new layer)
+- Path-poor list → Decision: the arrested moment (overlay closed/opened/closed) is the hinge. The jacket is the resolution.
+- Decision → Fen: corridor walk (masonry walls, wall-touching habit) — transition as sensory grounding
+- Fen → Shuang: stairs descent (same sensory grounding, now shared with Fen)
+
+**Flow Scores:**
+| Component | Score |
+|-----------|-------|
+| Voice consistency | 10/10 |
+| Tension management | 9/10 |
+| Scene transitions | 9/10 |
+| Dialogue integration | 9/10 |
+| Sensory hierarchy | 10/10 |
+| **Overall** | **9.4/10** |
+
+**Action/Reflection Balance:** 30% action / 70% reflection. Appropriate for TEXTURE mode and Nuwa's interiority-first register. The reflection is not abstract — it is analytical (overlay work, arithmetic, institutional language dissection). The action is minimal and load-bearing (jacket, knock, "she began").
+
+**Pacing Notes:**
+- *Strength:* The overlay analysis section is the chapter's rhythmic center of gravity — dense, precise, sustained. It earns the quiet pivot that follows.
+- *Strength:* The breakfast deceleration (brushes teeth, boils water, eats standing) is a deliberate pacing choice that prevents the notice from immediately triggering action. This is correct for Nuwa's register.
+- *Strength:* "If." — isolated single word paragraph. The chapter's most compressed beat. The arithmetic's emotional weight in one syllable.
+- *Strength:* The chapter ends mid-action ("she began") — open, forward, no closing cadence. Correct for Phase 3 Nuwa.
+- *Monitor:* The overlay analysis section (lines 93-121) is the chapter's longest sustained passage. At ~800 words, it approaches the upper limit for Nuwa's register. Justified by the chapter's analytical argument, but future Nuwa chapters should vary this.
+
+**Comparison to Plan:** Mode match ✅ (TEXTURE). All key beats present ✅. Divergence: Fen as intermediary before Shuang — improvement over plan's direct first-conversation structure. No rhythm concerns.
+
+**Comparison to Previous Nuwa Chapters:**
+| Chapter | Words | Mode | Tension Shape | Closing Beat |
+|---------|-------|------|---------------|--------------|
+| B1C42 "Still" | ~3,800 | TEXTURE | Sustained-low → arrested → still | Hand against window. Still. |
+| B2C8 "Somewhere That Isn't" | ~3,900 | TEXTURE | Low-steady → brief-rising → still | "Not done with it yet." |
+| B2C18 "The Word They Chose" | ~3,700 | TEXTURE | Low-steady → analytical → still | Tool without a task. |
+| **B2C29 "The Topology of Death"** | **~4,200** | **TEXTURE** | **Low-steady → analytical → forward** | **"She began." — open, not still.** |
+
+The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on stillness (invisibility). B2C18 ends on stillness (the gap). B2C29 ends on motion ("she began"). The rhythm arc across all four chapters is: still → still → still → begin. The pacing has been building to this word.
+
+**Cross-Chapter Rhythm:** Ch 28 (Kira, sitting in the dark, management frame collapsed, Paz call pending — paralysis as the chapter's closing posture) → Ch 29 (Nuwa, "she began" — motion as the chapter's closing posture). The contrast is the chapter pair's argument: institutional power produces paralysis; no institutional power produces the smallest possible act of refusal. The dark and the beginning are the same Phase 3 moment, seen from two positions in the system's taxonomy.
+
+---
+
 _Last updated: 2026-02-20_

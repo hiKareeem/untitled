@@ -1,0 +1,140 @@
+chapter_number: 29
+book: 2
+title: "The Topology of Death"
+pov_character: "Nuwa Lin"
+phase: 3
+location: "Neo-Shanghai Mid-Levels — Nuwa's room (9th floor, converted warehouse, Level 4), building corridor, Fen's room (Unit 9), Shuang's room (Unit 2)"
+timeline: "Phase 3 — pre-Mumbai, sacrifice district designation (Sector 7M)"
+estimated_word_count: 4200
+actual_word_count: ~4200
+epigraph_source: "Songs of the Deep Sump"
+epigraph_text: '"Pack what you carry and carry what''s light / they''ll tell you it''s temporary, they''ll tell you it''s right / but the woman who knocked said she''d been here before / and the woman who knocked had survived once before."'
+epigraph_title: "Relocation Song"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  Nuwa's third Book 2 POV. Phase 3 — sacrifice district designation arrives.
+  She wakes to find a Containment Buffer Zone notice wedged in her door frame
+  at institutional height — the same placement as every Sump notice she has
+  ever received. She reads it three times. The words do not change. She
+  recognizes the institutional language as identical to the Sump's pre-BLACKWEIR
+  notices: same logic, new sector number. She eats standing at the sink.
+  Then she opens the overlay. For the first time, she overlays Fuxi's Sump
+  conduit topology against the Mid-Level infrastructure directory. The geometry
+  matches. Trunk-lines to distribution branches to junction nodes to residential
+  proximity — the same structural logic at lower density. She can see Block 9's
+  equivalent in the Mid-Level schematic. She makes a list: 7 path-poor structures
+  in Sector 7M, 12,000 estimated residents, 14% survival capacity. The other
+  88% is 10,560. She closes the overlay. Opens it. Closes it. Then she pulls on
+  her jacket. She knocks on Fen's door (Unit 9). Fen's cousin was lost in Sector
+  12 waste processing. Nuwa explains the maps, the conduit routing, the safe
+  zones. "I'm not telling people to leave. I'm telling people where to stand."
+  Fen reaches for her jacket. Together they go to Shuang (Unit 2, two children).
+  "You walk along the walls." Nuwa enters. Sits at the table. Opens the overlay.
+  She begins.
+
+# Key Events
+key_events:
+  - "Morning inventory: 114 creds, room paid through 4 days, adhesive tube day 11/12, rice, oil, no greens"
+  - "Frozen notification: 'Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned.'"
+  - "Containment Buffer Zone notice on door — institutional placement recognized before content read"
+  - "Notice read three times: 'Sector 7M — Mid-Level Districts 4 through 6. Voluntary relocation. 200 credits.'"
+  - "Institutional language dissected: Containment / Buffer / Zone — same sentence in different language"
+  - "'No mandatory evacuation is planned at this time.' — the temporal hedge"
+  - "Breakfast: brushes teeth, boils water, eats standing at sink (deliberate deceleration)"
+  - "Data chip overlay: Fuxi's Sump map against Mid-Level infrastructure directory"
+  - "Geometry match confirmed: same trunk-line/distribution/junction logic at lower density"
+  - "Block 9 equivalent visible in Mid-Level schematic — residential cluster above Level 5 distribution node"
+  - "'The notice on the counter said Containment Buffer Zone. The map on her overlay said sacrifice district.'"
+  - "Path-poor list: 7 structures in Sector 7M (warehouse Level 4, substation Level 4, water treatment Level 5, 3 masonry blocks Level 6)"
+  - "Arithmetic: 12,000 residents, 14% survival capacity, 1,440 survivable, 10,560 not"
+  - "'If.' — isolated paragraph"
+  - "Overlay closed / opened / closed — the arrested moment"
+  - "200 credits contextualized: less than 2 months rent, less than the implant upgrade she was saving for"
+  - "Jacket pulled on. Mechanical latch clicks. No internal declaration."
+  - "Corridor walk — masonry walls, wall-touching habit, Fen's radio through Unit 9 door"
+  - "Knock on Fen's door — 'A tiny propagation. The shortest possible signal.'"
+  - "Fen: cousin lost in Sector 12 waste processing (new backstory)"
+  - "Fen recognizes chemical staining on Nuwa's fingertips"
+  - "Maps explained: path-poor / path-rich, conduit routing, safe zones"
+  - "'I'm not telling people to leave. I'm telling people where to stand.'"
+  - "Fen reaches for jacket. 'Don't be sorry. Be right. About the walls.'"
+  - "Stairs descent — masonry walls, wall-touching, shared with Fen"
+  - "Shuang's door: child's drawing at knee height (building, sun, figure with arms spread)"
+  - "Shuang: 'You walk along the walls.' — mutual recognition"
+  - "Nuwa enters. Table, cloth, child-sized chopsticks."
+  - "She sat at the table. She opened the overlay. She began."
+
+# Characters Present
+characters:
+  - name: "Nuwa Lin"
+    role: POV
+    state: "Phase 3 arc position: tool-without-task (B2C18) → destination arrives (sacrifice district) → action (knocking on doors). Lie inverted: chosen visibility as tool. Emotional register: cold recognition, arrested arithmetic, decision without announcement, the small contraction of being seen. Exits: sitting at Shuang's table, overlay open, beginning."
+  - name: "Fen"
+    role: Supporting
+    state: "Unit 9. Cousin lost in Sector 12 waste processing. Recognizes chemical staining. Skepticism → recognition → commitment. Reaches for jacket. 'Don't be sorry. Be right. About the walls.' Bridge between Nuwa and building community."
+  - name: "Shuang"
+    role: New supporting character
+    state: "Unit 2. Younger than Fen. Two children. Cooks in evenings. Has watched Nuwa walk along walls for months. 'You walk along the walls.' — moment of mutual recognition. Stepped back. Let Nuwa in."
+
+# New Characters Introduced
+new_characters:
+  - name: "Shuang"
+    description: "Unit 2, converted warehouse, Mid-Level 4. Younger than Fen. Two children (child-sized chopsticks on table). Cooks in evenings. Has observed Nuwa walking along walls for months without acting on the observation. First words to Nuwa: 'You walk along the walls.' Will likely recur in B2C42."
+
+# Themes
+themes:
+  - "Systemic Complicity (Dominant) — The sacrifice district designation uses the same institutional language as the Sump. Same logic, new sector number. 'They were the same sentence in different languages.'"
+  - "Architecture of Power (Dominant) — Infrastructure determines survival. The geometry reproduces itself at every scale. 'The buildings and the infrastructure not separate systems but a single system that happened to contain people.'"
+  - "Truth Without Power (Strong) — Nuwa has the map, the vocabulary, the arithmetic. No institutional standing. She knocks on doors. 'I'm not telling people to leave. I'm telling people where to stand.'"
+  - "Progress Requires Atrocity (Strong) — 7 path-poor structures, 12,000 residents, 14% survival. 'The other eighty-eight percent was ten thousand five hundred and sixty.' The system has not decided to kill them. It has designated a buffer zone."
+  - "Commodification of Suffering (Moderate) — 200 credits as the system's price for leaving the place it designated as expendable."
+  - "What We Owe (Moderate) — Fen's spring onions (unreciprocated, B2C8) converted into mechanism of action. Fen's cousin establishes personal stake."
+
+# Symbols
+symbols:
+  - name: "The frozen notification"
+    appearances: 2
+    arc: "Morning inventory (first thing the overlay renders) → arithmetic passage ('the permanent display, the dead credential, the system's last word'). The credential that classified her as expendable is present while she calculates how many people the system's next designation will kill."
+  - name: "The knock"
+    appearances: 2
+    arc: "Fen's door → Shuang's door. 'A tiny propagation. The shortest possible signal.' The human signal sent through the same infrastructure that carries the void. Nuwa's answer to the hum."
+  - name: "The wall-touching habit"
+    appearances: 3
+    arc: "Corridor (habit so deep it preceded the naming of it) → stairs with Fen (shared, now named). The body's knowledge confirmed by the hand, confirmed by the map, confirmed by the chip."
+  - name: "The Containment Buffer Zone notice"
+    appearances: 3
+    arc: "On door (institutional placement recognized) → counter beside rice cooker (set down, not filed) → re-read before jacket (200 credits, same architecture). The system's complicity made paper."
+  - name: "Child's drawing on Shuang's door"
+    appearances: 1
+    arc: "Building, sun, figure with arms spread wide. At knee height. Uncalculated hope. The drawing does not know what the building is for. Nuwa does."
+  - name: "'She began.'"
+    appearances: 1
+    arc: "Chapter's closing word. The rhythm arc across all four Nuwa chapters: still (B1C42) → still (B2C8) → still (B2C18) → begin (B2C29). The pacing has been building to this word."
+
+# Continuity
+continuity_notes:
+  - "B2C18 → B2C29: Chip in port permanently (corroded pins, removal risks crack). Map studied for weeks. Tool-without-task → destination arrives. 'Not done with it yet' → she begins."
+  - "B2C8 → B2C29: Fen (Unit 9, spring onions) reappears. Spring onions ledger referenced. Fen's radio (new detail). Photographs (new detail). Cousin backstory (new). Cred count: 412 (Ch 8) → 206 (Ch 18) → 114 (Ch 29) — consistent depletion."
+  - "B1C42 → B2C29: Frozen notification exact text match. Wall-touching habit. Masonry-wall routing. Heartbeat-spike of the annex referenced in the 'contraction' passage."
+  - "B2C9 → B2C29: Fuxi's chip contents (13 years, junction maps, conduit topology) deployed operationally for first time."
+  - "B2C11/B2C18 → B2C29: Sofia's document vocabulary deployed: infrastructure-driven absorption gradient, path-poor, low-conductivity, correlation 0.89, 12% survival rate."
+  - "Sector 7M: sacrifice district designation consistent with chapter plan. 3 trunk-lines, Level 5 distribution node, Levels 4-6 residential."
+  - "Adhesive tube: day 11/12 (B2C18 established day 9/12, consistent with ~2 days elapsed)."
+  - "Contractions: permitted per characters.md voice register note. Draft uses contractions appropriately."
+
+# Thread Status
+thread_status:
+  frozen_notification: "ACTIVE. Present in opening inventory and arithmetic passage. Function evolved: no longer information, no longer hardware feature — now 'the system's last word' while she works against it."
+  data_chip: "OPERATIONALIZED. First active deployment — overlay analysis, geometry match, path-poor list. The chip's data is now being used to save lives. Still in port permanently."
+  implant_crack: "ACTIVE. Day 11/12 adhesive. Itch referenced in 'contraction' passage (cracked-implant flare). Functional."
+  masonry_routing: "PRACTICED. Wall-touching habit named explicitly ('a habit so deep it preceded the naming of it'). Now shared with Fen on the stairs."
+  the_lie: "INVERTED. 'If you're small enough, the system doesn't notice you' → she uses the system's invisibility deliberately, as cover, to do something the system cannot see. Still invisible to the system. No longer invisible to herself."
+  fen_thread: "ADVANCED. Cousin backstory established. Spring onions ledger converted. Fen as bridge to building community. 'Don't be sorry. Be right. About the walls.'"
+  shuang_thread: "OPENED. New supporting character. Two children. 'You walk along the walls.' Will recur B2C42."
+  songs_of_the_deep_sump: "DEPLOYED. 'Relocation Song' as epigraph — the chapter is the event the song describes. Oral history thread advanced."
+  knowledge_boundary: "MAINTAINED. Nuwa does not know Kira's network exists. B2C42 is the chapter where she messages it. Do not establish this connection before B2C42."

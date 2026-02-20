@@ -204,6 +204,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events (B2):**
 - **B2 Ch 26:** Sofia moves in after 30-day VEC housing clock expires (27 days used on analysis). Erasure List channel open. Sacrifice district correlation assembled (14 cities, 0.89-0.95). De-escalation framework begun. Midnight: boxes still in hallway, hum through walls, designation markers 4 blocks east.
+- **B2 Ch 29:** Sector 7M designated Containment Buffer Zone (Municipal Ordinance 12.7.3(a)). Nuwa overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. 7 path-poor structures identified in sector (converted warehouse Level 4, decommissioned transit substation Level 4, ceramic-lined water treatment facility Level 5, three masonry-core residential blocks Level 6). 12,000 estimated residents. 14% survival capacity in path-poor structures. Nuwa begins door-to-door knowledge transfer. Fen (Unit 9) and Shuang (Unit 2, two children) first contacts.
 
 **Significance:** The buffer zone between Sump expendability and Spire privilege. Where "normal" is maintained longest.
 
@@ -913,4 +914,4 @@ Lagos is the primary FAS city featured in the narrative. Lower conduit density t
 ---
 
 _Last updated: 2026-02-20_
-_Updated by: B2 Ch 27 — "Prague" bible update_
+_Updated by: B2 Ch 29 — "The Topology of Death" bible update_

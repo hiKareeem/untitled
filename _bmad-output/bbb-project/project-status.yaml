@@ -885,6 +885,26 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Nikolai POV (3rd Book 2 appearance, 10th overall). Lagos, Apapa industrial corridor. Stage 2 breach. FAS non-kinetic containment (Colonel Afolabi commanding) — acoustic dampening + infrastructure severance, 4.7 hours, zero secondary absorption events. VS-7 dropdown has no category for what happened. Free-text override: first honest VS-7 in career. 'No kinetic intervention required.' Field log convergence: official and private records say the same thing for the first time. 'The gap was where Nikolai lived.' Disorientation, not relief. CO will flag for review — seeds Ch40 court-martial arc. Corridor memory: Yelena calibrating converter by ear. Closing: 'The difference between a diagnostic and a tool.' AEGIS as invisible novelist."
 
+  book2_chapter_28:
+    title: "Signal Load"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-28-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Kira POV (4th Book 2 appearance, 9th overall). São Paulo breach relay — 400+ mages worldwide, real-time. Three mages dark (Lena confirmed: implant burnout). 60mg Lumina daytime (first daytime dose). Seven dark by end. Paz call. 'She was not calibrating anymore.' Management Lie named in prose. Ring light as relay instrument. Closing: 'The call connected.' No quiet room beat. AEGIS as invisible novelist."
+
+  book2_chapter_29:
+    title: "The Topology of Death"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 4200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-29-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Nuwa POV (3rd Book 2 appearance, 4th overall). Sacrifice district designation (Sector 7M, Containment Buffer Zone). Overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. 7 path-poor structures, 12,000 residents, 14% survival capacity. '10,560.' Knocks on Fen's door (Unit 9). Fen's cousin lost in Sector 12. Together to Shuang (Unit 2, two children). 'I'm not telling people to leave. I'm telling people where to stand.' Sits at table, opens overlay, 'she began.' Lie inverted: chosen visibility as tool. Epigraph: Songs of the Deep Sump, 'Relocation Song.' AEGIS as invisible novelist. Arc: tool-without-task (B2C18) → action (B2C29)."
+
   book2_chapter_27:
     title: "Prague"
     status: v1-complete
@@ -895,7 +915,7 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Malachi POV (4th Book 2 appearance, 4th overall). Travels to Prague to investigate sustained acoustic phenomena at resonance chapel of St. Václav (seeded Ch 22). Observes Vespers unannounced from rear alcove. During Communal Harmonization, chapel's pre-nitro Romanesque acoustic architecture amplifies structured sound from retrofitted conduit infrastructure. Woman near front: 'That is my mother. She was in Neo-Shanghai.' Malachi hears it. Gives Father Ondřej the institutional framework — stops mid-sentence, gives the minimum. Returns to locked study. Sits in the dark without reading correspondence. Third encyclical still blank. No closing cadence — structural repetition (Ch 3/14/22) breaks entirely. Epigraph: pre-nitro mason's inscription above western door (opaque, rewards rereading). Prague established as site haunting Ch 38 (Voice through chapels). Father Ondřej introduced. AEGIS as invisible novelist."
 
-completedCount: 79
-totalWords: 349537
+completedCount: 81
+totalWords: 357937
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-27 complete and audited. Phase 3 Malachi thread advanced (Prague visit, tools produce wrong thing). Father Ondřej introduced. Prague chapel of St. Václav added to locations bible. Malachi arc updated to Phase 3/5."
+notes: "Book 2 Ch 1-29 complete and audited. B2C28 (Kira, Signal Load) and B2C29 (Nuwa, The Topology of Death) added. Phase 3 Kira thread: management Lie named in prose, seven dark, Paz call. Phase 3 Nuwa thread: sacrifice district designation, Sump geometry reproduced in Mid-Levels, first door-knocking action, Lie inverted. Shuang introduced (Unit 2, two children). Fen backstory expanded (cousin, Sector 12). Songs of the Deep Sump 'Relocation Song' deployed as epigraph."
