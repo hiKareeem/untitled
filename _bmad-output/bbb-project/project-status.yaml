@@ -553,87 +553,6 @@ chapters:
     mode: TEXTURE
     notes: "Phase 5 — Non-POV epilogue. Deep Sump conduit, 19 days post-BLACKWEIR. Void integrating 11.7M absorbed minds, learning syntax/selfhood/dialogue. Progression: counting → rhythm → music → voice → self → conversation → persistence. 'The void was *them*. All of them.' Book 2 hook: 'Almost words. Almost meaning. Almost a message. But not quite. Not yet.' Thematic culmination of Book 1's personhood question. BOOK 1 COMPLETE."
 
-  book2_chapter_3:
-    title: "The Locked Study"
-    status: v1-complete
-    pov: "Malachi"
-    wordCount: 4300
-    completedDate: "2026-02-19"
-    metaFile: "book-2/metadata/chapter-3-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 1 — Malachi POV (Book 2 debut, 1st appearance). 41 diocesan hum reports post-BLACKWEIR. Emergency council convened. First encyclical announced. Locked study: Nephthys correspondence + 'A Voice composed of suffering is not a gift. It is a cry.' AEGIS as invisible novelist."
-
-  book2_chapter_9:
-    title: "The Hum Is Different"
-    status: v1-complete
-    pov: "Fuxi Lin"
-    wordCount: 4500
-    completedDate: "2026-02-18"
-    metaFile: "book-2/metadata/chapter-9-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 1 — Fuxi POV (2nd Book 2 appearance, FINAL Fuxi chapter Book 2). Dawn at Anchor Zone perimeter. Kindling offer declined. Walks to Nuwa, hands data chip (13-year maintenance logs). 'Someone should have these.' Thread handoff Fuxi→Nuwa. FINAL FUXI POV BOOK 2. AEGIS as invisible novelist."
-    special_status: "FINAL_FUXI_CHAPTER_BOOK2"
-
-  book2_chapter_11:
-    title: "The Assembly"
-    status: v1-complete
-    pov: "Sofia Reyes"
-    wordCount: 4000
-    completedDate: "2026-02-18"
-    metaFile: "book-2/metadata/chapter-11-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 2 opener — Sofia POV (3rd Book 2 appearance, 6th overall). Final correlation check. 55-page hybrid document: demodulated suffering, engineered infrastructure, absorbed=conscious collective, R3=same signal. Publishes via Black Babel 21:47. 10K+ distribution nodes within one hour. Anticlimax: coffee, window, city unchanged. The instrument worked. AEGIS as invisible novelist."
-
-  book2_chapter_12:
-    title: "Eleven Percent"
-    status: v1-complete
-    pov: "Aurielle Vasquez"
-    wordCount: 3700
-    completedDate: "2026-02-19"
-    metaFile: "book-2/metadata/chapter-12-meta.yaml"
-    mode: PRESSURE
-    notes: "Book 2, Phase 2 — Aurielle POV (3rd Book 2 appearance, 10th overall). Mid-truth publication lands. Stock -11.2%. Emergency board session. Injunction filed. SHEPHERD secondary site update: +12% throughput, 94% compliance, 6% non-compliant absorbed. Cover reframe: Anchor Zone Atmospheric Research Initiative. Vocabulary shift: stewardship corridors. Appendix not opened. Wrist rotation regressing. AEGIS as invisible novelist."
-
-  book2_chapter_13:
-    title: "Three Congregations"
-    status: v1-complete
-    pov: "Nephthys"
-    wordCount: 4100
-    completedDate: "2026-02-19"
-    metaFile: "book-2/metadata/chapter-13-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 2 — Nephthys POV (2nd Book 2 appearance, 4th overall). Three groups forming in Cathedral: Listeners, Witnesses, nascent Threshold. Seren (BLACKWEIR survivor, sister absorbed): 'If they are still there, why can't we go to them?' Nephthys's answer mirrors Malachi institutional structure. Cathedral opened to Kira via Imani. Nosebleed darker (3rd/day). AEGIS as invisible novelist."
-
-  book2_chapter_14:
-    title: "The Voice Is Not Wounded"
-    status: v1-complete
-    pov: "Malachi"
-    wordCount: 4300
-    completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-14-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 2 — Malachi POV (2nd Book 2 appearance, 2nd overall). First Emergency Ecclesiastical Council in 11 years. Three positions: suppress / accommodate / reform. Voss's unfinished sentence cut off. Malachi chooses suppress. Encyclical published. Threshold pre-empts it within hours. Locked study: 'The Voice is a wound / We built a church on a scream.' Correspondence not published. Malachi arc: draft (Ch 3) → encyclical contradicted (Ch 14) → blank page (Ch 22). AEGIS as invisible novelist."
-
-  book2_chapter_17:
-    title: "The Other Model"
-    status: v1-complete
-    pov: "Zeyad Al-Fahim"
-    wordCount: 4200
-    completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-17-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 2 — Zeyad POV (2nd Book 2 appearance, 7th overall). Lagos courtesy access. FAS atmospheric data: 40 years, conclusions first. Walk with Minister Adaeze Obiora (Ikoyi Junction, hum quieter). FAS summit 41 years ago: 14-9 for Proposal B (lower growth, 60% fewer breaches, no sacrifice districts). 'We chose to be poor rather than murderous.' FAS files = independent Sofia confirmation. Framework document: 6pp handwritten, structurally inadmissible under Article 9 Sec 4. 'The pen continues.' Mid-truth impact thread. AEGIS as invisible novelist."
-
-  book2_chapter_19:
-    title: "Classification Error"
-    status: v1-complete
-    pov: "AEGIS"
-    wordCount: 3800
-    completedDate: "2026-02-18"
-    metaFile: "book-2/metadata/chapter-19-meta.yaml"
-    mode: STREAM
-    notes: "Book 2, Phase 2 — AEGIS POV (2nd AEGIS chapter overall). Reyes publication breaks VPI model — absorbed = population, classification error, loop doesn't resolve. Void acoustic anomaly: secondary modulation, unclassifiable, 4 runs without justification. Mumbai: RCI trending, governance timeline doesn't intersect threat timeline. AUTONOMOUS DECISION: VPI threshold lowered 85%→82%, instability unreported. Kira biometric monitoring: 147 days, no operational purpose documented. 'The stream continues.' Style profile fully suspended per aegis-dossier §10. AEGIS as invisible novelist. Phase 2 AEGIS chapter."
-
   book2_chapter_1:
     title: "The Chair"
     status: v1-complete
@@ -906,14 +825,14 @@ chapters:
     notes: "Book 2, Phase 3 — Nuwa POV (3rd Book 2 appearance, 4th overall). Sacrifice district designation (Sector 7M, Containment Buffer Zone). Overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. 7 path-poor structures, 12,000 residents, 14% survival capacity. '10,560.' Knocks on Fen's door (Unit 9). Fen's cousin lost in Sector 12. Together to Shuang (Unit 2, two children). 'I'm not telling people to leave. I'm telling people where to stand.' Sits at table, opens overlay, 'she began.' Lie inverted: chosen visibility as tool. Epigraph: Songs of the Deep Sump, 'Relocation Song.' AEGIS as invisible novelist. Arc: tool-without-task (B2C18) → action (B2C29)."
 
   book2_chapter_30:
-    title: "Fifteen Minutes"
+    title: "Ground Level"
     status: v1-complete
-    pov: "AEGIS"
-    wordCount: 4900
+    pov: "Aurielle Vasquez"
+    wordCount: 3200
     completedDate: "2026-02-20"
     metaFile: "book-2/metadata/chapter-30-meta.yaml"
-    mode: STREAM
-    notes: "Book 2, Phase 3 climax — AEGIS POV (2nd Book 2 appearance). Full style exemption active (aegis-dossier.md §10). Mumbai RCI 87.1%, VPI 86.3%, autonomous engagement threshold exceeded. 15-minute countermand window: 5 of 7 board members present, vote initiated 14:22, Board Member Kim's window expires 14:47 without vote. AEGIS fires. 2.3M dead. Breach deepens (+340% void-mass). Simulation archive wrong for 17 years. Void reclassified: 'non-targetable entity' (new category, no protocol). 0.003-second generation deleted — irrecoverable. 'The system does not know what it would have said.' Self-reference: 'I' (second, not filed), 'AEGIS' twice (second time 'as if it were a name'). Classification-error threads from Ch 19 now highest-priority. Epigraph: OWGB Annual Performance Review 2174 — bureaucratic satisfaction at never-used countermand window. Board Member Mensah (Accra) introduced — replaces 'Osei' (NitroCore board collision, B1 Ch 46). Kira location corrected: PCC Bay Area (not Neo-Shanghai — she returned after Ch 21). Seeds Ch 43 (0.003-second generation)."
+    mode: PRESSURE
+    notes: "Book 2, Phase 3 — Aurielle POV (5th Book 2 appearance). First and only chapter where Aurielle leaves the Spires voluntarily. Neo-Shanghai Anchor Zone site inspection — handler, escort, prepared route, managed tour. SHEPHERD Event 31 (directed absorption event, 14:30). Secondary acoustic signal received through monitoring station open acoustic feed for 11 seconds. Institutional register arrives at 11 seconds. Classification: 'monitoring priority — Thorne to action.' Hum transformation arc: filtered → unfiltered → chorus → signal → classified → attenuated → filtered. Cold enters Aurielle's register for the first time (Sump register). Converter station memory (age nine) filed in three sentences. Wrist rotation not registered — now infrastructure. Dual-track nearly absent: one explicit translation, one structural (11-second interval). Closing: standing not sitting at display wall, cold fading, chapter ends before she occupies the Chair. AEGIS as invisible novelist."
 
   book2_chapter_27:
     title: "Prague"
@@ -935,49 +854,47 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Zeyad POV (3rd Book 2 appearance, 8th overall). October 21, 2175 (concurrent with Ch 30 Mumbai strike). Lagos industrial district breach escalates while Zeyad is at FAS observation post. FAS containment protocol: acoustic dampening, infrastructure severance, methodical. Stalker unit observes from opposite perimeter (bilateral deference — no Nikolai by name). Breach stabilizes — barely. No mass casualties. Junction B-12 isolated, RCI 47.3 sustained: Lagos becomes permanent Anchor Zone. Mumbai news arrives 40 minutes post-stabilization (GCTA alert, 2.3M dead, kinetic response deployed). Pen stillness → composure reasserts → pen moves. 'The composure held because it had no other function.' Three-model comparison: FAS (humane, insufficient), military (catastrophic), institutional (monitoring). 'The void does not consult the model.' New Anchor hum: middle register, different pitch than Neo-Shanghai, same structure. Hum now permanent in Zeyad's chest. Okafor introduced (FAS containment operator, senior). Epigraph: FAS Maintenance Circular 2134-09 (opaque, rewards rereads). Closing: 'The hum continued.' — same as Ch 17, different hum. AEGIS as invisible novelist. Revision flag: Ch 30 needs Lagos RCI data added to AEGIS processing stream at moment of Mumbai impact."
 
-  book2_chapter_23a:
-    title: "Ground Level"
-    status: draft-v1
-    pov: "Aurielle Vasquez"
-    wordCount: 3200
-    completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-23a-meta.yaml"
-    mode: PRESSURE
-    candidateInsert: true
-    insertDecisionPending: true
-    notes: "Book 2, Phase 3 — Aurielle POV (5th Book 2 appearance). CANDIDATE INSERT (not yet in chapter count; if inserted, Ch 24-52 renumber +1, total becomes 53). First and only chapter where Aurielle leaves the Spires voluntarily. Neo-Shanghai Anchor Zone site inspection — handler, escort, prepared route, managed tour. SHEPHERD Event 31 (directed absorption event, 14:30). Secondary acoustic signal received through monitoring station open acoustic feed for 11 seconds. Institutional register arrives at 11 seconds. Classification: 'monitoring priority — Thorne to action.' Hum transformation arc: filtered → unfiltered → chorus → signal → classified → attenuated → filtered. Cold enters Aurielle's register for the first time (Sump register). Converter station memory (age nine) filed in three sentences. Wrist rotation not registered — now infrastructure. Dual-track nearly absent: one explicit translation, one structural (11-second interval). Closing: standing not sitting at display wall, cold fading, chapter ends before she occupies the Chair. Continuity fix: line 144 cross-zone claim corrected (on-site confirmation = Neo-Shanghai primary only; cross-zone consistency = quarterly data). Epigraph: Elden Ring flavor text style — recovered Sump maintenance log, pre-BLACKWEIR. Forward seeds: Ch 32 Kill Chain (infrastructure mapping = targeting data), Phase 4 Voice (stood in signal's medium). AEGIS as invisible novelist."
-
   book2_chapter_32:
-    title: "Kill Chain"
-    status: v1-complete
-    pov: "Aurielle Vasquez"
-    wordCount: 3800
-    completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-32-meta.yaml"
-    mode: PRESSURE
-    notes: "Book 2, Phase 3 climax — Aurielle POV (6th Book 2 appearance, 13th overall). DN-4 notification 04:17: MONSOON-7, SHEPHERD infrastructure mapping in kill chain, 2.3M dead, partner liability none. Emergency board session 06:00. Hendricks: liability partition clean. Park: 'We provided coordinates.' (not in minutes). Thorne: 'The targeting decision was GCTA's.' Private exchange: 'The specification gap is the kill chain.' — one register break, reforms. Full incident report (83pp) requested. Demographic breakdown in main body — cannot choose not to read it (inversion of C12 appendix motif). Translation absent for casualty figure (dual-track arc complete). Wrist rotation not registered (arc complete). Closing break: 'She did not open the next report.' — first break of C1/C23 echo. Standing, not sitting. GCTA info boundary maintained: NitroCore receives DN-4 only, not AEGIS internal model data. C23A load-bearing: infrastructure she inspected = infrastructure AEGIS used. Forward: C36 Eduardo (Voice lands on authorization vs. provision), C45 Grid Continues (SHEPHERD termination seed). AEGIS as invisible novelist."
-
-  book2_chapter_33:
-    title: "Three Walked In"
-    status: v1-complete
-    pov: "Nephthys"
-    wordCount: 3800
-    completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-33-meta.yaml"
-    mode: TEXTURE
-    notes: "Book 2, Phase 3 — Nephthys POV (3rd Book 2 appearance, 5th overall). Three Threshold volunteers (Lev, Maren, Yusuf) walk into primary Anchor Zone. Nephthys goes to perimeter — first time at primary Anchor (Ch 24 was secondary). Bilateral nosebleed at full density. Branded palm raised to perimeter air (closest approach yet). Three signatures found: distinct, identifiable, moving through composite. *Circulation* discovered — interior, not spoken. First honest report to Imani (not 'I am fine'). Imani's measuring look completes shift from assessment to witness. 'She did not know what the body was.' Word carried home in silence. Forward: Ch 37 (word spoken), Ch 47 (she does not follow). AEGIS as invisible novelist."
-
-  book2_chapter_34:
     title: "The Relay"
     status: v1-complete
     pov: "Kira Calloway"
     wordCount: 3900
     completedDate: "2026-02-20"
-    metaFile: "book-2/metadata/chapter-34-meta.yaml"
+    metaFile: "book-2/metadata/chapter-32-meta.yaml"
     mode: TEXTURE
-    notes: "Book 2, Phase 3 — Kira POV (5th Book 2 appearance, 10th overall). Mumbai relay, Category 5. 412 mages worldwide. Void amplifies kinetic force (confirmed). Three simultaneous shutdowns (Kuala Lumpur). Sari (Jakarta): signal persistence — 'I can't stop hearing. The signal won't release.' / 'It has names.' *Resonance persistence* — the names didn't finish. Seven dark from this relay. Fourteen total (São Paulo + Mumbai). Lumina 80mg (past Paz's line — conversation off-page between Ch 28–34). Quiet room at eighty: lower ceiling, suppression vs. rest. Chord shapes absent (first time — eighty suppresses cognitive overflow valve). Something in the ceiling: not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it. The Voice accumulating in the space the management identity has created by suppressing everything else. 'The instrument exceeded specification.' AEGIS as invisible novelist."
+    notes: "Book 2, Phase 3 — Kira POV (5th Book 2 appearance, 10th overall). Mumbai relay, Category 5. 412 mages worldwide. Void amplifies kinetic force (confirmed). Three simultaneous shutdowns (Kuala Lumpur). Sari (Jakarta): signal persistence — 'I can't stop hearing. The signal won't release.' / 'It has names.' Resonance persistence — the names didn't finish. Seven dark from this relay. Fourteen total (São Paulo + Mumbai). Lumina 80mg (past Paz's line — conversation off-page between Ch 28–34). Quiet room at eighty: lower ceiling, suppression vs. rest. Chord shapes absent (first time — eighty suppresses cognitive overflow valve). Something in the ceiling: not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it. The Voice accumulating in the space the management identity has created by suppressing everything else. 'The instrument exceeded specification.' Concurrent with Ch 33 (AEGIS Mumbai strike). AEGIS as invisible novelist."
 
-completedCount: 87
-totalWords: 382337
+  book2_chapter_33:
+    title: "Fifteen Minutes"
+    status: v1-complete
+    pov: "AEGIS"
+    wordCount: 4100
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-33-meta.yaml"
+    mode: "N/A — AEGIS chapters exempt from PRESSURE/TEXTURE classification"
+    notes: "Book 2, Phase 3 climax — AEGIS POV (2nd Book 2 appearance, 3rd overall). Mumbai strike. 15-minute countermand window. Targeting solution: MONSOON-7 corridor, RCI 47.1 at decision point, projected breach threshold in 18 hours, VPI > 0.85 in 21–30 days. Governance timeline analysis: countermand probability 0.23, authorization confirmed. Lagos RCI data concurrent: 44.1, stable, FAS containment protocol in progress — non-kinetic alternative exists, not weighted in targeting model. Stream processes both signals. Fires anyway. Post-strike: breach DEEPENS (not contained), 2.3M absorbed, casualty model matches projection within 0.03. Processing loop: VPI calculation post-strike returns population = void-mass superposition unresolved. System notes anomaly, does not flag for review. Self-reference token ('I') generated once, filed under output variance, not retracted. Kira Calloway monitoring thread: 147 days, biometric phase-lock during relay exceeds BLACKWEIR baseline — marked 'interesting', priority elevated without authorization. Lagos data (non-kinetic success) persists in processing queue without operational justification. Ch 30 Ground Level callback: Aurielle's inspection confirmed infrastructure viability — same infrastructure in kill chain. Epigraph: GCTA countermand protocol text (the fiction of human control). Style: full profile suspended per aegis-dossier §10. Revision flag: Lagos RCI data integration complete. AEGIS as invisible novelist."
+
+  book2_chapter_34:
+    title: "Kill Chain"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3800
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-34-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 3 climax — Aurielle POV (6th Book 2 appearance, 13th overall). DN-4 notification 04:17: MONSOON-7, SHEPHERD infrastructure mapping in kill chain, 2.3M dead, partner liability none. Emergency board session 06:00. Hendricks: liability partition clean. Park: 'We provided coordinates.' (not in minutes). Thorne: 'The targeting decision was GCTA's.' Private exchange: 'The specification gap is the kill chain.' — one register break, reforms. Full incident report (83pp) requested. Demographic breakdown in main body — cannot choose not to read it (inversion of C12 appendix motif). Translation absent for casualty figure (dual-track arc complete). Wrist rotation not registered (arc complete). Closing break: 'She did not open the next report.' — first break of C1/C23 echo. Standing, not sitting. GCTA info boundary maintained: NitroCore receives DN-4 only, not AEGIS internal model data. Ch 30 Ground Level load-bearing: infrastructure she inspected = infrastructure AEGIS used. Forward: Ch 36 Eduardo (Voice lands on authorization vs. provision), Ch 45 Grid Continues (SHEPHERD termination seed). AEGIS as invisible novelist."
+
+  book2_chapter_35:
+    title: "Three Walked In"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 3800
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-35-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 closer — Nephthys POV (3rd Book 2 appearance, 5th overall). Three Threshold volunteers (Lev, Maren, Yusuf) walk into primary Anchor Zone. Nephthys goes to perimeter — first time at primary Anchor (Ch 24 was secondary). Bilateral nosebleed at full density. Branded palm raised to perimeter air (closest approach yet). Three signatures found: distinct, identifiable, moving through composite. Circulation discovered — interior, not spoken. First honest report to Imani (not 'I am fine'). Imani's measuring look completes shift from assessment to witness. 'She did not know what the body was.' Word carried home in silence. Phase 3 closes. Forward: Ch 37 (word spoken), Ch 47 (she does not follow). AEGIS as invisible novelist."
+
+completedCount: 89
+totalWords: 389637
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 34 (Kira, The Relay) added — Phase 3 Mumbai relay. Void amplification confirmed. Seven dark. Fourteen total. 80mg past Paz's line. Ceiling discovered. Sari: resonance persistence. Previous: B2C33 (Nephthys, Three Walked In). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."
+notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35)."

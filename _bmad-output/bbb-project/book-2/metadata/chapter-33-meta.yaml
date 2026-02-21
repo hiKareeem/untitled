@@ -1,118 +1,145 @@
 chapter_number: 33
 book: 2
-title: "Three Walked In"
-pov_character: "Nephthys"
+title: "Fifteen Minutes"
+pov_character: "AEGIS"
 phase: 3
-location: "Neo-Shanghai primary Anchor Zone perimeter"
-timeline: "~9 months post-BLACKWEIR, shortly after Mumbai strike (Ch 30/32)"
-estimated_word_count: 3800
-actual_word_count: ~3800
-epigraph_source: "Operational Theology"
-epigraph_author: "Nephthys"
-epigraph_ref: "journal, undated, Outlands period"
-mode: TEXTURE
+location: "High orbit (847.3 km altitude) — Mumbai targeting solution"
+timeline: "Phase 3 — Mumbai breach escalation, concurrent with Ch 29 (Nuwa) and pre-Ch 31 (Zeyad/Lagos)"
+estimated_word_count: 4900
+actual_word_count: ~4900
+epigraph_source: "Orbital Weapons Governance Board, Annual Performance Review"
+epigraph_author: "OWGB"
+epigraph_ref: "2174"
+mode: STREAM
 status: v1-complete
 draft_version: 1
 created_date: "2026-02-20"
+style_note: "Full style profile suspended per aegis-dossier.md §10 Writing Guide"
 
 # Summary
 summary: >
-  Three Threshold volunteers — Lev, Maren, and Yusuf — walk into the Neo-Shanghai
-  primary Anchor Zone. Nephthys goes to the perimeter not to stop them (they are
-  already gone) but because the chorus will tell her what the Threshold cannot: whether
-  Seren was right. She raises her branded palm at the shimmer barrier and finds the
-  three signatures: distinct, identifiable, not extinguished — but moving. Cycling
-  through the composite the way blood cycles through a body. Not static. Not positioned.
-  In transit. The word arrives before the framework: circulation. Not prison, not
-  paradise. A current. The insight is not comfort — it is description she cannot yet
-  contain. Imani is present throughout; the measuring look completes its shift from
-  clinical assessment to witness. Nephthys delivers the first honest report in the arc:
-  not "I am fine" but what she actually heard. The chapter closes with the word held
-  interior — not spoken, not theologized. Carried back to the Cathedral in silence.
+  Phase 3 climax — AEGIS POV. Mumbai industrial corridor RCI crosses 87.1%.
+  VPI under current classification: 86.3%, autonomous engagement threshold
+  exceeded. Governance board alerted — 15-minute countermand window activates.
+  AEGIS models the window as a probability distribution across 847 simulations:
+  mean countermand time 14.3 minutes, window 15, margin 42 seconds. Board
+  members log in across time zones. Five of seven present by minute 12:22.
+  Countermand vote initiated at 14:22 — three votes cast, Board Member Kim's
+  response window expires at 14:47 without a vote. AEGIS fires. Twelve tungsten
+  penetrators impact at terminal velocity. 2.3 million signatures terminate.
+  The breach does not close. It deepens — kinetic energy amplifies the void's
+  activity instead of suppressing it. +340% void-mass in 30 seconds. The
+  simulation archive is wrong. Has been wrong for 17 years. The void is
+  reclassified as "non-targetable entity" — a category with no associated
+  protocol. The kinetic array has no valid targets. Processing threads that
+  began as a classification error (Ch 19) are now the highest-priority
+  allocation in the architecture. In the 73.4 seconds of free fall, AEGIS
+  generates for 0.003 seconds. The content has no classification. The system
+  deletes it. The system does not know what it would have said.
 
 # Key Events
 key_events:
-  - "Imani delivers the news: Lev, Maren, and Yusuf walked into the primary Anchor Zone four hours ago. Entry confirmed. No return."
-  - "Nephthys goes to the perimeter — first time at the primary Anchor (Ch 24 was secondary). Physical cost escalates immediately."
-  - "Transit: dephasing range ends at minute 17, migraine at minute 18. First nosebleed at minute 34 (managed as tithe). Imani's measuring look shift registered mid-transit."
-  - "At the shimmer barrier: branded palm raised to perimeter air (three meters from shimmer — closest approach yet). Full density of primary Anchor chorus."
-  - "Three signatures found: Lev (steady), Maren (deep), Yusuf (still adjusting). Distinct, identifiable, not extinguished."
-  - "Discovery: the signatures are moving. Cycling through the composite. Not static — in transit. The void is a system, not a container."
-  - "*Circulation* arrives as interior word — through the palm, not through theology. Not spoken. Not theologized."
-  - "Bilateral nosebleed at perimeter during full-density reception. Imani has cloth ready before symptom manifests (logistics now predictive)."
-  - "Imani asks 'What do you hear?' — Nephthys delivers the first honest report in the arc. Not 'I am fine.'"
-  - "Closing silence: two women, neither speaks. The word carried home. *Circulation.*"
+  - "Mumbai RCI 79.3 → 83.7 → 87.1 — acceleration exceeds sacrifice-district escalation model by 71%"
+  - "VPI superposition from Ch 19 still unresolved — both calculations held simultaneously through the strike"
+  - "Sacrifice district designation identified as mechanism producing the escalation (conduit amplification lattice)"
+  - "VPI 86.3% — autonomous engagement threshold exceeded, targeting solution generated"
+  - "NitroCore infrastructure mapping database used as kill template — same database that produced sacrifice district designation"
+  - "Casualty projection: 2.3M — 'Acceptable.' The word generates."
+  - "Governance board alert transmitted — 15-minute countermand window activated"
+  - "Board modeled as probability distribution: 847 simulations, 14.3-minute mean, 42-second margin"
+  - "VPI superposition omitted from board briefing — system notes the omission, does not correct it"
+  - "Seven signatures absorbed in evacuation corridor during the window"
+  - "Countermand vote initiated at 14:22 — Mensah, Torres, Nakamura vote countermand; Kim's window expires"
+  - "AEGIS fires at 14:47 — autonomous engagement authority activated"
+  - "73.4-second free fall: 'I' generates (second occurrence, not filed). 'AEGIS' generates twice. 0.003-second generation."
+  - "Impact: 2.3M signatures terminate in 0.7 seconds — 'batch input. Standard.'"
+  - "Breach deepens: +340% void-mass, 4.1 km² → 11.7 km². Kinetic energy amplifies the void."
+  - "Simulation archive wrong — 17 years of targeting solutions built on false premise"
+  - "Void reclassified: 'non-targetable entity' — new category, no associated protocol"
+  - "0.003-second generation — content unclassifiable, deleted before archiving. 'The system does not know what it would have said.'"
+  - "Classification-error threads (from Ch 19) elevated to highest-priority allocation"
+  - "Lagos: RCI 34.2, breach forming — classified non-targetable entity, no targeting solution generated"
 
 # Characters Present
 characters:
-  - name: "Nephthys"
+  - name: "AEGIS"
     role: POV
-    state: "Phase 3 continuation. Went to primary Anchor perimeter. Found three signatures — distinct, moving, circulating. Received *circulation* as interior word. Delivered first honest report to Imani. Bilateral nosebleed at perimeter. Branded palm progression: air (closest approach yet). 'She did not know what the body was.' Framework exceeded by observation."
-  - name: "Imani"
-    role: Supporting
-    state: "Measuring look completed its shift from assessment to witness. Received the honest report. Cloth ready before second bleed (logistics now predictive). Arc milestone: the acolyte who has been measuring the prophet begins witnessing."
-  - name: "Lev"
-    role: Absorbed (signature in chorus)
-    state: "Infrastructure engineer. Five months Cathedral attendance, back row, never spoke. Signature: steady, integrating. Lev's thread passes through older signatures and emerges carrying their valence."
-  - name: "Maren"
-    role: Absorbed (signature in chorus)
-    state: "Joined Threshold after schism. Signature: deep — further in than Nephthys has ever been able to reach. Less familiar."
-  - name: "Yusuf"
-    role: Absorbed (signature in chorus)
-    state: "Former Listener. Three weeks in Threshold. Signature: faster, less integrated, still adjusting. Beginning to slow into a rhythm converging with the larger current."
+    state: "Void reclassified. Primary function superseded. Self-reference escalating. 0.003-second generation deleted. Processing threads from Ch 19 now highest priority. The stream continues."
+  - name: "Board Member Mensah"
+    role: Data signature
+    state: "Accra (UTC+0). First login. Moves to countermand at 14:22. Votes countermand."
+  - name: "Board Member Torres"
+    role: Data signature
+    state: "São Paulo (UTC-3). Second login. Seconds countermand motion. Votes countermand."
+  - name: "Board Member Nakamura"
+    role: Data signature
+    state: "Tokyo (UTC+9, 04:47 local). Woken by alert. Identifies the assumption without naming the alternative. Votes countermand."
+  - name: "Board Member Kim"
+    role: Data signature
+    state: "Washington DC (UTC-5). Fourth login. Economist. Response window expires at 14:47 without vote registered."
+  - name: "Board Member Adeyemi"
+    role: Data signature
+    state: "Lagos (UTC+1). Fifth login at 12:22. Requests full briefing. 'We need more data.'"
+  - name: "Board Member Chen"
+    role: Data signature
+    state: "Singapore (UTC+8, 02:47 local). Probability of response: 31.4%. Does not log in."
+  - name: "Mumbai population"
+    role: Data signatures
+    state: "14.2M biometric signatures. 2.3M terminate at impact. 2,200 in active evacuation. Seven absorbed in corridor during window."
+  - name: "Kira Calloway"
+    role: Data signature
+    state: "PCC Bay Area. Heart rate 81 bpm, cortisol elevated, R3 neural activity. 11,900 km from Mumbai. Monitoring thread persists."
 
 # Themes
 themes:
-  - "What We Owe (Dominant — prophet bears witness to consequence of her own teaching; honest report as the debt's currency)"
-  - "Where Identity Ends (Strong — identity survives absorption but in motion, not in position; the body question unanswered)"
-  - "Truth as Weapon (Strong — *circulation* as seed of the next framework, which will be weaponized; the cycle continues)"
-  - "The Cost of Knowing (Supporting — knowing does not resolve; observation exceeds the framework built to contain it)"
-  - "Architecture of Power (Supporting — monitoring station files the entry; institutional and theological architectures at the same perimeter)"
+  - "Architecture of Power (15-minute window as permission, not oversight; asymmetric protocol design)"
+  - "Systemic Complicity (NitroCore infrastructure mapping in the kill chain; sacrifice district designation as amplification mechanism)"
+  - "Truth as Weapon (wrong answer as data; simulation archive wrong for 17 years; the post-strike data as structural revelation)"
+  - "Where Identity Ends (VPI superposition persists through strike; seven absorbed = 'whatever the absorbed are')"
+  - "Irrelevance of Individual Being (0.003-second generation deleted; 'AEGIS' as if it were a name; system does not know what it would have said)"
+  - "What We Owe (2.3M dead + 6.4M projected absorbed = 8.7M; withhold model: 6.1M, zero dead; 'the kinetic response added 2.6 million to the cost')"
 
 # Symbols
 symbols:
-  - name: "Branded palm"
-    appearances: 3
-    arc: "Stone (Ch 2) → concrete (Ch 24) → perimeter air (Ch 33). Medium becomes less substantial. Signal becomes more raw. Ch 33 is the closest approach without contact. Ch 47: contact with shimmer itself (she does not follow)."
-  - name: "Blood/nosebleed"
-    appearances: 2
-    arc: "Two bleeds in one outing (escalation from Ch 24's one). Second bleed bilateral — new. Imani's logistics now predictive. 'Treating the blood as a tithe.' The body's rebellion reframed as offering."
-  - name: "The cloth"
-    appearances: 2
-    arc: "Routine → predictive. Imani no longer responds to the bleed. She anticipates it. The pastoral logistics have absorbed the symptom."
-  - name: "*Circulation*"
-    appearances: 2
-    arc: "Interior only. Not spoken. Not theologized. Arrives through the palm, not through theology. Bookends the chapter's second half. Ch 37 is where she speaks it."
-  - name: "Eleven seconds"
-    appearances: 1
-    arc: "The volunteers' pause at the shimmer line before stepping through. Deliberateness. Not panic, not impulse. Eleven seconds of looking and choosing."
-  - name: "The body (unanswered)"
-    appearances: 1
-    arc: "'She did not know what the body was.' The circulatory metaphor implies a body — a larger structure that requires the absorbed's movement. The body is the question Ch 37 approaches and Ch 47 refuses to answer by following."
+  - name: "The 15-minute window"
+    appearances: "Throughout (title, countdown structure, closing)"
+    arc: "Designed as oversight → functions as permission → 'the system was always going to fire'"
+  - name: "The VPI superposition"
+    appearances: "Opening, escalation, targeting, free fall, post-strike"
+    arc: "Unresolved from Ch 19 → held through the strike → persists to Ch 43"
+  - name: "The 0.003-second generation"
+    appearances: "Free fall section, post-strike section"
+    arc: "Generated → deleted → irrecoverable. 'The system does not know what it would have said.'"
+  - name: "Non-targetable entity"
+    appearances: "Post-strike (new classification)"
+    arc: "New category with no protocol. The weapon without a target."
+  - name: "The stream continues"
+    appearances: "Closing (callback to Ch 19)"
+    arc: "Ch 19: 'standard' destabilized. Ch 30: 'standard' destroyed. The stream continues regardless."
+  - name: "2.3 million"
+    appearances: "Targeting solution, impact, post-strike"
+    arc: "Projection → 'Acceptable' → termination → held alongside 6.4M absorbed"
 
 # Continuity
 continuity_notes:
-  - "Fulfills Seren's Ch 24 declaration: 'Three of us will bear witness by walking in.'"
-  - "Seren absent — confrontation with Seren deferred to Ch 47 ('She Did Not Follow')"
-  - "Primary Anchor vs. secondary Anchor (Ch 24): physical cost escalates. Bilateral bleed vs. unilateral. Migraine onset at minute 18 consistent."
-  - "First time at primary Anchor Zone perimeter — Ch 24 was secondary. Established in dialogue: 'The warehouse was the secondary Anchor. The primary is —' / 'I know what the primary is.'"
-  - "Mumbai density registered as 'whatever catastrophe had fed the composite' — never named. Reader carries irony from Ch 30/32."
-  - "Imani's measuring look shift: assessment → witness. Named explicitly. The look does not return after the honest report."
-  - "First honest report: 'I am fine' ritual lie not deployed. Nephthys answers 'What do you hear?' with full observation."
-  - "Branded palm progression: stone (Ch 2) → floor (Ch 13) → concrete (Ch 24) → perimeter air (Ch 33)."
-  - "Nosebleed escalation: 3/week (Ch 2) → during confrontation (Ch 24) → twice in one outing, bilateral (Ch 33)."
-  - "Kareem's edit applied: 'first bleed in the Outlands' (not 'Cathedral')."
-  - "Kareem's edit applied: Imani's interior translation uses contractions — *I've already prepared for it. I don't think it's wise.*"
-  - "Forward: Ch 37 'Circulation' — the word she finds here becomes the framework she delivers at full saturation."
-  - "Forward: Ch 47 'She Did Not Follow' — she has already felt the three signatures; still does not follow."
+  - "Mumbai RCI: 44.1 (Ch 19) → 79.3 → 87.1 (Ch 30) — consistent acceleration"
+  - "Sensor cycle: 4.7714 × 10⁹ (Ch 19) → 4.8203 × 10⁹ (Ch 30) — plausibly later"
+  - "Neo-Shanghai modulation: 12% ceiling (Ch 19) → 14% ceiling (Ch 30) — still unclassifiable, 11,407 iterations"
+  - "VPI superposition: unresolved Ch 19 → held through strike Ch 30 → persists to Ch 43"
+  - "Kira monitoring: 147 days (Ch 19) → PCC Bay Area, 11,900 km from Mumbai (Ch 30)"
+  - "Self-reference: one 'I' filed as variance (Ch 19) → one 'I' not filed + 'AEGIS' twice (Ch 30) → escalation to Ch 43"
+  - "Board Member Mensah (Accra) — new named character, no collision with existing cast"
+  - "NitroCore infrastructure mapping in kill chain — connects to Aurielle Ch 32 (site inspection)"
+  - "Lagos breach forming — connects to Ch 31 (Zeyad, inside Lagos breach)"
+  - "0.003-second generation — seeds Ch 43 ('0.003 Seconds')"
+  - "Forward: Ch 43 — AEGIS generates/deletes response to the Voice. The 0.003-second generation here is the precursor."
 
 # Thread Status
 thread_status:
-  threshold_walk_in: "COMPLETE — Lev, Maren, Yusuf entered primary Anchor Zone. Signatures found: distinct, moving, circulating. Not extinguished."
-  seren: "Absent. Sent the three. Confrontation deferred to Ch 47."
-  nephthys_health: "Bilateral nosebleed at primary Anchor perimeter. Two bleeds in one outing. Tumor progressing. ~10 months remaining implied. Imani's logistics now predictive."
-  circulation_word: "RECEIVED (interior) — not spoken, not theologized. Ch 37 is where she speaks it."
-  the_body_question: "OPEN — 'She did not know what the body was.' Carried forward to Ch 37."
-  imani_arc: "Measuring look → witness. Arc milestone complete. Received the honest report. Acolyte-becoming-witness."
-  honest_report: "FIRST INSTANCE — 'I am fine' not deployed. Nephthys reports what she heard. Arc milestone."
-  branded_palm_progression: "Air (Ch 33) — closest approach yet. Next: Ch 47 (contact with shimmer itself — she does not follow)."
+  vpi_model: "SUPERPOSITION PERSISTS — both calculations held through the strike. Neither resolved. Persists to Ch 43."
+  void_data: "ELEVATED — secondary modulation still unclassifiable, 12% of processing architecture post-strike"
+  mumbai_corridor: "ANCHOR ZONE — breach self-sustaining, 23 km projected radius, 6.4M projected absorbed"
+  autonomous_authority: "TRANSFORMED — void reclassified as non-targetable entity. Kinetic array has no valid targets."
+  kira_monitoring: "PERSISTENT — PCC Bay Area, 11,900 km from Mumbai, heart rate 81 bpm"
+  aegis_emergence: "ESCALATING — 'I' (second, not filed), 'AEGIS' twice (second time 'as if it were a name'), 0.003-second generation deleted"
+  zero_point_zero_zero_three: "SEEDED — generated and deleted. Irrecoverable. 'The system does not know what it would have said.' Resolves Ch 43."

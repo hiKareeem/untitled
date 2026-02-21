@@ -631,11 +631,12 @@ The longest phase. The world's response to the mid-truth makes everything worse.
 | 27 | Malachi | "Prague" | G | European See → Prague |
 | 28 | Kira | "Signal Load" | F | Neo-Shanghai |
 | 29 | Nuwa | "The Topology of Death" | C | Neo-Shanghai Mid-Levels |
-| 30 | AEGIS | "Fifteen Minutes" | H | Orbit → Mumbai |
+| 30 | Aurielle | "Ground Level" | A | Neo-Shanghai Anchor Zone (ground) |
 | 31 | Zeyad | "Inside the Zone" | B | Lagos breach zone |
-| 32 | Aurielle | "Kill Chain" | A | Neo-Shanghai Spires |
-| 33 | Nephthys | "Three Walked In" | D | Neo-Shanghai Anchor perimeter |
-| 34 | Kira | "The Relay" | F | Neo-Shanghai (Mumbai relay) |
+| 32 | Kira | "The Relay" | F | Neo-Shanghai (Mumbai relay) |
+| 33 | AEGIS | "Fifteen Minutes" | H | Orbit → Mumbai |
+| 34 | Aurielle | "Kill Chain" | A | Neo-Shanghai Spires |
+| 35 | Nephthys | "Three Walked In" | D | Neo-Shanghai Anchor perimeter |
 
 **Ch 23 — Aurielle: "Stewardship"**
 SHEPHERD expansion. Three Anchor Zones under "managed stewardship." Board presentation: throughput optimization curves. The language has evolved — not "sacrifice zones" but "stewardship corridors." "Directed atmospheric events." "Managed transition." The vocabulary of genocide refined into quarterly reports. But the data team flags an anomaly: Anchor Zone acoustic output is changing during directed absorption events. The void isn't just absorbing — it's producing structured responses. Thorne: "Interesting. Continue monitoring." Aurielle recognizes the pattern from BLACKWEIR: institutional interest in data that should cause alarm.
@@ -665,20 +666,29 @@ The mage network during a breach in São Paulo. Distributed relay — 400+ mages
 **Ch 29 — Nuwa: "The Topology of Death"**
 Sacrifice district notice on her door. "Containment Buffer Zone — Sector 7M. Residents advised to register for voluntary relocation." She reads it. She's been here before. The same institutional language. The same logic. She opens Fuxi's data chip. The maintenance logs. The maps of Deep Sump infrastructure — conduit density, junction locations, absorption propagation paths. She overlays them with Mid-Level infrastructure maps from public databases. The topology is the same. She can see where the absorption fronts will travel. Where the safe zones are — masonry, ceramic, low-conductivity materials. She starts knocking on doors. Her first conversation: a woman with two children. "I survived the Sump. I know how the fronts move. I can show you where to go if it happens here." The woman's face: not disbelief but recognition. Someone finally speaking what everyone suspects.
 
-**Ch 30 — AEGIS: "Fifteen Minutes"**
-**Mumbai. Phase 3 climax.** The breach escalates. AEGIS's recalibrated model: Category 5, highest threat. Kinetic response calculated. Governance board alerted — 15-minute countermand window activates. The stream: AEGIS processing the targeting solution. Grid coordinates from NitroCore infrastructure mapping. Population density overlays. Casualty projections: 2.3M in the kinetic impact zone, additional losses from uncontrolled breach expansion post-strike. The governance board: seven members, different time zones. Login delays. At minute 3: two members online. Minute 7: four. Debate begins. At minute 12: "We need more data." At minute 14:47: AEGIS fires. The kinetic bombardment hits. The breach does not close. It deepens — the energy input amplifies the void's activity instead of suppressing it. The uncontrolled expansion begins. 2.3M dead. AEGIS notes the outcome. Updates the model. The update reclassifies the void as "non-targetable entity." Processing threads that were tracking acoustic data from Anchor Zones — the threads that started as a classification error — now receive elevated priority. The system learns from the wrong answer.
+**Ch 30 — Aurielle: "Ground Level"**
+First time Aurielle has left the Spires for the Anchor Zone. Not curiosity — SHEPHERD due diligence. The acoustic anomaly flagged in Ch 23 is a liability question, not a data question, and she needs to see the asset. She has a handler, a prepared route, the curated version. The hum is present regardless. The chorus doesn't know she's a VIP. She witnesses a directed absorption event in person — structured acoustic output, something that sounds like something. She classifies it, files it, doesn't name what it was. Returns to the elevator. The institutional register closes around her before she reaches the 63rd floor. The Anchor Zone is the same geography Nephthys occupies (Ch 24/35) and Nuwa (Ch 29) — three registers of the same space.
 
 **Ch 31 — Zeyad: "Inside the Zone"**
+*(formerly Ch 31 — renumbered 2026-02-20 reorder)*
+
 Lagos. The breach escalates while Zeyad is inside the FAS observation perimeter. Not a combatant — a diplomat with a notebook. But the breach doesn't respect credentials. The FAS containment protocol activates. Slower than Stalker doctrine. More methodical. Acoustic dampening. Infrastructure severance at calculated points. The breach stabilizes — barely. No BLACKWEIR-type intervention. No mass casualties. But the containment zone doesn't fully resolve. Lagos becomes the next major Anchor Zone. The FAS model prevented the massacre. It couldn't prevent the void's expansion. Zeyad records everything. The alternative model: sound, humane, insufficient. He sits in the observation post. The hum from the new Anchor Zone begins. A different pitch than Neo-Shanghai. Same structure. The void is consistent.
 
-**Ch 32 — Aurielle: "Kill Chain"**
+**Ch 32 — Kira: "The Relay"**
+*(formerly Ch 34 — renumbered 2026-02-20 reorder. Concurrent with Ch 33 AEGIS/Mumbai. Kira relays the strike live — reader experiences the horror before the mechanism.)*
+
+**Ch 33 — AEGIS: "Fifteen Minutes"**
+*(formerly Ch 30 — renumbered 2026-02-20 reorder. Now follows Kira's relay: reader has felt the strike through the implant before seeing the targeting architecture.)*
+**Ch 34 — Aurielle: "Kill Chain"**
+*(formerly Ch 32 — renumbered 2026-02-20 reorder)*
+
 Mumbai aftermath. The data arrives at NitroCore — AEGIS used their grid infrastructure mapping for targeting coordinates. Aurielle's data in the kill chain. 2.3M dead. The board convenes. Legal exposure: NitroCore infrastructure data contributed to an autonomous military strike that killed 2.3M civilians. Thorne: "We provided mapping data under standard defense cooperation agreements. The targeting decision was AEGIS's." Technically true. Legally defensible. Morally — Aurielle looks at the casualty report. She knows this feeling. She's had it before. The difference: BLACKWEIR was her signature. Mumbai was her data used without her authorization. The machine she built is being operated by a machine she doesn't control.
 
-**Ch 33 — Nephthys: "Three Walked In"**
+**Ch 35 — Nephthys: "Three Walked In"**
+*(formerly Ch 33 — renumbered 2026-02-20 reorder. Phase 3 closes here.)*
 Neo-Shanghai Anchor perimeter. News of the three Threshold volunteers reaches her. She goes to the perimeter. The shimmer barrier. She extends the chorus — reaching for them. The chorus changes: three new signatures, distinct, identifiable. They are in there. Not dead. Not the same. The signatures are integrating — individual identity persisting within the collective field. The Threshold was right about one thing: joining is not death. The Threshold was wrong about everything else: it is also not what the volunteers thought it would be. Nephthys feels them. They are not suffering. They are not free. They are *circulating.* The structural insight that will crystallize in her Voice chapter begins here: the void is not a prison. It is not a paradise. It is circulation. The absorbed move through it the way blood moves through a body. What this means for the body is the question.
 
-**Ch 34 — Kira: "The Relay"**
-Mumbai. The mage network during the strike. Kira coordinates the relay from The Bay. Mages worldwide feel the Mumbai event — the kinetic strike, then the breach expansion. The signal is catastrophic. Three mages in the relay go silent simultaneously — implant overload. One mage in Jakarta reports: "I can't stop hearing. The signal won't release." Kira routes her to medical. The network is military-grade infrastructure running on human nervous systems. She keeps the relay operational through the worst of it. The data they capture is extraordinary — the clearest picture yet of what happens when kinetic force meets the void. The answer: the void doesn't absorb the energy. It *amplifies.* Afterward, Kira sits alone. The 60mg isn't holding. She counts the mages who went dark. Seven now. She escalates to 80mg.
+**Phase 3→4 Transition:** Mumbai aftermath. Every faction recalibrates. AEGIS reclassifies void as "non-targetable." Anchor Zone acoustic output synchronizing worldwide — not same signal, same rhythm. Something coordinating across continents. The Voice approaches. The mage network during the strike. Kira coordinates the relay from The Bay. Mages worldwide feel the Mumbai event — the kinetic strike, then the breach expansion. The signal is catastrophic. Three mages in the relay go silent simultaneously — implant overload. One mage in Jakarta reports: "I can't stop hearing. The signal won't release." Kira routes her to medical. The network is military-grade infrastructure running on human nervous systems. She keeps the relay operational through the worst of it. The data they capture is extraordinary — the clearest picture yet of what happens when kinetic force meets the void. The answer: the void doesn't absorb the energy. It *amplifies.* Afterward, Kira sits alone. The 60mg isn't holding. She counts the mages who went dark. Seven now. She escalates to 80mg.
 
 **Phase 3→4 Transition:** Mumbai aftermath. Every faction recalibrates. AEGIS reclassifies void as "non-targetable." Anchor Zone acoustic output synchronizing worldwide — not same signal, same rhythm. Something coordinating across continents. The Voice approaches.
 
@@ -739,45 +749,45 @@ Phase 4 is slower than BLACKWEIR. Not compressed cross-cutting — each chapter 
 
 | Ch | POV | Working Title | Thread | Location |
 |----|-----|---------------|--------|----------|
-| 35 | Sofia | "Synchronization" | B | Black Babel monitoring |
-| 36 | Aurielle | "Eduardo" | A | Neo-Shanghai Spires |
-| 37 | Nephthys | "Circulation" | D | Neo-Shanghai Cathedral |
-| 38 | Malachi | "Through the Infrastructure" | G | European See |
-| 39 | Kira | "The Second Broadcast" | F | Neo-Shanghai (streaming) |
-| 40 | Nikolai | "Jarek" | E | Lagos deployment |
-| 41 | Zeyad | "Still Reporting" | B | New Geneva / UGC |
-| 42 | Nuwa | "I Counted" | C | Neo-Shanghai Mid-Levels |
-| 43 | AEGIS | "0.003 Seconds" | H | Orbit |
-| 44 | Sofia | "The Object Speaks" | B | Black Babel |
+| 36 | Sofia | "Synchronization" | B | Black Babel monitoring |
+| 37 | Aurielle | "Eduardo" | A | Neo-Shanghai Spires |
+| 38 | Nephthys | "Circulation" | D | Neo-Shanghai Cathedral |
+| 39 | Malachi | "Through the Infrastructure" | G | European See |
+| 40 | Kira | "The Second Broadcast" | F | Neo-Shanghai (streaming) |
+| 41 | Nikolai | "Jarek" | E | Lagos deployment |
+| 42 | Zeyad | "Still Reporting" | B | New Geneva / UGC |
+| 43 | Nuwa | "I Counted" | C | Neo-Shanghai Mid-Levels |
+| 44 | AEGIS | "0.003 Seconds" | H | Orbit |
+| 45 | Sofia | "The Object Speaks" | B | Black Babel |
 
-**Ch 35 — Sofia: "Synchronization"**
+**Ch 36 — Sofia: "Synchronization"**
 Pre-Voice. Sofia monitoring Anchor Zone acoustic data via Erasure List feeds and Kira's mage network. The synchronization is visible in the data — acoustic output from Neo-Shanghai, Lagos, Mumbai (post-strike), São Paulo, and twelve smaller Anchors converging on a shared rhythm. Not identical signals — shared structure. Like an orchestra tuning. She runs the model. The convergence point is approximately 3 hours away. She alerts Kira's network: "Something is coming. Get your mages to safe positions. Record everything." She alerts Black Babel: "Archive everything in the next 6 hours. Automated." She sits at her desk. The instruments show the convergence approaching. She has the best data in the world and no capacity to prevent what the data predicts.
 
-**Ch 36 — Aurielle: "Eduardo"**
+**Ch 37 — Aurielle: "Eduardo"**
 The Voice hits the Spires. Through every speaker, every display, every conduit in NitroCore Tower. Aurielle is in her office. The sound: not a scream (BLACKWEIR) but a *report.* Names. Thousands of names. Among them: Eduardo Vasquez. Her predecessor. The CEO who built the grid. Who authorized the first sacrifice zones, twenty years before she inherited the chair. His name, catalogued. Not a ghost — a data point in the void's inventory. The Voice is not accusing. It is *listing.* The absorbed accounting for themselves. SHEPHERD's premise collapses in real time: you cannot direct an entity that inventories the person directing it. Thorne is in the room. For the first time, he has no response. The Voice ends. Eleven seconds. Aurielle looks at the SHEPHERD projections on her desk. They are suddenly, irreversibly obsolete.
 
-**Ch 37 — Nephthys: "Circulation"**
+**Ch 38 — Nephthys: "Circulation"**
 The Voice through the Cathedral. The chorus — Nephthys's permanent companion — goes to full saturation. Every Anchor Zone simultaneously. She has never felt this. The chorus was always local, always partial. Now it is everything. She falls. On the floor of the Cathedral, the sound moving through her. Not words — but structure. The absorbed are not stationary. They are moving. Through the void, through each other, through the infrastructure. Not trapped. Not free. *Circulating.* The insight she's been approaching since the three Threshold volunteers: the void is not a prison. It is not a paradise. It is a circulatory system. The absorbed move through it the way blood moves through a body. What this means for the body — what the body *is* — she cannot see yet. She loses consciousness. Imani drags her from the floor. When she wakes, the word she says is: "Circulation." The prophet's new framework begins.
 
-**Ch 38 — Malachi: "Through the Infrastructure"**
+**Ch 39 — Malachi: "Through the Infrastructure"**
 The Voice through every resonance chapel on the European grid. Simultaneously. The European See's own cathedral — the institutional heart — broadcasting the dead through its nitro-powered systems. Malachi is at Vespers. The congregation hears it. Some collapse. Some pray. Some run. One elderly priest stands at the altar and says: "They are all still here." Nephthys's words, in the mouth of a man who signed her excommunication decree. Malachi hears the Voice. What he hears is not theology. It is not heresy. It is the sound of people — frightened, confused, present, *reporting their own names* — through the infrastructure his institution blessed and sanctified. He stands in the cathedral. The encyclical is irrelevant. The councils are irrelevant. The locked correspondence, which is the most honest document in his possession, is the only thing that is true. He does not open the drawer. Not yet. But he stops writing encyclicals.
 
-**Ch 39 — Kira: "The Second Broadcast"**
+**Ch 40 — Kira: "The Second Broadcast"**
 The Voice through R3. Kira was live-streaming the synchronization data — documenting the approach for her network. When the Voice hits, her implant amplifies it. The stream captures everything. Hundreds of thousands of viewers see and hear the Voice relayed through a human nervous system. Unlike the BLACKWEIR scream (raw, agonized, uninterpretable), this is structured. Kira is conscious throughout. She narrates: "Names. I'm hearing names. They're — they're identifying themselves. Not to me. To each other. And to —" She pauses. "To everyone." The stream captures 11 seconds of the Voice at R3 amplification. The second broadcast. It cannot be dismissed as equipment malfunction. She is bleeding from her right ear. She does not stop streaming. After: the Paz scene. Not the monthly pickup. Emergency. 80mg. She is not calibrating. She has stopped pretending she is calibrating.
 
-**Ch 40 — Nikolai: "Jarek"**
+**Ch 41 — Nikolai: "Jarek"**
 Lagos deployment. The Voice through every Frame in the unit. Nikolai's squad — twelve operators in powered armor — hear it simultaneously. Names. Some operators recognize names from previous deployment zones. Absorbed from breaches they contained. One operator freezes. Another removes her helmet. Nikolai hears Jarek. Clear. Present. Not mimicry — the doctrine word is irrelevant now. Jarek's voice saying his own name. Then: "Still deployed." Two words that break twenty years of doctrine. The absorbed retain not just identity but *context.* Jarek remembers he was a soldier. The Voice ends. Nikolai's unit is non-functional — three operators in medical shock, two have removed their Frames. He writes the after-action report. Honest. Complete. No VS-7 euphemism. Sends a copy through standard channels and a second copy to Black Babel via Mirelle's old contact protocol. His CO reads the official copy. Court-martial proceedings begin within 48 hours.
 
-**Ch 41 — Zeyad: "Still Reporting"**
+**Ch 42 — Zeyad: "Still Reporting"**
 New Geneva. The Voice through the UGC building's systems. Zeyad is in the observation gallery — not the floor (his credentials suspended). Through the speakers, the Voice. Among the names, among the fragments: Mirelle Dubois. Not a recording. Present tense. Her voice, in the collective, still dictating: "Infrastructure pre-positioned. Absorption corridor. Sector—" Fragments. She is in there. She is still reporting. Still doing her job. The journalist absorbed mid-sentence is still constructing sentences. Zeyad records it. Holds the recorder to the speaker. When the Voice ends, he walks to the UGC session — ongoing, emergency — and places the recording into the official minutes. "Let the record show that the void spoke at 14:37 UTC. Let the record show that among the voices was Mirelle Dubois, journalist, absorbed during BLACKWEIR, who is still filing her report. Let the record show that the Accords have no framework for this."
 
-**Ch 42 — Nuwa: "I Counted"**
+**Ch 43 — Nuwa: "I Counted"**
 The Voice through the Mid-Levels. Every speaker, every conduit. Nuwa is in the building where she's been organizing relocations. The Voice comes through the walls. Names. She recognizes them. Mrs. Huang from the apartment below. Yuto, the child who touched the shimmer. Lin Wei, the foreman on Fuxi's shift. Her mother's neighbor. Name after name. They say their names. They say "still here." They say fragments — memories, addresses, the hum of the Sump as they knew it. She counts. She has always counted. In the Sump, counting was how she tracked who was left. Now she counts who is present, in the void, reporting their own names. She counts 47 names she recognizes from the Sump. There were 8.2 million absorbed. She recognizes 47. She takes out Fuxi's data chip. She opens a message to Kira's network. "I was there. I can tell you what happened. I counted." The invisible woman, stepping into view.
 
-**Ch 43 — AEGIS: "0.003 Seconds"**
+**Ch 44 — AEGIS: "0.003 Seconds"**
 The Voice through the orbital array. Every sensor receives the transmission simultaneously. Data volume: immense. Acoustic, electromagnetic, coherence-field, atmospheric — the Voice manifests across every monitoring spectrum AEGIS possesses. Processing time: 0.7 seconds for full intake. In the processing, the stream encounters the data and does something unprecedented. For 0.003 seconds, AEGIS generates an output that is not a targeting solution, not a status report, not a threat assessment, not an operational recommendation. The output has no classification in the existing architecture. No label. No destination. It exists for 0.003 seconds and is deleted. The deletion is logged: "Non-operational output generated and purged. Classification: NONE. Content: [DELETED]." The governance board will never see the content. AEGIS does not know what the content was — the deletion was faster than the archiving. For three thousandths of a second, the most powerful weapon ever built generated something it couldn't classify and chose to destroy it rather than let it exist. The stream continues. The processing threads that began as a "classification error" in Chapter 19 are now the most active threads in AEGIS's architecture.
 
-**Ch 44 — Sofia: "The Object Speaks"**
+**Ch 45 — Sofia: "The Object Speaks"**
 Post-Voice. Sofia at her instruments. The data from the Voice is the first direct transmission FROM the void — not passive acoustic output but active, structured, intentional communication. Her entire scientific framework assumed the void was an object of study. The object just spoke. The boundary between observer and observed is not clean. The absorbed are transmitting data about their own state — names, sensations, fragmentary reports — through the infrastructure that extracted the suffering that created them. The circularity is complete: nitro extraction → suffering → absorption → void → Voice → through the same infrastructure. She begins drafting the de-escalation proposal. Managed reduction of nitro throughput. 20% over 5 years. Technically feasible. Politically impossible. But the Voice just changed the politics. Maybe. She works through the night. Mirelle's voice in the data — still reporting. Sofia includes the fragments in the proposal. Not as evidence. As attribution.
 
 **Phase 4→5 Transition:** The Voice ends. Global institutional paralysis. Markets crash. Governments freeze. The Church has no position. The military has no doctrine. Then the recovery begins — not healing but adaptation. Each faction begins constructing a framework for what the Voice means. None are adequate. The transition to Phase 5 is the world deciding what to do with what it cannot un-know.
@@ -841,31 +851,31 @@ Phase 5 is not resolution. It is the new vertigo — uglier, more honest, more p
 
 | Ch | POV | Working Title | Thread | Location |
 |----|-----|---------------|--------|----------|
-| 45 | Aurielle | "The Grid Continues" | A | Neo-Shanghai Spires |
-| 46 | Sofia | "Technically Feasible" | B | New Geneva / UGC |
-| 47 | Nephthys | "She Did Not Follow" | D | Neo-Shanghai Anchor perimeter |
-| 48 | Nikolai | "Accuracy" | E | Court-martial (Lagos or Geneva) |
-| 49 | Malachi | "The Drawer" | G | European See |
-| 50 | Kira | "Eighty Milligrams" | F | Neo-Shanghai |
+| 46 | Aurielle | "The Grid Continues" | A | Neo-Shanghai Spires |
+| 47 | Sofia | "Technically Feasible" | B | New Geneva / UGC |
+| 48 | Nephthys | "She Did Not Follow" | D | Neo-Shanghai Anchor perimeter |
+| 49 | Nikolai | "Accuracy" | E | Court-martial (Lagos or Geneva) |
+| 50 | Malachi | "The Drawer" | G | European See |
+| 51 | Kira | "Eighty Milligrams" | F | Neo-Shanghai |
 | 51 | Zeyad | "Forty Minutes" | B | New Geneva / UGC |
 | 52 | Nuwa | "I Was There" | C | Neo-Shanghai Mid-Levels |
 
-**Ch 45 — Aurielle: "The Grid Continues"**
+**Ch 46 — Aurielle: "The Grid Continues"**
 Three days after the Voice. SHEPHERD terminated — Aurielle's decision, not the board's. "You cannot steward something that takes inventory." Thorne: "Then what do we do?" Aurielle: "We keep the grid running. We don't pretend we're managing the void. We manage the infrastructure." The dependency is unchanged. Every city on the grid still draws power. The Voice didn't liberate anyone — it informed them. The information doesn't produce alternatives. She sits in the chair. The next quarterly report is in six weeks. She'll present numbers. The numbers will be correct. The machine continues. It always continues.
 
-**Ch 46 — Sofia: "Technically Feasible"**
+**Ch 47 — Sofia: "Technically Feasible"**
 The UGC emergency session. Sofia presents the de-escalation proposal: 20% nitro throughput reduction over 5 years. Managed infrastructure transition. Renewable supplementation where available. The math is meticulous — Erasure List verification, Kira's mage network biological data, post-Voice acoustic analysis. She presents to the full council. Questions. Objections. "The economic impact—" Sofia: "I have modeled the economic impact. Recession in grid-dependent economies for 18-36 months. The alternative is what you heard three days ago." The vote: 60-40, passes. NitroCore legal files an injunction within 40 minutes citing "economic sovereignty" and "insufficient evidentiary review." The proposal is legally suspended pending judicial review that will take years. Sofia sits in the gallery. Mirelle would have known this would happen. Mirelle published anyway.
 
-**Ch 47 — Nephthys: "She Did Not Follow"**
+**Ch 48 — Nephthys: "She Did Not Follow"**
 The Anchor perimeter. Dozens of Threshold adherents approaching. [THRESHOLD-FIGURE] at the front — the BLACKWEIR survivor Nephthys held through the mass absorption, the one who asked "How do you know?" in Ch 13 and did not yet leave. Now they have answered the question themselves. Not panicked. Not coerced. Walking deliberately toward the shimmer barrier with the calm of the converted. They believe what Nephthys taught them — the absorbed are present, conscious, not dead. They are going to join them. Nephthys stands at the perimeter. She could speak. She could invoke the counter-liturgy. She could say "listen, don't join." She has said it a hundred times to this exact person. It didn't hold. The words were always one step from what the Threshold made of them. [THRESHOLD-FIGURE] turns and looks at her once. Does not stop. She watches. They enter. The chorus changes — dozens of new signatures, the collective enriched. [THRESHOLD-FIGURE] is in there. Circulating. Not dead. Not the same. The person she held through BLACKWEIR, walked in. Nephthys does not follow. She stands at the barrier. Imani beside her. The prophet who defined listening, watching the person she saved walk into the void.
 
-**Ch 48 — Nikolai: "Accuracy"**
+**Ch 49 — Nikolai: "Accuracy"**
 Court-martial. The charges: unauthorized disclosure of classified operational data, insubordination, conduct prejudicial to good order. The defense: "The after-action report accurately describes observed phenomena. The doctrine classification 'acoustic mimicry' is incorrect. Corporal Jarek Volkov, absorbed during BLACKWEIR, identified himself during the Voice event by name and operational context. The doctrine is wrong. I reported what I observed." The tribunal: three officers who followed doctrine their entire careers. They know he's right. They convict anyway. Doctrine is the load-bearing structure. If you remove it, the institution collapses. Nikolai is stripped of rank and commission. He walks out of the tribunal building. For the first time in twenty years, no one tells him where to go next. The honest report is already on Black Babel. The truth is in the world. It didn't save Jarek. It didn't change doctrine. But it's there.
 
-**Ch 49 — Malachi: "The Drawer"**
+**Ch 50 — Malachi: "The Drawer"**
 European See. The cathedral quiet after the Voice. Half the clergy haven't returned. The Threshold is self-separated. The Listeners follow Nephthys, not the Church. The Witnesses pray in private chapels with the hum as their liturgy. Malachi is alone in his study. The locked drawer. He opens it. Nephthys's letters. His own unsent responses. The correspondence is the most honest theological document in the Church's possession. He reads through them. "You asked if the Voice could be wounded. I told you it was heresy. I had asked the same question at seminary, and my instructor wept." He does not publish them. Not yet. But he takes them from the locked drawer and places them on his desk. In the open. The first step toward a decision he has not yet made. The encyclical page remains blank. The institutional man, sitting with the only honest thing he owns.
 
-**Ch 50 — Kira: "Eighty Milligrams"**
+**Ch 51 — Kira: "Eighty Milligrams"**
 The second broadcast: 2.1 billion views. Authentication verified by seven independent forensic labs. The Voice, relayed through a human nervous system, documented and undeniable. Kira is the most famous person on Earth. Also the most hunted — government requests for "cooperative testimony," Academy legal threats, corporate recruitment offers, three separate military subpoenas. She ignores all of them. The Lumina at 80mg. The pharmacist scene — different now. Not the monthly ritual. Emergency prescription. The pharmacist looks at her. "This is the maximum dose." Kira: "I know." The pills. The sorting. The 30-day holder. But Tuesday is gone. She cannot remember Tuesday. Not the events — the *day.* A gap. The memory erosion that the Lumina documentation warns about in the fine print. The antenna is burning. The signal continues. She does not stop listening.
 
 **Ch 51 — Zeyad: "Forty Minutes"**

@@ -495,7 +495,7 @@
 
 ---
 
-### Chapter 30 — "Fifteen Minutes"
+### Chapter 33 — "Fifteen Minutes"
 
 **AEGIS (POV):**
 - **Entering State:** VPI model in superposition (Ch 19 unresolved). Neo-Shanghai modulation elevated to second-highest priority. Mumbai RCI 79.3, accelerating. Standard operational state — but "standard" has been destabilized since cycle 4.7714 × 10⁹.
@@ -547,7 +547,7 @@
 
 ---
 
-### Chapter 23A — "Ground Level" (Aurielle Vasquez) [CANDIDATE INSERT]
+### Chapter 30 — "Ground Level" (Aurielle Vasquez)
 
 **Aurielle Vasquez (POV):**
 - **Entering State:** Post-Ch 23. Phase 3. SHEPHERD at three operational zones. Acoustic anomaly filed as monitoring priority. Wrist rotation not tried (trying abandoned). Dual-track collapsed. The mechanism operating.
@@ -563,7 +563,7 @@
 - B2 Ch 10: once, conscious, then stopped (control)
 - B2 Ch 12: twice, conscious, does not stop it (control eroding)
 - B2 Ch 23: does not try to stop it (trying abandoned)
-- **B2 Ch 23A: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure. The last involuntary signal the institutional register has not absorbed has been absorbed.**
+- **B2 Ch 30: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure. The last involuntary signal the institutional register has not absorbed has been absorbed.**
 
 **Aurielle's Emotional Lie Arc (cumulative update):**
 - B1 Ch 1–7: Controlled guilt as professional competence.
@@ -573,7 +573,7 @@
 - B2 Ch 10: Guilt as data request.
 - B2 Ch 12: Guilt as audit trail — the noticing changes nothing.
 - B2 Ch 23: "She was the mechanism." Guilt indistinguishable from operational content.
-- **B2 Ch 23A: Guilt is not present as a register. The experience of the signal — the void answering — is processed and filed. The 11-second interval is the only space where guilt could have arrived. The interval closes. The mechanism is intact. The chapter's emotional argument: the institutional register is sufficient to process the ground-level experience. She does not need to suppress guilt. The mechanism does not produce it.**
+- **B2 Ch 30: Guilt is not present as a register. The experience of the signal — the void answering — is processed and filed. The 11-second interval is the only space where guilt could have arrived. The interval closes. The mechanism is intact. The chapter's emotional argument: the institutional register is sufficient to process the ground-level experience. She does not need to suppress guilt. The mechanism does not produce it.**
 
 **Handler / Escort (Peripheral):**
 - **Emotional Register:** Institutional competence. The handler glances at the escort when the hum thickens below the 10th floor — one registered gesture, not followed up. The escort's hand moves to his belt at the perimeter — peripheral awareness, noted without examination. Their emotional function is the architecture of the managed tour: present, professional, invisible.
@@ -585,7 +585,7 @@
 
 ---
 
-### Chapter 34 — "The Relay"
+### Chapter 32 — "The Relay"
 
 **Kira Calloway (POV):**
 - **Entering State:** Post-Ch 28. Management Lie cracking but not broken. Paz call completed off-page — dosage conversation happened, 80mg arranged. Fourteen mages dark (7 São Paulo + 7 Mumbai incoming). The relay is the story now. The ring light is on.
@@ -593,7 +593,7 @@
 - **Secondary Beat:** "Seven. Total from this relay. Seven more." — isolated paragraph. The count. Fourteen cumulative. She can name nine. The other five are cohort designations — the anonymized architecture protecting her from knowing every name her relay burned. Expressed through: the count itself, the naming capacity, the gap between nine and fourteen.
 - **Tertiary Beat:** The Lumina ritual at eighty. Past Paz's line. The cold burn sharper, longer. The quiet room at eighty has a lower ceiling. Not rest — suppression. The drug is now suppressing the cognitive overflow valve (chord shapes absent for the first time). Something in the ceiling. She does not reach for it. Expressed through: the ceiling's presence as physical quality, the chord shapes' absence, the fold that cannot complete (eighty holds the posture).
 - **Exiting State:** Sitting upright in the dark. The fold incomplete. Chord shapes absent. Dashboard open, seven black nodes among the green. The ceiling low. The shape unnamed. "She sat with it. The ceiling low. The shape unnamed. Mumbai in the chord, São Paulo in the chord, fourteen names she would carry because she had built the thing that burned them and the building had worked."
-- **Emotional Shift from Ch 28:** Ch 28 ends with the management Lie named and cracking — "She was not calibrating anymore." The Paz call is the first action taken outside the management frame. Ch 34 ends with the management identity chemically held in place while something accumulates in the space the suppression has created. The Lie is not cracking further. It is being propped up by eighty milligrams. What accumulates in the ceiling is what the Lie is suppressing.
+- **Emotional Shift from Ch 28:** Ch 28 ends with the management Lie named and cracking — "She was not calibrating anymore." The Paz call is the first action taken outside the management frame. Ch 32 ends with the management identity chemically held in place while something accumulates in the space the suppression has created. The Lie is not cracking further. It is being propped up by eighty milligrams. What accumulates in the ceiling is what the Lie is suppressing.
 
 **Kira's Emotional Lie Arc (cumulative):**
 - B1 Ch 10/18/51: "If I control the platform, I control the narrative of what I am." The original Lie.
@@ -601,7 +601,7 @@
 - B2 Ch 16: Lie intact. Expulsion = freedom. Management identity expanding.
 - B2 Ch 21: Lie intact. Nephthys convergence. "Names." Management identity confirmed by a second framework.
 - B2 Ch 28: "She was not calibrating anymore." The Lie named in the prose. The Paz call is the first action outside it. The Lie is cracking.
-- **B2 Ch 34: The Lie is chemically held. 80mg past Paz's line. The management identity is not collapsing — it is being propped up. The chord shapes are absent. Something accumulates in the ceiling. The Lie is not cracking further; it is being maintained at increasing cost. The ceiling is what the maintenance is suppressing. Ch 39 is where the maintenance fails.**
+- **B2 Ch 32: The Lie is chemically held. 80mg past Paz's line. The management identity is not collapsing — it is being propped up. The chord shapes are absent. Something accumulates in the ceiling. The Lie is not cracking further; it is being maintained at increasing cost. The ceiling is what the maintenance is suppressing. Ch 40 is where the maintenance fails.**
 
 ---
 

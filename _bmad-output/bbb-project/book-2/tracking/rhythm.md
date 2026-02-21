@@ -783,7 +783,7 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 
 **Pacing Concern:** The relay's data-delivery risk (too much telemetry, not enough interiority) is mitigated by three devices: (1) the telemetry entries are formatted and brief, not narrated; (2) the translation passages are filtered through Kira's performer-as-translator voice; (3) the node-dropout beats ("Then Lena went dark.") interrupt the data flow with human cost at regular intervals. The reader processes information and horror simultaneously — the same dual-track structure as Aurielle's chapters, different register.
 
-**Structural Note:** Ch 28 is the Phase 3 Kira chapter — the relay coordinator. It pairs with Ch 34 (Mumbai relay — catastrophic, order-of-magnitude worse) as a two-chapter unit: São Paulo (manageable, barely) → Mumbai (not manageable). The rhythm of Ch 28 — sustained-high with a heavy resolving movement — will be the baseline against which Ch 34's catastrophic register lands. Ch 28 is the chapter where the management frame cracks. Ch 34 is where it breaks.
+**Structural Note:** Ch 28 is the Phase 3 Kira chapter — the relay coordinator. It pairs with Ch 32 (Mumbai relay — catastrophic, order-of-magnitude worse) as a two-chapter unit: São Paulo (manageable, barely) → Mumbai (not manageable). The rhythm of Ch 28 — sustained-high with a heavy resolving movement — will be the baseline against which Ch 32's catastrophic register lands. Ch 28 is the chapter where the management frame cracks. Ch 32 is where it breaks.
 
 **Comparison to Ch 6 / Ch 16 / Ch 21:**
 - Ch 6: ~4,200 words, Bay Area apartment, ring light off, Lumina 60mg established, Paz scene, network 47/9. Closing: "the quiet room held."
@@ -879,7 +879,7 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
-### Chapter 30 — "Fifteen Minutes" (AEGIS)
+### Chapter 33 — "Fifteen Minutes" (AEGIS)
 
 **Mode:** STREAM (full style exemption — AEGIS §10)
 **Tension Shape:** Operational monitoring → escalation acceleration → targeting/window activation → 15-minute countdown (probability modeling) → free fall (freed processing) → impact → model failure → reclassification → post-strike reorientation
@@ -907,10 +907,10 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 **Dialogue Percentage:** ~8% (board member dialogue only; all other content is AEGIS processing stream)
 
-**Structural Note:** The chapter is bookended by "Sensor update cycle" (opening) and "The stream continues" (closing) — matching Ch 19's register. The callbacks are deliberate: same words, different weight. Ch 19: "standard" destabilized. Ch 30: "standard" destroyed.
+**Structural Note:** The chapter is bookended by "Sensor update cycle" (opening) and "The stream continues" (closing) — matching Ch 19's register. The callbacks are deliberate: same words, different weight. Ch 19: "standard" destabilized. Ch 33: "standard" destroyed.
 
 **Comparison to Ch 19 (AEGIS debut):**
-| Element | Ch 19 | Ch 30 |
+| Element | Ch 19 | Ch 33 |
 |---------|-------|-------|
 | Words | ~3,800 | ~4,900 |
 | Core processing challenge | Classification error (VPI superposition) | Model failure (void amplified) |
@@ -919,7 +919,7 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 | Closing | "Standard" destabilized | "Standard" destroyed |
 | Void relationship | Pattern-matching failure | Operational premise failure |
 
-**Cross-Chapter Rhythm:** Ch 29 (Nuwa, "she began" — the smallest possible act of refusal, ground level) → Ch 30 (AEGIS, 2.3M dead, 847.3 km altitude). The juxtaposition is the chapter pair's argument: the person moving through a building saving people; the system calculating acceptable casualties from orbit. Same moment. Different altitude. The rhythm contrast is structural — Ch 29's TEXTURE mode (slow, sensory, individual) against Ch 30's STREAM mode (fast, data, aggregate).
+**Cross-Chapter Rhythm:** Ch 29 (Nuwa, "she began" — the smallest possible act of refusal, ground level) → Ch 30 (Aurielle, "Ground Level" — first time at the Anchor Zone) → Ch 31 (Zeyad, Lagos) → Ch 32 (Kira, relay, Mumbai real-time) → Ch 33 (AEGIS, 2.3M dead, 847.3 km altitude). The juxtaposition across the sequence is the argument: the person moving through a building saving people; the system calculating acceptable casualties from orbit. Same moment. Different altitude. The rhythm contrast is structural — Ch 29's TEXTURE mode (slow, sensory, individual) against Ch 33's STREAM mode (fast, data, aggregate).
 
 ---
 
@@ -950,7 +950,7 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 **Pacing Concern:** The breach escalation scene risks feeling procedural. Mitigated by the hum's physical progression — the reader experiences the breach through Zeyad's body, not through data. The data is there (RCI values, junction designations) but the body is the primary register.
 
-**Structural Note:** Ch 31 paired with Ch 30 forms the Phase 3 climax chapter pair. Ch 30: STREAM mode, 847.3 km altitude, 2.3M dead, military model catastrophic failure. Ch 31: TEXTURE mode, ground level, 0 dead, alternative model humane insufficiency. The rhythm contrast is structural — Ch 30's data-rate variation against Ch 31's sensory-physical progression. Same evening. Different altitude. The void is consistent across both.
+**Structural Note:** Ch 31 paired with Ch 33 forms the Phase 3 climax chapter pair. Ch 33: STREAM mode, 847.3 km altitude, 2.3M dead, military model catastrophic failure. Ch 31: TEXTURE mode, ground level, 0 dead, alternative model humane insufficiency. The rhythm contrast is structural — Ch 33's data-rate variation against Ch 31's sensory-physical progression. Same evening. Different altitude. The void is consistent across both.
 
 **Comparison to B2 Ch 17 (The Other Model — direct precursor):**
 | Element | Ch 17 | Ch 31 |
@@ -967,7 +967,7 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
-### Chapter 23A — "Ground Level" (Aurielle Vasquez) [CANDIDATE INSERT]
+### Chapter 30 — "Ground Level" (Aurielle Vasquez)
 
 **Mode:** PRESSURE
 **Tension Shape:** Low-institutional (altitude context, decision to go) → rising-sensory (descent, hum emerging) → sensory rupture (ground level, cold, violet frost, chorus) → peak (directed event, 11-second signal, institutional register arrives) → resolving (ascent, hum attenuating, warmth returning) → suspended (display wall, standing not sitting, cold fading)
@@ -1007,11 +1007,11 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 - B2 Ch 10: once, conscious, then stopped (control)
 - B2 Ch 12: twice, conscious, does not stop it (control eroding)
 - B2 Ch 23: does not try to stop it (trying abandoned)
-- **B2 Ch 23A: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure.**
+- **B2 Ch 30: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure.**
 
 ---
 
-### Chapter 33 — "Three Walked In" (Nephthys)
+### Chapter 35 — "Three Walked In" (Nephthys)
 
 **Mode:** TEXTURE
 **Tension Shape:** Low-contemplative (Cathedral floor, morning practice) → rising-cost (transit, dephasing loss, migraine, first bleed) → rising-sensory (perimeter approach, shimmer visible) → peak-sustained (at the barrier, full density, three signatures, *circulation*) → medium-resolving (Imani exchange, honest report) → low-contemplative (closing silence, word carried home)
@@ -1054,16 +1054,16 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 - B2 Ch 13: during session, hidden
 - B2 Ch 21: darker, third today
 - B2 Ch 24: one episode during confrontation (Seren reads the blood)
-- **B2 Ch 33: two episodes in one outing — transit (minute 34, unilateral) + perimeter (bilateral, Imani's cloth ready before symptom). Logistics now predictive.**
+- **B2 Ch 35: two episodes in one outing — transit (minute 34, unilateral) + perimeter (bilateral, Imani's cloth ready before symptom). Logistics now predictive.**
 
 **Comparison to Ch 24 (direct precursor):**
 - Ch 24: ~4,100 words, warehouse + transit, two locations, five scenes, ~14% dialogue, confrontation-driven
-- Ch 33: ~3,800 words, Cathedral + perimeter, two locations (transit compressed), six scenes, ~8% dialogue, discovery-driven
-- Together: argument (Ch 24) → consequence (Ch 33). The prophet who lost the argument bears witness to what the argument produced. The theological confrontation precedes the physical reckoning.
+- Ch 35: ~3,800 words, Cathedral + perimeter, two locations (transit compressed), six scenes, ~8% dialogue, discovery-driven
+- Together: argument (Ch 24) → consequence (Ch 35). The prophet who lost the argument bears witness to what the argument produced. The theological confrontation precedes the physical reckoning.
 
 ---
 
-### Chapter 34 — "The Relay" (Kira)
+### Chapter 32 — "The Relay" (Kira)
 
 **Mode:** TEXTURE
 **Word Count:** ~3,900
@@ -1084,8 +1084,8 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 **Comparison to Ch 28 (direct precursor):**
 - Ch 28: ~4,200 words, 3 movements, ~18% dialogue, Sao Paulo relay (Category 3), 60mg, Paz call pending
-- Ch 34: ~3,900 words, 3 scenes, ~18% dialogue, Mumbai relay (Category 5), 80mg, Paz call completed off-page
-- Together: rehearsal (Ch 28) → the real thing (Ch 34). Same structure, higher load, higher cost, new discovery (the ceiling).
+- Ch 32: ~3,900 words, 3 scenes, ~18% dialogue, Mumbai relay (Category 5), 80mg, Paz call completed off-page
+- Together: rehearsal (Ch 28) → the real thing (Ch 32). Same structure, higher load, higher cost, new discovery (the ceiling).
 
 ---
 

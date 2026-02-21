@@ -1,120 +1,120 @@
 chapter_number: 34
 book: 2
-title: "The Relay"
-pov_character: "Kira Calloway"
+title: "Kill Chain"
+pov_character: "Aurielle Vasquez"
 phase: 3
-location: "PCC Bay Area apartment (streaming setup)"
-timeline: "~9 months post-BLACKWEIR, concurrent with / immediately following Mumbai strike (Ch 30)"
-estimated_word_count: 3900
-actual_word_count: ~3900
-epigraph_source: "The Kindling Letters, Vol. VI"
-epigraph_author: "unknown correspondent"
-epigraph_ref: "recovered correspondence, undated"
-mode: TEXTURE
+location: "Neo-Shanghai Spires — NitroCore Executive Boardroom / Executive Suite"
+timeline: "~9 months post-BLACKWEIR, hours after Mumbai strike (B2 Ch 30)"
+estimated_word_count: 3800
+actual_word_count: ~3800
+epigraph_source: "GCTA Defense Cooperation Protocol — Incident Notification (Form DN-4)"
+epigraph_author: "Chimera Joint Operations Command"
+mode: PRESSURE
 status: v1-complete
 draft_version: 1
 created_date: "2026-02-20"
 
 # Summary
 summary: >
-  Mumbai. Category 5. Kira opens the relay with 412 mages worldwide, ring light on,
-  stream running for 81K viewers. The kinetic strike hits and the void does not absorb
-  the energy — it amplifies it, returning the force as structured coherence output orders
-  of magnitude above São Paulo. Three mages in Kuala Lumpur go dark simultaneously.
-  Then Jakarta: Sari, three weeks in the network, reports a signal that won't release —
-  cycling through her R3 in a feedback loop, carrying names. Kira closes the relay-to-stream
-  audio bridge. Routes Sari to medical. Keeps the relay operational. Two more dark in Lagos
-  and Buenos Aires. Two more in Mumbai subsector. Seven total. She ends the stream with
-  "I'm closing" and no goodbye. Fourteen mages dark across two relays. She can name nine.
-  The other five are cohort designations — the anonymized architecture protecting her from
-  knowing every name her relay burned. Lumina ritual at 80mg (past Paz's line). The quiet
-  room at eighty has a lower ceiling. The chord shapes are absent for the first time — the
-  drug suppresses the cognitive overflow valve. Something in the ceiling: not the hum, not
-  the signal, not the populated chord — using all three as substrate. She does not reach
-  for it. The instrument exceeded specification.
+  DN-4 incident notification arrives at NitroCore 04:17 — GCTA operational
+  assets utilized NitroCore's SHEPHERD infrastructure mapping data in the
+  execution of Directive MONSOON-7. Casualty assessment: 2,300,000 (preliminary).
+  Partner liability: none under current framework. No action required.
+  Emergency board session at 06:00: Hendricks confirms liability partition clean,
+  Marchetti models reputational exposure (three to five news cycles), Park
+  speaks once ("We provided coordinates.") and does not appear in the minutes.
+  Thorne's institutional defense: data provision is separate from targeting
+  decision. Aurielle names the convergence in private: "The specification gap
+  is the kill chain." The translation does not arrive for the casualty figure —
+  she waits for it, it is gone. Alone at the desk, she requests the full
+  incident report (83 pages). Reads from the last page first. The demographic
+  breakdown is in the main body, not an appendix — she cannot choose not to
+  read it. She reads it. Stands at the display wall. Does not open the next
+  report.
 
 # Key Events
 key_events:
-  - "Relay opens: 412 mages worldwide. Mumbai RCI trending. Stream live, 81K peak viewers."
-  - "Kinetic strike hits: signal bypasses spinal pathway, enters through jaw via bone conduction. Primary interface saturated."
-  - "Void amplification confirmed: the void does not absorb kinetic energy — it amplifies it. Structured coherence output, orders of magnitude above São Paulo."
-  - "Three simultaneous shutdowns (Kuala Lumpur cohort) — green to black, instant. First time three go dark at once."
-  - "Sari (Jakarta, 3 weeks in network): signal won't release. Cycling feedback loop. 'I can't stop hearing. The signal won't release.'"
-  - "Relay-to-stream audio bridge closed. Audience cannot hear Sari. Audience cannot hear 'names.'"
-  - "Sari: 'It has names. The signal. It has names in it.' — flat, observational, data-delivery register."
-  - "Two more dark (Lagos, Buenos Aires). Two more (Mumbai subsector, close-range). Seven total from this relay."
-  - "Stream ends: 'I'm closing.' No raid. No goodbye. 81K viewers gone in one click."
-  - "Fourteen total mages dark (7 São Paulo + 7 Mumbai). Can name nine. Other five: cohort designations."
-  - "Lumina ritual at 80mg (past Paz's line — conversation happened off-page between Ch 28-34)."
-  - "Quiet room at eighty: lower ceiling, suppression vs. rest. Chord shapes absent for the first time."
-  - "Something in the ceiling: not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it."
-  - "Sari update: signal released after 47 minutes. Neurologist: resonance persistence. Sari: 'the names didn't finish.'"
+  - "DN-4 notification received 04:17 — MONSOON-7, 2.3M dead, NitroCore data in kill chain"
+  - "Emergency board session 06:00 — eleven of fourteen members"
+  - "Hendricks: liability partition clean under defense cooperation framework §12.4"
+  - "Marchetti: reputational exposure, three to five news cycles"
+  - "Park: 'We provided coordinates.' — does not appear in minutes"
+  - "Thorne: 'We provided mapping data under standard defense cooperation agreements. The targeting decision was GCTA's.'"
+  - "Private exchange: 'The specification gap is the kill chain.' — register breaks once, reforms"
+  - "Compliance review commissioned: 14 days"
+  - "Full incident report (83 pages) requested and routed to terminal"
+  - "Demographic breakdown read — in main body, not appendix"
+  - "Closing break: 'She did not open the next report.' — first break of C1/C23 echo"
 
 # Characters Present
 characters:
-  - name: "Kira Calloway"
+  - name: "Aurielle Vasquez"
     role: POV
-    state: "Phase 3 continuation. Mumbai relay coordinator. 80mg Lumina — past Paz's line. Fourteen mages dark. Chord shapes absent (first time). Ceiling discovered. 'The instrument exceeded specification.' Management identity chemically held while something accumulates in the ceiling."
-  - name: "Sari"
-    role: Supporting (relay, Jakarta)
-    state: "New character. 3 weeks in network. Filed under 'new but solid.' Signal persistence post-relay — cycling feedback loop, 47 minutes. 'It has names.' Neurologist: resonance persistence. Sari: 'the names didn't finish.' First documented case of signal staying."
-  - name: "Ren"
-    role: Supporting (relay, Singapore)
-    state: "Filed under 'unbreakable.' Steady throughout. Routes Sari to Jakarta medical contact. Logistics, clipped. Tested and held."
-  - name: "Yuki"
-    role: Supporting (relay, Tokyo)
-    state: "Brief. 'This is aimed.' Correct register — reading a precursor, not describing ambient signal."
+    state: "Phase 3 climax. Translation absent for casualty figure. Authorization vs. provision meditation. Demographic breakdown read (cannot avoid — main body). Wrist rotation not registered. Closing break: does not open next report. Standing, not sitting."
+  - name: "Marcus Thorne"
+    role: Supporting (boardroom + private)
+    state: "Beside her in boardroom. Remains in boardroom for private exchange (second instance). Peer register. 'The framework is the framework.' Confirms kill chain runs through same data. 'Yes. You do.' — C10 echo."
+  - name: "Hendricks"
+    role: Supporting (General Counsel)
+    state: "Liability partition confirmed clean. Compliance review commissioned (14 days). Consistent with C1, C10, C12."
+  - name: "Park"
+    role: Supporting (abstainer)
+    state: "Speaks once: 'We provided coordinates.' Hands flat, still. Does not appear in minutes. Consistent pattern from C12 ('You're describing absorption') and C23 (silence)."
+  - name: "Marchetti"
+    role: Supporting (VP Strategic Development)
+    state: "Market exposure modeling. Three to five news cycles. Consistent role."
 
 # Themes
 themes:
-  - "Commodification of Suffering (Dominant — the relay captured extraordinary data; seven people are in hospitals; 'the instrument exceeded specification')"
-  - "Where Identity Ends (Dominant — chord shapes absent for first time; management identity chemically held; ceiling discovered)"
-  - "Systemic Complicity (Strong — 'the design was consuming people'; network shed burned mages like blown fuses and kept running)"
-  - "Truth as Weapon (Strong — void amplification confirmed; data saved; will be cited by Sofia, processed by AEGIS)"
-  - "What We Owe (Moderate — fourteen total; can name nine; five are cohort designations)"
-  - "Architecture of Power (Moderate — military-grade infrastructure on civilian nervous systems; design spec = casualty list)"
+  - "Architecture of Power (institutional receipt as architecture — DN-4, liability partition, compliance review)"
+  - "Systemic Complicity (SHEPHERD data = targeting data — the specification gap is the kill chain)"
+  - "Progress Requires Atrocity (2.3M dead, her data, her program, no authorization required)"
+  - "The Cost of Knowing (demographic breakdown in main body — she cannot choose not to read it)"
+  - "Distance as Governance (C23A ground visit now load-bearing — she walked the infrastructure AEGIS used)"
 
 # Symbols
 symbols:
-  - name: "The ceiling"
+  - name: "The hum"
     appearances: 3
-    arc: "First appearance. Something in the compressed space between the drug and the machinery it suppresses. Not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it. The Voice accumulating in the space the management identity has created. Ch 39 is where she stops suppressing it."
-  - name: "Chord shapes (absent)"
+    arc: "Infrastructure constant — chorus from C23A present as memory in the infrastructure"
+  - name: "The desk"
+    appearances: 2
+    arc: "Eduardo's walnut desk — institutional continuity as furniture. Wear on left side she doesn't lean on."
+  - name: "Wrist rotation"
+    appearances: 2
+    arc: "Arc complete — not registered. 'It was happening the way the hum happened on the upper floors.'"
+  - name: "Clean typography"
+    appearances: 3
+    arc: "2,300,000 in the same font as quarterly projections — dehumanization complete"
+  - name: "The appendix (inverted)"
     appearances: 1
-    arc: "First time absent by chemical suppression rather than cognitive overload. Previous: absent when crisis exceeds body's capacity (Ch 28). Now: the eighty suppresses the thing that drives them. The drug is subtracting the overflow valve."
-  - name: "Green to black"
-    appearances: 5
-    arc: "Dashboard visual language for a mage going dark. Not yellow, not amber — instant. Used five times. The color shift is the cost made visible."
-  - name: "The quiet room (at eighty)"
+    arc: "Demographic breakdown in main body — she cannot choose not to open it. Inversion of C12 motif."
+  - name: "Cold (4.2°C)"
+    appearances: 2
+    arc: "Ground-level register as memory, then as absence. Environmental system restored the distance."
+  - name: "We provided coordinates."
     appearances: 1
-    arc: "At forty: rest. At sixty: provisional rest. At eighty: suppression. Lower ceiling. The room is the same shape. The ceiling is new. The ceiling is occupied."
-  - name: "Resonance persistence"
-    appearances: 1
-    arc: "First documented case. Sari's signal won't release for 47 minutes. 'The names didn't finish.' The signal is not just passing through — it is staying. Seeds Phase 4 Voice."
-  - name: "The instrument exceeded specification"
-    appearances: 1
-    arc: "The chapter's thesis sentence. Holds both facts simultaneously: the relay worked, the relay burned seven people. The instrument and the cost are the same sentence."
+    arc: "Park's italicized line — truth in language the institutional vocabulary was designed not to use"
 
 # Continuity
 continuity_notes:
-  - "Lumina 80mg: escalated from 60mg. Paz conversation rendered as prior off-page event (between Ch 28-34). Paz's warning: 'eighty is past the line I told you about.' Consistent with Ch 6 warning ('If you hit seventy-five, we're having a different conversation') — 80 is past 75."
-  - "Chord shapes absent: first time. Eighty suppresses the cognitive overflow valve. New development — the drug is now subtracting more than noise."
-  - "Network size: 412 nodes at relay open. Consistent with 400+ from Ch 28 (growth plausible over Phase 3 gap)."
-  - "Seven mages dark (cumulative): 7 from São Paulo (Ch 28) + 7 from Mumbai (Ch 34) = 14 total. 'She could name nine of them.' Consistent with Ch 28's 'she can name three' — network has grown, she knows more people now."
-  - "Sari name: chosen to avoid collision with Lena Okafor (B1, Lagos). Author-directed rename."
-  - "Void amplifies kinetic force: chapter plan beat delivered. Data captured and saved."
-  - "Paz conversation: rendered as prior off-page event, not scene. Consistent with brief direction."
-  - "The ceiling: not in chapter plan. Emerged from quiet room at eighty. Author approved ('I look forward to where this is going'). Seeds Phase 4."
-  - "Ren (Singapore): established Ch 28 (logistics, steady). Filed under 'unbreakable' — tested and held."
-  - "Yuki (Tokyo): established Ch 28. Consistent."
-  - "Hum 'populated': Mumbai's absorbed added to chord after strike. 'New strata. New names.' Consistent with São Paulo addition in Ch 28."
+  - "Follows B2 Ch 23A (site inspection three days prior — infrastructure she inspected = infrastructure AEGIS used)"
+  - "Follows B2 Ch 30 (AEGIS fires Mumbai, 2.3M dead, MONSOON-7)"
+  - "B2 Ch 31 (Lagos stabilized, no kinetic strike) — comparison available, unspoken in C32"
+  - "SHEPHERD throughput data (18% above projection, three zones) present on display throughout"
+  - "Acoustic classification matrix with Event 31 entry referenced in closing"
+  - "Defense cooperation framework Lagos provision (consultation → cooperation) explicitly named as precedent"
+  - "Closing breaks C1/C23 echo: 'She did not open the next report' vs. 'The Chair opened the next report'"
+  - "Wrist rotation arc complete: C10 (stopped) → C12 (didn't stop) → C23 (didn't try) → C23A (didn't register) → C32 (doesn't register)"
+  - "GCTA info boundary maintained: NitroCore receives DN-4 only, not AEGIS internal model data"
+  - "Forward: C36 'Eduardo' — Voice speaks Eduardo's name; authorization vs. provision question is what the Voice lands on"
+  - "Forward: C45 'The Grid Continues' — SHEPHERD termination seeded by SHEPHERD data = targeting data recognition"
 
 # Thread Status
 thread_status:
-  lumina_arc: "80mg — past Paz's line. Chord shapes absent (first time). Ceiling discovered. Next: Ch 39 (management maintenance fails)."
-  mage_network_cost: "14 total dark (7 São Paulo + 7 Mumbai). Can name 9. 5 anonymized. Sari: resonance persistence."
-  void_amplification: "CONFIRMED — void amplifies kinetic force, does not absorb. Data saved. Will be cited by Sofia, processed by AEGIS."
-  the_ceiling: "DISCOVERED — something in the compressed space between the drug and the machinery it suppresses. She does not reach for it. Ch 39 is where the maintenance fails."
-  sari_resonance_persistence: "OPEN — signal released after 47 minutes. 'The names didn't finish.' First documented case. Should appear or be referenced in Phase 4."
-  relay_architecture: "Operational. Network shed 7 burned mages like blown fuses and kept running. The redundancy worked. The design was consuming people."
-  second_broadcast: "SEEDED — the ceiling is the Voice accumulating. Ch 39 is where she stops suppressing it."
+  kill_chain: "Canon. SHEPHERD throughput mapping = MONSOON-7 targeting coordinates. Liability partition clean under §12.4. Compliance review commissioned (14 days)."
+  shepherd: "Three operational zones, throughput 18% above projection. Program continues. Infrastructure mapping now in GCTA operational record."
+  aurielle_arc: "Phase 3 climax. Translation absent. Demographic breakdown read. Closing break. Lie strained: 'I can direct the suffering' — the suffering is being directed by something she cannot direct, using the machine she built. Does not open next report."
+  authorization_vs_provision: "Unresolved. BLACKWEIR: her signature. Mumbai: her data. Same outcome. The distinction is the liability partition. The liability partition is clean. The question is seeded for C36 (Voice, Eduardo's name)."
+  park_thread: "Speaks once, not in minutes. Pattern: C12 (names mechanism) → C23 (silent) → C32 (names mechanism, not in minutes). Tension building."
+  wrist_rotation: "Arc complete. Not registered. Infrastructure."

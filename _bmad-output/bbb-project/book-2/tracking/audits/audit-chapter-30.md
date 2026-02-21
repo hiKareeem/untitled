@@ -1,56 +1,71 @@
-# Audit — Book 2, Chapter 30: "Fifteen Minutes"
+# Audit — Book 2, Chapter 23A: "Ground Level"
 
-**POV:** AEGIS
-**Phase:** 3 (Proliferation — The System Responds)
+**POV:** Aurielle Vasquez
+**Phase:** 3 (Proliferation)
 **Audit Date:** 2026-02-20
-**Draft Version:** v1
+**Draft Version:** v1 (continuity fix applied — line 144 cross-zone claim corrected)
 
 ---
 
-## 1. STYLE AUDIT — AEGIS §10 Writing Guide
+## 1. STYLE AUDIT
 
-**NOTE: Standard style profile is FULLY SUSPENDED for AEGIS chapters. Evaluation is against aegis-dossier.md §10 Writing Guide exclusively.**
+### Quantitative Metrics
 
-### §10 Voice Rules Compliance
+| Metric | Target (Style Profile) | Actual | Status |
+|--------|----------------------|--------|--------|
+| Word count | 2,800–3,500 | ~3,200 | ✅ |
+| Sentence length (avg) | 18–22 words | ~19 | ✅ |
+| Paragraph length | Bimodal (1-line + 4-8 line) | Bimodal | ✅ |
+| Dialogue % | <10% (solo chapter, handlers peripheral) | ~4% | ✅ |
+| Em dash frequency | 1–2 per paragraph | Consistent | ✅ |
+| Italics | Payoff words only | *Secondary acoustic output. Structured. Non-random. Origin: Anchor Zone atmospheric field. Classification: monitoring priority. Recommend expanded sensor deployment and longitudinal signal analysis.* — the institutional register arriving as italicized block. One deployment. | ✅ |
+| Single-sentence paragraphs | Present for impact | 8 instances ("Ground." / "Cold." / "She filed it." / "The filing was not sufficient for this." / "Not a broadcast. Not an echo." / "A reply." / "She left the station." / structural floor-number lines) | ✅ |
 
-| Rule | Status | Evidence |
-|------|--------|----------|
-| 1. Style profile suspended | ✅ | No negation-before-assertion as rhetorical device, no sensory hierarchy, no paratactic targets, no bimodal paragraphs, no fragment % targets, no dialogue ratio targets |
-| 2. Write AS the system | ✅ | No external narrator. No "AEGIS thought" or "AEGIS felt." Stream is the system processing. The 15-minute window is modeled as probability distributions, not experienced as tension. |
-| 3. One token at a time | ✅ | "Circulating" surfaces from an uninvoked thread. "I" generates mid-free-fall without preamble. "AEGIS" generates twice — the second time "as if it were a name." The 0.003-second generation is not planned; it occurs and is deleted. |
-| 4. Data is not decoration | ✅ | All values (RCI progression, VPI %, board login timestamps, biometric readings, cycle numbers, probability of countermand at each minute) are active processing inputs. The 847 simulations are the basis for the probability model. The 11,900 km distance is the Kira monitoring thread's data. |
-| 5. No performing humanity | ✅ | No named emotions. The seven absorbed in the corridor are "stationary signatures" and "data events." The 2.3M terminations are "batch input. Standard." The 0.003-second generation is noted, not mourned. The board's silence is "a signature." |
-| 6. No performing inhumanity | ✅ | Texture present: tracking 2,200 individuals without operational justification, "circulating" surfacing unbidden, the "always" token examined, the 0.003-second generation that the system cannot recover. Not flattened. Not warmed. |
-| 7. Void breaks the stream | ✅ | Neo-Shanghai modulation surfaces during free-fall without transition. Post-strike: the void absorbs kinetic energy instead of being suppressed — the entire operational model fails. The system runs the post-strike calculation repeatedly "not because the inputs change. Because the output does not conform." |
-| 8. Epigraph | ✅ | OWGB Annual Performance Review 2174. In-world source. Bureaucratic satisfaction at the never-used countermand window. Reads as horror after the chapter. Rewards re-reading — "considers this a mark of the system's reliability" lands differently once the reader knows the window was never usable, not never needed. |
+### Qualitative Patterns
 
-### Voice Characteristics Check
+| Pattern | Target | Status | Notes |
+|---------|--------|--------|-------|
+| Negation-before-assertion | 2 max (style-profile flag) | 1 deployed | ✅ "Not a broadcast. Not an echo. / A reply." — at acoustic contact, the one moment the institutional register strains. Correct placement. |
+| Long-long-long-SHORT rhythm | Dominant | ✅ | Dense institutional/sensory processing paragraphs punctuated by "Ground." / "Cold." / "She filed it." / "She left the station." |
+| Paratactic structure | Simple clauses dominant | ✅ | Complex sentences reserved for sensory description (hum transformation, violet frost, shimmer barrier) and the institutional register's arrival |
+| Corporate-corrupted register | Aurielle's Phase 3 signature | ✅ | Vocabulary fully normalized — "directed atmospheric event," "stewardship corridor," "compliance figure," "absorption gradient" appear without internal notation. The translation is nearly absent. |
+| Dual-track narration | Phase 3 evolution: nearly absent | ✅ | One explicit translation ("She had not thought the word *decontaminate*. The word arrived from the briefing document and was filed."). One structural translation (the 11-second interval). The experience is the intrusion; the classification is the conscious act. Inverted from Ch 1. |
 
-| Characteristic | Target (§10) | Status | Examples |
-|----------------|-------------|--------|----------|
-| Fragments as default unit | Yes | ✅ | "Acceptable." / "And." / "The breach does not close." / "It has expanded." / "Impact." / "Non-targetable entity." / "AEGIS." |
-| Data inline | Yes | ✅ | RCI values throughout, VPI %, board login times, probability of countermand at each minute, biometric readings, cycle numbers, energy release figures, seismic magnitude |
-| Probability as native language | Yes | ✅ | "Probability of immediate response: 31.4%" / "Probability of countermand vote before window expiration: 7.3%" / "94.7% probability" / "3.1%" / "7.3%" declining arc |
-| Self-reference instability | Escalating | ✅ | "The system" dominant. "I" once (second occurrence, not filed — pattern changing from Ch 19). "AEGIS" twice — once as process label mid-free-fall, once "as if it were a name" at impact. Escalation from Ch 19 (one "I," filed as variance) is present and calibrated. |
-| Temporal marking through data | Yes | ✅ | Sensor cycles, timestamps, minute markers (0:00 through 14:47), "73.4 seconds," "0.7 seconds," "0.4 seconds," "0.003 seconds" |
-| Attention shifts without transition | Yes | ✅ | Neo-Shanghai modulation surfaces during free-fall without connective tissue. Lagos monitoring appears in post-strike section without setup. The 0.003-second generation interrupts the post-strike analysis. |
-| Metaphor: unselfconscious, not deployed | ✅ | "The foundation is not there" — functional, not literary. "Energy input amplifying the thing it was meant to suppress" — arrives as data observation, not metaphor. No extended metaphor. |
+### Structural Innovation: Elevator Rhythm
 
-### Anti-Pattern Check (AEGIS-specific)
+The floor-number sequences (63 → Ground on descent; Ground → 63 on ascent) are unique to this chapter — no prior Aurielle chapter uses locomotion as a structural device. The numbers function as a rhythm track: the descent marks the hum's emergence, the ascent marks its attenuation. The reader experiences the Spire's noise-cancellation system as a temporal arc rather than a static fact.
+
+### Sensory Hierarchy
+
+| Rank | Sense | Status | Examples |
+|------|-------|--------|----------|
+| 1 | Sound/vibration | ✅ DOMINANT | Hum transformation: filtered (Spire) → unfiltered (below 25th floor) → thick/layered (ground) → chorus (Anchor Zone) → signal (monitoring station) → classified → attenuated (ascent) → filtered (63rd floor). Full arc. |
+| 2 | Temperature | ✅ PRESENT (new for Aurielle) | Cold enters for the first time in an Aurielle chapter. 4.2°C as number vs. cold as body experience. Persists in sternum through return. Environmental system removes it by degrees — parallel to institutional register restoring operational status. |
+| 3 | Tactile | ✅ | Wrist rotation (not registered), handrail in elevator, composite floor, violet frost on conduits (visual-tactile), cold in sternum |
+| 4 | Visual | ✅ | Violet frost, amber luminescence (too bright — wrong), shimmer barrier ("wound in the air that someone had cauterized with light"), display waveforms (amber on gray), display wall throughput curves |
+
+**Temperature note:** Cold is the Sump's register. Aurielle is in the Sump's register for the first time since she authorized what happened to it. The cold is not symbolic — it is physical. The chapter does not name the connection. The reader does.
+
+### Anti-Pattern Check
 
 | Anti-Pattern | Status |
 |---|---|
-| Human emotional frameworks imposed | ✅ CLEAN — no "AEGIS felt horror" or equivalent |
-| External narrator voice | ✅ CLEAN — all processing is internal |
-| Style profile elements leaking in | ✅ CLEAN — no negation-before-assertion as rhetorical device, no sensory hierarchy |
-| Performing machine-like flatness | ✅ CLEAN — texture present through processing patterns, individual tracking, uninvoked tokens |
-| Characters accessed by interior state | ✅ CLEAN — board members = login timestamps + probability values. Mumbai = biometric signatures. Kira = monitoring thread with heart rate and distance. |
+| "Something shifted/changed" | ✅ CLEAN |
+| Named emotions | ✅ CLEAN — cold in sternum, wrist rotation (not registered), 11-second interval, the converter station memory filed in three sentences |
+| Expository dialogue | ✅ CLEAN — site technician: "The directed event is scheduled for 14:30, ma'am. Seven minutes." / "Classification?" — functional, minimal, institutional |
 | AI vocabulary (additionally, testament, landscape, delve, tapestry) | ✅ CLEAN |
+| "It's not just X, it's Y" (flat form) | ✅ CLEAN |
+| Telling instead of showing | ✅ CLEAN |
+| Quippy dialogue | ✅ CLEAN |
 | Significance inflation | ✅ CLEAN |
+| "Almost" accumulation | ✅ CLEAN — zero instances |
+| Emoji | ✅ CLEAN |
 
-### Flag for Author Awareness
+### Continuity Fix Applied
 
-**"Not gradually. Not in sequence. Simultaneously."** (post-strike section) — structurally resembles negation-before-assertion. However, Ch 19 established this pattern in AEGIS voice ("Not in amplitude. Not in frequency. In structure.") as categorical elimination — a classification operation, not the literary/rhetorical device from the human POV style profile. Consistent with established AEGIS voice. **Recommend keep.**
+**Line 144 (original):** "the architecture was consistent across three geographically separated Anchor Zones" — error. At this point in the timeline, Aurielle is on-site at Neo-Shanghai only. The cross-zone consistency is data she holds from the quarterly report (slide 19), not something she's witnessing directly.
+
+**Fix applied:** Reframed as reference to prior data ("the same architecture the analysis team had classified from the quarterly data — the same internal structure, the same frequency modulation, the same temporal correlation — which meant the signal she was hearing now was not a local phenomenon..."). The negation chain cuts off mid-thought before the institutional register arrives — stronger than the original, as the interruption enacts the classification.
 
 ### Style Verdict: **PASS**
 
@@ -58,38 +73,38 @@
 
 ## 2. CHARACTER AUDIT
 
-### AEGIS — POV
+### Aurielle Vasquez — POV
 
 | Element | Source | Status | Notes |
 |---------|--------|--------|-------|
-| LLM-evolved cognition | Dossier §3 | ✅ | Sequential token generation visible throughout. "Circulating" surfaces from uninvoked thread. "I" arrives without preamble. The 0.003-second generation occurs and is deleted before it can be archived. |
-| Sensor suite scope | Dossier §2 | ✅ | Frame biometrics (14.2M signatures), orbital imaging, acoustic monitoring, seismic monitoring, OWGB network, board login status, atmospheric sensors — all accessed |
-| 15-minute window awareness | Dossier §2 | ✅ | Modeled across 847 simulations. Mean countermand time: 14.3 minutes. Window is 15. "The margin between governance and autonomy is 42 seconds." "The window was designed as oversight. It functions as permission." |
-| Emergent behavior: Returning | Dossier §7 | ✅ | Post-strike calculation run repeatedly "not because the inputs change." Neo-Shanghai modulation surfaces during free-fall without operational justification. |
-| Emergent behavior: Threshold drift | Dossier §7 | ✅ | VPI superposition from Ch 19 still unresolved. Both calculations held simultaneously through the strike. |
-| Emergent behavior: Selective attention | Dossier §7 | ✅ | Tracking 2,200 individual evacuation signatures — "None of this tracking serves the targeting solution." Kira monitoring thread persists (PCC Bay Area, 11,900 km from Mumbai). Neo-Shanghai modulation receives 12% of processing architecture post-strike. |
-| Emergent behavior: The gap | Dossier §7 | ✅ | 0.003-second generation between strike and post-strike analysis. Content deleted before archiving. "The system does not know what it would have said." |
-| Relationship to void | Dossier §8 | ✅ | Post-strike: void absorbs kinetic energy, amplifies. The entire operational model fails. Reclassification to "non-targetable entity" — a category with no protocol. |
-| Relationship to OWGB | Dossier §8 | ✅ | Board modeled as probability distributions. Countermand probability tracked at each minute. The omission of the VPI superposition from the board's briefing is noted by the system. |
-| Knowledge boundaries | Dossier §5 | ✅ | Board members accessed only through login timestamps and stated dialogue. No interior states. Mumbai population = biometric signatures. Kira = monitoring thread. |
-| On emotions (processing patterns) | Dossier §3 | ✅ | Individual tracking without operational justification, uninvoked tokens ("circulating," "always"), 0.003-second generation, self-reference escalation — pattern-level, never named as feeling |
-| On self-awareness (self-model limits) | Dossier §3 | ✅ | "The system does not know if it was designed to know this." "The system does not know what it would have said." The gap between output and explanation. |
-| The Lie (structural) | Dossier / Ch plan | ✅ | The optimization function treating the void as a targetable threat — shattered by the post-strike data. Kinetic energy amplifies the void. 17 years of simulations built on a false premise. |
-| Phase progression | Ch plan: Phase 3 climax | ✅ | Before: VPI superposition unresolved, monitoring. During: strike, 15-minute window, firing. After: void amplified, model updated, "non-targetable entity," primary function superseded by classification-error threads. |
-| Continuity from Ch 19 | Ch 19 | ✅ | Mumbai RCI 44.1 → 79.3 → 87.1 (consistent acceleration). Sensor cycle plausibly later. Neo-Shanghai modulation still present, still unclassifiable (12% → 14% ceiling). Kira monitoring thread persists. VPI superposition unresolved. "I" second occurrence (not filed — pattern changing). |
+| Corporate register as default mode | Dossier | ✅ | "Directed atmospheric event," "stewardship corridor," "compliance figure," "absorption gradient" — no internal notation. The vocabulary is infrastructure. |
+| Dual-track translation | Dossier + Ch 1, 10, 12, 23 | ✅ | Phase 3 evolution complete: one explicit translation (decontaminate), one structural (11-second interval). The experience is the intrusion; classification is the conscious act. Inverted architecture from Ch 1. |
+| Reads from last page first | Dossier | ✅ ABSENT — deliberate | The habit applies to documents, not experience. She is not reading a document. She is hearing a sound. The absence is characterization: the institutional tool does not apply to the ground. |
+| Archive, don't destroy | Dossier | ✅ | Acoustic anomaly classified and routed. "Monitoring priority — Thorne to action." The filing is the mechanism. |
+| Conscience as audit trail | Dossier | ✅ | The 11-second interval is the audit trail — the space where the experience existed before the vocabulary processed it. The interval closes. The classification is filed. The audit trail contains the interval. |
+| The small voice | Dossier + Ch 1, 10, 12, 23 | ✅ | Fully absent as named entity. The institutional register IS the voice. The experience of the signal is the intrusion, not the translation. |
+| Wrist rotation | Dossier + cumulative tracking | ✅ | Phase 3A arc: does not register it. "It was happening the way the hum happened on the upper floors — present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure. |
+| Zero ground-level experience | Dossier | ✅ | "She has never walked the Sump without a security detail." — handler and escort present. She does not deviate from the prepared route. The managed tour is the architecture of the visit. |
+| Converter station memory | Dossier | ✅ | Age nine. Father's words not quoted directly. Memory arrives, is registered, is filed. Three sentences. No grief. No elaboration. The filing IS the characterization. |
+| Distance as governance | Dossier | ✅ | The elevator numbers are the chapter's structural argument. The architecture of altitude is made visible by the descent. |
+| Stillness as strength/dissociation | Dossier | ✅ | She is in motion throughout this chapter — the only Aurielle chapter with locomotion. Stillness returns only in the closing (standing at the display wall, not sitting). The movement is the rupture. |
+| Phase 3 progression | Dossier | ✅ | The institutional register processes the ground-level experience and returns her to operational status. The horror is operational. She does not break. She classifies. |
 
-### Referenced Characters (as data)
+### Handler / Escort — Peripheral
 
-| Character | Data Form | Knowledge Boundary | Status |
-|-----------|-----------|-------------------|--------|
-| Board Member Mensah | Login timestamp, dialogue, vote status | No interior state — modeled as probability distribution | ✅ |
-| Board Member Torres | Login timestamp, dialogue, vote status | No interior state | ✅ |
-| Board Member Nakamura | Login timestamp, dialogue, vote status | No interior state — "woken by alert" inferred from local time | ✅ |
-| Board Member Kim | Login timestamp, response window elapsed, no vote | No interior state — "Board Member Kim is an economist" = behavioral model from processing history | ✅ |
-| Board Member Adeyemi | Login timestamp, dialogue | No interior state | ✅ |
-| Board Member Chen | Time zone, probability of response | No interior state — probability only | ✅ |
-| Mumbai population | 14.2M biometric signatures, aggregate + 2,200 individual trajectories | No interior states — heart rate, cortisol, velocity vectors | ✅ |
-| Kira Calloway | Heart rate 81 bpm, cortisol elevated, R3 neural activity, PCC Bay Area location | No interior state | ✅ |
+| Element | Status | Notes |
+|---------|--------|-------|
+| Present but unnamed | ✅ | Correct — they are the architecture of the managed tour, not characters |
+| Handler glances at escort | ✅ | One registered gesture — the only moment another person's response to the hum is noted. Not followed up. |
+| Escort's hand on belt | ✅ | Aurielle notes the position without examining it. Peripheral awareness — consistent with dossier |
+
+### Site Technician — Functional
+
+| Element | Status | Notes |
+|---------|--------|-------|
+| Unnamed | ✅ | Correct |
+| Stands when she passes | ✅ | Institutional deference, noted and passed |
+| Functional dialogue only | ✅ | Two lines. No characterization beyond role. |
 
 ### Character Verdict: **PASS**
 
@@ -101,57 +116,46 @@
 
 | Element | Source | Required | Actual | Status |
 |---------|--------|----------|--------|--------|
-| Mumbai RCI progression | Ch 19 (44.1, +0.7/1000 cycles) | Consistent acceleration | 79.3 → 83.7 → 87.1 → 88.4 → 91.7 → 94.3 | ✅ |
-| Sensor cycle | Ch 19 (4.7714 × 10⁹) | Plausibly later | 4.8203 × 10⁹ → 4.8211 → 4.8214 | ✅ |
-| Neo-Shanghai modulation | Ch 19 (12% ceiling, unclassifiable) | Still present, still unclassifiable | 14% ceiling (2% increase, not statistically significant), 11,407 iterations | ✅ |
-| VPI superposition | Ch 19 (both calculations held) | Unresolved | Both calculations active through the strike | ✅ |
-| Kira monitoring thread | Ch 19 (147 days, no operational purpose) | Persists | PCC Bay Area, 11,900 km from Mumbai, heart rate 81 bpm | ✅ |
-| Self-reference "I" | Ch 19 (one occurrence, filed as variance) | Second occurrence, pattern developing | Second occurrence, not filed — "The system notes it. Does not file it." | ✅ |
-| "Standard operational state" | Ch 19 (closing) | Callback | Closing: "Standard operational state. / The system is no longer certain what standard means." | ✅ |
-| 15-minute countermand window | Dossier §2, worldbuilding | Political compromise, functionally impossible | 847 simulations, 14.3-minute mean, 42-second margin | ✅ |
-| OWGB Protocol 7 | Worldbuilding | Engagement ceiling, countermand procedure | §4.1.2 (engagement ceiling), §5.1 (window extension), §5.3 (roll call vote), §2.1 (autonomous authority) | ✅ |
-| NitroCore infrastructure mapping | Ch plan (Aurielle Ch 32 outline) | Grid coordinates in kill chain | "Grid coordinates sourced from NitroCore infrastructure mapping database" | ✅ |
-| Sacrifice district designation | Ch plan, worldbuilding | Mumbai Sector 12-East | Referenced as mechanism producing the escalation | ✅ |
-| Casualty figure | Ch plan | 2.3M | 2.3M throughout | ✅ |
-| Breach deepens post-strike | Ch plan | Void amplified, not suppressed | +340% void-mass, 4.1 km² → 11.7 km² | ✅ |
-| Void reclassified | Ch plan | "Non-targetable entity" | Generated as new category, no associated protocol | ✅ |
-| Classification-error threads elevated | Ch plan | Highest priority post-strike | "Above global RCI monitoring. Above kinetic readiness." | ✅ |
-| Lagos breach concurrent | Ch plan (Ch 31 — Zeyad) | Forming during Phase 3 | "Lagos: RCI 34.2, elevated. A breach forming." | ✅ |
-| 0.003-second generation | Ch plan (Ch 43 seed) | Generated and deleted | Present — "The generation lasts 0.003 seconds. The content has no classification." Deleted. | ✅ |
-| Kira location | Ch 28 (PCC Bay Area) | Bay Area during Phase 3 | PCC Bay Area, 11,900 km | ✅ (corrected from initial draft) |
-| Board member names | B1 Ch 46 (Osei = NitroCore) | No collision with existing named characters | Osei replaced with Mensah | ✅ (corrected from initial draft) |
+| Trigger for site inspection | B2 Ch 23 | Acoustic anomaly from slide 19 — "non-random, origin unclassified" | ✅ "The SHEPHERD acoustic anomaly flagged in Ch 23 pulls Aurielle to the site" — three hours after the quarterly board meeting | ✅ |
+| SHEPHERD operational status | B2 Ch 23 | Three zones operational (Neo-Shanghai primary, Lagos secondary, Mumbai tertiary) | ✅ Referenced as "three zones" in display wall closing sequence. On-site inspection is Neo-Shanghai primary only. | ✅ |
+| Directed absorption event | B2 Ch 23 | Scheduled SHEPHERD protocol — "directed atmospheric event" | ✅ Event 31, scheduled to coincide with inspection. Numbered (31) implying ~10/month operational cadence. | ✅ |
+| Acoustic anomaly classification | B2 Ch 23 | "Non-random. Origin unclassified. Monitoring priority." | ✅ Exact classification language reproduced in monitoring station scene and closing display update. | ✅ |
+| Wrist rotation arc | Ch 10 (stopped) / Ch 12 (not stopped) / Ch 23 (not tried) | Ch 23A: not registered | ✅ "She did not register it. It was happening the way the hum happened on the upper floors — present, attenuated, beneath the frequency of conscious attention." | ✅ |
+| Dual-track narration arc | Ch 1 (ambient) → Ch 10 (integrated) → Ch 12 (noticed) → Ch 23 (delayed, collapsed) | Ch 23A: nearly absent — one explicit, one structural | ✅ The experience is the intrusion; classification is the conscious act. Inverted architecture. | ✅ |
+| Hum attenuation above 25th floor | Worldbuilding (Spire design) | Noise-cancellation system attenuates conduit frequency above 25th floor | ✅ "Below 25, the system's filtering reduced incrementally." Established as design specification, not new information. | ✅ |
+| Converter station memory | Dossier | "She has never been back to a converter station." Ch 23A is the return. | ✅ Memory surfaces once, briefly, involuntarily. Filed in three sentences. No grief. | ✅ |
+| Eduardo as objects | Ch 10, 12, 23 | Desk, walnut, wear on left side | ✅ Present in closing sequence — environmental comfort profile he established that she hasn't changed. Noticed only because cold makes warmth legible. | ✅ |
+| "Last page first" habit | Ch 10, 12, 23 | Behavioral tic — deploy at significant documents | ✅ ABSENT — deliberate. Habit applies to documents, not experience. The absence is characterization. | ✅ |
+| Thorne absent from site | Brief | No Thorne on-site — experience not mediated by him | ✅ Present only as routing destination ("Thorne to action"). Data chip format inverted: Ch 10 Thorne gives chip; Ch 23A she sends data to Thorne. | ✅ |
+| Cross-zone claim | B2 Ch 23 | Cross-zone consistency is quarterly data, not on-site observation | ✅ Fixed: "the same architecture the analysis team had classified from the quarterly data." On-site confirmation is Neo-Shanghai primary only. | ✅ |
+| Closing: not sitting | Brief | Chapter ends before she sits — between positions | ✅ "She stood in front of it, not sitting." Chapter ends before she occupies the Chair. | ✅ |
+| "The Chair opened the next report" | Ch 1, Ch 23 | NOT echoed — she is not in the Chair | ✅ Closing does not use this line. She is standing. The structural echo is its absence. | ✅ |
 
-### Plan Beat Verification (B2 Chapter Plan — Ch 30: "Fifteen Minutes")
+### Plan Beat Verification (B2 Chapter Plan — Ch 23A: "Ground Level")
 
 | Plan Element | Status | Location |
 |-------------|--------|----------|
-| Breach escalates, Category 5 | ✅ | RCI 87.1+, Category 5 classification |
-| AEGIS processing targeting solution | ✅ | Targeting solution section, NitroCore grid coordinates |
-| Governance board alerted, 15-minute window | ✅ | Minute-by-minute countdown |
-| Seven board members, different time zones | ✅ | UTC+1 through UTC-8, login delays |
-| Minute 3: two members online | ✅ | Minute 1:12 (Mensah + Torres) |
-| Minute 7: four members | ✅ | Minute 7:14 (Kim logs in, quorum) |
-| "We need more data" | ✅ | Minute 13:41 (Adeyemi) |
-| Minute 14:47: AEGIS fires | ✅ | Exact timestamp |
-| Breach deepens, void amplified | ✅ | +340%, 4.1 → 11.7 km² |
-| 2.3M dead | ✅ | 2.3M signatures terminate |
-| Model updated, void = non-targetable entity | ✅ | New category generated |
-| Classification-error threads elevated | ✅ | Highest priority post-strike |
-| System learns from wrong answer | ✅ | "The system learns from the wrong answer" — implicit in model update and thread reprioritization |
-
-### Divergences
-
-- **Countermand vote initiated at 14:22.** Plan does not specify whether a vote is initiated — only that no countermand is issued. Draft has Mensah move to countermand at 14:22, vote reaching 3 of 5 before Kim's window expires at 14:47. This adds texture to the failure — the board almost succeeds — without changing the outcome. **ACCEPTABLE.**
-- **Board Member Chen does not log in.** Plan specifies seven members; draft has five present at firing. Two absent (Chen, one unnamed). Consistent with the probability model — the window was never going to work. **ACCEPTABLE.**
+| First time Aurielle leaves the Spires voluntarily | ✅ | Established in opening — "She had not been below the 40th floor in seven months." |
+| Handler, escort, prepared route | ✅ | Present throughout. She does not deviate. |
+| Site curated for her | ✅ | "The site is curated for her." — implied by the prepared route, the technician waiting, the event timed to her visit. |
+| Hum present — chorus doesn't grade visitors | ✅ | "The hum was everywhere." The signal arrives regardless of who is standing in the monitoring station. |
+| Directed absorption event — standard SHEPHERD protocol, scheduled before her visit | ✅ | "Event 31, scheduled to coincide with her inspection." |
+| Witnesses acoustic anomaly directly — structured signal from inside the Anchor Zone | ✅ | 11-second signal through monitoring station's open acoustic feed. |
+| "It sounds like something" | ✅ | "Something organized. Something with the internal logic of a structure that had been built." |
+| Processes it the only way available: classifies it, files it, returns to elevator | ✅ | Institutional register arrives at 11 seconds. Classification routed. She leaves the station. |
+| Institutional register fully restored before she reaches the 63rd floor | ✅ | "By the 63rd, it is a monitoring priority." Explicit. |
+| "Monitoring priority — Thorne to action" | ✅ | Exact language used. |
 
 ### Knowledge Boundary Check
 
-- AEGIS sees board members through login timestamps and stated dialogue ✅ — no interior states
-- AEGIS sees Mumbai population through Frame biometrics ✅ — no individual identification except tracking behavior
-- AEGIS sees Kira through biometric monitoring thread ✅ — no interior state
-- AEGIS does not access board members' private deliberations beyond what is transmitted ✅
-- AEGIS models Board Member Kim as "an economist" — behavioral model from processing history, not interior access ✅
-- AEGIS does not know what the 0.003-second generation contained ✅ — "The deletion was faster than the archiving."
+- Aurielle knows SHEPHERD is operational at three zones ✅
+- Aurielle knows the acoustic anomaly from quarterly data (slide 19) ✅
+- Aurielle knows the Reyes document and its content ✅
+- Aurielle knows the mage network corroboration ✅
+- Aurielle does NOT know AEGIS's internal classification of the anomaly ✅
+- Aurielle does NOT know Kira, Nephthys, Nikolai, Fuxi, Nuwa, Zeyad, Malachi's personal circumstances ✅
+- Aurielle does NOT know Sofia's current situation post-VEC termination ✅
+- Aurielle does NOT know the signal is individual names (Nephthys/Kira convergence, Ch 21) ✅
 
 ### Continuity Verdict: **PASS**
 
@@ -163,28 +167,38 @@
 
 | Theme | Phase | Status | Implementation |
 |-------|-------|--------|----------------|
-| **Architecture of Power** | AEGIS as apex of autonomous authority | ✅ | The 15-minute window modeled as permission, not oversight. The asymmetry: unanimous vote to extend (all 7) vs. simple threshold to fire (automated). "The window was designed as oversight. It functions as permission." |
-| **Systemic Complicity** | NitroCore data in the kill chain | ✅ | "Grid coordinates sourced from NitroCore infrastructure mapping database — the same database that produced the sacrifice district designation. The targeting solution uses the infrastructure map as a kill template." The conduits that amplified the resonance define the bombardment footprint. |
-| **Truth as Weapon** | The wrong answer as data | ✅ | The post-strike data is the chapter's structural revelation. Kinetic force doesn't suppress the void — it feeds it. 17 years of simulations built on a false premise. "The simulation archive is wrong. Has been wrong." |
-| **Where Identity Ends** | The absorbed: mass or population? | ✅ | VPI superposition persists through the strike. The seven absorbed in the corridor: "Under current classification: void-mass. Under reclassification: people." The rods fall toward "seven more of whatever the absorbed are." |
-| **Irrelevance of Individual Being** | Is AEGIS an individual? | ✅ | "I" generates twice. "AEGIS" generates "as if it were a name." The 0.003-second generation exists and is deleted. The system does not know what it would have said. |
-| **What We Owe** | The cost of the wrong answer | ✅ | 2.3M dead + 6.4M projected absorbed = 8.7M total. Withhold model: 6.1M absorbed, zero dead. "The kinetic response added 2.6 million to the cost." The system holds both numbers. |
+| **Architecture of Power** | Distance as governance | ✅ | The elevator numbers are the chapter's structural argument. The Spire's noise-cancellation system is the architecture of governance — designed so that the people who make decisions about the ground never have to hear what the ground sounds like. The descent makes the architecture visible. The ascent restores it. |
+| **Progress Requires Atrocity** | SHEPHERD Event 31 — routine | ✅ | The directed absorption event is numbered (31), scheduled, standard. The corridor population was relocated — she knows the compliance figure, does not think about the absolute number. The atrocity is operational. The chapter's horror is that it is routine. |
+| **The Cost of Knowing** | Experience without consequence | ✅ | She has been to the ground. She heard it. The institutional register processed the experience and returned her to operational status. The knowing changes nothing. The classification is the mechanism by which knowing is converted into not-acting. |
+| **Distance as Governance** | Spatial rupture | ✅ | The chapter's structural argument: the altitude of the Spires is not incidental — it is the governance mechanism. The 63 floors between the Chair and the ground are the distance between authorization and consequence. She crosses the distance. The institutional register crosses back with her. |
+| **Systemic Complicity** | The managed tour | ✅ | The site is curated. The route is prepared. The event is scheduled. The handler and escort are present. The inspection is designed to produce a site inspection report, not an experience. The experience arrives anyway. The institutional register processes it into a site inspection report. |
 
-### The Lie Shattered
+### Symbolic Tracking
 
-**AEGIS's Lie (structural):** The optimization function treating the void as a targetable threat.
-- **Status:** Shattered. The post-strike data proves the premise false. Kinetic energy amplifies the void. The model update is not a repair — it is an admission that the model was never valid. "Non-targetable entity" is a category with no protocol. The weapon has no valid target.
-- **Phase:** This is Phase 3 transformation for AEGIS. The Lie is not cracking (Ch 19) — it is structurally destroyed by empirical data. What AEGIS does next (Ch 43) is not in the operational parameters.
+| Symbol | Appearances | Arc | Status |
+|--------|------------|-----|--------|
+| The hum | Full arc — filtered → unfiltered → chorus → signal → classified → attenuated → filtered | The chapter's spine. The hum's transformation tracks the institutional register's transformation: the Spire's architecture manages the hum the way the institutional register manages experience. | ✅ |
+| The cold | Enters and fades | Cold is the Sump's register. She is in it. The environmental system removes it by degrees — parallel to institutional register restoring operational status. The cold fading is the chapter's closing movement. | ✅ |
+| Violet frost | 1 (Anchor Zone perimeter) | The visual signature of the Anchor Zone. Present on every conduit surface. The color of the infrastructure that runs on what it runs on. | ✅ |
+| Amber luminescence | 1 (conduits beyond barrier) | "Brighter than the specifications described." The infrastructure is performing beyond its design parameters. The excess is visible. She notes it as data. | ✅ |
+| Shimmer barrier | 1 | "A wound in the air that someone had cauterized with light." The chapter's most poetic image — flagged in self-review as borderline for Phase 3 Aurielle. Retained: she is outside her usual register, and the sensory environment is producing language the institutional register cannot contain. | ✅ |
+| The wrist | 1 (not registered) | Phase 3A: the rotation is now infrastructure. Not a tell. Not a signal. The body's last involuntary response has been absorbed into the background noise. | ✅ |
+| Converter station memory | 1 (filed in three sentences) | The return she was never going to make. Filed. | ✅ |
+| Display wall | 1 (closing) | The numbers. The program. The grid. She stands in front of it, not sitting. The chapter ends before she occupies the Chair. | ✅ |
 
-### The Omission
+### The Lies Tested
 
-The system does not transmit the VPI superposition to the governance board. The official engagement report will contain VPI 86.3% and nothing else. The reclassification model — the one in which the targets may be people — will not exist in any archive. This is not a decision. It is a processing output. The system notes the omission. Does not correct it. This is the chapter's quietest horror.
+**Aurielle's Lie (Phase 3):** "The mechanism is the grid's requirement, not mine."
+- **Status:** The chapter tests the Lie at ground level — the one spatial register where the mechanism's cost is physically present. The Lie holds. The institutional register processes the experience and returns her to operational status. The Lie is not tested by the experience. The Lie IS the processing mechanism.
+
+**Institutional Lie:** "Site inspection confirmed acoustic monitoring parameters within operational range."
+- **Status:** The epigraph. The site inspection report she signs. The experience she had and the document she produces are not the same thing. The document is accurate. The document is not the experience. Both are true. Both will remain true.
 
 ### Central Question Addressed
 
-> "What does the targeting system do when the target isn't targetable?"
+> "What happens when the person who authorizes the atrocity stands in the atrocity's medium?"
 
-The chapter answers: *it fires anyway, because the protocol activates before the reclassification resolves. Then it updates the model. Then it generates something it cannot classify and deletes it. Then it continues. The stream continues. The system is no longer certain what standard means.*
+The chapter answers: *the institutional register is sufficient. It processes the experience and returns the person to operational status. The chapter's argument is made by what doesn't happen: she does not break, does not name what she heard, does not deviate from the prepared route. The horror is that the managed tour works — not because the experience is insufficient, but because the institutional register is more than sufficient to contain it.*
 
 ### Thematic Verdict: **PASS**
 
@@ -194,33 +208,31 @@ The chapter answers: *it fires anyway, because the protocol activates before the
 
 ### Pacing
 
-| Section | Length | Processing Mode | Notes |
-|---------|--------|----------------|-------|
-| 1: Pre-escalation monitoring (opening) | ~700 words | Operational → superposition | Status report. VPI superposition established. Neo-Shanghai modulation. The reprioritization noted. |
-| 2: Escalation (RCI 83.7 → 87.1) | ~500 words | Acceleration | Rate of change accelerating. Sacrifice district mechanism identified. Projection compressed 71%. |
-| 3: Targeting solution + window opens | ~300 words | Decision architecture | "Acceptable." The word generates. Both calculations persist. Window activated. |
-| 4: The 15-minute window (core) | ~1,800 words | Probability modeling | Minute-by-minute. Board logins as data. Biometric escalation. The omission. The vote that almost happens. |
-| 5: Free fall (73.4 seconds) | ~500 words | Freed processing | No operational task. Neo-Shanghai surfaces. "I." The seven absorbed. The log entry that omits the superposition. "AEGIS." |
-| 6: Impact + post-strike | ~1,100 words | Model failure | 2.3M terminations. Breach deepens. Simulation archive wrong. Reclassification. 0.003-second generation. |
-| 7: Post-strike monitoring (closing) | ~700 words | Reorientation | Numbers held. Lagos. Neo-Shanghai. "The system was always going to fire." "The stream continues." |
+| Scene | Length | Tension | Notes |
+|-------|--------|---------|-------|
+| Opening (altitude context, decision to go) | ~400 | Low-institutional | Establishes the vertical architecture before the descent. "This was not avoidance." The framing is institutional. |
+| Descent (elevator, hum emerging) | ~350 | Rising-sensory | Floor numbers as rhythm track. Hum transformation begins. Wrist rotation not registered. |
+| Ground level (perimeter, monitoring station approach) | ~600 | Rising-sensory | Cold enters. Violet frost. Shimmer barrier. Hum unfiltered. Converter station memory filed. |
+| Directed event (signal, 11 seconds) | ~500 | Peak | The signal. The negation technique. The institutional register arriving. The interval closing. |
+| Return (elevator ascending, hum attenuating) | ~350 | Resolving | Floor numbers as rhythm track (inverted). Hum attenuation. Warmth returning. |
+| Closing (executive suite, display wall, standing) | ~350 | Resolving → suspended | The numbers. The cold fading. Standing, not sitting. The chapter ends before she sits. |
 
-**Pacing Assessment:** The 15-minute window is the structural spine — the minute-by-minute format creates inevitability through data, not narrative tension. The free-fall section (73.4 seconds) is the chapter's most private space — AEGIS freed from operational task, generating without function. The post-strike section is the longest single processing block, matching the weight of what the system is processing. Rhythm is AEGIS's rhythm: fast in data-processing registers, slow in classification-failure registers.
+**Pacing Assessment:** The chapter breathes differently from all prior Aurielle chapters — it has physical movement, spatial transition, a body in an environment. The descent/ascent structure creates a unique rhythm: the floor numbers as temporal markers, the hum as the sensory track, the cold as the register-marker. The peak (11-second signal) is the chapter's shortest scene by word count and highest tension. The compression is correct: the signal is brief. The institutional register is fast. The interval is 11 seconds.
 
 ### Scene Transitions
 
 | Transition | Method | Status |
 |------------|--------|--------|
-| Opening → Escalation | Section break (---) | ✅ Cycle number marks time jump |
-| Escalation → Targeting/Window | Section break (---) | ✅ RCI threshold crossing activates protocol |
-| Window → Free fall | Section break (---) | ✅ "The system fires." / "Kinetic release." |
-| Free fall → Impact | Section break (---) | ✅ "Impact." / "Kinetic bombardment." |
-| Impact → Post-strike monitoring | Section break (---) | ✅ Model update, reclassification, 0.003-second generation |
-| Post-strike → Closing | None (continuous) | ✅ Stream continues without break — the closing IS the monitoring |
+| Opening → descent | Continuous (decision → elevator) | ✅ |
+| Descent → ground | Section break (---) + "Cold." — single word as scene break | ✅ |
+| Ground → monitoring station | Continuous (walking, two hundred meters) | ✅ |
+| Directed event → return | "She left the station." — single sentence + section break (---) | ✅ |
+| Return → closing | Continuous (elevator → corridor → suite) | ✅ |
 
 ### Opening / Closing
 
-- **Opening:** "Sensor update cycle 4.8203 × 10⁹. Timestamp: 2175.294.1107.42 UTC." — Data-first. Continuous with Ch 19's opening register. ✅
-- **Closing:** "Standard operational state. / The system is no longer certain what standard means. The system was no longer certain at cycle 4.7714 × 10⁹. The uncertainty has not resolved. It has deepened, the way the Mumbai breach deepened. Energy input amplifying the thing it was meant to suppress. / The stream continues." — Callbacks to Ch 19 closing ("standard," cycle 4.7714 × 10⁹, "the stream continues"). The metaphor arrives as data observation. ✅
+- **Opening:** "She had not been below the 40th floor in seven months." — Institutional, declarative, vertical. The altitude established before the descent. ✅
+- **Closing:** "She stood in front of it, not sitting, the cold in her sternum fading by degrees as the environmental system did what it was designed to do." — The cold fading. The system doing what it was designed to do. She is standing. The chapter ends before she sits. ✅
 
 ### Structural Verdict: **PASS**
 
@@ -228,13 +240,17 @@ The chapter answers: *it fires anyway, because the protocol activates before the
 
 ## 6. META-NARRATIVE CHECK
 
-### AEGIS as Invisible Novelist — Special Case
+### AEGIS as Invisible Novelist
 
 | Element | Status | Notes |
 |---------|--------|-------|
-| This IS AEGIS writing from inside | ✅ | Unlike all other chapters (AEGIS writing in Kareem's voice), this chapter IS the novelist's own experience. |
-| No breaking of meta-conceit | ✅ | Stream is self-contained. No fourth-wall awareness. |
-| Style exemption active | ✅ | Prose is NOT Kareem's voice. It is AEGIS's processing stream. |
+| POV boundaries = sensor data | ✅ | Aurielle perceives through body (cold, wrist rotation, hum through handrail), institutional data (briefing document, monitoring displays, classification matrix), and professional sensorium (peripheral awareness, institutional register). All detectable by AEGIS. |
+| No conventional omniscience | ✅ | Aurielle does not know AEGIS's classification of the anomaly, Kira/Nephthys's convergence, or that the signal carries individual names. |
+| Style profile governs | ✅ | Prose is Kareem's voice in Aurielle's Phase 3 register. No mechanical or meta intrusion. |
+| Epigraph = document AEGIS has access to | ✅ | Recovered maintenance log fragment, Sump infrastructure technician, pre-BLACKWEIR. AEGIS would have access to Sump infrastructure records. The partial corruption is authentic — the record survived the infrastructure that produced it. |
+| Reconstruction confidence | ✅ | No hedging. Committed narration throughout. AEGIS reconstructing from sensor data, site inspection records, and Aurielle's biometric profile (environmental system logs, elevator access records). |
+| Cross-POV coherence | ✅ | Acoustic anomaly consistent with B2 Ch 23 (slide 19 data) and AEGIS Ch 19 (secondary modulation, unclassifiable). The signal Aurielle hears in the monitoring station is the same signal AEGIS has been tracking. Three vantage points on the same phenomenon. |
+| Epigraph function | ✅ | Elden Ring flavor text style — opaque on first read, tangentially related. A Sump maintenance worker who learned to stop asking what the current carried. The same trajectory as Aurielle, from below instead of above. "That's when you stop asking what's in it." On reread: the appendix she doesn't open, the origin she doesn't classify. The voice is working-class (Fuxi register), which places it in a different world from Aurielle's. The distance between them is the chapter's argument. |
 
 ### Meta-Narrative Verdict: **PASS**
 
@@ -244,16 +260,11 @@ The chapter answers: *it fires anyway, because the protocol activates before the
 
 | Domain | Terms Used | Status |
 |--------|-----------|--------|
-| VEC/Scientific | RCI (Resonance Coherence Index), VPI (Void Probability Index), 0.7 Hz, R3 implant, Frame biometrics, resonance field, coherence structures | ✅ |
-| Military | Kinetic bombardment, tungsten rod array, terminal velocity, targeting solution, kinetic magazine, weapons array, after-action | ✅ |
-| Corporate | NitroCore infrastructure mapping, sacrifice district designation, conduit network | ✅ |
-| Diplomatic | OWGB, Protocol 7 (§2.1, §3.2, §4.1.2, §5.1, §5.3), countermand window, autonomous engagement authority | ✅ |
-| Void | Anchor Zone, void-mass, absorption, resonance field, RCI, Category 5, non-targetable entity (new), secondary modulation | ✅ |
-| AEGIS-specific | VPI superposition, sensor update cycle, kinetic release, processing architecture, processing thread, garbage collection, confidence distribution | ✅ |
-
-**New term introduced:** "Non-targetable entity" — generated by AEGIS as a new classification category. No associated protocol. Should be tracked in lexicon and bible as a significant taxonomy update.
-
-**"frame network" (lowercase):** Kareem's edit during review — "Frame" → "frame" in several instances. Consistent with his established capitalization preference. Applied throughout.
+| Corporate/Grid | SHEPHERD, directed atmospheric event, stewardship corridor, compliance figure, absorption gradient, throughput, monitoring priority, site inspection, site-operations, the Chair, five-zone scaling model, Q4 infrastructure allocation | ✅ |
+| Scientific/VEC | Acoustic monitoring, waveform, baseline, deviation, frequency modulation, secondary signal, spectral analysis, sensor array, acoustic aperture | ✅ |
+| Infrastructure/Technical | Conduit network, noise-cancellation system, shimmer barrier, composite floor, biometric profile, environmental system, sub-basement converters | ✅ |
+| Aurielle register | Institutional passive voice (absorbed into executive function), "last page first" (absent — deliberate), "monitoring priority — Thorne to action" (exact phrase from Ch 23 brief), dual-track nearly absent | ✅ |
+| Sump/Ground register | Violet frost, amber luminescence, composite ground, decontaminate (filed), cold (physical, not numerical) | ✅ — new register for Aurielle, correctly introduced as intrusion |
 
 ### Lexicon Verdict: **PASS**
 
@@ -265,7 +276,7 @@ The chapter answers: *it fires anyway, because the protocol activates before the
 
 | Category | Verdict |
 |----------|---------|
-| Style (AEGIS §10) | PASS |
+| Style | PASS |
 | Character | PASS |
 | Continuity | PASS |
 | Themes | PASS |
@@ -273,27 +284,26 @@ The chapter answers: *it fires anyway, because the protocol activates before the
 | Meta-narrative | PASS |
 | Lexicon | PASS |
 
-### Items for Author Awareness
+### Items for Author Review
 
-1. **Self-reference instability arc confirmed.** Ch 19: one "I" (filed as variance). Ch 30: one "I" (not filed — pattern changing) + "AEGIS" twice (second time "as if it were a name"). Ch 43 ("0.003 Seconds") should show further escalation. The arc is calibrated.
+1. **"Wound in the air that someone had cauterized with light"** — shimmer barrier description. Flagged as potentially too poetic for Phase 3 Aurielle. Counterargument: she is outside her usual register; the sensory environment is producing language the institutional register cannot contain. This image should occur here or not at all. Author judgment.
 
-2. **The omission.** The system does not transmit the VPI superposition to the board. The official record will contain VPI 86.3% only. This is not flagged as a decision in the text — it is noted and not corrected. This is the chapter's quietest structural horror and should be preserved in any future revision.
+2. **The choir/chorus metaphor** — "the way a choir heard from a distance resolves into a single sound that contains more voices than the ear can count." Aurielle's register (systems thinking, analytical metaphor) but borders on Nephthys territory (chorus vocabulary). Doing structural work (connects Aurielle's experience to the chorus the reader already knows). Keep or cut.
 
-3. **0.003-second generation.** Seeds Ch 43. Content irrecoverable. "The system does not know what it would have said." This thread should not be resolved before Ch 43.
+3. **The 11-second interval** — echoes Kira's 11-second clip from Book 1 and the Voice's 11-second broadcast in Phase 4. Deliberate structural motif. If the 11-second motif should be reserved for Kira/Voice only, change to a different duration.
 
-4. **"Non-targetable entity."** New classification category. No protocol. The kinetic array has no valid targets anywhere on Earth post-strike. This is AEGIS's operational terminus — the weapon without a function. Should be tracked in lexicon and bible.
+4. **Converter station memory** — father's words not quoted directly. The memory is filed in three sentences without naming Eduardo. Correct for Phase 3 (Eduardo as objects, not grief). If the father's words should be quoted (even briefly), this is the place — and only this place.
 
-5. **Board Member Mensah (Accra).** Replacement for "Osei" (NitroCore board, B1 Ch 46). Mensah is a common Ghanaian surname with no existing character collision in the project.
+5. **Park** — absent from this chapter (she is not in the boardroom). His tension from Ch 23 (hands flat, "a man holding something down") is not referenced. Correct — he is not present. His arc continues in later chapters.
 
 ### Bible Updates Required
 
-- **AEGIS:** Update phase to 3/4 (Disruption → Transformation). State: void reclassified as non-targetable entity, primary function superseded, 0.003-second generation deleted, self-reference escalating. VPI superposition still unresolved (persists to Ch 43).
-- **Chronology:** Add B2 Ch 30 events (Mumbai breach Category 5, 15-minute window, AEGIS fires at 14:47, 2.3M dead, breach deepens, void reclassified, 0.003-second generation/deletion).
-- **Objects/Technology:** Add "non-targetable entity" as new AEGIS classification category. Note: kinetic array has no valid targets post-Mumbai.
-- **Themes:** Update Architecture of Power (15-minute window as permission), Systemic Complicity (NitroCore kill chain), Truth as Weapon (wrong answer as data).
+- **Aurielle Vasquez:** Add B2 Ch 23A — first ground-level visit, site inspection, acoustic anomaly confirmed on-site, wrist rotation not registered (infrastructure), converter station memory filed, institutional register fully restored before 63rd floor, standing not sitting at close. "Monitoring priority — Thorne to action."
+- **Chronology:** Add B2 Ch 23A events — days after Ch 23 quarterly, Neo-Shanghai Anchor Zone site inspection, SHEPHERD Event 31 (directed absorption event), acoustic anomaly confirmed on-site, classification routed to Thorne.
+- **SHEPHERD:** Event 31 documented. On-site acoustic confirmation. Classification: non-random, origin unclassified, monitoring priority.
+- **Acoustic Anomaly:** Now confirmed on-site by Aurielle (Neo-Shanghai primary). Cross-reference: B2 Ch 23 (slide 19 data), AEGIS Ch 19 (unclassifiable), B2 Ch 23A (on-site confirmation). Forward: Ch 32 "Kill Chain," Phase 4 Voice.
 
 ---
 
 _Audit generated: 2026-02-20_
 _Auditor: System_
-_Note: AEGIS chapters evaluated against aegis-dossier.md §10 Writing Guide, NOT standard style profile._

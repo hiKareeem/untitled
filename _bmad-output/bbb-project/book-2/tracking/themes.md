@@ -448,7 +448,7 @@ The three-register structure is the chapter's formal argument: the convergence i
 - B2 Ch 21: Confirmed by Kira's R3 — "names." The words gain scientific corroboration.
 - **B2 Ch 24: "They are still here. The words she had said from the doorway... She was no longer certain they were hers to interpret." The refrain unchanged. The prophet's relationship to it has changed. Phase 3 turn complete.**
 
-**Cross-Chapter Thread — Phase 3 Nephthys:** Ch 24 (confrontation, lost argument, Malachi recursion) → Ch 33 ("Three Walked In" — the consequence). The chapter plants the seed; Ch 33 is the harvest. Seren's declaration ("Three of us will bear witness by walking in") is the forward thread. The theological argument precedes the act.
+**Cross-Chapter Thread — Phase 3 Nephthys:** Ch 24 (confrontation, lost argument, Malachi recursion) → Ch 35 ("Three Walked In" — the consequence). The chapter plants the seed; Ch 35 is the harvest. Seren's declaration ("Three of us will bear witness by walking in") is the forward thread. The theological argument precedes the act.
 
 ---
 
@@ -581,7 +581,7 @@ The three-register structure is the chapter's formal argument: the convergence i
 - B2 Ch 17: "The alternative exists. It is sound. It will not be adopted." New Lie forming.
 - **B2 Ch 31: The alternative model tested under live conditions. Sound. Humane. Insufficient. The new Lie proven insufficient. Not broken — that is Ch 41. Proven insufficient, which is worse than being wrong.**
 
-**Cross-Chapter Rhythm:** Ch 30 (AEGIS, 2.3M dead, 847.3 km altitude, military model catastrophic failure) → Ch 31 (Zeyad, 0 dead, ground level, alternative model humane insufficiency). The juxtaposition is the chapter pair's argument: the system that kills 2.3M from orbit; the man who records the alternative from a concrete platform. Same evening. Different altitude. The void is consistent across both.
+**Cross-Chapter Rhythm:** Ch 33 (AEGIS, 2.3M dead, 847.3 km altitude, military model catastrophic failure) → Ch 31 (Zeyad, 0 dead, ground level, alternative model humane insufficiency). The juxtaposition is the chapter pair's argument: the system that kills 2.3M from orbit; the man who records the alternative from a concrete platform. Same evening. Different altitude. The void is consistent across both.
 
 ---
 
@@ -611,15 +611,15 @@ The memory arrives once, briefly, involuntarily — and is filed in three senten
 - Ch 23 "Stewardship": Anchor Zone from above — data on slides, waveforms on displays, the anomaly classified from the 63rd floor
 - **Ch 23A "Ground Level": Anchor Zone from managed tour — inside the perimeter, at the monitoring station, in the signal's medium for 11 seconds**
 - Ch 24 "The Boundary": Anchor Zone from the edge — Nephthys outside the perimeter, confronting the Threshold
-- Ch 33 "Three Walked In": Anchor Zone from inside — three spatial registers before Mumbai reframes all of them
+- Ch 35 "Three Walked In": Anchor Zone from inside — three spatial registers before Mumbai reframes all of them
 
 The reader sees the same geography from three vantage points before the kill chain. Aurielle's vantage is the most controlled — the managed tour, the prepared route, the institutional register fully restored before the 63rd floor. The control is the argument.
 
-**Forward Thread:** Ch 32 "Kill Chain" — the infrastructure mapping Aurielle observes at the monitoring station is the targeting data AEGIS uses for Mumbai. She has been to the ground. She has seen the sensor array. She has routed the data to Thorne. The kill chain runs through her site inspection report.
+**Forward Thread:** Ch 34 "Kill Chain" — the infrastructure mapping Aurielle observes at the monitoring station is the targeting data AEGIS uses for Mumbai. She has been to the ground. She has seen the sensor array. She has routed the data to Thorne. The kill chain runs through her site inspection report.
 
 ---
 
-### Chapter 34 — "The Relay" (Kira)
+### Chapter 32 — "The Relay" (Kira)
 
 **Commodification of Suffering (Dominant):** The relay captures extraordinary data. Seven people are in hospitals. "The instrument exceeded specification." Both facts in one sentence. The instrument worked. The instrument burned seven people. These are the same sentence. Escalation from Ch 28: Sao Paulo burned seven, Mumbai burns seven more. The cost scales with the event.
 
@@ -633,7 +633,7 @@ The reader sees the same geography from three vantage points before the kill cha
 
 **Epigraph Integration:** *The Kindling Letters*, Vol. VI — "My daughter asked why the radio stays on after the broadcast ends... The radio stays on." Opaque on first read. On reread: the signal that won't release from Sari's spine, the Voice accumulating in the ceiling, the relay that ends but the signal that doesn't. The radio is the R3. The broadcast has ended. The sound continues.
 
-**Forward Thread:** Ch 39 "The Second Broadcast" — the ceiling is the seed. Something in the compressed space between the drug and the machinery it suppresses. Kira does not reach for it in Ch 34. In Ch 39, she stops suppressing it. The second broadcast is the moment the management identity is replaced by something she cannot curate.
+**Forward Thread:** Ch 40 "The Second Broadcast" — the ceiling is the seed. Something in the compressed space between the drug and the machinery it suppresses. Kira does not reach for it in Ch 32. In Ch 40, she stops suppressing it. The second broadcast is the moment the management identity is replaced by something she cannot curate.
 
 ---
 
