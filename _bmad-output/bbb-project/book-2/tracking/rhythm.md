@@ -1138,4 +1138,42 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 ---
 
+### Chapter 37 — "Eduardo" (Aurielle Vasquez)
+
+**Mode:** PRESSURE
+**Tension Shape:** Low-operational (routine briefing) → interrupted (hum changes, desk transmits before speakers) → suspended (signal — institutional register offline, both tracks suspended) → negative-space peak (Eduardo not in inventory) → resolving-hollow (signal ends, premise collapsed, Thorne's register fails, handkerchief sentence) → still (closing inventory)
+**Action/Reflection Balance:** 15% action / 85% reflection
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Pre-signal briefing | ~600 | Low-operational | Routine. Scaling timeline, DN-4 response. The machinery running. |
+| Signal arrives (desk → speakers) | ~1,200 | Suspended | Both registers offline. Names through conduits. Eduardo's absence. Wrist stops. |
+| Signal ends / premise collapses | ~800 | Resolving-hollow | Hum returns. Numbers obsolete. Thorne's silence. Empty institutional reflex. |
+| Thorne's handkerchief sentence + closing | ~400 | Still | First personal communication. Three stacked negations. Closing inventory. |
+
+**Rhythm Notes:**
+- The chapter's tension operates through *suspension*, not escalation. The signal does not build — it arrives and the registers go offline. The tension is the absence of the machinery that has processed every prior chapter.
+- The desk transmitting before the speakers (0.3-second gap) is the chapter's structural hinge: Eduardo's desk carries the signal before the institutional communication system does. The infrastructure that predates the institution is faster.
+- Eduardo's absence arrives late in the signal section — she listens for him as institutional reflex, finds him missing. The absence is a single declarative: "Eduardo Vasquez was not in it." Isolated. No elaboration until the following paragraph. The isolation is the rhythm device.
+- Post-signal: the institutional register returns as empty reflex ("The scaling timeline," she says). The sentence is rhythm without content — the same phrase used for Eduardo's speeches at the podium. The callback is the chapter's quietest horror.
+- Thorne's handkerchief sentence breaks the rhythm entirely: one short declarative after the longest silence in their relationship. "The handkerchief is still in the drawer." No institutional weight. No operational function. The sentence lands because everything before it has been institutional.
+- Closing: three stacked negations ("did not close," "did not open," "did not open the drawer") then a single compound sentence that holds the chapter's full contents without isolating any element. The closing is an inventory — she is running the same operation the void just ran.
+- Long-long-long-SHORT dominant throughout. Single-sentence isolations at every thesis moment: "This was not the hum." / "This was a report." / "The institutional register did not engage." / "Eduardo Vasquez was not in it." / "The signal ended." / "The numbers were obsolete."
+
+**Pacing Notes:**
+- The chapter breaks the three-beat structure of prior Aurielle chapters (board/briefing → private exchange → alone at desk). C37 has two beats: before and after the signal. There is no private exchange — Thorne is present throughout, and his silence IS the exchange.
+- The signal section (~1,200 words) is the chapter's center. It is the longest sustained passage without dialogue in any Aurielle chapter. The absence of dialogue during the signal is the correct register: the institutional vocabulary has nothing to add.
+- The pre-signal briefing (~600 words) is deliberately routine — the machinery running, the quarterly approaching. The routine is the setup. The machinery is about to encounter something it cannot process.
+- The post-signal section (~1,200 words) is slower than the signal itself. The signal was eleven seconds. The aftermath is the chapter's actual weight.
+
+**Comparison to C32 (direct Aurielle precursor):**
+- C32: three-beat structure (board → private exchange → alone), ~3,800 words, translation absent for one data point, closing break ("She did not open the next report")
+- C37: two-beat structure (before/after signal), ~3,600 words, both registers suspended, closing extension (three stacked negations + inventory sentence)
+- Together: C32 is the Phase 3 climax (the machine encounters a report it cannot process). C37 is the Phase 4 transformation (the machine's register is suspended by something that uses the same infrastructure the register runs on).
+
+**Phase 4 Rhythm Note:** C37 is Phase 4's institutional chapter — the boardroom POV during the signal. Its rhythm is the correct register for this function: not the scientific vigil (C36), not the spiritual saturation (C38), but the specific suspension of a system that has processed everything for ten months encountering an input it has no category for. The chapter's pacing enacts the institutional register's failure: the machinery runs, the output does not arrive.
+
+---
+
 _Last updated: 2026-02-21_

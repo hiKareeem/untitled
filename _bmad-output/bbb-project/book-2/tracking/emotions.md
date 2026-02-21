@@ -629,4 +629,28 @@
 
 ---
 
+### Chapter 37 — "Eduardo"
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-C32. Phase 3 climax completed. The translation absent for the casualty figure. "She did not open the next report." The machine that opens the next report has encountered a report it cannot process. Wrist rotation below conscious attention. Dual-track narration collapsed (both tracks merged). The institutional register is the only register — and it returned nothing for 2.3 million dead.
+- **Primary Beat:** The signal arrives through the desk before the speakers. The institutional register does not engage. She waits for it — the reflex that has processed every data point for ten months — and it does not arrive. The gap is not the small voice returning. It is the absence of both tracks. The void's register is a third thing neither track was built to process. Expressed through: the register failing to engage (named explicitly), the wrist rotation stopping involuntarily, hands flat on the desk.
+- **Secondary Beat:** She listens for Eduardo. Not as grief — as institutional reflex, the data-verification habit of checking whether an inventory is complete. He is not in the signal. He was assassinated (B1 C1) — not absorbed. The void has everyone else. He died outside the grid. Expressed through: the reflex named as institutional (not emotional), the single declarative "Eduardo Vasquez was not in it," the paragraph that follows explaining why without naming the feeling.
+- **Tertiary Beat:** Post-signal. The institutional register returns as empty reflex ("The scaling timeline," she says). Rhythm without content — the same phrase used for Eduardo's speeches at the podium. She is now producing the same empty institutional performance her father produced. Thorne's first register failure. His handkerchief sentence: the first non-institutional communication in ten months. She does not respond. The sentence is complete without a response.
+- **Exiting State:** Sitting at the desk. SHEPHERD projections not closed. Mumbai incident report not closed. Drawer not opened. The signal is over. Eduardo is not in it. The grid is still running. The handkerchief is still in the drawer. The quarterly is in six weeks. The Lie is dead. The program continues.
+- **Emotional Shift from C32:** C32 ends with the machine that opens the next report not opening the next report — a pause, a processing delay, not a moral event. C37 ends with the machine's register suspended and returned as a shell. The shift is from *processing delay* to *structural failure*. The institutional register is now a tool that produces sentences without content. The machine is still running. The output is hollow.
+
+**Aurielle's Emotional Lie Arc (cumulative):**
+- B2 C1: "The grid runs. Everything runs." Lie intact. Small voice present but managed.
+- B2 C10: "Send me the projections." Lie intact. Threshold crossed as data request.
+- B2 C12: Lie intact. Mid-truth absorbed. Vocabulary shift. Appendix not opened.
+- B2 C23: Lie intact. SHEPHERD operational. Acoustic anomaly classified. "The Chair opened the next report."
+- B2 C23A: Lie intact but strained. She heard the reply. Classified it. Returned to altitude.
+- B2 C32: Lie at climax. Translation absent for 2.3M. "The specification gap is the kill chain." "She did not open the next report." The machine pauses.
+- **B2 C37: The Lie is dead. The void conducted its own inventory. You cannot direct what inventories you. The institutional register is a shell. The program continues. The premise is gone. Phase 5: she terminates SHEPHERD not because the Lie died but because the premise died. The vocabulary will be the tool. The tool will be operating in the void's register.**
+
+**Thorne's Emotional State (C37):**
+- First register failure in the relationship. The competence that always produced the next sentence is running; the output is not arriving. The handkerchief sentence is the first non-institutional communication — personal, referencing B1 C1, acknowledging Eduardo's ordinary death in the context of the void's inventory. Whether this register persists or the institutional architecture reasserts is the Phase 5 question.
+
+---
+
 _Last updated: 2026-02-21_

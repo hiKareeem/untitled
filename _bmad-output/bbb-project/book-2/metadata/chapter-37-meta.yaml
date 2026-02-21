@@ -1,0 +1,122 @@
+chapter_number: 37
+book: 2
+title: "Eduardo"
+pov_character: "Aurielle Vasquez"
+phase: 4
+location: "Neo-Shanghai Spires — NitroCore Executive Suite (63rd floor)"
+timeline: "~10 months post-BLACKWEIR, during the signal event (simultaneous with Ch 36 convergence)"
+estimated_word_count: 3600
+actual_word_count: ~3600
+epigraph_source: "NitroCore Personnel Transition Archive"
+epigraph_author: "Human Resources Division"
+epigraph_ref: "Standard form, filed quarterly, automated"
+mode: PRESSURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-21"
+
+# Summary
+summary: >
+  Aurielle is in the executive suite with Thorne — a routine briefing on the
+  DN-4 response framework and the SHEPHERD scaling timeline. The display wall
+  shows the Mumbai incident report (still open, 83 pages) alongside the
+  throughput curves (18% above projection). The hum changes. Something arrives
+  through the building — through the desk before the speakers, through every
+  conduit in NitroCore Tower. Not a scream (BLACKWEIR). A report. Structured.
+  Thousands of names: the absorbed accounting for themselves through the
+  infrastructure that consumed them. The institutional register does not engage.
+  She waits for it. It does not arrive. She listens for Eduardo Vasquez — not as
+  grief, as data-verification reflex. He is not in the signal. He was
+  assassinated (thermal-kinetic round, B1 C1) — not absorbed. He died outside
+  the grid. The void has everyone else. The signal ends. Eleven seconds.
+  SHEPHERD's premise collapses: you cannot direct a system that conducts its own
+  inventory. Thorne has no next sentence — first register failure. He says:
+  "The handkerchief is still in the drawer." First non-institutional
+  communication between them in ten months. She does not close the SHEPHERD
+  projections. She does not open the next report. She does not open the drawer.
+  The signal is over. Eduardo is not in it. The grid is still running. The
+  quarterly is in six weeks.
+
+# Key Events
+key_events:
+  - "Routine briefing interrupted — DN-4 response framework, Jakarta scaling timeline (commissioning moved forward 6 weeks)"
+  - "Hum changes — something arrives through desk before speakers (0.3-second gap)"
+  - "Signal comes through every conduit and speaker in NitroCore Tower simultaneously"
+  - "Institutional register does not engage — she waits for it; it does not arrive"
+  - "Signal: not a scream. A report. Names. Thousands. The absorbed accounting for themselves."
+  - "Wrist rotation stopped by signal — external force; arc inverts (not by her, not by trying)"
+  - "She listens for Eduardo — institutional reflex, data-verification habit"
+  - "Eduardo Vasquez not in signal — assassinated (B1 C1), not absorbed; died outside the grid"
+  - "'Eduardo was simply gone. Not catalogued. Not present. Not anywhere the void could reach.'"
+  - "Signal ends. Eleven seconds."
+  - "SHEPHERD premise collapsed: 'You could not direct a system that conducted its own inventory.'"
+  - "Thorne's first register failure — next sentence absent"
+  - "Thorne: 'The handkerchief is still in the drawer.' — first non-institutional communication"
+  - "She does not close SHEPHERD projections. Does not open next report. Does not open the drawer."
+  - "Closing inventory: the desk, the chair, the building, the signal, Eduardo's absence, the hum, the handkerchief, the quarterly in six weeks."
+
+# Characters Present
+characters:
+  - name: "Aurielle Vasquez"
+    role: POV
+    state: "Phase 4 B2 (Transformation). Institutional register suspended during signal; returns as empty reflex post-signal. Wrist rotation stopped by external force (arc inverted). SHEPHERD premise collapsed — program continues, premise gone. The Lie dead: you cannot direct what inventories you. Eduardo not in void's inventory. She is on the other side of it."
+  - name: "Thorne"
+    role: Present
+    state: "First register failure — next sentence absent during and after signal. Handkerchief sentence: first non-institutional communication in ten months. Spatial: briefing configuration → standing at display wall (assessed in 0.3 seconds) → remains at display wall post-signal. Briefing configuration not resumed."
+  - name: "Eduardo Vasquez"
+    role: Referenced (absent from signal)
+    state: "Not in the void's inventory. Assassinated (B1 C1: thermal-kinetic round) — not absorbed. Died outside the grid. Present as objects: desk (walnut, worn smooth on left side), handkerchief (in drawer, named by Thorne). The asymmetry: in her inventory, not in the void's."
+
+# Themes
+themes:
+  - "Architecture of Power (Dominant) — the signal uses NitroCore's infrastructure; the void's inventory and the throughput data share a medium; the grid consumed the world and left its architect in the ground"
+  - "Progress Requires Atrocity (Strong) — SHEPHERD premise collapsed; the void inventories what the program fed it; the numbers are obsolete in premise, not in operation"
+  - "Systemic Complicity (Strong) — 'The grid's output and the void's inventory were the same data. Different registers. The same contents.'"
+  - "The Cost of Knowing (Strong) — Eduardo's absence is the chapter's negative space; she built the infrastructure that absorbed millions and her father is not among them"
+  - "Where Identity Ends (Moderate) — the institutional register suspended; the executive function encounters a fact it cannot route; Thorne's personal register emerges"
+
+# Symbols
+symbols:
+  - name: "The handkerchief"
+    appearances: 2
+    arc: "B1 C1: offered on stage while Eduardo's blood dried. B2 C10: in the drawer. B2 C37: Thorne names it ('The handkerchief is still in the drawer') — first non-institutional sentence. The drawer does not open. The handkerchief belongs to a man who is not in the void's inventory. It is the physical evidence of Eduardo's ordinary death — the kind the grid cannot process."
+  - name: "Eduardo's desk"
+    appearances: 3
+    arc: "Present throughout Aurielle's arc as the continuity object of inheritance. C37: the desk transmits the signal before the speakers do (walnut density). The desk is the only thing in the room that is not in the void's inventory. Eduardo is in the ground. The desk is here."
+  - name: "Wrist rotation (stopped)"
+    appearances: 1
+    arc: "C10: stopped by her (control). C12: not stopped (slipping). C23: not tried (abandoned). C23A: not registered (background). C32: not registered (maintained). C37: stopped by the signal (external force — arc inverts). The involuntary motion ceasing involuntarily. The body's version of the institutional register failing."
+  - name: "The scaling timeline (Thorne's handwriting)"
+    appearances: 3
+    arc: "Present at chapter open (the briefing's subject). Present at chapter close (still on the desk). The handwritten document — the institutional architecture that preceded the signal and survives it — is now describing a program whose premise is dead. The architect's drafting script. The margins exact. The commissioning dates. All of it obsolete in premise."
+  - name: "The signal (unnamed)"
+    appearances: "Throughout"
+    arc: "Has no secular name during the chapter. 'Something came through the building.' 'The signal.' Not 'the Voice' — that is Church of the Blessed Nitro liturgical terminology (the hum as divine communication). The secular name will emerge retrospectively, from outside Aurielle's register. The signal is eleven seconds. It contains more names than the quarterly report contains data points."
+  - name: "Eduardo's absence"
+    appearances: "Central (negative space)"
+    arc: "She listens for him as institutional reflex — data-verification habit, checking whether the inventory is complete. He is not there. He died outside the grid. The void has 8.2 million from Neo-Shanghai alone. It does not have the man who started it. The absence is the chapter's emotional payload: the machine he built consumed the world and left its architect in the ground."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 36 ('Synchronization') — simultaneous with Sofia's convergence point; signal arrives through conduit infrastructure as Sofia predicted"
+  - "B1 C1 alignment: Eduardo's assassination (thermal-kinetic round) — not absorbed; cannot be in signal; confirmed by continuity check"
+  - "C1 alignment: chair that learned her shape, hum filtered/attenuated, display wall typography, handkerchief in drawer"
+  - "C10 alignment: Thorne's architect's drafting script, scaling timeline as physical document, 'Yes. You do.' absent (Thorne's register has failed)"
+  - "C12 alignment: display wall showing throughput and casualty data simultaneously; emergency-format briefing"
+  - "C23 alignment: SHEPHERD throughput at 18% above projection; acoustic anomaly as backstory (signal is its culmination)"
+  - "C23A alignment: ground-level visit referenced ('she had heard the unfiltered version once, at ground level'); infrastructure she inspected is the infrastructure the signal uses"
+  - "C32 alignment: Mumbai incident report still open (83 pages, demographic breakdown visible); DN-4 response framework as pre-signal briefing topic; 'She did not open the next report' (C32) → C37 three stacked negations (extension, not echo)"
+  - "Signal naming: not 'the Voice' in prose — Church of the Blessed Nitro liturgical term (lexicon confirmed); secular name emerges Phase 5"
+  - "Forward: Phase 5 Aurielle chapter — SHEPHERD termination (her choice); signal name arrives from outside; Thorne's personal register; handkerchief drawer"
+  - "Forward: Ch 45 ('The Object Speaks') — post-signal, first data FROM void; Sofia's instruments captured the event"
+
+# Thread Status
+thread_status:
+  aurielle_arc: "Phase 4 B2 (Transformation). Institutional register suspended/returned as shell. Wrist rotation stopped (arc inverted). SHEPHERD premise collapsed. The Lie dead. Next: Phase 5 termination decision."
+  shepherd_program: "OPERATIONAL — premise collapsed. Not yet terminated. Phase 5 decision pending. 'The numbers described a program whose premise had been true an hour ago and was not true now and would not be true again.'"
+  thorne_dynamic: "REGISTER FAILURE — first instance. Personal register opened (handkerchief sentence). Peer relationship: first non-institutional communication. Phase 5: whether personal register persists or institutional reasserts."
+  wrist_rotation: "STOPPED — by external force (signal). Arc inverted. Phase 5: returns (different meaning) or absent (new state)."
+  handkerchief: "IN DRAWER — named by Thorne. Drawer not opened. Phase 5: open question."
+  eduardo_absence: "ESTABLISHED — not in void's inventory. Died outside grid (B1 C1). The asymmetry: in her inventory (desk, handkerchief), not in the void's. Permanent."
+  signal_naming: "UNNAMED — no secular name during chapter. Church liturgical term 'the Voice' not applicable to Aurielle's register. Name emerges Phase 5 from outside."
+  display_wall: "SHEPHERD projections not closed. Mumbai incident report not closed. Both remain open. Phase 5: whether she closes them."

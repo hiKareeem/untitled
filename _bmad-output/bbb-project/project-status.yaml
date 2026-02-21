@@ -904,7 +904,17 @@ chapters:
     mode: PRESSURE
     notes: "Book 2, Phase 4 opener — Sofia POV (9th overall, 5th B2). ~3 hours before the Voice. Broadband acoustic monitor detects 7.3-second coherence interval across 12 Anchor Zones (non-geographic onset sequence). Convergence model: temporal convergence, exponential compression, simultaneous output in ~3 hours. 'The void was coordinating.' Two actions: warning to Kira's network, archive set to continuous (3 nodes). De-escalation proposal at 12%, not opened. Window: amber safety lighting 4 blocks east, sacrifice district. 'The tolerance band was now a global policy.' Hum rhythm shift at ~1 hr 12 min: floor synchronizing with global pattern. Field kit pulse synchronized at 1.8 seconds — sensor becomes receiver (first time not steady since move). Chapter closes 53 minutes from convergence. 'She did not have a word for what was coming.' Epigraph: VEC Routine Sensor Report 2171-Q3-0447 (Unclassified) — synchronization detected 4 years prior, 'Do not escalate.' AEGIS as invisible novelist."
 
-completedCount: 90
-totalWords: 393737
+  book2_chapter_37:
+    title: "Eduardo"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3600
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-37-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 4 — Aurielle POV (7th B2 appearance, 14th overall). Routine briefing with Thorne (DN-4 response, Jakarta scaling timeline) interrupted by signal event. Signal arrives through Eduardo's desk before speakers (0.3-second gap — walnut density). Not a scream. A report. Thousands of names: the absorbed accounting for themselves through the infrastructure that consumed them. Institutional register does not engage — both tracks suspended. She listens for Eduardo (data-verification reflex). Eduardo Vasquez not in signal — assassinated B1 C1 (thermal-kinetic round), not absorbed, died outside the grid. Wrist rotation stopped by signal (external force — arc inverts). Signal ends. Eleven seconds. SHEPHERD premise collapsed: 'You could not direct a system that conducted its own inventory.' Thorne's first register failure. 'The handkerchief is still in the drawer.' — first non-institutional communication in ten months. Three stacked negations + closing inventory sentence. The Lie dead. Program continues. Premise gone. Signal not named 'the Voice' in prose (Church liturgical term — secular name emerges Phase 5). Epigraph: NitroCore HR Personnel Transition Archive — Eduardo's death as automated paperwork ('forwarding address: none on file / no action required'). AEGIS as invisible novelist."
+
+completedCount: 91
+totalWords: 397337
 lastUpdated: "2026-02-21"
-notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4 opens with Ch 36 (Synchronization, Sofia) — 2026-02-21."
+notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4: Ch 36 (Synchronization, Sofia) + Ch 37 (Eduardo, Aurielle) — both complete 2026-02-21. B2 C37 approved divergence: Eduardo absent from signal (B1 C1 continuity — thermal-kinetic assassination, not absorption). Signal not named 'the Voice' in Aurielle's prose (Church of the Blessed Nitro liturgical term). Secular name emerges Phase 5."

@@ -259,10 +259,10 @@ Her internal monologue should read as precise, controlled, and increasingly diss
 
 ## Book 2 Arc Status
 
-*Last updated: 2026-02-20 (through B2 Ch 32)*
+*Last updated: 2026-02-21 (through B2 Ch 37)*
 
-**Current phase:** Phase 3 climax (Proliferation)
-**Chapters completed (Book 2):** C1, C10, C12, C23, C23A, C32
+**Current phase:** Phase 4 (Transformation)
+**Chapters completed (Book 2):** C1, C10, C12, C23, C23A, C32, C37
 
 **Arc progression:**
 
@@ -274,19 +274,21 @@ Her internal monologue should read as precise, controlled, and increasingly diss
 | B2 C23 | Stewardship | 3 | SHEPHERD operational (3 zones, 18% above projection). Acoustic anomaly filed. Translation delayed. Wrist rotation: does not try to stop. "The Chair opened the next report." |
 | B2 C23A | Ground Level | 3 | First ground-level visit. Heard the reply. Classified it. Returned to altitude. Wrist rotation: not registered. Cold enters register. |
 | B2 C32 | Kill Chain | 3 climax | Translation absent for 2.3M. Demographic breakdown read (main body). Authorization vs. provision. Wrist rotation: not registered (arc complete). **"She did not open the next report."** — first break of closing echo. |
+| B2 C37 | Eduardo | 4 | Signal arrives through desk before speakers. Institutional register suspended (both tracks). Eduardo not in signal — assassinated B1 C1, not absorbed. Wrist rotation stopped by signal (arc inverts). SHEPHERD premise collapsed. Thorne's first register failure. Handkerchief sentence. Three stacked negations + closing inventory. The Lie dead. |
 
-**Wrist rotation arc (complete):**
-C10: stopped it → C12: didn't stop it → C23: didn't try to stop it → C23A: didn't register it → C32: doesn't register it (infrastructure)
+**Wrist rotation arc (inverted — C37):**
+C10: stopped it → C12: didn’t stop it → C23: didn’t try to stop it → C23A: didn’t register it → C32: doesn’t register it (infrastructure) → C37: stopped by signal (external force — arc inverts). Six chapters of losing control; the signal takes it. Phase 5: returns (different meaning) or absent (new state).
 
-**Dual-track narration arc (complete):**
-C1/C10: running in parallel → C12: noticed passive voice, filed → C23: translation arrives late, filed → C23A: eleven-second interval before classification → C32: translation does not arrive for casualty figure
+**Dual-track narration arc (Phase 4 — suspended):**
+C1/C10: running in parallel → C12: noticed passive voice, filed → C23: translation arrives late, filed → C23A: eleven-second interval before classification → C32: translation does not arrive for casualty figure → C37: both tracks suspended during signal (void’s register is a third thing neither track was built to process); institutional register returns post-signal as empty reflex — rhythm without content. The register is now a shell.
 
-**The Lie (Phase 3 state):**
-"I can direct the suffering." — Strained. The suffering is being directed by something she cannot direct, using the machine she built. The machine she doesn't control used the machine she built exactly as designed. The Lie survives because the liability partition is clean. The distinction between authorization and provision is the liability partition. The liability partition is the Lie's architecture.
+**The Lie (Phase 4 state — dead):**
+“I can direct the suffering.” — Dead. The void conducted its own inventory. You cannot direct what inventories you. The Lie is not strained or eroding — it is structurally impossible. The program continues. The premise is gone. Phase 5: she terminates SHEPHERD not because the Lie died but because the premise died. The institutional register will be the tool. The tool will be operating in the void’s register.
 
 **Closing echo arc:**
-C1: "The Chair opened the next report." → C23: "The Chair opened the next report." → C32: "She did not open the next report." — First break. Phase 3 climax marker.
+C1: “The Chair opened the next report.” → C23: “The Chair opened the next report.” → C32: “She did not open the next report.” — First break. Phase 3 climax marker. → C37: Three stacked negations (“did not close,” “did not open,” “did not open the drawer”) + closing inventory sentence. Not the C32 echo — extension. The closing is an inventory: she is running the same operation the void just ran.
 
-**Forward (unseeded):**
-- C36 "Eduardo": Voice speaks Eduardo's name; authorization vs. provision question is what it lands on
-- C45 "The Grid Continues": SHEPHERD termination decision; SHEPHERD data = targeting data is the seed
+**Forward (Phase 5):**
+- C37 complete: SHEPHERD premise collapsed. Institutional register a shell. Wrist rotation stopped. Thorne’s personal register opened.
+- Phase 5 Aurielle chapter: SHEPHERD termination (her choice, not the market’s). Signal name arrives from outside (secular name, not Church liturgical term). Thorne’s personal register — persists or reasserts? Handkerchief drawer — opened or not?
+- C45 “The Grid Continues”: SHEPHERD termination decision; the institutional vocabulary will be the tool; the tool will be operating in the void’s register.

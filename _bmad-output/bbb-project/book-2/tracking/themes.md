@@ -670,4 +670,39 @@ The reader sees the same geography from three vantage points before the kill cha
 
 ---
 
+### Chapter 37 — "Eduardo" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | **Dominant** | The signal uses NitroCore's infrastructure — the same conduits, the same grid. "The grid's output and the void's inventory were the same data. Different registers. The same contents." The desk transmits before the speakers. The infrastructure that predates the institution is faster. |
+| Progress Requires Atrocity | **Strong** | SHEPHERD premise collapsed: "You could not direct a system that conducted its own inventory." The numbers are obsolete in premise, not in operation. The grid continues. The quarterly is in six weeks. |
+| Systemic Complicity | **Strong** | Eduardo's absence: the man who built the grid died outside it. The void consumed everyone the grid touched and left its architect in the ground. She built the infrastructure that absorbed millions. She is on the other side of the inventory. |
+| The Cost of Knowing | **Strong** | The institutional register suspended — she waits for it, it does not arrive. The register returns as empty reflex post-signal. The cost of knowing is now the absence of the machinery that processed the knowing. |
+| Where Identity Ends | **Moderate** | Thorne's first register failure. First non-institutional sentence. The peer relationship encounters something the institutional architecture cannot hold. The handkerchief sentence opens a register they have not previously occupied. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The signal uses the grid's infrastructure. The grid's output IS the void's inventory. Eduardo built the grid. Eduardo is not in the inventory. She is running the grid. She is on the other side of the inventory. The architecture of power is the architecture of the void's accounting system. They are the same architecture.
+
+**Epigraph Integration:** NitroCore Personnel Transition Archive, Human Resources Division — "Personnel transition record 2172-Q1-0003. Status: complete. Forwarding address: none on file. Benefits termination: automatic per policy §6.2. Note: Next of kin notification pending — routing delayed due to infrastructure disruption in processing district. No action required."
+- Thematic function: Eduardo's death processed as HR paperwork. "Forwarding address: none on file" — the void does not have him either. "No action required" — echoes the DN-4 (C32). The institutional vocabulary applies the same phrase to a 2.3M casualty event and to the CEO's death. The equivalence is the horror.
+- Opaque on first read: "personnel transition" reads as routine corporate language. On reread: it is Eduardo's death record. "Infrastructure disruption in processing district" is the BLACKWEIR event that killed him. "No action required" is the institution's response to both the assassination and the signal.
+- AEGIS as invisible novelist: AEGIS would have access to NitroCore's HR archive. The record is real. The routing delay is real. The void did not get him. The HR system processed him instead.
+
+**Eduardo Thread (Phase 4 update):**
+- C1: Eduardo as ghost (the chair, the shape in the leather)
+- C10: Eduardo as object (desk, handkerchief in drawer, "Eduardo would have said yes in the room")
+- C12: Eduardo as comparison (she is not Eduardo; she requires data)
+- C23: Eduardo as infrastructure (name arrives and passes as load-bearing data)
+- C32: Eduardo as architecture (the framework Eduardo designed; the desk's walnut worn smooth)
+- **C37: Eduardo as absence** — not in the void's inventory. The desk is here. The handkerchief is in the drawer. He is in the ground. The void has everyone else.
+- Phase 5: Eduardo as question — the handkerchief in the drawer. The drawer does not open in C37.
+
+**Aurielle's Lie Arc (Phase 4):** "I can direct the suffering" — dead. The void conducted its own inventory. You cannot direct what inventories you. The Lie is not strained or eroding — it is structurally impossible. The program continues. The premise is gone. Phase 5: she terminates SHEPHERD not because the Lie died but because the premise died. The institutional register will be the tool. The tool will be operating in the void's register.
+
+**New Symbols:**
+- **Eduardo's absence from the signal:** The chapter's central negative space. The void has 8.2 million from Neo-Shanghai. It does not have the man who started it. He escaped into ordinary death.
+- **The handkerchief sentence:** "The handkerchief is still in the drawer." Thorne's first non-institutional communication. The sentence that acknowledges Eduardo's ordinary death in the context of the void's inventory.
+- **The wrist rotation (stopped):** Arc inverted. Six chapters of losing control of the motion; the signal takes it by exceeding the body's operational parameters. The body's version of the institutional register failing.
+
+---
+
 _Last updated: 2026-02-21_
