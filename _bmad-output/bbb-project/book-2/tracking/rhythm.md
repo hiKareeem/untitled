@@ -1500,4 +1500,56 @@ The arc across the four Book 2 chapters: peak intensity escalates (dead-hand →
 
 ---
 
+### Chapter 43 — "I Counted" (Nuwa Lin)
+
+**Mode:** PRESSURE
+**Tension Shape:** Low-working (mid-task inventory) → rising-immediate (hum changes, implant flares) → sustained-peak (names through walls, counting) → hard-cut (Voice ends) → resolving-deliberate (message composed and sent) → quiet close (green confirmation, inventory open)
+**Pacing:** Front-weighted. Voice arrival and counting = ~55% of chapter. Opening and closing provide working-register ballast.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Organizing building / mid-task inventory | ~350 | Low-working | Slow, inventory-driven, workspace established |
+| Hum changes / implant flares / chip opens | ~250 | Rising-immediate | Short sentences, sensory escalation |
+| Voice through walls — names begin | ~550 | Sustained-peak | Paratactic, names as punctuation, recognition beats |
+| Counting section | ~500 | Sustained-peak | Numbered fragments, overlay description, Shuang in doorway |
+| Voice ends / forty-seven | ~350 | Hard-cut then resolving | Compression: overlay stabilizes, implant cools, arithmetic runs |
+| Message composed and sent | ~450 | Resolving-deliberate | Slow, deliberate, Nuwa's voice at its most economical |
+| Closing meditation | ~350 | Quiet close | Maximum compression. "She counted anyway." |
+
+**Rhythm Notes:**
+- The counting section uses numbered fragments as a pacing device unique to Nuwa's register: "Four." / "Seven. Twelve. Nineteen." / "Twenty-three. Thirty-one. Thirty-six." / "Forty-seven." The numbers arrive as single-line paragraphs, each one a beat. The reader counts with her.
+- The Voice's arrival is marked by the shortest sentence in the chapter: "The hum changed." Three words. Single-line paragraph. The chapter's pivot.
+- "The hum *organized.*" — the payoff sentence. Italicized. Isolated. The negation-before-assertion technique's first deployment.
+- The message composition scene is the chapter's quietest section — deliberately so. The most consequential act in Nuwa's arc is rendered in the flattest register. She reads it once. She reads it again. She sends it. No ceremony.
+- The closing meditation is the chapter's only passage of extended reflection. It earns the length because it is the arc's summation: the system's operations named, the survival mechanisms named, "She counted anyway." The final three words are the chapter title's resolution.
+- Long-long-long-SHORT pattern: the overlay/implant description passages build, then "Then the walls carried it." / "Nuwa stopped." / "She counted." / "Four." / "Forty-seven." Each short sentence resets the tempo.
+
+**Dialogue Percentage:** ~8% (concentrated in the Shuang exchange; opening and closing are solo narration)
+
+**Pacing Concern:** The counting section risks feeling like a list. Mitigated by: (1) the named individuals arriving with their specific details (Mrs. Huang's garlic greens, Yuto's bandaged hand, Lin Wei's false reports); (2) the numbered fragments as rhythm rather than inventory; (3) Shuang's appearance in the doorway interrupting the count at 37, grounding the abstract accumulation in a present-tense human exchange.
+
+**Structural Note:** Ch 43 is the only Phase 4 Voice chapter where the POV character has no institutional standing. Every other Phase 4 chapter processes the Voice through a professional or institutional framework (Sofia's instruments, Aurielle's infrastructure, Nephthys's chorus, Malachi's cathedral, Kira's implant, Nikolai's frames, Zeyad's building systems). Nuwa processes it through a cracked implant, a dead man's maintenance chip, and the body-knowledge of someone who survived the last time. The register is lower. The specificity is higher.
+
+**Comparison to Plan:** Mode PRESSURE confirmed. The chapter delivers the Voice through the Mid-Levels' masonry walls and a damaged implant — the correct register for Nuwa's position. The damage is the thing she receives the world through. The epigraph resolves on reread.
+
+**Comparison to Previous Nuwa Chapters:**
+| Chapter | Words | Mode | Peak | Close |
+|---------|-------|------|------|-------|
+| B1 Ch 42 | ~3,800 | PRESSURE | Neighbor's hand through glass (high) | Still. Waiting. |
+| B2 Ch 8 | ~3,400 | TEXTURE | Feed reports "stabilization" (medium) | "Somewhere that isn't there anymore." |
+| B2 Ch 18 | ~3,600 | TEXTURE | Chip data / Block 9 topology (high) | "The edge of her vision was not the place where she stored things she could not look at." |
+| B2 Ch 29 | ~4,200 | TEXTURE | Geometry match / knocking on doors (high) | "She sat at the table. She opened the overlay. She began." |
+| B2 Ch 43 | ~3,800 | PRESSURE | 47 names / message sent (peak) | "The inventory was open. She was not done." |
+
+The arc across the five chapters: peak intensity escalates (BLACKWEIR survival → stabilization lie → Block 9 topology → sacrifice district → Voice). The close tracks the inventory: waiting → deflection → re-reading → beginning → not done. Ch 43's close is the most open-ended — not resolution but continuation. The inventory is open. The arc continues into B2C53.
+
+**Nuwa Arc Rhythm (cumulative B2):**
+- B2 Ch 8: TEXTURE. Aftermath-driven. Data-orphan established. "Somewhere that isn't." Closes with the deflection.
+- B2 Ch 18: TEXTURE. Document-driven. Language acquired. Chip opened. Closes with re-reading the notification.
+- B2 Ch 29: TEXTURE. Sacrifice district-driven. Topology deployed. Knocking on doors. Closes with beginning.
+- **B2 Ch 43: PRESSURE. Voice-driven. 47 names counted. Message sent. Closes with "not done."**
+
+---
+
 _Last updated: 2026-02-21_

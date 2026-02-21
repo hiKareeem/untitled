@@ -855,4 +855,36 @@ The escalation ladder: ambient harmonic (unconfirmed) → collective statement (
 
 ---
 
+### Chapter 43 — "I Counted" (Nuwa Lin)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Irrelevance of Individual Being | **Dominant** | 47 out of 8.2 million. The number is a margin of error. The system deletes below the threshold of significance. She counts below the threshold of significance. |
+| What We Owe | **Dominant** | The message is the debt paid — not to Fuxi, not to the 47, but to the record. She has data. The data belongs in the record. She puts it there. |
+| Truth Without Power | **Strong** | Basic credential, None assigned. The only channel available is a public mage testimony network. She uses it. |
+| Systemic Complicity | **Strong** | The system archived their data, decommissioned their servers, reclassified their district, called it *remediation*. The system does not count what it consumes. |
+| Where Identity Ends | **Strong** | Mrs. Huang: Block 14, Unit 7-C. Lin Wei: Converter Station B, Foreman, "I reported what I saw." Yuto: "I touched the light." Identity persists. The system has no category for it. |
+| Cost of Survival | **Moderate** | "She had survived by every mechanism the system had taught her and the system had not meant for her to survive at all." |
+| Architecture of Power | **Background** | The Voice travels through the same infrastructure that consumed the absorbed. The architecture that killed them carries them back. |
+
+**Key Resonance:** Irrelevance of Individual Being ↔ What We Owe. The system's operation (delete below threshold of significance) is the argument. Nuwa's counting is the counter-argument. The counter-argument does not defeat the system. It produces a record the system did not authorize.
+
+**Epigraph Integration:** "The instrument that survives the event is not the same instrument. But the measurements it took before are still valid." — Field calibration note, unattributed.
+- Thematic function: Opaque on first read. Resolves on reread: Nuwa is the instrument. The cracked implant is the instrument. The measurements (47 names, Fuxi's chip data, the topology) are valid precisely because she survived damaged. The damage is the thing she receives the world through.
+- AEGIS as invisible novelist: reconstructing Nuwa's testimony from the network transmission — the system that cannot classify the Voice receives Nuwa's record of it through a public channel.
+
+**Phase 4 Transformation Thread (Ch 36–43):**
+- Ch 36 (Sofia): Convergence detected. Scientific framework reaches its limit.
+- Ch 37 (Aurielle): Signal through NitroCore infrastructure. Institutional register suspends.
+- Ch 38 (Nephthys): Chorus at full saturation. Circulation confirmed.
+- Ch 39 (Malachi): Voice through the European See's cathedral. Encyclicals over.
+- Ch 40 (Kira): R3 amplifies. Second broadcast. Memory erosion onset.
+- Ch 41 (Nikolai): "Still deployed." Second honest report. Career over.
+- Ch 42 (Zeyad): Mirelle still reporting. Three sentences into the record. Pen writes the replacement.
+- **Ch 43 (Nuwa): 47 names. The map and the person in the same frame. Message sent. "The inventory was open. She was not done."**
+
+Eight POVs, eight architectures, the same event. Ch 43 is the only chapter where the POV character has no institutional standing. The register is the lowest in the sequence. The specificity is the highest: she names four individuals by name, location, and the moment of their absorption. No other Phase 4 chapter does this.
+
+---
+
 _Last updated: 2026-02-21_

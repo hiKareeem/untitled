@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 42"
+lastChapter: "B2 Ch 43"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -872,8 +872,8 @@ This bible dimension tracks **current character states**:
 | Fuxi Lin | Maintenance → Radical → ? (ambiguous) | **5/5 CLOSED** | Book 2 Ch 9 — data chip to Nuwa, thread handoff, final POV |
 | Sofia | Institutional → Rogue | **5/5** | B2 Ch 11 — mid-truth published via Black Babel; irreversible distribution; waiting for world's response |
 | Kira | B2: Expelled → Network Global → Lumina 60mg → Mumbai Relay → Second Broadcast | 2/5 (B2) | B2 Ch 21 — convergence with Nephthys achieved; ring light returned; 'Names'; vocabulary confirmed; telemetry shared |
-| Nuwa Lin | Invisible → Deliberately Invisible → Chosen Visibility | 2/5 (B2) | B2 Ch 18 — document read (body-memory collision), chip opened (Fuxi's handwriting, infrastructure maps, path-poor zones), notification re-read for first time. Tool without a task. Not done with it yet. Next: Phase 3 sacrifice district designation → organizing |
-| AEGIS | Unfired → Fired → Weapon Without Target | 3/5 (B2) | B2 Ch 30 — Mumbai strike (2.3M dead). Void amplified, not suppressed. Void reclassified: "non-targetable entity." Kinetic array has no valid targets. 0.003-second generation deleted. Self-reference escalating. Next: Ch 43 (Voice). |
+| Nuwa Lin | Invisible → Deliberately Invisible → Chosen Visibility → External Visibility | 4/5 (B2) | B2 Ch 43 — Voice through Mid-Levels. 47 names counted. Fuxi's chip data overlaps with Voice signal in cracked overlay. Message sent to Kira's network (first post): name, data, topology, 'I counted.' Green confirmation beside frozen notification. 'The inventory was open. She was not done.' Next: Ch 53 ('I Was There') — connection developed, exodus arc begins. |
+| AEGIS | Unfired → Fired → Weapon Without Target | 3/5 (B2) | B2 Ch 33 — Mumbai strike (2.3M dead). Void amplified, not suppressed. Void reclassified: "non-targetable entity." Kinetic array has no valid targets. 0.003-second generation deleted. Self-reference escalating. Next: Ch 44 ('0.003 Seconds' — Voice through orbital array). |
 
 ---
 
@@ -1068,6 +1068,8 @@ This bible dimension tracks **current character states**:
 | Nuwa Lin | Arc + Recent History | Ch 29 last appearance | **B2C29:** Sacrifice district designation (Sector 7M) arrives on door. Overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. Identifies 7 path-poor structures in sector (12,000 residents, 14% survival capacity). Knocks on Fen's door (Unit 9). Fen's cousin lost in Sector 12 — personal stake established. Together go to Shuang (Unit 2, two children). "I'm not telling people to leave. I'm telling people where to stand." Sits at Shuang's table, opens overlay, begins. **Arc: tool-without-task (B2C18) → action (B2C29). Lie inverted: chosen visibility as tool.** Next: B2C42 (Voice through Mid-Levels, "I Counted"). | Ch 29 |
 | Fen | Supporting character update | Ch 8 last appearance | **B2C29:** Cousin lost in Sector 12 waste processing (new backstory). Institutional notices filed in drawer, not acted on. Recognizes Nuwa's chemical staining (iridescent, fingertips). Commits when Nuwa says "I'm not telling people to leave." Reaches for jacket. Bridge between Nuwa and building community. "Don't be sorry. Be right. About the walls." | Ch 29 |
 | Shuang | New supporting character | N/A | Unit 2, converted warehouse, Mid-Level 4. Younger than Fen. Two children. Cooks in evenings. Has observed Nuwa walking along walls for months. "You walk along the walls." — moment of mutual recognition. Stepped back, let Nuwa in. | Ch 29 |
+| Nuwa Lin | Arc progression + state update | Phase 3/5 (B2), organizing | **B2C43:** Voice event. 47 names recognized from the Sump. Fuxi's chip data and Voice signal overlap in cracked overlay — map and person in same frame for first time. Shuang in doorway with children: 'Is it happening again?' Nuwa: 'They are reporting.' Message sent to Kira's network (first external contact): name, Fuxi's data, relocation work, topology, 'I counted.' Green confirmation beside frozen notification. Phase 4/5 (B2). Exiting state: organizing building, inventory open, not done. | Ch 43 |
+| Shuang | Supporting character update | Ch 29 last appearance | **B2C43:** Voice event — comes to Nuwa with children gripping her legs. 'Is it happening again?' Watches Nuwa send the message. Now aware Nuwa is in contact with someone outside the building. | Ch 43 |
 
 | Paz | Supporting character update | Ch 32 last appearance (off-page) | **B2C40:** Bay Area tea counter (established location). Same dose confirmed (80mg). "Eighty is not your ceiling anymore. Eighty is your floor." — pharmacological arc's next crisis named. "Don't thank me." Transaction complete. Clinical pragmatism with undertow of concern. | Ch 40 |
 

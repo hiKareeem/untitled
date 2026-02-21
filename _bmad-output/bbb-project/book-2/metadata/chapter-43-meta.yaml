@@ -1,0 +1,158 @@
+chapter_number: 43
+book: 2
+title: "I Counted"
+pov_character: "Nuwa Lin"
+phase: 4
+location: "Neo-Shanghai Mid-Levels — organizing building (third floor workspace), Nuwa's room (one floor up)"
+timeline: "Phase 4 — The Voice event, concurrent with Ch 37-42"
+estimated_word_count: 3800
+actual_word_count: ~3800
+epigraph_source: "Field calibration note, unattributed"
+epigraph_text: '"The instrument that survives the event is not the same instrument. But the measurements it took before are still valid."'
+epigraph_title: ""
+mode: PRESSURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-21"
+
+# Summary
+summary: >
+  Nuwa's fourth Book 2 POV. Phase 4 — the Voice event through the Mid-Levels.
+  She has been in the organizing building since before dawn, preparing for three
+  families scheduled to see the topology map. She steps back from the projector
+  and runs her inventory. Then the hum changes — not louder, not the pressure
+  of BLACKWEIR, but organized. The cracked implant flares. The frozen notification
+  fragments. Fuxi's chip data opens unprompted in the overlay. Then the walls
+  carry it: voices through the masonry, through the concrete and rebar and plaster.
+  Names. Mrs. Huang from Unit 7-C below their Block 14 apartment. Yuto, the child
+  who touched the shimmer. Lin Wei, Fuxi's foreman who signed the false inspection
+  forms, now reporting what he saw. Her mother's neighbor, recognized by the vowels.
+  She counts — automatic, reflexive, the body's first language. The chip data and
+  the Voice overlap in her cracked overlay: Mrs. Huang's name against Junction 4E-17,
+  Yuto against the shimmer node, Lin Wei against Converter Station B. The map and
+  the person in the same frame. Shuang appears in the doorway with her children.
+  "Is it happening again?" / "No. They are reporting." The Voice ends at forty-seven.
+  She runs the arithmetic: 47 out of approximately 200 known, 23.5% of her personal
+  inventory, biased toward Block 14 and the eastern blocks. Not representative.
+  Specific. She opens Kira's network channel — the testimony chain she has been
+  watching for four months without posting. Types her message: name, Fuxi's data,
+  relocation work, topology knowledge, "I counted." Reads it twice. Sends it.
+  Green confirmation beside the frozen notification. The dead system and the live
+  one, side by side. The inventory is open. She is not done.
+
+# Key Events
+key_events:
+  - "Pre-dawn in organizing building — workspace established (table, two chairs, overlay projector on shelf bracket)"
+  - "Topology map on wall: path-poor zones blue, path-rich red, organizing building blue, block east red"
+  - "Three families scheduled: first due at mid-morning (couple from seventh floor, relocation notice, nowhere to go)"
+  - "Steps back from projector, runs inventory: 51 creds, room paid through tomorrow, rice, greens (Shuang's water spinach)"
+  - "Frozen notification: 'Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned.'"
+  - "Hum changes — not louder, not BLACKWEIR pressure. The hum *organized.*"
+  - "Cracked implant flares immediately (not gradual RCI warmth — immediate)"
+  - "Frozen notification fragments, rearranges, reassembles wrong — briefly displaced by something the implant was not designed to receive"
+  - "Fuxi's chip data opens unprompted: junction coordinates, conduit densities, topology"
+  - "Then the walls carried it — through masonry, concrete, rebar, plaster, paint"
+  - "Topology map on wall strobes: blue and red zones pulsing"
+  - "First name: Huang Meiling. Block 14. Unit 7-C. Still here."
+  - "Nuwa stops. Hands on table. Overlay flickering."
+  - "Mrs. Huang: garlic greens at six, radio at seven, silence by nine. The clock she used."
+  - "Second name through east wall: Yuto. I touched the light. I am still here."
+  - "Yuto: Block 11, touched shimmer near junction node two weeks before BLACKWEIR, seven years old, bandaged hand"
+  - "Third-fifth names. Lin Wei. Converter Station B. Foreman. I reported what I saw. Still here."
+  - "Lin Wei: signed false inspection forms, wrote nominal beside readings that were not nominal"
+  - "She counted — automatic, reflexive. Nine hundred creds toward the upgrade, three hundred short. Four hundred and twelve. The numbers changed. The counting did not."
+  - "Fourth name: mother's neighbor — recognized by the vowels, the way she said Lǎo jiē"
+  - "Four. Then seven. Twelve. Nineteen."
+  - "Chip data and Voice overlapping in cracked overlay: Mrs. Huang's name against Junction 4E-17, Yuto against shimmer node, Lin Wei against Converter Station B"
+  - "'The map and the person. In the same frame.'"
+  - "Twenty-three. Thirty-one. Thirty-six."
+  - "Standing without remembering standing"
+  - "Topology map strobing: blue and red merged into purple wash — the color from the annex window"
+  - "Shuang in doorway, two children gripping her legs"
+  - "'What is it?' / 'Names.' / 'Whose?' / 'People I knew.'"
+  - "Thirty-seventh name: Block 7 man, Sump dialect, path-poor zone, did not survive"
+  - "'Is it happening again?' — the question every person in a containment buffer zone carries"
+  - "'No. Listen. Nobody is being taken. They are — ' She stopped. No word for it."
+  - "'They are reporting.' — the closest word"
+  - "Forty-four. Forty-five. Forty-six. Forty-seven."
+  - "Voice ends — not gradually. The way a voice stops when a person finishes speaking."
+  - "Overlay stabilizes. Frozen notification reassembles. Chip data retracts. Map settles."
+  - "Implant cooling. Hairline split stopped glowing. Skin tender."
+  - "Arithmetic: 47 out of ~200 known, 23.5% personal inventory. Sample biased toward Block 14 and eastern blocks. Not representative. Specific."
+  - "'They were enough.'"
+  - "Chip warm: Fuxi's 13 years. Chip holds infrastructure. 47 names hold the people."
+  - "Opens Kira's network channel (watching for four months, never posted)"
+  - "Message typed: name, Fuxi's data, relocation work, topology, 'I counted.'"
+  - "Read once. Read again. Sent."
+  - "Green confirmation beside frozen notification: 'Message delivered. Recipient: Mage Testimony Network (public channel).'"
+  - "Dead system and live one, side by side in the same damaged display"
+  - "Closing meditation: the system's operations named. 'She counted anyway.'"
+  - "'The inventory was open. She was not done.'"
+
+# Characters Present
+characters:
+  - name: "Nuwa Lin"
+    role: POV
+    state: "Phase 4 arc position: organizing/emerging (B2C29) → Voice as personal accounting → message sent. Counting ritual now mid-task (not waking) — the ritual has migrated from survival mechanism to working practice. Receives Voice through cracked implant: partial, distorted, compensated by head-tilt. 47 names. Sends first external message. Exits: organizing building, inventory open, not done. Phase 4/5 (B2)."
+  - name: "Shuang"
+    role: Supporting
+    state: "Appears in doorway with children during Voice. 'Is it happening again?' Watches Nuwa send the message. Now aware Nuwa is in contact with someone outside the building."
+
+# New Characters Introduced
+new_characters: []
+
+# Themes
+themes:
+  - "Irrelevance of Individual Being (Dominant) — 47 out of 8.2 million. A margin of error. The system deletes below the threshold of significance. She counts below the threshold of significance."
+  - "What We Owe (Dominant) — The message is the debt paid. She has data. The data belongs in the record. She puts it there. The emotion, if it has a name, is the sensation of a ledger closing."
+  - "Truth Without Power (Strong) — Basic credential, None assigned. The only channel available is a public mage testimony network. She uses it."
+  - "Systemic Complicity (Strong) — The system archived their data, decommissioned their servers, reclassified their district, called it remediation. The system does not count what it consumes."
+  - "Where Identity Ends (Strong) — Mrs. Huang: Block 14, Unit 7-C. Lin Wei: Converter Station B, Foreman, 'I reported what I saw.' Yuto: 'I touched the light.' Identity persists. The system has no category for it."
+  - "Cost of Survival (Moderate) — 'She had survived by every mechanism the system had taught her and the system had not meant for her to survive at all.'"
+  - "Architecture of Power (Background) — The Voice travels through the same infrastructure that consumed the absorbed. The architecture that killed them carries them back."
+
+# Symbols
+symbols:
+  - name: "The frozen notification"
+    appearances: 3
+    arc: "Opening inventory (present as always) → fragments during Voice (briefly displaced) → reassembles after Voice (as if nothing happened) → sits beside green confirmation at close. Arc complete: dead system beside live transmission. She did not need the dead system's permission."
+  - name: "The cracked implant"
+    appearances: 4
+    arc: "Flares immediately (not gradual) → housing glows through hairline split → signal received through damage, compensated by head-tilt → cools after Voice. The damage is the thing she receives the world through. Epigraph resolution: the instrument that survives the event is not the same instrument."
+  - name: "Fuxi's chip"
+    appearances: 3
+    arc: "Opens unprompted during Voice → overlaps with Voice signal in cracked overlay (map and person in same frame) → warm in the port after Voice. The chip held the infrastructure. The 47 names hold the people. Together they are what the document described as data and what she knew as garlic greens and a bandaged hand."
+  - name: "The map and the person. In the same frame."
+    appearances: 1
+    arc: "The chapter's thesis. Fuxi's junction coordinates and Mrs. Huang's name in the same damaged overlay simultaneously. The map was always about the people. She knew this. Now she can see it."
+  - name: "The green confirmation"
+    appearances: 1
+    arc: "Sits beside the frozen notification. The dead system and the live one. She did not need the dead system's permission. She never did."
+  - name: "The counting ritual"
+    appearances: 2
+    arc: "Opening inventory (mid-task, not waking — the ritual has migrated from survival mechanism to working practice) → counting the 47 names (automatic, reflexive, the body's first language absorbing the Voice). The mechanism is the same. The inventory is different."
+
+# Continuity
+continuity_notes:
+  - "B2C29 → B2C43: Organizing building established (Shuang's building, masonry, path-poor). Shuang and children present. Fen referenced (implant). Topology map on wall (projector rigged from discarded terminal). Cred count: 114 (Ch 29) → 51 (Ch 43) — consistent depletion."
+  - "B2C18 → B2C43: Chip in port permanently (stopped removing it). Chip data opens unprompted during Voice. Junction coordinates (4E-17, shimmer node, Converter Station B) consistent with established chip contents."
+  - "B1C42 → B2C43: Frozen notification exact text match. Wet cloth callback (opening paragraph). 'Not going to the window to look for Fuxi' — closing section callback. Purple wash on strobing map — color from annex window. Masonry walls as signal resistance."
+  - "B2C8 → B2C43: Cracked implant, hairline split, adhesive, dead zone in upper-right quadrant, head-tilt compensation. Frozen notification exact text. Cred depletion arc."
+  - "Counting ritual: present in every B2 Nuwa chapter. B2C43 places it mid-task (not waking) — author-flagged fix applied. The ritual has migrated from survival mechanism to working practice."
+  - "Knowledge boundary: Nuwa has been watching Kira's network for four months (established as upcoming knowledge in B2C29 audit). This chapter is the first post. She does not know Kira's name or identity — she is responding to a network, not a person."
+  - "Signal not named 'the Voice' in Nuwa's prose. She experiences it as: hum changing, hum organizing, walls carrying it, names. No external label."
+  - "Mrs. Huang (Unit 7-C, Block 14), Yuto (Block 11, shimmer node), Lin Wei (Converter Station B, foreman), mother's neighbor — all four plan-specified names present."
+  - "Message divergence from plan: plan's pithy version ('I was there. I can tell you what happened. I counted.') expanded to include name, Fuxi's data, relocation work, topology knowledge. Intentional — Nuwa is pragmatic and data-driven. Final sentence 'I counted' still resolves the chapter title."
+  - "Adhesive tube: replaced 3 days ago (consistent with B2C29's day 11/12 and elapsed time)."
+  - "Contractions: permitted per characters.md voice register note. Draft uses contractions appropriately."
+
+# Thread Status
+thread_status:
+  frozen_notification: "COMPLETE (arc). Present in opening, fragments during Voice, reassembles after, sits beside green confirmation at close. The dead system beside the live transmission. Arc across five chapters complete."
+  data_chip: "PIVOTAL. Opens unprompted during Voice. Overlaps with Voice signal in cracked overlay. Map and person in same frame for first time. Still in port permanently."
+  implant_crack: "CENTRAL. The damage is the thing she receives the world through. Epigraph resolves on reread. Receives Voice partially, distorted, compensated by head-tilt. Cools after Voice."
+  masonry_routing: "ACTIVE. Organizing building chosen for masonry resistance. Walls carry the Voice despite resistance — the Voice is not the hum."
+  the_lie: "DISSOLVED. 'She was designed for nothing. She had survived by being small enough that the system did not notice her... She counted anyway.' The Lie named and set aside in the closing meditation."
+  kira_network: "OPENED. First message sent. Public channel. Name, data, topology, 'I counted.' Green confirmation. The connection is initiated. Next: B2C53 ('I Was There') — connection developed."
+  shuang_thread: "ADVANCED. Voice event witness. 'Is it happening again?' Watches message sent. Now aware of external contact."
+  knowledge_boundary: "MAINTAINED. Nuwa does not know Kira's name or identity. She is responding to a network, not a person. B2C53 is where the connection is developed."

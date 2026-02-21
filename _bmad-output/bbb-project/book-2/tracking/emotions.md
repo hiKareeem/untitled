@@ -807,4 +807,29 @@
 
 ---
 
+### Chapter 43 — "I Counted"
+
+**Nuwa Lin (POV):**
+- **Entering State:** Post-Ch 29. Organizing building established. Shuang and Fen in the network. Topology maps deployed. Has been watching Kira's testimony chain for months without posting. Creds at 51 — the lowest they have been. The inventory is tighter than it has ever been. The work is the most she has ever done.
+- **Emotional Arc:** Mid-task inventory (the ritual, now a working practice, not a waking one) → hum changes (implant flares — the body's first signal) → overlay scrambles (the frozen notification displaced) → walls carry names (recognition before understanding) → Mrs. Huang (the garlic greens, the clock she used, the silence when it stopped) → Yuto (seven years old, the bandaged hand) → Lin Wei (the foreman who signed the false forms, now reporting what he saw) → mother's neighbor (recognized by the vowels, not the name) → counting (automatic, reflexive, the body's first language) → the map and the person in the same frame (Fuxi's chip data overlapping with the Voice in the cracked overlay) → standing without remembering standing → Shuang in the doorway → "They are reporting" (the only word she has) → forty-seven → the message field → typing → sending → the green confirmation beside the frozen notification.
+- **Dominant Emotion:** Not triumph. Not grief. The specific state of a person who has completed an arithmetic problem she has been carrying for months without knowing it was a problem. The message is not an act of courage — it is an act of accounting. She has data. The data belongs in the record. She puts it there. The emotion, if it has a name, is the sensation of a ledger closing.
+- **Key Emotional Beat:** "The map and the person. In the same frame." — the moment Fuxi's junction coordinates and Mrs. Huang's name occupy the same damaged overlay. This is not revelation. It is recognition. She has had both pieces separately. The cracked implant holds them simultaneously for the first time. The map was always about the people. She knew this. Now she can see it.
+- **Secondary Beat:** "They are reporting." — Nuwa's word for what the Voice is doing. Not the right word. The closest word. The absorbed are stating for the record. She is the only person in the building who has a record to put them in.
+- **Tertiary Beat:** The green confirmation beside the frozen notification. The dead system and the live one, side by side. She did not need the dead system's permission. She never did.
+- **Exiting State:** Organizing building, third floor. Topology map on the wall, static again. The overlay settled. The implant cooling. Forty-seven names in the inventory. The message delivered. Shuang in the doorway, now aware that Nuwa is in contact with someone outside the building. The inventory is open. She is not done.
+- **Emotional Shift from Ch 29:** Ch 29 ends with her sitting at the table, opening the overlay, beginning — the first act of chosen visibility (knocking on doors, showing people where to stand). Ch 43 ends with the message sent — the first act of external visibility (telling someone outside the building that she exists and what she knows). The shift is from *local* to *networked*. The scale changes. The register does not. She is still the woman running the inventory. The inventory now has a recipient.
+
+**Nuwa Emotional Arc (cumulative B2):**
+- B2 Ch 8: Survivor's numbness. Chosen invisibility. The system doesn't notice her. She doesn't correct it.
+- B2 Ch 18: The map without a destination. Tool without a task. The knowledge doesn't liberate. It makes the invisibility harder to maintain.
+- B2 Ch 29: The destination arrives. Knocking on doors. "I'm not telling people to leave. I'm telling people where to stand." First act of chosen visibility.
+- **B2 Ch 43: The channel opens. 47 names. The message sent. "The inventory was open. She was not done." First act of external visibility. The invisible woman, stepped into view.**
+
+**Shuang (Supporting):**
+- **Entering State:** Post-Ch 29. Two children. Organizing building resident. Aware of Nuwa's work. Has been to the map sessions.
+- **Emotional Arc:** Voice event (children frightened, she comes to the only person who might know) → "Is it happening again?" (the question she has been carrying since the buffer zone notice) → "Names. People I knew." (partial answer, enough) → watches Nuwa send the message (the woman who showed them where to stand is now telling someone outside that she exists).
+- **Dominant Emotion:** The specific fear of a mother in a sacrifice district who has been told where to stand but not whether standing will be enough. The Voice does not resolve this fear. Nuwa's answer ("They are reporting") does not resolve it. The message does not resolve it. But the woman who knocked on her door is still here, still working, still counting. That is the only data point available.
+
+---
+
 _Last updated: 2026-02-21_
