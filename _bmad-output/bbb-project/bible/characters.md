@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 38"
+lastChapter: "B2 Ch 42"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -350,12 +350,14 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional impotence
 
 **Current Psychological State:**
-- Phase: 2/5 Book 2 (The Mid-Truth — institutional defendant, Lie stress-tested)
-- Emotional State: Institutional disorientation deepening into recognition. Composure intact but the Lie cracking — the FAS model is sound, adoption has not followed. Writes anyway. The pen continues.
-- Dominant Beliefs: "If the record is complete, justice is possible." *(destroyed — but the hand still documents. Lagos stress-tested the Lie: the alternative exists, is proven, will not be adopted)*
-- Internal Contradictions: The Accords he invoked contain the article prosecuting him AND the provision (Article 9, Section 4) that architecturally prevents the alternative model. Khalil's framework is the cage. The FAS proves the alternative works. The Accords prove it cannot be adopted through institutional channels.
+- Phase: 4/5 Book 2 (The Voice — Transformation)
+- Emotional State: Foundational belief dissolved (not broken). Composure intact. The institution is still functioning, the record is still being kept, the agenda is still advancing. The belief that the record produces justice is no longer load-bearing. The pen writes the replacement.
+- Dominant Beliefs: "If the record is complete, justice is possible." *(dissolved — not broken. The record is complete. The record contains Mirelle still reporting. Justice is not possible. The pen writes what must replace the Accords.)*
+- Internal Contradictions: The Accords he invoked contain the article prosecuting him AND the provision (Article 9, Section 4) that architecturally prevents the alternative model. Khalil's framework is the cage. The FAS proves the alternative works. The Accords prove it cannot be adopted through institutional channels. The pen that signed the Accords is now writing their replacement.
 - **B2 Ch 7 State:** Phase 1/5. Session 63 of Accords Disciplinary Tribunal. Pen returned (legal notes, not memos). New notebook (original = Prosecution Exhibit 1). Grey visitor badge. Diplomatic residence 3 blocks from HQ. Dead-hand package opened — NitroCore routing authorizations, 18 months pre-BLACKWEIR. "Who signed?"
 - **B2 Ch 17 State:** Phase 2/5. Lagos, FAS Ministry of Infrastructure. Courtesy access (COURTESY badge, white with red strip). Reads 40 years of FAS atmospheric compliance data — conclusions in first paragraph, disorienting. Walk with Minister Adaeze Obiora through Ikoyi Junction (distributed conduit infrastructure, hum quieter). FAS intelligence files: independent confirmation of nitro-suffering correlation, 40 years, same answer as Sofia. Framework document written (6 pages, handwritten, UGC submission via Diallo, structurally inadmissible under Article 9 Section 4). "The alternative exists. It is sound. It will not be adopted. The pen continues."
+- **B2 Ch 31 State:** Phase 3/5. Lagos breach zone, FAS observation post, Apapa industrial corridor. Hum rises through body — soles, ankles, shins, chest. FAS containment protocol holds: zero secondary absorption events, Lagos becomes new Anchor Zone. News of Mumbai kinetic strike: 2.3 million dead. Pen goes still during Mumbai news, resumes. Closes with hum in chest. Recorder purchased at Lagos airport (day after Anchor Zone formed) — for what the pen cannot capture.
+- **B2 Ch 42 State:** Phase 4/5. New Geneva, UGC observation gallery. Grey unlaminated pass (ten months of wear). Jordanian flag worse. Hum carries Lagos as sensory memory. Transmission at 14:37 UTC through building's systems — names, then Mirelle, still dictating, present tense, continuing the dead-hand sentence. Recorder held to speaker. Unattended checkpoint. Three sentences into the official record. Session resumes in seventeen minutes. Belief dissolves like the flag — not a break, a loss of coherence. Pen writes: "What follows is an account of what the Accords were designed to do, what they did instead, and what must replace them."
 
 **The Lie:** If the record is complete, justice is possible
 
@@ -370,11 +372,11 @@ This bible dimension tracks **current character states**:
 | Al-Fahim dynasty (Khalil/Tariq) | Inherited duty | Deep | Khalil (great-grandfather) signed the Accords; Tariq (grandfather) carried the legacy and died when Zeyad was 11. Portrait in the Hall, pen in the pocket. |
 | UGC Committee | Institutional | Strained → Hostile | They vote to "monitor"; they prosecute him for leaking |
 
-**Current Arc:** Dutiful Diplomat → Disgraced Whistleblower → Institutional Defendant
-- Current Phase: 2/5 Book 2 (The Mid-Truth)
+**Current Arc:** Dutiful Diplomat → Disgraced Whistleblower → Institutional Defendant → Author of the Replacement
+- Current Phase: 4/5 Book 2 (The Voice — Transformation)
 - B1 Progression: First fracture → back-channel → emergency clause rejected → public statement → prosecution → silence → revocation
-- B2 Progression: Ongoing tribunal (63 sessions) → dead-hand evidence arrives → opens against legal advice → Lagos/FAS alternative model → framework document written → Lie stress-tested
-- Next Step: Phase 3 — Inside the Lagos breach (Ch 31). The hum changes. The alternative model is tested by the event it was designed to prevent.
+- B2 Progression: Ongoing tribunal (63 sessions) → dead-hand evidence arrives → opens against legal advice → Lagos/FAS alternative model → framework document written → belief stress-tested → Lagos breach zone / Mumbai / hum in chest → Mirelle still reporting / three sentences into record / belief dissolved → pen writes the replacement
+- Next Step: Phase 5 — Ch 52 ("Forty Minutes"). UGC vote passes 60-40. NitroCore injunction files in forty minutes. Zeyad watches from the gallery. The replacement document is still being written.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -386,9 +388,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Prosecuted under Article 12, Section 8. Guilty on all five counts. Credentials revoked. Says nothing at tribunal. Pen behind locked door. | The record is public. The institution punishes the recorder. The record changes nothing. |
 
 **Appearances:**
-- Last Appearance: B2 Ch 17 ("The Other Model")
-- Previous: B2 Ch 7, B1 Ch 50, Ch 45, Ch 30, Ch 17, Ch 6
-- Next Planned Appearance: B2 Ch 31 ("Inside the Zone" — Lagos breach)
+- Last Appearance: B2 Ch 42 ("Still Reporting")
+- Previous: B2 Ch 31, B2 Ch 17, B2 Ch 7, B1 Ch 50, Ch 45, Ch 30, Ch 17, Ch 6
+- Next Planned Appearance: B2 Ch 52 ("Forty Minutes" — UGC vote / NitroCore injunction)
 
 **Recent History:**
 - **Ch 6:** Morning routine — walks Hall of Nations, touches Khalil's portrait (daily calibration), collects coffee from commissary. Attends quarterly Accords Compliance Review in Committee Chamber 3. Notes GCTA observer absent 14 months, 3 major extractors filing late, environmental reports unchanged 6 quarters. Dr. Patel mentions Arctic-7 under "security review" (not standard scientific review) — Zeyad detects the classification anomaly. Requests full briefing citing Article 4, Section 2(c); procedurally denied, routed to Classification Directorate pipeline. Returns to office. Discovers "contained" in GCTA briefing p.9 — military vocabulary in civilian assessment. Writes five questions in notebook. Files formal data request. Receives 10-15 business day processing estimate. The practiced smile settles into place; the face beneath it has aged by a fraction.
@@ -414,7 +416,9 @@ This bible dimension tracks **current character states**:
 - New leather notebook (B2 Ch 7) — purchased Rue du Rhône (same shop as pen, 2039); original notebook is Prosecution Exhibit 1
 - Dead-hand package (B2 Ch 7) — NitroCore routing authorizations via Black Babel relay, 3/7 encryption layers resolved, capacity expansion 18 months pre-BLACKWEIR; remaining 4 layers on time-release
 - COURTESY badge (B2 Ch 17) — white laminated, FAS federal crest (green and gold), red COURTESY strip. Third credential in sequence (diplomatic → grey tribunal → white courtesy). Same desk ritual.
-- Framework document (B2 Ch 17) — 6 pages, handwritten, UGC submission via Diallo. Invokes Article 9 Section 4. Structurally inadmissible ("equivalent throughput capacity"). Will be tabled.
+- Framework document (B2 Ch 17) — 6 pages, handwritten, UGC submission via Diallo. Invokes Article 9 Section 4. Structurally inadmissible ("equivalent throughput capacity"). Tabled.
+- Recorder (B2 Ch 42) — personal audio device, purchased Lagos airport day after Anchor Zone formed (Ch 31 timeline). Used to capture Mirelle's continued transmission at 14:37 UTC. Placed before session clerk; retrieved after. Contains Mirelle's voice. Now in the official record.
+- Replacement document (B2 Ch 42) — first line written in observation gallery, Ch 42 close: "What follows is an account of what the Accords were designed to do, what they did instead, and what must replace them." Not institutional language. The pen's first non-institutional sentence in four generations. Document in progress through Ch 52.
 
 ---
 

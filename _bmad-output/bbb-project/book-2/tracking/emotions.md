@@ -787,4 +787,24 @@
 
 ---
 
+### Chapter 42 — "Still Reporting"
+
+**Zeyad Al-Fahim (POV):**
+- **Entering State:** Post-Ch 31. Lagos Anchor Zone formed. Mumbai: 2.3 million dead. Hum in his chest. Pen resumed. Back in New Geneva, observation gallery, grey unlaminated access pass, tribunal ongoing. Ten months of documentation that the institution has not acted on.
+- **Emotional Arc:** Gallery observation (composure holding, institutional routine, the flag worse than before) → hum changes (the body reads it differently now — Lagos memory) → names through the building's systems (the institutional machinery transmitting the dead) → Mirelle's voice (recognition before the signal delivers it; the recorder deployed while the pen stays still) → three sentences into the record (the diplomatic register at maximum compression, the most important thing spoken in the calmest voice) → session resumes in seventeen minutes (the institutional machinery restoring itself) → the belief's dissolution (not a break — a loss of coherence, the way the flag dissolves) → pen writes the replacement's first line.
+- **Dominant Emotion:** Not grief — Zeyad does not produce grief in the register he operates in. The dominant emotional register is the specific quality of a man whose foundational belief has dissolved without breaking — who can still see the institution functioning, the record being kept, the agenda advancing, and who understands for the first time that the record is the institution's terminal function, not its means to an end. The composure holds. The composure has always held. The composure is the architecture. What changes is what the pen writes.
+- **Key Emotional Beat:** "Mirelle." — isolated, one word, one paragraph. The voice he has heard in conference rooms and secure briefings for four years. The voice that stopped transmitting during BLACKWEIR. Present tense. Still dictating. The recognition arrives before the signal delivers it. The pen does not move. The recorder does.
+- **Secondary Beat:** Three sentences into the record. Spoken in the diplomatic register — the same voice that has negotiated tariff schedules and containment protocols for thirty-four years. The most important thing Zeyad says in Book 2, delivered in the calmest register he has. "Let the record show that the Accords have no framework for this."
+- **Tertiary Beat:** "He began to write." — the pen's resumption after three scenes of stillness. Not institutional language. The first line of the replacement document. The pen continues. The function changes.
+- **Exiting State:** Observation gallery. Session continuing below — Item Five. Jordanian flag still dissolving. Hum in the foundation, New Geneva's register. The belief dissolved but not gone — still visible, still functioning, no longer load-bearing. The notebook open to a new page. The pen moving. The replacement beginning.
+- **Emotional Shift from Ch 31:** Ch 31 ends with the hum in his chest — the Lagos Anchor Zone's middle register, the body carrying what the institution cannot process. Ch 42 ends with the pen writing the replacement — the body's function redirected from documentation to construction. The shift is from *carrying* to *building*. Not resolution — the institution is still functioning, the tribunal is still ongoing, the Accords still have no framework. But the pen is writing something new.
+
+**Zeyad Emotional Arc (cumulative B2):**
+- B2 Ch 7: Institutional faith eroding. Dead-hand arrives. Pen writes questions. Closes with the record beginning.
+- B2 Ch 17: Institutional faith stress-tested. FAS alternative proven, framework tabled. Pen writes what will not be adopted.
+- B2 Ch 31: Institutional faith strained. Mumbai. Hum in chest. Pen goes still, resumes. Closes carrying the hum.
+- **B2 Ch 42: Institutional faith dissolved (not broken). Mirelle still reporting. Three sentences into the record. Belief dissolves like the flag. Pen writes the replacement. "He began to write."**
+
+---
+
 _Last updated: 2026-02-21_

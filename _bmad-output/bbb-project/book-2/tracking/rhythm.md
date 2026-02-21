@@ -1415,4 +1415,89 @@ The arc across the four Book 2 chapters: peak intensity escalates (debriefing �
 
 ---
 
+### Chapter 42 — "Still Reporting" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-institutional (gallery, flag, pass) → rising-sustained (hum changes, session stops) → peak (names / Mirelle / transmission) → compressed action (recorder, checkpoint, clerk) → decompressing-contemplative (session resumes, belief dissolves, pen moves)
+**Pacing:** Front-weighted build, compressed center action, extended contemplative close. The chapter's energy does not discharge — it redirects.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Gallery — flag, pass, session, hum | ~900 | Low-institutional | Slow, object-driven, credential register |
+| Hum changes — names — Mirelle | ~1,100 | Rising → peak | Paratactic, compressed, building to Mirelle's voice |
+| Recorder — checkpoint — clerk — three sentences | ~700 | Medium-compressed | Procedural action, diplomatic register at maximum compression |
+| Session resumes — belief dissolves — pen moves | ~1,100 | Decompressing → quiet | Contemplative, long sentences, flag simile, closing redirect |
+
+**Tension Map (approximate % through chapter):**
+| Beat | Position | Tension Delta |
+|------|----------|---------------|
+| Jordanian flag — "worse" | 0–5% | Low-institutional baseline |
+| Grey pass degradation | 5–12% | Flat |
+| Session below — item four | 12–20% | Flat |
+| Hum carries Lagos memory | 20–25% | +1 (sensory register shift) |
+| "The hum changed at 14:37 UTC." | 30% | +3 (pivot line) |
+| Not gradually — one movement | 30–35% | +2 (negation-before-assertion) |
+| Session stops / systemic interrupt | 35–40% | +3 |
+| Names through speaker system | 40–48% | +3 |
+| "Mirelle." (isolated) | 50% | +5 (peak) |
+| Transmission content — still dictating | 50–58% | +5 (sustained peak) |
+| "The transmission stopped." | 58% | −4 (hard cut) |
+| Hands on railing — pen not reached | 58–63% | −2 |
+| Recorder deployed | 63% | +1 (action pivot) |
+| Unattended checkpoint | 65–68% | +1 |
+| Three sentences into record | 70–75% | +3 (diplomatic register at maximum compression) |
+| "Thank you." / clerk types | 75% | −2 |
+| Session resumes — seventeen minutes | 78% | Flat-institutional |
+| Record inventory | 80–85% | +1 (accumulation) |
+| Belief dissolves — flag simile | 85–90% | +2 (quiet weight) |
+| Pen still / pen moves | 90–95% | +2 |
+| "He began to write." | 100% | Quiet close |
+
+**Transitions:**
+- Scene 1 → Scene 2: "The hum changed at 14:37 UTC." — hard pivot, no preparation. The institutional furniture becomes the delivery mechanism.
+- Scene 2 → Scene 3: "His pen was in his breast pocket. He did not reach for it. / He reached for his recorder." — the pen's non-deployment is the transition. The recorder replaces the pen as the action object.
+- Scene 3 → Scene 4: Return to gallery seat. No scene break — the chapter does not mark the return dramatically. The institutional routine reasserts itself.
+- Scene 4 → close: No scene break. The belief's dissolution flows into the pen's resumption flows into "He began to write." The chapter does not end — it redirects.
+
+**Flow Scores:**
+| Component | Score |
+|-----------|-------|
+| Voice consistency | 10/10 |
+| Tension variation | 9/10 |
+| Scene transitions | 9/10 |
+| Dialogue integration | 10/10 |
+| Closing weight | 10/10 |
+| **Overall** | **9.6/10** |
+
+**Action/Reflection Balance:** 25% action (recorder deployment, checkpoint transit, clerk statement) / 75% reflection (gallery observation, hum tracking, belief inventory, closing contemplation). Consistent with Zeyad's established ratio — the reflection is where the chapter lives.
+
+**Pacing Strengths:**
+- The transmission section is the chapter's most compressed — paratactic, short sentences, Mirelle's voice arriving mid-sentence. The reader feels the recognition the way Zeyad feels it: before the signal delivers it, the voice is already known.
+- The three sentences into the record are the chapter's only substantial dialogue. Delivered in the diplomatic register — the same voice that negotiates tariff schedules, now speaking the most important thing into the official minutes. The register's composure is the weight.
+- "He began to write." — three words. The quietest close in the Zeyad thread. The pen's resumption is not triumph. It is the redirect.
+
+**Pacing Concern:**
+- The belief's dissolution section (Scene 4, ~600 words) risks feeling like thematic statement rather than scene. Mitigated by the flag simile — the dissolution is grounded in the chapter's central object, not in abstract declaration. The belief dissolves the way the flag dissolves: visibly, continuously, without resolution.
+
+**Comparison to Plan:** Mode TEXTURE confirmed. The chapter delivers the Voice through the Hall of Nations' institutional infrastructure — the correct register for Zeyad's position. The building amplifies what it receives. The building does not differentiate.
+
+**Comparison to Previous Zeyad Chapters:**
+| Chapter | Words | Mode | Peak | Close |
+|---------|-------|------|------|-------|
+| B2 Ch 7 | ~4,100 | TEXTURE | Dead-hand arrives (high) | Pen writes questions |
+| B2 Ch 17 | ~4,200 | TEXTURE | Framework document (medium) | Pen writes the alternative |
+| B2 Ch 31 | ~4,000 | TEXTURE | Mumbai / hum in chest (high) | Pen still, then resumes |
+| B2 Ch 42 | ~4,800 | TEXTURE | Mirelle's voice (maximum) | Pen still (three scenes), then writes the replacement |
+
+The arc across the four Book 2 chapters: peak intensity escalates (dead-hand → framework → Mumbai → Mirelle). The close tracks the pen: questions → alternative → still/resumes → replacement. Ch 42's close is the most consequential — not because the pen moves but because what it writes is not institutional language.
+
+**Zeyad Arc Rhythm (cumulative B2):**
+- B2 Ch 7: TEXTURE. Tribunal-driven. Dead-hand arrives. Pen writes questions. Closes with the record beginning.
+- B2 Ch 17: TEXTURE. Lagos-driven. FAS alternative observed. Framework document written. Closes with the pen writing what will be tabled.
+- B2 Ch 31: TEXTURE. Breach zone. Mumbai. Hum in chest. Pen goes still during Mumbai, resumes. Closes with the hum in his chest.
+- **B2 Ch 42: TEXTURE. Voice through building systems. Mirelle still reporting. Recorder captures her. Three sentences into the record. Belief dissolves like the flag. Pen writes the replacement's first line. "He began to write."**
+
+---
+
 _Last updated: 2026-02-21_
