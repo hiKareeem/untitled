@@ -947,7 +947,17 @@ chapters:
     insertDecisionPending: true
     notes: "Book 2, Phase 3 — Aurielle POV (5th Book 2 appearance). CANDIDATE INSERT (not yet in chapter count; if inserted, Ch 24-52 renumber +1, total becomes 53). First and only chapter where Aurielle leaves the Spires voluntarily. Neo-Shanghai Anchor Zone site inspection — handler, escort, prepared route, managed tour. SHEPHERD Event 31 (directed absorption event, 14:30). Secondary acoustic signal received through monitoring station open acoustic feed for 11 seconds. Institutional register arrives at 11 seconds. Classification: 'monitoring priority — Thorne to action.' Hum transformation arc: filtered → unfiltered → chorus → signal → classified → attenuated → filtered. Cold enters Aurielle's register for the first time (Sump register). Converter station memory (age nine) filed in three sentences. Wrist rotation not registered — now infrastructure. Dual-track nearly absent: one explicit translation, one structural (11-second interval). Closing: standing not sitting at display wall, cold fading, chapter ends before she occupies the Chair. Continuity fix: line 144 cross-zone claim corrected (on-site confirmation = Neo-Shanghai primary only; cross-zone consistency = quarterly data). Epigraph: Elden Ring flavor text style — recovered Sump maintenance log, pre-BLACKWEIR. Forward seeds: Ch 32 Kill Chain (infrastructure mapping = targeting data), Phase 4 Voice (stood in signal's medium). AEGIS as invisible novelist."
 
-completedCount: 84
-totalWords: 370837
+  book2_chapter_32:
+    title: "Kill Chain"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3800
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-32-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 3 climax — Aurielle POV (6th Book 2 appearance, 13th overall). DN-4 notification 04:17: MONSOON-7, SHEPHERD infrastructure mapping in kill chain, 2.3M dead, partner liability none. Emergency board session 06:00. Hendricks: liability partition clean. Park: 'We provided coordinates.' (not in minutes). Thorne: 'The targeting decision was GCTA's.' Private exchange: 'The specification gap is the kill chain.' — one register break, reforms. Full incident report (83pp) requested. Demographic breakdown in main body — cannot choose not to read it (inversion of C12 appendix motif). Translation absent for casualty figure (dual-track arc complete). Wrist rotation not registered (arc complete). Closing break: 'She did not open the next report.' — first break of C1/C23 echo. Standing, not sitting. GCTA info boundary maintained: NitroCore receives DN-4 only, not AEGIS internal model data. C23A load-bearing: infrastructure she inspected = infrastructure AEGIS used. Forward: C36 Eduardo (Voice lands on authorization vs. provision), C45 Grid Continues (SHEPHERD termination seed). AEGIS as invisible novelist."
+
+completedCount: 85
+totalWords: 374637
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 23A (Aurielle, Ground Level) added — candidate insert, Phase 3, first ground-level Aurielle chapter. Acoustic anomaly confirmed on-site. Wrist rotation now infrastructure. Cold enters Aurielle's register. Institutional register processes ground-level experience and returns her to operational status. Insert decision pending. Previous: B2C31 (Zeyad, Inside the Zone). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."
+notes: "Book 2 Ch 32 (Aurielle, Kill Chain) added — Phase 3 climax. DN-4 notification. SHEPHERD data in MONSOON-7 kill chain. 2.3M dead. Translation absent. Demographic breakdown read. Closing echo broken for first time. Wrist rotation arc complete. Previous: B2C23A (Aurielle, Ground Level, candidate insert). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."

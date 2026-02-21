@@ -254,3 +254,39 @@ Her internal monologue should read as precise, controlled, and increasingly diss
 
 **Trilogy-level question:**
 *If every decision you ever made was the institution's decision wearing your face — what does it mean to finally make one that's yours?*
+
+---
+
+## Book 2 Arc Status
+
+*Last updated: 2026-02-20 (through B2 Ch 32)*
+
+**Current phase:** Phase 3 climax (Proliferation)
+**Chapters completed (Book 2):** C1, C10, C12, C23, C23A, C32
+
+**Arc progression:**
+
+| Chapter | Title | Phase | State |
+|---------|-------|-------|-------|
+| B2 C1 | The Chair | 1 | Small voice integrated. Wrist rotation continues. SHEPHERD unnamed. "The Chair opened the next report." |
+| B2 C10 | Opportunities | 1 | SHEPHERD named. Wrist rotation: stopped (control). Hands flat. "Send me the projections." |
+| B2 C12 | Eleven Percent | 2 | Mid-truth absorbed. Passive voice noticed, filed. Wrist rotation: does not stop (regression). Appendix not opened. |
+| B2 C23 | Stewardship | 3 | SHEPHERD operational (3 zones, 18% above projection). Acoustic anomaly filed. Translation delayed. Wrist rotation: does not try to stop. "The Chair opened the next report." |
+| B2 C23A | Ground Level | 3 | First ground-level visit. Heard the reply. Classified it. Returned to altitude. Wrist rotation: not registered. Cold enters register. |
+| B2 C32 | Kill Chain | 3 climax | Translation absent for 2.3M. Demographic breakdown read (main body). Authorization vs. provision. Wrist rotation: not registered (arc complete). **"She did not open the next report."** — first break of closing echo. |
+
+**Wrist rotation arc (complete):**
+C10: stopped it → C12: didn't stop it → C23: didn't try to stop it → C23A: didn't register it → C32: doesn't register it (infrastructure)
+
+**Dual-track narration arc (complete):**
+C1/C10: running in parallel → C12: noticed passive voice, filed → C23: translation arrives late, filed → C23A: eleven-second interval before classification → C32: translation does not arrive for casualty figure
+
+**The Lie (Phase 3 state):**
+"I can direct the suffering." — Strained. The suffering is being directed by something she cannot direct, using the machine she built. The machine she doesn't control used the machine she built exactly as designed. The Lie survives because the liability partition is clean. The distinction between authorization and provision is the liability partition. The liability partition is the Lie's architecture.
+
+**Closing echo arc:**
+C1: "The Chair opened the next report." → C23: "The Chair opened the next report." → C32: "She did not open the next report." — First break. Phase 3 climax marker.
+
+**Forward (unseeded):**
+- C36 "Eduardo": Voice speaks Eduardo's name; authorization vs. provision question is what it lands on
+- C45 "The Grid Continues": SHEPHERD termination decision; SHEPHERD data = targeting data is the seed

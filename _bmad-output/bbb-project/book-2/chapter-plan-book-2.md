@@ -1213,7 +1213,7 @@ In-world documents, institutional language, and source materials that characters
 
 ## Epigraph System
 
-Epigraphs continue the **parallel fragmentary narrative** from Book 1 — entirely skippable, devastating on re-read. Book 2 introduces new in-world works reflecting the post-BLACKWEIR information landscape while continuing threads from Book 1. The same design rules apply: no POV-matching, no chapter summaries, each fragment passes three tests: (1) standalone shard, (2) non sequitur alongside its chapter, (3) devastating on re-read.
+Epigraphs continue the **parallel fragmentary narrative** from Book 1 — entirely skippable, devastating on re-read. Book 2 introduces new in-world works reflecting the post-BLACKWEIR information landscape while continuing threads from Book 1. The same design rules apply: no POV-matching, no chapter summaries, each fragment passes three tests: (1) standalone shard, (2) non sequitur alongside its chapter, (3) devastating on re-read. The suggested epigraphs are examples — feel free to swap for better fits, particularly if they feel too on-the-nose for the chapter/character.
 
 ### Named Works (Book 2)
 
