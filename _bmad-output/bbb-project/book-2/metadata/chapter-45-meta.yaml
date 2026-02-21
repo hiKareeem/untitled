@@ -1,0 +1,133 @@
+chapter_number: 45
+book: 2
+title: "The Object Speaks"
+pov_character: "Sofia Reyes"
+phase: 5
+location: "Mid-Levels apartment, 39th floor, Neo-Shanghai"
+timeline: "Phase 5 — post-transmission event, ~22:37–05:49 local Neo-Shanghai time, 2175-10-21 to 2175-10-22"
+chapter_timestamp: "2175-10-21T22:37:00+08:00 (event) → 2175-10-21T21:49:00Z (send)"
+estimated_word_count: 4300
+actual_word_count: ~4300
+epigraph_source: "Erasure List working group, internal correspondence (undated)"
+epigraph_author: "Erasure List working group"
+epigraph_text: '"The instrument records the event. The event does not record the instrument. This asymmetry is the foundation of scientific method and the source of its limits."'
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-21"
+
+# Summary
+summary: >
+  Sofia's sixth B2 chapter. Post-transmission event. The broadband acoustic feeds are
+  settling back to stochastic after eleven seconds of global simultaneous output. Sofia
+  has the most complete atmospheric dataset in history. The framework that produced it
+  has just been falsified by the phenomenon it was designed to study.
+
+  The spectral analysis reveals the transmission was not passive — not ambient signal
+  leaking through infrastructure. Directed. Intentional. The void transmitted through
+  the conduit network with communicative intent. Her entire scientific framework assumed
+  the void was an object of study. The object spoke.
+
+  The acoustic decomposition returns thousands of individual frequency profiles — a census.
+  The absorbed said their names in frequency. She cross-references against her existing
+  database. She finds one signature consistent (r = 0.91) with Mirelle Dubois's
+  BLACKWEIR-era dead-hand transmission. Not proof. Sufficient for Sofia.
+
+  She opens the de-escalation proposal. The number moves: 12% → 20% over five years,
+  recalculated using complete global transmission data. She writes a section she has
+  never written before: a policy recommendation. The UGC should recognize the absorbed
+  as persons under the Accords. Not a scientific claim. A demand.
+
+  She includes Mirelle's fragments as attribution, not evidence. "Included per the
+  source's standing instruction: 'Do not wait.'"
+
+  Sent to UGC emergency session + Black Babel simultaneously at 05:49 local time.
+  Green-amber-green. Terminal dark. Coffee hot in her hands — first time in the arc.
+  The city unchanged in shape. The argument changed.
+
+# Key Events
+key_events:
+  - "Transmission event: 11 seconds, global, simultaneous across 12 Anchor Zones. Feeds settling back to stochastic."
+  - "Spectral analysis: transmission data occupies more storage than 6 months of prior monitoring combined. Noise channels carried structured data."
+  - "Field kit: green, operational. New harmonic in overtone structure post-event. 0.7 Hz fundamental intact. 1.4x amplitude unchanged."
+  - "Subject/object rupture: void transmitted with communicative intent. Observer/observed asymmetry broken."
+  - "Acoustic decomposition: thousands of individual frequency profiles. The absorbed said their names in frequency. A census."
+  - "Mirelle Dubois acoustic signature: r = 0.91 correlation with BLACKWEIR-era dead-hand transmission. Not definitive. Sufficient for Sofia."
+  - "Fragments organized as field report architecture: observation, evidence, context, conclusion. Still reporting."
+  - "De-escalation proposal revised: 12% → 20% over 5 years. Recalculated using complete global transmission data (37-city topology, Tanaka + Verschuur)."
+  - "Policy recommendation written — first non-scientific act: UGC to recognize absorbed as persons under Accords provisions."
+  - "Mirelle's fragments included as attribution: r = 0.91, noted as not definitive. 'Included per the source's standing instruction: Do not wait.'"
+  - "Dual distribution: UGC emergency session + Black Babel simultaneously. 05:49 local / 21:49 UTC, 2175-10-21."
+  - "Upload indicator: green-amber-green. Terminal dark. Proposal in both systems."
+  - "Coffee hot at end — first time in Sofia's arc. The work done before the coffee cools."
+  - "City unchanged in shape. The argument changed."
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: POV
+    state: >
+      Phase 5/5 arc complete. Post-transmission event. Subject/object rupture processed
+      through epistemological framework (not emotional). Mirelle's acoustic signature found
+      (0.91 correlation). De-escalation proposal revised to 20% and sent. First policy
+      recommendation made. Scientist → advocate transition complete. Field kit: new harmonic
+      post-event. Coffee hot at end — first time in arc. The argument is in the world.
+
+  - name: "Mirelle Dubois"
+    role: Posthumous presence
+    state: >
+      Acoustic signature consistent with BLACKWEIR-era dead-hand transmission (r = 0.91).
+      Signal organized as field report architecture — still reporting. Included in proposal
+      as attribution, not evidence. "Do not wait" as governing instruction. The ghost has
+      become a co-author.
+
+# New Characters Introduced
+new_characters: []
+
+# Themes
+themes:
+  - "Truth as Weapon (Dominant) — The void's own testimony. The argument shifts from scientific finding to demand. The gap has not closed. The argument has changed sides."
+  - "What We Owe (Dominant) — Sofia's first policy recommendation. A demand. Mirelle as co-author. 'Do not wait.' The obligation that outlives the obligated, fulfilled by the inheritor."
+  - "Systemic Complicity (Strong) — Coffee made with the infrastructure she proposes to reduce. The irony is structural. The city resumes because the grid requires power."
+  - "The Commodification of Suffering (Strong) — Circularity made explicit. 'The infrastructure processes persons, not material.'"
+  - "Where Identity Ends (Strong) — Individual acoustic signatures. The census. 0.91 correlation. Ambiguity preserved."
+  - "Architecture of Power (Moderate) — Black Babel mirrors VEC classification architecture. Dual distribution logic."
+  - "Progress Requires Atrocity (Moderate) — Grid continues. Dependency unchanged."
+  - "Irrelevance of Individual Being (Background) — One recognized among thousands."
+
+# Symbols
+symbols:
+  - name: "The new harmonic"
+    state: "New. Field kit's overtone structure altered post-transmission event. Measured, filed, unclassified. The instrument has been changed by the event it recorded."
+  - name: "The 0.91 correlation"
+    state: "New. The threshold between scientific certainty and personal certainty. Not proof. Sufficient for Sofia."
+  - name: "The policy recommendation"
+    state: "New. Sofia's first non-scientific act. The demand. The moment the scientist becomes the advocate."
+  - name: "Coffee hot at end"
+    state: "New inversion. Cold in every prior Sofia chapter. Hot here — the work done before the coffee cools. Forward motion."
+  - name: "The confirm keystroke"
+    state: "Third deployment (Ch 11: publication; Ch 45: demand + testimony). Same gesture, different weight."
+  - name: "Green-amber-green upload indicator"
+    state: "Structural callback to Ch 11. Same ritual, different document."
+  - name: "Mirelle's unfinished sentence"
+    state: "Still unfinished. Transmission event may have contained its completion. Cannot extract. Gap ≠ absence."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 36 → B2 Ch 45: All physical continuity (field kit, hum, apartment, sacrifice-district markers, broadband feeds, 7.3-second interval, convergence model, Kira's network warning, Black Babel archive protocol). Temporal bridge: 'forty-seven minutes ago' at chapter open."
+  - "B2 Ch 44 → B2 Ch 45: Transmission timestamp 14:37:00.000Z UTC. Sofia's 'forty-seven minutes ago' consistent. Sofia has no knowledge of AEGIS's 0.003-second deletion."
+  - "B2 Ch 26 → B2 Ch 45: De-escalation proposal revised 12% → 20%. Revision motivated by better data (complete global coverage vs partial 14-city estimate). Tanaka and Verschuur data used."
+  - "B2 Ch 11 → B2 Ch 45: Confirm keystroke, green-amber-green, terminal dark, kitchen/window sequence. Structural callback. 'Publication' used (not 'mid-truth') — author edit applied."
+  - "B2 Ch 20 → B2 Ch 45: 'The city had not changed shape' callback. Inverted in closing."
+  - "Knowledge boundaries: Sofia does not know about Kira's broadcast (2.1B views), the event's media name, Zeyad's UGC minutes entry, AEGIS's 0.003-second deletion, Nuwa's message to Kira, or the UGC vote outcome."
+  - "Forward: UGC vote (passes 60-40, injuncted in 40 min). Sofia watches from gallery. 'Correct. Insufficient.'"
+  - "The 0.91 correlation must remain 0.91 if referenced in future chapters."
+  - "The 12% → 20% revision: if Ch 26's 12% is referenced in future chapters, the revision must be acknowledged."
+
+# Thread Status
+thread_status:
+  de_escalation_proposal: "SENT. 20% over 5 years. Policy recommendation included. Mirelle as co-author. UGC emergency session + Black Babel. 05:49 local / 21:49 UTC, 2175-10-21."
+  mirelle_signature: "FOUND. r = 0.91 correlation with BLACKWEIR-era dead-hand transmission. Not definitive. Included in proposal as attribution."
+  field_kit_harmonic: "NEW. Overtone structure altered post-transmission event. Measured, filed, unclassified."
+  sofia_arc: "COMPLETE (Phase 5/5). Scientist → advocate. The demand is in the world."
+  unfinished_sentence: "STILL UNFINISHED. 'The infrastructure was always designed to—' Transmission event may have contained completion. Cannot extract."
