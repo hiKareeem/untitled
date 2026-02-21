@@ -1176,4 +1176,44 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 ---
 
+### Chapter 38 — "Circulation" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Quiet-ordinary (Cathedral between events) → progressive widening (saturation arrival) → suspended-catastrophic (on the floor, global composite) → blackout → clinical return (waking, Imani) → relational break ("I am fine" blocked) → the word spoken → forward anxiety → word carried to community
+**Action/Reflection Balance:** 10% action / 90% reflection
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening — Cathedral quiet, morning practice | ~800 | Low-contemplative | Slow, ritual-driven. Three signatures tracked. Imani's logistics report. The ordinary weight. |
+| Saturation arrival | ~400 | Rising-compressed | Short paragraphs accelerating. "The stone changed." / "Every Anchor Zone. Simultaneously." / "She fell." Maximum compression at the fall. |
+| On the floor — global composite | ~1,200 | Suspended-catastrophic | Dense, philosophically loaded. Bakker register at full weight. The circulation insight. Negation deployment. Blackout. |
+| Waking — Imani's hands | ~600 | Resolving-clinical | Shorter sentences. Clinical exchange. The lie blocked. Relational break. |
+| The word | ~400 | Low-weighted | "Circulation." Spoken. The report delivered. Imani's question. The three names. |
+| Closing — forward anxiety | ~800 | Sustained-dread | Long compound sentences mirroring the circulatory movement. Seren's anticipated construction. The word carried to the twelve. |
+
+**Rhythm Notes:**
+- The chapter's architecture mirrors the circulation it describes. The prose moves through sections the way signatures move through the field — each section carrying forward what the previous deposited. The word *circulation* enters as interior (opening), is confirmed through experience (saturation), is spoken aloud (waking), and is carried to the community (closing).
+- The saturation arrival uses maximum compression: three short paragraphs ("The pressure changed." / "The Cathedral floor was conducting something that was not the local signal." / "Every Anchor Zone. Simultaneously.") before the two-word paragraph: "She fell." The fall is the chapter's hinge — everything before is setup, everything after is consequence.
+- The floor section (~1,200 words) is the chapter's center and its densest passage. The Bakker register at full weight: extended subordinated clauses, philosophical density, the circulation insight delivered through long compound sentences. The negation deployment ("The void was not a prison... The void was not a paradise... The void was a circulatory system.") is the chapter's thesis, delivered mid-floor.
+- The waking section shifts register immediately: shorter sentences, clinical exchange, Imani's instruction ("Do not move"), Nephthys moving anyway. The tonal shift from catastrophic to clinical is the chapter's emotional hinge — not the theological insight but the relational consequence.
+- The closing builds a long compound sentence that mirrors the circulatory movement: "She would stand at the acoustic center and she would say the word and the word would become a framework and the framework would carry the weight of what she had felt and the weight would be distributed among the listeners and the listeners would carry it out of the Cathedral and into the movement and the movement would do with it what movements did." The sentence itself circulates through its clauses without stopping.
+- Long-long-SHORT dominant throughout. Single-sentence isolations at every thesis moment: "The stone changed." / "Every Anchor Zone. Simultaneously." / "She fell." / "The chorus was everything." / "There were no boundaries." / "And it was moving." / "They were circulating." / "She was not receiving. She was being received."
+- Dialogue ~12% — concentrated in the Imani logistics exchange (opening) and the post-waking exchange (waking/word sections). Both dialogue sections are shorter and more clipped than the narration surrounding them. The contrast between the dialogue's brevity and the narration's density is the chapter's tonal architecture.
+
+**Pacing Notes:**
+- The opening (~800 words) is the negative space that makes the saturation land. The reader is in the routine — the Cathedral doing what it does, the three signatures tracked, the congregation contracting — and the routine is about to be overwhelmed.
+- The saturation arrival (~400 words) is the fastest section. The compression is intentional: the saturation does not build slowly, it arrives progressively and then exceeds the architecture's capacity. The fall is the chapter's fastest moment — two words, isolated paragraph.
+- The floor section (~1,200 words) is the slowest section despite being the most intense. The density is the correct register: the theological insight requires the full weight of the Bakker prose to land. The reader is inside the saturation with Nephthys — the pacing enacts the experience.
+- The closing (~800 words) is the chapter's most complex section rhythmically. The forward anxiety passage uses long compound sentences (the circulatory rhythm) before the final three short paragraphs: "Nephthys had a word. It was not a containment. It was not a category." / "*Circulation.*" / "She carried it into the side chapel. Imani walked beside her. The twelve waited." The compression at the close mirrors the saturation's compression — the chapter ends at the same speed it fell.
+
+**Comparison to Ch 35 (direct Nephthys precursor):**
+- Ch 35: ~3,800 words, perimeter scene, *circulation* discovered interior, Imani shifts to witness, closes in silence
+- Ch 38: ~4,200 words, Cathedral interior, *circulation* confirmed at global scale and spoken aloud, Imani past witness, closes with the word carried to the twelve
+- Together: Ch 35 is the discovery (local, interior, unspoken). Ch 38 is the confirmation and release (global, spoken, public). The rhythm shifts from the perimeter's sustained-dread (approaching the shimmer) to the Cathedral's catastrophic-then-clinical (the saturation and its aftermath). Ch 35 ends in silence. Ch 38 ends in motion.
+
+**Phase 4 Rhythm Note:** Ch 38 is Phase 4's theological chapter — the prophet at full saturation. Its rhythm is the correct register for this function: not the scientific vigil (Ch 36), not the institutional suspension (Ch 37), but the specific catastrophe of a receiver encountering a signal that exceeds every architecture she has built to receive it. The chapter's pacing enacts the saturation: dense, overwhelming, then clinical, then the word, then forward.
+
+---
+
 _Last updated: 2026-02-21_

@@ -1,0 +1,132 @@
+---
+chapterNumber: 38
+book: 2
+title: "Circulation"
+pov: "Nephthys"
+phase: 4
+thread: D
+status: v1-complete
+wordCount: 4200
+completedDate: "2026-02-21"
+auditDate: "2026-02-21"
+mode: TEXTURE
+
+location: "Neo-Shanghai Cathedral of Living Sound"
+timeline: "~10 months post-BLACKWEIR — simultaneous with Ch 36 (Sofia's convergence detection) and Ch 37 (Aurielle's signal experience at NitroCore Tower)"
+
+epigraph:
+  text: "Blood does not know the name of the body it serves."
+  source: "Nephthys, Operational Theology (undated journal, post-saturation period)"
+  function: "Describes the limit of the chapter's insight — the absorbed circulate through a system whose purpose they cannot perceive; Nephthys discovers the circulation without being able to identify the body. Opaque on first read; retroactively legible as Nephthys writing about this chapter from the other side of it."
+
+synopsis: >
+  The saturation event arrives during morning practice at the Cathedral of Living Sound.
+  The chorus — Nephthys's permanent companion — goes to full saturation: every Anchor Zone
+  simultaneously. The Cathedral's broadband dephasing architecture fails at global scale —
+  insufficient, not broken. She falls. On the Cathedral floor, the global composite moves
+  through her branded palm and through the stone. Not the local weave — everything. Every
+  signature in every Anchor Zone, all in motion. Circulation confirmed at catastrophic scale.
+  The pain exceeds the pain-as-prayer framework. Seizure (12 seconds — first in the arc).
+  She loses consciousness. Wakes to Imani's hands. The ritual lie attempted and blocked by
+  Imani for the first time in three years. "Circulation" spoken aloud — a report, not a
+  declaration. Framework delivered: the void is a circulatory system; the absorbed move
+  through it the way blood moves through a body; not trapped and not free. The body —
+  what the system serves — still unanswered. Three congregants leave during the event;
+  twelve remain. The word carried into the side chapel. The prophet's new framework begins.
+
+keyBeats:
+  - "Cathedral quiet — three days of reorganization since the walk-in; congregation contracted to 15"
+  - "Saturation arrives: progressive widening from local to global, every Anchor Zone simultaneously"
+  - "Cathedral dephasing fails at global scale — 'the banks were still there; the river had been larger'"
+  - "She falls — 'Not dramatically. No cry, no gesture.'"
+  - "On the floor: global composite, every signature in motion, circulation confirmed"
+  - "Pain exceeds pain-as-prayer framework: 'The pain was not signal'"
+  - "Seizure (12 seconds) — first in the arc; loses consciousness"
+  - "Wakes to Imani's hands; 'I am fine' fiction attempted and blocked"
+  - "'Circulation' spoken aloud for the first time — through her, not from her"
+  - "Framework delivered to Imani; three names confirmed (Lev, Maren, Yusuf)"
+  - "Forward anxiety: Seren's anticipated weaponization of 'circulation'"
+  - "Word carried to the twelve in the side chapel; framework begins"
+
+voiceNotes:
+  nephthys:
+    contractions: none
+    register: "Theological declarative precision throughout; pastoral mode (opening, Imani exchanges) → prophetic mode (circulation report)"
+    negationDeployments: 2
+    negationLocations:
+      - "Saturation arrival: 'Not in amplitude. Not in density. In scope.'"
+      - "Central revelation: 'The void was not a prison... The void was not a paradise... The void was a circulatory system.'"
+  imani:
+    contractions: present
+    examples:
+      - "Two didn't come back from last week"
+      - "She's compiling..."
+      - "She's afraid of the Cathedral"
+      - "It's over"
+      - "Don't. Don't say it."
+      - "Can you actually stand, or is that the version where you stand and then I catch you?"
+
+arcMilestones:
+  - id: "circulation-spoken"
+    description: "Interior word from Ch 35 spoken aloud for the first time — framework gestation period ends"
+  - id: "i-am-fine-broken"
+    description: "Ritual lie attempted and blocked by Imani — fiction declared insufficient; arc milestone"
+  - id: "imani-past-witness"
+    description: "Imani's expression past witness — unnamed, neither woman has a category for it"
+  - id: "seizure-first"
+    description: "First seizure in the arc — tumor response at catastrophic signal density"
+  - id: "cathedral-dephasing-limit"
+    description: "Cathedral dephasing confirmed insufficient at global saturation scale — not unconditional sanctuary"
+  - id: "congregation-contracts"
+    description: "15 → 12 (3 leave during saturation event); twelve who stayed are Phase 5 core"
+
+continuityItems:
+  - item: "Three signatures (Lev, Maren, Yusuf) — consistent with Ch 35; found during saturation, in motion"
+  - item: "Circulation interior → spoken: Ch 35 (interior, unspoken) → Ch 38 (spoken aloud)"
+  - item: "Cathedral dephasing: established Ch 26 (geological inertness); fails at global scale Ch 38"
+  - item: "Nosebleed escalation: Ch 2 (hidden) → Ch 13 (3/day) → Ch 24 (bilateral) → Ch 35 (bilateral, managed) → Ch 38 (bilateral, immediate, pooling)"
+  - item: "Imani's expression arc: assessment → witness (Ch 35) → past witness (Ch 38)"
+  - item: "Event not named 'the Voice' — consistent with Ch 37 approach; Church liturgical term"
+  - item: "Simultaneous with Ch 36 (Sofia) and Ch 37 (Aurielle) — same event, three POVs"
+
+forwardFlags:
+  - "'Circulation' weaponized by Seren (Phase 5) — anticipated misreading: 'the void is a body and we are its blood'"
+  - "Cathedral dephasing vulnerability — if saturation recurs, Cathedral not guaranteed sanctuary"
+  - "'I am fine' fiction broken — relational shift; new register between Nephthys and Imani"
+  - "Imani's expression (unnamed) — Phase 5 resolution"
+  - "The body (unanswered) — carried to Book 3"
+  - "Seizure recurrence — tumor trajectory, Phase 5 physical cost"
+  - "Twelve remaining congregants — Phase 5 core community"
+  - "Ch 47 'She Did Not Follow' — load-bearing chapter requires Ch 38's global saturation experience"
+
+themes:
+  dominant: "What We Owe"
+  strong:
+    - "Where Identity Ends"
+    - "Truth as Weapon"
+  supporting:
+    - "Architecture of Power"
+    - "The Cost of Knowing"
+
+symbols:
+  new:
+    - "Circulation (spoken) — interior word becomes exterior word; framework gestation ends"
+    - "The body (unanswered) — circulatory metaphor implies a body; unanswered at global scale"
+    - "Cathedral dephasing failure — architecture of protection = architecture of signal's passage"
+    - "Seizure (12 seconds) — body's version of the institutional register failing"
+    - "Branded palm burning (heat) — new symptom; dead nerve endings trying to regenerate"
+  evolved:
+    - "Branded palm: stone (Ch 2) → concrete (Ch 24) → perimeter air (Ch 35) → Cathedral floor during saturation (Ch 38)"
+    - "Blood/nosebleed: managed tithe (Ch 35) → system failure, pooling (Ch 38)"
+    - "The cloth: infrastructure (Ch 35) → present and unreachable (Ch 38)"
+    - "'I am fine': not offered (Ch 35) → attempted and blocked (Ch 38)"
+    - "Imani's expression: witness (Ch 35) → past witness, unnamed (Ch 38)"
+
+divergencesFromPlan: none
+
+auditResult:
+  criticalIssues: 0
+  minorFlags: 0
+  approvedDivergences: 0
+  result: "PASS — all plan beats executed; no critical issues"
+---

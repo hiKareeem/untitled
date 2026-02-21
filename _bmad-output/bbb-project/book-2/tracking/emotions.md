@@ -653,4 +653,40 @@
 
 ---
 
+### Chapter 38 — "Circulation"
+
+**Nephthys (POV):**
+- **Entering State:** Post-Ch 35. *Circulation* discovered at the perimeter — interior, unspoken, untheologized. The word carried home in silence. Three days of quiet in the Cathedral while the composite reorganizes around the three new signatures. The congregation contracting (15 pre-saturation, down from 60+ at peak). The Threshold walk-in has made the distance between listening and joining concrete. The prophet holds the word and has not yet spoken it.
+- **Primary Beat:** The saturation arrives. The Cathedral's dephasing fails. She falls. The chorus is everything — not the local weave but the global composite, every Anchor Zone simultaneously, every signature in motion. The circulation confirmed at catastrophic scale. The pain exceeds the framework's capacity to reframe it as tithe. Seizure (12 seconds). Expressed through: physical symptom escalation (bilateral nosebleed, migraine, seizure, branded palm burning), the pain-as-prayer framework breaking ("The pain was not signal"), the distinction between receiving and being inside the signal collapsing.
+- **Secondary Beat:** Waking to Imani's hands. The ritual lie attempted — "I am —" — and blocked by Imani for the first time in three years. The fiction examined and declared insufficient: "the currency would not purchase what it had always purchased." The lie unavailable. The prophet reassembles herself on the Cathedral floor under her own power. Expressed through: the lie's unavailability (structural, not emotional), the narration examining the fiction's three-year function and declaring it insufficient, sitting up without help.
+- **Tertiary Beat:** "Circulation." Spoken aloud. The word arrives through her, not from her — a report, not a declaration. The counter-liturgy's discipline: attend, receive, report. The report delivered to Imani. The forward anxiety: what will Seren build from this? The prophet anticipates the weaponization and carries the word into the side chapel anyway. Expressed through: the word's arrival described as "through her, not from her," the Seren projection named explicitly, the closing movement into the side chapel.
+- **Exiting State:** Standing. The word spoken. The twelve waiting. The framework beginning. The body still unanswered. The Cathedral's dephasing intact but insufficient. The "I am fine" fiction broken. The tumor at eleven months. The word no longer private. The prophet carrying what she has into the room where the twelve wait.
+- **Emotional Shift from Ch 35:** Ch 35 ends with the word interior, unspoken, carried home in silence — the prophet holding the observation before the framework catches up. Ch 38 ends with the word spoken, the framework beginning, the prophet carrying it to the community. The shift is from *holding* to *releasing*. The silence ends. The word enters the world. The prophet cannot take it back.
+
+**Nephthys's Emotional Lie Arc (cumulative):**
+- B1 Ch 3: Pain reframed as signal. First prayer. The lie as theology.
+- B1 Ch 44: "They are all still here." The theology confirmed on the mass grave. Certainty.
+- B2 Ch 2: "I am fine." Ritual lie deployed and accepted. Imani receives it.
+- B2 Ch 13: "I am fine" not examined — the session continues. The lie holds.
+- B2 Ch 24: The lie not deployed — the confrontation with Seren is too large for the ritual. The lie is bypassed, not broken.
+- B2 Ch 35: The lie not offered. First honest report at the perimeter. "They are moving. They have not lost their names." The lie's absence is the milestone.
+- **B2 Ch 38: The lie attempted and blocked. "I am —" / "Don't. Don't say it." Imani cuts it off for the first time in three years. The fiction declared insufficient in narration. The currency that has sustained them since the Outlands will not purchase what it has always purchased. The lie is not available. The prophet is not fine. The word is spoken. The framework begins.**
+
+**Imani (Supporting):**
+- **Entering State:** Post-Ch 35. The measuring look completed its shift to witness at the perimeter. The acolyte who has been cataloging the prophet's decline is now receiving. The logistics infrastructure embedded (cloth ready before symptom). Six months of clinical precision layered over something that is no longer purely clinical.
+- **Primary Beat:** The saturation event. She is in the Cathedral when it happens — the signal exceeds every parameter, the prophet falls, seizes (12 seconds), is still. She manages the aftermath: repositioning the unconscious body, assessing (four minutes, maybe five), clearing the congregants to the side chapel. The clinical register stripped to raw instruction ("Do not move"). Expressed through: the grip described as "the particular hold of someone who had moved an unconscious body before," the clinical assessment running beneath the expression, the instruction delivered without pastoral overlay.
+- **Secondary Beat:** Blocking the ritual lie. "Don't. Don't say it." First time in three years. The expression past witness — unnamed, Nephthys cannot categorize it, Imani cannot either. The hand on Nephthys's arm: "the same function the stone served: holding. Without judgment. Without intention." Expressed through: the two-word block, the expression described by what it is not (not the measuring look, not the assessment, not the witness quality), the grip not loosening.
+- **Exiting State:** Standing beside Nephthys. The expression unnamed. The word "circulation" received and understood at its basic level (the report, not the full phenomenological weight). Walking beside the prophet into the side chapel. The twelve waiting. Something in Imani's expression that neither woman has a name for yet.
+- **Emotional Shift from Ch 35:** Ch 35 ends with Imani as witness — the measuring look completed its shift, the acolyte receiving. Ch 38 ends with Imani past witness — something the available categories cannot hold. The shift is from *witness* to *unnamed*. The expression has moved past all prior categories. Phase 5 will show what it becomes.
+
+**Imani's Emotional Arc (cumulative):**
+- B2 Ch 2: Confrontational acolyte. Succession question raised. Clinical precision. "I am fine" accepted.
+- B2 Ch 13: Analyst emerging. Sees political consequence before Nephthys does. Shoulder touch — last gesture of the acolyte before the analyst takes over.
+- B2 Ch 21: Broker. Kira contact initiated. Efficient, practical. "Let me know."
+- B2 Ch 24: Witness to the confrontation. "Those are assertions." Names the failure. Measuring look intensifying.
+- B2 Ch 35: Measuring look completes shift to witness. The acolyte who has been cataloging is now receiving. "She did not know what the body was" — Imani present for the honest report.
+- **B2 Ch 38: Past witness. The expression Nephthys cannot name. The lie blocked for the first time. The hand on the arm: holding, without judgment, without intention. Something past all prior categories. Unnamed. Phase 5 carries it forward.**
+
+---
+
 _Last updated: 2026-02-21_

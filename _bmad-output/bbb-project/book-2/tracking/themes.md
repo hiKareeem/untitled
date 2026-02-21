@@ -705,4 +705,36 @@ The reader sees the same geography from three vantage points before the kill cha
 
 ---
 
+### Chapter 38 — "Circulation" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | **Dominant** | The prophet receives the full weight of the absorbed at global scale and must report it, knowing the report will be weaponized. The debt to the absorbed is paid by accuracy, not by comfort. "Circulation" spoken aloud — the word now belongs to anyone who hears it. |
+| Where Identity Ends | **Strong** | Global confirmation: every signature in the composite is in motion. Lev, Maren, Yusuf — still carrying their names, still identifiable, circulating. Identity persists. But persistence is transit, not arrival. The question of where identity ends replaced by the question of what the body is that they circulate through. |
+| Truth as Weapon | **Strong** | The interior word from Ch 35 becomes the exterior word. Nephthys anticipates Seren's weaponization ("the void is a body and we are its blood and the blood is meant to flow") and releases the word anyway. The counter-liturgy's discipline: attend, receive, report. The report is not the weapon. The framework built from it will be. |
+| Architecture of Power | **Supporting** | Cathedral dephasing fails at global saturation scale — the one protection Nephthys has trusted since Ch 26 is insufficient. Outside: institutions name, categorize, reduce. Nephthys has a description, not a containment. The contrast between institutional architectures and the counter-liturgy's discipline is the chapter's structural argument. |
+| The Cost of Knowing | **Supporting** | Saturation exceeds every parameter. Pain-as-prayer framework breaks ("The pain was not signal"). Seizure (12 seconds). "I am fine" fiction broken. The knowing does not resolve. The body is still unanswered. |
+
+**Key Resonance:** What We Owe ↔ Truth as Weapon. The prophet owes the absorbed the honest report. The honest report is the seed of the weapon. The counter-liturgy's discipline does not protect against this — it requires it. The debt and the damage are the same act.
+
+**Epigraph Integration:** "Blood does not know the name of the body it serves." — Nephthys, *Operational Theology* (undated journal, post-saturation period)
+- Thematic function: The absorbed circulate through a system whose purpose they cannot perceive. Nephthys discovers the circulation without being able to identify the body. The epigraph describes the limit of the chapter's insight — and the limit of Nephthys's framework. She can describe the movement. She cannot describe the purpose.
+- Opaque on first read: a journal entry from a future moment (post-saturation). On reread: the epigraph is Nephthys writing about this chapter from the other side of it. The body is still unanswered when she writes it.
+- AEGIS as invisible novelist: AEGIS would have access to Nephthys's journal archive. The entry exists. The body is still unanswered.
+
+**Phase 4 Transformation Thread (Ch 36/37/38):**
+- Ch 36 (Sofia): Convergence detected. Scientific framework reaches its limit. "She did not have a word for what was coming."
+- Ch 37 (Aurielle): Signal arrives through NitroCore's infrastructure. Institutional register suspends. SHEPHERD premise collapsed. The Lie dead.
+- **Ch 38 (Nephthys): Chorus at full saturation. Cathedral dephasing fails. Circulation confirmed at global scale. "Circulation" spoken aloud. The prophet's new framework begins.**
+
+Three POVs, three architectures, the same event. No available model can contain what the void is doing. All three women are left with what they have: a description, a word, a report. None of them can name the body.
+
+**New Symbols:**
+- ***Circulation* (spoken):** The interior word from Ch 35 becomes the exterior word. The framework's gestation period ends. The word now belongs to anyone who hears it. Forward: Phase 5 weaponization.
+- **The body (unanswered):** The circulatory metaphor implies a body — a larger structure that requires the absorbed's movement the way a body requires blood. "What the body was — what the system served — she could not see." Carried forward to Book 3.
+- **Cathedral dephasing failure:** The architecture of protection is the architecture of the signal's passage. Forward: vulnerability in Phase 5.
+- **Seizure (12 seconds):** First seizure in the arc. The body's version of the institutional register failing — encountering an input it has no response to.
+
+---
+
 _Last updated: 2026-02-21_
