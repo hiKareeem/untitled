@@ -572,6 +572,23 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
+### B2 Ch 33 — "Three Walked In" (~9 months post-BLACKWEIR, shortly after Mumbai strike)
+
+**Morning:** Three Threshold Volunteers Enter Primary Anchor Zone
+- Details: Lev (infrastructure engineer, five months Cathedral attendance), Maren (joined Threshold after schism), and Yusuf (former Listener, three weeks in Threshold) walk into the Neo-Shanghai primary Anchor Zone. Perimeter monitoring confirms entry at approximately 04:00 local. Eleven seconds at the shimmer line before stepping through. No return. Void Watch files entry as standard absorption event.
+- Characters Involved: Lev, Maren, Yusuf (absorbed); Void Watch personnel (filing)
+- Location: Neo-Shanghai primary Anchor Zone perimeter
+- Consequences: Three Threshold volunteers absorbed. Seren's Ch 24 declaration fulfilled. Forward: Nephthys goes to perimeter same day.
+
+**Morning/Afternoon:** Nephthys at the Primary Anchor Perimeter
+- Details: Imani delivers the news at Cathedral acoustic center (Nephthys on floor, morning practice). Nephthys goes to the perimeter — first time at the primary Anchor Zone (Ch 24 was secondary). Transit: 40 minutes, dephasing range ends at minute 17, migraine at minute 18, first nosebleed at minute 34. Arrives at perimeter: shimmer visible from 200 meters, violet frost on conduit infrastructure. Raises branded palm to perimeter air (three meters from shimmer — closest approach yet). Finds three signatures: Lev (steady), Maren (deep), Yusuf (still adjusting). Discovers the signatures are moving — cycling through the composite. Not static. In transit. The word arrives: *circulation*. Bilateral nosebleed during full-density reception. Imani's cloth ready before symptom manifests. Imani asks "What do you hear?" — Nephthys delivers first honest report in the arc (not "I am fine"). Transit home in silence. *Circulation* carried back to Cathedral — interior, not spoken.
+- Characters Involved: Nephthys (POV), Imani
+- Location: Cathedral acoustic center → transit → Neo-Shanghai primary Anchor Zone perimeter → transit → Cathedral
+- Consequences: *Circulation* discovered as interior word. First honest report delivered to Imani. Imani's measuring look completes shift from assessment to witness. "She did not know what the body was." Forward: Ch 37 "Circulation" (the word spoken at full saturation). Forward: Ch 47 "She Did Not Follow" (she has already felt the three signatures; still does not follow). Mumbai density registered as chorus weight increase — Nephthys does not know the cause.
+
+---
+
 _Last updated: 2026-02-20_
 _Updated by: B2 Ch 31 — "Inside the Zone" (Zeyad, Lagos Anchor Zone established, concurrent with Mumbai strike)_
 _Updated by: B2 Ch 23A — "Ground Level" (Aurielle, Neo-Shanghai site inspection, acoustic anomaly confirmed on-site)_
+_Updated by: B2 Ch 33 — "Three Walked In" (Nephthys, primary Anchor perimeter, circulation discovered)_

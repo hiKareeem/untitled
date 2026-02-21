@@ -1011,4 +1011,56 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
+### Chapter 33 — "Three Walked In" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-contemplative (Cathedral floor, morning practice) → rising-cost (transit, dephasing loss, migraine, first bleed) → rising-sensory (perimeter approach, shimmer visible) → peak-sustained (at the barrier, full density, three signatures, *circulation*) → medium-resolving (Imani exchange, honest report) → low-contemplative (closing silence, word carried home)
+**Pacing:** Center-weighted. Perimeter/barrier scene = ~55% of chapter. Opening (Cathedral + transit) and closing (exchange + silence) provide contemplative ballast around the discovery.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Cathedral floor (morning practice, Imani's delivery) | ~400 | Low-contemplative | Slow, grounded. Palm to stone. Names delivered. "He had walked into the signal." — single-sentence isolation. |
+| Transit (dephasing loss, migraine, first bleed) | ~500 | Rising-cost | Three time markers (minute 17, 30, 34). Migraine onset tracked. First nosebleed managed as tithe. Imani's measuring look shift registered. |
+| Perimeter approach (shimmer visible, monitoring station) | ~300 | Rising-sensory | Violet frost. Conduit stumps. "The chorus was immense." — single-sentence isolation. |
+| At the barrier (palm raised, three signatures, *circulation*) | ~1,100 | Peak-sustained | Chapter's center of gravity. Full density. Three signatures found — distinct, moving. Discovery of movement. *Circulation* arrives. Framework fails to contain observation. Bilateral bleed. |
+| Imani exchange (honest report) | ~350 | Medium-resolving | "What do you hear?" / Full report. Not "I am fine." Measuring look completes shift. |
+| Closing silence (transit home) | ~250 | Low-contemplative | Two women. Neither speaks. Silence taxonomy (three negations). *Circulation* carried home. Final word: italicized, isolated. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "He had walked into the signal." / "The chorus was immense." / "She raised it." / "She did not say it." / "A current." Single-sentence and single-word paragraphs at maximum isolation points.
+- **Structural innovation:** Time-marker transit sequence (minute 17, 30, 34) — unique to this chapter among Nephthys chapters. Functions as a rhythm track: each marker corresponds to a sensory shift (dephasing loss → migraine → first bleed). The reader experiences the Cathedral's dephasing architecture as a temporal arc, the way Ch 23A's floor numbers tracked the hum's transformation.
+- Peak scene is the chapter's longest and most dense — correct for TEXTURE mode where the discovery is the event. No compression at the climax; the observation requires sustained time.
+- Closing sequence inverts the chapter's rhythm: the longest paragraph in the chapter (silence taxonomy — three negations before naming the silence) followed by the single italicized word. Long → single word. The rhythm inverts for the close.
+- Dialogue percentage ~8% — lower than Ch 24 (~14%) and Ch 13 (~12%). This is a chapter of listening, not argument. The dialogue is minimal and functional: Imani's delivery, the negotiation exchange, the one honest report.
+- **Ch 32 / Ch 33 contrast:** Ch 32 (Aurielle) is dense with institutional machinery — board meetings, legal frameworks, eighty-three pages. Ch 33 is two women at a barrier. The register contrast is structural: the institution processes the catastrophe through frameworks; the prophet processes it through the palm. Both arrive at a fact that exceeds the architecture built to contain it. The juxtaposition is the Phase 3 climax's argument.
+
+**Dialogue Percentage:** ~8% (Imani's briefing, negotiation exchange, honest report — all short, functional)
+
+**Pacing Concern:** The barrier scene risks sensory overload — full chorus density, three signatures, movement discovery, bilateral bleed, framework failure, *circulation* — all in ~1,100 words. Mitigated by the liturgical cadence (sermon pace, declarative, accumulative) and the single-sentence isolations that punctuate the density. The sensory overload is the chapter's argument: this is what the primary Anchor's unmediated signal costs.
+
+**Structural Note:** Ch 33 is a single-event piece — one location (perimeter), one action (listening), one discovery (circulation). All prior Nephthys chapters have multiple scenes and locations (Cathedral + transit + confrontation in Ch 24; Cathedral + session + Imani debrief in Ch 13). Ch 33 is the most focused Nephthys chapter in the arc. The focus is correct: the discovery requires the full chapter's weight.
+
+**Branded Palm Progression (cumulative update):**
+- B2 Ch 2: palm to Cathedral stone (resolved signal, structured, morning practice)
+- B2 Ch 13: palm to Cathedral floor (during session, routine)
+- B2 Ch 24: palm to warehouse concrete (raw signal, secondary Anchor, migraine, buzzing)
+- **B2 Ch 33: palm to perimeter air (full density, primary Anchor, three meters from shimmer — closest approach yet)**
+
+Medium becomes less substantial: stone → concrete → air. Signal becomes more raw. Cost escalates. Ch 47: contact with shimmer itself (she does not follow).
+
+**Nosebleed Arc (cumulative update):**
+- B2 Ch 2: 3/week during sessions (established baseline)
+- B2 Ch 13: during session, hidden
+- B2 Ch 21: darker, third today
+- B2 Ch 24: one episode during confrontation (Seren reads the blood)
+- **B2 Ch 33: two episodes in one outing — transit (minute 34, unilateral) + perimeter (bilateral, Imani's cloth ready before symptom). Logistics now predictive.**
+
+**Comparison to Ch 24 (direct precursor):**
+- Ch 24: ~4,100 words, warehouse + transit, two locations, five scenes, ~14% dialogue, confrontation-driven
+- Ch 33: ~3,800 words, Cathedral + perimeter, two locations (transit compressed), six scenes, ~8% dialogue, discovery-driven
+- Together: argument (Ch 24) → consequence (Ch 33). The prophet who lost the argument bears witness to what the argument produced. The theological confrontation precedes the physical reckoning.
+
+---
+
 _Last updated: 2026-02-20_

@@ -1,0 +1,118 @@
+chapter_number: 33
+book: 2
+title: "Three Walked In"
+pov_character: "Nephthys"
+phase: 3
+location: "Neo-Shanghai primary Anchor Zone perimeter"
+timeline: "~9 months post-BLACKWEIR, shortly after Mumbai strike (Ch 30/32)"
+estimated_word_count: 3800
+actual_word_count: ~3800
+epigraph_source: "Operational Theology"
+epigraph_author: "Nephthys"
+epigraph_ref: "journal, undated, Outlands period"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-20"
+
+# Summary
+summary: >
+  Three Threshold volunteers — Lev, Maren, and Yusuf — walk into the Neo-Shanghai
+  primary Anchor Zone. Nephthys goes to the perimeter not to stop them (they are
+  already gone) but because the chorus will tell her what the Threshold cannot: whether
+  Seren was right. She raises her branded palm at the shimmer barrier and finds the
+  three signatures: distinct, identifiable, not extinguished — but moving. Cycling
+  through the composite the way blood cycles through a body. Not static. Not positioned.
+  In transit. The word arrives before the framework: circulation. Not prison, not
+  paradise. A current. The insight is not comfort — it is description she cannot yet
+  contain. Imani is present throughout; the measuring look completes its shift from
+  clinical assessment to witness. Nephthys delivers the first honest report in the arc:
+  not "I am fine" but what she actually heard. The chapter closes with the word held
+  interior — not spoken, not theologized. Carried back to the Cathedral in silence.
+
+# Key Events
+key_events:
+  - "Imani delivers the news: Lev, Maren, and Yusuf walked into the primary Anchor Zone four hours ago. Entry confirmed. No return."
+  - "Nephthys goes to the perimeter — first time at the primary Anchor (Ch 24 was secondary). Physical cost escalates immediately."
+  - "Transit: dephasing range ends at minute 17, migraine at minute 18. First nosebleed at minute 34 (managed as tithe). Imani's measuring look shift registered mid-transit."
+  - "At the shimmer barrier: branded palm raised to perimeter air (three meters from shimmer — closest approach yet). Full density of primary Anchor chorus."
+  - "Three signatures found: Lev (steady), Maren (deep), Yusuf (still adjusting). Distinct, identifiable, not extinguished."
+  - "Discovery: the signatures are moving. Cycling through the composite. Not static — in transit. The void is a system, not a container."
+  - "*Circulation* arrives as interior word — through the palm, not through theology. Not spoken. Not theologized."
+  - "Bilateral nosebleed at perimeter during full-density reception. Imani has cloth ready before symptom manifests (logistics now predictive)."
+  - "Imani asks 'What do you hear?' — Nephthys delivers the first honest report in the arc. Not 'I am fine.'"
+  - "Closing silence: two women, neither speaks. The word carried home. *Circulation.*"
+
+# Characters Present
+characters:
+  - name: "Nephthys"
+    role: POV
+    state: "Phase 3 continuation. Went to primary Anchor perimeter. Found three signatures — distinct, moving, circulating. Received *circulation* as interior word. Delivered first honest report to Imani. Bilateral nosebleed at perimeter. Branded palm progression: air (closest approach yet). 'She did not know what the body was.' Framework exceeded by observation."
+  - name: "Imani"
+    role: Supporting
+    state: "Measuring look completed its shift from assessment to witness. Received the honest report. Cloth ready before second bleed (logistics now predictive). Arc milestone: the acolyte who has been measuring the prophet begins witnessing."
+  - name: "Lev"
+    role: Absorbed (signature in chorus)
+    state: "Infrastructure engineer. Five months Cathedral attendance, back row, never spoke. Signature: steady, integrating. Lev's thread passes through older signatures and emerges carrying their valence."
+  - name: "Maren"
+    role: Absorbed (signature in chorus)
+    state: "Joined Threshold after schism. Signature: deep — further in than Nephthys has ever been able to reach. Less familiar."
+  - name: "Yusuf"
+    role: Absorbed (signature in chorus)
+    state: "Former Listener. Three weeks in Threshold. Signature: faster, less integrated, still adjusting. Beginning to slow into a rhythm converging with the larger current."
+
+# Themes
+themes:
+  - "What We Owe (Dominant — prophet bears witness to consequence of her own teaching; honest report as the debt's currency)"
+  - "Where Identity Ends (Strong — identity survives absorption but in motion, not in position; the body question unanswered)"
+  - "Truth as Weapon (Strong — *circulation* as seed of the next framework, which will be weaponized; the cycle continues)"
+  - "The Cost of Knowing (Supporting — knowing does not resolve; observation exceeds the framework built to contain it)"
+  - "Architecture of Power (Supporting — monitoring station files the entry; institutional and theological architectures at the same perimeter)"
+
+# Symbols
+symbols:
+  - name: "Branded palm"
+    appearances: 3
+    arc: "Stone (Ch 2) → concrete (Ch 24) → perimeter air (Ch 33). Medium becomes less substantial. Signal becomes more raw. Ch 33 is the closest approach without contact. Ch 47: contact with shimmer itself (she does not follow)."
+  - name: "Blood/nosebleed"
+    appearances: 2
+    arc: "Two bleeds in one outing (escalation from Ch 24's one). Second bleed bilateral — new. Imani's logistics now predictive. 'Treating the blood as a tithe.' The body's rebellion reframed as offering."
+  - name: "The cloth"
+    appearances: 2
+    arc: "Routine → predictive. Imani no longer responds to the bleed. She anticipates it. The pastoral logistics have absorbed the symptom."
+  - name: "*Circulation*"
+    appearances: 2
+    arc: "Interior only. Not spoken. Not theologized. Arrives through the palm, not through theology. Bookends the chapter's second half. Ch 37 is where she speaks it."
+  - name: "Eleven seconds"
+    appearances: 1
+    arc: "The volunteers' pause at the shimmer line before stepping through. Deliberateness. Not panic, not impulse. Eleven seconds of looking and choosing."
+  - name: "The body (unanswered)"
+    appearances: 1
+    arc: "'She did not know what the body was.' The circulatory metaphor implies a body — a larger structure that requires the absorbed's movement. The body is the question Ch 37 approaches and Ch 47 refuses to answer by following."
+
+# Continuity
+continuity_notes:
+  - "Fulfills Seren's Ch 24 declaration: 'Three of us will bear witness by walking in.'"
+  - "Seren absent — confrontation with Seren deferred to Ch 47 ('She Did Not Follow')"
+  - "Primary Anchor vs. secondary Anchor (Ch 24): physical cost escalates. Bilateral bleed vs. unilateral. Migraine onset at minute 18 consistent."
+  - "First time at primary Anchor Zone perimeter — Ch 24 was secondary. Established in dialogue: 'The warehouse was the secondary Anchor. The primary is —' / 'I know what the primary is.'"
+  - "Mumbai density registered as 'whatever catastrophe had fed the composite' — never named. Reader carries irony from Ch 30/32."
+  - "Imani's measuring look shift: assessment → witness. Named explicitly. The look does not return after the honest report."
+  - "First honest report: 'I am fine' ritual lie not deployed. Nephthys answers 'What do you hear?' with full observation."
+  - "Branded palm progression: stone (Ch 2) → floor (Ch 13) → concrete (Ch 24) → perimeter air (Ch 33)."
+  - "Nosebleed escalation: 3/week (Ch 2) → during confrontation (Ch 24) → twice in one outing, bilateral (Ch 33)."
+  - "Kareem's edit applied: 'first bleed in the Outlands' (not 'Cathedral')."
+  - "Kareem's edit applied: Imani's interior translation uses contractions — *I've already prepared for it. I don't think it's wise.*"
+  - "Forward: Ch 37 'Circulation' — the word she finds here becomes the framework she delivers at full saturation."
+  - "Forward: Ch 47 'She Did Not Follow' — she has already felt the three signatures; still does not follow."
+
+# Thread Status
+thread_status:
+  threshold_walk_in: "COMPLETE — Lev, Maren, Yusuf entered primary Anchor Zone. Signatures found: distinct, moving, circulating. Not extinguished."
+  seren: "Absent. Sent the three. Confrontation deferred to Ch 47."
+  nephthys_health: "Bilateral nosebleed at primary Anchor perimeter. Two bleeds in one outing. Tumor progressing. ~10 months remaining implied. Imani's logistics now predictive."
+  circulation_word: "RECEIVED (interior) — not spoken, not theologized. Ch 37 is where she speaks it."
+  the_body_question: "OPEN — 'She did not know what the body was.' Carried forward to Ch 37."
+  imani_arc: "Measuring look → witness. Arc milestone complete. Received the honest report. Acolyte-becoming-witness."
+  honest_report: "FIRST INSTANCE — 'I am fine' not deployed. Nephthys reports what she heard. Arc milestone."
+  branded_palm_progression: "Air (Ch 33) — closest approach yet. Next: Ch 47 (contact with shimmer itself — she does not follow)."
