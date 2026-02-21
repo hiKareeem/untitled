@@ -965,4 +965,50 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
+---
+
+### Chapter 23A — "Ground Level" (Aurielle Vasquez) [CANDIDATE INSERT]
+
+**Mode:** PRESSURE
+**Tension Shape:** Low-institutional (altitude context, decision to go) → rising-sensory (descent, hum emerging) → sensory rupture (ground level, cold, violet frost, chorus) → peak (directed event, 11-second signal, institutional register arrives) → resolving (ascent, hum attenuating, warmth returning) → suspended (display wall, standing not sitting, cold fading)
+**Pacing:** Six-scene structure. Descent and ascent sequences are unique to this chapter — no prior Aurielle chapter uses locomotion as a structural device. Peak scene (~500 words) is the chapter's shortest and highest-tension. The compression is correct: the signal is brief. The institutional register is fast.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening (altitude context, decision) | ~400 | Low-institutional | Establishes vertical architecture before descent. "This was not avoidance." |
+| Descent (elevator, hum emerging) | ~350 | Rising-sensory | Floor numbers as rhythm track. Hum transformation. Wrist rotation not registered. |
+| Ground level (perimeter, monitoring station approach) | ~600 | Rising-sensory | Cold enters. Violet frost. Shimmer barrier. Converter station memory filed. |
+| Directed event (signal, 11 seconds) | ~500 | Peak | Negation technique. Institutional register arrives. Interval closes. |
+| Return (elevator ascending, hum attenuating) | ~350 | Resolving | Floor numbers inverted. Hum attenuation. Warmth returning. |
+| Closing (executive suite, display wall, standing) | ~350 | Resolving → suspended | The numbers. Cold fading. Standing, not sitting. Chapter ends before she occupies the Chair. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Ground." / "Cold." / "She filed it." / "The filing was not sufficient for this." / "Not a broadcast. Not an echo." / "A reply." / "She left the station." Single-word and two-word paragraphs at maximum isolation points.
+- **Structural innovation:** Floor-number sequences (63 → Ground on descent; Ground → 63 on ascent) are unique to this chapter. No prior Aurielle chapter uses locomotion. The numbers function as a rhythm track: descent marks the hum's emergence, ascent marks its attenuation. The reader experiences the Spire's noise-cancellation system as a temporal arc.
+- Descent sequence paces the hum's transformation — each floor-number marker corresponds to a sensory shift. The rhythm slows as the hum thickens.
+- Ground-level scene is the chapter's most sensory-dense passage — cold, violet frost, amber luminescence, shimmer barrier, chorus. The institutional register is nearly absent here. The prose opens up.
+- Peak scene compresses: signal → negation chain (cut off mid-thought) → institutional register (italicized block) → interval named → classification routed → she leaves. The compression enacts the classification.
+- Ascent sequence inverts the descent — the same floor markers, the same rhythm, the hum attenuating rather than emerging. The reader experiences the restoration of the Spire's architecture in real time.
+- Closing decelerates: corridor → suite → display wall → numbers → cold fading. The chapter ends before she sits. The suspension is rhythmic — the one moment in the arc where the Chair is not occupied.
+
+**Dialogue Percentage:** ~4% (site technician: two lines, functional only; handler: zero lines; escort: zero lines)
+
+**Pacing Concern:** Ground-level scene risks sensory overload — violet frost, amber luminescence, shimmer barrier, chorus, converter station memory all arrive in sequence. Mitigated by the institutional register's near-absence in this scene (the intrusion IS the point) and the memory being filed in three sentences without elaboration. The sensory density is the chapter's argument: this is what the Spire's architecture is designed to prevent her from experiencing.
+
+**Structural Note:** Ch 23A is the only Aurielle chapter with locomotion. All prior Aurielle chapters are static — boardroom, executive suite, sub-level briefing room. The movement is the rupture. The chapter's rhythm reflects this: it has a spine (the elevator, the walk, the return) that no other Aurielle chapter has. The closing restores the static architecture — she is standing at the display wall, not moving, not sitting. The movement has ended. The institutional register has been restored. The chapter ends in the suspended moment before the static architecture fully reasserts.
+
+**Comparison to Ch 23 (direct precursor):**
+- Ch 23: ~3,500 words, boardroom + suite, static, three-beat (board → Thorne → alone), closes with "The Chair opened the next report"
+- Ch 23A: ~3,200 words, elevator + ground + return + suite, kinetic, six-beat (decision → descent → ground → signal → return → suspended), closes before she sits
+- Together: data (Ch 23) → experience (Ch 23A). The anomaly classified from slide 19; the anomaly heard in person. The institutional register processes both. The chapter pair's argument: the managed tour works. The experience is processed. The classification is filed. She signs anyway.
+
+**Wrist Rotation Arc (cumulative update):**
+- B2 Ch 10: once, conscious, then stopped (control)
+- B2 Ch 12: twice, conscious, does not stop it (control eroding)
+- B2 Ch 23: does not try to stop it (trying abandoned)
+- **B2 Ch 23A: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure.**
+
+---
+
 _Last updated: 2026-02-20_

@@ -554,5 +554,24 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
+### B2 Ch 23A — "Ground Level" [CANDIDATE INSERT] (~8 months post-BLACKWEIR, days after Ch 23 quarterly)
+
+**Afternoon:** Aurielle's Neo-Shanghai Anchor Zone Site Inspection
+- Details: Three hours after the Ch 23 quarterly board meeting, Aurielle routes a site inspection request directly through operations (bypassing Marchetti's scheduling queue). Requests: Anchor Zone primary, acoustic monitoring station, coinciding with next scheduled directed atmospheric event. Handler and escort assigned. Route prepared. Site curated.
+- Descent from 63rd floor: noise-cancellation system attenuates below 25th floor; hum unfiltered by ground level. Cold at perimeter (4.2°C). Violet frost on conduit infrastructure. Shimmer barrier visible. Monitoring station at perimeter edge — expanded sensor array (authorized by Thorne post-Ch 23).
+- SHEPHERD Event 31 initiates at 14:30 (directed absorption event, standard protocol, scheduled before her visit). Secondary acoustic signal begins at 14:30:04. Signal received through monitoring station's open acoustic feed for 11 seconds. Aurielle hears it directly.
+- Institutional register arrives at 11 seconds. Classification routed: "Secondary acoustic output. Structured. Non-random. Origin: Anchor Zone atmospheric field. Classification: monitoring priority. Recommend expanded sensor deployment and longitudinal signal analysis."
+- Data transmitted to analysis team via Marchetti's division, flagged for Director Thorne. Classification: "Monitoring priority — Thorne to action."
+- Ascent: hum attenuates by 40th floor, fully filtered by 63rd. Environmental system restores 22°C. Institutional register fully restored before executive level.
+- Closing: Aurielle stands at display wall (does not sit). Cold fading. Site inspection report signed (epigraph document). Chapter ends before she occupies the Chair.
+- Characters: Aurielle Vasquez (POV), handler (unnamed), escort (unnamed), site technician (unnamed)
+- Location: Neo-Shanghai Anchor Zone perimeter, monitoring station, NitroCore executive suite
+- Consequences: Acoustic anomaly confirmed on-site by NitroCore CEO. Classification filed. Data routed to Thorne. Site inspection report signed — accurate, not the experience. Forward: Ch 32 "Kill Chain" (infrastructure mapping observed here = targeting data for Mumbai). Phase 4 Voice (Aurielle has stood in the signal's medium).
+
+**Note:** Candidate insert — not yet in chapter count. If inserted, Ch 24–52 renumber +1, total becomes 53.
+
+---
+
 _Last updated: 2026-02-20_
 _Updated by: B2 Ch 31 — "Inside the Zone" (Zeyad, Lagos Anchor Zone established, concurrent with Mumbai strike)_
+_Updated by: B2 Ch 23A — "Ground Level" (Aurielle, Neo-Shanghai site inspection, acoustic anomaly confirmed on-site)_

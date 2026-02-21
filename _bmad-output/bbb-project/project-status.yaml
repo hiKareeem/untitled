@@ -935,7 +935,19 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Zeyad POV (3rd Book 2 appearance, 8th overall). October 21, 2175 (concurrent with Ch 30 Mumbai strike). Lagos industrial district breach escalates while Zeyad is at FAS observation post. FAS containment protocol: acoustic dampening, infrastructure severance, methodical. Stalker unit observes from opposite perimeter (bilateral deference — no Nikolai by name). Breach stabilizes — barely. No mass casualties. Junction B-12 isolated, RCI 47.3 sustained: Lagos becomes permanent Anchor Zone. Mumbai news arrives 40 minutes post-stabilization (GCTA alert, 2.3M dead, kinetic response deployed). Pen stillness → composure reasserts → pen moves. 'The composure held because it had no other function.' Three-model comparison: FAS (humane, insufficient), military (catastrophic), institutional (monitoring). 'The void does not consult the model.' New Anchor hum: middle register, different pitch than Neo-Shanghai, same structure. Hum now permanent in Zeyad's chest. Okafor introduced (FAS containment operator, senior). Epigraph: FAS Maintenance Circular 2134-09 (opaque, rewards rereads). Closing: 'The hum continued.' — same as Ch 17, different hum. AEGIS as invisible novelist. Revision flag: Ch 30 needs Lagos RCI data added to AEGIS processing stream at moment of Mumbai impact."
 
-completedCount: 83
-totalWords: 367637
+  book2_chapter_23a:
+    title: "Ground Level"
+    status: draft-v1
+    pov: "Aurielle Vasquez"
+    wordCount: 3200
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-23a-meta.yaml"
+    mode: PRESSURE
+    candidateInsert: true
+    insertDecisionPending: true
+    notes: "Book 2, Phase 3 — Aurielle POV (5th Book 2 appearance). CANDIDATE INSERT (not yet in chapter count; if inserted, Ch 24-52 renumber +1, total becomes 53). First and only chapter where Aurielle leaves the Spires voluntarily. Neo-Shanghai Anchor Zone site inspection — handler, escort, prepared route, managed tour. SHEPHERD Event 31 (directed absorption event, 14:30). Secondary acoustic signal received through monitoring station open acoustic feed for 11 seconds. Institutional register arrives at 11 seconds. Classification: 'monitoring priority — Thorne to action.' Hum transformation arc: filtered → unfiltered → chorus → signal → classified → attenuated → filtered. Cold enters Aurielle's register for the first time (Sump register). Converter station memory (age nine) filed in three sentences. Wrist rotation not registered — now infrastructure. Dual-track nearly absent: one explicit translation, one structural (11-second interval). Closing: standing not sitting at display wall, cold fading, chapter ends before she occupies the Chair. Continuity fix: line 144 cross-zone claim corrected (on-site confirmation = Neo-Shanghai primary only; cross-zone consistency = quarterly data). Epigraph: Elden Ring flavor text style — recovered Sump maintenance log, pre-BLACKWEIR. Forward seeds: Ch 32 Kill Chain (infrastructure mapping = targeting data), Phase 4 Voice (stood in signal's medium). AEGIS as invisible novelist."
+
+completedCount: 84
+totalWords: 370837
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-31 complete and audited. B2C31 (Zeyad, Inside the Zone) added — Phase 3 climax counterpoint to Ch 30. Lagos Anchor Zone established October 21, 2175. FAS model: humane, insufficient. Three models, void consistent across all three. Hum now permanent in Zeyad's chest. Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact. Previous: B2C30 (AEGIS, Fifteen Minutes)."
+notes: "Book 2 Ch 23A (Aurielle, Ground Level) added — candidate insert, Phase 3, first ground-level Aurielle chapter. Acoustic anomaly confirmed on-site. Wrist rotation now infrastructure. Cold enters Aurielle's register. Institutional register processes ground-level experience and returns her to operational status. Insert decision pending. Previous: B2C31 (Zeyad, Inside the Zone). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."

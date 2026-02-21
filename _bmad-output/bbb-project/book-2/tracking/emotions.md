@@ -545,4 +545,42 @@
 
 ---
 
+---
+
+### Chapter 23A — "Ground Level" (Aurielle Vasquez) [CANDIDATE INSERT]
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-Ch 23. Phase 3. SHEPHERD at three operational zones. Acoustic anomaly filed as monitoring priority. Wrist rotation not tried (trying abandoned). Dual-track collapsed. The mechanism operating.
+- **Emotional Arc:** Institutional framing (decision to go — due diligence, not revelation-seeking) → sensory emergence (descent — hum transformation, wrist rotation not registered) → sensory rupture (ground level — cold, violet frost, chorus, converter station memory filed in three sentences) → the signal (11-second interval — the space where the experience existed before the vocabulary processed it) → institutional restoration (classification routed, she leaves the station) → ascent (hum attenuating, warmth returning, operational status restored) → suspended (display wall, standing not sitting, cold fading by degrees)
+- **Dominant Emotion:** The specific flatness of a mechanism that has processed an experience and returned to operational status. Not relief — relief would require a self that was threatened. Not horror — horror would require a self that could be moved. The emotional register is operational: the experience arrived, the institutional register processed it, the classification was filed. The horror is that the processing was sufficient.
+- **Key Emotional Beat:** The 11-second interval — "She stood in the interval — the space where the sound existed before the vocabulary processed it — and the interval closed the way all intervals closed in NitroCore's operational architecture: completely, without residue." The emotional content is in the interval itself: 11 seconds where the institutional register had not yet arrived. The interval is the chapter's emotional payload. It closes. The closing is the horror.
+- **Secondary Beat:** The converter station memory — age nine, father's hand on her shoulder, the hum filling the space with something that sounded like the building was alive. The memory arrives. She registers it. She files it. Three sentences. No grief. No elaboration. The filing IS the emotional state: the memory is processed the way the signal is processed — classified, archived, returned to operational status. The institutional register is faster than the memory.
+- **Tertiary Beat:** The closing — standing, not sitting. The chapter ends before she occupies the Chair. The cold in her sternum fading by degrees. The environmental system doing what it was designed to do. The emotional content is in the suspension: she has been to the ground, she has heard it, she is standing in front of the numbers. The chapter ends before she sits. The sitting will happen. The chapter does not show it.
+- **Exiting State:** Standing at the display wall. Cold fading. Numbers on the display. The classification filed. The site inspection report signed. She has been to the ground. The institutional register has been fully restored. She is operational. The chapter ends before she opens the next report.
+- **Emotional Shift from Ch 23:** Ch 23 ends with the wrist moving, the trying abandoned, the next report open — the mechanism operating. Ch 23A ends with the wrist not registered, the cold fading, standing not sitting — the mechanism operating after a ground-level experience that the mechanism processed without alteration. The emotional distance between the two chapters is the distance between the mechanism running and the mechanism being tested. The test passed. The mechanism is intact.
+
+**Wrist Rotation Arc (cumulative update):**
+- B2 Ch 10: once, conscious, then stopped (control)
+- B2 Ch 12: twice, conscious, does not stop it (control eroding)
+- B2 Ch 23: does not try to stop it (trying abandoned)
+- **B2 Ch 23A: does not register it — "present, attenuated, beneath the frequency of conscious attention." The rotation is now infrastructure. The last involuntary signal the institutional register has not absorbed has been absorbed.**
+
+**Aurielle's Emotional Lie Arc (cumulative update):**
+- B1 Ch 1–7: Controlled guilt as professional competence.
+- B1 Ch 19: Guilt converted to process.
+- B1 Ch 25–36: Guilt as arithmetic. Small voice completes the math and goes silent.
+- B2 Ch 1: Guilt as institutional identity.
+- B2 Ch 10: Guilt as data request.
+- B2 Ch 12: Guilt as audit trail — the noticing changes nothing.
+- B2 Ch 23: "She was the mechanism." Guilt indistinguishable from operational content.
+- **B2 Ch 23A: Guilt is not present as a register. The experience of the signal — the void answering — is processed and filed. The 11-second interval is the only space where guilt could have arrived. The interval closes. The mechanism is intact. The chapter's emotional argument: the institutional register is sufficient to process the ground-level experience. She does not need to suppress guilt. The mechanism does not produce it.**
+
+**Handler / Escort (Peripheral):**
+- **Emotional Register:** Institutional competence. The handler glances at the escort when the hum thickens below the 10th floor — one registered gesture, not followed up. The escort's hand moves to his belt at the perimeter — peripheral awareness, noted without examination. Their emotional function is the architecture of the managed tour: present, professional, invisible.
+
+**Site Technician (Functional):**
+- **Emotional Register:** Institutional deference. Stands when she passes. Two lines of dialogue. Zero emotional content beyond role. His function is the managed tour's human infrastructure — the person who makes the inspection possible without making it personal.
+
+---
+
 _Last updated: 2026-02-20_
