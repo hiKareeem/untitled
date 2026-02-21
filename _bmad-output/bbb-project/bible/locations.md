@@ -781,17 +781,19 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 
 **Key Events:**
 - B2 Ch 3: Malachi receives 41 diocesan reports of anomalous phenomena. Convenes council. Publishes encyclical "The Voice Is Not Wounded." Visits locked study.
+- B2 Ch 39: The Voice arrives through the cathedral's nitro-connected infrastructure during Vespers — heating conduits, copper fittings, the acoustic amplification array (installed 2140s). Names. The cathedral amplifies. Congregation breaks: collapse, prayer, flight. Elderly priest at altar rail: "They are all still here." Malachi does not speak. Hands unfold and do not refold. Encyclicals over. The non-decision.
 
-**Significance:** Institutional counterpoint to Nephthys's grassroots Cathedral. The Church's administrative machinery managing the same truth it suppresses. Malachi's domain — where institutional theology is written, where the framework holds "for now."
+**Significance:** Institutional counterpoint to Nephthys's grassroots Cathedral. The Church's administrative machinery managing the same truth it suppresses. Malachi's domain — where institutional theology is written, where the framework holds "for now." In Ch 39, the cathedral's own infrastructure delivers the Voice event. The architecture of power amplifies the thing it was built to contain.
 
-**Current State:** Active. Managing post-BLACKWEIR resonance anomalies through pastoral framing. Encyclical distributed to 312 chapels. Framework intact but strained.
+**Current State:** Post-Voice event. The cathedral's infrastructure conducted the names of the absorbed during Vespers. Framework premise failed — not the tools, the premise. Encyclicals over. The Arch-Prelate did not speak. The hum continues through the stone.
 
 **Controlled by:** Church of the Blessed Nitro (Arch-Prelate Malachi, reports to Luminarch in New Geneva)
 
 **Key Locations Within:**
-- **Malachi's office:** Dark oak desk, floor-to-ceiling theological library, vaulted stone ceilings. Where institutional documents are written.
+- **Malachi's office:** Dark oak desk, floor-to-ceiling theological library, vaulted stone ceilings. Where institutional documents are written. Third encyclical blank on the desk.
 - **Chapter Hall:** Stone chamber, barrel-vaulted ceiling, long oak table (seats 24). Where councils convene.
-- **Locked study:** Separate room at end of unused hallway. Mechanical lock, no digital access logs. Appears as "auxiliary storage" on architectural plans. Forty-three steps from Malachi's office. Bare stone walls, single desk, single lamp. Where the correspondence lives — Nephthys's letters, Malachi's unsent responses, the private theology.
+- **Locked study:** Separate room at end of unused hallway. Mechanical lock, no digital access logs. Appears as "auxiliary storage" on architectural plans. Forty-three steps from Malachi's office. Bare stone walls, single desk, single lamp. Where the correspondence lives — Nephthys's letters, Malachi's unsent responses, the private theology. Not visited in Ch 39 — the forty-three steps not walked.
+- **Cathedral nave:** Three-quarters capacity on weekday Vespers (~250 faithful). Dark wood pews (112 years old). Copper conduit fittings along nave walls (amber glow). Vaulted ceiling — acoustic architecture designed for resonance amplification. Acoustic amplification array installed 2140s. Arch-Prelate's station: carved stone chair, offset from chancel, no cushion. The chair of observation. In Ch 39: the infrastructure that delivered the Voice event. The cathedral amplifies.
 - **Resonance chapel corridor:** (Referenced but not directly shown in Ch 3)
 
 **Occupants:**

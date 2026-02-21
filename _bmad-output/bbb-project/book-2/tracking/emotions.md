@@ -689,4 +689,33 @@
 
 ---
 
+### Chapter 39 — "Through the Infrastructure"
+
+**Malachi (POV):**
+- **Entering State:** Post-Ch 27. Institutional posture holds. Third encyclical blank (weeks). Prague: woman's mother in the hum. Gave Father Ondřej the institutional framework. Returned to locked study. Sat in the dark without reading. The circle has a voice. No closing cadence. The decision not to publish renewed every morning.
+- **Emotional Arc:** Institutional routine (corridor walk, vestments, the bell, the blank page offstage) → Vespers begins (ordinary, the administrator counting the room) → the infrastructure changes (vibration through the stone chair before the ears) → the Voice event (names through every system simultaneously; cathedral amplifies) → congregation breaks (each person from their own position) → the elderly priest ("They are all still here" — Nephthys's words) → Malachi does not speak (the institutional sentences available, the premise failed) → the encyclical/councils/correspondence realization (not dramatic — the institutional man recognizing the tools have reached terminal limit) → the non-decision (correspondence stays locked because he did not stand up, not because he decided) → hands unfolded, not refolded → the encyclicals over (not decided — premise failed) → sitting in the cathedral with the hum continuing through the stone
+- **Dominant Emotion:** The specific stillness of a man whose tools work and whose premise has failed. Not collapse — the institutional register is intact. Not revelation — he has known the truth for forty years. The emotional state is the exhaustion of a man who has been making the same decision every morning for twenty-two years and who, tonight, did not make it. Not because he changed his mind. Because he did not stand up.
+- **Key Emotional Beat:** "His hands unfolded. He did not fold them again." — The chapter's physical pivot. The institutional posture that has been the body's answer to every crisis for twenty-two years breaks and stays broken. Not dramatic. Not theatrical. The hands unfold. They do not refold. The Arch-Prelate sits in the stone chair with his hands open on his knees.
+- **Secondary Beat:** "He could not make the sentences." — The institutional tools are available. The sentences exist. The fluency is intact. What has failed is the premise. This is the further stage from Ch 22 (pen stopped — fluency failure) and Ch 27 (sat in the dark — physical presence without reading). In Ch 39, the tools work and are irrelevant. The distinction is the chapter's most precise emotional contribution.
+- **Tertiary Beat:** The elderly priest's line. "They are all still here." Nephthys's words in an institutional mouth. Malachi does not know whether the priest is quoting her or arrived independently. The words fill the cathedral the way every word fills it — amplified, resolved, carried to every corner. The chapter's pivot: everything before it is the event, everything after it is the aftermath.
+- **Exiting State:** Sitting in the stone chair. Hands unfolded on knees. The hum continuing through the stone. The fifty who remain in the pews. The encyclicals over — not decided, premise failed. The correspondence in the locked study, the forty-three steps not walked. The "yet" operative. The institutional posture broken and not restored. The Arch-Prelate without institutional tools, in the institutional space, with the hum continuing.
+- **Emotional Shift from Ch 27:** Ch 27 ends with Malachi sitting in the dark without reading the correspondence — physical presence at the locked study, the ritual incomplete. Ch 39 ends with Malachi sitting in the cathedral, the locked study not visited, the forty-three steps not walked. The shift is from *incomplete ritual* to *ritual abandoned*. The distance to the correspondence is growing, not shrinking. But the "yet" is now operative — the active decision has become a non-decision, and non-decisions can resolve in either direction.
+
+**Folded Hands Arc (cumulative):**
+- B2 Ch 3: ×3 — opening (habitual), council (institutional composure), locked study return (closing posture)
+- B2 Ch 14: ×4 — opening, council, post-Threshold paralysis processed as posture, closing. Frequency increasing.
+- B2 Ch 22: Present throughout — the institutional body asserting itself as the institutional mind encounters tasks it cannot perform.
+- B2 Ch 27: Present, then briefly released (Prague — the woman's hands on the pew). Restored before departure.
+- **B2 Ch 39: Present at Vespers opening. Broken during the Voice event. Not restored. "His hands unfolded. He did not fold them again." First permanent break across five chapters. The arc completes its progression: the posture that has been the body's institutional answer to everything has no answer for this.**
+
+**Elderly Priest (Supporting — new):**
+- **Emotional Register:** Unnameable. Seventy years old, thirty years ordained. The man who signed Nephthys's excommunication decree. Standing at the altar rail during the Voice event, hands on the rail, expression Malachi has never seen on it in thirty years of institutional service.
+- **Key Emotional Beat:** "They are all still here." — One sentence. Spoken once. Not repeated. Whether he is quoting Nephthys or arrived at the words independently is unresolved. The sentence is sufficient. The sentence is more than sufficient — it is the most complete theological statement produced in the European See since the mid-truth, and it came from a parish priest at the altar rail, not from the Arch-Prelate's desk.
+- **Emotional Function:** The chapter's pivot. Everything before the sentence is the event. Everything after it is the aftermath. The institutional man speaking the prophet's words in the institutional heart — the theological mirror made literal.
+
+**Edda (Background — new):**
+- **Emotional Register:** Suspended. The chaplain conducting Vespers whose liturgy was interrupted. Standing beside the altar, looking at Malachi. The look of a chaplain who has been hearing something in the cathedral and who recognizes, in the Arch-Prelate's stillness, that the Arch-Prelate has heard it too. No dialogue. No institutional response offered. The service suspended.
+
+---
+
 _Last updated: 2026-02-21_

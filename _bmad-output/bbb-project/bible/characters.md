@@ -955,10 +955,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Institutional management as suppression
 
 **Current Psychological State:**
-- Phase: 3/5 (Proliferation — institutional tools exhausted, personal scale of suppression confronted)
-- Emotional State: Institutional posture holds. Interior: the circle has a voice now. The woman's mother is in the hum. No encyclical for it.
-- Dominant Beliefs: "The faithful need the institution more than they need the truth." — still operative, but the calculus has been heard in a chapel and it did not hold.
-- Internal Contradictions: Knows the Voice is composite suffering; gave Father Ondřej the institutional framework in a chapel where someone's mother had just spoken through the heating grid. The framework was correct. The framework had nothing to do with what he heard.
+- Phase: 4/5 (Institution dissolving — Voice through every resonance chapel; institutional tools intact, premise failed)
+- Emotional State: Institutional posture broken. Hands unfolded in the cathedral during the Voice event. Did not refold them. Did not speak. Did not walk the forty-three steps. The encyclicals are over — not decided, premise failed. The "yet" is now operative.
+- Dominant Beliefs: "The faithful need the institution more than they need the truth." — the decision not to publish has shifted from active (renewed every morning) to non-decision (the Arch-Prelate sitting in the cathedral, not moving). The Lie is not abandoned. It is no longer being made.
+- Internal Contradictions: The institutional tools work. The institutional sentences are available. The premise has failed. The correspondence is the only honest document in his possession — not because it answers what happened, but because it was written without institutional management. He did not open the drawer. Not yet. The "yet" is the only thing that has changed.
 
 **The Lie:** The faithful need the institution more than they need the truth.
 
@@ -971,9 +971,9 @@ This bible dimension tracks **current character states**:
 | The Faithful (aggregate) | Pastoral | Genuine/Strained | He cares about the congregations. The care and the suppression coexist. The pastor who withholds the diagnosis. In Prague, he watched a congregation hear something their framework could not hold and gave them the framework anyway. |
 
 **Current Arc:** Institutional Manager → Institutional Crisis Manager (Book 2-3)
-- Current Phase: 3/5 (Proliferation — tools exhausted, personal scale confronted)
-- Progression: Third encyclical blank. Traveled to Prague to find the sentence. Heard someone's mother instead. Gave Father Ondřej the institutional response. Returned to locked study. Sat in the dark without reading the correspondence. The circle is closed. The circle has a voice.
-- Next Step: Ch 38 ("Through the Infrastructure") — Voice through every resonance chapel. Prague is the specific site that haunts this chapter.
+- Current Phase: 4/5 (Institution dissolving — Voice through chapels; premise failed)
+- Progression: Voice through every resonance chapel simultaneously during Vespers at the European See. Names through the cathedral's own infrastructure. Elderly priest: "They are all still here" — Nephthys's words in an institutional mouth. Malachi does not speak. Does not walk the forty-three steps. Hands unfold and do not refold. Encyclicals over — not decided, premise failed. The "yet" operative.
+- Next Step: Ch 50 ("The Drawer") — the non-decision resolves.
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -981,14 +981,16 @@ This bible dimension tracks **current character states**:
 | 1/5 | Post-BLACKWEIR institutional management | Diocesan reports, council convened, encyclical drafted, locked study visited |
 | 2/5 | Mid-truth institutional crisis | Emergency council. Three positions. Encyclical contradicted. Tools insufficient. Lie cracking. |
 | 3/5 | Tools exhausted — personal scale confronted | Third encyclical blank. Prague: woman's mother in the hum. Gave the framework. Sat in the dark. |
-| 4/5 | Institution dissolving — Voice through chapels | Ch 38: Voice through every resonance chapel. Prague haunts this chapter. |
+| 4/5 | Institution dissolving — Voice through chapels | Ch 39: Voice through the European See's cathedral. Names through the infrastructure. Hands unfolded. Encyclicals over. The non-decision. |
 | 5/5 | TBD | Option A: Last Encyclical / Option B: Walks into Anchor |
 
 **Appearances:**
-- Last Appearance: B2 Ch 27 ("Prague")
-- Next Planned Appearance: B2 Ch 38 ("Through the Infrastructure")
+- Last Appearance: B2 Ch 39 ("Through the Infrastructure")
+- Next Planned Appearance: B2 Ch 50 ("The Drawer")
 
 **Recent History:**
+- **B2 Ch 39:** Vespers at the European See's cathedral. The Voice arrives through every piece of nitro-connected infrastructure simultaneously — heating conduits, copper fittings, the acoustic amplification array installed in the 2140s. The cathedral amplifies. Names. Structured, layered, individual designations arriving with the clarity the acoustic architecture was built to provide. The congregation breaks: some collapse, some pray, some run. An elderly priest at the altar rail — seminary faculty, seventy years old, signed Nephthys's excommunication decree — says: "They are all still here." Nephthys's words. Malachi does not know whether the priest is quoting her or arrived independently. Malachi does not speak. The institutional sentences are available; the premise has failed. The tools work. The tools have nothing to do with what came through the walls. He does not walk the forty-three steps. He does not open the drawer. His hands unfold during the Voice event and do not refold. The encyclicals are over — not decided, premise failed. The "yet" is now operative: the decision not to publish has shifted from active suppression to non-decision. The hum continues through the stone.
+
 - **B2 Ch 27:** Travels to Prague to investigate sustained acoustic phenomena at the resonance chapel of St. Václav (seeded in Ch 22 locked study). Arrives before Vespers, observes unannounced from alcove at rear of nave. During Communal Harmonization, the hum through the chapel's retrofitted infrastructure resolves into structured sound — not words, but pattern. The chapel's Romanesque acoustic architecture (pre-nitro construction, built for choral resonance) amplifies what the conduit carries. A woman near the front presses her hands flat against the pew and says: "That is my mother. She was in Neo-Shanghai." Malachi hears it. After the service, gives Father Ondřej the institutional response — VEC acoustic assessment, pastoral framework, measured sentences. Hears himself deliver it. Stops mid-sentence. Gives Ondřej the minimum: continue services, apply framework, guidance forthcoming. Returns to European See by rail. Goes directly to locked study. Does not turn on the lamp. Sits in the dark without reading the correspondence. Third encyclical still blank. No closing cadence. The circle has a voice. The circle does not have a response.
 
 - **B2 Ch 3:** Tuesday at the European See. Receives 41 diocesan reports: resonance chapels across Europe reporting anomalous acoustic phenomena post-BLACKWEIR. Congregants hearing "additional voices" during Communal Harmonization. Sister Elowen (Reykjavik) reports the hum is "not singular" — Nephthys's word. Convenes council (14 senior clergy, Chapter Hall). Delivers institutional framing: deepened perception, not disruption. Announces encyclical: "The Voice Is Not Wounded." Council raises Void Witness migration (19% increase European See) and Nephthys's movement in Neo-Shanghai. Malachi names her aloud in the Chapter Hall — first time since the Silencing. Writes encyclical alone (3 pages, institutional theology, published by morning). Visits locked study — separate room, 40-three steps from office, mechanical lock, no digital access logs. Nephthys's letters (pre-Silencing, when she was still ordained), his unsent responses, marginal annotation: "A Voice composed of suffering is not a gift. It is a cry." Returns to office. Hands folded. The encyclical publishes. The question survives.

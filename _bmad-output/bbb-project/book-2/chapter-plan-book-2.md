@@ -857,8 +857,8 @@ Phase 5 is not resolution. It is the new vertigo — uglier, more honest, more p
 | 49 | Nikolai | "Accuracy" | E | Court-martial (Lagos or Geneva) |
 | 50 | Malachi | "The Drawer" | G | European See |
 | 51 | Kira | "Eighty Milligrams" | F | Neo-Shanghai |
-| 51 | Zeyad | "Forty Minutes" | B | New Geneva / UGC |
-| 52 | Nuwa | "I Was There" | C | Neo-Shanghai Mid-Levels |
+| 52 | Zeyad | "Forty Minutes" | B | New Geneva / UGC |
+| 53 | Nuwa | "I Was There" | C | Neo-Shanghai Mid-Levels |
 
 **Ch 46 — Aurielle: "The Grid Continues"**
 Three days after the Voice. SHEPHERD terminated — Aurielle's decision, not the board's. "You cannot steward something that takes inventory." Thorne: "Then what do we do?" Aurielle: "We keep the grid running. We don't pretend we're managing the void. We manage the infrastructure." The dependency is unchanged. Every city on the grid still draws power. The Voice didn't liberate anyone — it informed them. The information doesn't produce alternatives. She sits in the chair. The next quarterly report is in six weeks. She'll present numbers. The numbers will be correct. The machine continues. It always continues.
@@ -878,10 +878,10 @@ European See. The cathedral quiet after the Voice. Half the clergy haven't retur
 **Ch 51 — Kira: "Eighty Milligrams"**
 The second broadcast: 2.1 billion views. Authentication verified by seven independent forensic labs. The Voice, relayed through a human nervous system, documented and undeniable. Kira is the most famous person on Earth. Also the most hunted — government requests for "cooperative testimony," Academy legal threats, corporate recruitment offers, three separate military subpoenas. She ignores all of them. The Lumina at 80mg. The pharmacist scene — different now. Not the monthly ritual. Emergency prescription. The pharmacist looks at her. "This is the maximum dose." Kira: "I know." The pills. The sorting. The 30-day holder. But Tuesday is gone. She cannot remember Tuesday. Not the events — the *day.* A gap. The memory erosion that the Lumina documentation warns about in the fine print. The antenna is burning. The signal continues. She does not stop listening.
 
-**Ch 51 — Zeyad: "Forty Minutes"**
+**Ch 52 — Zeyad: "Forty Minutes"**
 The UGC vote. He watches from the gallery. The proposal passes: 60-40. He doesn't celebrate — he knows what comes next. NitroCore's legal team files the injunction in 40 minutes. His grandfather's Accords — the framework designed to prevent exactly this — are the legal mechanism NitroCore uses to block the reduction. "Economic sovereignty" under Article 14. The same article that prevented intervention before BLACKWEIR. Zeyad watches the injunction filing scroll across the official feed. The record is complete. Every vote logged. Every argument transcribed. Every injunction timestamped. The most comprehensive record of institutional failure in human history. It changes nothing. He opens a new document on his personal device. Not an Accords brief. Not a diplomatic cable. He writes: "What follows is an account of what the Accords were designed to do, what they did instead, and what must replace them." The pen continues.
 
-**Ch 52 — Nuwa: "I Was There"**
+**Ch 53 — Nuwa: "I Was There"**
 **Final chapter. Book closes here.** The Voice gave her names for the numbers. 47 names she recognized. 8.2 million she didn't. She has been relocating people — marking safe zones, knocking on doors, moving families out of sacrifice districts using Fuxi's data and her own survival knowledge. After the Voice, the work continues. But something has shifted. She was invisible. She chose invisibility. The system designed her for it. Now she sits at a public terminal. Kira's network — the testimony chain she has watched for months. The channel where mages and scientists and diplomats and soldiers share what they know. She has never contributed. She opens a message. Types: "My name is Nuwa Lin. I was in the Neo-Shanghai Sump during BLACKWEIR. I survived. I have been relocating people from sacrifice districts using infrastructure data from a former conduit technician. I know the topology. I know where the fronts move. I know who was there. I counted." She sends it. The invisible woman, visible. The expendable person, choosing to be counted. The ground truth that all the institutions lack, stepping into the network that needs it most.
 
 ---

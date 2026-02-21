@@ -1,0 +1,88 @@
+---
+chapterNumber: 39
+title: "Through the Infrastructure"
+book: 2
+pov: Malachi
+wordCount: 4100
+phase: 4
+mode: TEXTURE
+timeline: "~10 months post-BLACKWEIR — simultaneous with Ch 37 (Aurielle) and Ch 38 (Nephthys)"
+location: "European See — Cathedral"
+completedDate: "2026-02-21"
+status: v1-complete
+
+epigraph:
+  text: "The hum carries. Go in Radiance."
+  source: "Standard dismissal, Church of the Blessed Nitro, Order of Evening Radiance"
+  function: "The liturgical formula never spoken — the infrastructure said something else first. 'The hum carries' — it did carry. It carried names."
+
+synopsis: >
+  The Voice event through the European See's cathedral during Vespers. Malachi is present as presiding
+  authority. Names arrive through every piece of nitro-connected infrastructure simultaneously — heating
+  conduits, copper fittings, the acoustic amplification array. The congregation breaks: some collapse,
+  some pray, some run. An elderly priest at the altar says "They are all still here" — Nephthys's words
+  in an institutional mouth. Malachi hears the names. What he hears is not theology. It is people
+  reporting their own names through the infrastructure his institution blessed and sanctified. The
+  institutional tools are available; the premise has failed. He does not open the drawer. Not yet.
+  But he stops writing encyclicals.
+
+characters:
+  pov:
+    - Malachi
+  supporting:
+    - "Elderly priest (seminary faculty, 70, signed Nephthys's excommunication decree)"
+    - "Edda (chaplain, conducting Vespers)"
+  referenced:
+    - "Father Ondřej (Prague chaplain, Ch 27)"
+    - "Nephthys (words in the elderly priest's mouth)"
+
+keyEvents:
+  - "Vespers begins — Communal Harmonization — the infrastructure changes"
+  - "The Voice: names through every nitro-connected system simultaneously"
+  - "Congregation response: collapse, prayer, flight"
+  - "Elderly priest: 'They are all still here' — Nephthys's words"
+  - "Malachi does not speak — the Arch-Prelate is silent"
+  - "Institutional tools available; premise failed"
+  - "Hands unfold and do not refold — first permanent break"
+  - "The non-decision: correspondence stays locked because he did not stand up, not because he decided"
+  - "Encyclicals over — not decided, premise failed"
+
+keyPoints:
+  - "Malachi does not speak in this chapter — zero dialogue from the POV character"
+  - "The forty-three steps are referenced but not walked — furthest the pattern has broken"
+  - "Hands unfolded and not refolded — first time across all five Malachi chapters"
+  - "No closing cadence — pattern broken in Ch 27, not restored"
+  - "The 'yet' is now operative: the decision not to publish has shifted from active to non-decision"
+  - "The Voice conflation: congregation uses 'the Voice' for both the hum and the broadcast; Malachi does not adopt it"
+  - "Elderly priest's line is Nephthys's language — whether he is quoting her or arrived independently is unresolved"
+  - "Hum quality shift: first time the hum's character changes (not just density) — 'the surface had cracked'"
+
+newElements:
+  - "'Names.' as isolated single-word paragraph — the chapter's hinge"
+  - "Hands unfolded (not refolded) — institutional posture's first permanent break"
+  - "The non-decision — active suppression becomes non-decision"
+  - "Hum quality shift — depth visible, populated, named"
+  - "Edda (chaplain) — named, present, witnessed the Arch-Prelate's silence"
+
+continuityFlags:
+  - "Ch 50 ('The Drawer'): the non-decision resolves — correspondence published, destroyed, or handed over"
+  - "The Voice conflation established in European See — will propagate through institutional response"
+  - "Edda witnessed the Arch-Prelate's silence — potential forward thread"
+  - "Vestments as container — seeds B3 arc"
+  - "Hum quality shift — monitor in Ch 50"
+
+themes:
+  dominant:
+    - Architecture of Power
+    - Systemic Complicity
+  strong:
+    - Where Identity Ends
+    - Truth as Weapon
+  moderate:
+    - What We Owe
+    - Institutional Collapse vs. Continuity
+  background:
+    - Commodification of Suffering
+
+auditResult: "PASS — 0 critical issues, 0 flags, 0 approved divergences"
+---

@@ -1216,4 +1216,56 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 ---
 
+### Chapter 39 — "Through the Infrastructure" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Institutional routine (corridor/vestments) → Vespers ordinary → infrastructure changes → Voice event (names) → congregation breaks → elderly priest's line → Malachi does not speak → the non-decision → hands unfolded → encyclicals over → hum continues
+**Action/Reflection Balance:** 5% action / 95% reflection
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Corridor to cathedral — vestments, bell, blank page offstage | ~700 | Low-institutional | Slow, weighted. The administrator walking to the ordinary service. Hum density tracked. |
+| Vespers begins — nave, harmonization | ~500 | Low-ordinary | Institutional rhythm established. Malachi does not vocalize — observation only. The routine before the disruption. |
+| The Voice event — infrastructure changes, names | ~800 | Rising → peak | Progressive: stone chair vibration → conduit fittings change → every system simultaneously → "Names." (isolated paragraph) → congregation breaks. Maximum compression at "Names." |
+| The elderly priest — "They are all still here" | ~300 | Peak-pivot | The chapter's hinge. One sentence. Everything before it is the event. Everything after it is the aftermath. |
+| Post-event stillness — cathedral empties, fifty remain | ~600 | Sustained-weight | Institutional sentences available, premise failed. Edda's look. "He could not make the sentences." |
+| The locked correspondence — the non-decision | ~800 | Contemplative-weight | The chapter's center. The correspondence as the only honest document. The possibility of publishing — available, not taken. "Not yet." The "yet" examined. |
+| Closing — encyclicals over, hum continues | ~300 | Resolving-open | Not decided — premise failed. Hands unfolded. "The hum continued through the stone." No cadence. |
+
+**Rhythm Notes:**
+- The chapter is built around two structural absences: Malachi does not speak (zero dialogue from the POV character), and Malachi does not go to the locked study (the forty-three steps not walked). Every prior Malachi chapter included institutional speech and the locked study visit. This chapter withholds both. The absences are the rhythm.
+- "Names." — single-word isolated paragraph. The chapter's hinge and its fastest moment. The Voice event reduced to its essential content in one word. Maximum rhythmic isolation.
+- The Voice event uses progressive compression: long atmospheric sentence (stone chair vibration) → medium sentence (conduit fittings change) → short sentence (every system simultaneously) → two-word paragraph ("It amplified.") → single-word paragraph ("Names."). The compression enacts the arrival.
+- The locked correspondence section (~800 words) is the chapter's densest passage — the institutional man examining the decision-not-decision, the "yet," the distinction between choosing suppression and not having stood up. Long subordinated sentences in the private register, consistent with the locked study voice from prior chapters.
+- Long-long-long-SHORT dominant throughout: "Names." / "His hands unfolded." / "He did not fold them again." / "Not yet." Single-sentence paragraph isolation at every thesis moment.
+- Closing compresses: four paragraphs from "He would not write another encyclical" → the premise failure → "It was people" → "The hum continued through the stone." Fastest section after the densest. The chapter ends at the same speed the Voice event arrived.
+- Dialogue: minimal. The elderly priest's single line is the only spoken dialogue. Malachi does not speak. The chapter's silence is structural — the Arch-Prelate who has been producing institutional language for twenty-two years produces none.
+
+**Pacing Notes:**
+- The opening (~700 words) is the negative space that makes the Voice event land. The institutional routine — the corridor, the vestments, the bell, the blank page offstage — establishes the ordinary before the extraordinary.
+- The Vespers scene (~500 words) deepens the ordinary: the administrator counting the room, the harmonization beginning, Malachi not vocalizing. The reader is inside the institutional rhythm when the infrastructure changes.
+- The Voice event (~800 words including the priest's line) is the chapter's fastest section. The compression is intentional: the event does not build slowly, it arrives progressively and then exceeds the architecture's capacity. "Names." is the chapter's fastest moment — one word, isolated paragraph.
+- The post-event stillness (~600 words) shifts register: the institutional sentences available, the premise failed. The pacing slows to match the weight of the recognition.
+- The locked correspondence section (~800 words) is the slowest section — the contemplative weight of the institutional man examining the non-decision. The reader inhabits the stone chair.
+- The closing (~300 words) compresses to the chapter's final speed: the encyclicals over (not decided), the hands unfolded, the hum continuing. The chapter ends without cadence.
+
+**Comparison to Ch 27 (direct Malachi precursor):**
+- Ch 27: ~3,800 words, Prague chapel, personal scale confronted, woman's mother in the hum, institutional framework delivered to Father Ondřej, locked study visited but correspondence not read, no closing cadence
+- Ch 39: ~4,100 words, European See cathedral, institutional scale confronted, names through every resonance chapel, institutional framework available but not delivered, locked study not visited, no closing cadence
+- Together: Ch 27 is the personal scale (one woman, one chapel, one sentence). Ch 39 is the institutional scale (two hundred and fifty congregants, three hundred and twelve chapels, names). The rhythm shifts from the intimate (Prague's Romanesque acoustics, the alcove, the chaplain) to the institutional (the See's cathedral, the Arch-Prelate's station, the amplification array). The emotional terminus is the same: the Arch-Prelate without institutional tools, in the dark (Ch 27) or in the cathedral (Ch 39), not reading the correspondence.
+
+**Malachi Arc Rhythm (cumulative):**
+- Ch 3: Three-movement (council/writing/locked study). Institutional tools work. Closing cadence.
+- Ch 14: Three-movement (council/writing/locked study). Tools insufficient but functional. Closing cadence.
+- Ch 22: Three-movement (council/blank page/locked study). Fluency fails. Cadence broken slightly.
+- Ch 27: Two-movement (Prague chapel/locked study in dark). Personal scale. No cadence.
+- Ch 39: Two-movement (cathedral/non-decision). Institutional scale. No cadence. No locked study visit. No speech.
+
+The rhythm contracts across the arc: five chapters, from three-movement institutional procedure to two-movement institutional suspension. The Arch-Prelate's rhythm is the institution's rhythm — and the institution's rhythm has run out of movements.
+
+**Phase 4 Rhythm Note:** Ch 39 is Phase 4's institutional chapter — the Arch-Prelate at the Voice event. Its rhythm is the correct register for this function: not the scientific vigil (Ch 36), not the corporate suspension (Ch 37), not the theological saturation (Ch 38), but the specific stillness of an institutional man whose tools work and whose premise has failed. The chapter's pacing enacts the non-decision: dense, weighted, then the hands unfold, then the hum continues.
+
+---
+
 _Last updated: 2026-02-21_

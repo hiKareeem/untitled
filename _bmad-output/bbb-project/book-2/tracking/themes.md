@@ -737,4 +737,37 @@ Three POVs, three architectures, the same event. No available model can contain 
 
 ---
 
+### Chapter 39 — "Through the Infrastructure" (Malachi)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | **Dominant** | The Church's own infrastructure — resonance chapels, heating conduits, copper fittings, acoustic amplification array — is the delivery mechanism for the thing the institution was built to manage. "The cathedral's acoustic architecture did what it was designed to do. It amplified." The architecture of power does not fail. It functions exactly as designed. |
+| Systemic Complicity | **Dominant** | The institution built the architecture that delivered the Voice event. "The names had come through the infrastructure. Through the copper fittings the Church had installed. Through the heating grid the Church had blessed. Through the amplification array the Church had commissioned." The complicity is structural: the blessing was the enablement. |
+| Where Identity Ends | **Strong** | The absorbed retain their names and report them through the Church's own infrastructure. "What had come through the infrastructure was not a phenomenon requiring institutional response. It was people. Frightened, present, reporting their own names through the systems his Church had built to carry the sound their Church called sacred." |
+| Truth as Weapon | **Strong** | The institutional tools are available; the premise has failed. Malachi could deliver the institutional response — the sentences exist, the fluency is intact — but "the tools had nothing to do with what had just come through the walls." Distinction from Ch 22: not fluency failure but premise failure. The locked correspondence is the only honest document. |
+| What We Owe | **Moderate** | The pastoral debt present but tools exhausted. The fifty who remain are the institution's final product — people who stayed because the structure was the only thing they knew. Malachi has nothing to give them. The care and the suppression have coexisted for twenty-two years; in Ch 39, the care is present without the means. |
+| Institutional Collapse vs. Continuity | **Moderate** | The institution does not collapse. The hum continues through the stone. The fifty remain. The encyclicals stop — not decided, premise failed. "The hum continued through the stone." The institution continues without its premise. The machine is running. The machine has no purpose it can name. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The institution built the amplification chambers. The institution blessed the infrastructure. The institution maintained the system for a hundred and thirty years. The Voice event did not use the Church's infrastructure despite the institution — it used it because of the institution. The architecture IS the complicity. The blessing IS the enablement.
+
+**Epigraph Integration:** "The hum carries. Go in Radiance." — Standard Vespers dismissal, never spoken in this chapter.
+- Thematic function: The liturgical formula the infrastructure made ironic and literal simultaneously. "The hum carries" — it did carry. It carried names. The dismissal that structures every Vespers service is the chapter's ghost: the words the institution would have said, and did not say, because the infrastructure said something else first.
+- AEGIS as invisible novelist: liturgical records, infrastructure maintenance logs, the acoustic amplification array's installation records — all accessible. The institution's own documentation is the evidence of its complicity.
+
+**Phase 4 Transformation Thread (Ch 36/37/38/39):**
+- Ch 36 (Sofia): Convergence detected. Scientific framework reaches its limit.
+- Ch 37 (Aurielle): Signal through NitroCore infrastructure. Institutional register suspends. The Lie dead.
+- Ch 38 (Nephthys): Chorus at full saturation. Circulation confirmed. "Circulation" spoken aloud.
+- **Ch 39 (Malachi): Voice through the European See's cathedral. Institutional tools intact but premise failed. Encyclicals over. Hands unfolded. The non-decision.**
+
+Four POVs, four architectures, the same event. Each left with what they have. None can name the body.
+
+**New Symbols:**
+- **"Names." (isolated paragraph):** The chapter's hinge. A single word, isolated, carrying the full weight of what the infrastructure delivered. The Voice event reduced to its essential content.
+- **Hands unfolded (not refolded):** The institutional posture's first permanent break across five Malachi chapters. Forward: the Arch-Prelate without the institutional posture.
+- **The non-decision:** Active suppression (renewed every morning for twenty-two years) becomes non-decision (the Arch-Prelate sitting in the cathedral, not moving). The "yet" is now operative.
+- **Elderly priest's line in the institutional mouth:** "They are all still here." Nephthys's words spoken by a man who signed her excommunication decree, in the institutional heart of the European See.
+
+---
+
 _Last updated: 2026-02-21_
