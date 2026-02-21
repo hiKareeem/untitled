@@ -209,7 +209,7 @@ Paz looked at the cash. Looked at the blood on Kira's collar. Did not look at he
 
 Paz slid the case across the counter. Matte black. The same size as every case before it. She picked up the cash and put it in the canvas bag and the transaction was complete and the transaction had always been the simplest part of the architecture — cash for compound, compound for quiet, quiet for function. The complexity was everything around it.
 
-"The curve's different now," Paz said. She was not looking at the bowl. She was not looking at Kira. She was looking at the counter between them, the space where the transaction lived. "Eighty held you for — what. Three weeks before today?"
+"The curve's different now," Paz said. She was not looking at the cup. She was not looking at Kira. She was looking at the counter between them, the space where the transaction lived. "Eighty held you for — what. Three weeks before today?"
 
 "Four."
 
@@ -221,9 +221,9 @@ Paz slid the case across the counter. Matte black. The same size as every case b
 
 "I'm staying at eighty."
 
-Paz was quiet for a moment. The noodle counter hummed — the conduit infrastructure beneath the floor, the Neo-Shanghai signal that Kira could feel through the stool's metal legs, the populated chord carrying its post-event density through everything. The chord was different now. She could feel it. The same way it had been different after BLACKWEIR, after São Paulo, after Mumbai. Fuller. The names had come and gone and the chord had kept what the names had carried and the keeping was permanent.
+Paz was quiet for a moment. The counter hummed — the conduit infrastructure beneath the floor, the signal that Kira could feel through the stool's metal legs, the populated chord carrying its post-event density through everything. The chord was different now. She could feel it. The same way it had been different after BLACKWEIR, after São Paulo, after Mumbai. Fuller. The names had come and gone and the chord had kept what the names had carried and the keeping was permanent.
 
-"The curve's different because you're not escalating," Paz said. "You're maintaining. Eighty is not your ceiling anymore. Eighty is your floor." She picked up the bowl. Set it down without eating. "Floors don't move. Ceilings do. When the ceiling comes down again — and it will — you're going to be at eighty with nowhere to go."
+"The curve's different because you're not escalating," Paz said. "You're maintaining. Eighty is not your ceiling anymore. Eighty is your floor." She picked up the cup. Set it down without drinking. "Floors don't move. Ceilings do. When the ceiling comes down again — and it will — you're going to be at eighty with nowhere to go."
 
 "I know."
 
@@ -233,7 +233,7 @@ Kira took the case. Put it in her bag. Stood. The stool's height meant standing 
 
 "Thanks, Paz."
 
-"Don't thank me." Paz picked up the bowl again. This time she ate. The meeting was over.
+"Don't thank me." Paz picked up the cup again. This time she drank. The meeting was over.
 
 ---
 

@@ -2,8 +2,8 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-20"
-lastChapter: "B2 Ch 27"
+lastUpdated: "2026-02-21"
+lastChapter: "B2 Ch 41"
 totalLocations: 20
 activeLocations: 15
 project_name: "Untitled"
@@ -879,11 +879,13 @@ Lagos is the primary FAS city featured in the narrative. Lower conduit density t
 - **Sub-grade conduit junction (breach origin):** Stage 2 breach site, 06:14 local. Lattice geometry propagating through conduit network. Two absorbed figures at junction at resolution — present, unchanged, uncategorized by FAS as casualties.
 - **FAS district command center:** Permanent building, maintained. Windows. After-action filing location. Afolabi's operational base.
 - **Forward staging area:** Tactical assembly point. Acoustic dampening arrays deployed from here.
+- **Perimeter command post (B2 Ch 41):** Field station at the edge of the secondary conduit cluster containment zone. Tactical displays showing RCI readings, twelve P-Frame telemetry feeds arrayed in two rows of six. Field desk with terminal. Location where Nikolai filed the second honest VS-7.
 
 **Key Events:**
 - **B2 Ch 25:** Stage 2 breach, Apapa industrial corridor. FAS non-kinetic containment — acoustic dampening (counter-resonance at three points) and infrastructure severance (non-kinetic, isolation clamps). Duration 4.7 hours. RCI at contact: 38.2. RCI at resolution: 18.3 and falling. Zero secondary absorption events. Two absorbed present at resolution, uncategorized. Nikolai files honest VS-7 via free-text override: "FAS non-kinetic containment achieved stable resolution in 4.7 hours. Zero secondary absorption events. No kinetic intervention required. PCC tactical support not deployed."
+- **B2 Ch 41:** Voice event, 06:17 local, 11 seconds. All twelve P-Frame units in Stalker-7's advisory detachment received simultaneous full-spectrum acoustic event through bone-conduction channels. Operators recognized absorbed personnel from prior deployments. Nikolai identified Jarek Kowalski's voice: name + "still deployed." Unit non-functional: three operators medical, two frames removed in active operational zone. Nikolai filed second honest VS-7 via free-text override — full account, no euphemism, doctrine's failure named in the doctrine's own language. Submitted through standard channels. Court-martial proceedings within 48 hours.
 
-**Significance:** The breach zone where the different doctrine worked. The FAS approach — observation, acoustic dampening, managed redirection — achieved stable resolution without kinetic intervention. The VS-7's dropdown had no category for what happened. The free-text override is the honest report that seeds the Ch40 court-martial arc.
+**Significance:** The breach zone where the different doctrine worked (Ch 25), and the location where the Voice event delivered Jarek's voice through the doctrine's own instrument (Ch 41). The VS-7's dropdown had no category for either event. The two honest reports filed here end Nikolai's career. The Apapa corridor is the site of both the first honest report and the last field log entry written by a serving officer.
 
 **Current State:** Resolved. Absorbed figures present at junction, status unchanged.
 

@@ -74,7 +74,7 @@ Not louder. Nuwa had lived with loud her entire life — the low E-flat that ros
 
 She was sitting at the kitchen counter when the power went.
 
-No flicker. No stutter of lights trying to hold. The conduit glow through the frosted polymer window dropped from orange to nothing — a color she'd never seen in this apartment. The absence of orange. The blue textile on the mattress vanished into the dark. The Frame overlay on her implant scrambled, threw artifacts, reset to emergency mode: white text on black. A single notification populated.
+No flicker. No stutter of lights trying to hold. The conduit glow through the frosted polymer window dropped from orange to nothing — a color she'd never seen in this apartment. The absence of orange. The blue textile on the mattress vanished into the dark. The frame overlay on her implant scrambled, threw artifacts, reset to emergency mode: white text on black. A single notification populated.
 
 *Municipal alert: Infrastructure event. Remain indoors. Do not approach conduit access points.*
 

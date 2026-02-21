@@ -746,4 +746,45 @@
 
 ---
 
+### Chapter 41 — "Jarek"
+
+**Nikolai Volkov (POV):**
+- **Entering State:** Post-Ch 25. First honest report in review queue for three months. Institutional silence. Rotation extended ("operational continuity requirements"). Still in Lagos, Apapa industrial corridor. The career's last structure holding by administrative suspension.
+- **Emotional Arc:** Operational routine (status check, hum at 4.2, twelve operators, everything accounted for) → the Voice through the frames (jaw at one millimeter, body registering Jarek before the signal delivers him) → Jarek's voice + "still deployed" (the architecture between himself and Junction 14-East removed) → aftermath command (the body performing while the unit fractures around him) → the honest report (clinical, complete, the free-text override used for the second time) → field log (maximum elaboration, the original commission named, "This is the last entry written by a serving officer") → window (the gap between 4.2 and 4.4 no longer matters).
+- **Dominant Emotion:** Not grief — the body does not produce grief in the register Nikolai operates in. The dominant emotional register is the specific quality of a man whose last architecture has been removed and who continues to perform the institution's functions anyway. The honest report is not heroism. The field log entry is not catharsis. Both are the instrument performing its function after the function's context has ended.
+- **Key Emotional Beat:** "I recognized Jarek." — Three words. The field log has carried Jarek's name in the jaw for ten months. The field log contains his name now not as a record of loss but as a record of contact. The sentence sits on the screen. He stops. This is the chapter's only moment of stillness that is not operational.
+- **Secondary Beat:** "This is the last entry written by a serving officer." — The field log's self-awareness of its terminus. Not resignation — recognition. The same register as every other field log entry. The instrument recording the end of its institutional context.
+- **Tertiary Beat:** Hands-check. Left index finger. Four seconds. Still. "The instrument did not differentiate." The steadiness that was horror in Accra, disorientation in Lagos (Ch 25), is now institutional function at its terminus. The hand that signed the commission and the honest reports signs with the same steadiness because the hand is the institution's instrument and the institution does not differentiate.
+- **Exiting State:** Lagos at night. Window. Hum at 4.2. The gap between 4.2 and 4.4 no longer matters. Both numbers describe the same hum. Career over. Court-martial proceedings within 48 hours. The field log closed. The window. The hum. "He stood at the window until the hum was all there was."
+- **Emotional Shift from Ch 25:** Ch 25 ends with disorientation — the honest report filed, the field log and official record converged for the first time, the body signing a true thing with the same hand that signed false things. Ch 41 ends with terminus — the second honest report filed, the career over, the field log recognizing its own end. The shift is from *disorientation* to *completion*. Not resolution — the deployment is still active, Jarek is still deployed, the commanding officer cannot bring him home. But the architecture of suppression is gone. Both numbers describe the same hum.
+
+**Nikolai Emotional Arc (cumulative):**
+- B1 Ch 11: Suppression. "Acoustic mimicry. Doctrine is clear." The field log corroborates what the institution cannot hold.
+- B1 Ch 20: Erosion. The crack in the doctrine. Pattern recognition suppressed.
+- B1 Ch 23: Forward position. The Baltic harmonic. The body knows before the instruments.
+- B1 Ch 32: Complicity. Two-key delivery. Understanding what he's agreed to carry.
+- B1 Ch 38: Terminus (Book 1). Jarek absorbed. Field log blank. Hand tremor. Signed the lie.
+- B1 Ch 47: After-action. PCR-11 filed. Field log duplicates the report — first time in fifteen years. Hands *still*.
+- B2 Ch 5: Rotation. "No elaboration." Field log contracting. Institution validates BLACKWEIR.
+- B2 Ch 15: Commission. "Still here" (Accra). First active falsification. Field log expanding.
+- B2 Ch 25: Honest report. Convergence. Field log = official record for the first time.
+- **B2 Ch 41: Terminus (Book 2). "Still deployed." Second honest report. Field log at maximum elaboration. Career over. The gap no longer matters. The window. The hum.**
+
+**Sergeant Reinholt (Supporting — FAS liaison):**
+- **Entering State:** FAS liaison assigned to Stalker-7's advisory detachment. Professional, measured.
+- **Emotional Arc:** Status report (operational, terse) → observes the Voice's impact on the advisory unit → "Your unit requires medical assessment" (clinical, not alarmed — FAS register).
+- **Dominant Emotion:** Professional pragmatism. The FAS officer who has just watched the PCC advisory unit — sent to demonstrate doctrine superiority — fracture around an event the doctrine cannot classify. The expression of a professional reading a structural outcome he did not want to confirm.
+
+**Corporal Vasić (Supporting — Stalker-7):**
+- **Entering State:** Stalker-7 operator, Team Three, perimeter east. Professional.
+- **Emotional Arc:** Voice event → frame removed in active operational zone → standing in soft kit, hands at sides, looking at the containment perimeter as though it were a thing she had never seen before.
+- **Dominant Emotion:** The specific state of a person whose operational framework has been removed mid-operation. Not breakdown — the body standing, the hands at sides, the eyes open. The doctrine's container gone. What's left is the person.
+
+**Specialist Dravec (Supporting — Stalker-7):**
+- **Entering State:** Stalker-7 operator, Team Two. Professional.
+- **Emotional Arc:** Voice event → frame removed → sitting on ground, hands shaking.
+- **Dominant Emotion:** The diagnostic tremor — the body's question about its own capacity to continue. The tremor Nikolai's hands stopped producing six months after BLACKWEIR. Dravec is at the beginning of the arc Nikolai has already completed.
+
+---
+
 _Last updated: 2026-02-21_

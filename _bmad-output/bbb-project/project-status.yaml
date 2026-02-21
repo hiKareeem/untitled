@@ -944,7 +944,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 4 — Kira POV (6th B2 appearance, 11th overall). Voice event from mage POV. Passive monitoring (406 mages, no relay, no casualties — Sofia's warning implemented). Eighty milligrams becomes conductor, not suppressant. R3 amplifies. Eleven seconds, conscious narration, 47K viewers. 'Names. I'm hearing names.' / 'Those were people.' Private voice on public stream — cannot be scrubbed. Right ear bleeding. R3 warm (heat dissipation — physical damage flag). Paz: '80mg is your floor, not your ceiling.' Sari payoff: 'The names finished' (resonance persistence from Ch 32 resolved). Memory erosion onset: date gap, 'Almost.' 'She was the antenna. She had always been the antenna.' Clip circulating — 2.1B views in 72 hrs (Kira does not know this yet). Approved divergences: Bay Area (not Neo-Shanghai), tea counter Paz scene, 80mg as floor not escalation. Phase 4 complete (Ch 36/37/38/39/40 — all five POVs through the Voice event)."
 
-completedCount: 94
-totalWords: 409837
+  book2_chapter_41:
+    title: "Jarek"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4800
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-41-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 4 (coda) — Nikolai POV (4th B2 appearance, 9th overall). Voice event from P-Frame operator POV. 06:17 local, 11 seconds, all twelve frames. Jarek's voice: name + 'still deployed.' Three operators medical, two frames removed in active zone. Nikolai does not remove his frame. Second honest VS-7 filed via free-text override: 'The doctrine's classification of absorbed personnel as non-recoverable is contradicted by the evidence received through this unit's own equipment.' Court-martial proceedings within 48 hours. Field log terminus: 'This is the last entry written by a serving officer.' Hum gap resolved: 4.2/4.4 both describe the same hum. Nikolai's Book 2 POV arc COMPLETE (Phase 5/5). New characters: Corporal Vasić (Team Three), Specialist Dravec (Team Two), Sergeant Reinholt (FAS liaison). Character name corrected: Okonkwo → Okafor (FAS name disambiguation). Epigraph: Yelena Marchetti, converter housing inscription — 'The metal carries it true.'"
+
+completedCount: 95
+totalWords: 414637
 lastUpdated: "2026-02-21"
 notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4: Ch 36 (Synchronization, Sofia) + Ch 37 (Eduardo, Aurielle) + Ch 38 (Circulation, Nephthys) + Ch 39 (Through the Infrastructure, Malachi) + Ch 40 (The Second Broadcast, Kira) — all complete 2026-02-21. Phase 4 complete (5 chapters, 5 POVs, same eleven seconds). B2 C37 approved divergence: Eduardo absent from signal (B1 C1 continuity — thermal-kinetic assassination, not absorption). Signal not named 'the Voice' in Aurielle's or Nephthys's prose (Church of the Blessed Nitro liturgical term). Secular name emerges Phase 5. B2 C38: Cathedral dephasing fails at global saturation scale. 'Circulation' spoken aloud for first time. 'I am fine' fiction broken. Seizure (first in arc). Congregation contracts to 12 core. B2 C39: Malachi does not speak (zero POV dialogue). Hands unfold and do not refold (first permanent break). Encyclicals over — premise failed, not decided. The 'yet' operative. Elderly priest speaks Nephthys's words in European See cathedral. 'The Voice' conflation established in European See. B2 C40: Kira POV. R3 amplifies second broadcast. Management identity bypassed (not broken). Memory erosion onset. 'Almost.' Phase 4 complete."

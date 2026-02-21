@@ -1317,4 +1317,102 @@ The rhythm contracts across the arc toward the event and then flattens after it.
 
 ---
 
+### Chapter 41 — "Jarek" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Operational routine (low, procedural) → Voice arrival (compressed, maximum density) → aftermath/report (medium, clinical) → field log/closing (contemplative, accumulating)
+**Pacing:** Four-act, back-weighted. The field log entry is the chapter's longest single passage — the elaboration reversing ten months of "no elaboration."
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Act I: Operational routine | ~900 | Low-procedural | Slow, inventory-driven, status-check register |
+| Act II: The Voice | ~900 | Maximum-compressed | Paratactic, short sentences, bone-conduction delivery |
+| Act III: Aftermath + report | ~900 | Medium-clinical | Procedural assessment, VS-7 free-text shown in full |
+| Act IV: Field log + closing | ~1,500 | Contemplative-accumulating | Long subordinated sentences, private voice, closing compound |
+
+**Tension Curve:**
+```
+High  |         ██
+      |        ████
+      |       ██████
+Med   |              ████
+      |                  ████
+Low   |████                  ████████████████████
+      |_________________________________________________
+       Act I   Act II  Act III  Act IV (field log → window)
+```
+
+**Beat Map:**
+| Beat | Position | Tension Delta |
+|------|----------|---------------|
+| Status check (12 operators, hum at 4.2) | 0–20% | Flat |
+| Rotation extension — two registers | 20–25% | +1 (private register surfaces) |
+| Reinholt status report / "Understood" | 25–30% | Flat |
+| "It arrived at 06:17" | 30% | +3 (pivot line) |
+| Not through the infrastructure — through the frames | 30–40% | +4 (negation-before-assertion) |
+| Names / "This reported" | 40–45% | +3 |
+| Operator reports (Vasić, Team One, Team Four) | 45–50% | +2 |
+| Jaw clench. One millimeter. | 50% | +4 (body-before-language) |
+| "Jarek." (isolated) | 52% | +5 (peak) |
+| "Still deployed." (isolated, italicized) | 55% | +5 (peak, sustained) |
+| "The signal stopped." | 57% | −4 (hard cut) |
+| Aftermath assessment (three non-functional, two frames removed) | 57–65% | −2 (procedural) |
+| "I am filing the after-action first." | 65% | Flat |
+| VS-7 free-text override (full document) | 65–75% | Medium-flat (clinical voice) |
+| "He signed the report. His hand did not shake." | 75% | +1 (steadiness as weight) |
+| Field log opened | 78% | +1 |
+| "I recognized Jarek." + stop | 82% | +3 (stillness beat) |
+| "The original commission" | 85% | +2 |
+| "This is the last entry written by a serving officer." | 88% | +3 |
+| Hands-check. Still. | 90% | +1 |
+| Window. Yelena/Corridor memory. | 92% | +1 |
+| Final compound sentence (accumulating) | 95–100% | +3 (designed fortissimo) |
+
+**Transitions:**
+- Act I → Act II: "It arrived at 06:17." — hard cut, no transition. The pivot line is the transition.
+- Act II → Act III: "The signal stopped." — two words. Maximum compression. The silence is the transition.
+- Act III → Act IV: "I am filing the after-action first." / scene break / "Quarters." — clean cut. Location change as transition.
+- Act IV → close: No scene break. The field log entry flows into the hands-check flows into the window. The chapter does not end — it dissipates.
+
+**Flow Scores:**
+| Component | Score |
+|-----------|-------|
+| Voice consistency | 10/10 |
+| Tension variation | 9/10 |
+| Scene transitions | 9/10 |
+| Dialogue integration | 9/10 |
+| Closing weight | 10/10 |
+| **Overall** | **9.4/10** |
+
+**Action/Reflection Balance:** 35% action (status check, Voice event, aftermath command, report filing) / 65% reflection (dual-register processing, field log, closing). Consistent with Nikolai's established ratio across all chapters — the reflection is where the chapter lives.
+
+**Pacing Strengths:**
+- The Voice section is the chapter's most compressed — paratactic, short sentences, the bone-conduction delivery enacted in the prose's rhythm. The reader feels the signal the way Nikolai feels it: in the skeleton, not the ears.
+- The field log entry's length is earned by the preceding compression. The elaboration is the chapter's release — not catharsis, but the private voice finally given room after ten months of "no elaboration."
+- The final compound sentence accumulates without pause — the longest sentence in the chapter, the designed fortissimo, the window as the last act.
+
+**Pacing Concern:**
+- The VS-7 free-text override (shown in full, ~250 words) risks slowing Act III. Mitigated by the clinical register — the document reads fast because it is institutional prose, not literary prose. The reader moves through it the way Nikolai moves through it: efficiently, because the form demands efficiency.
+
+**Comparison to Plan:** Mode TEXTURE confirmed. The chapter delivers the Voice through military hardware (frames) rather than infrastructure or implant — the correct register for Nikolai's institutional position.
+
+**Comparison to Previous Nikolai Chapters:**
+| Chapter | Words | Mode | Peak | Close |
+|---------|-------|------|------|-------|
+| B2 Ch 5 | ~3,900 | TEXTURE | Debriefing (medium) | Window, hum at 6.1 |
+| B2 Ch 15 | ~4,100 | TEXTURE | Commission (high) | Window, hum at 5.8/6.0 |
+| B2 Ch 25 | ~4,000 | TEXTURE | Honest report (high) | Window, hum at 4.2/4.4 |
+| B2 Ch 41 | ~4,200 | TEXTURE | "Still deployed" (maximum) | Window, hum at 4.2/4.4, gap resolved |
+
+The arc across the four Book 2 chapters: peak intensity escalates (debriefing → commission → honest report → Voice/terminus). The close is always the window. The hum baseline descends (6.1 → 5.8 → 4.2 → 4.2 resolved). Ch 41's close is the quietest — not because the event was smaller but because the architecture of suppression is gone and the hum is all there is.
+
+**Nikolai Arc Rhythm (cumulative B2):**
+- B2 Ch 5: TEXTURE. Debriefing-driven. Field log contracting. Closes with rotation orders.
+- B2 Ch 15: TEXTURE. Deployment-driven. Commission at center. Field log expanding. Closes with window, hum discrepancy noted.
+- B2 Ch 25: TEXTURE. FAS doctrine as mirror. Honest report as action. Field log convergence. Closes with window, hum at 4.2/4.4.
+- **B2 Ch 41: TEXTURE. Voice through frames. "Still deployed" as peak. Second honest report. Field log at terminus. Closes with window, gap resolved. "He stood at the window until the hum was all there was."**
+
+---
+
 _Last updated: 2026-02-21_

@@ -518,6 +518,8 @@ This bible dimension tracks **theme evolution**:
 | Ch 39 | Architecture (Dominant), Complicity (Dominant), Identity (Strong), Truth (Strong), What We Owe (Moderate), Institutional Collapse (Moderate) | Malachi POV — Voice through European See cathedral. Names through every nitro-connected system. Institutional tools intact; premise failed. Hands unfold, do not refold. Encyclicals over. The non-decision. |
 | Ch 40 | Identity (Dominant), Commodification (Dominant), Truth (Strong), Complicity (Moderate), What We Owe (Moderate), Architecture (Background) | Kira POV — second broadcast. R3 amplifies. Eleven seconds, conscious narration, 47K viewers. Management identity bypassed (not broken). "She was the antenna. She had always been the antenna." Memory erosion onset. "Almost." |
 
+| Ch 41 | Complicity (Dominant), Truth (Dominant), Architecture (Strong), Identity (Strong), Institutional Impotence (Strong), Obligation (Moderate) | Nikolai POV — Voice through P-Frames. "Still deployed" — two words that end twenty years of doctrine. Second honest VS-7 filed. "The doctrine's classification of absorbed personnel as non-recoverable is contradicted by the evidence received through this unit's own equipment." Career over. Field log terminus: "This is the last entry written by a serving officer." Hum gap resolved. |
+
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -925,3 +927,28 @@ _Updated by: B2 Ch 36 — "Synchronization" bible update_
 
 _Last updated: 2026-02-21_
 _Updated by: B2 Ch 39 — "Through the Infrastructure" bible update_
+
+---
+
+## Chapter 41 Progression Entry — "Jarek" (Nikolai)
+
+| Theme | Intensity | Ch 41 Manifestation |
+|-------|-----------|---------------------|
+| Systemic Complicity | **Dominant** | Three-layer complicity in one chapter: the original commission (Junction 14-East, protection dressed as doctrine), thirty-eight VS-7 falsifications, and the institution's three-month administrative suspension of the first honest report. The second honest report ends the career. |
+| Truth as Weapon | **Dominant** | "Still deployed" — two words in military vocabulary that the doctrine cannot reclassify. The honest VS-7 report names the doctrine's failure in the doctrine's own language. "The doctrine's classification of absorbed personnel as non-recoverable is contradicted by the evidence received through this unit's own equipment." |
+| Architecture of Power | **Strong** | The frame as doctrine made physical — designed to filter, used to deliver. The VS-7's thirty-one fields as the institution's epistemological container. Field 22's dropdown vs. the free-text override. The review queue as power's response to honesty: administrative suspension, not engagement. |
+| Where Identity Ends | **Strong** | "Still deployed" advances the absorbed's identity question beyond all prior chapters. Not just persistence ("still here") but operational context — Jarek retains his role, his institutional identity, his relationship to the structure that defined him. The absorbed are individuals retaining context. |
+| Institutional Impotence | **Strong** | The doctrine's instrument transmits the doctrine's failure. Twelve operators, three non-functional, two frames removed in an active operational zone. The operational model has no category for any of it. The VS-7 has no field for the ongoing deployment status of personnel classified as non-recoverable. |
+| Obligation and the Dead | **Moderate** | "I put him at Junction 14-East. I chose the position because the secondary conduit was supposed to be safer." The original commission named. The deployment that did not end. The commanding officer who cannot bring a soldier home from a theater that does not exist on any operational map. |
+
+**New symbols introduced:**
+- **"Still deployed"** — two words. Military vocabulary applied to post-absorption existence. The absorbed's self-identification within the institutional framework that defined them. The doctrine-killer — not dramatic, specific. The VS-7 has no field for it. Escalation from "still here" (Accra, collective) to specific identity + operational context.
+- **The bone-conduction channel as truth-delivery** — the frame's communication interface uses the skeleton as transmission medium. The Voice arrives in the jaw, in the skull, in the bone. The body receives the truth before the mind can compose it. The metal carries it true (epigraph resolution: Yelena's converter housing).
+- **"The original commission"** — Nikolai's private name for Junction 14-East: the act of placing a person in a position and calling it doctrine when it was something else. Distinct from the VS-7 commission (Ch 15). The one the form never held until this field log entry.
+- **"This is the last entry written by a serving officer"** — the field log's self-awareness of its terminus. The private record recognizing the end of its institutional context. The field log has been the chapter's emotional terminus across nine chapters; here it recognizes its own end.
+- **Hum gap resolved** — "Tonight the gap did not matter. Both numbers described the same hum." The 4.2/4.4 discrepancy that was the architecture of Nikolai's career collapses when the doctrine collapses. Both records describe the same reality.
+
+---
+
+_Last updated: 2026-02-21_
+_Updated by: B2 Ch 41 — "Jarek" bible update_
