@@ -554,4 +554,35 @@ The three-register structure is the chapter's formal argument: the convergence i
 
 ---
 
+### Chapter 31 — "Inside the Zone" (Zeyad Al-Fahim)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Institutional Impotence | **Dominant** | Three models tested simultaneously: FAS (humane, insufficient), military (catastrophic), institutional (monitoring). "The void does not consult the model." The notebook entry and the narrative confirm each other. The pen precedes the understanding. The understanding precedes nothing. |
+| Systemic Complicity | **Strong** | The FAS chose poverty over murder for forty-one years. The FAS still produced an Anchor Zone. The complicity is not in the FAS's choices — it is in the global system that made those choices structurally inadoptable. The alternative existed. The alternative was insufficient. The system that prevented adoption is complicit in the insufficiency. |
+| Architecture of Power | **Strong** | Three scales: (1) FAS distributed infrastructure — designed to prevent the Sump, insufficient to prevent the void. (2) Stalker doctrine vs. FAS protocol — two architectures watching the same event, one deferring by treaty. (3) GCTA alert format — same institutional template that organized BLACKWEIR now organizes Mumbai. The architecture persists across catastrophes. |
+| Truth Without Power | **Strong** | The record is complete. The record contains: FAS model worked, FAS model insufficient, military model failed catastrophically, institutional model produced briefings. The record will be filed. The record will not change the outcome. "The pen continues." |
+| Complicity's Aftermath | **Moderate** | "The composure held because it had no other function." The aftermath is not despair — it is the composure persisting after the reason for composure has been destroyed. Thirty-four years of institutional habit running on empty. |
+| What We Owe | **Background** | The minimum remaining moral act: make the record. Zeyad owes it to Mirelle, to the 8.2M, to the 2.3M, to the FAS vote that proved the alternative was possible. The record will contain it. |
+
+**Key Resonance:** Institutional Impotence ↔ Architecture of Power. The architecture is why the impotence is structural, not accidental. The FAS built the right architecture. The right architecture was not adopted. The adoption was prevented by the architecture of the Accords (Article 9, Section 4 — "equivalent throughput capacity"). The architecture prevents the architecture. The void does not consult any of it.
+
+**Epigraph Integration:** FAS Maintenance Circular 2134-09 — "The junction does not remember what nominal felt like. The operator does."
+- Opaque on first read: routine operational document about monitoring cadence reduction
+- Resonates after: Lagos was nominal. Lagos is no longer nominal. The infrastructure does not remember. Zeyad does.
+- The bureaucratic voice of the circular is itself a kind of grief — institutional language containing the knowledge that systems forget and people don't
+- AEGIS as invisible novelist: reconstructing the moment a junction exceeded threshold from the maintenance record that preceded it
+
+**Zeyad's Lie Arc (Phase 3):**
+- B1 Ch 6: "If the record is complete, justice is possible." The Lie as institutional faith.
+- B1 Ch 30: The mechanism is ornamental. The Lie cracking.
+- B1 Ch 45: Publishes the record. The Lie broken.
+- B2 Ch 7: "The record is complete and public and changes nothing." The Lie's aftermath.
+- B2 Ch 17: "The alternative exists. It is sound. It will not be adopted." New Lie forming.
+- **B2 Ch 31: The alternative model tested under live conditions. Sound. Humane. Insufficient. The new Lie proven insufficient. Not broken — that is Ch 41. Proven insufficient, which is worse than being wrong.**
+
+**Cross-Chapter Rhythm:** Ch 30 (AEGIS, 2.3M dead, 847.3 km altitude, military model catastrophic failure) → Ch 31 (Zeyad, 0 dead, ground level, alternative model humane insufficiency). The juxtaposition is the chapter pair's argument: the system that kills 2.3M from orbit; the man who records the alternative from a concrete platform. Same evening. Different altitude. The void is consistent across both.
+
+---
+
 _Last updated: 2026-02-20_

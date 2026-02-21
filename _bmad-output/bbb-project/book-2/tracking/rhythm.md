@@ -923,4 +923,46 @@ The progression is structural: B1C42 ends on stillness (survival). B2C8 ends on 
 
 ---
 
+### Chapter 31 — "Inside the Zone" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Institutional calm (readings, data) → physical escalation (hum rising through body) → operational procedure (FAS protocol, methodical) → pivot (breach does not close) → Anchor Zone declaration → informational shock (Mumbai) → solitary reckoning (hum meditation, closing)
+**Pacing:** Four-scene architecture. Front-weighted with escalation; back half compresses toward the two-word closing.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Observation post, pre-escalation | ~800 | Low-institutional | Slow, data-driven, badge/pen/notebook ritual |
+| Breach / containment protocol | ~1,400 | Rising → peak → held | Hum ascending through body; FAS operators methodical; Stalkers watching; B-12 isolation |
+| Mumbai news | ~1,000 | Informational shock | Pen stillness → long accumulation sentence → composure reasserts → three-model comparison |
+| Observation post, after dark | ~1,100 | Resolving → terminal | Hum meditation; different pitch / same structure; final notebook entry; closing |
+
+**Rhythm Notes:**
+- Long-long-SHORT pattern dominant throughout. "The readings were no longer nominal." / "The breach did not close." / "The composure held because it had no other function." / "The hum continued."
+- The hum's physical progression (soles → ankles → shins → knees → hips → spine → chest) is the chapter's primary rhythmic device — the escalation tracked through the body, not through action
+- "The breach did not close." — five words, own paragraph. The chapter's structural hinge. The longest pause in the chapter. Everything before it is escalation; everything after is consequence.
+- The ~180-word accumulating sentence (Mumbai might-haves chain) is the chapter's emotional climax. The sentence's length enacts the bureaucratic distance between a treaty clause and 2.3 million deaths. The breathlessness is deliberate. Mirrors B1 Ch 50 / B2 Ch 7 pattern.
+- "The stillness held for a long time. Then the composure — load-bearing, structural... — did what it was designed to do. It held. The pen moved." — the composure reassertion is the chapter's emotional resolution. Not triumph. Not despair. The habit persisting.
+- Final section compresses progressively: the long hum-meditation paragraph → shorter three-model summary → two-line notebook entry → two-word closing
+- "The hum continued." — same closing as B2 Ch 17. Different hum. The repetition is the argument.
+
+**Dialogue Percentage:** ~3% (Okafor's operational commands only; Zeyad has no spoken dialogue — lowest ratio in any Zeyad chapter)
+
+**Pacing Concern:** The breach escalation scene risks feeling procedural. Mitigated by the hum's physical progression — the reader experiences the breach through Zeyad's body, not through data. The data is there (RCI values, junction designations) but the body is the primary register.
+
+**Structural Note:** Ch 31 paired with Ch 30 forms the Phase 3 climax chapter pair. Ch 30: STREAM mode, 847.3 km altitude, 2.3M dead, military model catastrophic failure. Ch 31: TEXTURE mode, ground level, 0 dead, alternative model humane insufficiency. The rhythm contrast is structural — Ch 30's data-rate variation against Ch 31's sensory-physical progression. Same evening. Different altitude. The void is consistent across both.
+
+**Comparison to B2 Ch 17 (The Other Model — direct precursor):**
+| Element | Ch 17 | Ch 31 |
+|---------|-------|-------|
+| Words | ~4,200 | ~4,800 |
+| Mode | TEXTURE | TEXTURE |
+| Hum register | Quiet, soles only, "asked nothing" | Rising through body → chest → permanent |
+| Zeyad's act | Produces (framework document) | Records (breach, Anchor Zone, Mumbai) |
+| Closing | "The hum continued." (quiet) | "The hum continued." (elevated) |
+| The Lie | "It will not be adopted" | "It was insufficient" |
+| Dialogue | ~8% (Obiora walk) | ~3% (Okafor operational only) |
+
+---
+
 _Last updated: 2026-02-20_

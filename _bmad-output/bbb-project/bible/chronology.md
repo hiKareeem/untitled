@@ -535,7 +535,24 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 - Lagos: RCI 34.2, breach forming — classified non-targetable entity, no targeting solution generated
 - Consequences: Mumbai = new Anchor Zone; AEGIS primary function superseded; OWGB governance review pending (official record: VPI 86.3%, no superposition); 8.7M total cost (2.3M dead + 6.4M projected absorbed); void reclassification applies retroactively to all monitored zones
 
+**Timestamp 2175.294 ~19:00-20:30 UTC (Lagos — concurrent with Mumbai):**
+- Lagos industrial district breach escalates at FAS observation perimeter (Zeyad Al-Fahim present as observer)
+- FAS containment protocol activates: acoustic dampening at junction level, infrastructure severance (isolation, not destruction), methodical pace
+- Stalker unit observes from opposite perimeter under bilateral cooperation framework — defers to FAS protocol, does not engage
+- Junction B-12 isolated (RCI 47.3 sustained, "sustained coherence anomaly" per FAS classification)
+- Breach stabilizes — no mass casualties, no kinetic intervention, no BLACKWEIR-type event
+- Containment zone does not resolve: Lagos becomes permanent Anchor Zone
+- FAS liaison Okafor: "Containment achieved. Zone B-12 unresolved. Sustained coherence. Recommend permanent monitoring designation."
+- Mumbai news arrives at Lagos observation post ~40 minutes post-stabilization
+- Zeyad records everything; notebook entry: "The void does not consult the model."
+- New Anchor Zone hum: middle register, different pitch than Neo-Shanghai, same structure
+- Characters: Zeyad Al-Fahim (POV), Okafor (FAS senior containment operator), Stalker unit (unnamed)
+- Location: Lagos industrial district, FAS observation post, Junction B-12 isolation zone
+- Consequences: Lagos = second major Book 2 Anchor Zone (after Neo-Shanghai). FAS model proven sound and insufficient simultaneously. Hum now permanent in Zeyad's chest. Three-model comparison established: FAS (humane, insufficient) / military (catastrophic) / institutional (monitoring).
+
+**Revision flag:** AEGIS Ch 30 does not currently reference Lagos. The chronology confirms AEGIS classified Lagos as non-targetable entity at moment of Mumbai impact. Ch 30 needs a revision pass to add Lagos RCI 34.2 data and non-targetable classification to AEGIS's processing stream.
+
 ---
 
 _Last updated: 2026-02-20_
-_Updated by: B2 Ch 30 — "Fifteen Minutes" (AEGIS, Mumbai strike, void reclassification)_
+_Updated by: B2 Ch 31 — "Inside the Zone" (Zeyad, Lagos Anchor Zone established, concurrent with Mumbai strike)_

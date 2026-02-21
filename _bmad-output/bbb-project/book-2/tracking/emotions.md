@@ -517,4 +517,32 @@
 
 ---
 
+### Chapter 31 — "Inside the Zone"
+
+**Zeyad Al-Fahim (POV):**
+- **Entering State:** Post-Ch 17. In Lagos weeks. Framework document written and submitted through Diallo. Tribunal ongoing in New Geneva. The Lie ("the alternative model is sound, adoption will follow") is being tested. Composure intact. Practiced smile absent since Ch 45.
+- **Emotional Arc:** Analytical distance (observation post, readings, data) → physical vulnerability (hum rising through body — new for Zeyad) → institutional recognition (FAS protocol performing as designed) → ambiguous relief (stabilization without massacre) → grief without a name (Mumbai news, pen stillness) → composure reassertion (pen moves because it has no other function) → the specific despair of watching the best available model prove insufficient (closing)
+- **Dominant Emotion:** The specific grief of a man whose composure is load-bearing and has no other function. Not despair — despair would require the composure to fail. The composure holds. The composure holding is the grief.
+- **Key Emotional Beat:** The pen stillness during Mumbai news. "He did not write the number... the pen was still and the hand that held it was still and the stillness was not composure." The stillness is the chapter's emotional climax — the moment the composure and the habit briefly separate. Then: "The stillness held for a long time. Then the composure... did what it was designed to do. It held. The pen moved." The composure reasserts. The pen moves. "The composure held because it had no other function." The function is the grief.
+- **Exiting State:** Notebook in jacket pocket. COURTESY badge clipped to other pocket. The hum in his chest — permanent, middle register, new. "It had not been in his chest in Lagos before today. It was there now. It would be there tomorrow." The composure intact. The Lie proven insufficient. The pen still moving.
+- **Emotional Shift:** The hum entering his body is the chapter's emotional register shift. In every previous Zeyad chapter, the hum was background — institutional, environmental, processed without noticing. Here it rises through his body during the breach and settles permanently in his chest afterward. The void is now physically present in him in a way it was not before. This is new. Future chapters should reflect it.
+
+**Zeyad's Composure Arc (cumulative):**
+- B1 Ch 6: Composure as diplomatic instrument — the practiced smile, the calibrated response
+- B1 Ch 17: Composure as institutional armor — back-channel initiated, composure maintained
+- B1 Ch 30: Composure under institutional failure — 47 questions, composure holds
+- B1 Ch 45: Composure breaks — pen set down, public statement published
+- B1 Ch 50: Composure as the only remaining thing — prosecution, credentials revoked, composure holds
+- B2 Ch 7: Composure as legal instrument — tribunal, composure holds, pen returns
+- B2 Ch 17: Composure as analytical tool — FAS data, framework document, composure holds
+- **B2 Ch 31: Composure as the only available function. "The composure held because it had no other function." The composure is no longer diplomatic, institutional, analytical, or legal. It is structural. It holds because it is the only thing left.**
+
+**Okafor (Supporting):**
+- **Entering State:** FAS containment operator. Senior. Trained for this sequence.
+- **Arc this chapter:** Operational → confirmation of modeled outcome. "Her expression was the expression of an engineer reading data that confirmed a structural outcome she had modeled but not wanted to confirm." The FAS model worked. The FAS model was insufficient. She modeled this. She did not want to confirm it.
+- **Key beat:** "Containment achieved. Zone B-12 unresolved. Sustained coherence. Recommend permanent monitoring designation." — the most compressed emotional delivery in the chapter. Six words of operational language containing the knowledge that Lagos now has an Anchor Zone.
+- **Exiting State:** Rotated out by monitoring crew. Not developed further in this chapter.
+
+---
+
 _Last updated: 2026-02-20_

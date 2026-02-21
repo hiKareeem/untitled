@@ -925,7 +925,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Malachi POV (4th Book 2 appearance, 4th overall). Travels to Prague to investigate sustained acoustic phenomena at resonance chapel of St. Václav (seeded Ch 22). Observes Vespers unannounced from rear alcove. During Communal Harmonization, chapel's pre-nitro Romanesque acoustic architecture amplifies structured sound from retrofitted conduit infrastructure. Woman near front: 'That is my mother. She was in Neo-Shanghai.' Malachi hears it. Gives Father Ondřej the institutional framework — stops mid-sentence, gives the minimum. Returns to locked study. Sits in the dark without reading correspondence. Third encyclical still blank. No closing cadence — structural repetition (Ch 3/14/22) breaks entirely. Epigraph: pre-nitro mason's inscription above western door (opaque, rewards rereading). Prague established as site haunting Ch 38 (Voice through chapels). Father Ondřej introduced. AEGIS as invisible novelist."
 
-completedCount: 82
-totalWords: 362837
+  book2_chapter_31:
+    title: "Inside the Zone"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4800
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-31-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Zeyad POV (3rd Book 2 appearance, 8th overall). October 21, 2175 (concurrent with Ch 30 Mumbai strike). Lagos industrial district breach escalates while Zeyad is at FAS observation post. FAS containment protocol: acoustic dampening, infrastructure severance, methodical. Stalker unit observes from opposite perimeter (bilateral deference — no Nikolai by name). Breach stabilizes — barely. No mass casualties. Junction B-12 isolated, RCI 47.3 sustained: Lagos becomes permanent Anchor Zone. Mumbai news arrives 40 minutes post-stabilization (GCTA alert, 2.3M dead, kinetic response deployed). Pen stillness → composure reasserts → pen moves. 'The composure held because it had no other function.' Three-model comparison: FAS (humane, insufficient), military (catastrophic), institutional (monitoring). 'The void does not consult the model.' New Anchor hum: middle register, different pitch than Neo-Shanghai, same structure. Hum now permanent in Zeyad's chest. Okafor introduced (FAS containment operator, senior). Epigraph: FAS Maintenance Circular 2134-09 (opaque, rewards rereads). Closing: 'The hum continued.' — same as Ch 17, different hum. AEGIS as invisible novelist. Revision flag: Ch 30 needs Lagos RCI data added to AEGIS processing stream at moment of Mumbai impact."
+
+completedCount: 83
+totalWords: 367637
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 1-30 complete and audited. B2C30 (AEGIS, Fifteen Minutes) added — Phase 3 climax. Mumbai strike: 2.3M dead, breach deepens, void reclassified as non-targetable entity, 0.003-second generation deleted. Self-reference arc escalating (Ch 19 → Ch 30 → Ch 43). Board Member Mensah introduced (OWGB, Accra). Kira location corrected to PCC Bay Area. Previous: B2C28 (Kira, Signal Load) and B2C29 (Nuwa, The Topology of Death)."
+notes: "Book 2 Ch 1-31 complete and audited. B2C31 (Zeyad, Inside the Zone) added — Phase 3 climax counterpoint to Ch 30. Lagos Anchor Zone established October 21, 2175. FAS model: humane, insufficient. Three models, void consistent across all three. Hum now permanent in Zeyad's chest. Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact. Previous: B2C30 (AEGIS, Fifteen Minutes)."
