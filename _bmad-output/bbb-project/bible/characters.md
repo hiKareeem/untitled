@@ -718,10 +718,23 @@ This bible dimension tracks **current character states**:
 | Nephthys | Met (converged) | Active | Convergence achieved at Cathedral. Same signal, different receiver. "Names." Recognition, not alliance. Neither defers. Shared 14 months telemetry via Imani. |
 
 **Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → São Paulo Relay → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 3/5 Book 2 (Relay coordinator — management identity chemically held, ceiling discovered)
+- Current Phase: 4/5 Book 2 (The antenna that broadcast — management identity bypassed, memory erosion onset)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 34. Network 47/9 → 214/31 → 400+ → 412. Filing → dataset → language → language tested → relay coordinator → burning → relay coordinator who built the thing that burned them. Lumina 40mg → 60mg → 80mg (past Paz's line). Fourteen mages dark. Chord shapes absent (first time). Ceiling discovered.
-- Next Step: Phase 4 → Ch 39 "The Second Broadcast." The ceiling is the seed. The management identity maintained at increasing cost. Ch 39 is where the maintenance fails.
+- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 32 → Ch 40. Network 47/9 → 214/31 → 400+ → 412 → 406 (passive monitoring). Filing → dataset → language → language tested → relay coordinator → burning → relay coordinator who built the thing that burned them → the antenna that broadcast. Lumina 40mg → 60mg → 80mg (floor, not ceiling). Fourteen mages dark. Chord shapes absent (re-suppressed post-event). Ceiling empty. Memory erosion onset.
+- Next Step: Phase 5 → Ch 51 "Eighty Milligrams." Memory erosion escalates. R3 heat dissipation (physical damage). 80mg is the floor. The next ceiling is coming.
+
+**Recent History (B2 Ch 40):**
+- Bay Area apartment. Passive monitoring mode — Sofia's warning implemented (406 mages, no relay, no casualties). Six hours of data before the event. Shape in the ceiling for three days, lowering.
+- The event: signal convergence at the Anchor Zone exceeded every parameter. The eighty milligrams did not break — it conducted. The drug removed Kira; what was left was the antenna. R3 amplified and broadcast.
+- Eleven seconds. Chord shapes returned during event (signal's, not hers — eighty re-suppressed them after). Private voice went public: "Names. I'm hearing names." / "They're identifying themselves to each other." / "Those were people." Conscious narration, live, 47,000 viewers. Cannot be scrubbed.
+- Right ear bleeding (post-event). R3 upper terminus warm — heat dissipation, system run past operating parameters. Physical damage flag.
+- Post-event address to chat (ring light still on): "Those were people." Private voice on public stream. Then ring light off. No sign-off. No "I'll be back."
+- Paz meeting: tea counter, three blocks from apartment. Same dose confirmed (80mg). Paz's assessment: "Eighty is not your ceiling anymore. Eighty is your floor." Transaction complete. "Don't thank me."
+- Quiet room: ceiling empty. Shape gone. Not relief — the empty ceiling is the space where the dread was, now resolved into fact.
+- Network log: "The names finished." Sari payoff — resonance persistence (Ch 32) resolved by the event. The loop released.
+- Memory erosion onset: doesn't know what day it is. Filed automatically. The filing is still running. The first gap in the architecture — so small she almost didn't notice it. Almost.
+- The clip is already circulating. Encrypted mirrors have it. Mainstream feeds within hours. 2.1 billion viewers in 72 hours (she does not know this yet).
+- Lumina status: 80mg is now the floor. Next ceiling unknown. R3 warm. Right ear ringing.
 
 **Recent History (B2 Ch 34):**
 - Mumbai strike, Category 5. Relay open with 412 mages worldwide. Ring light on — streaming live, 81K peak viewers. Dual-broadcast architecture (relay channel + public stream).
@@ -1049,6 +1062,8 @@ This bible dimension tracks **current character states**:
 | Nuwa Lin | Arc + Recent History | Ch 29 last appearance | **B2C29:** Sacrifice district designation (Sector 7M) arrives on door. Overlays Fuxi's Sump conduit map against Mid-Level infrastructure directory — geometry matches. Identifies 7 path-poor structures in sector (12,000 residents, 14% survival capacity). Knocks on Fen's door (Unit 9). Fen's cousin lost in Sector 12 — personal stake established. Together go to Shuang (Unit 2, two children). "I'm not telling people to leave. I'm telling people where to stand." Sits at Shuang's table, opens overlay, begins. **Arc: tool-without-task (B2C18) → action (B2C29). Lie inverted: chosen visibility as tool.** Next: B2C42 (Voice through Mid-Levels, "I Counted"). | Ch 29 |
 | Fen | Supporting character update | Ch 8 last appearance | **B2C29:** Cousin lost in Sector 12 waste processing (new backstory). Institutional notices filed in drawer, not acted on. Recognizes Nuwa's chemical staining (iridescent, fingertips). Commits when Nuwa says "I'm not telling people to leave." Reaches for jacket. Bridge between Nuwa and building community. "Don't be sorry. Be right. About the walls." | Ch 29 |
 | Shuang | New supporting character | N/A | Unit 2, converted warehouse, Mid-Level 4. Younger than Fen. Two children. Cooks in evenings. Has observed Nuwa walking along walls for months. "You walk along the walls." — moment of mutual recognition. Stepped back, let Nuwa in. | Ch 29 |
+
+| Paz | Supporting character update | Ch 32 last appearance (off-page) | **B2C40:** Bay Area tea counter (established location). Same dose confirmed (80mg). "Eighty is not your ceiling anymore. Eighty is your floor." — pharmacological arc's next crisis named. "Don't thank me." Transaction complete. Clinical pragmatism with undertow of concern. | Ch 40 |
 
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 

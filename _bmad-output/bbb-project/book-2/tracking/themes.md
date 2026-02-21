@@ -770,4 +770,49 @@ Four POVs, four architectures, the same event. Each left with what they have. No
 
 ---
 
+### Chapter 40 — "The Second Broadcast" (Kira Calloway)
+
+| Theme | Intensity | Manifestation |
+|-------|-----------|---------------|
+| Where Identity Ends | **Dominant** | The management identity (filing, calibrating, curating) is bypassed by the event. The eighty removes Kira; what's left is the antenna. "She was the antenna. She had always been the antenna." The network, the stream, the filing, the categories — infrastructure built around the antenna to make the antenna look like a person making choices. First failure to file: the date. |
+| Commodification of Suffering | **Dominant** | The second broadcast is the most-viewed media event in human history. Kira does not know this yet. The clip is already circulating. The woman who bled on camera is not protected by the number of people who will watch her bleed. The suffering is the content. The content is the commodity. |
+| Truth as Weapon | **Strong** | Eleven seconds of conscious narration, captured on stream, cannot be scrubbed. The truth is out before Kira can decide whether to release it. The antenna does not choose what it broadcasts. "Those were people." — the private voice on a public stream. |
+| Systemic Complicity | **Moderate** | The R3 — military-grade implant, installed at ten, never consented to — is the broadcast tower. The Lumina — prescribed to suppress the signal — became the conductor for it. The infrastructure done to her is the instrument that makes her famous. |
+| What We Owe | **Moderate** | "Those were people." The absorbed reporting their names. The Sari payoff: "The names finished." The debt to the fourteen dark mages is the architecture of Sofia's warning — passive monitoring that protected 406 people. |
+| Architecture of Power | **Background** | The relay infrastructure, the Anchor Zone, the R3 — present as substrate. The chapter is about what the architecture conducts, not the architecture itself. |
+
+**Key Resonance:** Where Identity Ends ↔ Commodification of Suffering. The management identity bypassed = the performance layer gone = the not-performing is the thing that makes the clip uncontainable. 2.1 billion people will watch a woman who was not performing. The authenticity is the commodity. The commodity is the person. The person is the antenna. The antenna does not consent to broadcast.
+
+**Epigraph Integration:** "The instrument exceeded specification. The specification did not account for the instrument being a person." — Mage Network Internal Log, 2176
+- Thematic function: The chapter's thesis in one sentence. The relay worked (Ch 32: "the instrument exceeded specification"). The broadcast worked (Ch 40: same sentence, higher register). Both facts hold simultaneously. The instrument and the cost are the same sentence.
+- AEGIS as invisible novelist: Mage Network Internal Log = institutional record AEGIS would access. The log entry is the future's assessment of what happened tonight. The reader encounters the verdict before the event.
+- The epigraph is the chapter's thesis, not its decoration — the mechanical pivot (the eighty becoming a conductor) is the specification being exceeded. The person being the instrument is the specification not accounting for.
+
+**Phase 4 Transformation Thread (Ch 36/37/38/39/40):**
+- Ch 36 (Sofia): Convergence detected. Scientific framework reaches its limit.
+- Ch 37 (Aurielle): Signal through NitroCore infrastructure. Institutional register suspends. The Lie dead.
+- Ch 38 (Nephthys): Chorus at full saturation. Circulation confirmed. "Circulation" spoken aloud.
+- Ch 39 (Malachi): Voice through the European See's cathedral. Institutional tools intact but premise failed. Encyclicals over. Hands unfolded.
+- **Ch 40 (Kira): R3 amplifies. Second broadcast. Conscious narration. Management identity bypassed. Memory erosion onset. "Almost."**
+
+Five POVs, five architectures, the same eleven seconds. Each left with what they have. None can name the body. The Phase 4 transformation thread is complete.
+
+**New Symbols:**
+- **The antenna:** "She was the antenna. She had always been the antenna." The management identity revealed as infrastructure around the fact. The antenna does not make choices. The antenna receives. And tonight the antenna broadcast.
+- **The empty ceiling:** The shape in the ceiling is gone. The approaching thing has arrived and passed through. The empty ceiling is not relief. The quiet room at eighty is now the quiet room at eighty without the thing she'd been refusing to resolve.
+- **Implant warmth:** The R3's upper terminus warm — heat dissipation from a system run past its operating parameters. The antenna is burning. Physical damage flag for Phase 5.
+- **"Almost":** The chapter's final word. The memory erosion's first arrival. The filing's first gap. The smallest possible signal for the largest possible shift.
+
+**Cross-Chapter Thread (Kira arc):**
+- Ch 6: "She was an antenna. She was a node." — the diagnostic framing, institutional failure to categorize.
+- Ch 16: "The signal — the signal that didn't distinguish — was still waiting for someone to finish the sentence."
+- Ch 21: "Names." — the word arrived at with Nephthys. The signal has communicative structure.
+- Ch 28: "The design was consuming people." — the relay coordinator who built the thing.
+- Ch 32: "The instrument exceeded specification." — first deployment. Seven people in hospitals.
+- **Ch 40: "The instrument exceeded specification. The specification did not account for the instrument being a person." — second deployment. The epigraph is the arc's thesis sentence.**
+
+The progression: antenna → namer → relay coordinator → the thing that burned them → the broadcast. The management identity was always the frame. The antenna was always the fact.
+
+---
+
 _Last updated: 2026-02-21_

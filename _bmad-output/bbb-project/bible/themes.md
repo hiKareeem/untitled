@@ -3,7 +3,7 @@ title: "Themes"
 type: bible-dimension
 dimension: themes
 lastUpdated: "2026-02-21"
-lastChapter: 39
+lastChapter: 40
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -512,6 +512,12 @@ This bible dimension tracks **theme evolution**:
 | Ch 33 | Complicity (Strong), Identity (Strong), Truth (Strong), What We Owe (Moderate), Architecture (Moderate), Commodification (Background) | Nephthys POV — three Threshold members walk into the void. Perimeter approach, full primary density. *Circulation* — the absorbed are not static, they are moving. Framework failure: the counter-liturgy's architecture cannot contain the observation. Honest report to Imani: first time in the arc. |
 | Ch 34 | Commodification (Dominant), Identity (Dominant), Complicity (Strong), Truth (Strong), What We Owe (Moderate), Architecture (Moderate) | Kira POV — Mumbai relay, Category 5. Void amplifies kinetic force. Seven mages dark. Fourteen total. "The instrument exceeded specification." Quiet room at 80mg: lower ceiling, suppression vs. rest. Chord shapes absent (first time). Something in the ceiling — the Voice accumulating in the space the management identity has created by suppressing everything else. |
 
+| Ch 36 | Truth (Dominant), Architecture (Dominant), Complicity (Strong), Commodification (Moderate), What We Owe (Moderate), Identity (Background) | Sofia POV — synchronization detected across 12 Anchor Zones. Convergence model: simultaneous output in ~3 hours. Warning sent to Kira's network. De-escalation proposal at 12%, not opened. Field kit becomes receiver. "She did not have a word for what was coming." |
+| Ch 37 | Identity (Dominant), Complicity (Dominant), Architecture (Strong), Commodification (Strong), Truth (Moderate), What We Owe (Moderate) | Aurielle POV — signal through Eduardo's desk. Names through the infrastructure. Institutional register suspended. Eduardo absent (not absorbed). SHEPHERD premise collapsed. The Lie dead. Program continues. |
+| Ch 38 | Identity (Dominant), What We Owe (Dominant), Truth (Strong), Complicity (Moderate), Architecture (Moderate), Commodification (Background) | Nephthys POV — chorus at full saturation. Cathedral dephasing fails at global scale. Circulation confirmed. Seizure (first). "I am fine" fiction broken. Framework delivered to Imani. |
+| Ch 39 | Architecture (Dominant), Complicity (Dominant), Identity (Strong), Truth (Strong), What We Owe (Moderate), Institutional Collapse (Moderate) | Malachi POV — Voice through European See cathedral. Names through every nitro-connected system. Institutional tools intact; premise failed. Hands unfold, do not refold. Encyclicals over. The non-decision. |
+| Ch 40 | Identity (Dominant), Commodification (Dominant), Truth (Strong), Complicity (Moderate), What We Owe (Moderate), Architecture (Background) | Kira POV — second broadcast. R3 amplifies. Eleven seconds, conscious narration, 47K viewers. Management identity bypassed (not broken). "She was the antenna. She had always been the antenna." Memory erosion onset. "Almost." |
+
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -798,6 +804,11 @@ This bible dimension tracks **theme evolution**:
 | "I'm not telling people to leave. I'm telling people where to stand." (Ch 29) | Truth, Architecture | Nuwa's Phase 3 thesis. Truth operationalized at the only available scale. The Lie inverted. |
 | Child's drawing on Shuang's door (Ch 29) | Irrelevance, What We Owe | Building, sun, figure with arms spread wide — uncalculated hope at knee height. The drawing does not know what the building is for. Nuwa does. |
 | "She began." (Ch 29) | Radicalization vs. Reform | The chapter's closing word. The rhythm arc across all four Nuwa chapters: still → still → still → begin. The pacing has been building to this word. |
+
+| The antenna (Ch 40) | Where Identity Ends | "She was the antenna. She had always been the antenna." The management identity revealed as infrastructure built around the fact. The antenna does not make choices. The antenna receives. And tonight the antenna broadcast. |
+| The empty ceiling (Ch 40) | Where Identity Ends, What We Owe | The shape in the ceiling (Ch 32) arrived and passed through. The empty ceiling is not relief — it is the space where the dread was, now resolved into fact. |
+| Implant warmth (Ch 40) | Commodification of Suffering, Systemic Complicity | R3 upper terminus warm — heat dissipation from a system run past its operating parameters. The antenna is burning. Physical damage flag for Phase 5. |
+| "Almost" (Ch 40) | Where Identity Ends | The chapter's final word. The memory erosion's first arrival. The filing's first gap. The smallest possible signal for the largest possible shift. |
 
 <!-- INSERT_NEXT_SYMBOLS -->
 

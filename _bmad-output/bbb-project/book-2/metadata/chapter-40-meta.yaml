@@ -1,0 +1,63 @@
+# Chapter Metadata
+# Book 2, Chapter 40
+
+---
+chapter: 40
+book: 2
+title: "The Second Broadcast"
+wordCount: 4200
+pov: "Kira Calloway"
+timeline: "Phase 4 — simultaneous with B2 Ch 36 (Sofia), Ch 37 (Aurielle), Ch 38 (Nephthys), Ch 39 (Malachi). The Voice event."
+mode: "TEXTURE"
+phase: 4
+
+summary: |
+  Kira monitors the global mage network in passive mode from her Bay Area apartment — Sofia's warning implemented, 406 mages in safe positions, no relay. Six hours of data before the event. The shape in the ceiling has been present for three days, lowering. The countdown runs: twenty minutes, fifteen, ten, five.
+
+  The signal convergence exceeds every parameter. The eighty milligrams does not break — it conducts. The drug removes Kira; what is left is the antenna. R3 amplifies. Eleven seconds of conscious narration, live, 47,000 viewers: "Names. I'm hearing names." / "They're identifying themselves to each other." / "Those were people." Chord shapes return during the event (the signal's, not hers) and are re-suppressed by the eighty when it ends. Right ear bleeding. R3 upper terminus warm — heat dissipation from a system run past operating parameters.
+
+  Post-event: ring light off, no sign-off. Paz meeting at the tea counter (three blocks, established location) — same dose confirmed, 80mg. Paz's assessment: "Eighty is not your ceiling anymore. Eighty is your floor." Quiet room: ceiling empty, shape gone, not relief. Network log: "The names finished" — Sari's resonance persistence (Ch 32) resolved. Memory erosion onset: she doesn't know what day it is. Filed automatically. The filing is still running. The first gap in the architecture — so small she almost didn't notice it. Almost.
+
+keyPoints:
+  - The eighty milligrams becomes a conductor, not a suppressant — the drug removes Kira, what remains is the antenna
+  - Eleven seconds of conscious narration on a live stream (47K viewers) — cannot be scrubbed; clip circulating
+  - "Those were people." — private voice on public stream; post-event address to chat
+  - R3 physical damage: right ear bleeding, implant warm (heat dissipation, system past operating parameters)
+  - Paz confirms 80mg as floor, not ceiling — next ceiling unnamed but coming
+  - Sari payoff: "The names finished" — resonance persistence loop from Ch 32 resolved
+  - Memory erosion onset: date gap, filed automatically, "Almost" — chapter's final word
+  - "She was the antenna. She had always been the antenna." — management identity revealed as infrastructure around the fact
+
+characters:
+  - Kira Calloway (POV)
+  - Paz (supporting — tea counter transaction)
+  - Sari (referenced — resonance persistence resolved)
+  - Sofia Reyes (referenced — warning implemented)
+  - Mage network 406 members (background — passive monitoring)
+
+locations:
+  - PCC Bay Area — Kira's apartment (streaming desk, LED strip, ring light, quiet room)
+  - Tea counter — three blocks from apartment (established Paz meeting location, Ch 6)
+
+newElements:
+  - R3 physical damage: implant warmth (heat dissipation) — first on-page indicator of hardware damage
+  - Memory erosion onset: date gap — first failure to file in Kira's arc
+  - "The antenna" as identity frame — management identity revealed as infrastructure around the fact
+  - 80mg confirmed as floor (not ceiling) by Paz — pharmacological arc's next crisis named
+  - Second broadcast: 47K viewers, conscious narration, clip circulating (2.1B views in 72 hrs — Kira does not know this yet)
+
+continuityFlags:
+  - Location divergence from chapter plan (plan: Neo-Shanghai) — author-directed, Bay Area retained. No future chapter requires prior Neo-Shanghai relocation for Ch 40.
+  - Paz scene: Bay Area tea counter (established Ch 6) rather than plan's implied Neo-Shanghai setting — author-directed.
+  - 80mg as floor (not escalation): Kira already at 80mg per Ch 32. Post-event marker is memory erosion, not dosage escalation — author-approved in brief.
+
+auditResults:
+  styleAudit: "PASS — negation-before-assertion, paratactic structure, sensory hierarchy (sound dominant), voice registers (stream/relay/private) all present. No 'the Voice' label in real-time narration."
+  characterAudit: "PASS — Kira 9.5/10, Paz 9/10. All continuity elements from Ch 6/16/21/28/32 correctly threaded."
+  continuityCheck: "PASS — 3 approved divergences (all author-directed), 0 critical issues."
+  auditFile: "tracking/audits/audit-chapter-40.md"
+
+createdDate: "2026-02-21"
+lastModified: "2026-02-21"
+author: "Kareem"
+status: "v1-complete"

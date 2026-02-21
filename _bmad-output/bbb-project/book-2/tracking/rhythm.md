@@ -1268,4 +1268,53 @@ The rhythm contracts across the arc: five chapters, from three-movement institut
 
 ---
 
+### Chapter 40 — "The Second Broadcast" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Low-sustained (monitoring discipline) → dread-building (shape in ceiling, countdown) → inversion pivot (the eighty conducts) → peak (names, bleeding, eleven seconds) → post-event address → transactional drop (Paz) → contemplative close (quiet room, memory erosion)
+**Pacing:** Four-act structure. Act I (synchronization) and Act IV (closing) are roughly equal weight (~1,100 words each). Act II (the event) is the center of gravity (~1,300 words). Act III (Paz) is the shortest and flattest (~500 words) — deliberate register drop between the event and the aftermath.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Act I: Monitoring (six hours, stream live, countdown) | ~1,100 | Low-sustained → dread-building | Slow open. Stream-voice steady. Countdown accelerates rhythm while prose maintains discipline. |
+| Act II: The event (inversion, chord shapes, names, bleeding) | ~1,300 | Inversion → peak → post-event address | The chapter's center. Opens with negation-before-assertion. Closes with ring light off. |
+| Act III: Paz (tea counter, transaction, floor/ceiling) | ~500 | Low-transactional | Deliberate register drop. Dry, functional. No commentary on the event. |
+| Act IV: Closing (quiet room, log entry, memory erosion) | ~1,100 | Contemplative → "Almost" | The quiet catastrophe. Slower than any prior Kira close. Ends on the smallest possible word. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "Names." / "Ten minutes." / "Five minutes." / "Eleven seconds." / "Almost." Single-word and single-line paragraphs as rhythmic events at every thesis moment.
+- The countdown (twenty minutes → fifteen → ten → five) accelerates the prose rhythm while Kira's monitoring register stays flat — the tension is in the gap between the data's urgency and the stream-voice's steadiness.
+- "It did not break through the eighty." — the chapter's rhythmic pivot. The negation-before-assertion reframes the entire Lumina arc in one sentence. Everything before it was building toward the seawall breaking. The seawall doesn't break. The chapter's rhythm pivots on this.
+- "Names." — isolated single-word paragraph. The chapter's fastest moment. Maximum rhythmic isolation on the event's essential content.
+- "Eleven seconds." — isolated. Duration as rhythmic event. The chapter's center of gravity compressed to two words.
+- Paz scene is the chapter's flattest section by design — the transaction architecture unchanged, the dialogue dry and clipped. The rhythmic palette cleanser between the event's intensity and the closing's contemplative weight. "Don't thank me." — the scene's final line, the meeting over.
+- Closing section decelerates progressively: the log entry (filing, mechanical) → the date gap (small, unfiled) → the clip circulating (the scale she doesn't know) → the antenna recognition (long, subordinated) → the quiet room holding → "Almost." The chapter ends at its slowest speed.
+- "Almost." — the final word. The chapter's rhythm ends on a single word that carries the weight of everything that follows it. The memory erosion's first arrival. The filing's first gap. The smallest possible close for the largest possible shift.
+
+**Dialogue Percentage:** ~18% (stream-voice in Act I, private voice during event, Paz exchange in Act III). Three distinct registers, each shorter than the last.
+
+**Pacing Concern:** Act I's countdown risks feeling mechanical. Mitigated by the shape in the ceiling's dread architecture running parallel to the data countdown — the reader tracks two convergences simultaneously (the global signal and the approaching thing in the ceiling). The tension is doubled without the prose accelerating.
+
+**Structural Note:** The chapter follows the established Kira pattern — slow open, accelerating build, dense center, quiet close — but the close is quieter than any previous Kira chapter. Ch 28/32 closed with discharge (the fold, the exhaustion, the cost enumerated). Ch 40 closes with dissipation. The antenna doesn't store energy. It conducts. The closing's flatness is the point.
+
+**Comparison to Ch 32 (direct Kira precursor):**
+- Ch 32: ~4,100 words, Mumbai relay, catastrophic load, seven dark, fold, ceiling discovered. Closes with the shape present and unresolved.
+- Ch 40: ~4,200 words, Voice event, passive monitoring, no casualties, no fold, ceiling empty. Closes with the shape gone and the date unknown.
+- Together: Ch 32 is the accumulation. Ch 40 is the arrival. The rhythm shifts from the relay's crisis tempo (dashboard, nodes going dark, relay-voice command) to the broadcast's witness tempo (countdown, names, private voice public). Both close in the quiet room. The quiet room is different.
+
+**Kira Arc Rhythm (cumulative):**
+- Ch 6: TEXTURE. Five-section, even distribution. No streaming scene. The person underneath doing work she didn't plan to do.
+- Ch 16: TEXTURE. Center-weighted (Idris call = 40%). Voice call as collaborative mirror. Closes forward (48 hours).
+- Ch 21: TEXTURE. Two-movement (Cathedral session / quiet room). Nephthys convergence. Private voice first used.
+- Ch 28: TEXTURE/PRESSURE. Relay crisis tempo. Dual-peak (São Paulo / Paz call). Closes with the fold.
+- Ch 32: TEXTURE. Five-scene, relay crisis. Dual-peak (three simultaneous shutdowns / Sari). Closes with the ceiling discovered.
+- **Ch 40: TEXTURE. Four-act, broadcast tempo. Single peak (the event). Closes with the ceiling empty and "Almost."**
+
+The rhythm contracts across the arc toward the event and then flattens after it. The antenna's rhythm is not the relay coordinator's rhythm. The relay coordinator's rhythm had peaks and costs and the fold. The antenna's rhythm has the event and then the dissipation. The flatness after Ch 40 is the correct register for what Kira has become.
+
+**Phase 4 Rhythm Note:** Ch 40 is Phase 4's broadcast chapter — the second broadcast through a human nervous system. Its rhythm is the correct register for this function: not the scientific vigil (Ch 36), not the corporate suspension (Ch 37), not the theological saturation (Ch 38), not the institutional non-decision (Ch 39), but the specific flatness of a person who has been conducted through. The chapter's pacing enacts the bypass: the management identity is not broken, it is routed around. The filing is still running. The machinery is still running. The first gap is so small she almost doesn't notice it.
+
+---
+
 _Last updated: 2026-02-21_

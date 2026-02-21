@@ -2,8 +2,8 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-16"
-lastChapter: 46
+lastUpdated: "2026-02-21"
+lastChapter: 40
 totalObjects: 21
 activeObjects: 18
 project_name: "Untitled"

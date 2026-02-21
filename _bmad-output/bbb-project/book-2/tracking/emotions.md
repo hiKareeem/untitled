@@ -718,4 +718,32 @@
 
 ---
 
+### Chapter 40 — "The Second Broadcast"
+
+**Kira Calloway (POV):**
+- **Entering State:** Post-Ch 32. Relay coordinator who built the thing that burned them. Eighty milligrams. Shape in the ceiling for three days. Passive monitoring mode — Sofia's warning implemented. Alone with the signal for the first time since the network grew past fifty.
+- **Emotional Arc:** Monitoring discipline (six hours of data, filing, stream-voice steady) → dread architecture building (shape in the ceiling lowering, countdown, fingertips vibrating) → the inversion (the eighty doesn't break — it conducts; the drug removes Kira, what's left is the antenna) → the event (chord shapes return, private voice goes public, names, bleeding, eleven seconds) → post-event address ("Those were people" — private voice to 47,000) → ring light off, no sign-off → Paz transaction (the floor/ceiling observation received without argument) → quiet room (shape gone, ceiling empty, not relief) → the log entry ("the names finished" — Sari payoff) → memory erosion (the date gap, filed automatically) → "Almost."
+- **Dominant Emotion:** The specific flatness of a person who has been bypassed by the thing they were managing. Not catharsis — the event moved through Kira, not from her. Not relief — the shape is gone but the ceiling is empty, not open. The emotional register is the aftermath of conduction: the antenna after the broadcast, dissipating heat, the machinery still running, the first gap in the filing appearing so small she almost doesn't notice it.
+- **Key Emotional Beat:** "She was the antenna. She had always been the antenna." — Not revelation. Recognition. The management identity (hub, relay coordinator, filing system's architect) revealed as infrastructure built around the antenna to make the antenna look like a person making choices. The emotional weight is not in the discovery — it is in the past tense. *Had always been.* The management was always the frame. The antenna was always the fact.
+- **Secondary Beat:** "Almost." — The chapter's final word. The memory erosion's first arrival, noticed almost too late. The filing failing so small she almost didn't notice it. The emotional register of the word is not alarm — it is the specific quality of a person who has been filing everything for years and who, for the first time, notices the filing is not complete. The "almost" is the chapter's quiet catastrophe. More final than the blood.
+- **Tertiary Beat:** "Those were people." — Post-event address to chat. Private voice, public stream. Not analysis, not filing, not relay-voice command. The witness register — the one she used with Nephthys on the Cathedral floor. The absorbed are people. The statement is not theological or scientific or institutional. It is personal. It is the only thing she can say.
+- **Exiting State:** Bay Area apartment. LED strip cycling. Ring light off. HUD dark. Eighty milligrams. Quiet room holding. Ceiling empty. Right ear ringing. Implant warm. Blood drying on shirt. Date unknown. Filing automatic. Machinery still running. The first gap in the architecture of her life — so small she almost didn't notice it. Almost.
+- **Emotional Shift from Ch 32:** Ch 32 ends with Kira in the fold, fourteen dark, the ceiling present and unresolved, chord shapes absent, the shape refusing to resolve. Ch 40 ends with Kira upright (the eighty holds the fold), the ceiling empty, chord shapes absent again (re-suppressed), the shape resolved by arrival. The shift is from *accumulating dread* to *aftermath flatness*. The dread had an object. The aftermath has an empty ceiling and a date she doesn't know.
+
+**Kira Emotional Arc (cumulative):**
+- B2 Ch 6: Controlled drift. Performance fatigue. Filing as management. "Almost certain she's in control."
+- B2 Ch 16: Emergent agency. Language-building. "This was for her." The antenna choosing to move.
+- B2 Ch 21: Convergence. Shared vocabulary. Private voice used with Nephthys. "Names."
+- B2 Ch 28: Burning. Relay coordinator at capacity. The network shed the burned mages and kept running.
+- B2 Ch 32: Relay coordinator who built the thing that burned them. Eighty milligrams. Shape in the ceiling. Chord shapes absent. The fold.
+- **B2 Ch 40: The antenna that broadcast. Management identity bypassed, not broken. First failure to file. Memory erosion onset. The ceiling empty. Almost.**
+
+**Paz (Supporting):**
+- **Entering State:** Post-Ch 32 (off-page). Bay Area local contact. The provider.
+- **Emotional Arc:** Arrives first (unmemorable face, cup not drinking, canvas bag) → assesses Kira (blood on collar, the manifest check) → transaction (cash, case, same dose confirmed) → "floor/ceiling" observation (not concern — pharmacological assessment) → "Don't thank me." → eats. Meeting over.
+- **Dominant Emotion:** Clinical pragmatism with undertow of concern. Same register as every prior Paz scene. The "floor/ceiling" observation is the chapter's most direct statement of the pharmacological arc's next crisis — delivered without affect, received without argument. Paz has named the next ceiling before it arrives. Her emotional function is the external mirror that sees the trajectory Kira cannot see from inside it.
+- **Key Emotional Beat:** "Eighty is not your ceiling anymore. Eighty is your floor." — The inversion named. The curve that has been moving since Ch 6 has reached its new baseline. The next ceiling is coming. Paz does not say when. She does not need to.
+
+---
+
 _Last updated: 2026-02-21_
