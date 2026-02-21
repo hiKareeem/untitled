@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-06-15"
-lastChapter: "B2 Ch 7"
+lastUpdated: "2026-02-20"
+lastChapter: "B2 Ch 34"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -687,10 +687,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 3/5 Book 2 (Relay coordinator — management frame collapsed, burning)
-- Emotional State: São Paulo relay. 400+ mages. Seven went dark. Tomás confirmed neurological damage. She managed the relay, kept the ring light on, translated for 71K viewers, and took 60mg Lumina mid-crisis at noon because the signal load was more than her R3 could process while functional. The management identity — "calibrating," "adjusting," "filing," "controlling" — named itself and collapsed. "She was not calibrating anymore." The Paz call at the end is the first action taken without the management frame. The curve has moved.
-- Dominant Beliefs: "The absorbed were people. They are still there." Confirmed technologically AND theologically. Book 2 Lie cracking: "If I can calibrate, I can handle the load" — 60mg now used mid-crisis (daytime), not just nightly. The calibration frame has been named as the Lie it is. New knowledge: the relay is military-grade intelligence infrastructure on civilian nervous systems. She built it. It works. It burned seven people. The data is extraordinary.
-- Internal Contradictions: Built the architecture that burned seven people's implants. The data they captured is extraordinary and they are in hospitals. The relay is the most capable mage sensor network ever assembled and it has no protections. She is twenty years old and she is the hub and the hub is burning. Knows what the signal carries (names, individuals, a population) — and relayed it through 400 human nervous systems anyway because the data mattered.
+- Phase: 3/5 Book 2 (Relay coordinator — management identity chemically held, ceiling discovered)
+- Emotional State: Mumbai relay. 412 mages. Seven went dark. Fourteen total (São Paulo + Mumbai). She kept the relay operational through a Category 5 event. The data is the clearest picture anyone has of a live kinetic-breach interaction: the void amplifies kinetic force, it does not absorb it. 80mg Lumina — past Paz's line. The quiet room at eighty has a lower ceiling. Something in the compressed space between the drug and the machinery it suppresses. She does not reach for it. The chord shapes are absent for the first time.
+- Dominant Beliefs: "The instrument exceeded specification." The relay worked. The relay burned seven people. These are the same sentence. The management identity is not collapsing — it is being chemically held in place while something accumulates in the ceiling above the suppression.
+- Internal Contradictions: Built the architecture that burned fourteen people's implants across two relays. The anonymized network she built to protect privacy now protects her from knowing every name her relay burned. The drug suppressing the noise is now suppressing the cognitive overflow valve (chord shapes absent). Something in the ceiling is using the hum, the signal, and the populated chord as substrate. She cannot reach it at 80mg. She does not try.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -705,9 +705,10 @@ This bible dimension tracks **current character states**:
 | Priya | Group chat (Varma Academy) | Close | Truth-seeker; felt the "pull" at 11:30 UTC; original catalyst |
 | Tomás | Mage network (São Paulo) | Warm — now debt | Connected through streamer circuit; telemetry contributor. Ch 28: ground-level relay, longest node active, confirmed neurological damage. His last entry truncated mid-sentence. |
 | Suki | Group chat (Kyoto, field mage) | Respected | Active deployment; minimal, precise |
+| Sari | Mage network (Jakarta, 3 weeks) | Professional — now debt | Quiet, precise. Ch 34: signal persistence post-Mumbai relay. "It has names." *Resonance persistence* — the names didn't finish. First documented case of signal staying. |
 | Ren Matsuda | Mage network (Kyoto, research) | Trusted | Documents everything; first to message (B1 Ch 18); now has contact in Nephthys's circle |
 | Lena Okafor | Mage network (Lagos, active) | Professional | Direct; telemetry contributor; Lagos FAS trunk-line data |
-| Paz | Lumina contact | Transactional | Illicit dealer; sees the dosage curve Kira won't; pragmatic concern |
+| Paz | Lumina contact | Transactional | Illicit dealer; sees the dosage curve Kira won't; pragmatic concern. Dosage conversation completed off-page (Ch 28→34): 80mg arranged, past Paz's stated line. |
 | Idris | Mage network (Accra, R3, field) | Collaborative | First voice call in network; arrived at "communication" together; shared vocabulary |
 | Imani | Nephthys's aide (message only) | Practical | Direct message bypassing Ren's chain; efficient, no performance; logistics coordinator |
 | Streaming audience | Performance (suspended → returning) | Surface | ~400K followers; watching dark channel; ring light return seeded (expulsion = freedom) |
@@ -715,10 +716,24 @@ This bible dimension tracks **current character states**:
 | Nephthys | Met (converged) | Active | Convergence achieved at Cathedral. Same signal, different receiver. "Names." Recognition, not alliance. Neither defers. Shared 14 months telemetry via Imani. |
 
 **Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → São Paulo Relay → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 3/5 Book 2 (Relay coordinator — management frame collapsed, burning)
+- Current Phase: 3/5 Book 2 (Relay coordinator — management identity chemically held, ceiling discovered)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28. Network 47/9 → 214/31 → 400+. Filing → dataset → language → language tested → relay coordinator → burning. Lumina 60mg now daytime-accessible (crisis use). Seven mages dark. Management Lie named and cracking. Paz call initiated.
-- Next Step: Phase 3 → Mumbai relay (Ch 34). Paz dosage conversation (75mg threshold). Stream captured São Paulo relay — institutional/media reactions incoming. The curve has moved.
+- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 34. Network 47/9 → 214/31 → 400+ → 412. Filing → dataset → language → language tested → relay coordinator → burning → relay coordinator who built the thing that burned them. Lumina 40mg → 60mg → 80mg (past Paz's line). Fourteen mages dark. Chord shapes absent (first time). Ceiling discovered.
+- Next Step: Phase 4 → Ch 39 "The Second Broadcast." The ceiling is the seed. The management identity maintained at increasing cost. Ch 39 is where the maintenance fails.
+
+**Recent History (B2 Ch 34):**
+- Mumbai strike, Category 5. Relay open with 412 mages worldwide. Ring light on — streaming live, 81K peak viewers. Dual-broadcast architecture (relay channel + public stream).
+- Kinetic strike hit: signal bypassed spinal pathway, entered through jaw via bone conduction (primary interface saturated). Void amplification confirmed: the void does not absorb kinetic energy — it amplifies it. Structured coherence output orders of magnitude above São Paulo.
+- Three simultaneous shutdowns (Kuala Lumpur cohort) — green to black, instant, automatic. Routed all three to medical.
+- Sari (Jakarta, 3 weeks in network): signal won't release. Cycling feedback loop — signal entered R3 and wouldn't exit. "I can't stop hearing. The signal won't release." Closed relay-to-stream audio bridge. Routed Sari to medical via Ren. Sari reported: "It has names." Signal released after 47 minutes. Neurologist: *resonance persistence*. Sari: *the names didn't finish*.
+- Two more dark (Lagos, Buenos Aires). Two more (Mumbai subsector, close-range). Seven total from this relay.
+- Stream ended: "I'm closing." No raid. No goodbye. 81K viewers gone.
+- Fourteen total mages dark (7 São Paulo + 7 Mumbai). Can name nine. Other five: cohort designations — anonymized architecture protecting her from knowing every name her relay burned.
+- Lumina ritual at 80mg (past Paz's line — conversation happened off-page between Ch 28–34). Cold burn sharper, longer. Quiet room at eighty: lower ceiling, suppression vs. rest. Chord shapes absent for the first time — the eighty suppresses the cognitive overflow valve.
+- Something in the ceiling: not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it. The eighty won't let her.
+- Sitting upright in the dark (fold incomplete — eighty holds the posture). Dashboard open, seven black nodes among the green. "The instrument exceeded specification."
+- Lumina status: 80mg. Past Paz's line. Vial running low — will need to contact Paz again.
+- Data saved: every coherence map, propagation vector, neural signature encoding from 412 mages across 14 sectors. The void amplifies kinetic force. This data will be cited by Sofia, processed by AEGIS.
 
 **Recent History (B2 Ch 28):**
 - São Paulo breach, Category 3. Relay opened 14:07 UTC. 400+ mages worldwide. Ring light on — streaming live, 71K peak viewers. Translated mage telemetry for audience in real time.

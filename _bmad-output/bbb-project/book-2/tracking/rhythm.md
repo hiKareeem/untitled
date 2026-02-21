@@ -1063,4 +1063,30 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 ---
 
+### Chapter 34 — "The Relay" (Kira)
+
+**Mode:** TEXTURE
+**Word Count:** ~3,900
+**Scenes:** 3 (pre-relay/strike onset | relay during strike | aftermath)
+**Dialogue %:** ~18%
+**Avg Sentence Length:** ~14-16 words (bimodal)
+**Fragment %:** ~20%
+
+**Tension Shape:** Low-operational → spike-catastrophic (kinetic strike) → sustained-high (Sari, five more dark) → medium-resolving (stream ends, fold) → low-compressed (aftermath, ceiling discovery)
+
+**Action/Reflection Balance:** 45% action / 55% reflection
+
+**Pacing Notes:**
+- Relay sequence (Scene 2) is the chapter's densest section — correct for TEXTURE mode.
+- Sari's exchange is the pivot. "It has names" lands harder for being flat.
+- Aftermath decelerates deliberately. The relay is over. The chapter is not.
+- The ceiling is the final beat and the chapter's longest sustained paragraph.
+
+**Comparison to Ch 28 (direct precursor):**
+- Ch 28: ~4,200 words, 3 movements, ~18% dialogue, Sao Paulo relay (Category 3), 60mg, Paz call pending
+- Ch 34: ~3,900 words, 3 scenes, ~18% dialogue, Mumbai relay (Category 5), 80mg, Paz call completed off-page
+- Together: rehearsal (Ch 28) → the real thing (Ch 34). Same structure, higher load, higher cost, new discovery (the ceiling).
+
+---
+
 _Last updated: 2026-02-20_

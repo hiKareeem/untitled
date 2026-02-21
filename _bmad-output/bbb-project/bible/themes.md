@@ -2,8 +2,8 @@
 title: "Themes"
 type: bible-dimension
 dimension: themes
-lastUpdated: "2026-02-16"
-lastChapter: 30
+lastUpdated: "2026-02-20"
+lastChapter: 34
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -508,6 +508,9 @@ This bible dimension tracks **theme evolution**:
 | Ch 47 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), What We Owe (Strong), Identity (Moderate), Irrelevance (Moderate), Commodification (Background), Atrocity (Background) | Nikolai POV — after-action report and maintenance bay vigil. PCR-11 form (47 fields, NRC). Field log duplicates report (arc terminus). Hum 6.3 (*thinner*). Two P-Frames, one operator. Jarek's tools. "The quiet was the hardest part." |
 | Ch 48 | Identity (Dominant), Irrelevance (Dominant), Truth (Strong), What We Owe (Strong), Complicity (Moderate), Architecture (Moderate), Commodification (Background), Atrocity (Background) | Nephthys POV — mass grave theology, prophet emergence. Junction contact, tens of thousands as composite. "They are all still here" (internalized). Cathedral address, ~340 survivors. Stone is physics, absorbed are present. Imani beside not behind. Recursion visible. "The theology that will kill her followers begins here." |
 | Ch 29 | Complicity (Dominant), Architecture (Dominant), Truth (Strong), Atrocity (Strong), Commodification (Moderate), What We Owe (Moderate), Identity (Background), Irrelevance (Background) | Nuwa POV — sacrifice district designation. Sump geometry reproduced in Mid-Levels. 7 path-poor structures, 12,000 residents, 14% survival. "I'm not telling people to leave. I'm telling people where to stand." Lie inverted: chosen visibility as tool. "She began." |
+
+| Ch 33 | Complicity (Strong), Identity (Strong), Truth (Strong), What We Owe (Moderate), Architecture (Moderate), Commodification (Background) | Nephthys POV — three Threshold members walk into the void. Perimeter approach, full primary density. *Circulation* — the absorbed are not static, they are moving. Framework failure: the counter-liturgy's architecture cannot contain the observation. Honest report to Imani: first time in the arc. |
+| Ch 34 | Commodification (Dominant), Identity (Dominant), Complicity (Strong), Truth (Strong), What We Owe (Moderate), Architecture (Moderate) | Kira POV — Mumbai relay, Category 5. Void amplifies kinetic force. Seven mages dark. Fourteen total. "The instrument exceeded specification." Quiet room at 80mg: lower ceiling, suppression vs. rest. Chord shapes absent (first time). Something in the ceiling — the Voice accumulating in the space the management identity has created by suppressing everything else. |
 
 <!-- INSERT_NEXT_PROGRESSION -->
 

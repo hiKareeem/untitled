@@ -967,7 +967,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 — Nephthys POV (3rd Book 2 appearance, 5th overall). Three Threshold volunteers (Lev, Maren, Yusuf) walk into primary Anchor Zone. Nephthys goes to perimeter — first time at primary Anchor (Ch 24 was secondary). Bilateral nosebleed at full density. Branded palm raised to perimeter air (closest approach yet). Three signatures found: distinct, identifiable, moving through composite. *Circulation* discovered — interior, not spoken. First honest report to Imani (not 'I am fine'). Imani's measuring look completes shift from assessment to witness. 'She did not know what the body was.' Word carried home in silence. Forward: Ch 37 (word spoken), Ch 47 (she does not follow). AEGIS as invisible novelist."
 
-completedCount: 86
-totalWords: 378437
+  book2_chapter_34:
+    title: "The Relay"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 3900
+    completedDate: "2026-02-20"
+    metaFile: "book-2/metadata/chapter-34-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 3 — Kira POV (5th Book 2 appearance, 10th overall). Mumbai relay, Category 5. 412 mages worldwide. Void amplifies kinetic force (confirmed). Three simultaneous shutdowns (Kuala Lumpur). Sari (Jakarta): signal persistence — 'I can't stop hearing. The signal won't release.' / 'It has names.' *Resonance persistence* — the names didn't finish. Seven dark from this relay. Fourteen total (São Paulo + Mumbai). Lumina 80mg (past Paz's line — conversation off-page between Ch 28–34). Quiet room at eighty: lower ceiling, suppression vs. rest. Chord shapes absent (first time — eighty suppresses cognitive overflow valve). Something in the ceiling: not the hum, not the signal, not the populated chord — using all three as substrate. She does not reach for it. The Voice accumulating in the space the management identity has created by suppressing everything else. 'The instrument exceeded specification.' AEGIS as invisible novelist."
+
+completedCount: 87
+totalWords: 382337
 lastUpdated: "2026-02-20"
-notes: "Book 2 Ch 33 (Nephthys, Three Walked In) added — Phase 3 continuation. Three Threshold volunteers absorbed. *Circulation* discovered. First honest report. Imani witness arc milestone. Previous: B2C32 (Aurielle, Kill Chain, Phase 3 climax). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."
+notes: "Book 2 Ch 34 (Kira, The Relay) added — Phase 3 Mumbai relay. Void amplification confirmed. Seven dark. Fourteen total. 80mg past Paz's line. Ceiling discovered. Sari: resonance persistence. Previous: B2C33 (Nephthys, Three Walked In). Ch 30 revision flag: AEGIS stream needs Lagos RCI data at moment of Mumbai impact."

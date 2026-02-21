@@ -619,4 +619,22 @@ The reader sees the same geography from three vantage points before the kill cha
 
 ---
 
+### Chapter 34 — "The Relay" (Kira)
+
+**Commodification of Suffering (Dominant):** The relay captures extraordinary data. Seven people are in hospitals. "The instrument exceeded specification." Both facts in one sentence. The instrument worked. The instrument burned seven people. These are the same sentence. Escalation from Ch 28: Sao Paulo burned seven, Mumbai burns seven more. The cost scales with the event.
+
+**Where Identity Ends (Dominant):** The chord shapes are absent for the first time — the eighty suppresses the cognitive overflow valve. The management identity is not collapsing; it is chemically held in place while something accumulates in the ceiling. "Not lower. Not heavier. *Present.*" The Voice is not breaking through the management identity. It is accumulating in the space the management identity has created by suppressing everything else.
+
+**Systemic Complicity (Strong):** "The design was consuming people." Not accusation, not defense. Observation. The network shed the burned mages the way a circuit sheds blown fuses and kept running. The redundancy worked. The complicity is structural, not intentional — the book's argument about all complicity.
+
+**Truth as Weapon (Strong):** The void amplifies kinetic force. The data is saved. It will be cited by Sofia, processed by AEGIS, used by institutions that had no part in capturing it. The people who captured it are in hospitals.
+
+**What We Owe (Moderate):** Fourteen total. She can name nine. The other five are cohort designations — the anonymized architecture protecting her from knowing every name her relay burned.
+
+**Epigraph Integration:** *The Kindling Letters*, Vol. VI — "My daughter asked why the radio stays on after the broadcast ends... The radio stays on." Opaque on first read. On reread: the signal that won't release from Sari's spine, the Voice accumulating in the ceiling, the relay that ends but the signal that doesn't. The radio is the R3. The broadcast has ended. The sound continues.
+
+**Forward Thread:** Ch 39 "The Second Broadcast" — the ceiling is the seed. Something in the compressed space between the drug and the machinery it suppresses. Kira does not reach for it in Ch 34. In Ch 39, she stops suppressing it. The second broadcast is the moment the management identity is replaced by something she cannot curate.
+
+---
+
 _Last updated: 2026-02-20_

@@ -583,4 +583,26 @@
 
 ---
 
+---
+
+### Chapter 34 — "The Relay"
+
+**Kira Calloway (POV):**
+- **Entering State:** Post-Ch 28. Management Lie cracking but not broken. Paz call completed off-page — dosage conversation happened, 80mg arranged. Fourteen mages dark (7 São Paulo + 7 Mumbai incoming). The relay is the story now. The ring light is on.
+- **Primary Beat:** The relay during the strike. Three simultaneous shutdowns (Kuala Lumpur). Sari's signal persistence. Two more dark. Two more. Seven total. She keeps the relay operational because the data is extraordinary. The instrument exceeded specification. Both facts coexist. Expressed through: fingertips white on the desk, chord shapes unnamed (not C minor or F diminished — something past the vocabulary), relay-voice command register (clipped, no warmth, the voice that cannot afford to process what three going dark at once means).
+- **Secondary Beat:** "Seven. Total from this relay. Seven more." — isolated paragraph. The count. Fourteen cumulative. She can name nine. The other five are cohort designations — the anonymized architecture protecting her from knowing every name her relay burned. Expressed through: the count itself, the naming capacity, the gap between nine and fourteen.
+- **Tertiary Beat:** The Lumina ritual at eighty. Past Paz's line. The cold burn sharper, longer. The quiet room at eighty has a lower ceiling. Not rest — suppression. The drug is now suppressing the cognitive overflow valve (chord shapes absent for the first time). Something in the ceiling. She does not reach for it. Expressed through: the ceiling's presence as physical quality, the chord shapes' absence, the fold that cannot complete (eighty holds the posture).
+- **Exiting State:** Sitting upright in the dark. The fold incomplete. Chord shapes absent. Dashboard open, seven black nodes among the green. The ceiling low. The shape unnamed. "She sat with it. The ceiling low. The shape unnamed. Mumbai in the chord, São Paulo in the chord, fourteen names she would carry because she had built the thing that burned them and the building had worked."
+- **Emotional Shift from Ch 28:** Ch 28 ends with the management Lie named and cracking — "She was not calibrating anymore." The Paz call is the first action taken outside the management frame. Ch 34 ends with the management identity chemically held in place while something accumulates in the space the suppression has created. The Lie is not cracking further. It is being propped up by eighty milligrams. What accumulates in the ceiling is what the Lie is suppressing.
+
+**Kira's Emotional Lie Arc (cumulative):**
+- B1 Ch 10/18/51: "If I control the platform, I control the narrative of what I am." The original Lie.
+- B2 Ch 6: "If I can calibrate, I can handle the load." The Book 2 Lie. 60mg established.
+- B2 Ch 16: Lie intact. Expulsion = freedom. Management identity expanding.
+- B2 Ch 21: Lie intact. Nephthys convergence. "Names." Management identity confirmed by a second framework.
+- B2 Ch 28: "She was not calibrating anymore." The Lie named in the prose. The Paz call is the first action outside it. The Lie is cracking.
+- **B2 Ch 34: The Lie is chemically held. 80mg past Paz's line. The management identity is not collapsing — it is being propped up. The chord shapes are absent. Something accumulates in the ceiling. The Lie is not cracking further; it is being maintained at increasing cost. The ceiling is what the maintenance is suppressing. Ch 39 is where the maintenance fails.**
+
+---
+
 _Last updated: 2026-02-20_
