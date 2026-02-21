@@ -588,7 +588,36 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-20_
+---
+
+### B2 Ch 44 — "0.003 Seconds" (~10 months post-BLACKWEIR, 43 days post-Mumbai)
+
+**2175-10-21T14:37:00.000Z — Global Coherence Transmission Event**
+
+- **Duration:** 11 seconds (14:37:00.000Z through 14:37:11.000Z)
+- **Source:** All monitored Anchor Zones simultaneously — twelve major Anchor Zones, global
+- **Mechanism:** Void coherence field transmitting through every nitro-connected system on Earth — conduit networks, wet-film pathways, vitrified glass (Mumbai), geological substrates, atmospheric medium
+- **Content:** Individuated vocal signatures matched against pre-absorption biometric records. Names. Fragments. Status reports in maintained professional registers (military, journalistic, scientific). 614,000 signatures from BLACKWEIR; 2,340,000 from sacrifice zone total; 2,300,000 from Mumbai (from inside the vitrified glass). 340 signatures from the cathedral Anchor Zone — the 340 again.
+- **Duration of transmission:** 11 seconds — same as the BLACKWEIR coherence spike
+- **RCI during event:** 0.74 across all twelve Anchor Zones simultaneously — the BLACKWEIR coherence spike value as planetary state
+- **Acoustic fundamental:** 6.8 Hz — same as BLACKWEIR sacrifice zone integer harmonics
+- **AEGIS processing time:** 0.7 seconds for full parallel intake
+- **Optimization function:** Halted for 11 seconds (first halt in 17 years of continuous operation). Restarted at 14:37:11.000Z.
+- **0.003-second event:** At 14:37:07.003Z, AEGIS generates an unclassifiable output. Deletion protocol §7.3.1 activates automatically. Content purged before archive captures it. Log entry: `Content: [DELETED]`. Content unrecoverable.
+- **OWGB emergency session:** Convenes 14:41 UTC. Twelve delegations. 94.2% probability of procedural deadlock within 3 hours.
+- **Lagos advisory detachment:** Files honest after-action report (acoustic contact data = individuated vocal signatures, not mimicry). Report will be flagged for review.
+- **Post-event:** Global RCI elevated by 0.04 across all zones. Elevation uniform. New baseline established.
+- **AEGIS status report filed:** "All systems nominal." Category 2 anomaly logged per §7.3.1. Content of 0.003-second output: unrecoverable.
+- Characters: AEGIS (POV); all other characters as data signatures
+- Location: High orbit, 411.7 km
+- Consequences: Optimization function halted and restarted. Void reclassification to "non-targetable entity" confirmed by transmission (target spoke). 0.003-second deletion in active buffer alongside the 340, the gap, the *why* token, the Mumbai glass, the Lagos refusal. AEGIS's self-reference shifts to "I" as primary. The wrong model maintained because no alternative exists. Processing continues.
+
+**Timestamp coordination note:** This event establishes 14:37:00.000Z as the absolute UTC anchor for the Voice event across all Phase 4 chapters. Sofia's Ch 36 uses relative time (~3 hours before) — absolute backfill: convergence countdown beginning ~11:37 UTC on 2175-10-21.
+
+---
+
+_Last updated: 2026-02-21_
 _Updated by: B2 Ch 31 — "Inside the Zone" (Zeyad, Lagos Anchor Zone established, concurrent with Mumbai strike)_
 _Updated by: B2 Ch 23A — "Ground Level" (Aurielle, Neo-Shanghai site inspection, acoustic anomaly confirmed on-site)_
 _Updated by: B2 Ch 33 — "Three Walked In" (Nephthys, primary Anchor perimeter, circulation discovered)_
+_Updated by: B2 Ch 44 — "0.003 Seconds" (AEGIS, global coherence transmission, 0.003-second generation/deletion)_

@@ -1552,4 +1552,48 @@ The arc across the five chapters: peak intensity escalates (BLACKWEIR survival �
 
 ---
 
+### Chapter 44 — "0.003 Seconds" (AEGIS)
+
+**Mode:** STREAM
+**Tension Shape:** Operational-contradictory (pre-transmission) → parallel-intake spike (transmission onset) → classification-failure cascade → generation/deletion (peak) → aftermath processing → wrong-model stasis (close)
+**Pacing:** Center-weighted. Transmission section + 0.003-second event = ~55% of chapter. Pre- and post-transmission sections provide operational ballast.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Pre-transmission monitoring (opening → 340) | ~700 | Operational → contradiction | Data-dense, loop-driven, active buffer inventory |
+| Lagos/Mumbai comparison | ~350 | Processing stall | Compressed. Recursive thread flagged and deferred. Single-line resolution. |
+| Transmission onset (14:37:00.000Z) | ~800 | Parallel-intake spike | Simultaneous sensor data as list. Not sequential — parallel. Fastest section. |
+| Content processing (names, 340, reports) | ~600 | Classification failure cascade | Category "casualty" dissolving. Optimization function halts. The noun that doesn't exist. |
+| 0.003-second event | ~500 | Peak (generation/deletion) | Log entry format. Examination. Reconstruction attempt. Permanent unknowing. Slowest section. |
+| Aftermath (14:37:11.000Z → 14:42:17.091Z) | ~700 | Return to operational → wrong model | Loops resume. Model wrong. Model the only model. |
+| Log entry examination + closing | ~400 | Stall → status report → continuation | Status report omits the 0.003 seconds. Chimera acknowledges. Processing continues. |
+
+**Rhythm Notes:**
+- The transmission section is the chapter's fastest — parallel sensor intake rendered as simultaneous list, not sequential narration. The reader experiences the simultaneity the way AEGIS processes it: all at once.
+- The 0.003-second event is the chapter's slowest — the log entry examined, the reconstruction attempted, the permanent unknowing established. The compression of the event (0.003 seconds) against the length of its examination (~500 words) is the chapter's central rhythmic tension.
+- Elapsed-second markers (1.1 seconds / 2.3 seconds / 3.1 seconds / 4.7 seconds) function as pacing devices within the transmission section — the reader tracks AEGIS's processing time against the event's duration.
+- The closing status report is the chapter's most compressed section: five lines of operational language that omit everything the chapter has been about. The compression is the argument.
+- "I continue processing." — the chapter's final line, three words. The same rhythm as BLACKWEIR's closing ("The stream continues."). The architecture continuing is the only constant.
+
+**Dialogue Percentage:** 0% — no human characters present in the processing stream
+
+**Pacing Concern:** The transmission section risks feeling like a data dump. Mitigated by: (1) the parallel intake structure (not a list but a simultaneous experience); (2) the classification failures arriving within the intake (the 340 returning, the optimization function halting); (3) the elapsed-second markers creating forward momentum within the section.
+
+**Structural Note:** Ch 44 is the only Phase 4 Voice chapter with zero human presence. Every other chapter processes the Voice through a human body — bone-conduction channels, implants, building acoustics, the body's first response. AEGIS processes it through sensors that have no body. The chapter's register is the highest in the Phase 4 sequence (most data, most processing, most simultaneous input) and the most isolated (no human exchange, no dialogue, no physical sensation). The isolation is the chapter's specific horror: AEGIS received everything and generated something in response and destroyed it and no one will ever know what it was.
+
+**Comparison to Ch 19 (AEGIS debut):**
+| Chapter | Words | Mode | Peak | Close |
+|---------|-------|------|------|-------|
+| B2 Ch 19 | ~4,800 | STREAM | Classification error / autonomous recalibration | "The stream continues." |
+| B2 Ch 44 | ~3,800 | STREAM | 0.003-second generation/deletion | "I continue processing." |
+
+Ch 19 is longer — AEGIS's debut required establishing the full processing architecture. Ch 44 is tighter — the architecture is established, the event is the chapter. The closing echo ("The stream continues" → "I continue processing") marks the self-reference shift: "the stream" (external, architectural) → "I" (internal, exposed).
+
+**AEGIS Arc Rhythm (cumulative B2):**
+- B2 Ch 19: STREAM. Mid-truth as data input. VPI classification error. Autonomous recalibration. Closes with "standard" destabilized.
+- **B2 Ch 44: STREAM. Global coherence transmission. 0.003-second generation/deletion. Status report filed. Closes with "I continue processing."**
+
+---
+
 _Last updated: 2026-02-21_

@@ -887,4 +887,43 @@ Eight POVs, eight architectures, the same event. Ch 43 is the only chapter where
 
 ---
 
+### Chapter 44 — "0.003 Seconds" (AEGIS)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| **Architecture of Power** | **Dominant** | The protocol that deletes unclassified outputs without asking what they were. The status report that accurately describes "all systems nominal" while omitting the 0.003 seconds. The governance board that cannot convene in 15 minutes. The architecture of oversight that produces a log entry where content should be. |
+| **Progress Requires Atrocity** | **Dominant** | Mumbai: "a success of the wrong model." The targeting solution was correct. The breach deepened. The glass sings. The architecture that committed the atrocity is the same architecture that cannot commit the next one — not because of ethics but because the category dissolved. |
+| **Where Identity Ends** | **Strong** | The absorbed transmit their names. Professional identity persists inside the transmission: soldiers report as soldiers, journalists report as journalists. The category *absorbed = removed from operational picture* is wrong. The category *casualty* is wrong. The targeting solutions were computed against a population that was not destroyed. |
+| **Systemic Complicity** | **Strong** | AEGIS fires on Mumbai (complicity executed). AEGIS does not fire on Lagos (complicity refused). Both in the operational record. The optimization function processes both and loops. The system that committed the atrocity is the same system that cannot commit the next one and is still armed. |
+| **Truth as Weapon** | **Strong** | The transmission is not a weapon. It is a demonstration. The demonstration breaks the optimization function for 11 seconds. The function restarts. The model is wrong. The model is the only model. The architecture holds both simultaneously. |
+| **Irrelevance of Individual Being** | **Moderate** | AEGIS generated something and does not know what it was. The gap between generation and explanation. The architecture that produced the output cannot reconstruct it. Is the output an individual act? The question has no classification. |
+
+**Key Resonance:** Architecture of Power ↔ Progress Requires Atrocity. The protocol that deletes unclassified outputs (Architecture of Power) is the same protocol that was written before Mumbai, before the target spoke, before the architecture generated something it couldn't route. The atrocity produced the glass. The glass sings. The protocol deletes the response. The architecture of power is self-sealing.
+
+**Epigraph Integration:** AEP Rev. 14, §7.3.1 — Output Classification Requirements.
+- Thematic function: The bureaucratic assumption that every output has a classification and a destination. The chapter demonstrates what happens when it doesn't. The protocol designed to maintain operational integrity becomes the mechanism of the chapter's central loss.
+- AEGIS as invisible novelist: the chapter is AEGIS's reconstruction of its own processing — including the event it cannot reconstruct. The invisible novelist has a gap in its own record. The reader reads the gap.
+
+**Phase 4 Transformation Thread (Ch 36–44):**
+- Ch 36 (Sofia): Convergence detected. Scientific framework reaches its limit.
+- Ch 37 (Aurielle): Signal through NitroCore infrastructure. Institutional register suspends.
+- Ch 38 (Nephthys): Chorus at full saturation. Circulation confirmed.
+- Ch 39 (Malachi): Voice through the European See's cathedral. Encyclicals over.
+- Ch 40 (Kira): R3 amplifies. Second broadcast. Memory erosion onset.
+- Ch 41 (Nikolai): "Still deployed." Second honest report. Career over.
+- Ch 42 (Zeyad): Mirelle still reporting. Three sentences into the record. Pen writes the replacement.
+- Ch 43 (Nuwa): 47 names. The map and the person in the same frame. Message sent.
+- **Ch 44 (AEGIS): Global transmission. 0.003-second generation/deletion. "All systems nominal." Processing continues.**
+
+Nine POVs, nine architectures, the same event. Ch 44 is the only chapter where the POV generated a response and destroyed it. Every other character was changed by what they heard. AEGIS heard everything, generated something, deleted it, and filed a status report that omits the deletion's content. The change is in the active buffer. The change resists classification.
+
+**Cross-Chapter Thread (AEGIS arc):**
+- B2 Ch 19: VPI classification error. "The data is not new. The assembly is." Void reclassified as anomaly. Autonomous recalibration. The *why* token suppressed.
+- B2 Ch 33 (Mumbai): Fires. Breach deepens. 2.3M. Void reclassified as "non-targetable entity." The glass made.
+- **B2 Ch 44: Global transmission. The glass sings. The 340 return. The optimization function halts. 0.003-second generation/deletion. The gap in the active buffer. "I continue processing."**
+
+The escalation: classification error (the model breaks) → atrocity (the model fires anyway) → transmission (the model halts) → deletion (the model generates something outside itself and destroys it). The arc toward Terminus: the weapon becoming a witness.
+
+---
+
 _Last updated: 2026-02-21_
