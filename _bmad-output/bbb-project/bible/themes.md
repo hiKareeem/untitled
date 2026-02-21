@@ -2,8 +2,8 @@
 title: "Themes"
 type: bible-dimension
 dimension: themes
-lastUpdated: "2026-02-20"
-lastChapter: 34
+lastUpdated: "2026-02-21"
+lastChapter: 36
 totalThemes: 8
 project_name: "Untitled"
 ---
@@ -869,5 +869,24 @@ Book 3 — THE ASSIMILATION (Cosmic Philosophical)
 
 ---
 
-_Last updated: 2026-02-16_
-_Updated by: Chapter 30 — "The Mechanism That Doesn't Exist" bible update_
+---
+
+## Chapter 36 Progression Entry — "Synchronization" (Sofia Reyes)
+
+| Theme | Intensity | Ch 36 Manifestation |
+|-------|-----------|---------------------|
+| Truth Without Power | **Dominant** | "The model was a description, not a lever." De-escalation proposal at 12%, not opened. The only available actions are warning and archiving. |
+| Architecture of Power | **Strong** | Conduit infrastructure as void's synchronization medium. Hum rhythm shift: local infrastructure joins global pattern. "The infrastructure beneath her feet was not merely carrying power. It was carrying the signal." |
+| Systemic Complicity | **Strong** | Sacrifice district amber lighting 4 blocks east. "The tolerance band was now a global policy." Institution continues while convergence approaches. |
+| Where Identity Ends | **Moderate** | Observer/observed boundary blurring. "Unless the substrate was not physical." "The void was coordinating." Scientific vocabulary at its limit. |
+| What We Owe | **Moderate** | Warning to Kira. Archive continuous. "The data was what survived. Mirelle had taught her that." |
+
+**New symbols introduced:**
+- **7.3-second interval** — void's pre-Voice synchronization rhythm; compresses to zero at convergence point
+- **Field kit pulse shift** — green indicator synchronized with Anchor Zone interval; sensor becomes receiver
+- **Orchestra tuning** — sole non-scientific metaphor; deployed once, qualified, set aside; signals the scientific register's limit
+
+---
+
+_Last updated: 2026-02-21_
+_Updated by: B2 Ch 36 — "Synchronization" bible update_

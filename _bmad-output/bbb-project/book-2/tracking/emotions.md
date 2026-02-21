@@ -605,4 +605,28 @@
 
 ---
 
-_Last updated: 2026-02-20_
+### Chapter 36 — "Synchronization"
+
+**Sofia Reyes (POV):**
+- **Entering State:** Post-Ch 26. Rogue analyst, Mid-Levels apartment, Erasure List assembled, de-escalation proposal at 12%. The working group exists. The proposal exists. The void is escalating. She has been monitoring broadband acoustic feeds since Mumbai.
+- **Primary Beat:** Pattern recognition → convergence point resolves. The 7.3-second interval across 12 Anchor Zones. The model runs. The convergence point: approximately three hours. The response in her hands is stillness — "the opposite of tremor, the physiological record of a system recognizing a pattern it had seen before." Not fear. Recognition. The recognition is worse than fear.
+- **Secondary Beat:** Two actions, purposeful. Warning to Kira's network (stripped, operational, no qualifiers). Archive set to continuous (three nodes confirmed). "She was not thinking about her own safety. She was thinking about the data." The actions are the emotional register — not distress, not heroism. Obligation. The same obligation that produced Entry 17, the publication, the Erasure List, the proposal.
+- **Tertiary Beat:** Waiting. Coffee made, not drunk. De-escalation proposal not opened. Window: amber lighting 4 blocks east. "The tolerance band was now a global policy." The emotional register of the waiting is not despair — it is the specific stillness of a scientist who has exhausted every instrument and is now performing the only available action: watching. The proposal's existence is the emotional weight. She wrote the right thing. She does not open it. The proposal was not what the next three hours required.
+- **Climactic Beat:** Hum rhythm shift. The floor of a thirty-ninth-floor apartment synchronizing with twelve Anchor Zones. The field kit pulse at 1.8 seconds. "The hum she had been measuring for a decade — the hum that was data — the hum was synchronizing." The emotional register: the scientist at the limit of the observer role. The instrument she has carried for ten years is now a receiver. The data she has been measuring is now the void's signal. The boundary between observer and observed is not clean. She does not name this. She watches.
+- **Exiting State:** Sitting at the desk. Coffee cold. Field kit pulsing at the void's rhythm. Terminal recording. Archive running. Convergence 53 minutes away. "She did not have a word for what was coming." The emotional terminus: the scientist who has been right about everything, watching the last prediction run, with no word for what arrives when the interval reaches zero.
+- **Emotional Shift from Ch 26:** Ch 26 ends with the proposal at 12%, the Erasure List assembled, the hum at 1.4x amplitude — the scientist still building instruments. Ch 36 ends with the proposal not opened, the instruments recording, the hum synchronized — the scientist past the instrument-building phase. The shift is from construction to witness. The observer role is all that remains.
+
+**Sofia's Emotional Lie Arc (cumulative):**
+- B1 Ch 5: "Not yet was not the same as nothing." Suspended decision.
+- B1 Ch 15: "It was becoming a choice." Threshold.
+- B1 Ch 33: Transmits to Black Babel. Action.
+- B1 Ch 41: "The data had prevented nothing." Tested.
+- B2 Ch 4: "I know." Institutional acknowledgment that changes nothing. Determination.
+- B2 Ch 11: "Mirelle would have made it a better story." Inheritance.
+- B2 Ch 20: "The instrument was wrong for the moment." Acknowledged.
+- B2 Ch 26: "The science was the science. Twelve percent was twelve percent." Obligation without contingency.
+- **B2 Ch 36: "She did not have a word for what was coming." The Lie at its limit. The science is complete. The model is correct. The prediction is running. The emotional register is not despair — it is the specific stillness of a scientist who has done everything the scientific method provides and is now watching the object of study coordinate. Ch 45 will shatter the Lie — not by proving it wrong, but by making it irrelevant.**
+
+---
+
+_Last updated: 2026-02-21_

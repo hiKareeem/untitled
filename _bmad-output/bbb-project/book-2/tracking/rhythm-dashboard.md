@@ -9,7 +9,7 @@
 
 *Will be populated as chapters are completed.*
 
-**Total Chapters Analyzed:** 12 (Ch 2, 4, 5, 6, 9, 10, 12, 13, 14, 15, 16, 17, 23)  
+**Total Chapters Analyzed:** 13 (Ch 2, 4, 5, 6, 9, 10, 12, 13, 14, 15, 16, 17, 23, 36)  
 **Average Tension Level:** Medium-sustained (TEXTURE-dominant with PRESSURE spikes)  
 **Pacing Distribution:** Center-weighted (dialogue scenes as peaks; Ch 12 front-loaded crisis tempo; Ch 14 three-movement institutional structure; Ch 15 dual-peak operational; Ch 17 four-scene deceleration; Ch 23 routine-then-compressed, Phase 3 opener)
 

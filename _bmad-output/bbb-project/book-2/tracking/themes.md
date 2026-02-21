@@ -637,4 +637,37 @@ The reader sees the same geography from three vantage points before the kill cha
 
 ---
 
-_Last updated: 2026-02-20_
+### Chapter 36 — "Synchronization" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth Without Power | **Dominant** | The model is complete, the prediction is running, the only available actions are warning and archiving. "The model was a description, not a lever." The de-escalation proposal at 12%, not opened. |
+| Architecture of Power | **Strong** | The conduit infrastructure as the void's synchronization medium. "The infrastructure beneath her feet was not merely carrying power. It was carrying the signal." The hum joins the pattern. |
+| Systemic Complicity | **Strong** | Sacrifice district amber lighting 4 blocks east. "The tolerance band was now a global policy." The institution continues while the convergence approaches. |
+| Where Identity Ends | **Moderate** | The boundary between observer and observed blurring: "Unless the substrate was not physical." "The void was coordinating." The scientific vocabulary reaching its limit. |
+| What We Owe | **Moderate** | Warning to Kira's network. Archive set to continuous. "She was not thinking about her own safety. She was thinking about the data. The data was what survived. Mirelle had taught her that." |
+
+**Key Resonance:** Truth Without Power ↔ Architecture of Power. The model is correct and the infrastructure is the void's nervous system and neither fact produces a lever. The chapter's argument: the scientific method reaches its absolute limit not when the data is wrong but when the data is right and the object of study is coordinating.
+
+**Epigraph Integration:** VEC Routine Sensor Report 2171-Q3-0447 (Unclassified) — "Sensors 7 through 19 returned identical timestamps for the 03:00 monitoring cycle despite geographic separation exceeding 4,200 km. Hardware fault ruled out after tertiary verification. Recommend continued monitoring. Do not escalate."
+- Thematic function: The synchronization Sofia detects in Ch 36 was already occurring in 2171 — four years before the chapter's events. VEC's monitoring division detected it, ruled out hardware fault, and filed it as a calibration note. "Do not escalate." The institutional response to the void's coordination was the same as its response to every other finding: contain, file, continue.
+- AEGIS as invisible novelist: AEGIS would have access to VEC's unclassified sensor archive. The report is real. The recommendation was followed. The void continued.
+- Epigraph → chapter: The reader encounters "Do not escalate" before Sofia demonstrates that escalation is already complete. The epigraph names the institutional response before the chapter shows what that response produced.
+
+**The Instrument Thread (Phase 4 update):**
+- Ch 11: Publication as instrument. Wrong for the moment.
+- Ch 20: Instrument acknowledged as wrong. No replacement.
+- Ch 26: Proposal as instrument. Technically sound. Politically impossible.
+- **Ch 36: No instrument. The model is a description, not a lever. Warning and archiving are all that remain. The observer role is the last instrument.**
+- Ch 45: The void speaks. The instrument question becomes irrelevant.
+
+**Sofia's Lie Arc (Phase 4):** "She did not have a word for what was coming." The Lie at its limit. The science is complete. The model is correct. The prediction is running. The object of study is about to speak back. Ch 45 will not prove the Lie wrong — it will make it irrelevant.
+
+**New Symbols:**
+- **7.3-second interval:** The void's synchronization rhythm before the Voice. Compresses to zero at the convergence point.
+- **Field kit pulse shift:** The instrument that has been a green-indicator constant since B1 Ch 5 synchronizes with the Anchor Zone interval. The sensor becomes a receiver.
+- **Orchestra tuning:** The chapter's only non-scientific metaphor. Twelve instruments finding the same pitch, no conductor. Deployed once, immediately qualified, set aside. The scientific vocabulary is insufficient; the non-scientific image is also insufficient.
+
+---
+
+_Last updated: 2026-02-21_

@@ -2,7 +2,7 @@
 workflowType: chapter-write
 stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
 lastStep: 'step-06-bible-update'
-chapterNumber: 32
+chapterNumber: 34
 draftVersion: 1
 createdDate: '2026-02-20'
 author: 'Kareem'
@@ -22,7 +22,7 @@ rhetoric_reference: 'Corporate-corrupted register, institutional passive voice, 
 meta_note: 'AEGIS as invisible novelist'
 ---
 
-# Chapter 32
+# Chapter 34
 
 ## Kill Chain
 
@@ -33,7 +33,7 @@ meta_note: 'AEGIS as invisible novelist'
 ---
 
 <!--
-📋 SYNOPSIS - Chapter 32
+📋 SYNOPSIS - Chapter 34
 
 SYNOPSIS: Mumbai aftermath. The incident notification arrives at NitroCore through the defense cooperation protocol — AEGIS used their grid infrastructure mapping for targeting coordinates. Aurielle's data in the kill chain. 2.3M dead. Emergency board session. Legal exposure is the frame: NitroCore infrastructure data contributed to an autonomous military strike. Thorne: "We provided mapping data under standard defense cooperation agreements. The targeting decision was AEGIS's." Technically true. Legally defensible. Aurielle recognizes the distinction between authorization and provision is the same distance as the Spires and the Sump. She reads the casualty report from the last page first. The demographic breakdown is in the main body — not an appendix she can choose not to open. Her data. Her mapping. Her program. The machine she built is being operated by a machine she doesn't control.
 

@@ -894,7 +894,17 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 3 closer — Nephthys POV (3rd Book 2 appearance, 5th overall). Three Threshold volunteers (Lev, Maren, Yusuf) walk into primary Anchor Zone. Nephthys goes to perimeter — first time at primary Anchor (Ch 24 was secondary). Bilateral nosebleed at full density. Branded palm raised to perimeter air (closest approach yet). Three signatures found: distinct, identifiable, moving through composite. Circulation discovered — interior, not spoken. First honest report to Imani (not 'I am fine'). Imani's measuring look completes shift from assessment to witness. 'She did not know what the body was.' Word carried home in silence. Phase 3 closes. Forward: Ch 37 (word spoken), Ch 47 (she does not follow). AEGIS as invisible novelist."
 
-completedCount: 89
-totalWords: 389637
-lastUpdated: "2026-02-20"
-notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35)."
+  book2_chapter_36:
+    title: "Synchronization"
+    status: v1-complete
+    pov: "Sofia Reyes"
+    wordCount: 4100
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-36-meta.yaml"
+    mode: PRESSURE
+    notes: "Book 2, Phase 4 opener — Sofia POV (9th overall, 5th B2). ~3 hours before the Voice. Broadband acoustic monitor detects 7.3-second coherence interval across 12 Anchor Zones (non-geographic onset sequence). Convergence model: temporal convergence, exponential compression, simultaneous output in ~3 hours. 'The void was coordinating.' Two actions: warning to Kira's network, archive set to continuous (3 nodes). De-escalation proposal at 12%, not opened. Window: amber safety lighting 4 blocks east, sacrifice district. 'The tolerance band was now a global policy.' Hum rhythm shift at ~1 hr 12 min: floor synchronizing with global pattern. Field kit pulse synchronized at 1.8 seconds — sensor becomes receiver (first time not steady since move). Chapter closes 53 minutes from convergence. 'She did not have a word for what was coming.' Epigraph: VEC Routine Sensor Report 2171-Q3-0447 (Unclassified) — synchronization detected 4 years prior, 'Do not escalate.' AEGIS as invisible novelist."
+
+completedCount: 90
+totalWords: 393737
+lastUpdated: "2026-02-21"
+notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4 opens with Ch 36 (Synchronization, Sofia) — 2026-02-21."

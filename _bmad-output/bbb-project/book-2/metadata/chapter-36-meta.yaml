@@ -1,0 +1,127 @@
+chapter_number: 36
+book: 2
+title: "Synchronization"
+pov_character: "Sofia Reyes"
+phase: 4
+location: "Mid-Levels apartment (39th floor), Neo-Shanghai"
+timeline: "~10 months post-BLACKWEIR, ~3 hours before the Voice"
+estimated_word_count: 4000
+actual_word_count: ~4100
+epigraph_source: "Routine Sensor Report 2171-Q3-0447"
+epigraph_author: "VEC Atmospheric Monitoring Division"
+epigraph_ref: "Unclassified"
+mode: PRESSURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-02-21"
+
+# Summary
+summary: >
+  Sofia is woken by her broadband acoustic monitor approximately three hours
+  before the Voice. Twelve Anchor Zones — Neo-Shanghai, Lagos, Mumbai, São Paulo,
+  Jakarta, Kolkata, Osaka, Manila, Cairo, Lima, Johannesburg, Seattle — are
+  producing coherence peaks at an identical 7.3-second interval despite no
+  physical mechanism for coordination. The onset sequence is non-geographic.
+  She runs the convergence model (same methodology as BLACKWEIR): temporal
+  convergence, exponential compression, simultaneous output in approximately
+  three hours. Conclusion: "The void was coordinating." Two actions: warning
+  message to Kira's network ("No precedent. No mechanism. Get your people to
+  positions where they can record."), archive set to continuous (three
+  distributed nodes). The de-escalation proposal sits at 12% in a separate
+  partition — not opened. The proposal was not what the next three hours
+  required. Window: amber safety lighting 4 blocks east, sacrifice district
+  perimeter. "The tolerance band was now a global policy." At ~1 hour 12
+  minutes before the Voice, the hum through the floor shifts rhythm — the
+  conduit infrastructure joining the synchronization pattern. The field kit
+  pulse synchronizes at 1.8 seconds: first time not steady since the move.
+  The chapter closes 53 minutes from convergence. "She did not have a word
+  for what was coming."
+
+# Key Events
+key_events:
+  - "Broadband acoustic monitor triggers ~3 hours before the Voice — 7.3-second coherence interval across 12 Anchor Zones"
+  - "Onset sequence non-geographic: Neo-Shanghai → Osaka → São Paulo → Lagos → Mumbai (no infrastructure overlap)"
+  - "Convergence model run: temporal convergence, exponential compression (model recalibrated from linear mid-chapter)"
+  - "'The void was coordinating.' — chapter's central thesis"
+  - "Warning message sent to Kira's network: 'Reyes. Global acoustic synchronization detected across 12 Anchor Zones...'"
+  - "Archive set to continuous — 3 distributed nodes confirmed"
+  - "De-escalation proposal (12%) not opened — 'The proposal was not what the next three hours required'"
+  - "Window scene: amber safety lighting 4 blocks east, sacrifice district perimeter. 'The tolerance band was now a global policy.'"
+  - "Hum rhythm shift at ~1 hr 12 min: floor synchronizing with Anchor Zone interval at 1.8 seconds"
+  - "Field kit pulse shifts from steady to synchronized — first time not steady since move"
+  - "'The void was not twelve wounds in twelve cities. It was one system viewed through twelve openings.'"
+  - "Chapter closes 53 minutes from convergence. 'She did not have a word for what was coming.'"
+  - "Mirelle's unfinished sentence carried: 'The infrastructure was always designed to—' Still without its ending."
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: POV
+    state: "Phase 4 B2 (Transformation opening). Pre-Voice vigil. Observer role at its limit. The model is correct. The prediction is running. No instrument left but the archive. 'She did not have a word for what was coming.'"
+  - name: "Mirelle Dubois"
+    role: Referenced (posthumous)
+    state: "Present in archive protocol ('the data was what survived, Mirelle had taught her that') and unfinished sentence. Maximum weight before Ch 45 resolution."
+  - name: "Kira (network)"
+    role: Off-page (message recipient)
+    state: "Warning received ~3 hours pre-Voice. Relationship: transactional, data-for-data. Sofia signs as 'Reyes' — surname only, consistent with Erasure List channel protocol."
+
+# Themes
+themes:
+  - "Truth Without Power (Dominant) — model correct, prediction running, no lever; 'the model was a description, not a lever'"
+  - "Architecture of Power (Strong) — conduit infrastructure as void's synchronization medium; hum rhythm shift"
+  - "Systemic Complicity (Strong) — sacrifice district amber lighting 4 blocks east; 'the tolerance band was now a global policy'"
+  - "Where Identity Ends (Moderate) — observer/observed boundary blurring; 'the void was coordinating'"
+  - "What We Owe (Moderate) — warning sent, archive continuous; 'the data was what survived. Mirelle had taught her that.'"
+
+# Symbols
+symbols:
+  - name: "7.3-second interval"
+    appearances: "Throughout (compressing)"
+    arc: "The chapter's number. Void's pre-Voice synchronization rhythm. Introduced at 7.3 seconds, compresses exponentially to 0.9 seconds at chapter close. Implied zero at convergence point. Functions like '0.7 Hz' (Ch 5 B1) and 'twelve percent' (Ch 26 B2) — each Sofia chapter has a number that carries the thesis."
+  - name: "Field kit pulse shift"
+    appearances: 2
+    arc: "Green indicator steady since Ch 5 B1 → synchronized at 1.8 seconds (Ch 36). The sensor becomes a receiver. The instrument that has been measuring the infrastructure for ten years is now measuring the void's rhythm through the infrastructure. Arc completes in Ch 45 (records the Voice event)."
+  - name: "Orchestra tuning"
+    appearances: 1
+    arc: "The chapter's only non-scientific metaphor. Twelve instruments finding the same pitch, no conductor. Deployed once, immediately qualified ('but there was no conductor'), set aside. Signals the scientific register's limit."
+  - name: "The hum (rhythm shift)"
+    appearances: "Throughout + shift"
+    arc: "1.4x amplitude (established Ch 26) → rhythm shift at ~1 hr 12 min (Ch 36). The constant that has been data for ten years is now carrying the void's signal. 'The hum did not change' — closing line. Unchanged in amplitude. Changed in rhythm. The reader knows it is no longer just the conduit network."
+  - name: "Cold coffee"
+    appearances: 2
+    arc: "Made, not drunk. Cold on counter (Scene 4), still cold (Scene 5). The waiting state. Previous chapters: coffee as closing image (Ch 11, Ch 20, Ch 26). Ch 36: coffee displaced from closing image by field kit and hum. The ritual that marked chapter endings is now background."
+  - name: "Mirelle's unfinished sentence"
+    appearances: 1
+    arc: "'The infrastructure was always designed to—' Still in archive. Still without its ending. Maximum weight here — carried through 5 chapters. Ch 45 is where it may resolve."
+  - name: "Amber safety lighting (sacrifice district)"
+    appearances: 1
+    arc: "4 blocks east. Visible from window. Not the notices themselves — the institutional amber perimeter lighting. 'The tolerance band was now a global policy.' The institution's complicity made light."
+
+# Continuity
+continuity_notes:
+  - "Follows B2 Ch 35 ('Three Walked In') — Nephthys at primary Anchor Zone perimeter ~1 month earlier; same escalation, different receiver"
+  - "Timeline: ~10 months post-BLACKWEIR, ~3 hours before the Voice. Consistent with Phase 4 positioning."
+  - "Mid-Levels apartment: 39th floor, 1.4x hum amplitude, sacrifice district 4 blocks east — all consistent with Ch 26"
+  - "Field kit: green indicator active since move (Ch 26) — pulse shift is new canonical state"
+  - "Kira's network: transactional channel configured months ago (Ch 26 cross-reference) — warning sent"
+  - "Black Babel archive: 3 distributed nodes, continuous backup triggered manually — consistent with Ch 11 (initial configuration)"
+  - "De-escalation proposal: 12% drafted, separate partition, not opened — consistent with Ch 26"
+  - "Mirelle's unfinished sentence: 'The infrastructure was always designed to—' — consistent with B1 Ch 41 arrival and Ch 11/20/26 carriage"
+  - "12 Anchor Zones named: Neo-Shanghai, Lagos, Mumbai, São Paulo, Jakarta, Kolkata, Osaka, Manila, Cairo, Lima, Johannesburg, Seattle"
+  - "Mumbai post-strike infrastructure damage noted in acoustic signature — consistent with B2 Ch 33"
+  - "Lagos as major Anchor Zone — consistent with B2 Ch 31"
+  - "Epigraph: VEC Routine Sensor Report 2171-Q3-0447 — synchronization detected 4 years before chapter events; 'Do not escalate'"
+  - "Forward: Ch 37 ('Circulation') — Nephthys delivers the framework post-Voice; Kira's network warned"
+  - "Forward: Ch 45 ('The Object Speaks') — post-Voice, first data FROM void; archive captures Voice event; unfinished sentence may resolve"
+
+# Thread Status
+thread_status:
+  sofia_arc: "Phase 4 B2 (Transformation opening). Pre-Voice vigil. Observer role at its limit. Next: Ch 45 post-Voice."
+  synchronization_detection: "COMPLETE — 7.3-second interval across 12 Anchor Zones. Exponential compression. Convergence ~3 hours."
+  warning_to_kira: "SENT — ~3 hours pre-Voice. Kira's network warned. Knowledge boundary: Kira knows 'Reyes' sent warning, not full identity."
+  archive_protocol: "CONTINUOUS — 3 distributed nodes from ~3 hours pre-Voice. Capturing Voice event in real time."
+  de_escalation_proposal: "12% drafted. Not opened. 'The proposal was not what the next three hours required.' Exists for Ch 45."
+  field_kit_pulse: "SHIFTED — synchronized with Anchor Zone interval at 1.8 seconds. Sensor → receiver. Arc completes Ch 45."
+  hum_rhythm: "SHIFTED — floor synchronizing with global pattern. 'The hum did not change' (amplitude). Changed in rhythm."
+  mirelle_sentence: "OPEN — 'The infrastructure was always designed to—' Still without ending. Ch 45 approach."
+  void_coordination: "ESTABLISHED — 'The void was not twelve wounds in twelve cities. It was one system viewed through twelve openings.'"

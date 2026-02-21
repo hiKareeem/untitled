@@ -621,11 +621,11 @@ This bible dimension tracks **current character states**:
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 3/5 B2 (Weaponization — sacrifice district correlation mapped, de-escalation proposal begun)
-- Emotional State: The specific exhaustion of someone who has been right about everything and changed nothing, drafting the next right thing. Not despair. Not hope. The moral obligation has outlasted every instrument she has used to fulfill it.
-- Dominant Beliefs: "The science is the science. The obligation doesn't end because the audience is insufficient."
-- Internal Contradictions: Knows the de-escalation proposal will be ignored. Writes it anyway. The gap between knowing and doing is the gap she lives in. She has stopped waiting for it to close.
-- **B2 Ch 26 state:** VEC terminated, housing clock expired (used 27 of 30 days on analysis). New apartment, Mid-Levels 39th floor, 4 blocks from sacrifice district boundary. Erasure List working group assembled (31 researchers, 12 countries). Sacrifice district correlation documented (0.89-0.95, 14 cities, 4 jurisdictions). De-escalation proposal begun: 12% global nitro reduction, staged, technically sound, politically impossible.
+- Phase: 4/5 B2 (Transformation opening — pre-Voice vigil, observer role at its limit)
+- Emotional State: The specific stillness of a scientist who has exhausted every instrument and is now performing the only available action: watching. The model is correct. The prediction is running. The convergence is 53 minutes away. She does not have a word for what is coming.
+- Dominant Beliefs: "The data will survive whatever comes next."
+- Internal Contradictions: Has the most complete dataset in atmospheric science. Has no lever. The distance between describing a catastrophe and preventing one is the same distance it has always been.
+- **B2 Ch 36 state:** Mid-Levels 39th floor. Broadband acoustic monitors detected global synchronization across 12 Anchor Zones — 7.3-second coherence interval, compressing exponentially. Convergence model projects simultaneous output in ~3 hours. Warning sent to Kira's network. Archive set to continuous (3 distributed nodes). De-escalation proposal at 12%, not opened. Hum rhythm shift: floor synchronizing with Anchor Zone interval. Field kit pulse at 1.8 seconds — the instrument is now a receiver. ~53 minutes to convergence point.
 
 **The Lie:** Science is inherently moral
 
@@ -641,9 +641,9 @@ This bible dimension tracks **current character states**:
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
 **Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst
-- Current Phase: 3/5 B2 (Weaponization — correlation mapped, proposal begun)
-- Progression: B2 Phase 3 reached (Book 2 Ch 26)
-- Next Step: Ch 35 — "Synchronization" — Phase 4 setup, Voice approaching
+- Current Phase: 4/5 B2 (Transformation opening — pre-Voice vigil)
+- Progression: B2 Phase 4 reached (Book 2 Ch 36)
+- Next Step: Ch 45 — "The Object Speaks" — post-Voice, first data FROM void, boundary not clean
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -655,9 +655,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Book 2 Chapter 26 ("The Pattern in the Response") — 8th POV chapter
-- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20
-- Next Planned Appearance: Book 2 Ch 35 ("Synchronization")
+- Last Appearance: Book 2 Chapter 36 ("Synchronization") — 9th POV chapter
+- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20, B2 Ch 26
+- Next Planned Appearance: Book 2 Ch 45 ("The Object Speaks")
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
@@ -676,6 +676,9 @@ This bible dimension tracks **current character states**:
 - **Emotional arc (B2 Ch 20):** Monitoring focus → institutional response taxonomy → the world metabolizing truth → termination notice → recognition (wrong instrument) → aftermath quiet
 - **B2 Ch 26:** VEC housing clock expired (27 of 30 days used on analysis). Moved to Mid-Levels 39th floor rental — boxes still in hallway, field kit set up first. Working with Erasure List working group (31 researchers, 12 countries, anonymized channel through Black Babel). Sacrifice district correlation: boundary follows conduit infrastructure at 0.89-0.95 across 14 cities, 4 jurisdictions. "Every sacrifice district is a BLACKWEIR in waiting. Not a prediction. A measurement." "Not a failure of the response. A feature." Began drafting de-escalation framework: 12% global nitro throughput reduction, staged 3%/quarter over 4 quarters. Technically sound. Target audience unspecified. Politically impossible.
 - **Emotional arc (B2 Ch 26):** Focused work (new apartment, field kit operational) → collaborative momentum (Erasure List channel, first time not working alone) → correlation closes (the circuit visible) → horror of recognition (the system is completing a circuit, not failing) → the proposal as response (three untyped messages, the gap between knowing and doing) → midnight, boxes still unpacked, hum louder, designation markers 4 blocks east
+- **B2 Ch 36:** Broadband acoustic monitor triggered ~3 hours before the Voice. 12 Anchor Zones showing synchronized coherence output at 7.3-second intervals — onset non-geographic (Neo-Shanghai → Osaka → São Paulo → Lagos → Mumbai). Model run: temporal convergence, exponential compression, ~3 hours to simultaneous output. Conclusion: "The void was coordinating." Two actions: warning message to Kira's network ("Reyes. Global acoustic synchronization detected... No precedent. No mechanism."), archive set to continuous (3 distributed nodes). De-escalation proposal at 12%, not opened — "The proposal was not what the next three hours required." Window: amber safety lighting 4 blocks east, sacrifice district perimeter. Hum rhythm shift at ~1 hour 12 minutes: floor synchronizing with Anchor Zone interval. Field kit pulse at 1.8 seconds — first time not steady since move. Convergence accelerates exponentially. Final state: 53 minutes to convergence, field kit pulsing at void's rhythm, archive running, coffee cold. "She did not have a word for what was coming."
+- **Emotional arc (B2 Ch 36):** Pattern recognition (compulsion, not alarm) → convergence point resolves (stillness in hands — recognition, not fear) → two actions (obligation, not heroism) → waiting (the proposal not opened — the chapter's most compressed statement of the theme) → hum rhythm shift (the instrument becomes a receiver, the observer role at its limit) → still (watching, the only available action)
+- **New canonical details (Ch 36):** 7.3-second synchronization interval (void's pre-Voice rhythm). 12 Anchor Zones named: Neo-Shanghai, Lagos, Mumbai, São Paulo, Jakarta, Kolkata, Osaka, Manila, Cairo, Lima, Johannesburg, Seattle. Field kit pulse shift: synchronized with Anchor Zone interval at ~1.8 seconds. Archive continuous from ~3 hours pre-Voice. Warning sent to Kira's network ~3 hours pre-Voice.
 
 ---
 

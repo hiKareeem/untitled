@@ -1089,4 +1089,53 @@ Medium becomes less substantial: stone → concrete → air. Signal becomes more
 
 ---
 
-_Last updated: 2026-02-20_
+### Chapter 36 — "Synchronization" (Sofia Reyes)
+
+**Mode:** PRESSURE
+**Word Count:** ~4,100
+**Scenes:** 5 (terminal wakes her | model runs | alerts sent | waiting | compression accelerates → closing)
+**Dialogue %:** 0% (warning message rendered as italicized text)
+**Avg Sentence Length:** ~20 words (bimodal — fragments through 80+ word compound sentences)
+**Fragment %:** ~18%
+
+**Tension Shape:** Low-alert (terminal alarm, pattern recognition) → rising-analytical (model runs, convergence point resolves) → purposeful-compressed (alerts sent, archive set to continuous) → sustained-dread (waiting, de-escalation proposal not opened, window) → accelerating → peak (hum rhythm shift, field kit pulse synchronizes) → still (closing three lines)
+
+**Action/Reflection Balance:** 25% action / 75% reflection
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Terminal wakes her (pattern recognition) | ~800 | Low-alert → rising | Inventory of feeds, 7.3-second interval discovered. Paratactic accumulation. |
+| Model runs (convergence point) | ~900 | Rising-analytical | Same methodology as BLACKWEIR. Convergence point resolves. "The void was coordinating." |
+| Alerts sent (warning + archive) | ~700 | Purposeful-compressed | Two actions. Message to Kira. Archive to continuous. Mirelle's unfinished sentence. |
+| Waiting (coffee, window, proposal) | ~800 | Sustained-dread | De-escalation proposal not opened. Window: amber lighting 4 blocks east. "The tolerance band was now a global policy." |
+| Compression accelerates → closing | ~900 | Accelerating → still | Exponential compression. Hum rhythm shift. Field kit pulse synchronizes. Three closing lines. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "Tonight the data was different." / "7.3 seconds. The same interval. Twelve sites. No mechanism." / "The void was coordinating." / "Fifty-three minutes." / "The hum did not change."
+- The chapter's tension rises without a traditional dramatic event — no confrontation, no dialogue, no external action. The tension is entirely in the data. The rhythm enacts the scientist's relationship to catastrophe: precise, sustained, unable to look away.
+- Scene 5's long sentence (the one that breaks before the void) is the chapter's rhythmic peak — a sentence that accumulates through the chapter's entire arc and cannot complete itself. The dash before "the void —" is the chapter's only unresolved punctuation. Everything else resolves. That one doesn't.
+- Three closing lines are the chapter's fastest section: "She watched the feeds. The traces unified. The interval compressed. The field kit pulsed. / The hum did not change." Five sentences, each shorter than the last. The chapter ends on the constant — the hum that has been data for ten years, now carrying the void's rhythm, unchanged in amplitude.
+- The field kit pulse shift (Scene 5) is the chapter's physical climax — the instrument that has been a green-indicator constant since Ch 5 B1 synchronizes with the Anchor Zone interval. The rhythm of the instrument changes. The chapter's rhythm changes with it.
+- Bimodal paragraph structure: dense data-processing blocks (the model, the feeds, the frequency analysis) punctuated by single-line isolations at every thesis moment.
+
+**Pacing Notes:**
+- No dialogue creates a sustained interiority that matches the chapter's function: Sofia alone, watching. The absence of external voice is the chapter's argument — there is no one to tell, no institution to report to, no mechanism to activate. The warning message to Kira is the only outward action, and it is rendered as text, not speech.
+- Scene 4 (waiting) risks stasis. Mitigated by the de-escalation proposal (not opened — the chapter's most compressed statement of the theme), the window scene (amber lighting, sacrifice district, "the tolerance band was now a global policy"), and the convergence model updating in real time. The waiting is not passive — it is the scientist performing the only available action: watching.
+- The chapter is deliberately quieter than Ch 41 B1 (BLACKWEIR). Ch 41 had coupling events populating the holographic field, Mirelle's fragments arriving, the 11-second spike. Ch 36 has none of that — just the feeds converging and the hum shifting. The horror is in the precision, not the volume.
+
+**Comparison to Ch 26 (direct Sofia precursor):**
+- Ch 26: ~4,200 words, 4 scenes, ~12% dialogue (channel exchanges), TEXTURE mode, Erasure List working group, de-escalation proposal begins
+- Ch 36: ~4,100 words, 5 scenes, 0% dialogue, PRESSURE mode, alone, de-escalation proposal not opened
+- Together: assembly (Ch 26) → vigil (Ch 36). The scientist who built the working group and drafted the proposal now watches the prediction run with no instrument left but the archive.
+
+**Comparison to Ch 41 B1 (structural mirror):**
+- B1 Ch 41: BLACKWEIR watched on instruments, Mirelle's fragments arrive mid-event, 11-second spike, locked out of briefing
+- B2 Ch 36: Voice synchronization watched on instruments, Mirelle's unfinished sentence carried, hum rhythm shift, no institution to be locked out of
+- The structural parallel is intentional: same scientist, same posture, same impotence. The difference: Ch 41 was reactive (BLACKWEIR was already happening). Ch 36 is anticipatory (the convergence is approaching). The anticipation is worse.
+
+**Phase 4 Rhythm Note:** Ch 36 is Phase 4's first Sofia chapter and the book's pre-Voice scientific anchor. Its rhythm is the reader's orientation before the Voice arrives — the data that makes the Voice legible. The chapter's sustained-dread pacing is the correct register for this function: not fortissimo (that's Ch 45), not contemplative (that's Ch 26), but the specific tension of a scientist watching a correct prediction run toward a threshold she cannot name.
+
+---
+
+_Last updated: 2026-02-21_

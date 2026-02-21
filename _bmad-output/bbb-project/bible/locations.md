@@ -913,5 +913,22 @@ Lagos is the primary FAS city featured in the narrative. Lower conduit density t
 
 ---
 
-_Last updated: 2026-02-20_
-_Updated by: B2 Ch 29 — "The Topology of Death" bible update_
+### Sofia's Mid-Levels Apartment (39th Floor) — State Update B2 Ch 36
+
+**Previously established (B2 Ch 26):** Mid-Levels, 39th floor. Non-VEC rental. Hum at 1.4x amplitude (higher conduit density than 61st floor VEC housing). Sacrifice district boundary 4 blocks east — amber safety lighting visible from window. 11 boxes in hallway (3 unpacked). Field kit set up before boxes. Secondhand desk. Instant coffee (Singapore tea gone). No acoustic dampening.
+
+**Ch 36 key events:**
+- Sofia asleep in chair (no timestamp), woken by broadband acoustic monitor alarm ~3 hours before the Voice
+- Desk: encrypted terminal, field kit (green indicator), coffee kettle
+- Window visited once (Scene 4): amber safety lighting 4 blocks east, sacrifice district perimeter. "The tolerance band was now a global policy." She turns away.
+- Hum rhythm shift (Scene 5): floor synchronizing with 12 Anchor Zone coherence interval at 1.8 seconds. The apartment's conduit infrastructure joins the global synchronization pattern.
+- Final state: desk, terminal recording, archive continuous, field kit pulsing at void's rhythm, coffee cold
+
+**Significance:** The chapter establishes the apartment as the pre-Voice scientific observation post. The hum rhythm shift makes the apartment itself a participant in the synchronization — the local infrastructure joining the global pattern. The sacrifice district 4 blocks east is visible but not approached. The chapter's spatial argument: she is inside the geography she has been documenting, and the geography is now inside the void's rhythm.
+
+**Current State:** Active. Archive running continuously. Field kit pulsing at 1.8 seconds (synchronized). ~53 minutes to Voice event at chapter close.
+
+---
+
+_Last updated: 2026-02-21_
+_Updated by: B2 Ch 36 — "Synchronization" bible update_

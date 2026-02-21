@@ -867,5 +867,29 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-20_
-_Updated by: B2 Ch 29 — "The Topology of Death" bible update_
+### Sofia's Field Kit (State Update — B2 Ch 36)
+
+**Previous state:** Green indicator steady since Ch 5 B1. Tracks hum through floor at 1.4x amplitude (Mid-Levels 39th floor). Instrument that has outlasted every institutional credential.
+
+**Ch 36 state change:** At ~1 hour 12 minutes before the Voice, the green indicator pulse shifts from steady to synchronized — pulsing at 1.8 seconds, matching the Anchor Zone coherence interval. First time the pulse has been non-steady since the move. The field kit is no longer only a sensor. It is a receiver. The instrument that has been measuring the infrastructure for ten years is now measuring the void's rhythm through the infrastructure.
+
+**Symbolic arc:** Sensor (Ch 5 B1) → companion (Ch 33 B1, familiar weight) → institutional independence (Ch 20 B2, only instrument not subject to recall) → receiver (Ch 36 B2, pulse synchronized with void's rhythm). The arc completes in Ch 45 when it records the Voice event.
+
+---
+
+### Sofia's Broadband Acoustic Monitor (B2 Ch 36)
+
+**Origin:** Configured by Sofia post-publication, running since Mumbai. Pulls aggregated acoustic output data from every Anchor Zone with public or semi-public sensor arrays. Feeds into Sofia's convergence model.
+
+**Description:** Software architecture on Sofia's encrypted terminal. 12 Anchor Zone feeds in time-series. Spectral decomposition capability (sub-sonic through ultrasonic). Convergence model integration.
+
+**Significance:** The instrument that detects the pre-Voice synchronization. 7.3-second coherence interval identified across 12 sites with no physical mechanism. Triggers the chapter's events.
+
+**Current State:** Running. Archive set to continuous (3 distributed nodes) from ~3 hours pre-Voice. Capturing the Voice event in real time.
+
+**Canonical details:** 12 Anchor Zones monitored: Neo-Shanghai, Lagos, Mumbai, São Paulo, Jakarta, Kolkata, Osaka, Manila, Cairo, Lima, Johannesburg, Seattle. Synchronization onset: non-geographic sequence. Compression: exponential (model initially assumed linear — recalibrated mid-chapter).
+
+---
+
+_Last updated: 2026-02-21_
+_Updated by: B2 Ch 36 — "Synchronization" bible update_
