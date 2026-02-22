@@ -611,6 +611,16 @@ chapters:
     completedDate: "2026-02-21"
     metaFile: "book-2/metadata/chapter-50-meta.yaml"
     mode: TEXTURE
+
+  book3_chapter_1:
+    title: "The Machine Continues"
+    status: v1-complete
+    pov: "Aurielle Vasquez"
+    wordCount: 3800
+    completedDate: "2026-02-22"
+    metaFile: "book-3/metadata/chapter-1-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 1 — Aurielle POV (Book 3 debut, 16th appearance overall). ~6 months post-Broadcast (~16 months post-BLACKWEIR). Quarterly projections reviewed. Throughput down 4% (noise within tolerance band). Vocabulary evolution: stewardship corridors → legacy absorption zones. Regulatory debate everywhere, enforcement nowhere. Thorne observed from corridor — 'Not recalculating. Not refusing to recalculate. Maintaining.' Wrist rotation absent and unnoticed. Institutional register normalized — shell hardened into structure. Closing echo: 'She opened the next report.' — return of original object with Phase 5 personal pronoun. The machine absorbed the Broadcast. The horror is normalcy. AEGIS as invisible novelist."
     notes: "Book 2, Phase 5 — Malachi POV (5th appearance). Three days after Voice event (Ch 39). European See depleted — half clergy departed to Listeners/Witnesses/Threshold. Walks forty-three steps (first time since Prague). Opens locked study. Reads correspondence — both scripts, the question ('Can the Voice be wounded?'), the annotation ('I manage it'). Does not publish — not yet. Takes correspondence from locked study, places on desk in main office. In the open. The 'yet' transformed from passive (Ch 39: did not stand) to deliberative (Ch 50: stood, read, chose not to publish — yet). Encyclical page still blank. Hands remain unfolded. Hum 'inhabited' post-event. Epigraph: archival practice manual (concealment vs preservation). Bakker alignment — quiet chapter, moral/philosophical density, decision pending. Closing: 'In the open.' No cadence. AEGIS as invisible novelist."
 
   book2_chapter_4:

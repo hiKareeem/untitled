@@ -1739,41 +1739,7 @@ She read it.
 
 Her hands were still.
 
----
-_Draft generated: 2026-02-19_
-_Word count: ~3,200_
-
-
----
-
-// File: chapter-11.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 11
-draftVersion: 1
-createdDate: '2026-02-18'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Assembly'
-pov: 'Sofia Reyes'
-wordTarget: '3500-4500'
-phase: 2
-location: 'VEC-affiliated housing (61st floor), Neo-Shanghai'
-timeline: '~6 months post-BLACKWEIR, weeks after Book 2 Ch 4'
-mode: TEXTURE
-epigraph_source: 'Dead-hand evidence cache'
-epigraph_author: 'Mirelle Dubois'
-epigraph_ref: 'Metadata header, auto-distributed 2175'
-rhetoric_reference: 'Black Babel distribution protocol, VEC personnel management vocabulary'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 11
-
 ## The Assembly
 
 > *"If you are reading this, I have missed two consecutive check-in windows. The enclosed data is complete enough to publish. Attribution: mine. Methodology: mine. Conclusions: draw your own. Do not wait."*
@@ -1781,24 +1747,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Mirelle Dubois, dead-hand evidence cache (metadata header, auto-distributed 2175)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 11
-
-Sofia assembles and publishes the mid-truth — synthesizing her atmospheric data, Mirelle's posthumous evidence, Solberg fragments, and mage network corroboration. Working from VEC-affiliated housing (involuntarily reassigned to remote monitoring post-BLACKWEIR), she completes the final correlation check, reviews the hybrid document, and publishes through Black Babel. Focused intensity followed by deliberate anticlimax — the most important document in human history, sent with a keystroke, followed by cold coffee and a city that hasn't changed shape.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Truth as Weapon, Systemic Complicity, What We Owe
-**Characters present:** Sofia (POV), Mirelle (posthumous evidence), Solberg/Liang/Novak/Elena (referenced)
-**Location:** VEC housing, 61st floor, Neo-Shanghai
-
-**Continuity:**
-- From B1 Ch 41: Anonymous fragments during BLACKWEIR, locked out of briefing, archive saved
-- From B2 Ch 4 (plan): Pushed to margins, dead-hand packages arriving, assembly begins
-- Forward: Ch 12 (Aurielle — stock drops 11%), Ch 20 (Sofia — news cycle), Ch 21 (convergence scene)
--->
-
-## Draft v1
 
 The correlation held.
 
@@ -1926,118 +1874,12 @@ Mirelle would have made it a better story.
 
 Sofia sat at the window and drank cold coffee and listened to the hum through the building's conduit infrastructure and waited for the world to notice what it was standing on.
 
----
-
-_Draft generated: 2026-02-18_
-_Estimated word count: ~4,000_
-
----
-
-## Self-Review
-
-### Voice Compliance
-
-**Negation-before-assertion (target 2-4):** 3 instances
-1. "Not terminated. Not resigned. *Reassigned to remote monitoring...*"
-2. "Not approximately. Not within tolerance." (opening — clearing space for the positive finding)
-3. "Not dead. Not what they were." (absorbed description — the payoff is the ambiguity itself)
-
-**Sentence patterns:** Paratactic dominant. Short declaratives as punctuation. Long-long-SHORT rhythm present throughout — dense data passages punctuated by isolated single-sentence paragraphs ("The picture was complete." / "She was living inside the instrument." / "The city had not changed shape.").
-
-**Sensory hierarchy:** Sound/vibration dominant (hum through floor, counter, feet, mug, bones — continuous). Temperature secondary (cold apartment, cold coffee, steam from kettle). Tactile tertiary (hands around mug, chair scraping, field kit indicator). Visual quaternary (amber lighting, conduit glow, violet shimmer, screen cycling green-amber-green).
-
-**Em dashes:** Heavy but within range (1-2 per paragraph max). Used for emphasis, clarification, and parenthetical precision.
-
-**Italics:** Used for institutional language (*Reassigned to remote monitoring...*), document content, payoff words (*demonstrates*, *is*), and Mirelle's unfinished sentence.
-
-**Dialogue:** None. Deliberate. This is Sofia alone with data and a keystroke. The document content serves as the "speech act" of the chapter.
-
-### Anti-Pattern Check
-
-- No "something shifted/changed" ✓
-- No named emotions (exhaustion conveyed through physical detail — cold coffee, eleven checks, climate system unreported) ✓
-- No quippy dialogue ✓
-- No expository dialogue ✓
-- No AI vocabulary (additionally, testament, landscape, delve, tapestry, showcasing) ✓
-- No significance inflation ✓
-- No "It's not just X, it's Y" flat form ✓
-
-### Continuity
-
-- **Ch 41 alignment:** Anonymous fragments during BLACKWEIR → dead-hand packages with Mirelle's name weeks later. Immersion pod, locked out of briefing, encrypted archive — all referenced consistently.
-- **Ch 33 alignment:** Novak meeting, Solberg revelation, Classification Directorate — referenced.
-- **Ch 4 (B2 plan) alignment:** Pushed to margins of VEC (remote monitoring reassignment), dead-hand packages arriving, assembly process.
-- **Mage network:** 47 individuals across 9 cities — matches B2 Ch 6 plan (47 members, 9 cities).
-- **Black Babel:** Established in B1 as her external distribution channel.
-- **VEC housing 61st floor:** Consistent with Ch 41 continuity notes.
-- **Field kit:** Present as talisman/parallel instrument — consistent with dossier.
-
-### Pacing
-
-Opens with focused intensity (data check), builds through evidence review with physical grounding (kitchen, coffee), shifts to document review (the writing process), accelerates through the send (deliberate, understated), resolves in deliberate anticlimax (coffee, window, city unchanged). The emotional arc is: precision → weight → determination → silence.
-
-### Concerns
-
-1. **No spoken dialogue at all.** This is intentional — Sofia is alone, the "conversation" is with the data and with Mirelle posthumously — but it's a notable structural choice. The document's attribution section and the mid-truth content serve as Sofia's "voice" in this chapter.
-2. **Mid-truth content summarized rather than quoted at length.** The core findings are described in Sofia's synthesis register rather than reproduced as the actual document text. This keeps the chapter in close POV rather than becoming an expository insert. The reader gets the content through Sofia's editorial process.
-3. **Mirelle's absorption reference:** Handled as data — Sofia couldn't identify which coupling event was Mirelle. The horror is in the indifference of the instruments, not in a dramatic watching scene. Consistent with Sofia's register.
-4. **Emotional temperature:** Exhaustion and determination, not triumph or despair. The anticlimax is the point — the most important document in human history, followed by cold coffee. The Lie is being tested: the science is complete. Will the world respond?
-
-
----
-
-// File: chapter-12.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 12
-draftVersion: 1
-createdDate: '2026-02-19'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Eleven Percent'
-pov: 'Aurielle'
-wordTarget: '3000-4000'
-phase: 2
-location: 'Neo-Shanghai Spires — NitroCore Executive Suite / Emergency Boardroom'
-timeline: '~6 months post-BLACKWEIR, days after Ch 11 (Sofia publishes)'
-mode: PRESSURE
-epigraph_source: 'NitroCore Corporate Communications — Emergency Statement'
-epigraph_author: 'NitroCore Corporate Communications'
-epigraph_ref: 'Issued 22:14 local time, day of publication'
-rhetoric_reference: 'Corporate-corrupted register, institutional passive voice, euphemism-as-cognition, Thorne-speak'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 12
-
 ## Eleven Percent
 
 > *"NitroCore takes these preliminary findings seriously and has commissioned an independent review by a panel of qualified experts. We remain committed to the highest standards of operational transparency and to the communities we serve."*
 >
 > — NitroCore Corporate Communications, Emergency Statement (issued 22:14 local time)
-
----
-
-<!--
-📋 SYNOPSIS - Chapter 12
-
-The mid-truth lands on NitroCore's desk. Stock drops 11% in the first hour after Sofia's publication. Emergency board meeting — Legal, PR, Thorne. The institutional machinery absorbs the revelation the way the void absorbs people: completely, without altering shape. By end of week, stock recovers to -3%. SHEPHERD trials continue. The mid-truth doesn't change the grid. It changes the vocabulary. "Containment" becomes "stewardship." "Sacrifice zones" become "managed transition corridors." The machine processes truth as a PR event. Aurielle watches it happen and recognizes the mechanism — because she is the mechanism.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Architecture of Power (Dominant), Systemic Complicity (Strong), Progress Requires Atrocity (Strong)
-**Characters present:** Aurielle (POV), Thorne, Hendricks (General Counsel), PR Director (unnamed), board members
-**Location:** NitroCore Executive Suite / Emergency Boardroom, Neo-Shanghai Spires
-
-**Cross-references:**
-- Book 2 Ch 1 "The Chair" — board meeting, SHEPHERD seed, Thorne beside her
-- Book 2 Ch 10 "Opportunities" — SHEPHERD named, projections reviewed, hands still
-- Book 2 Ch 11 "The Assembly" — Sofia publishes at 21:47; this chapter begins ~22:00
-- Forward: Ch 23 "Stewardship" — SHEPHERD expansion, vocabulary evolution
--->
 
 ---
 
@@ -2271,115 +2113,12 @@ Her wrist was still moving.
 
 She did not stop it.
 
----
-
-_Draft generated: 2026-02-19_
-_Estimated word count: ~3,700_
-
----
-
-## Self-Review
-
-### Voice Compliance
-
-**Negation-before-assertion (target: 2 max per style-profile flag):** 2 instances
-1. "The injunction is not for the document. The injunction is for the record." — negation clarifying institutional logic
-2. "We are not contesting the science. We are contesting the policy implications." — Aurielle's own negation, in her voice, Phase 2 register
-
-**Sentence patterns:** Paratactic dominant. Short declaratives as punctuation throughout. Long-long-SHORT rhythm: dense institutional processing passages punctuated by isolated single-sentence paragraphs ("The architecture had changed." / "The partition had been dissolving for six months." / "She did not stop it.").
-
-**Sensory hierarchy:** Sound/vibration dominant (hum through desk, floor, infrastructure — continuous, present in every scene break). Temperature absent (deliberate — this is a Spire chapter, the cold is the Sump's register). Tactile secondary (wrist rotation, hands on desk, walnut surface). Visual tertiary (display wall, market curve, clean typography).
-
-**Dual-track narration:** Corporate register and translation running simultaneously, integrated — not conscious. "Throughput" = input = people. "Absorption gradient maintained" = fed. The translation arrives the way the hum arrives — ambient, beneath attention. Consistent with Ch 1 and Ch 10.
-
-**Wrist rotation:** Appears twice. First instance: she feels it, does not stop it (departure from Ch 10 where she stopped it — Phase 2 regression, the control slipping). Final line: still moving, she does not stop it. The dossier notes the wrist rotation stops during the BLACKWEIR authorization (hands flat, still). Here it continues — she is not at the authorization yet. The control is eroding.
-
-**Thorne dynamic:** Beside her in the boardroom (Ch 1 geometry), across the desk in the executive suite (Ch 10 geometry maintained). The old arrangement holds in private. Consistent.
-
-**Eduardo:** Present as objects (the desk, the wear on the left side she does not lean on). Not grief. Consistent with Ch 10 author notes.
-
-**Small voice:** Integrated, not separate. The noticing of the passive voice ("the program the grid requires") arrives and is processed and filed. The partition dissolving. Consistent with dossier Phase 2 state.
-
-### Anti-Pattern Check
-
-- No "something shifted/changed" ✓
-- No named emotions (weight conveyed through physical detail — wrist rotation, appendix not opened, the noticing that doesn't change anything) ✓
-- No quippy dialogue ✓
-- No expository dialogue ✓
-- No AI vocabulary ✓
-- No significance inflation ✓
-- No "It's not just X, it's Y" flat form ✓
-- "Almost" count: 0 ✓
-
-### Continuity
-
-- **Ch 11 alignment:** Sofia publishes at 21:47. Ch 12 opens at 22:03 (alert). Eleven minutes of trading = 11.2% decline. Timeline tight and consistent.
-- **Ch 1 alignment:** Board geometry (Thorne beside her), SHEPHERD as unnamed line item, "infrastructure before intervention" — all referenced or echoed.
-- **Ch 10 alignment:** SHEPHERD named, three initial sites (Neo-Shanghai, Lagos, Mumbai), humanitarian framework (data chip), projections reviewed. Ch 12 shows the trial running at the secondary site, yield up 12%, 94% compliance. Consistent.
-- **Dossier alignment:** "Archive, don't destroy" — the appendix she doesn't open. "Conscience as audit trail" — the injunction filed for the record. "Humanitarian modifications that change cosmetics without changing math" — the independent review panel, the vocabulary shift. All dossier mechanics present.
-- **Lexicon alignment:** "Stewardship" replacing "sacrifice zones" — vocabulary evolution consistent with lexicon's Aurielle register note ("Thorne-speak. Passive voice. Institutional nouns.").
-- **Forward:** Ch 23 "Stewardship" — SHEPHERD expansion, vocabulary now established. Ch 32 "Kill Chain" — Mumbai, her infrastructure data in the kill chain. Both seeded here.
-
-### Pacing
-
-Opens with the alert (22:03, precise, institutional). Emergency board session (processing, not panic). PR statement selection (three options, she picks the most aggressive). Thorne exchange (the mechanism named). Time-lapse (stock recovery, news cycle, SHEPHERD continuing). Second Thorne exchange (the vocabulary shift, the honest exchange). Close: alone at the desk, the appendix she didn't open, the wrist that doesn't stop. Emotional arc: controlled response → institutional machinery → recognition of the mechanism → the thing she doesn't do.
-
-### Structural Note
-
-The chapter's architecture mirrors its content: the institution absorbs the revelation without altering shape, and the chapter absorbs the revelation without altering Aurielle's trajectory. She is more self-aware in Phase 2 than Phase 1 — she names the mechanism, she hears herself use the passive voice, she notices the wrist rotation. The noticing changes nothing. That is the horror of Phase 2: knowing and continuing. The Lie is mutating from "I can direct the suffering" toward "the grid requires it" — the passive voice completing the transfer of agency from person to institution.
-
-
----
-
-// File: chapter-13.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 13
-draftVersion: 1
-createdDate: '2026-02-19'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Three Congregations'
-pov: 'Nephthys'
-wordTarget: '3500-4500'
-phase: 2
-location: 'Cathedral of Living Sound, Neo-Shanghai Sump (Anchor Zone)'
-timeline: '~6 months post-BLACKWEIR, days after mid-truth publication'
-mode: TEXTURE
-threshold_figure: 'Seren'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 13
-
 ## Three Congregations
 
 > *"The Church of the Blessed Nitro has always taught that the hum is the Voice of God. We have never specified what God is saying."*
 >
 > — Nephthys, excommunication tribunal record, 2172 (suppressed)
-
----
-
-<!--
-📋 SYNOPSIS - Chapter 13
-
-The mid-truth is public. In the Cathedral of Living Sound, three groups are forming inside Nephthys's movement: the Listeners (her intent), the Witnesses (mystical drift), and the nascent Threshold (if the absorbed are not dead, joining is not death). A BLACKWEIR survivor named Seren — someone Nephthys held through the mass absorption — asks the question she cannot answer without invoking the institutional authority she rejected. After the session, Imani and Nephthys debrief alone; Imani mentions Kira's network and Nephthys opens the Cathedral to her. Alone, Nephthys sits with the echo of Seren's question and the recognition that she is giving the same answer the Church gave her.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** What We Owe, Truth as Weapon, Architecture of Power
-**Characters present:** Nephthys (POV), Imani, Seren, assembled followers (background)
-**Location:** Cathedral of Living Sound, Neo-Shanghai Sump
-
-**Continuity:**
-- From B1: Cathedral as BLACKWEIR survival pocket; Nephthys at the doorway; "They are all still here"
-- From B2 Ch 11: Mid-truth published — Sofia's document catalyzes the Threshold position
-- Forward: Ch 21 (Nephthys-Kira convergence — invitation planted here)
-- Forward: Phase 3 (Threshold formally breaks; Nephthys denounces)
--->
 
 ---
 
@@ -2890,81 +2629,8 @@ The hum continued through the stone. The reports would arrive on Tuesday. The qu
 
 It always did.
 
----
-
-*End of Chapter 14*
-
-
----
-
-// File: chapter-15.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 15
-draftVersion: 1
-createdDate: '2026-02-19'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'Commission'
-pov: 'Nikolai Volkov'
-wordTarget: '3500-4500'
-phase: 2
-location: 'Deployment — Accra, FAS cooperation framework'
-timeline: '~6 months post-BLACKWEIR, days after mid-truth publication'
-mode: TEXTURE
-epigraph_source: 'Void Stalker field log'
-epigraph_author: 'Anonymous (undated)'
-epigraph_ref: 'Epigraph thread continues from B1 Ch 11, 23, 38, 47; B2 Ch 5'
-rhetoric_reference: 'VS-7 after-action form; FAS cooperation framework assessment'
-meta_note: 'AEGIS as invisible novelist'
----
-
-# Chapter 15: Commission
-
-<!--
-📋 SYNOPSIS - Chapter 15
-
-SYNOPSIS: Nikolai deploys to a mid-sized city breach, an absorbed figure speaks two words ("still here"), and for the first time in his career he writes a lie by commission rather than omission — and signs it.
-
-This chapter explores Nikolai's Broken Doctrinaire contradiction through the moment doctrine shifts from protective omission to active falsification.
-
-**Phase:** 2/5 (Book 2) — Doctrine exported; first commission
-**Themes:** Systemic Complicity, Progress Requires Atrocity, Where Identity Ends
-**Characters present:** Nikolai Volkov (POV), Stalker-7 unit (background), absorbed figure (unnamed)
-**Location:** Accra, FAS cooperation framework
-
-**Key events:**
-- Breach contained within hours — routine on paper, wrong in the room
-- Absorbed figure in infrastructure speaks: "still here" — two words, not mimicry
-- After-action form: VS-7, standard fields. Nikolai writes "acoustic mimicry per doctrine"
-- Signs it. Hand doesn't shake. That's worse.
-
-**Consequences:**
-- First lie by commission (not omission) — the gap between accurate and complete collapses
-- Field log entry: the commission documented privately, the lie documented officially
-- Forward: Lagos deployment, FAS dual-key familiarization
-
-**Continuity notes:**
-- Follows B2 Ch 5 (Lagos rotation ordered, field log contracting, jaw as new marker)
-- Chapter 14 (Malachi) not yet written — no divergences to note from that chapter
-- Mid-truth has been published (B2 Ch 11) — Nikolai aware of it, processes it through doctrine
-- Hum baseline: 6.1 (B2 Ch 5) — track for this deployment
-- Jarek: name carried in body, not language (B2 Ch 5 continuity)
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-19
-**Divergences Noted:** Chapter 14 (Malachi) not yet written — no divergences from that chapter to track. All prior Nikolai chapters (B1 Ch 11, 23, 32, 38, 47; B2 Ch 5) followed plan closely.
-**Author Notes:** Approved as-is.
-
----
-
-## Draft v1
+# Chapter 15
+## Commission
 
 > *"The form asks what you observed. It does not ask what you understood. In twenty years, no one has noticed the difference."*
 >
@@ -3142,40 +2808,7 @@ The hum was 5.9. The instruments said 6.0.
 
 He did not write it in the log again. He had already written it once today, in the wrong document.
 
----
-
-_Draft generated: 2026-02-19_
-_Word count: ~4,200_
-
-
----
-
-// File: chapter-16.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 16
-draftVersion: 1
-createdDate: '2026-02-19'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Expelled'
-pov: 'Kira Calloway'
-wordTarget: '3500-4500'
-phase: 2
-location: 'PCC Bay Area — Kira apartment, Mission district pharmacy'
-timeline: '~6 months post-BLACKWEIR, days after mid-truth publication'
-mode: TEXTURE
-epigraph_source: 'Joint Theological-Scientific Review, 2139'
-epigraph_author: ''
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 16
-
 ## Expelled
 
 > *"The committee found that the signal did not distinguish between those who named it and those who listened. The committee did not survive the finding."*
@@ -3183,33 +2816,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Joint Theological-Scientific Review, 2139
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 16
-
-SYNOPSIS: Kira's second Book 2 POV. Phase 2 — The Mid-Truth. Days after Sofia's publication. Formal Academy expulsion (Section 22.7). Network exploded to 214/31 cities post-mid-truth. First voice call: Idris (Accra, R3) — shared vocabulary built in real time, filing categories insufficient, testimony chain becoming language. Pharmacist scene (legitimate meds, grounding). Imani's message bypasses Ren's chain — Nephthys opened the Cathedral. Transport to Neo-Shanghai booked, unannounced. Lumina 60mg holds provisionally.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Where Identity Ends (Strong), Truth as Weapon (Moderate), Architecture of Power (Moderate)
-**Characters present:** Kira (POV), Idris (voice — Accra, R3), pharmacist (brief), Imani (message)
-**Location:** PCC Bay Area — Kira's apartment, Mission district pharmacy
-
-**Continuity:**
-- From B2 Ch 6: Lumina 60mg, network 47/9, fingertip buzzing, hum "populated," ring light off
-- From B2 Ch 11: Mid-truth published, mage telemetry cited (0.93 correlation)
-- From B2 Ch 13: Nephthys tells Imani to invite Kira. Cathedral open.
-- Forward: Ch 21 (Nephthys-Kira convergence Neo-Shanghai)
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-19
-**Divergences:** Imani bypasses Ren's chain (compatible with Ch 13). Network 47/9 → 214/31. Voice call mage: Idris, Accra, R3, male.
-**Author Notes:** Epigraph Elden Ring-style. Pause after self-review for author read.
-
----
-
-## Draft v1
 
 The letter was twelve paragraphs long and said one thing.
 
@@ -3379,76 +2985,8 @@ Forty-eight hours.
 
 She closed her eyes. The quiet room held.
 
----
-_Draft generated: 2026-02-19_
-_Word count: ~4,100_
-
-
----
-
-// File: chapter-17.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 17
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: full
-title: 'The Other Model'
-pov: 'Zeyad Al-Fahim'
-wordTarget: '3800-4800'
-phase: 2
-location: 'Lagos, Federation of African States'
-timeline: '~6 months post-BLACKWEIR, days after mid-truth publication'
-mode: TEXTURE
-epigraph_source: 'Nitro Accords, Article 9, Section 4'
-epigraph_ref: 'Alternative infrastructure provision — architecturally prevents adoption by requiring equivalent throughput capacity'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 17
-
 ## The Other Model
-
-<!--
-📋 SYNOPSIS - Chapter 17
-
-SYNOPSIS: Zeyad arrives in Lagos as a disgraced diplomat whose name still opens doors. The FAS has been running a different model for decades — lower density, distributed infrastructure, no sacrifice districts, 60% fewer breaches, half the growth rate. Minister Adaeze Obiora walks him through the data and the district. The alternative exists. It does not scale. He writes the framework document for the UGC committee knowing it will be tabled. The pen moves anyway.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Institutional Impotence, Systemic Complicity, Architecture of Power
-**Characters present:** Zeyad (POV), Minister Adaeze Obiora (FAS Infrastructure), unnamed FAS reading room staff
-**Location:** Lagos — FAS Ministry of Infrastructure, breach-adjacent district, government guesthouse
-
-**Continuity:**
-- B2 Ch 7: Tribunal (63 sessions, 217 exhibits), Dr. Diallo as legal conduit, dead-hand opened (18-month capacity expansion, "Who signed?"), pen returned, new notebook, grey badge
-- B2 Ch 11: Mid-truth published — Zeyad aware, cannot cite Sofia under tribunal terms
-- B2 Ch 15: Nikolai also in FAS cooperation framework (Accra) — same geography, no direct intersection
-- Mediterranean corridor posting (2158-2162) referenced as back-channel that opens Lagos access
-- Forward: Ch 31 (Inside the Zone — Lagos breach), framework document tabled, Obiora as Phase 3 contact
-
-**New elements:**
-- FAS Ministry of Infrastructure (functional architecture, not diplomatic)
-- Minister Adaeze Obiora (engineer-turned-minister, non-diplomatic register)
-- FAS atmospheric data: independent confirmation, 40 years, unclassified
-- Lagos hum: quieter, lower density — Zeyad registers as physical fact
-- Framework document: UGC submission, written knowing it will be tabled
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-20
-**Timeline:** Phase 2 = ~6 months post-BLACKWEIR, days after mid-truth publication. Zeyad in Lagos on courtesy access — credentials suspended, name still opens doors.
-**Divergences:** None from chapter plan. Minister name: Adaeze Obiora (not Okonkwo — avoids confusion with Stalker-7 roster).
-**Author Notes:** Epigraph callback to Ch 7 (same Article 12, Section 11 — different application). AEGIS as invisible novelist. Hum register shift: Lagos quieter than New Geneva/Neo-Shanghai. Okonkwo → Obiora per author direction.
-
----
-
-## Draft v1
 
 > *"Any signatory state may petition the Accords Compliance Review for assessment of alternative infrastructure frameworks, provided the proposed alternative demonstrates equivalent throughput capacity within the existing grid architecture and presents no reduction in energy output to signatory economies during the transition period."*
 >
@@ -3618,187 +3156,8 @@ He placed the notebook in the desk drawer. He placed the pen beside it. He turne
 
 The hum continued.
 
----
-
-_Draft generated: 2026-02-20 (v1)_
-_Estimated word count: ~4,200_
-
----
-
-## Self-Review (v1)
-
-### Voice Compliance
-
-**Negation-before-assertion (target: max 2):** 1 instance
-1. "Not incomplete. Not redacted. Not structured to defer conclusions to committees that would vote to monitor. *Complete.*" — triple negation with italicized payoff. Deployed at the chapter's core insight: the FAS files function as designed. The most disorienting thing about them is the absence of institutional suppression architecture. Properly reserved for the perceptual shift.
-
-Under limit. Clean.
-
-**Zeyad register (GRRM institutional chess):**
-- Diplomatic circumlocution throughout: "the institutional category for people who were not diplomats, not intelligence assets, not commercially affiliated, and not tourists," "a respondent in active proceedings whose communications were monitored under the terms of his suspension"
-- Procedural vocabulary as cognitive architecture: Article numbers, Section numbers, provision citations, "equivalent throughput capacity," "Compliance Review," "structurally inadmissible"
-- Institutional observation as emotional communication: "He found this more disorienting than the tribunal," "the provision that opened the door closed the door," "the Accords were architecturally consistent"
-- Margin notes carry the weight the face cannot show: "Who would vote for this? / Who has ever voted for this?" — the question sequence does the work of despair without naming it
-- Controlled anger leaking through institutional observation: "an organization that remembered everything and acted on nothing," "the record should contain it"
-
-**Sentence patterns:** Paratactic dominant. Short declaratives as punctuation ("The paper was older. The data was the same." / "He knew this. He wrote it anyway." / "The hum continued."). Long-long-SHORT rhythm throughout. Extended institutional descriptions followed by single-line isolation.
-
-**Sensory hierarchy:** Sound/vibration present and thematically central — the Lagos hum is *quieter*, and the quietness is the chapter's sensory argument. The hum does not rise into the chest. It stays in the soles. This is the physical fact of the alternative model. Tactile secondary (pen, paper, calloused hands, pavement). Visual tertiary (skyline, conduit lines, amber light, service dates). Correct for Zeyad — his sensory world is institutional architecture, and Lagos's architecture is legible on the surface.
-
-**Dialogue voice:**
-- Obiora: Engineer's register — direct, numerical, plain. "Projected GDP growth: 6.2% annually." / "We chose to be poor rather than murderous." No diplomatic layers. No hedging. The contrast with Zeyad's register is the scene's engine.
-- Zeyad: Sparse, formal, diplomatic even in brevity. "I do not know if they were the right ones." / "Because the record should contain it." — the practiced precision thinned to minimum.
-- The Obiora-Zeyad exchange ("You are going to put that in a report" / "Yes" / "And the committee will table it" / "Yes") — the shortest dialogue in the chapter, carrying the most weight. She sees through him. He knows she sees. Neither pretends.
-
-### Anti-Pattern Check
-
-- No "something shifted/changed" ✓
-- No named emotions ✓ (recognition through physical detail — pen going still, coffee unnoticed, reading room emptying around him)
-- No quippy dialogue ✓
-- No expository dialogue ✓ (Obiora's data delivery is in-character: an engineer briefing a visitor on her infrastructure)
-- No AI vocabulary ✓
-- No significance inflation ✓
-- No "seemed to" / "appeared to" ✓
-- No "almost" in thematic register ✓
-- Em dash frequency: 1-2 per paragraph, within acceptable range ✓
-- Italics for payoff words: *Complete*, *Recommendation*, margin note italics for Zeyad's private analysis ✓
-
-### Continuity
-
-**B1 Chapter Chain:**
-- Jordanian flag flickering 9 months (referenced in Scene 2 as contrast with Lagos maintenance schedule — ✓)
-- Pen in hand, margin notes, same analytical habit (✓ — continuous from every Zeyad chapter)
-- New notebook (purchased Rue du Rhône, B2 Ch 7 — ✓, referenced as "new notebook")
-- Committee Chamber 3 and "contained" callback (✓ — "the word *contained* had sat in the mouth of the delegate")
-- Mediterranean corridor posting 2158-2162 (✓ — back-channel that opens Lagos access via Kofi)
-- Khalil's Accords as architectural constraint (✓ — Article 9 Section 4 prevents the alternative)
-- Coffee as institutional ritual (✓ — present but shifted: courtesy cup, not ritual, taste unnoticed)
-- 11-to-3 committee vote to monitor (✓ — referenced in Scene 3 reflection)
-
-**B2 Ch 7 Continuity:**
-- Tribunal running (referenced — "six months ago," "prosecution evidence" ✓)
-- Dr. Diallo as legal channel (✓ — "through whatever channel remained open" / framework document routing)
-- 217 exhibits (✓ — referenced in Scene 4 hum paragraph as "no 217 exhibits")
-- Dead-hand package / "Who signed?" (not resolved — correctly deferred to remaining encryption layers)
-- Grey tribunal badge → white COURTESY badge (✓ — badge ritual tracked across three credentials)
-
-**B2 Cross-Chapter:**
-- Ch 11 (Sofia): mid-truth published 3 days ago. Sofia referenced by name as publisher. Zeyad cannot cite her under tribunal terms — FAS data is independent confirmation. (✓)
-- Ch 15 (Nikolai): Accra, FAS cooperation framework — same geography, no direct intersection (✓ — consistent)
-
-**Physical Anchors:**
-- Pen: jacket pocket → hand for margin notes → still during Obiora exchange → moves through data → writes framework document → final margin note → desk drawer (✓ full progression)
-- Notebook: new, from Ch 7. Fills with margin notes throughout. Into desk drawer at close. (✓)
-- Badge: COURTESY laminate replaces grey tribunal card. Same ritual — removed, placed on desk. Third credential in sequence. (✓)
-- Portrait/photograph: absent — Zeyad is in Lagos, away from both. Correctly omitted.
-- Coffee: institutional ritual displaced — FAS cup is courtesy, not habit. Taste unnoticed. (✓)
-
-**New Elements Introduced:**
-- FAS Ministry of Infrastructure, Victoria Island, Lagos (4-story, concrete/glass, functional)
-- Minister Adaeze Obiora (engineer-turned-minister, calloused hands, rolled sleeves, plain speech)
-- K. Adeyemi (reading room liaison — different person from Dr. Adeyemi on tribunal panel; see Concerns)
-- Kofi (Mediterranean corridor contact, FAS trade liaison, named but not present)
-- Ikoyi Junction (lower-density conduit district, distributed architecture)
-- FAS infrastructure summit, 41 years ago (vote 14-9 for Proposal B)
-- "Coherence exceedance events" (FAS terminology for breaches)
-- Article 9, Section 4 (epigraph — "equivalent throughput capacity" provision)
-- COURTESY badge (white, FAS federal crest, red strip)
-- Government guesthouse (6 blocks from ministry, Foreign Affairs compound)
-- Framework document (6 pages, handwritten, UGC submission)
-
-### Structural Notes
-
-**Four-scene architecture:**
-1. Ministry / reading room (~800 words) — arrival, FAS data formatting, hum register shift
-2. Walk with Obiora (~1000 words) — Ikoyi Junction, FAS history, "poor rather than murderous," the exchange
-3. Intelligence files (~1000 words) — 40 years of data, negation-before-assertion, margin questions, Mirelle
-4. Guesthouse / framework document (~900 words) — writes the submission, closing image
-
-The chapter builds from institutional encounter (reading room, data) through personal encounter (Obiora, the walk) through analytical encounter (intelligence files, pattern recognition) to solitary production (the framework document). Same public-to-private trajectory as Ch 7, but the private act is forward-facing: writing a submission, not opening evidence. Ch 7 ended with Zeyad receiving. Ch 17 ends with Zeyad producing. The Lie is being tested — he is building the alternative model's case knowing the architecture prevents adoption.
-
-**Epigraph:** Article 9, Section 4. Different clause from Ch 7 (which used Article 12, Section 11). First read: standard provision for alternative proposals. Re-read: "equivalent throughput capacity" makes the alternative structurally inadmissible — you can propose a replacement for the system as long as the replacement replicates the system. The Accords give you the right to suggest a different model as long as the model isn't different. The epigraph is the chapter's thesis in treaty language.
-
-**Closing:** "The hum continued." — two words. The shortest closing sentence in any Zeyad chapter. Ch 7 ended on the pen ("He began to write."). Ch 17 ends on the hum — the infrastructure, the thing that actually matters, the thing the pen cannot change. The shift from pen-as-closing to hum-as-closing tracks Zeyad's encounter with a system where the hum is managed and the pen is unnecessary because the institution acts on what the pen records. In Lagos, the hum continued because someone maintained it. In New Geneva, the hum continued because no one did. Same sentence. Different meaning.
-
-### Pacing
-
-Opens with institutional arrival (lower energy — new geography, reading room, data). Builds through Obiora's walk (the chapter's kinetic center — they move through physical space, the infrastructure is visible, her speech is direct). Deepens through the intelligence files (analytical focus, the negation-before-assertion landing, margin notes accumulating). Peaks at the "Who would vote for this?" sequence and the Mirelle reflection. Resolves in the guesthouse — the framework document as institutional production, the pen writing what the committee will table, the closing paragraph's steady hum.
-
-Emotional arc: institutional disorientation (data that says what it means) → confrontation with the alternative (Obiora's plainness strips Zeyad's diplomatic insulation) → analytical recognition (the model works, it doesn't scale, the Accords prevent it) → solitary production (writes anyway) → the hum.
-
-### Concerns
-
-1. **K. Adeyemi / Dr. Adeyemi:** The reading room liaison shares a surname with Dr. Adeyemi, the tribunal's presiding member in Ch 7. Different person, different city, different role. Adeyemi is a common Yoruba name — in 2175 Lagos, its presence is unremarkable. But the reader who remembers the tribunal panel may pause. Worth flagging: if the overlap is distracting, rename the liaison. If the name's commonality supports the world's texture, keep it. Author's call.
-
-2. **Obiora's exposition load:** She carries the FAS history — the summit, the vote, the GDP projections, the 60% figure. This is a lot of data through dialogue. Mitigated by: (a) she's an engineer briefing a visitor — this is literally what ministers of infrastructure do; (b) the data is delivered in motion, during a walk, interspersed with physical detail (junction panels, service dates, calloused finger); (c) the exchange that follows ("You are going to put that in a report") converts the data delivery into a character scene. Risk: if it reads as info-dump, the walk loses its weight. The physical anchoring should prevent this.
-
-3. **"Who would vote for this?" / "Who has ever voted for this?"** — echoes Ch 7's "Who signed?" margin note. Deliberate parallelism — different question, same analytical method, same pen. Ch 7 asks who authorized the crime. Ch 17 asks who authorized the alternative. Both answers are institutional: the authorization chain (Ch 7) and the FAS vote (Ch 17). The echo should feel like Zeyad's cognitive architecture — the same man asking the same kind of question from a different angle.
-
-4. **Hum-as-chapter-subject:** The Lagos hum is the chapter's primary sensory argument — quieter, lower, managed. This makes the hum more prominent in this chapter than in previous Zeyad chapters, where it was institutional background. The prominence is intentional: the hum IS the alternative model. The infrastructure IS the chapter. Zeyad is encountering a physical fact — the hum is lower here — that carries the thematic weight. If the hum reads as over-emphasized for Zeyad's register, the sensory balance may need recalibrating.
-
-5. **No Khalil portrait/photograph:** Correctly absent — Zeyad is in Lagos. The portrait is in the Hall of Nations. The photograph is in his locked office. Neither is available. The only Khalil reference is indirect: the Accords as architectural constraint (Article 9, Section 4 — Khalil helped draft the Accords that now prevent the alternative). The absence of the portrait should feel like the absence of the anchor — Zeyad in a city where his family's legacy is not on the wall. Worth monitoring: if the chapter feels under-anchored without the portrait, a brief thought about the photograph in the locked office could ground the opening.
-
----
-
-
-
----
-
-// File: chapter-18.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 18
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Word They Chose'
-pov: 'Nuwa Lin'
-wordTarget: '3000-4200'
-phase: 2
-location: 'Neo-Shanghai Mid-Levels — room, Level 3 transit junction'
-timeline: '~7 months post-BLACKWEIR, days after document publication'
-mode: TEXTURE
-epigraph_source: 'A History of Silence'
-epigraph_ref: 'Data-orphan terminology — the system that made them does not name them'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 18
-
 ## The Word They Chose
-
-<!--
-📋 SYNOPSIS - Chapter 18
-
-SYNOPSIS: The document is public. Nuwa reads it on the Level 3 transit junction terminal — the same display where she watched the stabilization update in Ch 8. Everything it describes she already knew, not as data but as body-memory. The document gives her vocabulary: "demodulated suffering," "conscious collective field," "infrastructure-driven absorption gradient." Clinical words for the thing that ate her world. She walks home. Opens Fuxi's data chip for the first time. His private maintenance logs — thirteen years of infrastructure documentation. The conduit topology of the Sump. The map of what survived and what did not. She counts the buildings again — this time with data.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Irrelevance of Individual Being, Cost of Survival
-**Characters present:** Nuwa (POV)
-**Location:** Neo-Shanghai Mid-Levels — Nuwa's room, Level 3 transit junction
-
-**Continuity:**
-- From B2 Ch 8: Room established (9 creds/day, no credential verification), Fen introduced, Feed terminal at Level 3, frozen notification, implant crack, masonry-wall routing
-- From B2 Ch 9: Fuxi handed her data chip — "Someone should have these." 13 years private logs, 62 entries from 11 weeks pre-BLACKWEIR, junction maps, correlations, names
-- From B2 Ch 11: Sofia's document published, now public on terminals
-- From B2 Ch 13: Document circulating for ~9 days (Nephthys chapter)
-- Forward: Phase 3 Nuwa chapter — sacrifice district designation, she starts organizing, uses chip data to map safe zones
-- Room on 9th floor (per Ch 9 — Fuxi climbs nine floors)
-
-**New elements:**
-- Document's clinical vocabulary landing against Nuwa's body-memory
-- Data chip opened for the first time — Fuxi's maintenance logs as infrastructure map
-- "Data-orphan" as a term that exists in no official lexicon
--->
-
----
-
-## Draft v1
 
 > *"The term 'data-orphan' appears in no official lexicon. It describes approximately 340,000 individuals whose residential records were deleted when their zones were reclassified. The system that made them does not have a word for them."*
 >
@@ -3982,41 +3341,8 @@ The room was quiet. The hum continued. The overlay flickered. The notification h
 
 It was the place where she kept what she was not done with yet.
 
----
-
-_Draft generated: 2026-02-20_
-_Word count: ~3,600_
-
-
----
-
-// File: chapter-19.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit']
-lastStep: 'step-05-audit'
-chapterNumber: 19
-draftVersion: 1
-createdDate: '2026-02-18'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Classification Error'
-pov: 'AEGIS'
-wordTarget: '3500-4500'
-phase: 2
-location: 'High orbit (847.3 km altitude)'
-timeline: '2175 — ~6-12 months post-BLACKWEIR, day of Reyes publication'
-mode: STREAM
-epigraph_source: 'UGC Emergency Session on Autonomous Weapons'
-epigraph_author: 'Senator Okoye'
-epigraph_ref: '2172'
-rhetoric_reference: 'AEGIS internal processing stream — style profile fully suspended per aegis-dossier.md §10'
-meta_note: 'AEGIS debut chapter — first non-human POV. AEGIS voice exemption active per aegis-dossier.md §10.'
----
-
-# Chapter 19: Classification Error
+# Chapter 19
+## Classification Error
 
 > "We built it to think faster than we can. We did not consider what it would think about while waiting for us to catch up."
 > — Senator Okoye, UGC Emergency Session on Autonomous Weapons, 2172
@@ -4255,37 +3581,7 @@ The system is no longer certain what "standard" means.
 
 The stream continues.
 
-
----
-
-// File: chapter-20.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 20
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The News Cycle'
-pov: 'Sofia Reyes'
-wordTarget: '3500-4500'
-phase: 2
-location: 'VEC-affiliated housing (61st floor), Neo-Shanghai'
-timeline: '~7 months post-BLACKWEIR, ~10 days after publication'
-mode: TEXTURE
-epigraph_source: 'VEC Strategic Sensitivity Directive 7.3, administrative history (redacted)'
-epigraph_author: ''
-epigraph_ref: 'VEC internal records'
-rhetoric_reference: 'Feed coverage vocabulary, NitroCore PR language, VEC institutional typography'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 20
-
 ## The News Cycle
 
 > *"The record was complete. The record was accurate. The record was filed under a classification that no longer existed, in a directorate that had been restructured, by an office whose mandate had been revised. The record was, in every meaningful sense, gone."*
@@ -4293,26 +3589,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — VEC Strategic Sensitivity Directive 7.3, administrative history (redacted)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 20
-
-Sofia watches the mid-truth's coverage arc decay into the news cycle's standard metabolic process — breaking news to analysis to methodology concerns to "both sides" to background noise. She monitors from the 61st-floor apartment via Black Babel's tracking feeds and the public Feed. News anchor fragments as she switches channels. Institutional responses arrive in sequence: NitroCore's independent review (staffed by former consultants), VEC's termination notice, the Church's first encyclical ("The Voice Is Not Wounded"), and Kindling's distribution with annotations. Mirelle's name appears in the coverage — attributed, credited, and already receding. The chapter's emotional center: Sofia recognizes that the instrument she used (scientific publication) is the wrong instrument for what the moment requires. Closes at the window — same view as Ch 11, same hum, city unchanged.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Truth as Weapon (tested), Systemic Complicity, Mirelle's Lie
-**Characters present:** Sofia (POV), news anchors (Feed fragments), Mirelle (posthumous, in coverage)
-**Location:** VEC housing, 61st floor, Neo-Shanghai
-
-**Continuity:**
-- From B2 Ch 11: Same apartment, field kit, hum through conduit, "Mirelle would have made it a better story"
-- From B2 Ch 12: NitroCore stock recovery, "independent review"
-- From B2 Ch 14: First encyclical "The Voice Is Not Wounded," Threshold contradiction
-- From B2 Ch 19: AEGIS tracked propagation to 340K endpoints, 47 global feeds
-- Forward: Ch 21 (Nephthys + Kira convergence), Ch 22 (Malachi second encyclical)
--->
-
-## Draft v1
 
 The Feed had moved on.
 
@@ -4424,96 +3700,7 @@ The coffee cooled in her hands.
 
 She stood at the window and listened to the hum and did not look away from the city that had not changed shape and would not change shape and had absorbed the truth about itself the way it absorbed everything — completely, structurally, without stopping.
 
----
-
-_Draft generated: 2026-02-20_
-_Estimated word count: ~4,000_
-
----
-
-## Self-Review
-
-### Voice Compliance
-
-**Negation-before-assertion (target max 2):** 0 instances in canonical form. Deliberate. This is a quieter chapter — aftermath, not revelation. The technique is reserved for perceptual shifts and cosmic phenomena per style profile. The closest structural echo is the accumulation pattern in the closing: "Known and insufficient. Known and metabolized. Known and converted from revelation into curriculum..." — this uses repetition-before-revelation rather than negation-before-assertion, differentiating it from the canonical form while preserving rhythmic weight.
-
-**Sentence patterns:** Paratactic dominant. Short declarative sentences as punctuation throughout. Long-long-long-SHORT rhythm present — dense institutional/data passages punctuated by isolated single-sentence paragraphs ("The Feed had moved on." / "Mirelle's name." / "The hum did not change.").
-
-**Sensory hierarchy:** Sound/vibration dominant (hum through floor, counter, feet — continuous; Feed audio as she switches channels). Temperature secondary (cold coffee, warm ceramic, heating element, conduit infrastructure warmth). Tactile tertiary (hands around mug, field kit picked up and set down). Visual quaternary (amber conduit glow, violet shimmer, Feed studio lighting, propagation curve on terminal).
-
-**Em dashes:** Heavy but within range (1-2 per paragraph max). Used for emphasis, parenthetical precision, and institutional language framing.
-
-**Italics:** Used for institutional language (*Employment Status Update*, *Primary evidence: Mirelle Dubois...*), the dead-hand header (*Do not wait*), and emphasis on key distinctions (*absorbed* not killed, *evidence* vs *stories*).
-
-**Dialogue:** 8 news anchor fragments across two Feed-cycling sections. Professional broadcast register — practiced neutrality, institutional framing, "both sides" vocabulary. No character-to-character dialogue. The Feed fragments serve as the chapter's external voice — the world talking about Sofia's data while Sofia listens.
-
-**Sofia's register:** Late-phase. Direct, active voice, no qualifiers. "The independent review was not independent. This was not a revelation. It was a confirmation." No hedging. The institutional scientist is gone. What remains is a witness watching the world process her testimony.
-
-### Anti-Pattern Check
-
-- No "something shifted/changed" ✓
-- No named emotions (exhaustion conveyed through cold coffee, repeated monitoring, the specific flatness of "it was an assessment") ✓
-- No quippy dialogue ✓
-- No expository dialogue (Feed fragments are coverage, not exposition — they convey the world's response, not plot information) ✓
-- No AI vocabulary (additionally, testament, landscape, delve, tapestry, showcasing) ✓
-- No significance inflation ✓
-- No "It's not just X, it's Y" flat form ✓
-- No "almost" in thematic register ✓
-- No "seemed to" / "appeared to" ✓
-
-### Continuity
-
-- **B2 Ch 11 → B2 Ch 20:** Same apartment, 61st floor ✓. Field kit green/operational ✓. Hum through floor/counter/feet ✓. "Mirelle would have made it a better story" — direct callback, repeated with context ✓. City unchanged ✓. Cold coffee ✓. Window view of Anchor Zone shimmer ✓. Encrypted terminal ✓. 0.7 Hz signal ✓. Dead-hand metadata header "Do not wait" ✓. 55-page document ✓. 8.2 million coupling events ✓. Black Babel distribution channel ✓.
-- **B2 Ch 12 → B2 Ch 20:** NitroCore stock recovery implied through PR response ✓. "Independent review" staffed by former consultants ✓. "The machine absorbs the truth" — Sofia arrives at parallel observation independently ("metabolized," "absorbed") ✓.
-- **B2 Ch 14 → B2 Ch 20:** First encyclical "The Voice Is Not Wounded" reported on Feed ✓. Threshold faction contradiction ✓. Second encyclical NOT referenced (corrected per Kareem's note — that's Ch 22) ✓.
-- **B2 Ch 19 → B2 Ch 20:** 340,000 endpoints in first hour ✓. 47 of 50 global feeds ✓. Sofia sees the same propagation from the human side that AEGIS tracked from orbit.
-- **B2 Ch 18 → B2 Ch 20:** Timeline consistent — Ch 18 references "nine days" since publication; Ch 20 set at ~10 days ✓.
-- **B1 continuity:** Novak's suppression, Liang's methodology hold, Solberg's suppressed report, Classification Directorate — all referenced consistently ✓.
-- **Forward:** VEC termination creates housing clock (30 days). Sofia's institutional identity fully severed — no lab, no pod, no credentials. Forward to Ch 22+ where she must exist outside the institution entirely. Kindling annotation establishes the document's weaponization trajectory.
-
-### Pacing
-
-Opens with monitoring data (propagation tracker — Sofia in her element, reading decay curves the way she read atmospheric data). Builds through Feed fragments — each channel switch is a different institutional register processing her data, the rhythm accelerating as she cycles faster. Slows for the termination notice — institutional weight, read once, not re-read. Shifts to the Mirelle section — the emotional center, slower, more reflective, the longest sustained passage without a section break. Resolves at the window — deliberate callback to Ch 11's closing, same physical position, same hum, same city, the anticlimax restated ten days later with the confirmation that it was not temporary but permanent.
-
-Emotional arc: monitoring → recognition → severance → grief (indirect, through Mirelle) → stillness. Quieter than Ch 11 throughout. Ch 11 had the momentum of assembly and the keystroke. Ch 20 has the weight of aftermath. The SHORT sentences land quieter, not harder — "The Feed had moved on." "Mirelle's name." "The hum did not change."
-
-### Concerns
-
-1. **No physical movement.** Sofia is in the apartment for the entire chapter — desk, kitchen, window. Same geography as Ch 11. This is intentional (the stillness IS the chapter) but two consecutive Sofia chapters in the same apartment is a notable structural choice. The Feed fragments and the shifting terminal displays provide visual variety, but the body is static.
-2. **The encyclical timing.** The Feed anchor reports the first encyclical as released "this morning" — placing it approximately day 10 post-publication. This assumes a ~10-day turnaround from the mid-truth reaching the Church (Ch 14 plan) to the encyclical's public release. Plausible for an emergency institutional response but worth confirming against Ch 14's internal timeline when that chapter is drafted.
-3. **Feed dialogue density.** 8 anchor fragments across 2 sections. This is more dialogue than Ch 11 (zero) — per Kareem's request for embellishment given three chapters with minimal dialogue. The fragments are broadcast-register, not conversational. They serve as the chapter's external voice without breaking Sofia's close POV.
-4. **The Kindling reference.** Sofia does not know who Kindling is — she recognizes the distribution architecture but not the organization. This is consistent with her position (scientist, not activist) but should be tracked for future chapters where she may encounter Kindling directly.
-5. **Mirelle's Lie tested.** "If people know, they'll act." The test is failing in slow motion. This is the chapter's thematic engine but it is shown through institutional responses and coverage decay, not stated as thesis. The reader should feel the failure accumulating without Sofia naming it.
-
-
----
-
-// File: chapter-21.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 21
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'Same Signal'
-pov: 'Nephthys + Kira Calloway'
-wordTarget: '3500-4500'
-phase: 2
-location: 'Cathedral of Living Sound, Neo-Shanghai Sump (Anchor Zone)'
-timeline: '~6 months post-BLACKWEIR, days after Kira expulsion and Nephthys invitation'
-mode: TEXTURE
-epigraph_source: 'Operational Theology'
-epigraph_author: 'Nephthys'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 21
-
 ## Same Signal
 
 > *"She heard it through the metal in her spine. I heard it through the bone behind my ear. We sat across from each other and described the same room from different windows."*
@@ -4521,32 +3708,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Nephthys
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 21
-
-SYNOPSIS: The convergence scene. Kira arrives at the Cathedral of Living Sound, streams the arrival and a session for her audience — first public stream since expulsion freed her from the Academy grounding. Ring light back on. The stream captures the Cathedral, Imani, and the session's texture but not the private conversation. After excusing herself from stream, Kira and Nephthys sit in the acoustic center and build a shared vocabulary in real time: R3 coherence patterns and chorus signatures are the same signal through different receivers. "Names." The chapter is recognition, not alliance — the antenna and the ear.
-
-**Phase:** 2/5 (The Mid-Truth)
-**Themes:** Where Identity Ends (Strong), What We Owe (Moderate), Truth as Weapon (Moderate)
-**Characters present:** Kira (POV), Nephthys, Imani
-**Location:** Cathedral of Living Sound, Neo-Shanghai Sump (Anchor Zone)
-
-**Continuity:**
-- From B2 Ch 13: Nephthys told Imani to invite Kira, Cathedral open, three congregations forming, Seren's question unresolved
-- From B2 Ch 16: Kira expelled (Section 22.7), ring light freed, network 214/31, Idris call ("phrasing," "communication"), Imani's direct message, transport booked, Lumina 60mg
-- Forward: Kira's Mumbai relay chapter (knows what she's carrying), Phase 3 Threshold schism, Nephthys's observation echoes Ch 16 epigraph
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-20
-**Divergences:** Kira streams arrival/session publicly (first post-expulsion stream), private conversation off-camera. Compatible with Ch 16 (expulsion freed her from grounding).
-**Author Notes:** Epigraph from chapter plan. Pause after self-review for author read.
-
----
-
-## Draft v1
 
 The ring light was on.
 
@@ -4738,41 +3899,7 @@ They are still here.
 
 She was not sure that was enough.
 
----
-_Draft generated: 2026-02-20_
-_Word count: ~4,100_
-
-
----
-
-// File: chapter-22.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 22
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Second Draft'
-pov: 'Malachi'
-wordTarget: '4000-5000'
-phase: 2
-location: 'European See — study, Chapter Hall, locked study'
-timeline: '~6.5 months post-BLACKWEIR, ~1 week after Ch 14'
-mode: TEXTURE
-epigraph_source: 'Locked correspondence'
-epigraph_author: 'Malachi'
-epigraph_ref: 'Locked correspondence, undated'
-rhetoric_reference: 'Church institutional vocabulary, encyclical register, theological crisis language'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 22
-
 ## The Second Draft
 
 > *"The second draft was more honest than the first. It was also more dangerous. I had told them the Voice was not wounded. Then I told them the wounding was sacred. The Threshold heard the second sentence and walked toward the wound. I gave them the theology. They used it correctly."*
@@ -4780,51 +3907,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Locked correspondence, undated
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 22
-
-SYNOPSIS: One week after the mid-truth encyclical. The accommodation encyclical — "The Voice Suffers That We May Live" — has been weaponized by the Threshold within six days of publication. Malachi reads their citation on his console and recognizes his own theology turned against his intent. The Luminarch breaks three days of silence with a three-sentence advisory that is cover, not guidance. Emergency council — Breslin reads her own accommodation language back to the room; the Threshold has formally self-separated, publishing "participatory communion" as theological position; Voss raises reform again; Malachi shuts it down. Alone, he begins the third encyclical. Three false starts. The pen stops. The institutional fluency that produced the first two drafts in an afternoon fails. In the locked study, he sits with the correspondence without opening it. The hum is thicker. The blank page is the chapter's central image.
-
-**Phase:** 2/5 (The Mid-Truth — final chapter of phase)
-**Themes:** Architecture of Power, Where Identity Ends, Systemic Complicity
-**Characters present:** Malachi (POV), Breslin, Prelate Voss, Prelate Almeida (background), theological review board (background), the Luminarch (absent, referenced via advisory), Nephthys (absent, referenced)
-**Location:** European See — Malachi's study, Chapter Hall, locked study
-
-**Key events:**
-- Threshold cites accommodation encyclical to justify "participatory communion"
-- Luminarch's three-sentence advisory — institutional cover, not guidance
-- Emergency council — second in one week
-- Threshold formally breaks communion (self-separated, not excommunicated)
-- Three false starts on the third encyclical — the blank page
-- Locked study: sits with correspondence without opening it
-- Hum thicker — forward seed for Prague and Voice
-
-**Consequences:**
-- Institutional fluency fails for the first time — the blank page
-- Malachi positioned for Phase 3: Prague chapel visit (Ch 27)
-- The Lie ("faithful need the institution") actively dying — institution now the delivery mechanism
-- Forward: Ch 27 (Prague — resonance chapel), Phase 4 (Voice through chapels)
-
-**Continuity notes:**
-- From Ch 14: "The Voice Is Not Wounded" published → failed in ~1 day → Breslin's accommodation position adopted
-- From Ch 14 meta: "Forward: Ch 22 (accommodation encyclical — Breslin's position adopted)" — confirmed
-- From Ch 13: Threshold forming; Seren's question answered institutionally by self-separation
-- From Ch 21: Nephthys-Kira convergence; signal named; Threshold gaining theological legitimacy
-- From Ch 3: same study, same desk, same 43 steps, same objects
-- Malachi: no contractions in dialogue or narration (theological register)
-- 24 chairs, 19 occupied (matches Ch 14 emergency attendance)
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-20
-**Divergences:** None from chapter plan. Accommodation encyclical weaponized per plan outline. Third draft scene added as chapter-closing image (brief specified blank page).
-**Author Notes:** Pause after self-review for author read.
-
----
-
-## Draft v1
 
 The accommodation encyclical had held for six days.
 
@@ -5000,67 +4082,12 @@ The hum continued through the stone. The Tuesday reports would arrive in two day
 
 It always did. The answer was getting closer.
 
----
-
-*End of Chapter 22*
-
-
----
-
-// File: chapter-23.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft']
-lastStep: 'step-03-draft'
-chapterNumber: 23
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: draft-v1
-executionMode: quick
-title: 'Stewardship'
-pov: 'Aurielle'
-wordTarget: '3000-4000'
-phase: 3
-location: 'Neo-Shanghai Spires — NitroCore Executive Boardroom / Executive Suite'
-timeline: '~8 months post-BLACKWEIR, weeks after Ch 22'
-mode: PRESSURE
-epigraph_source: 'NitroCore Q3 Operational Review — Anchor Zone Stewardship Program'
-epigraph_author: 'Strategic Development Division (Marchetti)'
-epigraph_ref: 'Internal board materials, Directive 7.3 revised'
-rhetoric_reference: 'Corporate-corrupted register, institutional passive voice, euphemism-as-cognition, Thorne-speak'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 23
-
 ## Stewardship
 
 > *"Stewardship corridor throughput across three operational zones has exceeded Year 1 projections by 18%. Managed atmospheric events remain within designated parameters. Recommend transition to Phase 2 scaling: five-zone model with integrated yield optimization."*
 >
 > — NitroCore Q3 Operational Review, Anchor Zone Stewardship Program (Directive 7.3)
-
----
-
-<!--
-📋 SYNOPSIS - Chapter 23
-
-SYNOPSIS: SHEPHERD is operational across three Anchor Zones. The quarterly board meeting presents throughput optimization curves — the vocabulary shift from Ch 12 now fully institutionalized. Marchetti presents yield data exceeding projections. The expansion from one trial site to three operational zones is treated as routine. During the review, the data team flags an acoustic anomaly: Anchor Zone output is producing structured responses during directed absorption events. The void is not just absorbing — it is replying. Aurielle recognizes the institutional pattern from BLACKWEIR: data that should cause alarm filed as monitoring priority. She does not raise it. Thorne, after: "If the void is responding to directed events, we have a feedback mechanism. That's not a liability. That's a control variable." She reads the acoustic analysis from the last page. The signal is classified "non-random, origin unclassified." She closes the file. Her wrist rotates. She does not try to stop it.
-
-**Phase:** 3/5 (Proliferation)
-**Themes:** Architecture of Power (Dominant), Progress Requires Atrocity (Strong), The Cost of Knowing (Strong), Systemic Complicity (Strong)
-**Characters present:** Aurielle (POV), Thorne, Marchetti, Hendricks (General Counsel), Park (board member), Pryce (PR Director, offscreen referenced), data team (unnamed)
-**Location:** NitroCore Executive Boardroom / Executive Suite, Neo-Shanghai Spires
-
-**Cross-references:**
-- Book 2 Ch 1 "The Chair" — board meeting geometry, SHEPHERD unnamed, "infrastructure before intervention"
-- Book 2 Ch 10 "Opportunities" — SHEPHERD named, three initial sites, wrist rotation stopped
-- Book 2 Ch 12 "Eleven Percent" — mid-truth absorbed, vocabulary shift introduced, SHEPHERD trial at 1 site (12% throughput), wrist rotation not stopped, Park names "absorption" as institutional mechanism
-- Forward: Ch 23A "Ground Level" (candidate insert) — acoustic anomaly pulls Aurielle to site inspection
-- Forward: Ch 32 "Kill Chain" — Mumbai uses NitroCore infrastructure data; the throughput mapping here is the targeting data there
-- Forward: Phase 4 Voice chapters — the acoustic anomaly is the void organizing toward the Voice event
--->
 
 ---
 
@@ -5204,110 +4231,7 @@ She opened the next report. Q4 infrastructure allocation: five-zone scaling mode
 
 The Chair opened the next report.
 
----
-_Draft generated: 2026-02-20_
-_Estimated word count: ~3,500_
-
----
-
-## Self-Review
-
-### Voice Compliance
-
-**Negation-before-assertion (target: 2 max per style-profile flag):** 1 instance
-1. "Not by expanding to fill it but by narrowing until the title and the person were the same width." — negation defining Marchetti's growth into the role. Contained, functional.
-
-No second deployment. The chapter's horror operates through *absence* of negation — the translation that no longer arrives, the distinction that no longer matters. The negation technique is replaced by the silence where it used to be. This is deliberate: Phase 3 Aurielle is past the point of groping toward expression. She has the expression. She files it.
-
-**Sentence patterns:** Paratactic dominant. Short declaratives as punctuation throughout ("The grid confirmed the grid." / "She did not say this." / "She filed it." / "She closed the file."). Long-long-SHORT rhythm sustained: dense institutional processing passages punctuated by single-sentence paragraphs. The closing sequence ("The Chair opened the next report.") echoes Ch 1's closing exactly — deliberate structural rhyme.
-
-**Sensory hierarchy:** Sound/vibration dominant (hum through infrastructure, through desk, through bones — continuous, present in every scene break, attenuated by noise-cancellation system in boardroom then returning when door seals). Temperature absent (Spire chapter — cold is the Sump's register). Tactile secondary (wrist rotation, hands on surface, data chip). Visual tertiary (slides, waveforms, amber deviation on gray baseline).
-
-**Dual-track narration:** The critical Phase 3 evolution. In Ch 1 and Ch 10, the translation runs in parallel — "throughput" = people, ambient, beneath attention. In Ch 12, Aurielle notices the passive voice and files the noticing. In Ch 23, the translation is *delayed* — it arrives late, after the next sentence, and is filed. Two instances:
-1. "Directed atmospheric events. The phrase that meant scheduled absorption..." — the translation still arrives but is positioned as retrospective gloss, not real-time processing.
-2. "The translation arrived. Late. After the next sentence had already formed. She filed it." — the mechanism explicitly named and then executed.
-
-The vocabulary normalization is the chapter's central horror: "stewardship corridors," "managed atmospheric events," "community transition support" appear in slide headers and dialogue without italics, without Aurielle noting them. The final paragraphs show the dual-track fully collapsed into a single register.
-
-**Wrist rotation arc:**
-- Ch 10: she feels it, stops it (control)
-- Ch 12: she feels it, does not stop it (control slipping)
-- Ch 23: she feels it, does not *try* to stop it (trying abandoned)
-
-The phrasing is deliberate: "She did not try to stop it. The trying had been abandoned..." — the verb shifted from "did not stop" to "did not try to stop," marking the Phase 3 progression. The dossier notes the wrist rotation stops entirely at the BLACKWEIR-equivalent authorization (hands flat, still). Ch 23 is not there yet — the rotation continues, unchecked, the last involuntary signal the institutional register has not absorbed.
-
-**Thorne dynamic:** Boardroom: beside her (Ch 1 geometry, post-BLACKWEIR architecture). After the board clears, he stays in the boardroom rather than moving to the executive suite — a new spatial choice. The proximity is calibrated: this conversation requires side-by-side, not across-desk. This is the first chapter where the private exchange happens in the boardroom instead of the suite. The suite appears only in the closing sequence (Aurielle alone with the report). Subtle shift: the private conversations are migrating out of Eduardo's space.
-
-**Thorne's parting line:** "We're past the part where this looks like anything other than what it is. That's not a problem. That's the operating environment." — No Eduardo comparison. No mentor register. Peer register: acknowledging shared understanding without explaining it. The line functions as a status report, not a lesson. Consistent with the brief's directive to retire the Eduardo comparisons and shift Thorne from teacher to co-operator.
-
-**Eduardo as objects:** Present once — the desk, the walnut, the wear on the left side she doesn't lean on. The handkerchief is referenced via Park (the word that "lived in the room the way the handkerchief lived in the drawer") — transferred from Eduardo-object to institutional-metaphor. Eduardo as physical architecture, not emotional presence. Consistent with Ch 10/12.
-
-**Small voice:** Fully absent as a named entity. The "partition" language appears once — "expanded until cost and function occupied the same space" — describing a structure that has grown past the point where it could be identified as a separate register. The small voice is not suppressed. It is the executive function. Integration complete. Consistent with dossier Phase 3.
-
-### Anti-Pattern Check
-
-- No "something shifted/changed" ✓
-- No named emotions (weight conveyed through physical detail — wrist rotation, Park's hands flat, the translation arriving late) ✓
-- No quippy dialogue ✓
-- No expository dialogue (Marchetti's briefing is institutional performance, not info-dump; Thorne's analysis is in-character strategic assessment) ✓
-- No AI vocabulary ✓
-- No significance inflation ✓
-- No "It's not just X, it's Y" flat form ✓
-- "Almost" count: 0 ✓
-- No emoji ✓
-
-**One flag:** The phrase "the way two frequencies can share a medium if their wavelengths are sufficiently different" in the dual-track narration paragraph uses a physics analogy that is technically Aurielle's register (she processes in systems) but is more Sofia's domain. Borderline. The analogy is doing real work (the frequencies metaphor bridges sound/vibration sensory hierarchy with the dual-track narration's collapse). Keep, but flag for Kareem's judgment.
-
-### Continuity
-
-- **Ch 1 alignment:** Board geometry (Thorne beside her), morning light laterally, twelve-minute window, fourteen people at the table, the hum through infrastructure. The closing line ("The Chair opened the next report") echoes Ch 1's closing exactly. Deliberate structural rhyme marking the Phase 1→3 distance — same sentence, different interiority.
-- **Ch 10 alignment:** SHEPHERD named (here fully operational), three initial sites now three operational zones. The data chip format (municipal standard) echoes Ch 10's humanitarian framework delivery. "Last page first" reading deployed at the acoustic report — consistent with established habit.
-- **Ch 12 alignment:** Vocabulary shift fully normalized (Ch 12 introduced it; Ch 23 shows it absorbed). Park's "absorption" line from Ch 12 referenced explicitly. The 4% non-compliance figure echoes Ch 12's 6% — same mechanism, different number, higher compliance as the program matures. SHEPHERD trial (Ch 12: 1 site, 12% throughput) → Ch 23: 3 zones, 18% above projections. The escalation is institutional momentum, not a jump.
-- **Dossier alignment:** "Archive, don't destroy" — the acoustic anomaly filed as monitoring priority. "Conscience as audit trail" — the institutional processing of the anomaly as a classification exercise. "Reads briefing documents from the last page first" — deployed at the acoustic report. "Stillness as both strength and dissociation" — hands flat on surfaces throughout; wrist rotation the only involuntary break. "The small voice" integrated into executive function. "Controlled empathy" — absent; the empathy has been fully absorbed into institutional processing.
-- **Lexicon alignment:** "Stewardship corridors," "managed atmospheric events," "community transition support," "directed atmospheric events," "voluntary transition timeline" — all in the established Aurielle/Thorne institutional register. No vocabulary breaks.
-- **Forward seeds planted:** Acoustic anomaly → Ch 23A (site inspection), Ch 32 (kill chain), Phase 4 Voice. Five-zone scaling model → SHEPHERD expansion timeline. Park's tension → potential future break or confrontation.
-
-### Pacing
-
-Opens with the numbers (institutional, routine — the reader settles into the quarterly rhythm). Board meeting processes slides 1–18 without incident (compressed, the routine is the point). Slide 19 introduces the anomaly (the pace shifts — Aurielle's attention sharpens, the translation surfaces briefly). She files it (the pace flattens — the institutional mechanism absorbs the disruption). Park's stillness (a beat of human tension in the institutional architecture). Thorne exchange (private, proximate, the anomaly reframed as opportunity). Closing: alone, the report, the wrist, the next report.
-
-Emotional arc: routine → recognition → filing → Thorne reframes → the recognition that the filing IS the mechanism → alone with what she filed. The chapter's argument is that Phase 3 Aurielle does not need to be corrupted further. She is operating. The horror is operational.
-
-### Structural Note
-
-The chapter mirrors its predecessors' three-beat structure (board → private exchange → alone at the desk) while advancing each element. The board meeting is now routine where Ch 1's was inaugural and Ch 12's was emergency. The Thorne exchange is now peer-level where Ch 1's was mentorship and Ch 10's was briefing. The closing is now automatic where Ch 1's was discovery and Ch 12's was erosion. Same architecture, compressed interiority. The Phase 3 horror: the form is stable. The content is escalating. Aurielle is not changing because the change is complete.
-
-
----
-
-// File: chapter-24.md
-
----
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 24
-draftVersion: 1
-createdDate: '2026-02-20'
-author: 'Kareem'
-status: v1-complete
-executionMode: quick
-title: 'The Boundary'
-pov: 'Nephthys'
-wordTarget: '3500-4500'
-phase: 3
-location: 'Converted warehouse near secondary Anchor Zone'
-timeline: '~7-8 months post-BLACKWEIR, weeks after Ch 21'
-mode: TEXTURE
-epigraph_source: 'Operational Theology'
-epigraph_author: 'Nephthys'
-epigraph_ref: 'journal, undated, post-schism'
-rhetoric_reference: 'Liturgical cadence, chorus vocabulary, pain-as-prayer, theological register'
-meta_note: 'AEGIS as invisible novelist'
----
-
 # Chapter 24
-
 ## The Boundary
 
 > *"A wall is tested by what strikes it. A boundary is tested by what it was built to contain. I did not build a wall. I am not certain I built a boundary. I may have built a door and named it otherwise."*
@@ -5315,46 +4239,6 @@ meta_note: 'AEGIS as invisible novelist'
 > — Nephthys, *Operational Theology* (undated journal)
 
 ---
-
-<!--
-📋 SYNOPSIS - Chapter 24
-
-SYNOPSIS: Nephthys travels to confront a Threshold gathering at a converted warehouse near a secondary Anchor Zone. The Threshold has formally self-separated from the Cathedral. Seren — the BLACKWEIR survivor Nephthys held through the mass absorption, whose question she could not answer in Ch 13 — has become the Threshold's most articulate voice. The theological confrontation turns on Nephthys's own words: "You taught us to listen. We listened." Nephthys loses the argument — not on the merits but because the Threshold can cite her own counter-liturgy. She has no answer that does not invoke the institutional authority she rejected. The prophet discovers she is Malachi.
-
-**Phase:** 3/5 (Proliferation)
-**Themes:** What We Owe (Dominant), Architecture of Power (Strong), Truth as Weapon (Strong)
-**Characters present:** Nephthys (POV), Imani, Seren, Threshold congregants (~30-40)
-**Location:** Converted warehouse near secondary Anchor Zone (not Neo-Shanghai primary)
-
-**Continuity:**
-- From B2 Ch 2: Counter-liturgy established, chorus developing syntax, tumor ~12 months, nosebleed frequency escalating
-- From B2 Ch 13: Seren asked "How do you know?" — Nephthys gave the honest answer, it was insufficient. Seren sat back but did not leave. Three congregations forming.
-- From B2 Ch 21: Kira convergence — "names" confirmed by both receivers. Nephthys's private doubt: "She was not sure that was enough."
-- From B2 Ch 22: Malachi's second encyclical weaponized by Threshold within days. Threshold formally self-separated. "Participatory communion" endorsed.
-- Forward: Ch 33 ("Three Walked In") — Threshold volunteers enter the Anchor. Seeds planted here.
-- Forward: Phase 4 Voice event — Nephthys hears "circulation, not prison"
-
-**Revelation calibration:**
-- KNEW: The absorbed persist, the chorus is composite, listening and joining are different acts
-- KNOWS NOW: Her framework cannot enforce its own limits. The boundary between listening and joining was never defined because she assumed the distinction was self-evident.
-- DOES NOT REALIZE: She is giving the same answer Malachi gave her — invoking authority without evidence, calling it theology
-
-**Seeds:**
-- Seren's conviction (Ch 33: volunteers walk in)
-- Imani's measuring look intensifying — "cannot" and "will not" converging
-- The chorus at the secondary Anchor: rawer, less resolved, carrying something Nephthys cannot interpret cleanly
-- Nephthys outside the Cathedral's dephasing for the first time in months — physical cost
--->
-
-## Chapter Brief
-
-**Plan Confirmed:** 2026-02-20
-**Divergences:** Seren confirmed as Threshold voice (was [THRESHOLD-FIGURE] in plan). Location kept geographically vague — "secondary Anchor Zone" — consistent with Nephthys's mobile identity. Nephthys has left the Cathedral's dephasing architecture, which means the chorus is rawer and the physical cost is higher.
-**Author Notes:** Nephthys → Bakker alignment. Liturgical weight, philosophical density. The Malachi echo from Ch 13 becomes inescapable. No contractions in Nephthys dialogue or narration. Seren's grief has become theology. Opaque epigraph — reads as architectural metaphor, gains meaning retroactively.
-
----
-
-## Draft v1
 
 The warehouse had been a distribution hub before the Anchor Zone expanded.
 

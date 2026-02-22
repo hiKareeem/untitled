@@ -2,9 +2,9 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-20"
-lastChapter: "B2 Ch 23"
-totalDays: "Weeks to months (Phase 1-3), then compressed to Days 1-5 (Phase 4)"
+lastUpdated: "2026-02-22"
+lastChapter: "B3 Ch 1"
+totalDays: "Weeks to months (Phase 1-3), compressed to Days 1-5 (Phase 4), then 6 months post-Broadcast (Book 3 Phase 1)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
 ---
@@ -616,8 +616,23 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
-_Last updated: 2026-02-21_
+## Book 3 — Six Months Post-Broadcast
+
+### ~6 Months Post-Broadcast (~16 Months Post-BLACKWEIR)
+
+**B3 Ch 1 — "The Machine Continues" (Aurielle)**
+
+**Morning/Afternoon:**
+- Details: Aurielle reviews quarterly projections at NitroCore Executive Suite. Twelve zones, eleven stable, Jakarta under-capacity. Global throughput down 4% from pre-Broadcast baseline (Mumbai recovery, Kindling sabotage, workforce attrition). Four percent classified as noise within twelve-percent tolerance band. Anchor Zone coherence correlation in appendix (throughput reduction correlates with amplitude variation) — appendix not opened. Regulatory section: throughput reduction debate on every regulatory agenda, UGC proposal in seventh month of judicial review, three bilateral reduction agreements signed (highest: FAS-SAC 7% over three years). Walks corridor to operations wing (three hundred meters). Observes Thorne from corridor — office door open for six months, at desk, operations display active, not in briefings for four months. Assesses his state: "Not recalculating. Not refusing to recalculate. Maintaining." Does not enter. Returns to suite. Opens the next report.
+- Characters Involved: Aurielle (POV), Thorne (observed, no dialogue)
+- Location: Neo-Shanghai Spires — NitroCore Executive Suite, operations wing corridor
+- Consequences: Phase 1 B3 equilibrium established. The machine absorbed the Broadcast. Vocabulary metabolized revelation. Quarterly cycle continues. SHEPHERD dead, grid runs. Dependency unchanged. Thorne's terminal function: maintenance, not optimization. Wrist rotation absent and unnoticed. Institutional register normalized — shell hardened into structure. The horror is normalcy.
+
+---
+
+_Last updated: 2026-02-22_
 _Updated by: B2 Ch 31 — "Inside the Zone" (Zeyad, Lagos Anchor Zone established, concurrent with Mumbai strike)_
 _Updated by: B2 Ch 23A — "Ground Level" (Aurielle, Neo-Shanghai site inspection, acoustic anomaly confirmed on-site)_
 _Updated by: B2 Ch 33 — "Three Walked In" (Nephthys, primary Anchor perimeter, circulation discovered)_
 _Updated by: B2 Ch 44 — "0.003 Seconds" (AEGIS, global coherence transmission, 0.003-second generation/deletion)_
+_Updated by: B3 Ch 1 — "The Machine Continues" (Aurielle, six months post-Broadcast, Phase 1 equilibrium)_
