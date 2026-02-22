@@ -603,6 +603,16 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 1 — Nuwa POV (Book 2 debut). Data-orphan in Mid-Level margins. Sump record archived. Cracked salvage implant, frozen BLACKWEIR notification. Fen (neighbor): 'Where are you from?' / 'Somewhere that isn't there anymore.' Feed: 'Anchor Zone stabilization proceeding on schedule.' 'Stabilization is the word they chose.' 'She was not free. She was unprocessed.' Spring onions as first un-ledgered gift. Table used for first time. Counting without numbers. AEGIS as invisible novelist."
 
+  book2_chapter_50:
+    title: "The Drawer"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 3900
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-50-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 5 — Malachi POV (5th appearance). Three days after Voice event (Ch 39). European See depleted — half clergy departed to Listeners/Witnesses/Threshold. Walks forty-three steps (first time since Prague). Opens locked study. Reads correspondence — both scripts, the question ('Can the Voice be wounded?'), the annotation ('I manage it'). Does not publish — not yet. Takes correspondence from locked study, places on desk in main office. In the open. The 'yet' transformed from passive (Ch 39: did not stand) to deliberative (Ch 50: stood, read, chose not to publish — yet). Encyclical page still blank. Hands remain unfolded. Hum 'inhabited' post-event. Epigraph: archival practice manual (concealment vs preservation). Bakker alignment — quiet chapter, moral/philosophical density, decision pending. Closing: 'In the open.' No cadence. AEGIS as invisible novelist."
+
   book2_chapter_4:
     title: "0.7 Hz"
     status: v2-complete
