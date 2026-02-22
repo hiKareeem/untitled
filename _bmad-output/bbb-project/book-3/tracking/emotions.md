@@ -99,6 +99,75 @@ The absences are the emotional content. The institutional register processes wha
 
 5. **Kindling reports** — 12 operations, 11 weeks. Paper printouts. "Paper was honest and paper was hers." The habit from VEC housing continues. Emotional weight: pattern recognition as compulsion. São Paulo (14% reduction), Lagos (8%), Jakarta (22%). The data was consistent. The model predicted every result. Then the grid rerouted. Every operation. Every time. The pattern visible without immersion pod, without holographic field. "She saw it the way she saw every pattern — as a structure that assembled itself in the space between the data points."
 
+---
+
+### Chapter 5 — "Voluntary" (Nikolai Volkov)
+
+**Emotional Arc:** Post-institutional absence (perimeter arrival, civilian clothes) → operational observation (containment team, NCO recognition) → meditative accumulation (aggregate listening, Jarek's absence) → witness compression (voluntary walker) → testimonial intensity (field log entry) → resolving choice (hand check, perimeter continues)
+
+**Emotional Register:** Flat-operational with meditative depth. Phase 1 B3 equilibrium. The discharged soldier learning what voluntary means. Emotion conveyed through physical sensation (jaw compression, hand check ritual, hum discrepancy) and structural absence (no rank, no orders, no destination, no institutional function). The horror is not the void. The horror is that choosing to stand at a perimeter is his first voluntary act.
+
+**Physical Tells:**
+- Civilian clothes = absence of institutional markers. Grey jacket. No rank insignia. No unit patch. No Stalker designation. The absence as visual fact.
+- Jaw compression: 1mm (line 162) — body registering what field log will hold within the hour. Single deployment. Jarek's absence in aggregate.
+- Hand check ritual: 2 deployments (mid-chapter line 190, closing line 232). Left index finger. Four seconds. Still. The steadiness that has always been steadiness. The tremor that never arrived.
+- Hum discrepancy: 6.9 (body) / 7.1 (instruments) — Vladivostok. The gap persists. The gap is where Nikolai lives.
+- Field log datapad on barrier cross-rail — fifteen years of entries, the blank from BLACKWEIR night, the compressed timestamps, the honest reports' conclusions. The source document.
+
+**Emotional Beats:**
+
+1. **Perimeter unchanged, barrier different** — Opening observation. Emotional weight: continuity and rupture. Fifteen years. The ground is the same ground. The infrastructure is the same infrastructure. The barrier is FAS-standard now (lower, less aggressive). The soldier who stood here in 2161 (mother's name surfacing, field log beginning) is standing here again in civilian clothes. The return is not homecoming. The return is witness.
+
+2. **Civilian clothes** — "civilian clothes were what a civilian wore and a civilian was what the court-martial had produced." Emotional weight: identity as institutional output. The court-martial produced a civilian the way BLACKWEIR produced 8.2 million absorbed. The institution converts people into categories. The category is now "civilian." The clothes are the category's uniform.
+
+3. **Court-martial summary** — Three charges. Administrative separation. Not dishonorable. Effective immediately. Emotional weight: procedural compression. The tribunal reduced to exposition. The career ending compressed into three paragraphs. The institutional machinery processing a man into a classification. "The forms were accurate. The forms contradicted doctrine. The tribunal convicted him for accuracy." The sentence that contains the entire arc.
+
+4. **"The field log was his."** — Single-line paragraph. Emotional weight: possession. Not the institution's. Never the institution's. Fifteen years of private observation. The only thing the tribunal didn't take because the tribunal didn't know it existed. The source vs. the translation. The field log is the source. The honest reports were the translation. Black Babel published the translation. The source remained private. The source remains private.
+
+5. **Containment team observation** — Hybrid doctrine. PCC kinetic + FAS acoustic dampening. No briefing authorized it. Emotional weight: operational leak. "someone had read the honest report, or heard about it, or talked to someone who had talked to someone who had, and the reading had leaked into operational practice the way water leaked through infrastructure — not through the designed channels but through the gaps." The truth circulating through unofficial channels. The system absorbing what it cannot acknowledge.
+
+6. **NCO recognition** — "You are Volkov." / "I was." Emotional weight: past tense. Identity in past tense. The name recognized from the photograph in the honest report. The face in the photograph standing in civilian clothes at her perimeter. She recognizes the source. She does not ask about the tribunal. She reports the result: "We adjusted. Propagation response improved fourteen percent." The validation without vindication. The truth adopted, the source discharged.
+
+7. **"Acknowledged."** — Institutional vocabulary arriving without composition. Emotional weight: linguistic persistence. "He was a civilian. The vocabulary was not. The court-martial had separated him from the institution. It had not separated the institution from his language." The operational register as native language. The suppression internalized so deeply it survives institutional separation. The body produces institutional outputs even when the institution is gone.
+
+8. **Aggregate listening** — Six months. Lagos, transit, Vladivostok. Continuous low-level vocalization. Not names. Not individual voices. Aggregate output. Emotional weight: population vs. person. "Millions of absorbed consciousnesses circulating through the void's architecture and producing, through that circulation, a continuous acoustic output that the monitoring stations classified as noise and that Nikolai's body classified as something the institutional vocabulary did not contain." The signal the institution cannot hold. The body hears it. The instruments measure it differently. The gap persists.
+
+9. **Jarek not heard** — "He did not hear Jarek." Emotional weight: absence in presence. Six months of listening. Standing at Lagos perimeter, pressing against the barrier the way a person presses against a closed door. Waiting for the specific tonal quality, the cadence, the inflection, the particular way Jarek formed the syllables of Nikolai's name. The name was the last thing Jarek said. The name should be in the aggregate. The name is not separable from the aggregate. "The person was in there. The person was not separable from the population. The person had been included, and inclusion meant the loss of the specific — the name, the cadence, the inflection — into the general." The grief is structural, not emotional. The person lost in the population. The voice lost in the murmur.
+
+10. **Jaw compression** — 1mm. "His jaw compressed one millimeter. The body registering what the field log would hold within the hour." Emotional weight: somatic processing. The body's diagnostic. The physical tell that precedes documentation. Jarek's absence registered in the jaw before the field log. The body knows before the writing knows. The sixty-minute window begins.
+
+11. **Voluntary walker** — 14:22. Mid-thirties, dark coat, no equipment. Walking toward the shimmer with the unhurried pace of a person who had already decided. Not Threshold. No theological markers. A man in a coat walking toward a door he intends to open. Emotional weight: witness without intervention. "He had no authority to intervene. He had no rank, no orders, no institutional framework that gave him jurisdiction over a civilian's choice at a breach perimeter. But the absence of authority was not the reason. The reason was simpler...He was done intervening." Twenty years of intervention produced BLACKWEIR. The interventions were the institution's preferred response. The institution's preferred response was wrong in every way that mattered. He watches. He does not intervene. The watching is the first honest observation of his career.
+
+12. **"Accepted."** — The word that arrived in Nikolai's observation. Not institutional vocabulary. The monitoring station would log "absorption event, voluntary, civilian, timestamp 14:23." But the word that arrived was "accepted." Emotional weight: linguistic precision. "The shimmer did not resist, did not consume, did not attack. It received." The institutional vocabulary vs. the observed reality. The gap between classification and event. The field log will hold "accepted." The monitoring station will hold "absorption event." Both describe the same four seconds. Only one is accurate.
+
+13. **Hand check (mid-chapter)** — Left index finger. Four seconds. Still. Emotional weight: ritual persistence. The steadiness that has always been steadiness. The tremor he checks for has never arrived. Twenty years of checking. The ritual continues. The ritual outlasts the institution. "The hands were steady because the hands had always been steady." The body is the institution's instrument. The instrument continues. The institution is gone. The instrument continues.
+
+14. **Field log opened** — 15:07. Forty-four minutes after the voluntary absorption. Before eating. Before sleep. Before anything. The compulsion. The sixty-minute window. Emotional weight: discipline as identity. "The window had been the field log's founding discipline. It remained." The institution stripped rank, commission, pension, affiliation. The institution did not strip the sixty-minute window. The window is his. The window was always his. The discipline persists because the discipline is not institutional. The discipline is the structure he built inside the institutional structure. The institutional structure is gone. His structure remains.
+
+15. **Field log entry** — Seven paragraphs. Longest shown entry in trilogy. Emotional weight: testimonial accumulation. The entry is not compressed (B2 Ch 5). The entry is not blank (B1 Ch 38). The entry is not terminal (B2 Ch 41). The entry is testimony. "Containment team — eight personnel, hybrid configuration..." → "The institution court-martialed the report and adopted its conclusions. These are not contradictory actions..." → "The discrepancy is the datum the honest report could not hold..." → "I watched a man walk into the territory I spent twenty years containing..." → "I did not hear Jarek..." → "The hum here sounds like the Corridor..." → "No elaboration required. The observation is the elaboration." Seven observations. Seven paragraphs. The field log lengthening. The institutional compression lifted. Writing for himself. Writing for the record. The private document becoming testimony.
+
+16. **"Because he chose to."** — Single-line paragraph. Emotional weight: agency recognized. "He would return tomorrow. Not because doctrine required it. Not because orders directed it. Not because the institution needed a man at this perimeter performing a function the institution recognized as operational. / Because he chose to." The first voluntary act. Twenty years of service. Fourteen deployments. One BLACKWEIR. Six PCR-11s. One honest report. And the first thing he chose — not ordered, not protocoled, not doctrine's output — was to stand at a barrier and listen and write and not intervene. The horror is not the void. The horror is that this is the first choice.
+
+17. **Hand check (closing)** — Four seconds. Still. "The perimeter continued." Emotional weight: resolution. The ritual performed. The hands still. The perimeter continuing. The witness choosing to continue. The structure is not institutional. The structure is his. The structure holds.
+
+**Emotional Absence:**
+- No anger at court-martial (tribunal processed as administrative fact)
+- No grief for Jarek (structural observation: person lost in population)
+- No resentment toward NCO/institution (operational leak noted without judgment)
+- No fear of voluntary walker (witness mode, intervention ended)
+- No uncertainty about field log's purpose (writing continues, audience irrelevant)
+
+The absences are the emotional content. The operational register processes what it can. The field log holds what the register cannot. The holding IS the emotional response. The continuation IS the emotional state.
+
+**Comparison to B2 Ch 49:**
+- B2 Ch 49: Tribunal, conviction, discharge, Lagos exterior, field log as object, "no destination and no institution to deliver the truth to"
+- B3 Ch 5: Vladivostok perimeter, six months later, field log opened and written in, voluntary presence, "the first voluntary act of his career"
+- Emotional evolution: institutional separation → voluntary reconstruction. The soldier without orders learning what choice means. The field log evolving from object (B2 Ch 49) to practice (B3 Ch 5) to eventual testimony (B3 arc endpoint).
+
+**Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The discharged soldier at Vladivostok perimeter. Voluntary presence. Aggregate listening. Field log lengthening. The horror is not the void. The horror is that standing at a perimeter voluntarily, without orders, writing observations no one will read, is the first voluntary act of his career. The institution defined agency for twenty years. The institution is gone. Agency is being reconstructed from the inside out.
+
+---
+
 6. **Hands still** — Emotional weight: problem shape identified. Red marker on Operation 7 printout: "The problem is not the model. The problem is the grid." And underneath: "The grid self-corrects because the grid was designed to self-correct. The same engineering that prevents cascading failure prevents cascading reduction." She set the marker down. Her hands were still. When her hands were still, she had not arrived at a solution. She had arrived at the shape of the problem.
 
 7. **Talking to herself** — "If the strikes were synchronized," Sofia said. The murmured processing. The habit she'd never managed to break. Followed her from immersion pod to monitoring lab to VEC housing to rented apartment in lower Mid-Levels. Emotional weight: continuity through loss. The air as colleague. The air does not require institutional credentials. The processing continues regardless of infrastructure.

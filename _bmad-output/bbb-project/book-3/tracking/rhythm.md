@@ -186,9 +186,57 @@ The suppression that was functional (B2 Ch 3) has become the cause of the crisis
 - B1 Ch 5: "She saved the file. Entry 14." — institutional archive, personal parallel
 - B1 Ch 27: "She pressed confirm. The model was complete." — consciousness term added, 0.97 correlation
 - B2 Ch 4: "She had the data. She did not have the institution." — post-BLACKWEIR break
-- B2 Ch 11: "She pressed confirm. The document entered the world." — mid-truth publication
 - **B3 Ch 4: "The model worked. The grid worked. The injunction worked. Everything worked. The breaches were still expanding." — functional horror**
 
 The closing that was institutional archive (B1 Ch 5), then model completion (B1 Ch 27), then institutional break (B2 Ch 4), then publication (B2 Ch 11) has become enumerated functionality (B3 Ch 4). The horror is not failure. The horror is that everything works exactly as designed and the breaches continue. The system's functionality is the crisis.
+
+---
+
+### Chapter 5 — "Voluntary" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (perimeter arrival, court-martial exposition) → operational-observational (containment team, NCO) → meditative-accumulative (aggregate listening, Jarek's absence) → witness-compressed (voluntary walker) → high-density (field log entry) → resolving (closing choice)
+**Pacing:** Five-section structure following observation-to-documentation cycle. Perimeter/court-martial ~1,000 words (24%). Containment team/NCO ~800 words (19%). Aggregate listening ~900 words (21%). Voluntary walker ~700 words (17%). Field log ~800 words (19%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Perimeter arrival / court-martial | ~1,000 | Low-sustained | Administrative, factual, civilian clothes absence, tribunal summary |
+| Containment team / NCO | ~800 | Low-operational | Observation mode, hybrid doctrine, recognition scene, "We adjusted" |
+| Aggregate listening | ~900 | Medium-meditative | Six months listening, Jarek not heard, person lost in population |
+| Voluntary walker | ~700 | Medium-compressed | Witness mode, 14:22-14:23, institutional vocabulary vs. "accepted" |
+| Field log entry | ~800 | High-accumulative | Longest entry in trilogy, seven paragraphs, private testimony |
+| Closing | ~200 | Resolving | "Because he chose to" → hand check → "The perimeter continued" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The field log was his." / "The gap persisted." / "Still." / "Because he chose to." / "The perimeter continued."
+- TEXTURE mode = quiet register, post-institutional horror. Horror in absence: no rank, no orders, no destination, no function except witness. The soldier without the institution.
+- Two NBA deployments: (1) "Not names. Not individual voices. Not the specific, personal vocalization..." → "Aggregate output." (2) "The shimmer did not resist, did not consume, did not attack. It received." Both earned — first for aggregate's nature, second for voluntary absorption.
+- Field log entry is chapter's high-density passage (~800 words, seven paragraphs). Longest shown entry in trilogy. Deliberate — seeds B3 arc toward eventual publication. Entry lengthening reflects post-discharge state: institutional compression lifted, writing for himself, no filing system to conform to.
+- Dialogue ~2% (minimal — NCO recognition scene only). "You are Volkov." / "I was." / "The dampening works." / "Acknowledged." Four exchanges total. Terse, operational register.
+- Five-section architecture mirrors field log discipline: observation (perimeter/team) → processing (aggregate listening) → event (voluntary walker) → documentation (field log) → continuation (closing). The rhythm is the sixty-minute window. The window held.
+- Bookend structure: perimeter arrival (civilian clothes, no rank) → "The perimeter continued." The soldier who chose to stand there. The first voluntary act.
+
+**Dialogue Percentage:** ~2% (deliberate — observation chapter, solo witness, minimal interaction)
+
+**Pacing Concern:** Risk of meditative sections (aggregate listening, field log) feeling static. Mitigated by: (1) Voluntary walker scene provides concrete event between meditative passages; (2) Field log entry structured as seven distinct observations (containment team, hum discrepancy, voluntary absorption, Jarek's absence, Corridor callback, mother's name, closing thesis) — enumeration provides internal rhythm; (3) Closing drops to quietest possible register after field log density ("Because he chose to" → hand check → single line).
+
+**Structural Note:** B3C5 establishes Phase 1 equilibrium for Nikolai thread. Six months post-Broadcast, six months post-tribunal. The discharged soldier at Vladivostok perimeter (where field log began, 2161). Voluntary presence — not ordered, chosen. Aggregate speaks continuously (not Jarek — person lost in population). Honest reports leaked into operational practice (NCO: "We adjusted"). Field log continues, lengthening. The horror is not the void. The horror is that standing at a perimeter voluntarily, without orders, writing observations no one will read, is the first voluntary act of his career. Chapter rhythm enacts this: steady, observational, the pace of witness. The perimeter continued. The witness chose to continue.
+
+**Comparison to B2 Ch 49:**
+- B2 Ch 49: "Accuracy" — tribunal, conviction, discharge, Lagos exterior, field log in kit, "no destination and no institution to deliver the truth to"
+- B3 Ch 5: "Voluntary" — Vladivostok perimeter, six months later, field log opened and written in, voluntary presence, "the first voluntary act of his career"
+- Together they bracket Nikolai's post-discharge arc: B2 Ch 49 = tribunal endpoint, institutional separation, field log as object. B3 Ch 5 = voluntary beginning, perimeter choice, field log as practice. The soldier without orders learning what choice means.
+
+**Field Log Echo Evolution:**
+- B1 Ch 11: First shown entry — elaborate, observational, "acoustic mimicry. Doctrine is clear."
+- B1 Ch 38: Blank after BLACKWEIR — "The field log was blank. He had nothing to write."
+- B2 Ch 5: Compressed timestamps — "no elaboration"
+- B2 Ch 25: Honest entry — "The field log and the official report said the same thing tonight."
+- B2 Ch 41: Terminal entry as serving officer — "This is the last entry written by a serving officer."
+- B2 Ch 49: Field log as object — "fifteen years of the truth and no destination"
+- **B3 Ch 5: Longest entry shown — seven paragraphs, private testimony, "No elaboration required. The observation is the elaboration."**
+
+The field log that was blank (B1 Ch 38), then compressed (B2 Ch 5), then honest (B2 Ch 25), then terminal (B2 Ch 41), then object (B2 Ch 49) has become testimony (B3 Ch 5). The entries are lengthening. The institutional compression is gone. The private record is becoming the only record. The field log is evolving toward its B3 endpoint: publication under his own name.
 
 ---
