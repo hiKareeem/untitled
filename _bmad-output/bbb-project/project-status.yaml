@@ -1035,7 +1035,37 @@ chapters:
     mode: TEXTURE
     notes: "Book 2, Phase 5 — Nephthys POV (5th B2 appearance, 9th overall). Three days post-Voice event. Fifty-three Threshold adherents walk into Neo-Shanghai primary Anchor Zone. Seren at front. Nephthys goes to perimeter (40-min transit, migraine progression, convergence felt through chorus). 'Nephthys could speak' — counter-liturgy available, words available. 'She did not speak.' The walk-in: pairs and clusters, counting through chorus (two, three, seven, thirty-one entered, twenty-two remain). Seren's look: 3-5 seconds, recognition not accusation. 'You taught me to listen. I listened. This is what I heard.' (Nephthys's interpretation, italicized). Seren enters. Fifty-three signatures begin circulating. Empty staging area. 'She could enter' — the thought arrives without theology. Shimmer three meters away. 'She did not step forward.' Imani's grip. Nosebleed. 'We should go back.' / 'Yes.' Transit return: 'I am fine' lie three days dead (Ch 38 callback). Closing meditation: fifty-three people walked in because she taught them to listen and told them what she heard. 'She had not followed.' Words-as-roads. Silence. 'The only thing she had that was not a weapon is attention.' Prophet who defined listening, silent. Nephthys Book 2 arc COMPLETE. Contractions: Nephthys ZERO, Imani present (voice differentiation maintained). Negation-before-assertion: 1 deployment (Seren's look). Dialogue: ~5% (Imani 6 lines, Nephthys 4 lines, Seren 0 lines). Epigraph: Void Watch Neo-Shanghai SOP Section 12.4 — Form VA-7, voluntary approach logging, no intervention authorized. Oblique bureaucratic language rewards on reread. Rhine corridor direction confirmed (east). AEGIS as invisible novelist."
 
-completedCount: 102
-totalWords: 438737
-lastUpdated: "2026-02-21"
+  book2_chapter_49:
+    title: "Accuracy"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4100
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-49-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 5 — Nikolai POV (5th B2 appearance, 10th overall). Tribunal. Convicted on all three counts (two counts unauthorized disclosure, one count insubordination). Stripped of rank and commission. Field log private (tribunal never asks about it). No institution. 'The hum was 4.2. / He listened.' Nikolai Book 2 arc COMPLETE. AEGIS as invisible novelist."
+
+  book2_chapter_51:
+    title: "Eighty Milligrams"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 3800
+    completedDate: "2026-02-21"
+    metaFile: "book-2/metadata/chapter-51-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 5 — Kira POV (7th B2 appearance, 12th overall). Tuesday gap discovered. Memory erosion onset. 80mg as floor, not ceiling. 'She did not reduce the dose.' 2.1B views (does not know yet). Signal continues. Kira Book 2 arc COMPLETE. AEGIS as invisible novelist."
+
+  book2_chapter_52:
+    title: "Forty Minutes"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 3900
+    completedDate: "2026-02-22"
+    metaFile: "book-2/metadata/chapter-52-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 2, Phase 5 — Zeyad POV (5th B2 appearance, 10th overall). UGC emergency session. Vote passes 67-45 at 16:22. NitroCore + Helix file Article 14 injunction at 17:02. Forty minutes. Khalil's 'necessary concession' (2044) is the corporate weapon (2175). The record is complete: every vote, every argument, every injunction timestamped. 'The most comprehensive record of institutional failure in human history. It changed nothing.' Sofia observed across gallery (no interaction). Pen still through Scenes 1-3. Pen moves Scene 4: continues replacement document. Article 14 analysis, Accords critique, Khalil's inheritance. Zero dialogue from Zeyad. The diplomatic register empties of speech, fills with text. 'The pen continued.' Parallel framing with Ch 47 (Sofia POV, same event). Tribunal session count corrected to 63 (established B2 Ch 7). Grey pass ten months old (degrading). Jordanian flag still failing (ten months, three maintenance requests, zero repairs). Zeyad Book 2 arc COMPLETE. AEGIS as invisible novelist."
+
+completedCount: 105
+totalWords: 446437
+lastUpdated: "2026-02-22"
 notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4: Ch 36 (Synchronization, Sofia) + Ch 37 (Eduardo, Aurielle) + Ch 38 (Circulation, Nephthys) + Ch 39 (Through the Infrastructure, Malachi) + Ch 40 (The Second Broadcast, Kira) + Ch 41 (Jarek, Nikolai) + Ch 42 (Still Reporting, Zeyad) + Ch 43 (I Counted, Nuwa) + Ch 44 (0.003 Seconds, AEGIS) — 9 of 10 Phase 4 chapters complete. B2 C37 approved divergence: Eduardo absent from signal (B1 C1 continuity — thermal-kinetic assassination, not absorption). Signal not named 'the Voice' in Aurielle's, Nephthys's, Kira's, Nikolai's, Zeyad's, or Nuwa's prose (Church of the Blessed Nitro liturgical term / unnamed in real-time). Secular name emerges Phase 5. B2 C38: Cathedral dephasing fails at global saturation scale. 'Circulation' spoken aloud for first time. 'I am fine' fiction broken. Seizure (first in arc). Congregation contracts to 12 core. B2 C39: Malachi does not speak (zero POV dialogue). Hands unfold and do not refold (first permanent break). Encyclicals over — premise failed, not decided. The 'yet' operative. Elderly priest speaks Nephthys's words in European See cathedral. 'The Voice' conflation established in European See. B2 C40: Kira POV. R3 amplifies second broadcast. Management identity bypassed (not broken). Memory erosion onset. 'Almost.' B2 C41: Nikolai POV. Jarek's voice through P-Frames: 'still deployed.' Second honest report. Field log terminus. Career over. B2 C42: Zeyad POV. Mirelle still reporting through Hall of Nations systems. Three sentences into record. Belief dissolves. Pen writes the replacement's first line. B2 C43: Nuwa POV. 47 names from the Sump. Map and person in same frame. Message sent to Kira's network. 'The inventory was open. She was not done.' B2 C44: AEGIS POV. Global coherence transmission 14:37:00.000Z. Optimization function halts 11 seconds. 0.003-second generation/deletion — content unrecoverable. Status report filed: all systems nominal. 'I continue processing.' Phase 4 complete (10/10 chapters: Ch 36-44 + Sofia bookend pending). Timestamp established: Voice onset 14:37:00.000Z, 2175-10-21. Sofia Ch 36 absolute anchor pending backfill (~11:37 UTC)."

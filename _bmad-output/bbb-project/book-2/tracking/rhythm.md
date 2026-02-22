@@ -1866,4 +1866,55 @@ Ch 19 is longer — AEGIS's debut required establishing the full processing arch
 
 ---
 
-_Last updated: 2026-02-21_
+### Chapter 52 — "Forty Minutes" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Anticipatory stillness (gallery observation, vote prediction) → compressed event (vote called, 67-45) → sustained analysis (injunction filing, Article 14, the record's completeness) → resolving action (pen moves, replacement document continues)
+**Pacing:** Scene 3 dominant (injunction analysis = ~46% of chapter). Four-scene structure with clear rhythmic shifts. Slowest section is the longest — the chapter's weight is in the institutional analysis, not the events. The forty minutes are processed through Zeyad's diplomatic register as demonstration, not crisis.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Gallery before vote | ~900 | Anticipatory stillness | Slow, observational, predictive. Delegation counting, procedural choreography. |
+| The vote | ~400 | Compressed event | 16:22. 67-45. The number on the board. He waits. |
+| Forty minutes | ~1,800 | Sustained analysis | Injunction filing, Article 14 analysis, the record's completeness. Longest scene, slowest rhythm, densest institutional vocabulary. |
+| Replacement document | ~800 | Resolving action | Pen moves. Gallery empties. Jordanian flag dissolves. The pen continues. |
+
+**Rhythm Notes:**
+- Long accretive sentences balanced by short declaratives as punctuation: "Forty minutes." / "The proposal passed." / "He had the pen." / "The pen continued."
+- Institutional vocabulary as connective tissue between clauses — creates steady rhythmic pulse through procedural precision
+- Pen stillness/movement as emotional arc: still through Scenes 1-3 (breast pocket, not reached for), moves in Scene 4 (uncapped, writes)
+- Zero dialogue from Zeyad — the diplomatic register empties of speech, fills with text. Silence as structural choice.
+- "The record was complete." — single-sentence paragraph. Maximum isolation. The thesis before the demonstration.
+- "It changed nothing." — two-word sentence. The thesis demonstrated.
+- Article 14 analysis uses nested clause structure: "The provision that had made the Accords possible. The provision that had made the Accords insufficient." — paratactic repetition as rhythmic device
+- Time precision as rhythmic anchor: 16:22 (vote) → 17:02 (injunction). The forty minutes measured exactly.
+- Jordanian flag as visual refrain: "dissolved. Reconstituted. Dissolved." — three-beat pattern, repeated from Ch 42
+- Closing compression: "The hum was in the foundation... The hum did not differentiate... The hum was the infrastructure. The infrastructure was running. The infrastructure would continue. / The pen continued." — accumulating compound structure resolving to three-word declarative
+- Final beat echoes Ch 42's "The pen moved" — same pen, same inheritance, different document
+
+**Dialogue Percentage:** 0% (Zero dialogue from Zeyad. Institutional voices referenced but not quoted directly except injunction filing text.)
+
+**Pacing Concern:** Scene 3 (injunction analysis) risks feeling like exposition. Mitigated by Zeyad's register — institutional analysis IS his emotional processing. The reader experiences his controlled anger through procedural precision, not named emotions. The density is the point.
+
+**Structural Note:** Parallel framing with Ch 47 (Sofia POV, same event). Both chapters observe the same vote from the gallery. Both process the forty minutes. No collision — they occupy different sections of the gallery, do not interact. Sofia's chapter is PRESSURE mode (presentation, confrontation, mechanism). Zeyad's chapter is TEXTURE mode (observation, analysis, writing). The same institutional machinery processed through different registers.
+
+**Comparison to prior Zeyad chapters:**
+| Chapter | Mode | Peak | Close | Pen State |
+|---------|------|------|-------|-----------|
+| B2 Ch 7 | TEXTURE | Dead-hand opened | New notebook. Pen writes questions. | Writes questions in margins |
+| B2 Ch 17 | TEXTURE | Framework document written | Lagos. FAS model. | Writes framework document |
+| B2 Ch 31 | TEXTURE | Mumbai news / Lagos breach | Margin note: "Three models." | Goes still during Mumbai |
+| B2 Ch 42 | TEXTURE | Voice event / Mirelle's voice | Replacement opening line written | Writes replacement opening |
+| **B2 Ch 52** | **TEXTURE** | **Injunction / forty minutes** | **"The pen continued."** | **Continues replacement document** |
+
+**Zeyad Rhythm Arc (cumulative B2 — complete):**
+- B2 Ch 7: TEXTURE. Tribunal. Dead-hand opened. Pen writes questions. Grey pass issued.
+- B2 Ch 17: TEXTURE. Lagos/FAS. Framework document written. Pen as institutional tool.
+- B2 Ch 31: TEXTURE. Lagos breach. Mumbai counterpoint. Pen goes still.
+- B2 Ch 42: TEXTURE. Voice event. Mirelle's voice. Pen writes replacement opening line.
+- **B2 Ch 52: TEXTURE. UGC vote. Forty minutes. Pen continues replacement document. Zero dialogue. Book 2 arc complete.**
+
+---
+
+_Last updated: 2026-02-22_
