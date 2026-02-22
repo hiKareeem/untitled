@@ -1,0 +1,362 @@
+---
+# Book 2 Chapter Index — Fast POV Lookup
+# Generated: 2026-02-22
+# Use: Quick reference for chapter-writer workflow to locate preceding POV chapters
+
+book: 2
+total_chapters: 53  # 52 chapters + 1 AEGIS interlude
+word_count: ~250000
+
+chapters:
+  1:
+    pov: "Aurielle"
+    title: "The Chair"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    
+  2:
+    pov: "Nephthys"
+    title: "Counter-Liturgy"
+    phase: 1
+    location: "Neo-Shanghai Cathedral"
+    
+  3:
+    pov: "Malachi"
+    title: "The Locked Study"
+    phase: 1
+    location: "European See"
+    note: "Malachi POV debut"
+    
+  4:
+    pov: "Sofia"
+    title: "0.7 Hz"
+    phase: 1
+    location: "VEC HQ"
+    
+  5:
+    pov: "Nikolai"
+    title: "Operational Losses"
+    phase: 1
+    location: "Military debriefing facility"
+    
+  6:
+    pov: "Kira"
+    title: "Twelve Million Views"
+    phase: 1
+    location: "PCC Bay Area"
+    
+  7:
+    pov: "Zeyad"
+    title: "Due Process"
+    phase: 1
+    location: "New Geneva"
+    
+  8:
+    pov: "Nuwa"
+    title: "Somewhere That Isn't"
+    phase: 1
+    location: "Neo-Shanghai Mid-Levels"
+    
+  9:
+    pov: "Fuxi"
+    title: "The Hum Is Different"
+    phase: 1
+    location: "Neo-Shanghai Anchor perimeter"
+    note: "Final Fuxi chapter"
+    
+  10:
+    pov: "Aurielle"
+    title: "Opportunities"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    note: "SHEPHERD introduced"
+    
+  11:
+    pov: "Sofia"
+    title: "The Assembly"
+    phase: 2
+    location: "VEC HQ / Black Babel"
+    note: "Mid-truth assembly begins"
+    
+  12:
+    pov: "Aurielle"
+    title: "The Pivot"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  13:
+    pov: "Nephthys"
+    title: "Confirmation"
+    phase: 2
+    location: "Neo-Shanghai Cathedral"
+    
+  14:
+    pov: "Malachi"
+    title: "Three Drafts"
+    phase: 2
+    location: "European See"
+    
+  15:
+    pov: "Kira"
+    title: "The Network"
+    phase: 2
+    location: "PCC Bay Area"
+    
+  16:
+    pov: "Nikolai"
+    title: "Still"
+    phase: 2
+    location: "Mid-sized city deployment"
+    
+  17:
+    pov: "Sofia"
+    title: "Publication"
+    phase: 2
+    location: "Black Babel relay"
+    note: "Mid-truth goes public"
+    
+  18:
+    pov: "Zeyad"
+    title: "Lagos"
+    phase: 2
+    location: "Lagos / FAS"
+    
+  19:
+    pov: "Nuwa"
+    title: "Language"
+    phase: 2
+    location: "Neo-Shanghai Mid-Levels"
+    
+  20:
+    pov: "AEGIS"
+    title: "Classification Error"
+    phase: 2
+    location: "Orbit"
+    note: "AEGIS POV debut"
+    
+  21:
+    pov: "Aurielle"
+    title: "Watch What They Do"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  22:
+    pov: "Nephthys"
+    title: "The Split"
+    phase: 2
+    location: "Neo-Shanghai Cathedral"
+    
+  23:
+    pov: "Kira"
+    title: "Testimony Chain"
+    phase: 2
+    location: "PCC Bay Area"
+    
+  24:
+    pov: "Malachi"
+    title: "The Second Draft Publishes"
+    phase: 2
+    location: "European See"
+    
+  25:
+    pov: "Nikolai"
+    title: "Commission"
+    phase: 2
+    location: "Deployment site"
+    
+  26:
+    pov: "Sofia"
+    title: "The Ground Doesn't Move"
+    phase: 2
+    location: "Mobile"
+    
+  27:
+    pov: "Zeyad"
+    title: "The Alternative"
+    phase: 2
+    location: "Lagos"
+    
+  28:
+    pov: "Nuwa"
+    title: "Inputs"
+    phase: 2
+    location: "Neo-Shanghai Mid-Levels"
+    
+  29:
+    pov: "Aurielle"
+    title: "Secondary Anchor Zone"
+    phase: 3
+    location: "Neo-Shanghai Spires"
+    note: "SHEPHERD first trial"
+    
+  30:
+    pov: "Nephthys"
+    title: "The Prophet and the Antenna"
+    phase: 3
+    location: "Neo-Shanghai Cathedral / Bay Area"
+    note: "Nephthys-Kira convergence scene"
+    
+  31:
+    pov: "Kira"
+    title: "Same Signal"
+    phase: 3
+    location: "Neo-Shanghai / Bay Area"
+    note: "Nephthys-Kira convergence scene"
+    
+  32:
+    pov: "Malachi"
+    title: "The Schism"
+    phase: 3
+    location: "European See"
+    
+  33:
+    pov: "Sofia"
+    title: "Sacrifice Districts"
+    phase: 3
+    location: "Mobile / monitoring"
+    
+  34:
+    pov: "AEGIS"
+    title: "Recalibration"
+    phase: 3
+    location: "Orbit"
+    
+  35:
+    pov: "Nikolai"
+    title: "Lagos Deployment"
+    phase: 3
+    location: "Lagos"
+    
+  36:
+    pov: "Zeyad"
+    title: "The Model That Works"
+    phase: 3
+    location: "Lagos"
+    
+  37:
+    pov: "Aurielle"
+    title: "Eduardo"
+    phase: 3
+    location: "Neo-Shanghai Spires"
+    note: "Pre-Mumbai"
+    
+  38:
+    pov: "AEGIS"
+    title: "Mumbai"
+    phase: 3
+    location: "Orbit / Mumbai"
+    note: "Autonomous fire — 2.3M killed"
+    
+  39:
+    pov: "Kira"
+    title: "The Relay"
+    phase: 3
+    location: "PCC Bay Area"
+    note: "Mumbai aftermath"
+    
+  40:
+    pov: "Nikolai"
+    title: "Doctrine Automated"
+    phase: 3
+    location: "Lagos"
+    note: "Mumbai aftermath"
+    
+  41:
+    pov: "Sofia"
+    title: "The Military Solution"
+    phase: 3
+    location: "Mobile"
+    note: "Mumbai aftermath"
+    
+  42:
+    pov: "Aurielle"
+    title: "The Machine Consuming Itself"
+    phase: 4
+    location: "Neo-Shanghai Spires"
+    note: "Mumbai aftermath"
+    
+  43:
+    pov: "Malachi"
+    title: "The Threshold Wing"
+    phase: 4
+    location: "European See"
+    
+  44:
+    pov: "Nephthys"
+    title: "Denouncement"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    
+  45:
+    pov: "Zeyad"
+    title: "Mirelle"
+    phase: 4
+    location: "New Geneva"
+    note: "Pre-Voice"
+    
+  46:
+    pov: "Sofia"
+    title: "Eleven Seconds"
+    phase: 4
+    location: "Mobile"
+    note: "The Voice event"
+    
+  47:
+    pov: "Aurielle"
+    title: "Eduardo's Voice"
+    phase: 4
+    location: "Neo-Shanghai Spires"
+    note: "The Voice event"
+    
+  48:
+    pov: "AEGIS"
+    title: "Generated/Deleted"
+    phase: 4
+    location: "Orbit"
+    note: "The Voice event"
+    
+  49:
+    pov: "Nephthys"
+    title: "Circulation, Not Prison"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    note: "The Voice event"
+    
+  50:
+    pov: "Kira"
+    title: "The Second Broadcast"
+    phase: 5
+    location: "PCC Bay Area"
+    
+  51:
+    pov: "Nikolai"
+    title: "Honest Report"
+    phase: 5
+    location: "Lagos"
+    note: "Court-martial incoming"
+    
+  52:
+    pov: "Zeyad"
+    title: "Injuncted"
+    phase: 5
+    location: "New Geneva"
+    
+  53:
+    pov: "Nuwa"
+    title: "Messages Kira"
+    phase: 5
+    location: "Neo-Shanghai Mid-Levels"
+    note: "Book 2 closes on Nuwa"
+
+# POV Chapter Distribution
+pov_distribution:
+  Aurielle: [1, 10, 12, 21, 29, 37, 42, 47]
+  Nephthys: [2, 13, 22, 30, 44, 49]
+  Malachi: [3, 14, 24, 32, 43]
+  Sofia: [4, 11, 17, 26, 33, 41, 46]
+  Kira: [6, 15, 23, 31, 39, 50]
+  Nikolai: [5, 16, 25, 35, 40, 51]
+  Zeyad: [7, 18, 27, 36, 45, 52]
+  Nuwa: [8, 19, 28, 53]
+  AEGIS: [20, 34, 38, 48]
+  Fuxi: [9]

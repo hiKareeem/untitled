@@ -1,0 +1,349 @@
+---
+# Book 1 Chapter Index — Fast POV Lookup
+# Generated: 2026-02-22
+# Use: Quick reference for chapter-writer workflow to locate preceding POV chapters
+
+book: 1
+total_chapters: 53  # Prologue + 51 chapters + Epilogue
+word_count: ~260000
+
+chapters:
+  prologue:
+    pov: "Vantanen"
+    title: "Arctic-7"
+    phase: 1
+    location: "Arctic-7"
+    
+  1:
+    pov: "Aurielle"
+    title: "The Heir"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    
+  2:
+    pov: "Mirelle"
+    title: "The Feed Says Relocated"
+    phase: 1
+    location: "Neo-Shanghai Sump"
+    
+  3:
+    pov: "Nephthys"
+    title: "The Pain Is Signal"
+    phase: 1
+    location: "European Outlands"
+    
+  4:
+    pov: "Fuxi"
+    title: "Monitor 6"
+    phase: 1
+    location: "Neo-Shanghai Deep Sump"
+    
+  5:
+    pov: "Sofia"
+    title: "Instrument Drift"
+    phase: 1
+    location: "VEC HQ"
+    
+  6:
+    pov: "Zeyad"
+    title: "The Portrait in the Chamber"
+    phase: 1
+    location: "New Geneva"
+    
+  7:
+    pov: "Aurielle"
+    title: "The Real Briefing"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    
+  8:
+    pov: "Fuxi"
+    title: "White Noise"
+    phase: 1
+    location: "Neo-Shanghai Sump"
+    
+  9:
+    pov: "Mirelle"
+    title: "Dead Drop"
+    phase: 1
+    location: "Neo-Shanghai Sump"
+    
+  10:
+    pov: "Kira"
+    title: "The Gap"
+    phase: 1
+    location: "PCC Bay Area"
+    
+  11:
+    pov: "Nikolai"
+    title: "Acoustic Mimicry"
+    phase: 2
+    location: "Neo-Shanghai Mid-Levels"
+    
+  12:
+    pov: "Aurielle"
+    title: "The Real Numbers"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  13:
+    pov: "Mirelle"
+    title: "The Pattern"
+    phase: 2
+    location: "Neo-Shanghai Resonance District"
+    
+  14:
+    pov: "Nephthys"
+    title: "The Commune"
+    phase: 2
+    location: "European Outlands"
+    
+  15:
+    pov: "Sofia"
+    title: "Correlation 0.94"
+    phase: 2
+    location: "VEC HQ"
+    
+  16:
+    pov: "Fuxi"
+    title: "Private Log"
+    phase: 2
+    location: "Neo-Shanghai Deep Sump"
+    
+  17:
+    pov: "Zeyad"
+    title: "The Back-Channel"
+    phase: 2
+    location: "New Geneva"
+    
+  18:
+    pov: "Kira"
+    title: "Signal"
+    phase: 2
+    location: "PCC Bay Area"
+    
+  19:
+    pov: "Aurielle"
+    title: "Deferred Maintenance"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  20:
+    pov: "Nikolai"
+    title: "The Crack"
+    phase: 2
+    location: "Neo-Shanghai Sump"
+    
+  21:
+    pov: "Mirelle"
+    title: "Matched Districts"
+    phase: 2
+    location: "Neo-Shanghai (mobile)"
+    
+  22:
+    pov: "Fuxi"
+    title: "The Spike"
+    phase: 2
+    location: "Neo-Shanghai Deep Sump"
+    
+  23:
+    pov: "Nikolai"
+    title: "Forward Position"
+    phase: 3
+    location: "Neo-Shanghai Sump perimeter"
+    
+  24:
+    pov: "Mirelle"
+    title: "Below Level 12"
+    phase: 3
+    location: "Neo-Shanghai Deep Sump"
+    
+  25:
+    pov: "Aurielle"
+    title: "Confluence"
+    phase: 3
+    location: "Neo-Shanghai Spires"
+    
+  26:
+    pov: "Nephthys"
+    title: "The Wound in the World"
+    phase: 3
+    location: "Neo-Shanghai Sump"
+    
+  27:
+    pov: "Sofia"
+    title: "The Non-Physical Variable"
+    phase: 3
+    location: "VEC HQ"
+    
+  28:
+    pov: "Fuxi"
+    title: "The Network"
+    phase: 3
+    location: "Neo-Shanghai Sump"
+    
+  29:
+    pov: "Mirelle"
+    title: "The Flood Valves"
+    phase: 3
+    location: "Neo-Shanghai Deep Sump"
+    
+  30:
+    pov: "Zeyad"
+    title: "The Mechanism That Doesn't Exist"
+    phase: 3
+    location: "New Geneva"
+    
+  31:
+    pov: "Kira"
+    title: "Cultural Engagement"
+    phase: 3
+    location: "Neo-Shanghai Spires/Sump"
+    
+  32:
+    pov: "Nikolai"
+    title: "Class Three"
+    phase: 3
+    location: "Neo-Shanghai Sump Sector 7"
+    
+  33:
+    pov: "Sofia"
+    title: "They Already Knew"
+    phase: 3
+    location: "VEC HQ"
+    
+  34:
+    pov: "Mirelle"
+    title: "Dead-Hand"
+    phase: 3
+    location: "Neo-Shanghai Sump"
+    
+  35:
+    pov: "Nephthys"
+    title: "The First Congregation"
+    phase: 3
+    location: "Neo-Shanghai Sump Cathedral"
+    
+  36:
+    pov: "Aurielle"
+    title: "Projected Casualties"
+    phase: 3
+    location: "Neo-Shanghai Spires"
+    
+  37:
+    pov: "Aurielle"
+    title: "The Protocol"
+    phase: 4
+    location: "Neo-Shanghai Spires"
+    note: "BLACKWEIR — Institutional wave"
+    
+  38:
+    pov: "Nikolai"
+    title: "Perimeter"
+    phase: 4
+    location: "Neo-Shanghai Sump perimeter"
+    note: "BLACKWEIR — Institutional wave"
+    
+  39:
+    pov: "Fuxi"
+    title: "Pressure Doors"
+    phase: 4
+    location: "Neo-Shanghai Deep Sump"
+    note: "BLACKWEIR — Kill Zone"
+    
+  40:
+    pov: "Mirelle"
+    title: "The Infrastructure Was Always Designed To—"
+    phase: 4
+    location: "Neo-Shanghai Sump"
+    note: "BLACKWEIR — Kill Zone. Absorbed mid-sentence."
+    
+  41:
+    pov: "Sofia"
+    title: "The Data"
+    phase: 4
+    location: "VEC HQ"
+    note: "BLACKWEIR — Kill Zone (breath)"
+    
+  42:
+    pov: "Nuwa"
+    title: "Still"
+    phase: 4
+    location: "Neo-Shanghai Sump"
+    note: "BLACKWEIR — Kill Zone. POV DEBUT."
+    
+  43:
+    pov: "Kira"
+    title: "Eleven Seconds"
+    phase: 4
+    location: "PCC Bay Area"
+    note: "BLACKWEIR — Radiation"
+    
+  44:
+    pov: "Nephthys"
+    title: "They Are All Still Here"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    note: "BLACKWEIR — Radiation"
+    
+  45:
+    pov: "Zeyad"
+    title: "The Partial Transmission"
+    phase: 4
+    location: "New Geneva"
+    note: "BLACKWEIR — Radiation"
+    
+  46:
+    pov: "Aurielle"
+    title: "Congratulations"
+    phase: 5
+    location: "Neo-Shanghai Spires"
+    
+  47:
+    pov: "Nikolai"
+    title: "Operational Losses"
+    phase: 5
+    location: "Neo-Shanghai"
+    
+  48:
+    pov: "Nephthys"
+    title: "The Mass Grave"
+    phase: 5
+    location: "Neo-Shanghai Cathedral"
+    
+  49:
+    pov: "Fuxi"
+    title: "The Quietest Scene"
+    phase: 5
+    location: "Neo-Shanghai Anchor perimeter"
+    
+  50:
+    pov: "Zeyad"
+    title: "The Record"
+    phase: 5
+    location: "New Geneva"
+    
+  51:
+    pov: "Kira"
+    title: "Unsigned"
+    phase: 5
+    location: "PCC Bay Area"
+    
+  epilogue:
+    pov: "—"
+    title: "The Hum"
+    phase: 5
+    location: "Neo-Shanghai"
+
+# POV Chapter Distribution
+pov_distribution:
+  Aurielle: [1, 7, 12, 19, 25, 36, 37, 46]
+  Mirelle: [2, 9, 13, 21, 24, 29, 34, 40]
+  Nephthys: [3, 14, 26, 35, 44, 48]
+  Fuxi: [4, 8, 16, 22, 28, 39, 49]
+  Sofia: [5, 15, 27, 33, 41]
+  Zeyad: [6, 17, 30, 45, 50]
+  Kira: [10, 18, 31, 43, 51]
+  Nikolai: [11, 20, 23, 32, 38, 47]
+  Nuwa: [42]
+  Vantanen: ["prologue"]
