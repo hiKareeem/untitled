@@ -958,4 +958,44 @@ The escalation: classification error (the model breaks) → atrocity (the model 
 
 ---
 
+### Chapter 46 — "The Grid Continues" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| **Architecture of Power** | **Dominant** | SHEPHERD terminated using the same institutional vocabulary that built it. Template, fields, authorization chain, propagation confirmations — the machine dismantles what the machine built, using the same tools. The Chair does not need the board to terminate what the Chair authorized. The board will receive the termination in the quarterly package. By then it will be archived. The architecture is self-executing in both directions. |
+| **Systemic Complicity** | **Dominant** | The horror of Phase 5: the machine does not need the Lie to function. It never did. SHEPHERD was optimization built on top of sufficiency. The grid ran before SHEPHERD and runs after it. The dependency is unchanged. "We manage the infrastructure." The distinction between managing the void and managing the infrastructure is operational, not moral. The grid still draws from the same source. The complicity is structural, not programmatic. Terminating the program does not terminate the complicity. |
+| **Progress Requires Atrocity** | **Strong (ambient)** | The grid continues at full capacity. The quarterly is in six weeks. The numbers will be correct. The atrocity is not in the past — it is in the infrastructure. The infrastructure is running. The infrastructure will continue running. Progress (the grid, the Spires, civilization as she understands it) requires the infrastructure. The infrastructure required SHEPHERD. SHEPHERD required the Lie. The Lie is dead. The infrastructure continues. |
+| **The Cost of Knowing** | **Strong** | Three vocabularies for the same eleven seconds: *the synchronization event* (NitroCore), *the Voice* (Church), *the Broadcast* (media). Aurielle uses none of them. The institutional register processes it as "the event" without qualification — not resistance, the register's limit. Knowing what the event was requires choosing a vocabulary. Choosing a vocabulary requires deciding what the event was. She has decided what to do about SHEPHERD. What the event *was* is the question that lives in the space where the translation used to arrive. |
+| **Commodification of Suffering** | **Moderate** | The termination document's institutional language: "Operational premise invalidated by synchronization event data. Directed atmospheric absorption protocol no longer consistent with observed void behavioral profile." The vocabulary that processed people as throughput now processes the void's testimony as a data point that revised the operational parameters. The vocabulary is the same vocabulary. The content is different. The vocabulary does not know the difference. |
+| **Irrelevance of Individual Being** | **Background** | Eduardo not in the void's inventory. The handkerchief in the drawer. The scaling timeline on the credenza. Eduardo as physical infrastructure — the desk, the wear on the left side, the drawer. Not grief. Inventory. The man who built the desk is not in the system that runs through it. His absence from the void's census is the chapter's unspoken argument: the system consumes what it touches; Eduardo died outside it; the handkerchief is the only object that carries him and it has not been opened in ten months. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The termination is executed in the same institutional vocabulary that built the program — the architecture is self-executing in both directions. The machine dismantles what the machine built. The machine continues. The Lie is dead. The machine doesn't need the Lie. The horror is not that the program was terminated. The horror is that the grid was always sufficient without it.
+
+**Epigraph Integration:** NitroCore Corporate Communications, Emergency Operations Bulletin (automated distribution) — "No action required."
+- Thematic function: Echo of the DN-4 notification from C34 ("no action required" for 2.3M dead). The same four words for the void speaking through every conduit on Earth. The institutional vocabulary produces the same output for both events. The vocabulary does not distinguish. The vocabulary is the argument.
+- AEGIS as invisible novelist: the epigraph is the machine's first response to the event — automated, distributed, six hours post-event. The chapter is the machine's second response — three days later, deliberate, executed by the Chair. Both responses are the same: operations continue at full capacity.
+
+**Naming Framework (established C46):**
+- *The synchronization event* — NitroCore internal designation. Avoids theological freight, describes the mechanism.
+- *the Voice* — Church of the Blessed Nitro liturgical term. Pre-existing. The hum as divine communication. The event confirms/weaponizes existing liturgy.
+- *the Broadcast* — secular/media name. Established Phase 5, first named in C46. Distinct from Church vocabulary. Describes what happened (a broadcast through every connected system).
+- Aurielle's interiority: *the event* — unqualified, unaffiliated. The register's limit, not resistance.
+
+**Phase 5 Opening Thread (Ch 45–46):**
+- Ch 45 (Sofia): Transmission processed. Subject/object rupture. De-escalation proposal at 20%. Policy recommendation. Sent at dawn.
+- **Ch 46 (Aurielle): SHEPHERD terminated. "We manage the infrastructure." The Broadcast named. "She opened the quarterly schedule."**
+- Phase 5 continues: Ch 47 (Sofia, UGC session — vote passes 60-40, NitroCore injuncts in 40 min).
+
+**Aurielle's Thematic Arc — Book 2 Complete:**
+- C1: The Chair. SHEPHERD unnamed. The machine as identity.
+- C10: SHEPHERD named. Threshold crossed without marking. The input was people.
+- C12: Mid-truth absorbed. The vocabulary shifts. The machine absorbs the truth.
+- C23: SHEPHERD operational. The acoustic anomaly filed. "She was the mechanism."
+- C23A: Ground level. The signal classified. The cold enters the register.
+- C34: Kill chain. Translation absent. The machine used her data. "She did not open the next report."
+- C37: Eduardo not in the void. The premise collapsed. The Lie dead. The machine continues.
+- **C46: SHEPHERD terminated. The machine continues without the Lie. "She opened the quarterly schedule." The horror is the continuation.**
+
+---
+
 _Last updated: 2026-02-21_

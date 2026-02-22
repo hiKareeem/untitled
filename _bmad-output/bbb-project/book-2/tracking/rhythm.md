@@ -1596,4 +1596,60 @@ Ch 19 is longer — AEGIS's debut required establishing the full processing arch
 
 ---
 
+### Chapter 46 — "The Grid Continues" (Aurielle Vasquez)
+
+**Mode:** PRESSURE
+**Tension Shape:** Archival stillness (opening) → sufficiency horror (grid without SHEPHERD) → procedural termination (template/signature/propagation) → Thorne exchange (premise/question/answer/handkerchief/"I know") → naming (three vocabularies, none hers) → continuation (quarterly schedule)
+**Pacing:** Three-beat compressed to two-beat (private exchange / alone). No boardroom. Termination executed unilaterally. Phase 5 quiet register throughout — lower density than C34/C37, more single-sentence paragraphs, more silence.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Opening — scaling timeline filed, grid without SHEPHERD | ~500 | Archival stillness | Slow, object-driven. The residue of C37 processed in three actions. |
+| Grid sufficiency section | ~400 | Sufficiency horror (ambient) | Dense institutional chain. The horror is the absence of horror. |
+| Hum / wrist stillness | ~200 | Stasis | Compressed. The body's report. |
+| Termination template | ~500 | Procedural | Institutional vocabulary executing itself. The shell in operation. |
+| Thorne exchange | ~700 | Rising-then-resolving | Dialogue-driven. Premise / question / answer / handkerchief / "I know." Fastest section. |
+| The Broadcast arrives | ~350 | Ambient | Three vocabularies. None hers. Filed. |
+| Closing — suite quiet, quarterly schedule | ~200 | Stasis → continuation | Maximum compression. Three-beat negative catalog + closing declarative. |
+
+**Rhythm Notes:**
+- Long-long-SHORT pattern sustained but at lower temperature than C34/C37. The density is Phase 5 density: institutional machinery at reduced register.
+- Opening paragraph's compound clause (~80 words recapping the C37 event) is the chapter's single high-density passage — earns its length by position (establishing temporal gap between then and now). Flag: could break after "seventy-two hours ago" if it reads too dense for Phase 5. Kareem's call.
+- "He did not argue." — single-sentence paragraph as rhythmic punctuation. The chapter's fastest beat.
+- Thorne's dialogue is the chapter's most compressed section: "The premise is gone." / "Yes." / "Then what do we do?" — each line shorter than the last. Staccato against Aurielle's longer processing paragraphs.
+- The Broadcast section is the chapter's most ambient — three vocabularies for one event, none of them hers, filed in a single paragraph. The naming arrives and is processed without ceremony.
+- Closing three-beat: "The wrist that did not rotate. The hum that did not change. The grid that did not stop." — rhythmically echoes C37's three stacked negations but inverts them: C37 negated *her actions* (refusals); C46 negates *changes* (stasis). The machine continuing is the argument.
+- Final sentence: "She opened the quarterly schedule." — subject-verb-object. The simplest closing in the Aurielle arc. Phase 5 does not produce weighted closings.
+
+**Dialogue Percentage:** ~18% (concentrated in Thorne exchange; opening, termination, and closing are solo narration)
+
+**Pacing Concern:** None flagged. Phase 5 quiet register is the correct mode. The chapter's horror operates through continuation, not event. The absence of fortissimo is the argument.
+
+**Structural Note:** Three-beat Aurielle structure (board/private/alone) compressed to two-beat (private exchange/alone). The boardroom is absent — termination executed unilaterally, propagated through the system without board session. The board will receive it in the quarterly package. By then it will be archived. The compression marks Phase 5: less institutional performance, more operational execution. The boardroom was the stage. Phase 5 does not need a stage.
+
+**Comparison to prior Aurielle chapters:**
+| Chapter | Mode | Peak | Close |
+|---------|------|------|-------|
+| B2 C1 | PRESSURE | SHEPHERD unnamed / board meeting | "The Chair opened the next report." |
+| B2 C10 | PRESSURE | SHEPHERD named / "Send me the projections" | Hands flat. Last page. |
+| B2 C12 | PRESSURE | Mid-truth absorbed / vocabulary shift | Wrist rotation not stopped. |
+| B2 C23 | PRESSURE | Acoustic anomaly filed / "The Chair opened the next report." | Echo. |
+| B2 C23A | PRESSURE | Signal classified / cold enters register | Standing, not sitting. |
+| B2 C34 | PRESSURE | 2.3M / "She did not open the next report." | First break. |
+| B2 C37 | PRESSURE | Eduardo not in signal / handkerchief sentence | Three stacked negations + inventory. |
+| **B2 C46** | **PRESSURE** | **"We manage the infrastructure." / "I know."** | **"She opened the quarterly schedule."** |
+
+**Aurielle Rhythm Arc (cumulative B2):**
+- B2 C1: PRESSURE. Board meeting. SHEPHERD unnamed. Closing echo established.
+- B2 C10: PRESSURE. Private briefing. SHEPHERD named. Threshold crossed without marking.
+- B2 C12: PRESSURE. Mid-truth absorbed. Vocabulary shift. Appendix not opened.
+- B2 C23: PRESSURE. Quarterly review. Acoustic anomaly filed. Closing echo repeated.
+- B2 C23A: PRESSURE. Ground level. Signal classified. Cold enters register.
+- B2 C34: PRESSURE. Kill chain. Translation absent. Closing echo broken.
+- B2 C37: PRESSURE. Eduardo. Signal. Premise collapsed. Three stacked negations.
+- **B2 C46: PRESSURE. Termination. "I know." The Broadcast. "She opened the quarterly schedule." Phase 5 complete.**
+
+---
+
 _Last updated: 2026-02-21_

@@ -311,5 +311,28 @@ Her silence is refusal — she will not perform legibility for systems that have
 
 ---
 
-_Last updated: 2026-02-10_
-_Updated by: Living Bible Workflow_
+## 7. The Transmission Event — Naming Framework
+
+> Established Phase 5, Book 2. The global 11-second broadcast of 2175-10-21, 14:37:00 UTC.
+> Different factions use different terms. Consistency by POV is mandatory.
+
+| Term | Used By | Register | Notes |
+|------|---------|----------|-------|
+| **the Voice** | Church of the Blessed Nitro (Malachi, Threshold, Listeners, Devoted) | Theological | Pre-existing liturgical term — "the hum as divine communication." The event confirms and weaponizes existing liturgy. The Church's word for God speaking through the infrastructure is now also the void speaking through the infrastructure. Ambiguity is intentional. |
+| **the Broadcast** | Secular media, general public | Journalistic | Established Phase 5, first named in B2 C46. Distinct from Church vocabulary. Describes what happened (a broadcast through every connected system). Use in media-facing prose, news cycle references, and POVs with secular orientation. |
+| **the synchronization event** | NitroCore, institutional corporate | Corporate | Internal designation. Avoids theological freight. Describes the mechanism. Used in NitroCore bulletins, board communications, and Aurielle's institutional register. |
+| **the transmission event** | Scientific/secular (Sofia, Erasure List, VEC) | Scientific | Already established in B2 C45. Consistent with Sofia's register. Neutral, mechanism-focused. |
+| **the transmission** | UGC, diplomatic (Zeyad) | Diplomatic | Neutral, goes into the minutes as such. Avoids both theological and corporate vocabulary. |
+| **the Signal** | Mage network (Kira) | Technical | Consistent with implant vocabulary and mage network terminology. |
+| **the event** | Aurielle (interiority only) | Shell-institutional | Unqualified, unaffiliated. The register's limit, not resistance. She does not choose a vocabulary because choosing requires deciding what the event was. |
+| *(no name)* | Nuwa | Silence | She counted. She does not name it. She describes what she heard. |
+| **the Voice** | Nephthys | Theological (inverted) | Uses the Church's word — but now it means something different than the Church intended. The prophet's vocabulary and the institution's vocabulary converge on the same term for opposite reasons. |
+
+**Note on the Church collision:** The Church's liturgical term *the Voice* predates the transmission event by decades. The event does not give the Church this word — the Church already had it. The event makes the word load-bearing in a new way. Malachi understands this distinction (from correspondence with Nephthys). The congregation does not. The Threshold exploits it.
+
+**Note on prose consistency:** Within any given chapter, use only the vocabulary appropriate to that chapter's POV. Cross-POV naming collisions are intentional and thematically productive — do not resolve them by standardizing to a single term.
+
+---
+
+_Last updated: 2026-02-21_
+_Updated by: Chapter-Writer workflow (B2 C46 — naming framework established)_

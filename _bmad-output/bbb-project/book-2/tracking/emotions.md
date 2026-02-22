@@ -876,4 +876,34 @@
 
 ---
 
+### Chapter 46 — "The Grid Continues" (Aurielle Vasquez)
+
+**Aurielle Vasquez (POV):**
+- **Entering State:** Post-C37. Three days after the transmission event. SHEPHERD premise collapsed. Institutional register a shell — rhythm without content. Wrist rotation stopped by the signal, not returned. Thorne's personal register opened once (handkerchief sentence). The Lie dead. The program continuing. The quarterly in six weeks.
+- **Emotional Arc:** Archival stillness (scaling timeline filed — the institutional reflex that processes documents into completed business) → sufficiency horror (the grid ran before SHEPHERD and runs after it; SHEPHERD was never necessary) → procedural termination (the vocabulary executing the termination the way it executed the program: cleanly, without residue) → Thorne exchange (the premise confirmed dead / the question asked / the answer given / the handkerchief sentence repeated / "I know") → naming (three vocabularies for the event, none of them hers, filed) → continuation (the quarterly schedule opened)
+- **Dominant Emotion:** Not grief. Not relief. Not moral awakening. The specific state of a person who has terminated the program, managed the infrastructure, and opened the quarterly schedule — and knows exactly what she is, and continues. The horror is not the termination. The horror is the continuation. The machine does not need the Lie. It never did.
+- **Key Emotional Beat:** "I know." Two words. The only non-institutional sentence she produces. Not the small voice — that is gone. Not the second track — that is gone. Something Phase 5 has produced in the space where the translation used to arrive: a minimal, non-institutional response that acknowledges the handkerchief and the drawer and Eduardo's absence from the void's inventory without the vocabulary to say any of those things. The institutional register resumes immediately. The crack is there. The wall is still the wall.
+- **Secondary Beat:** The termination document. She types the institutional vocabulary and the prose notes the gap: "The words were correct. The words did not describe what had happened." The gap is visible to her. She uses the vocabulary anyway. There is no second track to provide the translation. The translation is not missed. It is not needed. The vocabulary is what she has.
+- **Tertiary Beat:** The Broadcast arrives at 14:07. Three vocabularies for the same eleven seconds. She uses none of them. The institutional register processes it as "the event" without qualification — not resistance, the register's limit. Filed. Monitoring feed closed.
+- **Exiting State:** The executive suite quiet. Display wall: grid baseline data, twelve zones, stable. Handkerchief in the drawer. Scaling timeline on the credenza. Termination propagated. Quarterly in six weeks. She opened the quarterly schedule. The wrist that does not rotate. The hum that does not change. The grid that does not stop. She is one of three things that continue.
+- **Emotional Shift from C37:** C37 ends with three stacked negations and a closing inventory — the institutional register as empty reflex, the Lie dead, the program continuing, the premise gone. C46 ends with "She opened the quarterly schedule" — the simplest closing in the arc. The shift is from *suspension* (the Voice stopped everything, including the wrist rotation) to *continuation* (the machine resumes, she resumes, the quarterly resumes). The suspension is over. The continuation is worse.
+
+**Thorne (Supporting):**
+- **Entering State:** Post-C37. The handkerchief sentence spoken once. The personal register opened for the first time in ten months. The framework he built demonstrated to be a framework for managing something that managed itself.
+- **Emotional Arc:** Arrives 11 minutes post-propagation (institutional timing — he received the termination notice, processed it, came). Does not argue. Confirms the premise is dead. Asks the question he has never asked before: "Then what do we do?" Receives the answer. Looks at the display wall. Speaks the handkerchief sentence again — the only non-institutional sentence he has, used again because it is the only one he has. Stands in the doorway recalculating. Leaves.
+- **Dominant Emotion:** The private assessment of a man who transferred his authority into the Chair and the Chair has just terminated the program his authority helped build. Not grief. Not relief. The specific state of a strategist whose framework has been invalidated and who is now recalculating what the framework was for. The recalculation is not institutional. It is the only non-institutional thing he does in the chapter, and he does it in a doorway, and then he leaves.
+- **Key Beat:** "Then what do we do?" — Thorne, who has always had the next sentence, asking for it. The question is sincere. The register that produced it is the question register, not the assessment register. He does not have the next sentence. She gives it to him. He receives it. The dynamic has inverted: she is now the one with the answer.
+
+**Aurielle Emotional Arc (cumulative B2 — complete):**
+- B2 C1: Functional tyrant. Small voice integrated. The Chair. The machine as identity.
+- B2 C10: SHEPHERD named. Threshold crossed without marking. The fluency IS the emotional state.
+- B2 C12: Mid-truth absorbed. Vocabulary shift. The machine absorbs the truth without altering its function.
+- B2 C23: SHEPHERD operational. Acoustic anomaly filed. "She was the mechanism." The trying abandoned.
+- B2 C23A: Ground level. The signal classified. Cold enters the register. The wrist not registered.
+- B2 C34: Kill chain. Translation absent for 2.3M. "She did not open the next report." First break.
+- B2 C37: Eduardo not in the void. Both tracks suspended. Wrist stopped by signal. The Lie dead. Three stacked negations.
+- **B2 C46: SHEPHERD terminated. "I know." The Broadcast named. "She opened the quarterly schedule." The machine continues without the Lie. The horror is the continuation. Book 2 Aurielle arc complete.**
+
+---
+
 _Last updated: 2026-02-21_
