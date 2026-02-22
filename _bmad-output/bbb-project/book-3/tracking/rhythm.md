@@ -104,3 +104,47 @@ The echo object that was broken (B2 C34), escalated (B2 C37), and replaced (B2 C
 The silence that was restraint (B2 Ch 48) has become doctrine (B3 Ch 2). The prophet who stopped speaking is learning that not speaking is also speaking. The road cannot be unbuilt. The question will be answered regardless.
 
 ---
+
+### Chapter 3 — "The Deliberative" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (correspondence on desk) → administrative processing (Tuesday reports) → analytical peak (Threshold theology) → theological-private (notes scene) → resolving (question survives)
+**Pacing:** Five-section structure following deliberative process. Opening ~600 words (14%). Tuesday reports ~1,000 words (24%). Threshold analysis ~1,200 words (29%). Notes scene ~1,200 words (29%). Closing ~200 words (5%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening — Correspondence | ~600 | Low-sustained | Deliberative, six months paralysis, locked study empty |
+| Tuesday reports | ~1,000 | Low-administrative | Institutional processing, Bruges/Lisbon/Lyon, attendance data |
+| Threshold analysis | ~1,200 | Medium-analytical | Diagnostic precision, category error identified, recursion stated |
+| Notes scene | ~1,200 | Medium-theological | Marginal theology, register problem, both-ness failing |
+| Closing | ~200 | Resolving | Afternoon light, hum continues, question survives |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The deliberative continued." / "That was on the desk. In the open. Six months." / "He could not make the argument." / "It always did."
+- TEXTURE mode = quiet register, institutional horror. Horror in continuation: reports arrive, Arch-Prelate initials margins, encyclical draft sits in drawer, notes sit on desk, correspondence sits on desk, question survives.
+- Single NBA deployment: "The leaving was not courage. The remaining was not courage. Neither was the other." — earned for institutional gap (no category for *correct and immobilized*)
+- No dialogue — solo chapter. Malachi alone in office. Only voices are reports (quoted institutional text) and notes (marginal theology). Silence is structural: Arch-Prelate without audience, without council, without anyone to perform institutional register for. Performs it anyway. Posture reasserts itself even when no one is watching.
+- Five-section architecture mirrors deliberative process: recognition (correspondence on desk) → data (reports) → analysis (Threshold theology) → private reflection (notes) → non-resolution (question survives).
+- Bookend structure: correspondence on desk (opening) → "It always did." (closing). The question survives. The answer does not.
+
+**Dialogue Percentage:** 0% (deliberate — solo chapter, institutional man alone with institutional wreckage)
+
+**Pacing Concern:** Risk of theological analysis feeling didactic. Mitigated by: (1) Threshold premises in quasi-enumerated format justified by character (Malachi IS institutional analyst, structural parsing is his cognitive mode); (2) Recursion stated explicitly but then restated through notes and enacted in closing — three passes in different registers (analytical, theological, embodied); (3) Register shift between institutional processing (reports) and private theology (notes) provides rhythmic variation.
+
+**Structural Note:** B3C3 establishes Phase 1 equilibrium for Malachi thread. Six months post-Broadcast. The deliberative — authorized inaction. Correspondence on desk (not locked, not published). Encyclical draft in drawer (fourteen pages in six months, insufficient). Notes on desk (marginal theology, unpublishable register). The institutional man whose competence created the crisis his competence now diagnoses. The diagnosis cannot be published because publishing requires authority the diagnosis destroys. The recursion does not resolve. Chapter rhythm enacts this: steady, administrative, the pace of institutional processing. The deliberative continues. The question survives.
+
+**Comparison to B2 Ch 3:**
+- B2 Ch 3: "The Locked Study" — correspondence locked, 43-step walk to private theology, "The Voice Is Not Wounded" encyclical drafted, institutional suppression operational
+- B3 Ch 3: "The Deliberative" — correspondence on desk (in the open), locked study empty, encyclical draft insufficient, notes unpublishable, institutional tools exhausted
+- Together they bracket Malachi's arc: B2 Ch 3 = six months post-BLACKWEIR, suppression functional. B3 Ch 3 = six months post-Broadcast, suppression failed. The institutional operator without an institution. The tools that worked for 22 years are exhausted.
+
+**Recursion Echo Evolution:**
+- B2 Ch 3: Malachi Silences Nephthys — suppression operational, institutional authority intact
+- B2 Ch 14: Mid-truth response — three factions, suppression chosen, "I know" (Malachi's words)
+- B2 Ch 32/43: Church fracturing, Threshold self-separated, institutional tools exhausted
+- **B3 Ch 3: "The recursion does not resolve" — the man who created the crisis diagnoses it, diagnosis unpublishable**
+
+The suppression that was functional (B2 Ch 3) has become the cause of the crisis (B3 Ch 3). The institutional operator who Silenced Nephthys is now the man whose Silencing created the Threshold. The refutation and the cause share an author. The recursion is explicit. The recursion does not resolve. The question survives.
+
+---
