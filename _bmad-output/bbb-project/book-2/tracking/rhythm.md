@@ -98,6 +98,45 @@ This document tracks pacing, tension, and narrative rhythm across Book 2. Update
 - Long-long-long-SHORT pattern dominant throughout
 - Counter-liturgy session provides structural rhythm (silence → hum → reports → correction)
 - Nosebleed is the chapter's physical spike — managed with practiced calm, tension through concealment not crisis
+
+---
+
+### Chapter 51 — "Eighty Milligrams" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (atmospheric pressure) → internal discovery (Tuesday gap) → resolving-sustained (the cost)
+**Pacing:** Three-section structure. External → Internal → Essential. No action. Weight in realization and trade.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| The number and the weather | ~900 | Low-atmospheric | Institutional messages scrolled and dismissed. Non-engagement. |
+| Tuesday | ~1,400 | Medium-internal | Discovery of memory gap. Forum posts. Prosthetic memory realization. |
+| The cost and the choice | ~1,500 | Sustained-resolving | Lumina ritual. Signal description. Closing accumulation. |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant: "Tuesday was gone." / "She did not reduce the dose." / "She did not stop listening."
+- No dialogue — Kira does not speak. Ring light off. Stream dark.
+- Institutional pressure rendered as weather — atmospheric, scrolled through, dismissed
+- Memory gap discovery paced through log entries (Tuesday's entries exist, experience does not)
+- Forum posts provide external corroboration — other voices describing identical gaps
+- Closing accumulation: single sentence, 100+ words, resolving into "She did not stop listening."
+- Paratactic rhythm sustained throughout — short declaratives punctuate longer diagnostic passages
+- No scene breaks after opening — continuous flow from discovery to realization to choice
+
+**Dialogue Percentage:** 0% (no dialogue — solo chapter, ring light off)
+
+**Pacing Concern:** Risk of static chapter (nothing happens). Mitigated by internal discovery (Tuesday gap) providing narrative momentum. The realization that the filing system is prosthetic memory carries weight. The choice made by not reducing the dose is action through inaction.
+
+**Structural Note:** Phase 5 positioning chapter. No external events. Weight entirely in the trade: memory for reception, days for signal, self for antenna. The quiet room metaphor evolution completes: "rest" (60mg) → "suppression" (80mg) → "medium/conductor" (Broadcast) → "cost" (Ch 51). Kira's Book 2 arc closes here: the antenna that does not stop, the cost mounting, the memory eroding, the signal continuing.
+
+**Comparison to Ch 40 (direct predecessor):**
+- Ch 40: Event chapter (the Broadcast), catastrophic signal, conscious narration, bleeding
+- Ch 51: Aftermath chapter (one week later), atmospheric pressure, memory erosion, cost
+- Ch 40: Ring light on during event, off after
+- Ch 51: Ring light off throughout — has not gone live since the eleven seconds
+- Both chapters end with the same essential choice: does not stop (streaming/listening)
+- Rhythm shift: Ch 40 accelerates into the event, Ch 51 sustains at the cost
 - Imani confrontation is shortest scene but highest tension — compression = intensity
 - Closing mirrors opening (palms on stone, chorus contact) — circular structure
 - Section breaks (---) function as liturgical pauses — appropriate for chapter content

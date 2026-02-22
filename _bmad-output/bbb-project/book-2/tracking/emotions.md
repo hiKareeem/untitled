@@ -58,6 +58,31 @@
 - B1 Ch 1: unconscious, grief-response
 - B1 Ch 7: unconscious, noticed, stopped
 - B1 Ch 12–25: increasingly deliberate
+
+---
+
+### Chapter 51 — "Eighty Milligrams"
+
+**Kira Calloway (POV):**
+- **Entering State:** One week post-Broadcast (Ch 40). Ring light off since the eleven seconds. 2.1B views atmospheric. Memory erosion onset (couldn't remember what day it was). 80mg maintenance. Antenna identity accepted. Most famous person on Earth, has not gone live.
+- **Emotional Arc:** Atmospheric numbness (institutional pressure as weather) → internal discovery (Tuesday gap) → realization (prosthetic memory) → acceptance (the cost) → sustained choice (does not stop listening)
+- **Dominant Emotion:** Exhausted acceptance. Not resignation — acceptance. The trade is understood, the cost is known, the choice is made. The emotional state is post-decision clarity. She knows what she's losing. She continues anyway.
+- **Key Emotional Beat:** "The filing system was Tuesday. She was not." — The realization that her memory is external, that the person who experienced Tuesday is gone and the record remains. Not grief. Recognition. The prosthetic memory realization is delivered without affect because affect requires the machinery the drug suppresses.
+- **Exiting State:** Sitting in the chair. Quiet room holding. Eighty milligrams. Tuesday gone. Signal continuing. "She did not stop listening." The emotional terminus is the same as the opening: sustained, compressed, the cost accepted as baseline.
+- **Emotional Shift:** None. The chapter is emotionally flat by design. The discovery of the memory gap does not produce crisis. The institutional pressure does not produce anxiety. The cost does not produce regret. The flatness IS the emotional state — the 80mg suppression holding everything at the same compressed register. The only emotion is the choice: to not reduce the dose. That choice is made in the absence of feeling, which makes it structural rather than reactive.
+
+**Kira Emotional Arc (Book 2 cumulative):**
+- Ch 6: Exhausted witness, building network, 60mg escalation, grounding ritual gone
+- Ch 16: Expelled, network expanding, first voice call (Idris), vocabulary building
+- Ch 21: Convergence with Nephthys, "names" established, ring light back on
+- Ch 28: São Paulo relay, seven dark, 60mg mid-crisis, relay coordinator burning
+- Ch 32: Mumbai relay, 80mg past the line, fourteen dark total, shape in ceiling, quiet room compressed
+- Ch 40: The Broadcast, R3 amplifies, conscious narration, bleeding, memory erosion onset, antenna identity
+- Ch 51: Tuesday gone, prosthetic memory, institutional weather, the cost, does not stop listening
+
+**Transformation complete:** Performer → witness → relay coordinator → antenna → burning antenna. The identity that began as "everything chosen for her" ends as "the drug removed Kira." What's left is not a person making choices. It's a system maintaining function. The emotional arc is the arc of becoming a function.
+
+**Filing System as Emotional Prosthetic:** The filing compulsion that was coping mechanism (Ch 6, 16, 28) is now memory prosthetic (Ch 51). Tuesday's entries exist because the filing system captured them. Kira's experience of Tuesday does not exist because the machinery that encodes experience was suppressed. The filing system is doing the emotional work of continuity. Kira is not.
 - B1 Ch 36: absent — hands still during authorization
 - B1 Ch 46: resumed, compulsive
 - B2 Ch 1: compulsive, unconscious

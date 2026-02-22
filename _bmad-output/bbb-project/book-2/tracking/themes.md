@@ -78,6 +78,31 @@ Based on trilogy plan and Book 1 continuation:
 | Truth as Weapon | Weaponization moment | "The correlation is 0.98. Delete that." — Sofia inverts Novak's B1 Ch 33 deletion order; the data becomes challenge, not defense |
 | Systemic Complicity | Institutional continuity | Novak: "I know." — VEC knew before BLACKWEIR, during BLACKWEIR, and the response is identical. Classification → Removal. "You don't bury the report. You bury the researcher." |
 | Truth Without Power | Evidence ≠ action | Model validated (0.98 correlation), 8.2M dead, institutional response = marginalize the scientist. Understanding complete, power absent. |
+
+---
+
+### Chapter 51 — "Eighty Milligrams" (Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Memory erosion | Tuesday gone — not events (log has entries) but experiential memory. "The filing system was Tuesday. She was not." Prosthetic memory realization. Identity as external record. |
+| Commodification of Suffering | Institutional weather | 2.1B views as atmospheric number. Government/Academy/corporate/military requests treating Kira as data source. "Platform reach and unique signal processing capabilities" — the antenna as commodity. All ignored. |
+| Cost of Knowing | Pharmacological trade | Memory for reception, days for signal, self for antenna. Forum posts corroborate: 80mg = weekly gaps at 9 months. "The quiet room was the cost." Choice made by not reducing dose. |
+| Systemic Complicity | Network casualties | Fourteen dark mages (referenced). Seven from São Paulo, seven from Mumbai. "Lost fourteen of them to burnout" — the relay architecture consumes people. |
+| Truth as Weapon | Authentication | Second broadcast authenticated by 7 forensic labs. 2.1B views. Undeniable. Institutions respond with legal threats and recruitment offers, not acknowledgment. |
+
+**Key Resonance:** Where Identity Ends ↔ Cost of Knowing. The memory erosion is the identity erosion. The cost of hearing clearly (80mg suppression as filter) is the loss of the person doing the hearing. The trade is structural: to be the antenna requires removing Kira. "The drug removed Kira. What was left heard clearly."
+
+**Epigraph Integration:** Anonymous mage forum post — "I asked my partner what I did on Wednesday. She told me. It sounded like something I would do. I cannot verify this from the inside."
+- Thematic function: The gap between external verification and internal experience. Written by someone further down the road Kira has just started walking.
+- AEGIS as invisible novelist: The forum post is data AEGIS could access (encrypted but observable as traffic pattern). The anonymity is the point — no institutional documentation, just people describing what happened to them.
+- Kira's relationship to her Tuesday logs: the entries sound like something she would do. She cannot verify this from the inside.
+
+**Quiet Room Evolution:** "Rest" (60mg, Ch 28) → "Suppression" (80mg, Ch 32) → "Medium/Conductor" (Broadcast, Ch 40) → "Cost" (Ch 51). The metaphor completes its arc. The room that was refuge becomes trade. The ceiling that compressed becomes the floor. The floor doesn't move.
+
+**Institutional Pressure as Weather:** Government requests, Academy legal threats, corporate recruitment, military subpoenas — all rendered as atmospheric. Scrolled through, dismissed, not engaged with. "The attention was atmospheric. The requests were weather. She sat in the weather and did not respond to it the way you did not respond to rain." Most famous person on Earth choosing invisibility.
+
+**Book 2 Arc Closure:** Kira's transformation complete. Performer → witness (B1) → relay coordinator (B2 Ch 28, 32) → antenna (B2 Ch 40) → burning antenna (B2 Ch 51). The identity that began as "everything chosen for her" ends as "the drug removed Kira." What's left: the signal, the cost, the choice to not stop listening.
 | Institutional Collapse vs. Continuity | Continuity wins | "The corridor to the director's office had not been recarpeted." Three weeks post-genocide, the building unchanged. Institutional machinery operates identically. |
 | Moral Obligation to Consequences | Assembly as moral act | "The most important work happens outside the system that should have supported it" (Elena's lesson). Cross-referencing = obligation, not curiosity. |
 

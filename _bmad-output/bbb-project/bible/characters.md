@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 47"
+lastChapter: "B2 Ch 51"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -705,10 +705,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 3/5 Book 2 (Relay coordinator — management identity chemically held, ceiling discovered)
-- Emotional State: Mumbai relay. 412 mages. Seven went dark. Fourteen total (São Paulo + Mumbai). She kept the relay operational through a Category 5 event. The data is the clearest picture anyone has of a live kinetic-breach interaction: the void amplifies kinetic force, it does not absorb it. 80mg Lumina — past Paz's line. The quiet room at eighty has a lower ceiling. Something in the compressed space between the drug and the machinery it suppresses. She does not reach for it. The chord shapes are absent for the first time.
-- Dominant Beliefs: "The instrument exceeded specification." The relay worked. The relay burned seven people. These are the same sentence. The management identity is not collapsing — it is being chemically held in place while something accumulates in the ceiling above the suppression.
-- Internal Contradictions: Built the architecture that burned fourteen people's implants across two relays. The anonymized network she built to protect privacy now protects her from knowing every name her relay burned. The drug suppressing the noise is now suppressing the cognitive overflow valve (chord shapes absent). Something in the ceiling is using the hum, the signal, and the populated chord as substrate. She cannot reach it at 80mg. She does not try.
+- Phase: 5/5 Book 2 (Burning antenna — identity erosion, cost accepted, does not stop)
+- Emotional State: One week post-Broadcast. Tuesday is gone — not the events (log has entries) but the experiential memory. The filing system is prosthetic memory. 80mg is the floor. Memory erosion confirmed via forum posts (other long-term Lumina users describe identical gaps). Most famous person on Earth (2.1B views, 7 labs authenticated). Most hunted (government/Academy/corporate/military requests). Ignores all institutional pressure. Ring light off since the Broadcast. Has not gone live. The quiet room is the cost.
+- Dominant Beliefs: "The drug removed Kira. What was left heard clearly." The antenna identity is not metaphor. The trade is structural: memory for reception, days for signal, self for antenna. The choice is made by not reducing the dose. The cost is accepted.
+- Internal Contradictions: Filing system that was coping mechanism is now memory prosthetic — Tuesday's entries exist because the system captured them, Kira's experience does not exist because the machinery was suppressed. The person who built the network to protect mages is the person whose relay architecture burned fourteen of them. The most visible human on Earth choosing invisibility. The antenna that could stop listening (reduce dose) but does not.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -733,11 +733,29 @@ This bible dimension tracks **current character states**:
 | Varma Academy | Institutional (severed) | Adversarial | Formally expelled under Section 22.7; grounding terms dead with relationship |
 | Nephthys | Met (converged) | Active | Convergence achieved at Cathedral. Same signal, different receiver. "Names." Recognition, not alliance. Neither defers. Shared 14 months telemetry via Imani. |
 
-**Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → São Paulo Relay → Mumbai Relay → Second Broadcast → 80mg
-- Current Phase: 4/5 Book 2 (The antenna that broadcast — management identity bypassed, memory erosion onset)
+**Current Arc:** Book 2: Expelled → Network Global → Lumina 60mg → São Paulo Relay → Mumbai Relay → Second Broadcast → 80mg → Memory Erosion
+- Current Phase: 5/5 Book 2 (Burning antenna — transformation complete, Book 2 arc closed)
 - Book 1 Arc Complete: Performer → Witness → Someone Who Refuses to Lie (5/5)
-- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 32 → Ch 40. Network 47/9 → 214/31 → 400+ → 412 → 406 (passive monitoring). Filing → dataset → language → language tested → relay coordinator → burning → relay coordinator who built the thing that burned them → the antenna that broadcast. Lumina 40mg → 60mg → 80mg (floor, not ceiling). Fourteen mages dark. Chord shapes absent (re-suppressed post-event). Ceiling empty. Memory erosion onset.
-- Next Step: Phase 5 → Ch 51 "Eighty Milligrams." Memory erosion escalates. R3 heat dissipation (physical damage). 80mg is the floor. The next ceiling is coming.
+- Book 2 Arc Complete: Witness → Relay Coordinator → Antenna → Burning Antenna (5/5)
+- Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 32 → Ch 40 → Ch 51. Network 47/9 → 214/31 → 400+ → 412 → 406 (passive) → 398 (attrition). Filing → dataset → language → relay coordinator → burning → antenna → burning antenna → prosthetic memory. Lumina 40mg → 60mg → 80mg (floor). Fourteen mages dark. Memory erosion: Tuesday gone. 2.1B views. Ring light off. Does not stop listening.
+- Book 3 Setup: Lumina dependency as medical crisis. Memory erosion escalating (forum posts: weekly gaps at 80mg/9 months). Personality drift. Institutional pressure atmospheric. The antenna that cannot stop, the cost still mounting.
+
+**Recent History (B2 Ch 51):**
+- Bay Area apartment. One week post-Broadcast. Ring light off since the eleven seconds. Has not gone live.
+- The number: 2.1 billion views, authenticated by 7 independent forensic labs. Atmospheric. Filed but not held — "the filing system did not hold it."
+- Institutional pressure: 3 government requests (PCC, Euro-Asian Energy Bloc, Pan-Asian Cooperation Council), 2 Academy legal communications (cease-and-desist for network), 4 corporate recruitment offers, 3 military subpoenas. All ignored. Non-engagement. "The attention was atmospheric. The requests were weather."
+- Tuesday discovery: Wednesday morning, checking log. Monday's entries present. Wednesday's entries starting at 06:14. Tuesday exists — 12 entries, her format, her timestamps, her abbreviations. The events are in the log. The experience is not in her memory. "Not a gap in the entries — a gap in the days."
+- Tuesday's entries: competent, organized, functional. Network status, signal monitoring, relay update to Ren, military subpoenas filed under "ignore." Tuesday's Kira did the work. Wednesday's Kira has no access to Tuesday's experience.
+- Forum posts: encrypted mage network forum, long-term Lumina users. Memory gaps described by multiple users. "Lost a Thursday." / "At 70mg for six months. The gaps started at month four." / "80mg. Nine months. The gaps are weekly now." Corroboration: not unique, not fatigue, pharmacological.
+- Prosthetic memory realization: "The filing system was Tuesday. She was not." The logs are the memory. The person is the logs. Identity as external record.
+- Lumina ritual: 80mg. Same as yesterday, same as Tuesday (per log). Scale. Vial. Straw. Cold burn. Subtraction. Quiet room assembling. The trade: "the sitting was function and the function was the trade."
+- Signal post-Broadcast: vibration finer, more organized. Populated chord "more articulated" — each signature carrying the phrasing it spoke. Not louder, more specific. The Broadcast sharpened their presence.
+- The choice: could reduce dose (option structurally present, operationally meaningless). Reduce dose = relay again, hub again, instrument that burned fourteen people and broadcast to 2.1B. Does not reduce dose. Choice made by inaction.
+- Physical state: Right ear tinnitus constant (mechanical, not signal). R3 upper terminus warm (residual heat, system exceeding parameters). Chord shapes absent (eighty suppresses them). Fold suppressed (not attempted, not mentioned).
+- Network status: 398 active nodes (per Tuesday log — attrition from 400+, no mass dropout). Passive monitoring continues.
+- Ring light: off throughout. "All of it on the other side of a ring light she'd been using since she was thirteen." Boundary between audience and signal. Has not flipped the switch.
+- Closing state: sitting in chair, quiet room holding, eighty milligrams, Tuesday gone, signal continuing. "She did not stop listening."
+- Lumina status: 80mg is the floor. Memory erosion confirmed (one day gone, forum posts predict weekly gaps). R3 warm. Right ear ringing. The cost accepted.
 
 **Recent History (B2 Ch 40):**
 - Bay Area apartment. Passive monitoring mode — Sofia's warning implemented (406 mages, no relay, no casualties). Six hours of data before the event. Shape in the ceiling for three days, lowering.
