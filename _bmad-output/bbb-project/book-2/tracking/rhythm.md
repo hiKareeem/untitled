@@ -1772,4 +1772,59 @@ Ch 19 is longer — AEGIS's debut required establishing the full processing arch
 
 ---
 
+### Chapter 49 — "Accuracy" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Procedural establishing (tribunal convening, charges) → rising (prosecution, defense testimony) → sustained compression (recess, hands-check) → procedural peak (verdict, stripping) → resolving descent (exit, field log meditation, street)
+**Pacing:** Phase 5 Nikolai register — institutional procedure as narrative architecture. Four-act structure. Tribunal sections (Acts I-III) use procedural rhythm; closing section (Act IV) returns to contemplative register. Slower than Ch 41 (Voice event — compressed paratactic intensity). This chapter is institutional machinery processing an anomaly. The rhythm is deliberate, measured, terminal.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Tribunal convening / charges | ~600 | Establishing | Procedural. Room geometry, officer descriptions, charges read. |
+| Prosecution | ~400 | Rising | Herrera's case. Evidence displayed. Two reports cited. |
+| Defense | ~500 | Peak (testimony) | Nikolai's statement. Operational register. "The doctrine is wrong." |
+| Recess / hands-check | ~500 | Sustained compression | Forty-seven minutes alone. Ritual performed. Meditation on steadiness. |
+| Verdict / stripping | ~700 | Procedural peak | Three "guilty" verdicts. Sentence read. Insignia removed. Dekker's pause. |
+| Exit / field log | ~1,200 | Resolving descent | Outside. Walking without destination. Field log meditation. Jarek still deployed. |
+
+**Rhythm Notes:**
+- Opening establishes tribunal geometry: "Long table. Three chairs behind it, facing one." — institutional architecture as spatial compression
+- Hum readings as rhythmic constant: 3.8/4.0 (interior), 4.2/4.4 (exterior). Every location measured. The gap persistent.
+- "The instrument did not differentiate" — three deployments (lines 47, 103, 131). Refrain accumulates toward decommission. Author approved three instances.
+- Testimony section uses operational register's compound structures: "At 06:17 local, all twelve P-Frame units..." — the language of after-action reports spoken aloud
+- "He sat down." — single-sentence paragraph after defense statement. Maximum isolation. The testimony complete.
+- Recess: "Forty-seven minutes" → "Fifty-three minutes" (reconvene). Precision as character voice.
+- Hands-check ritual: "Still." — single word, single line. The ritual's terminal iteration. "The hands would be still tomorrow and the day after."
+- Verdict delivered in three beats: "guilty" / "guilty" / "guilty" — procedural repetition as rhythmic device
+- Dekker's pause: "two seconds — long enough to be a pause, short enough to be nothing" — the only human gesture in the institutional procedure
+- Insignia removal: physical specificity without symbolic weight. "The gesture was not symbolic." The prose refuses interpretation.
+- Closing section builds through accumulating compound sentence: "with no rank and no commission and no orders and a field log...and no destination and no institution...and no form"
+- Final drop: "The hum was 4.2. / He listened." — two shortest possible lines. The rhythm mirrors Ch 41's close ("He stood at the window until the hum was all there was")
+- Ch 41: listening through glass (window). Ch 49: listening directly (street). No window. No institution. Just the hum.
+
+**Dialogue Percentage:** ~5% (Nikolai: 4 lines [formal tribunal responses], Falk: 1 line, Herrera: 1 line, Dekker: 3 lines)
+
+**Pacing Concern:** Tribunal procedure risks feeling static. Mitigated by dual-register processing — Nikolai translates institutional vocabulary into actual meaning ("Unauthorized disclosure meant he had written what happened"). The translation track provides narrative momentum within procedural constraint.
+
+**Structural Note:** The chapter ends on a street in Lagos, not in quarters. Nikolai has no quarters. The window ritual (Ch 25, Ch 41) is absent — the institutional frame removed. The closing is him standing outside, listening to the hum directly. The field log is referenced but not opened (Ch 41: "This is the last entry written by a serving officer" — honored). The field log's future is Book 3's question.
+
+**Comparison to prior Nikolai chapters:**
+| Chapter | Mode | Peak | Close |
+|---------|------|------|-------|
+| B2 Ch 5 | TEXTURE | VS-7 signed / Lagos rotation | Field log. "No elaboration." Window. |
+| B2 Ch 15 | TEXTURE | Commission / first lie written | Field log expansion. Hands-check. Window. |
+| B2 Ch 25 | TEXTURE | Honest report / flagged for review | Field log = report convergence. Window. Lagos. |
+| B2 Ch 41 | TEXTURE | Voice event / Jarek "still deployed" | Honest report filed. Field log: "last entry." Window. |
+| **B2 Ch 49** | **TEXTURE** | **Verdict / stripped of rank** | **Field log in kit. Street. No window. "He listened."** |
+
+**Nikolai Rhythm Arc (cumulative B2 — complete):**
+- B2 Ch 5: TEXTURE. BLACKWEIR debriefing. VS-7 signed. Lagos rotation. Field log contracting.
+- B2 Ch 15: TEXTURE. Commission. First lie written. Field log expansion. Hands still.
+- B2 Ch 25: TEXTURE. FAS non-kinetic success. Honest report. Flagged. Convergence.
+- B2 Ch 41: TEXTURE. Voice event. Jarek "still deployed." Second honest report. Court-martial triggered.
+- **B2 Ch 49: TEXTURE. Tribunal. Convicted. Stripped. Field log private. No institution. Book 2 arc complete.**
+
+---
+
 _Last updated: 2026-02-21_

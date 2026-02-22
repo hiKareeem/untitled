@@ -999,4 +999,52 @@ The escalation: classification error (the model breaks) → atrocity (the model 
 
 ---
 
+### Chapter 49 — "Accuracy" (Nikolai Volkov)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| **What Systems Do to People** | **Dominant** | The institution built Nikolai as an instrument. The instrument performed its function for twenty years. The instrument wrote the accurate report. The institution decommissioned the instrument. "The instrument did not differentiate between the officer who lied and the officer who told the truth and the officer who was being separated from the institution that had built him." The tribunal: three officers who followed doctrine their entire careers, convicting a man for accuracy because the institution cannot accommodate accuracy and continue to function. |
+| **Truth as Weapon (inverted)** | **Dominant** | The truth did not save Jarek. The accurate report sits in the institutional record, classified, inaccessible. "The truth was inside the institution's walls the way Jarek was inside the void's walls. Present. Inaccessible. Accurate." The field log contains fifteen years of truth. Nikolai has no institution to deliver it to, no form to write it on. The truth is not in the world. The truth is in Nikolai's kit. The weapon is undeployed. Book 3's question: will he fire it? |
+| **Accuracy vs. Conformity** | **Dominant** | Epigraph: "The form does not require accuracy. The form requires conformity. I confused the two for twenty years." Defense statement: "The doctrine is wrong. I reported what I observed. The report is accurate." Verdict: "The reports were accurate. The officer who wrote them was guilty. Both statements were true." The VS-7 form: thirty-one fields. Field 22 has a dropdown. The dropdown has one correct response: "acoustic mimicry per doctrine." The correct response is incorrect. The accurate response is unauthorized. The institution's vocabulary (conformity) and the field log's vocabulary (accuracy) occupy the same space. The institution can accommodate one. |
+| **Systemic Complicity** | **Strong** | Thirty-eight VS-7 forms with the wrong word in Field 22. Twenty years of falsification. The commission (Ch 15). The convergence (Ch 25). The second honest report (Ch 41). The court-martial (Ch 49). The complicity is structural — the institution requires the lie to function. Dekker's jaw: "The face of a man who was convicting another man for writing the accurate response because the accurate response and the institutional response occupied the same field on the same form and the institution could accommodate one." Dekker knows. Dekker convicts. The system protects itself. |
+| **Architecture of Power** | **Strong** | The tribunal as institutional machinery. Three-officer panel. Bilateral judicial agreement. Formal charges, prosecution, defense, deliberation, verdict, sentencing. The procedure is the architecture. The architecture processes the anomaly (honest report) by removing the source (the officer). The VS-7's thirty-one fields as epistemological container. Field 22's dropdown vs. the free-text override. The review queue as power's response to honesty: administrative suspension (Ch 25), then court-martial (Ch 49). The institution's self-protection is procedural, not personal. |
+| **Institutional Impotence** | **Strong** | The institution cannot accommodate the truth and continue to function. The doctrine is wrong. The institution knows the doctrine is wrong. The institution convicts the officer who said the doctrine is wrong. The institution's response to its own failure is to remove the witness. The field log contains fifteen years of suppressed observations. The tribunal never asks about the field log. The tribunal is not interested in what Nikolai observed. The tribunal is interested in what Nikolai reported. The institution's epistemology is procedural, not empirical. |
+| **Obligation and the Dead** | **Moderate** | "Jarek was still deployed." The commanding officer who authorized the deployment is no longer a commanding officer. The deployment continues without authorization. The deployment will continue without authorization because the deployment is not the institution's to authorize or revoke. Jarek is in the void. The void does not process discharges. The void does not strip rank. The void held what it held with an accuracy the institution could not accommodate. The obligation persists. The institution that mediated the obligation is gone. |
+
+**Phase 5 Completion Thread (Ch 45–49):**
+- Ch 45 (Sofia): Transmission processed. De-escalation proposal at 20%. Mirelle as co-author. Sent at dawn.
+- Ch 46 (Aurielle): SHEPHERD terminated. The grid continues. "She opened the quarterly schedule."
+- Ch 47 (Sofia): UGC vote passes. Injunction filed in 40 minutes. "Correct and insufficient." "Anyway."
+- Ch 48 (Nephthys): Fifty-three walked in. Seren's look. "She did not follow." Silence.
+- **Ch 49 (Nikolai): Tribunal. Convicted. Stripped. Field log private. No institution. "He listened."**
+
+Five POVs, five terminal chapters, the same aftermath. Each left with what they have. Sofia: the proposal passed and suspended. Aurielle: the grid continues. Nephthys: the silence. Nikolai: the field log. None can bring anyone home. The institutions continue or collapse. The truth exists or is inaccessible. The obligations persist without the structures that mediated them.
+
+**Key Resonance:** What Systems Do to People ↔ Accuracy vs. Conformity. The system built Nikolai to conform. Nikolai chose accuracy. The system removed Nikolai. The system continues. The accuracy remains — in the field log, in Nikolai's kit, outside the institution's walls. The parallel to Jarek is structural: both are present, both are inaccessible, both are accurate. The institution cannot hold either.
+
+**Epigraph Integration:** "Accurate: conforming to fact. The form does not require accuracy. The form requires conformity. I confused the two for twenty years." — Void Stalker field log (anonymous, undated).
+- Thematic function: The chapter's thesis sentence. Three sentences. Field-log register. Ties directly to the chapter title and the defense statement. Resolves on reread: the field log entry describes what took twenty years to understand and one tribunal to demonstrate.
+- AEGIS as invisible novelist: the epigraph is from Nikolai's field log — the private record that the tribunal never asked about. The reader sees the conclusion before the demonstration. The field log's self-awareness of its own argument.
+
+**New Symbols:**
+- **The field log as Chekhov's gun:** Fifteen years. Every deployment. Every suppressed observation. The most comprehensive firsthand void dataset in existence. The tribunal never asks about it. Nikolai never volunteers it. The field log is his, not the institution's. It has never been the institution's. Book 3's question: what does the man with the truth do when the institution no longer owns him?
+- **The insignia as institutional markers:** "The metal that the institution affixed to the fabric to indicate the position of the person inside the fabric." Removed cleanly. Two pins. Placed on the table. "The gesture was not symbolic." The prose refuses symbolic interpretation. The insignia were not his. They were the institution's markers on the institution's instrument. The instrument has been decommissioned. The markers are returned.
+- **Walking without destination:** "For twenty years, walking had been toward — toward the deployment, the briefing, the containment zone, the after-action desk, the quarters, the next rotation. Movement was operational. Movement had a destination that the institution designated and the body executed. The institution had not designated a destination. The body walked anyway." The first free movement. The body does not require a destination. The body requires only the function.
+- **No window:** The window ritual (Ch 25, Ch 41) is absent. Nikolai has no quarters. The institutional infrastructure that provided the window is gone. The closing is him standing on a street — no window between him and the city. The hum replaces the window. He listens directly, not through glass. The ritual's absence is the arc's structural marker: the institutional frame has been removed. He is outside.
+
+**Cross-Chapter Thread (Nikolai arc — complete):**
+- B1 Ch 11: "Acoustic mimicry. Doctrine is clear." — the first suppression.
+- B1 Ch 23: Baltic harmonic — audio cannot confirm. The body knows before the instruments.
+- B1 Ch 38: Jarek absorbed. "Nikolai" as Jarek's last transmission. The jaw as the body's record.
+- B1 Ch 47: "Operational Losses: 1." The VS-7 signed. The hands still, not steady.
+- B2 Ch 5: "No elaboration." Field log contracting. The institution validates BLACKWEIR.
+- B2 Ch 15: "Still here" (Accra). First commission. Field log expanding. Hands still.
+- B2 Ch 25: First honest report. Convergence (field log = official record). Flagged for review.
+- B2 Ch 41: "Still deployed." Second honest report. Field log at maximum elaboration. Career terminus. "This is the last entry written by a serving officer."
+- **B2 Ch 49: Tribunal. Convicted. Stripped. Field log private. No institution. "The hum was 4.2. / He listened." Book 2 arc complete.**
+
+The escalation ladder: suppression → commission → honest report → court-martial → separation. The field log's arc: contracting → expanding → convergence with official record → terminal entry → object in kit. The institution's arc: validates BLACKWEIR → flags honest report → convicts officer → removes anomaly → continues. The body's arc: hands still → jaw at two millimeters → jaw at one millimeter → Dekker's jaw (transferred) → hands still tomorrow and the day after. The architecture tightens as the doctrine collapses. The institution removes the witness. The witness carries the truth outside the institution's walls.
+
+---
+
 _Last updated: 2026-02-21_
