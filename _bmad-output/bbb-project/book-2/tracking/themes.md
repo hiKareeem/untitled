@@ -955,6 +955,7 @@ The escalation: classification error (the model breaks) → atrocity (the model 
 - Ch 26: Truth mapped. Build the argument.
 - Ch 36: Truth predicted. Record everything.
 - **Ch 45: Truth testified — by the void itself. Make the demand. Include the dead as co-authors. Send at dawn.**
+- **Ch 47: Truth voted on. Passed. Suspended in 40 minutes. "Mirelle published anyway." The word is "anyway." Book 2 Sofia arc complete.**
 
 ---
 
@@ -984,7 +985,7 @@ The escalation: classification error (the model breaks) → atrocity (the model 
 **Phase 5 Opening Thread (Ch 45–46):**
 - Ch 45 (Sofia): Transmission processed. Subject/object rupture. De-escalation proposal at 20%. Policy recommendation. Sent at dawn.
 - **Ch 46 (Aurielle): SHEPHERD terminated. "We manage the infrastructure." The Broadcast named. "She opened the quarterly schedule."**
-- Phase 5 continues: Ch 47 (Sofia, UGC session — vote passes 60-40, NitroCore injuncts in 40 min).
+- **Ch 47 (Sofia): UGC vote passes 67-45. NitroCore + Helix Energetics joint injunction filed in 40 minutes. Article 14. "Correct and insufficient." "Mirelle published anyway."**
 
 **Aurielle's Thematic Arc — Book 2 Complete:**
 - C1: The Chair. SHEPHERD unnamed. The machine as identity.

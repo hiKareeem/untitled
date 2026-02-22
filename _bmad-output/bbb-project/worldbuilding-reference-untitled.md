@@ -1519,6 +1519,61 @@ See §21.3 for full arc and convergence.
 
 **The FAS's low breach rate is a Chekhov's gun.** If nitro density correlates with breach probability, then the region that uses the least nitro should have the fewest breaches. This data should exist and should be part of the suppressed evidence trail.
 
+### 12.3 — UGC Governance and Membership
+
+**Full name:** United Governance Council (UGC). ✅ Canonical — confirmed in locations bible, B1 Ch 30 epigraph, and B2 Ch 47. ⚠️ Note: worldbuilding character section (§11.8) erroneously uses "United Global Council" — treat "United Governance Council" as correct.
+
+**Headquarters:** New Geneva (Geneva). The Nitro Accords were signed here; the UGC was established as the successor governance body.
+
+**Membership:** All geopolitical blocs send delegates. The emergency session chamber holds 112 delegates from 73 member states and autonomous economic zones (established B2 Ch 47). The FAS holds membership but negotiated special provisions in the original Accords — their delegates vote as full members but their domestic energy policy is partially shielded from UGC mandates.
+
+**UGC authority limits:** The UGC can pass resolutions. It cannot compel compliance from privately operated energy infrastructure — this is the structural gap that Article 14 exploits. Resolutions affecting corporate energy systems require judicial review if challenged under the Accords' economic sovereignty provisions. This is not a bug; it was negotiated into the Accords by corporate interests in 2044.
+
+**Article 14 (Global Accords Framework — Economic Sovereignty Provisions):** The mechanism by which corporations can suspend UGC resolutions pending judicial review. Requires petitioner to demonstrate: (a) economic impact on sovereign grid-dependent infrastructure, (b) evidentiary sufficiency challenge, or (c) jurisdictional scope dispute. Judicial review timelines: months to years. Effectively a veto with a procedural face. Zeyad's grandfather helped draft the Accords — Article 14 was a compromise to bring corporate signatories on board. The irony is structural and intentional. *(Established B2 Ch 47; will be processed from Zeyad's POV in B2 Ch 52.)*
+
+**Vote distribution pattern (B2 Ch 47 — de-escalation resolution):**
+- PCC economic bloc: voted against (highest nitro dependency, deepest projected recession)
+- Euro-Asian Energy Bloc: voted in favor (state regulation tradition; deeper institutional trust in UGC process)
+- Free African States: voted in favor (lowest dependency; Accords provisions protect them from worst economic impact)
+- South Asian Federation: split (high dependency but democratic tradition; internal division)
+- Americas Compact: split (coastal cities against; interior/legacy-energy zones less invested)
+- Greater Middle Eastern League: mixed
+- Final tally: 67 in favor, 45 against (59.8% / 40.2%)
+
+### 12.4 — The Nitro Industry Bloc
+
+No formal self-governing body exists for the nitro industry. The major corporations coordinate through informal channels, shared legal architecture, and the Accords' corporate signatory framework.
+
+**Named entities (confirmed):**
+- **NitroCore Energy Holdings, Ltd.** — extraction and refining. The patent-holder for catalytic refinement. PCC-aligned. The dominant corporate actor.
+- **Helix Energetics, Inc.** — infrastructure and grid management. PCC-aligned. Director Okafor (B1 Ch 1). Manages conduit networks and trunk-line routing.
+- **Chimera Collective** — AI systems and data architecture. Additional corporations TBD.
+
+**Joint action precedent:** NitroCore and Helix Energetics filed a joint Article 14 injunction against UGC Resolution ES-2171-047 (Sofia's de-escalation proposal) within 40 minutes of the vote passing. Filing timestamp: 17:02:14 NGA, B2 Ch 47. This is the first time the two corporations are named as acting in formal legal concert. Significant for Book 3: the bloc that filed together will face the Kindling strike together.
+
+⚠️ **A formal nitro industry consortium or self-governing body has not been established in canon.** If one is needed for Book 3 (e.g., as a negotiating entity in Kindling strike talks), it should be named and defined at that time.
+
+### 12.5 — Regional Energy Geography and UGC Vote Dynamics
+
+**Grid-dependent economies (deepest recession impact from 20% throughput reduction):**
+- PCC Pacific grid cities (Neo-Shanghai, Singapore, Bay Area) — highest nitro density, deepest projected contraction
+- South Asian Federation Spire cities — very high integration
+- Euro-Asian Energy Bloc industrial zones — heavily integrated, though state regulation provides some buffer
+- Americas Compact Atlantic coast cities — high integration; interior already on legacy/black-market nitro
+
+**Partial-dependency / alternative-infrastructure economies (shallowest impact):**
+- Free African States — maintained legacy energy systems under 2044 Accords special provisions; lowest breach rates; lowest projected recession severity. Their Accords provisions explicitly protect domestic energy policy from UGC throughput mandates, but they voted in favor of the resolution as a matter of bloc solidarity and because the FAS model is what Sofia's proposal points toward.
+- Americas Compact interior — already running on legacy oil, black-market nitro, and pre-nitro infrastructure. Not fully grid-dependent. Not fully UGC-integrated. Their relationship to the resolution is complicated: they'd be least affected economically but have least institutional standing.
+- Oceanic Territories — extraction-focused, not consumption-focused; minimal residential grid dependency.
+
+**Non-UGC / non-grid territories:**
+- Americas Compact ungoverned interior (former US Great Basin, Plains, Rockies) — effectively outside UGC jurisdiction. Legacy oil, salvage energy, local generation. These regions are not part of the nitro grid and are not represented in the 112-delegate chamber in the same way. ⚠️ Their exact UGC membership status needs clarification for Book 3 if the Kindling strike affects interior territories.
+- European Outlands — grid-disconnected communities (Helix Energetics reclassified regional trunk-lines as "non-viable"). These are within the EAEB geographically but effectively outside the grid economy. The Dead Town (B1 Ch 3) is an example. Not represented as a distinct bloc in UGC proceedings.
+
+**Note on "European See":** This is a Church jurisdiction (Malachi's archdiocese), not a political or economic entity. It should never appear in political/economic contexts. The correct EAEB political entity is the Euro-Asian Energy Bloc. *(Corrected in B2 Ch 47 draft — original error replaced.)*
+
+**New Geneva conduit infrastructure:** First-generation installation, older than PCC grid cities. Hum frequency: 0.4 Hz (lower than Neo-Shanghai's 0.7 Hz, reflecting older trunk-line architecture and thicker insulation). *(Established B2 Ch 47; track for consistency in B2 Ch 52 and Book 3 Geneva scenes.)*
+
 ---
 
 ## PART THIRTEEN: RELIGION AND CULTS

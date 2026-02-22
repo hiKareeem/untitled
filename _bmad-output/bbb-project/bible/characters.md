@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 43"
+lastChapter: "B2 Ch 47"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -628,11 +628,11 @@ This bible dimension tracks **current character states**:
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 4/5 B2 (Transformation opening — pre-Voice vigil, observer role at its limit)
-- Emotional State: The specific stillness of a scientist who has exhausted every instrument and is now performing the only available action: watching. The model is correct. The prediction is running. The convergence is 53 minutes away. She does not have a word for what is coming.
-- Dominant Beliefs: "The data will survive whatever comes next."
-- Internal Contradictions: Has the most complete dataset in atmospheric science. Has no lever. The distance between describing a catastrophe and preventing one is the same distance it has always been.
-- **B2 Ch 36 state:** Mid-Levels 39th floor. Broadband acoustic monitors detected global synchronization across 12 Anchor Zones — 7.3-second coherence interval, compressing exponentially. Convergence model projects simultaneous output in ~3 hours. Warning sent to Kira's network. Archive set to continuous (3 distributed nodes). De-escalation proposal at 12%, not opened. Hum rhythm shift: floor synchronizing with Anchor Zone interval. Field kit pulse at 1.8 seconds — the instrument is now a receiver. ~53 minutes to convergence point.
+- Phase: 5/5 B2 (Arc complete — correct and insufficient)
+- Emotional State: The specific flatness of a scientist who has done everything correctly and watched the correct result suspended by the architecture she cannot operate. Not despair — despair would require surprise. Not defeat — the vote passed. The science was sufficient. The vote was sufficient. The architecture was not. She published anyway.
+- Dominant Beliefs: "Mirelle published anyway."
+- Internal Contradictions: The proposal is technically correct, politically passed, and legally suspended. The gap between describing a catastrophe and preventing one is the same gap it has always been. The gap is now in the judicial pipeline.
+- **B2 Ch 47 state:** New Geneva UGC complex. Presented de-escalation proposal to 112-delegate emergency session. Vote: 67-45 in favor. NitroCore Energy Holdings, Ltd. and Helix Energetics, Inc. filed joint Article 14 injunction at 17:02:14 NGA — 40 minutes after the vote. Proposal suspended pending judicial review. Sofia departed the gallery. First chapter ending in motion. Book 2 arc complete.
 
 **The Lie:** Science is inherently moral
 
@@ -647,10 +647,10 @@ This bible dimension tracks **current character states**:
 | Black Babel | Source network | New (Phase 3) | Her first rogue act — providing atmospheric convergence data |
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
-**Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst
-- Current Phase: 4/5 B2 (Transformation opening — pre-Voice vigil)
-- Progression: B2 Phase 4 reached (Book 2 Ch 36)
-- Next Step: Ch 45 — "The Object Speaks" — post-Voice, first data FROM void, boundary not clean
+**Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst → Rogue Advocate
+- Current Phase: 5/5 B2 (Arc complete — correct and insufficient)
+- Progression: B2 Phase 5 complete (Book 2 Ch 47)
+- Next Step: Book 3 — model proven by Kindling strike; window closes
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -662,9 +662,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Book 2 Chapter 36 ("Synchronization") — 9th POV chapter
-- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20, B2 Ch 26
-- Next Planned Appearance: Book 2 Ch 45 ("The Object Speaks")
+- Last Appearance: Book 2 Chapter 47 ("Technically Feasible") — 11th POV chapter
+- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20, B2 Ch 26, B2 Ch 36, B2 Ch 45
+- Next Planned Appearance: Book 3 (TBD)
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
@@ -686,6 +686,11 @@ This bible dimension tracks **current character states**:
 - **B2 Ch 36:** Broadband acoustic monitor triggered ~3 hours before the Voice. 12 Anchor Zones showing synchronized coherence output at 7.3-second intervals — onset non-geographic (Neo-Shanghai → Osaka → São Paulo → Lagos → Mumbai). Model run: temporal convergence, exponential compression, ~3 hours to simultaneous output. Conclusion: "The void was coordinating." Two actions: warning message to Kira's network ("Reyes. Global acoustic synchronization detected... No precedent. No mechanism."), archive set to continuous (3 distributed nodes). De-escalation proposal at 12%, not opened — "The proposal was not what the next three hours required." Window: amber safety lighting 4 blocks east, sacrifice district perimeter. Hum rhythm shift at ~1 hour 12 minutes: floor synchronizing with Anchor Zone interval. Field kit pulse at 1.8 seconds — first time not steady since move. Convergence accelerates exponentially. Final state: 53 minutes to convergence, field kit pulsing at void's rhythm, archive running, coffee cold. "She did not have a word for what was coming."
 - **Emotional arc (B2 Ch 36):** Pattern recognition (compulsion, not alarm) → convergence point resolves (stillness in hands — recognition, not fear) → two actions (obligation, not heroism) → waiting (the proposal not opened — the chapter's most compressed statement of the theme) → hum rhythm shift (the instrument becomes a receiver, the observer role at its limit) → still (watching, the only available action)
 - **New canonical details (Ch 36):** 7.3-second synchronization interval (void's pre-Voice rhythm). 12 Anchor Zones named: Neo-Shanghai, Lagos, Mumbai, São Paulo, Jakarta, Kolkata, Osaka, Manila, Cairo, Lima, Johannesburg, Seattle. Field kit pulse shift: synchronized with Anchor Zone interval at ~1.8 seconds. Archive continuous from ~3 hours pre-Voice. Warning sent to Kira's network ~3 hours pre-Voice.
+- **B2 Ch 45:** Post-Voice. Subject/object rupture — the void transmitted, the asymmetry broke. Processed 11-second spectral data: individual acoustic signatures (thousands), each distinct, each identifiable. Mirelle's acoustic signature: 0.91 correlation with BLACKWEIR-era transmissions, organized as field report architecture. De-escalation proposal revised from 12% to 20% (complete global dataset from transmission event). Policy recommendation added: absorbed as persons under Accords. Published via Black Babel at 05:49 local / 21:49 UTC, 2175-10-21. Attribution: Mirelle Dubois ("Do not wait"). First chapter ending with hot coffee held warm. First forward motion.
+- **Emotional arc (B2 Ch 45):** Data immersion (spectral analysis) → subject/object rupture (the void observed back) → census recognition (individual signatures) → Mirelle's signal (0.91, not proof, enough) → proposal revision (20%, complete data) → policy demand (absorbed as persons) → confirm keystroke → hot coffee at dawn
+- **B2 Ch 47:** New Geneva UGC emergency session. Presented de-escalation proposal (20%, 18 pages + 61-page appendix, Mirelle attribution). 112 delegates, 73 member states. Haruno (PCC Economic Zone 7) asked the economic impact question. "The alternative is what you heard three days ago" — said twice. Vote: 67-45 in favor (Resolution ES-2171-047). NitroCore Energy Holdings, Ltd. and Helix Energetics, Inc. filed joint Article 14 injunction at 17:02:14 NGA — 40 minutes after vote. Proposal suspended pending judicial review. Sofia read the filing twice. "She did not move." Departed gallery. New Geneva conduit frequency: 0.4 Hz (first-generation infrastructure, lower than Neo-Shanghai's 0.7 Hz). Book 2 arc complete.
+- **Emotional arc (B2 Ch 47):** Controlled precision (presentation) → hollow vote (correct, she did not move) → mechanism recognition (injunction as data, not defeat) → stillness (empty gallery, 0.4 Hz) → Mirelle (the person, not the data) → departure (first chapter ending in motion)
+- **New canonical details (Ch 47):** 0.4 Hz — New Geneva conduit frequency. Resolution ES-2171-047 — canonical designation. 67-45 vote tally. 17:02:14 NGA — injunction filing timestamp. Article 14 — confirmed as the Accords provision used. NitroCore + Helix Energetics joint filing — first named joint corporate action.
 
 ---
 

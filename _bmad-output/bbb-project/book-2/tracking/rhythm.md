@@ -1652,4 +1652,60 @@ Ch 19 is longer — AEGIS's debut required establishing the full processing arch
 
 ---
 
+### Chapter 47 — "Technically Feasible" (Sofia Reyes)
+
+**Mode:** PRESSURE
+**Tension Shape:** Institutional establishing (chamber architecture, 0.4 Hz measurement) → register pivot ("She was not brief") → presentation precision (data, naming resistance, the number) → confrontation (Haruno exchange, legal architecture question) → compression (gallery, vote lights populating) → mechanism (injunction, 40 minutes, Article 14) → stillness (empty chamber, hum, Mirelle) → departure (forward motion)
+**Pacing:** Phase 5 Sofia register — stripped, data-driven, confrontational-institutional. Denser than Ch 45 (which was contemplative-scientific); this chapter has dialogue and institutional process. Lighter than Ch 36 (which was sustained-dread). The chapter's rhythm tracks the institutional process: presentation → questions → vote → injunction → departure. Each section has its own tempo.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Chamber architecture / hum measurement | ~350 | Establishing | Slow, object-driven. The space believes in itself. |
+| Introduction / "She was not brief" | ~150 | Pivot | Two-sentence structural joke. Register established. |
+| Presentation (framework, Broadcast naming, data) | ~500 | Precision | Stripped. Subject-verb-object. The number: twenty percent. |
+| Haruno exchange / more questions / legal architecture | ~600 | Confrontation | Dialogue-driven. The spoken center. "The alternative is what you heard three days ago" said twice. |
+| Gallery / vote | ~400 | Compression | Vote lights populating. 67-45. "She did not move." |
+| Injunction / 40 minutes | ~500 | Mechanism | Densest institutional vocabulary passage. The mechanism functioning as designed. |
+| Empty gallery / hum / Mirelle | ~450 | Stillness | Slowest section. Three paragraphs. The person, not the data. |
+| Departure | ~150 | Forward motion | Brief. "She stood, and she left the gallery." Arc complete. |
+
+**Rhythm Notes:**
+- "She was not brief." — single-sentence paragraph after "I'll be brief." The chapter's first structural joke. Establishes the register: Sofia is precise, not terse. The chapter earns its length.
+- "Yes." (×3) — the chapter's fastest beats. Haruno asks, Sofia answers. The monosyllabic answers are the chapter's argument: the science is not complicated. The question is not scientific.
+- "She did not move." — single-sentence paragraph after the vote tally. The chapter's emotional center. The stillness is the argument.
+- "Two corporations." — single-sentence paragraph after the joint filing is named. The chapter's complicity beat. Processed as data.
+- The injunction paragraph is the chapter's longest continuous passage — deliberate. The mechanism requires the vocabulary. The density is the point.
+- The Mirelle closing is the chapter's slowest section — three paragraphs, the person not the data. The rhythm drops to match the register shift.
+- Closing compound chain: "the signal was the void and the void had spoken and the world had voted and the vote had passed and the answer had arrived in forty minutes." — the chapter's argument in one breath. The "and" chain is the only place in the chapter where Sofia's register approaches the paratactic accumulation of her most emotional passages.
+- Final two sentences: "Mirelle would have known this would happen. Mirelle published anyway." — subject-verb-object, twice. The simplest possible delivery for the arc's moral position.
+
+**Dialogue Percentage:** ~12–15% (concentrated in Haruno exchange; presentation, gallery, and closing are solo narration)
+
+**Pacing Concern:** None flagged. The institutional process structure (presentation → questions → vote → injunction → departure) is the correct architecture for this chapter. The density of the injunction section is earned by the compression of the departure.
+
+**Structural Note:** First Sofia chapter with dialogue since Ch 26. The dialogue is institutional — Haruno's questions, Sofia's data answers. The gap between them (political question / scientific answer) is the chapter's argument made audible. The legal architecture question ("I am an atmospheric physicist. The legal framework for implementation is the council's jurisdiction.") is the dossier weakness made explicit: she cannot communicate urgency in non-scientific language. She does not try.
+
+**Comparison to prior Sofia chapters:**
+| Chapter | Mode | Peak | Close |
+|---------|------|------|-------|
+| B2 Ch 4 | TEXTURE | Data classified / Novak's SOP 7.1 | Still at the window. |
+| B2 Ch 11 | PRESSURE | Publication / confirm keystroke | Terminal dark. Kitchen/window sequence. |
+| B2 Ch 20 | TEXTURE | Truth metabolized / city unchanged | Still at the window. |
+| B2 Ch 26 | TEXTURE | Proposal drafted / Erasure List | Midnight. The work continues. |
+| B2 Ch 36 | PRESSURE | Convergence / warning sent | 0.7 Hz. The model is correct. |
+| B2 Ch 45 | PRESSURE | Subject/object rupture / demand sent | Hot coffee. Forward motion. |
+| **B2 Ch 47** | **PRESSURE** | **Vote passes / injunction 40 min** | **"Mirelle published anyway." Departs gallery.** |
+
+**Sofia Rhythm Arc (cumulative B2 — complete):**
+- B2 Ch 4: TEXTURE. Institutional faith. Data classified. Still at the window.
+- B2 Ch 11: PRESSURE. Publication. Anticlimactic. Confirm keystroke. Terminal dark.
+- B2 Ch 20: TEXTURE. Aftermath. City unchanged. Still at the window.
+- B2 Ch 26: TEXTURE. Building. Proposal drafted. Midnight. The work continues.
+- B2 Ch 36: PRESSURE. Anticipation. Convergence. Warning sent. The model is correct.
+- B2 Ch 45: PRESSURE. The void speaks. Demand sent. Hot coffee at dawn. First forward motion.
+- **B2 Ch 47: PRESSURE. Vote passes. Injunction arrives. 40 minutes. "Anyway." Departs gallery. Book 2 arc complete.**
+
+---
+
 _Last updated: 2026-02-21_

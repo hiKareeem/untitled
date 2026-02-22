@@ -906,4 +906,27 @@
 
 ---
 
+### Chapter 47 — "Technically Feasible" (Sofia Reyes)
+
+**Sofia Reyes (POV):**
+- **Entering State:** Post-Ch 45. Proposal sent at dawn. In New Geneva for UGC emergency session. No institutional affiliation. Registered as "public." Field kit in bag. 0.4 Hz hum measured in lobby — different frequency, same infrastructure.
+- **Emotional Arc:** Controlled precision (presentation — stripped register, data-first, no urgency inflation) → the hollow vote (correct, sufficient, she did not move) → the injunction's forty-minute clock (reading the filing as data, not as defeat — the mechanism functioning as designed) → stillness in the gallery (the empty chamber, the display board holding the number, the hum at 0.4 Hz) → Mirelle (the person, not the data — three paragraphs, the thesis) → departure (first chapter ending in motion)
+- **Dominant Emotion:** The specific state of a scientist who has done everything correctly and watched the correct result suspended by the architecture she cannot operate. Not despair — despair would require surprise. Not defeat — the vote passed. The specific flatness of *correct and insufficient*, arrived at through the most direct path available. The science was sufficient. The vote was sufficient. The architecture was not.
+- **Key Emotional Beat:** "She did not move." — after the vote tally appears (67-45, green lights). The proposal passed. This is the chapter's emotional center: the vote is a success and she does not move. The stillness is not relief. It is the recognition that the vote was not the end of the process. She has modeled enough institutional processes to know what comes next. She does not move because moving would imply the vote was sufficient. It was not.
+- **Secondary Beat:** Reading the injunction filing. She reads it twice. The institutional vocabulary — *economic sovereignty*, *evidentiary sufficiency*, *non-institutional researchers*. She processes it as data. "Every phrase a mechanism." The emotion is not anger — it is recognition. The mechanism was always there. The mechanism was ready before the vote. The mechanism is functioning as designed.
+- **Tertiary Beat:** The Mirelle closing. Three paragraphs. First: the person — "not the data, not the 0.91 correlation." Second: the journalist who modeled institutions the way Sofia models data. Third: "Mirelle would have known this would happen. Mirelle published anyway." The ghost as moral argument. The chapter's final word is "anyway."
+- **Exiting State:** Standing. Leaving the gallery. Field kit in bag. The display board still showing 67-45. The injunction filed. The proposal in the judicial pipeline. The hum at 0.4 Hz. The first Sofia chapter that ends with her in motion. The arc is functionally complete for Book 2. The work continues.
+- **Emotional Shift from Ch 45:** Ch 45 ends with hot coffee held in hands at dawn — the one chapter where the work is done before the coffee cools. Forward motion through completion. Ch 47 ends with departure from the gallery — forward motion through insufficiency. The difference: Ch 45's motion was the send (the act). Ch 47's motion is the departure (the continuation after the act has been processed and suspended). Both are forward. The register is different. Ch 45 is the scientist who has made the demand. Ch 47 is the scientist who has watched the demand processed and suspended and is leaving anyway.
+
+**Sofia Emotional Arc (cumulative B2 — complete):**
+- B2 Ch 4: Institutional faith. Data classified. The Lie intact. Still at the window.
+- B2 Ch 11: Publication. Anticlimactic. The city unchanged. The Lie tested.
+- B2 Ch 20: Aftermath. Truth metabolized. Instrument recognized as wrong. Still at the window.
+- B2 Ch 26: Building. Proposal drafted. Erasure List assembled. The work continues.
+- B2 Ch 36: Anticipation. Convergence predicted. Warning sent. The model is correct. The threshold is approaching.
+- B2 Ch 45: The void speaks. Subject/object rupture. Demand made. Mirelle as co-author. Hot coffee at dawn. First forward motion.
+- **B2 Ch 47: Vote passes. Injunction arrives. 40 minutes. "Mirelle published anyway." Departs gallery. First chapter ending in motion. Book 2 arc complete: correct and insufficient.**
+
+---
+
 _Last updated: 2026-02-21_

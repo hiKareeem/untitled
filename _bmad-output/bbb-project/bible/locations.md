@@ -3,7 +3,7 @@ title: "Locations"
 type: bible-dimension
 dimension: locations
 lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 41"
+lastChapter: "B2 Ch 47"
 totalLocations: 20
 activeLocations: 15
 project_name: "Untitled"
@@ -478,6 +478,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - **Ch 30:** Emergency UGC session in Chamber 3 — Neo-Shanghai escalation. Zeyad invokes Article 7, Section 3 (first invocation in 11 years). NitroCore Legal counsel invokes Section 14 sovereign consent ("where practicable" as veto). Committee votes 23-3 to continue monitoring with enhanced briefing cadence. Cease-and-desist delivered to Zeyad's office (Article 12, NitroCore framing data as proprietary). Back-channel exchange from secure comm alcove (east corridor terminal): Mirelle diagnoses institutional architecture. Notebook full (47 questions), placed on desk not in drawer. Portrait touched deliberately (not ritual). Jordanian flag still flickering (9 weeks). "The mechanism did not exist."
 - **Ch 45:** BLACKWEIR aftermath. Class 4 → Class Apex reclassification. Committee emergency session in Chamber 3: votes on response framework (how to discuss, not what to do). Dead-hand fires Day 5 — Mirelle's cache arrives. Zeyad publishes public statement through Black Babel relay. Article 12, Section 8 violated.
 - **Ch 50:** Accords Compliance Tribunal convened — Article 12, Section 8 prosecution. Tribunal Chamber (same circular architecture as Committee Chamber 3). Dr. Adeyemi presides (Nigerian diplomat, 20-year acquaintance). Five counts of unauthorized disclosure. Evidence displayed as prosecution exhibits. Zeyad says nothing. Guilty on all five counts. Credentials revoked, access suspended. Biometric panel glows red — office inaccessible. Jordanian flag still flickering (months, maintenance request pending). FINAL Zeyad POV in Book 1.
+- **B2 Ch 47:** UGC emergency session in main council chamber (112 delegates, 73 member states). Sofia Reyes presents de-escalation proposal (20% nitro throughput reduction over 5 years). Vote: 67-45 in favor (Resolution ES-2171-047). NitroCore Energy Holdings, Ltd. and Helix Energetics, Inc. file joint Article 14 injunction at 17:02:14 NGA — 40 minutes after vote. Proposal suspended pending judicial review. Sofia departs gallery. Zeyad also present in gallery (Ch 52 POV). New interior established: **Main Council Chamber** (112 seats, curved architecture, acoustic engineering, session feed terminals in gallery, display board showing vote tally).
 
 **Key Interior Locations (established Ch 50):**
 - **Tribunal Chamber:** Same circular architecture as Committee Chamber 3 — "the same acoustics, the same procedural fluency." Seven tribunal members. Gallery seating. NitroCore terminal (observer status). Evidence display screens behind defendant's seat.
@@ -487,6 +488,7 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 - Actual glass windows (not polymer — heritage materials as UGC commitment signal)
 - Conduit infrastructure modern, well-maintained, but runs alongside conventional power (solar arrays, battery reserves — redundancy as political philosophy)
 - The hum is present but muted — background vibration in the floor, not the bones. "An abstraction."
+- **Conduit frequency: 0.4 Hz** (established B2 Ch 47 — first-generation installation, older trunk-line architecture, lower than Neo-Shanghai's 0.7 Hz). Measured by Sofia in the lobby with field kit. Must remain 0.4 Hz in all future Geneva scenes.
 - Jordanian holographic flag (third row, western wall) flickering at lower edge — 43+ mornings, maintenance request pending 6 weeks (budget cuts)
 
 **Significance:** Where faction representatives meet, negotiate, and betray each other. The GRRM "King's Landing" — power contested through words, votes, and backroom deals rather than breaches and orbital strikes. Book 2's political machinations play out here — where the decision to normalize sacrifice districts is debated, where AEGIS strike authority is contested.
