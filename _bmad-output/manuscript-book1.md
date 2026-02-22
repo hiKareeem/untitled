@@ -4613,37 +4613,13 @@ He stood. Put on his jacket. Walked to the garrison mess for a meal he would eat
 
 The hum followed him down the corridor. It was 8.1. It was always 8.1. It did not sound right.
 
----
+# Chapter 21
+## Matched Districts
 
-_Draft generated: 2026-02-15_
-_Word count: ~4,600_nn---
-workflowType: 'chapter-write-create'
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 21
-createdDate: '2026-02-15'
-author: 'Kareem'
-status: v1-complete
-title: 'Matched Districts'
-pov: 'Mirelle Dubois'
-wordTarget: '4000-5000'
-phase: 2
-location: 'Neo-Shanghai — transit box (Sump Sector 3) → Resonance District (Talia node RD-14) → transit box'
-timeline: 'Phase 2, weeks after Ch 13 Arctic-7 analysis, after Ch 17 Zeyad exchange'
-mode: 'create'
-epigraph_source: 'The Scream Made Readable'
-epigraph_author: 'Vox'
-epigraph_ref: 'Underground publication'
-rhetoric_reference: 'Feed editorial policy memo (leaked)'
-meta_note: 'AEGIS as invisible novelist — confident reconstruction from sensor data'
-draftVersion: 1
----nn> *"Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."*
+> *"Seven databases. Three institutions. Not one tasked an analyst with cross-referencing. The pattern was visible from any two. It required only that someone look at both."*
 > — "Vox," *The Scream Made Readable* (underground publication, undated)
 
 ---
-
-# Chapter 21
-## Matched Districts
 
 She woke to the dead-hand timer. Twenty-six hours. The address had pinged clean at 03:00, the window reset, the automated architecture holding its shape in the dark while she slept. She checked the number twice — not because she doubted the system but because the ritual of checking was the first structure her day had, and structure was what kept the rest of it from sliding.
 
@@ -6445,37 +6421,14 @@ The twenty-seventh had not been hers. Not today.
 
 She closed her eyes. The hum carried her toward sleep the way it always did — with the mechanical patience of a system that did not need her to be awake to continue what it was doing beneath her.
 
----
-_Draft generated: 2026-02-16_
-_Word count: ~4,300_nn---
-workflowType: chapter-write
-stepsCompleted: ['step-01-init', 'step-02-brief', 'step-03-draft', 'step-04-self-review', 'step-05-audit', 'step-06-bible-update']
-lastStep: 'step-06-bible-update'
-chapterNumber: 30
-draftVersion: 1
-createdDate: '2026-02-16'
-author: 'Kareem'
-chapter: 30
-title: "The Mechanism That Doesn't Exist"
-pov: "Zeyad Al-Fahim"
-phase: 3
-location: "New Geneva, UGC Headquarters"
-wordTarget: "4000-5200"
-mode: TEXTURE
-epigraph_source: "Nitro Accords, Article 7, Section 3"
-epigraph_text: "In the event of credible evidence indicating imminent systemic harm to civilian populations within signatory or licensed operational zones, the Council may convene an emergency coordination session and, upon majority vote, authorize investigative action including but not limited to: independent infrastructure assessment, population risk evaluation, and the temporary suspension of operational sovereignty pending the completion of said assessment. Sovereign consent of the operational license holder shall be obtained where practicable."
-rhetoric_reference: "UGC Emergency Session Transcript, 2175-Q1-14 — Motion to invoke Article 7, Section 3 (preemptive infrastructure assessment). Vote: 23-3, motion fails. Reason cited: sovereign consent not obtained."
-meta_note: "AEGIS as invisible novelist"
----nn---
+# Chapter 30
+## The Mechanism That Doesn't Exist
 
 > *"In the event of credible evidence indicating imminent systemic harm to civilian populations within signatory or licensed operational zones, the Council may convene an emergency coordination session and, upon majority vote, authorize investigative action including but not limited to: independent infrastructure assessment, population risk evaluation, and the temporary suspension of operational sovereignty pending the completion of said assessment. Sovereign consent of the operational license holder shall be obtained where practicable."*
 >
 > — Nitro Accords, Article 7, Section 3
 
 ---
-
-# Chapter 30
-## The Mechanism That Doesn't Exist
 
 The emergency session was convened at 09:00 on a Thursday.
 

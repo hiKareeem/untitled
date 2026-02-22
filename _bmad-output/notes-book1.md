@@ -1,5 +1,6 @@
 # Prologue
 "The small bones of her forearm." The forearm has two fairly large bones. The wrist is already mentioned. Make anatomically consistent.
+Patel changes gender.
 
 # CH1 
 Director Okafor, we have Lena Okafor later, let's make sure to do a sweep for each minor character name so we avoid confusing the reader. Change either this or Lena, just try to make unique.
@@ -17,4 +18,7 @@ In the Mirelle chapters you've already written — one scene, one moment, where 
 What to avoid: backstory dump, a scene that's about the relationship failing. The reader needs to see what's worth having before they can feel its loss.
 
 # CH7
-Mateo origin for desk preferred, see B2:C10.
+Mateo origin for desk preferred, see B2C10.
+
+# Epigraphs
+B1C21, B1C28, B1C32

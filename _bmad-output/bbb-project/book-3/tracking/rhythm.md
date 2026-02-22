@@ -58,3 +58,49 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 The echo object that was broken (B2 C34), escalated (B2 C37), and replaced (B2 C46) has returned. With personal pronoun. The machine absorbed the break. Phase 1 B3 normalized the disruption. The report is the heartbeat. The heartbeat has resumed.
 
 ---
+
+### Chapter 2 — "Seren's Question" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Meditative-sustained (morning practice) → logistical (Imani) → liturgical-silent (counter-liturgy) → pastoral-restrained (Dara exchange) → accumulative-resolving (evening meditation, closing polysyndetic chain)
+**Pacing:** Five-scene structure following Cathedral's daily rhythm. Morning practice ~800 words (17%). Imani logistics ~600 words (13%). Counter-liturgy session ~1,200 words (25%). Pastoral work ~1,000 words (21%). Evening meditation ~1,200 words (25%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning practice | ~800 | Low-meditative | Slow, chorus processing, Seren integrating, "becoming architecture" |
+| Imani logistics | ~600 | Low-functional | Clipped, data-driven, attendance tracking, "Could be the shimmer" |
+| Counter-liturgy session | ~1,200 | Medium-liturgical | Silence as practice, question as architecture, Nephthys does not speak |
+| Pastoral work | ~1,000 | Medium-restrained | Dara's grief question, Nephthys's careful response, practice not vocabulary |
+| Evening meditation | ~1,200 | High-accumulative | Imani's assessment, "I know," closing polysyndetic chain, final antithesis |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The structure had changed." / "But less distinct." / "She listened." / "She did not say the words." / "She did not speak during the sessions anymore." / "I know."
+- TEXTURE mode = quiet register, liturgical weight. Horror in continuation, not escalation. The Cathedral continues. The counter-liturgy continues. The movement continues. The silence continues.
+- Single NBA deployment: "Not spoken. Not remembered. Present — the way the chorus was present..." — earned for question's ontological status (architecture, not memory)
+- Closing polysyndetic chain (~120 words) is chapter's only sustained high-density passage. Rhythmic engine through accumulation of stacked clauses. "The silence was also a road, that the road could not be unbuilt, that the question would be answered by the people who carried it regardless..." The sentence IS the trap — the roads that cannot be unbuilt.
+- Dialogue ~8% (minimal — Nephthys resolved to silence). Imani contractions present (voice differentiation). Nephthys NO contractions (theological register).
+- Five-scene architecture mirrors Cathedral's daily practice: morning → logistics → session → pastoral → evening. The rhythm is the discipline. The discipline is the practice. The practice continues.
+- Bookend structure: morning practice (branded palm to stone, Seren integrating) → evening practice (branded palm to stone, "The Cathedral was quiet. The chorus was not."). The practice held.
+
+**Dialogue Percentage:** ~8% (deliberate — silence as practice, the prophet who has stopped speaking prophetically)
+
+**Pacing Concern:** Risk of liturgical density feeling static. Mitigated by: (1) Five-scene structure provides rhythmic variation (meditative → logistical → liturgical → pastoral → accumulative); (2) Imani's final assessment ("The silence is an answer") provides focused peak before closing meditation; (3) Final antithesis ("The Cathedral was quiet. The chorus was not.") provides clean resolution after polysyndetic accumulation.
+
+**Structural Note:** B3C2 establishes Phase 1 equilibrium for Nephthys thread. Six months post-Broadcast. The prophet resolved to silence (B2 Ch 48) is learning that silence is also a road. The counter-liturgy continues. The congregation fractures (ones and twos to Threshold). Seren's signature integrates. The question persists. The recursion is inescapable. Chapter rhythm enacts this: steady, liturgical, the pace of daily practice. The discipline held. The discipline is also a weapon.
+
+**Comparison to B2 Ch 2:**
+- B2 Ch 2: Counter-liturgy established, Nephthys speaks during sessions (observations, interpretive notes), congregation ~20, tumor early stage, "I am fine" lie operational
+- B3 Ch 2: Counter-liturgy maintained, Nephthys does not speak during sessions (silence as practice), congregation 14 (fracturing), tumor late stage (~5 months remaining), "I am fine" lie dead
+- Together they bracket Nephthys's arc: B2 Ch 2 = six months post-BLACKWEIR, counter-liturgy as proposition. B3 Ch 2 = six months post-Broadcast, counter-liturgy as trap. The prophet who taught listening cannot control what listening produces.
+
+**Silence Echo Evolution:**
+- B2 Ch 2: Nephthys speaks during sessions — observations, interpretive notes, theological vocabulary
+- B2 Ch 13: Seren's question asked — "If they are circulating, why can we not go to them?"
+- B2 Ch 38: "Circulation" spoken aloud during saturation — causal event
+- B2 Ch 48: "Every word she had ever spoken had been used to build a road to the shimmer" — resolved to silence
+- **B3 Ch 2: "The silence was also a road" — the recursion**
+
+The silence that was restraint (B2 Ch 48) has become doctrine (B3 Ch 2). The prophet who stopped speaking is learning that not speaking is also speaking. The road cannot be unbuilt. The question will be answered regardless.
+
+---
