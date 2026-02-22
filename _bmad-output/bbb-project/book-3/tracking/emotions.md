@@ -73,3 +73,58 @@ The absences are the emotional content. The institutional register processes wha
 **Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The machine continues. She continues. The machine is running. She is the machine. The running is the register. The register is the only register. The horror is that this is normal.
 
 ---
+
+### Chapter 4 — "The Erasure List" (Sofia Reyes)
+
+**Emotional Arc:** Analytical focus (model validation) → operational diagnosis (Kindling reports, grid rerouting) → coordination planning (Kira message) → mechanical ritual (protein bar, return to table) → functional horror enumeration (closing four-beat)
+
+**Emotional Register:** Flat-analytical. Phase 1 B3 equilibrium. The scientist whose model was validated, published, and politically defeated. Institutional affiliation: none. The register is operational coordination. Emotion conveyed through physical sensation (field kit weight, hands still, protein bar mechanical eating) and structural absence (no institutional vocabulary, no conditional hedging). The horror is not crisis. The horror is that everything works.
+
+**Physical Tells:**
+- Field kit weight check (not readings, the weight) — talisman function, not data function. 400 grams. Green indicator light. The familiar pressure in her hand.
+- Hands still = problem shape identified, not solution. "When her hands were still, she had not arrived at a solution. She had arrived at the shape of the problem."
+- Red/blue marker system — red = disconfirmations, blue = hypotheses. Scientific method as moral framework in institutional vacuum.
+- Protein bar standing — mechanical eating, food as process not pleasure. "The way she always ate — standing, near the work, the food a mechanical process that occupied the hands while the mind continued assembling."
+- Talks to herself when processing — "The air was a colleague. The air did not require institutional credentials."
+
+**Emotional Beats:**
+
+1. **The model worked** — Opening statement. Emotional weight: validation without consequence. Six months of post-Broadcast data refined the model. The math was elegant. The math had been elegant for three years. The politics were a different dataset. The validation that changes nothing.
+
+2. **The Erasure List** — 41 researchers, 14 countries. Emotional weight: congregation. The suppressed researchers are her network. Each name represents an institutional credential revoked, a career processed through bureaucratic machinery. "The researchers on the list had been erased. Not fired. Not discredited. *Processed.*" The institutional machinery does not need conspiracy. It needs process. Process is sufficient.
+
+3. **Karaboué relay exchange** — Professional register, technical vocabulary, no emotional language. Mombasa offline (bandwidth competition with void signal). Singapore 12-hour lag alternative. Emotional weight: operational. The encrypted relay infrastructure not designed for persistent collaboration. "They were using a mailbox as a conference room."
+
+4. **The injunction** — 40 minutes. General Assembly debated 11 hours. Vote passed 67-45. Injunction arrived before session transcript published. Emotional weight: institutional velocity. The legal response faster than the democratic process. NitroCore's 17 motions in first week. Each motion requires committee response. Each response requires procedural vote. The procedural votes scheduled for following quarter. The quarter not yet over. The institutional machinery processing the truth into paralysis.
+
+5. **Kindling reports** — 12 operations, 11 weeks. Paper printouts. "Paper was honest and paper was hers." The habit from VEC housing continues. Emotional weight: pattern recognition as compulsion. São Paulo (14% reduction), Lagos (8%), Jakarta (22%). The data was consistent. The model predicted every result. Then the grid rerouted. Every operation. Every time. The pattern visible without immersion pod, without holographic field. "She saw it the way she saw every pattern — as a structure that assembled itself in the space between the data points."
+
+6. **Hands still** — Emotional weight: problem shape identified. Red marker on Operation 7 printout: "The problem is not the model. The problem is the grid." And underneath: "The grid self-corrects because the grid was designed to self-correct. The same engineering that prevents cascading failure prevents cascading reduction." She set the marker down. Her hands were still. When her hands were still, she had not arrived at a solution. She had arrived at the shape of the problem.
+
+7. **Talking to herself** — "If the strikes were synchronized," Sofia said. The murmured processing. The habit she'd never managed to break. Followed her from immersion pod to monitoring lab to VEC housing to rented apartment in lower Mid-Levels. Emotional weight: continuity through loss. The air as colleague. The air does not require institutional credentials. The processing continues regardless of infrastructure.
+
+8. **Field kit held** — Stopped mid-sentence. Reached for field kit. Held it. Green indicator light. The weight. Emotional weight: talisman. Not checking readings. Checking weight. The familiar pressure in her hand. The instrument that followed her from VEC immersion pod to field kit to table in Black Babel safe house. 400 grams. The constant.
+
+9. **Kira message sent** — Four lines. The register learned during 11 days of composing mid-truth. Accessible, clear, subject-verb-object. Not institutional language. Not conditional hedging. "The language of a person standing in a room with evidence and no institution and the knowledge that the evidence required something other than a paper." Relay cycled: green, amber, green. Message entered encrypted network 14:23 local time. Emotional weight: data in transit. The same way mid-truth had been in transit. The same way dead-hand evidence had been in transit. The way every piece of evidence eventually entered a network and traveled beyond her reach and did whatever it was going to do in the world that received it.
+
+10. **Protein bar ritual** — Standing. Near the work. Mechanical eating. The bar tasted like the same compound every protein bar had tasted like since graduate school. Emotional weight: habit. "The way habits follow people who have lost everything except the habits." She finished it and went back to the table.
+
+11. **Closing four-beat** — "The model worked. The grid worked. The injunction worked. Everything worked. The breaches were still expanding." Emotional weight: functional horror. The enumeration of systems functioning exactly as designed. The horror is not failure. The horror is that everything works and the breaches continue. The system's functionality is the crisis.
+
+**Emotional Absence:**
+- No grief for institutional loss (VEC termination processed months ago)
+- No anger at injunction (institutional response expected, predicted)
+- No frustration at Kindling failures (grid behavior understood, modeled)
+- No fear of coordination risk (operational planning, not emotional processing)
+- No hope for success (model validation ≠ political implementation)
+
+The absences are the emotional content. The analytical register processes what it can, models what it cannot. The modeling IS the emotional response. The coordination IS the emotional state.
+
+**Comparison to B2 Ch 4:**
+- B2 Ch 4: Post-BLACKWEIR marginalization. "She had the data. She did not have the institution." Institutional break fresh, processing ongoing.
+- B3 Ch 4: Post-Broadcast coordination. "The model worked... Everything worked. The breaches were still expanding." Institutional break normalized, operational mode established.
+- Emotional evolution: institutional loss → operational autonomy. The break that was trauma (B2) is now baseline (B3). Six months converted the loss into infrastructure.
+
+**Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The scientist without an institution. The model validated. The publication defeated. The coordination beginning. The horror is that everything works and nothing changes. The functional systems enumerate. The breaches expand.
+
+---

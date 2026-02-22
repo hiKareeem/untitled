@@ -148,3 +148,47 @@ The silence that was restraint (B2 Ch 48) has become doctrine (B3 Ch 2). The pro
 The suppression that was functional (B2 Ch 3) has become the cause of the crisis (B3 Ch 3). The institutional operator who Silenced Nephthys is now the man whose Silencing created the Threshold. The refutation and the cause share an author. The recursion is explicit. The recursion does not resolve. The question survives.
 
 ---
+
+### Chapter 4 — "The Erasure List" (Sofia Reyes)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (model validation) → analytical (Kindling reports) → operational-rising (coordination planning) → resolving (message sent, closing four-beat)
+**Pacing:** Three-section structure following operational analysis. Opening ~1,100 words (27%). Kindling reports ~1,600 words (40%). Coordination planning ~1,350 words (33%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening — Model/Erasure List | ~1,100 | Low-sustained | Data processing, institutional suppression, Karaboué relay exchange |
+| Kindling reports | ~1,600 | Medium-analytical | 12 operations reviewed, pattern recognition, grid rerouting identified |
+| Coordination planning | ~1,350 | Medium-rising | Scale problem defined, Kira message sent, closing protein bar ritual |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The model worked." / "The politics were a different dataset." / "The data was consistent." / "Then the grid rerouted." / "The math was elegant."
+- TEXTURE mode = quiet register, analytical horror. Horror in continuation: model works, grid works, injunction works, breaches expand. The system's functionality IS the problem.
+- No NBA deployment — Sofia's POV doesn't use the technique. Her register is paratactic precision, not italicized emphasis.
+- Closing ritual: protein bar standing, mechanical eating, return to table. Four-beat closing: "The model worked. The grid worked. The injunction worked. Everything worked. The breaches were still expanding." The horror is enumerated functionality.
+- Dialogue ~12% (minimal — Karaboué relay exchange only). Professional register, technical vocabulary, no emotional language.
+- Three-section architecture mirrors operational analysis: validation (model complete) → diagnosis (grid defeats local action) → prescription (coordination at scale). The rhythm is the scientific method.
+- Bookend structure: "The model worked" (opening) → "Everything worked. The breaches were still expanding." (closing). The validation that changes nothing.
+
+**Dialogue Percentage:** ~12% (deliberate — operational chapter, encrypted relay communication, professional register)
+
+**Pacing Concern:** Risk of analytical density feeling static. Mitigated by: (1) Three-section structure provides rhythmic variation (validation → diagnosis → prescription); (2) Kindling reports enumerated with geographic specificity (São Paulo, Lagos, Jakarta) provides concrete detail; (3) Closing four-beat enumeration provides rhythmic resolution after analytical accumulation.
+
+**Structural Note:** B3C4 establishes Phase 1 equilibrium for Sofia thread. Six months post-Broadcast. The scientist whose model was validated, published, and politically defeated. The Erasure List (41 researchers, 14 countries) is her congregation. The Kindling (12 operations, 12 local successes, 12 aggregate failures) is her proof of concept. The grid's 18% rerouting tolerance is her antagonist. The coordination problem is her operational focus. Chapter rhythm enacts this: steady, analytical, the pace of operational planning. The model is complete. The execution begins.
+
+**Comparison to B2 Ch 4:**
+- B2 Ch 4: "0.7 Hz" — post-BLACKWEIR marginalization, Novak meeting (0.98 correlation), Mirelle's packages, assembly begins, VEC housing
+- B3 Ch 4: "The Erasure List" — post-Broadcast coordination, Karaboué relay (Erasure List established), Kindling reports, coordination begins, Black Babel safe house
+- Together they bracket Sofia's arc: B2 Ch 4 = six months post-BLACKWEIR, assembly mode (gathering evidence). B3 Ch 4 = six months post-Broadcast, coordination mode (planning execution). The scientist who assembled the truth now coordinates the action.
+
+**Closing Echo Evolution:**
+- B1 Ch 5: "She saved the file. Entry 14." — institutional archive, personal parallel
+- B1 Ch 27: "She pressed confirm. The model was complete." — consciousness term added, 0.97 correlation
+- B2 Ch 4: "She had the data. She did not have the institution." — post-BLACKWEIR break
+- B2 Ch 11: "She pressed confirm. The document entered the world." — mid-truth publication
+- **B3 Ch 4: "The model worked. The grid worked. The injunction worked. Everything worked. The breaches were still expanding." — functional horror**
+
+The closing that was institutional archive (B1 Ch 5), then model completion (B1 Ch 27), then institutional break (B2 Ch 4), then publication (B2 Ch 11) has become enumerated functionality (B3 Ch 4). The horror is not failure. The horror is that everything works exactly as designed and the breaches continue. The system's functionality is the crisis.
+
+---
