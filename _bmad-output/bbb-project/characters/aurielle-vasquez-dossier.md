@@ -301,3 +301,17 @@ C1: "The Chair opened the next report." → C23: "The Chair opened the next repo
 - Handkerchief in the drawer, unopened. Eduardo not in the void's inventory — died outside the system. Unresolved through Book 2.
 - "I know" — two words in the space where the small voice used to be. Something emerging. No name yet.
 - Aurielle's Book 3 arc terminus: the balcony.
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**Arc direction:** Thorne breaks after the Broadcast and SHEPHERD's termination. He leaves — not absorbed, not dramatic, just done. She has been running the machine without the enabler's framework. The throughput reduction campaign (Kindling strikes) creates vulnerability for the grid she manages. The Proposition arrives. The grid survives at reduced throughput. NitroCore survives. The machine absorbs the Proposition like it absorbs everything.
+
+**Endpoint (LOCKED):** Suicide. She steps off the balcony. We show the fall. We may show the body hitting the pavement — possible callback to Eduardo's head exploding. The Anchor Zone may extend to the NitroCore tower area or continue expanding, causing evacuations. She stays. The machine does not stop. The quarterly earnings report comes out on schedule. The step is the first decision she makes for herself. It is also her last.
+
+**"The continuation is—" structure:** Aurielle gets an ending, not the dash. The fall IS the ending. The silence after is the ending.
+
+**Open:** When exactly does Thorne leave? Early B3 or mid-B3?

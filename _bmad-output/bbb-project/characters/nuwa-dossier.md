@@ -234,3 +234,19 @@ What does it mean to live when your life was never the point? When the system th
 **The Lie:** "If you're small enough, the system doesn't notice you."
 
 **How the Lie is tested:** The transit denial (Phase 3) cracks it — the system does notice. BLACKWEIR (Phase 4) shatters it — the system noticed all along and decided she was expendable. The relief shelter (Phase 5) offers the final test: the system is now ready to re-process her. New ID, new housing, new Sump. She declines. Not because the Lie is wrong, but because she's done living inside its logic. She chooses invisibility — the real kind, on her own terms, outside the system's inventory. Whether that's freedom or just a different kind of cage is a question the trilogy has three books to answer.
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** "I Was There." Testimony network. "Someone recognized it." "She was in both systems now." Invisible → network node.
+
+**Arc direction:** She needs to meet Kira in person. Their entire B2 connection is network-mediated. The most natural path: Nuwa coordinates logistics for a trip to the Neo-Shanghai Anchor Zone for Kira (logistics is what Nuwa does — "this way, bring water"). This gets them in the same physical space. She may be the one who gets Kira help during the hospitalization. The Proposition tells her the count is final — the count stabilizes. That is the best she has ever gotten.
+
+**Endpoint:** In a world that does not end, Nuwa survives. She has always survived. The question is what surviving looks like when you have stepped out of invisibility and cannot go back.
+
+**"The continuation is—" structure:** TBD. Nuwa may get an ending (survival as active choice, not default) or the dash (the counting continues, the surviving continues, nothing resolves). Her arc has always been about persistence rather than resolution.
+
+**Open:** Does Nuwa go to the Anchor Zone with Kira, or bring Kira to the Mid-Levels? What is her role during Kira's hospitalization? Does the counting continue — what is she counting at the end?

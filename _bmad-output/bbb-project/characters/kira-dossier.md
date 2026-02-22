@@ -276,3 +276,19 @@ Kira substitutes audience for intimacy. The streaming relationship is the templa
 - **Testimony vs. content:** The 11-second scream is the moment where content becomes testimony. The stream that was entertainment becomes evidence. The audience that was consuming becomes witnessing. Kira has to decide whether to let the testimony stand or retract it into content (the "equipment malfunction" statement). She chooses testimony. The scream is not content. It's not hers. It belongs to the absorbed.
 
 **Central question:** Can you be a person if every version of you was built by someone else — and if the first authentic thing you do is scream?
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** Network 214/31 hubs. Lumina 60mg+. Academy expelled. Convergence with Nephthys complete. Second Broadcast (the Voice event relay).
+
+**Arc direction:** Personality drift from Lumina dependency leads to risk-taking behavior — manic presentation. She streams near an Anchor Zone. She does not remember that stream (possibly confused for breach tourism by authorities). She is hospitalized. After hospitalization, she makes a conscious decision: continue being the antenna, or go back to just being Kira. The Proposition comes through the mage network — clearest signal she has ever received. May be the stream she cannot remember, or what triggers the hospitalization.
+
+**Endpoint (LOCKED):** She chooses herself. Whatever that means regarding the implant and Lumina — she wants to stream again, consistently, until the end. Identity reclaimed over antenna function. Nuwa meets her in person (their B2 connection was entirely network-mediated). Nuwa may be the one who gets her help during hospitalization.
+
+**"The continuation is—" structure:** Kira gets an ending, not the dash. The choice IS the ending. She chose.
+
+**Open:** What does the blackout stream look like? Who hospitalizes her? What does "just being Kira" mean at this point? Lumina dosage trajectory (60mg → ? → hospitalization threshold)?

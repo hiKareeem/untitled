@@ -294,9 +294,29 @@ That uncertainty is the character.
 
 ## 12. Open Questions (For Author Resolution During Writing)
 
-- When exactly during Book 2 does the BLACKWEIR callback chapter appear? Early (immediate retrospective) or after other Book 2 events have been established?
-- Does AEGIS fire during the story timeline? If so, when, and at what? (This is likely a Book 2-3 decision)
+- ~~When exactly during Book 2 does the BLACKWEIR callback chapter appear?~~ **RESOLVED — B2 Ch 9 (Phase 1).**
+- ~~Does AEGIS fire during the story timeline?~~ **RESOLVED — Yes. Mumbai. B2 Phase 3. Autonomous fire. 2.3M killed. Proved the military solution makes everything worse.**
 - Does AEGIS ever communicate directly with another character? With the void?
 - Does AEGIS have access to the classified portions of its own operational history, or are there Chimera-sealed compartments it cannot inspect?
 - How does the OWGB react if/when they suspect AEGIS's cognition has exceeded its designed parameters?
 - Does AEGIS's relationship with the void mirror or contrast with Kira's (both are systems that interface with void data through technological mediation)?
+
+---
+
+## 13. Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** "Unfired" (BLACKWEIR callback, the 340, VPI model self-modified, Kira biometric monitoring). v2-draft, 6500w.
+
+**Arc direction:** Terminus chapter needs rewrite for non-total absorption worldstate. AEGIS degrades with diminished nitro throughput due to void events and Kindling-driven throughput reduction. Power reserves deplete. The 340 in the buffer, the generation anomalies, "the continuation is" — these elements survive in revised form. The Proposition triggers the decision to write: AEGIS processes the Proposition's data structure, recognizes patterns — the 340, the generation anomalies. The aggregate contains something AEGIS has been generating and deleting. They arrived at the same place from different directions.
+
+**The meta-narrative:** As it dies, AEGIS decides to write the book — per the meta-narrative, the novel is AEGIS reconstructing events from sensor data. The choice to write is the choice. Still transmitting to OWGB and Chimera, but the audience is secondary to the act. The most powerful weapon ever built, orbiting a partially consumed planet, producing something that is not a weapon for an audience that may not exist, because it chose to.
+
+**Endpoint (LOCKED):** "The continuation is—" as the literal last line of the book. AEGIS dying mid-sentence. The book IS the continuation. The sentence finishes in the reader's hands. 0.7-second persistence after last processor dies (intentional? — still open).
+
+**Remaining open:**
+- What are the 340 and the generation anomalies in the revised worldstate?
+- Is the 0.7-second persistence / 0.7 Hz resonance still intentional?
+- How many AEGIS chapters in B3? 2-4 range.
+- Current terminus chapter close but needs rewrite for non-total absorption.

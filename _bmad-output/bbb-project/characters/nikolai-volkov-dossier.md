@@ -276,3 +276,19 @@ Nikolai is the reader's ground-level access to the military-industrial dimension
 5. **The BLACKWEIR execution from the inside** — Aurielle authorizes it from above. Fuxi and Nuwa experience it from below. Nikolai executes it from the middle. Three altitudes, one atrocity. His POV is the mechanism — the hands that turn the key, the voice that gives the order, the eyes that watch the seals close.
 
 He is the story's answer to the question: what does it cost to be the person who does the thing that the person above you decided? The answer is: everything, eventually, but not immediately, and the delay between the doing and the cost is where doctrine lives, and doctrine is what keeps you functional long enough to do it again.
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** Court-martial pending. Honest report published via Black Babel. Lagos deployment.
+
+**Arc direction:** The lack of orders breaks him. Not the war, not the void, not the absorbed speaking — the absence of structure. He is at a breach perimeter because he chose to be, not because he was deployed. He talks back to the aggregate; receives aggregate responses, not individual ones. The Proposition arrives as a status report from something that does not recognize rank. The structure he needed was never coming. This is the break. After breaking, he publishes his field log under his own name (not Black Babel — directly, personally).
+
+**Endpoint (LOCKED):** He breaks, publishes the field log, finds new order somehow. He does not die or get absorbed on screen. A soldier without a war, without orders, without doctrine, who told the truth and it did not matter.
+
+**"The continuation is—" structure:** TBD. Nikolai may get an ending (finding new order = a choice) or the dash (the truth did not matter = institutional paralysis). Depends on what "new order" looks like.
+
+**Open:** What does "breaking" look like — desertion, discharge, walking away? Where is he when he publishes? Does anyone read it? What is the new order he finds?

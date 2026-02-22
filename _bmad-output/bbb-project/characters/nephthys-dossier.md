@@ -248,3 +248,23 @@ When the heretic's truth is more accurate than the institution's science, who de
 **The Lie:** "Understanding the void means being safe from it."
 
 **How the Lie is tested:** BLACKWEIR. She understands the void better than anyone alive. She stands in the Cathedral doorway and watches thousands being absorbed. She feels them, through the chorus, persisting. Her understanding is confirmed. Her safety is accidental — the Cathedral's acoustic architecture, not her theology, is what kept the wet-film from reaching her. Understanding gave her the truth. Physics gave her survival. The Lie is not refuted — it's *separated*. Understanding and safety turn out to be independent variables. She has the former. She got lucky with the latter. A prophet who can read the weather and still gets wet — but who happened to be standing under a roof.
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** Kira convergence complete ("Same Signal"). Cathedral counter-liturgy established. Seren already asked "why can't we go to them?" Movement splitting. Tumor diagnosis placed in B2 (~11 months to death).
+
+**Arc direction:** Seren is confirmed as [THRESHOLD-FIGURE] and has already walked into the Anchor — she is gone. Nephthys built a congregation on a mass grave, and she stayed, and now the mass grave is taking volunteers. She cannot refute the Threshold argument without invoking institutional authority she rejected. She does not join. She does not stop them. The Threshold movement is personally catastrophic and geophysically irrelevant — her theology did not make the void bigger, it made the void articulable (the volunteers taught it to speak, enabling the Proposition).
+
+**The Proposition:** Vindication and devastation. The chorus IS what she said. It is never returning to human form. She was right about presence. Wrong about what presence was for. Her on-page response is the theological reckoning — the last thing she does before the tumor takes her.
+
+**Endpoint (LOCKED):** Nephthys dies to the tumor AFTER the crisis (the Proposition). She dies of the thing that was killing her before the void, before the theology, before any of it. The chorus does not take her. Biology does. Imani is there. Imani has a congregation to run after Nephthys is gone.
+
+**Malachi timing:** Not locked. A conversation between them would be interesting; him arriving after she has passed is devastating. Either works. May decide during chapter planning.
+
+**"The continuation is—" structure:** Nephthys gets an ending, not the dash. Biology gives her an ending the void would not.
+
+**Open:** Does she die at the Cathedral or elsewhere? What does Imani do with the congregation — scene or implied?

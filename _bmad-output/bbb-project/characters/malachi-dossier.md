@@ -246,6 +246,24 @@ After Nephthys's death (Book 3, brain tumor — NOT absorption), Malachi is the 
 2. When does the locked correspondence become public? Does Malachi publish it voluntarily, or is it leaked/discovered?
 3. Does he interact with Aurielle (NitroCore-Church institutional relationship)?
 4. How does he respond to Nephthys's death? Does he learn of it? Through what channel?
-5. Endpoint: Last Encyclical (Option A) or Walks into Anchor (Option B)? The chapter plan should develop both options far enough to make the decision informed.
+5. ~~Endpoint: Last Encyclical (Option A) or Walks into Anchor (Option B)?~~ **RESOLVED — see Book 3 Arc below. He does not get absorbed. He ends in his study.**
 6. Does the Luminarch remain a background figure, or does the Luminarch's response to the crisis create conflict within the Church leadership?
 7. What is his relationship to the Threshold wing? Does he see the accelerationist theology as a heresy he must suppress (repeating the Nephthys pattern) or as the logical consequence of his own suppression?
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** Blank encyclical page. Correspondence placed "in the open." 43-step corridor. Deliberative phase. The "yet" transformed to deliberative.
+
+**Arc direction:** The most impotent arc possible. Not dramatic. Not excommunication. Not a complete change of faith. He is too smart for Threshold — he sees through the voluntarist theology immediately. He publishes or attempts to publish something (the correspondence? A revised encyclical? The truth as he understands it?). The Proposition arrives as theology in physics' clothing — he sees through the voluntarist interpretation instantly, also sees the Church will weaponize it. He publishes in response.
+
+**Key scene:** Malachi travels to the Cathedral. He meets or confronts the physical reality of what Nephthys built. This is the institutional Church walking into the space the counter-Church created. Malachi-Nephthys timing not locked: a conversation between them would be interesting; him arriving after she has passed is devastating. Either works.
+
+**Endpoint (LOCKED):** He does not get absorbed. He ends in his study, knowing the truth, unable to do anything about it. The institution survives. The institution does not change. He is inside it. The most impotent ending: correct, aware, and irrelevant.
+
+**"The continuation is—" structure:** Malachi gets the dash. His story does not resolve — the institution endures, the truth is known and ignored, he is inside it. Institutional paralysis in theological register.
+
+**Open:** Does he successfully publish? Or does the institution suppress it? What specifically does he publish? Does he meet Nephthys directly, or arrive at the Cathedral after she is dead?

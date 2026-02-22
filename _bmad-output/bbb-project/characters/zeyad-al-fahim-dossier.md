@@ -265,3 +265,19 @@ What happens when the record-keeper realizes the records don't matter?
 **The Lie:** "If the record is complete, justice is possible."
 
 **How the Lie is tested:** Mirelle's absorption. The record *is* complete. He has everything — the Alpha-7 classification denials, the committee vote transcripts, the correlation data, the infrastructure photographs, the back-channel notes, the emergency clause invocation and its rejection. The record is more complete than any record the UGC has ever produced on any subject. It documents the suppression of evidence, the engineering of sacrifice infrastructure, the procedural authorization of mass death, and the specific individuals and institutions responsible. Justice is not possible. The committee votes to monitor. Mirelle dies. The record sits in a drawer. The Lie is not refuted by a dramatic revelation — it is refuted by the specific, ordinary silence of a committee voting to do nothing while holding the complete documentation of a preventable catastrophe. The record is perfect. Justice is absent. The gap between the two is the gap his entire life was built to close, and the gap is structural, and no amount of documentation will ever close it.
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** "Forty Minutes." Vote passes, injuncted. Replacement document continues. "The pen continued." Tribunal ongoing (63 sessions). Grey pass degrading. Jordanian flag failing.
+
+**Arc direction:** He finishes the replacement document. He presents it — formally, through whatever institutional channel still exists. It gets filed. Not rejected, not adopted — filed. The bureaucracy's final act: receiving the document and doing nothing with it. The Proposition arrives — no counterparty. The Proposition is not addressed to the UGC. Diplomatic frameworks are irrelevant. The replacement document is complete. There is no one to present it to who matters.
+
+**Endpoint:** The replacement document is complete. The pen stops because the document is finished, not because the world ended. The record exists. A diplomat without a functioning diplomatic corps.
+
+**"The continuation is—" structure:** Zeyad gets the dash. His story does not resolve — the document is filed, the institution endures in diminished form, the record-keeping continues. The pen continued.
+
+**Open:** Where does he present the document — UGC (if it still exists) or some successor body? Does anyone acknowledge it? What happens to him after?

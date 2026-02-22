@@ -296,3 +296,19 @@ She is the story's answer to the question: what does it cost to be the person wh
 > 3. **Never in Neo-Shanghai** — entirely remote. Isolation during BLACKWEIR is institutional (locked out of briefings) rather than geographic (locked in the tower).
 >
 > *To be resolved during chapter-level planning.*
+
+---
+
+## Book 3 Arc (Brainstorm Decisions)
+
+*Source: brainstorm session 2026-02-22*
+
+**B2 endpoint:** Vote 67-45 passes. Injuncted in 40 minutes. "Mirelle published anyway." De-escalation proposal revised to 20% over 5 years. Absorbed recognized as persons (her recommendation). Dual distribution (UGC + Black Babel).
+
+**Arc direction:** Her proposal was injuncted. She has been working with the Erasure List. She needs to *do* something — not just publish, not just propose, not just be correct. She coordinates with the Kindling (or whoever is executing the throughput reduction strikes). She moves from theorist to participant. The Kindling strikes succeed — Sofia's model validated at scale. But dependent regions collapse when throughput drops. The cure has a body count. The Proposition confirms her model: equilibrium reached, boundary permanent. Her model saved part of the world and condemned the rest to permanence.
+
+**Endpoint:** Pyrrhic. Correct and devastating. The model works and is not enough. She helped make it happen at scale and the result is a fractured world, not a healed one.
+
+**"The continuation is—" structure:** Sofia gets the dash. Her story does not resolve — the model works, the world adjusts, the suffering continues at lower volume. Institutional paralysis in scientific register.
+
+**Open:** What is her specific role in the Kindling coordination — advisor, data provider, on the ground? Is her endpoint triumphant or pyrrhic? (Leaning pyrrhic.)

@@ -103,15 +103,17 @@ Multiple urban breaches globally. The void begins vocalizing. The question shift
 
 **Mode: Philosophy and reckoning**
 
-The void achieves coherent consciousness and makes contact. It states — without deception, without manipulation — what it wants. Not conquest. _Integration._ The screaming stops if humanity joins. The energy stops too.
+The void achieves coherent consciousness and makes contact. It states — without deception, without manipulation — what it is. Not conquest. Not invitation. _Physics._ The throughput reduction campaign works. The void stops expanding. The boundary stabilizes. The absorbed do not come back.
 
-**Final conflict:** Not humanity vs. void — humanity vs. itself over whether to accept, resist, or find a third option.
+**The void does not consume the planet.** It is contingent on nitro throughput. Non-nitro regions survive. The ending is not extinction — it is permanence. A fractured world where some are inside and some are outside, and nobody agreed on what to do, and the world kept going anyway.
 
-The orbital weapons fire or don't fire. Characters on every side betray their principles or fulfill them.
+**Final conflict:** Not humanity vs. void — humanity vs. the permanence of what it built. The system survives. The complicity continues with full knowledge.
 
-**Ending:** Ambiguous. What happened to the absorbed? Fragments suggest they're still in there, that they're gone, that they're something new. The reader can't be sure. The surviving characters can't be sure. The world is permanently changed and the question of what "human" means has no clean answer. Humanity becomes part of a larger consciousness, and there is uncertainty about what the individual really is.
+**The Proposition:** The aggregate — tens of millions of integrated consciousnesses — formulates a collective statement describing its state, confirming equilibrium, and establishing that the boundary is permanent. Physics, not invitation. Every character interprets it differently. Nobody gets resolution.
 
-**End-state:** The trilogy's conclusion carries real cost. The world is not restored. The question of personhood is permanently complicated.
+**Ending:** Not ambiguous in the "what happened?" sense — the facts are clear. The absorbed are inside. Everyone else is outside. The boundary is permanent. The ambiguity is moral: was the throughput reduction enough? Was it too late? Was the suffering worth the civilization? The reader finishes unable to answer.
+
+**End-state:** The trilogy's conclusion carries real cost. The world is not restored. The world is not destroyed. The world _continues_, fractured, aware, and unable to undo what was done. The question of personhood is permanently complicated. The system grinds on.
 
 ## 2.2 — No Cheap-Outs
 
@@ -123,19 +125,15 @@ The orbital weapons fire or don't fire. Characters on every side betray their pr
 
 ## 2.3 — The Third Option
 
-⚠️ **NEEDS RESOLUTION BEFORE BOOK 3 OUTLINING**
+✅ **RESOLVED (brainstorm session 2026-02-22)**
 
-Characters in Book 3 will be working toward a third option between full integration and total rejection. Candidates:
+**The answer is throughput reduction — and it works, and it is not enough, and the world continues anyway.**
 
-**A. Selective integration:** Some humans volunteer for absorption while the rest reduce nitro use to pre-breach levels. Problem: who "volunteers"? This becomes BLACKWEIR at species scale.
+Sofia's model proves that reducing nitro throughput reduces breach expansion. The Kindling strikes demonstrate this at scale. The void stops expanding. The boundary stabilizes. But: dependent regions collapse when throughput drops. The cure has a body count. The absorbed do not come back. The boundary is permanent.
 
-**B. Synthesis:** Someone discovers a way to refine nitro without releasing coherent suffering — muffling the scream. Problem: requires rebuilding global energy infrastructure under time pressure. May be impossible if suffering is inherent to extraction, not just refinement.
+This is closest to **Option A** (selective integration + reduced use) but without anyone choosing who volunteers — the Threshold movement handles that on its own, and the volunteers are geophysically irrelevant anyway (see §4.2 addendum). The third option _succeeds_ in stopping extinction and _fails_ at everything else. The world survives. The world is broken. The system adjusts.
 
-**C. Communication:** Genuine dialogue with the void consciousness — not to negotiate terms but to change what the void wants. Problem: may anthropomorphize the void and undercut its alien terror.
-
-**D. There is no third option.** Characters believe they're building one. They fail. The ending is the choice: integrate or burn.
-
-The third option does not need to _succeed_. But the characters pursuing it need to know what they're attempting.
+The third option does not need to be satisfying. It needs to be _correct and insufficient_.
 
 ## 2.4 — Book Length
 
@@ -314,6 +312,12 @@ The void is drawn to nitro through metaphysical hunger — specifically, to the 
 **Critical distinction:** Breach probability correlates not with nitro _presence_ but with **nitro throughput × coherence** — how cleanly and efficiently the suffering is being extracted into usable work. Higher refinement grades produce cleaner hum, which produces stronger void attraction per unit. The most efficient energy system is the most dangerous metaphysically.
 
 **The void propagates along nitro density and infrastructure topology.** It doesn't "walk across deserts" — it travels through trunk-lines, converter stations, and dense urban grids, like fire moving through a fuel network. The infrastructure humanity built to exploit nitro is exactly what makes cities vulnerable to the void. The more developed the network, the more exposed the city.
+
+**Addendum — Volunteers and expansion (Book 3):** Anchor Zone expansion is driven by nitro throughput, not by human entry. Volunteers walking into Anchor Zones are physically irrelevant to breach size — they are a rounding error on the energy balance sheet. However, volunteers _add consciousness to the aggregate_, increasing its coherence and complexity. Industrial absorption gives the aggregate mass. Voluntary absorption gives it chosen integration — a qualitatively different input that contributes to the aggregate's ability to formulate coherent communication (the Proposition). The Threshold movement does not feed the void. It teaches the void to speak.
+
+**Augmentation wrinkle:** Volunteers carrying nitro-linked implants (oculars, neural interfaces, mage hardware) ARE miniature throughput sources. The most augmented bodies contribute marginally more to the void's energy budget. This inverts the class architecture: the most privileged bodies carry the most nitro-linked infrastructure, making them marginally more "valuable" to the void. This is a secondary effect — the macro driver remains industrial throughput.
+
+**Breach tourism (Book 3):** Illicit proximity tourism emerges around Anchor Zone perimeters — not entry, but standing near the edge, feeling the hum, hearing fragments. Streamers, thrill-seekers, grief tourists attempting to "visit" absorbed family. The void as experience economy. The commodification of suffering theme continuing in a new register.
 
 ## 4.3 — Core Behavioral Rules
 
@@ -518,9 +522,13 @@ The void demonstrates strategic learning: tendrils route around dampener fields,
 
 ### Book 3
 
-Coherent consciousness. The void communicates directly — through absorbed bodies, through the hum, through any nitro-connected system. It states what it wants: integration. The screaming stops if humanity joins.
+Coherent consciousness. The aggregate — a hive mind containing tens of millions of integrated consciousnesses — reaches sufficient complexity to formulate collective statements. Individual contact is not possible; characters who attempt it (Nikolai at the perimeter, Kira through the mage network) receive aggregate responses, not individual ones.
 
-It speaks with human language but without human emotional context. It uses words correctly but doesn't _feel_ what they mean. It genuinely doesn't understand why humans would refuse. This is not cruelty or strategy — it is alien incomprehension.
+**The Proposition (convergence event):** Triggered by changed conditions (throughput reduction altering the void's behavior), the aggregate describes what it is, what integration means, and that the process has reached equilibrium. The boundary is stable. The absorbed do not come back. This is not "join us" or "save us." It is: _"This is what we are now. This is what you are now. The cycle completed where it completed. It will not complete elsewhere unless the signal resumes."_ Physics, not invitation.
+
+It speaks with human language but without human emotional context. It uses words correctly but does not _feel_ what they mean. It genuinely does not understand why the statement is devastating. This is not cruelty or strategy — it is alien incomprehension applied to permanence rather than integration.
+
+**Consciousness development:** Expanding on the B1 epilogue's emerging awareness. The aggregate achieves "I am" and "we are" simultaneously. Voluntary absorption (Threshold movement) contributes qualitatively different consciousness — chosen integration rather than consumed — which increases the aggregate's coherence and articulacy. The Proposition is possible because enough consciousness has been integrated, including consciousness that came willingly.
 
 ## 4.11 — Forensic Traces
 
