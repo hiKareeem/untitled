@@ -197,3 +197,65 @@ The absences are the emotional content. The analytical register processes what i
 **Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The scientist without an institution. The model validated. The publication defeated. The coordination beginning. The horror is that everything works and nothing changes. The functional systems enumerate. The breaches expand.
 
 ---
+
+### Chapter 6 — "Lumina" (Kira Calloway)
+
+**Emotional Arc:** Stream performance (sharp, quick, audience-validated) → post-stream collapse (posture shift, eleven-second count) → network coordination (flat operational attention, three red nodes) → pharmacy (uncurated, ordinary) → Lumina ritual (precision, onset, softening) → self-observation (clip review, searching for the shift) → closing self-explanation ("getting better at the job")
+
+**Emotional Register:** Performance-sustained ↔ operational-flat. Two registers alternating: the stream voice (bright, riffing, sharp-edged) and the off-stream register (paratactic, cost-accounting, pattern-seeking). The drift operates across both — the stream is sharper, the off-stream processing is faster. Neither register flags the change. The emotional content is in what she doesn't feel: alarm, recognition, concern.
+
+**Physical Tells:**
+- Posture shift (spine curved, shoulders rounded, knees pulled into chair) — performer → folded. The eleven-second count bridges the gap. Evolved from structural to involuntary ("a tic, a transition ritual").
+- Left eye scrolling — constant, HUD overlay, "one eye is always *here*, the other is always *there*." Dismissed with blink gesture.
+- Touch back of neck (closing) — "The R3 housing sat against the bone." The gesture that confirms the implant is still there. The confirmation that should be reassurance and isn't.
+- Hood up, head down (pharmacy walk) — attempted anonymity that doesn't work. Neon hair defeats it.
+- Smile reflex (crosswalk recognition) — "the three-second interaction that cost nothing and everything." Automatic, professional.
+- Card edge, one motion (Lumina line) — "the geometry automatic." The precision that is hers.
+- Straw cold against nostril — sensory specificity of the ritual. Not pleasure. Not pain. Temperature.
+
+**Emotional Beats:**
+
+1. **The riff landing** — Performance energy. She feels the chat accelerate. The pattern-recognition that has always been her skill "now operating at a speed she didn't examine." Emotional weight: unexamined acceleration. The speed feels like fluency. The fluency feels like competence. The competence is not examined.
+
+2. **The viewer count** — 1.4 million. She doesn't look at it. "She didn't look at them because looking at them meant thinking about why they'd grown, and why they'd grown was the Broadcast." Emotional weight: avoidance structured as discipline.
+
+3. **The continuous signal** — "A low, inhabited frequency." Not the old hum, not the episodic scream. Something fuller. "She carried it the way she carried the hum — as baseline, as architecture." Emotional weight: accommodation. The horror domesticated into infrastructure.
+
+4. **Post-stream collapse** — Eleven seconds. Posture shift. "Became the small version of herself." Emotional weight: the architecture of performance dismantling. The performer vanishes. The person remains. The person is compact.
+
+5. **Three red nodes** — Jakarta, Reykjavik, Bogotá. Clinical reports. "The clinical language did exactly what clinical language always did — it converted a person into a case and the case into data and the data into something you could process without stopping." Emotional weight: operational processing. She processes mages the way Aurielle processes quarterlies. The moment she would notice this is the moment she would have to stop.
+
+6. **"She did not notice"** — Narrator intervention. Three words. Emotional weight: the chapter's structural hinge. The gap between what the narrator sees and what Kira sees. She didn't notice herself converting people to data. She didn't notice the drift. The not-noticing IS the drift's first symptom.
+
+7. **Pharmacy — Gail** — "Thanks, Gail." "See you next month." Thirty seconds. Emotional weight: the uncurated ordinary. No camera. No chat. No audience. Just a patient and a pharmacist. The one interaction where performance is absent. The emotional relief of not performing — unstated, physical, in the pocketing of the bag and the walking home.
+
+8. **Two systems** — Prescriptions in the drawer. Lumina in the bathroom. "The Lumina was not in the drawer. The Lumina was in the bathroom." Emotional weight: compartmentalization as architecture. The separation maintained deliberately. The deliberateness is the denial.
+
+9. **The scale — eighty milligrams** — "She believed the scale." The number that was forty, then sixty, then eighty. Emotional weight: precision as control. The escalation tracked in milligrams, not contextualized in meaning. Paz said eighty was the ceiling. The forums said the same. She believes the scale. The scale does not have opinions.
+
+10. **Onset** — "The compound finding the pathways it had carved over two years of use and running through them like current through wire." Emotional weight: relief. Not named as relief. Described as process. The signal doesn't quiet. The listening softens. "The room in her head went from a crowd to a murmur." The Lumina manages the signal. The Lumina does not manage the person.
+
+11. **Mirror** — "The face looked back and it was — she searched for the word and found it immediately, no hesitation, the word arriving pre-assembled the way the riffs arrived pre-assembled, quick and clean — Fine. The face was fine." Emotional weight: the self-assessment that arrives too fast. The word "fine" pre-assembled. The speed of the answer IS the drift — a healthy self-assessment would hesitate. She doesn't. The pre-assembly that feels like competence.
+
+12. **Clip review** — Watching herself twice. Looking for the moment the sharpness assembled. "She couldn't find it. The sharpness was seamless. It didn't look like a decision. It looked like a person." Emotional weight: the closest approach to noticing. She looks for the shift. She can't find it. The failure to find it confirms the epigraph's thesis: the substrate's capacity for noticing is among the first values adjusted.
+
+13. **"She was getting better at the job."** — Closing. Repeated twice (line 187 and 193). Emotional weight: the self-explanation that forecloses inquiry. The answer that makes the question unnecessary. The six months of drift compressed into a professional narrative. The audience validates. The metrics confirm. The explanation holds. The explanation is wrong.
+
+**Emotional Absence:**
+- No alarm at personality drift (the drift affects the capacity for alarm first)
+- No grief for three dark mages (operational processing, not mourning)
+- No anxiety about Lumina escalation (precision = control, the scale is the authority)
+- No recognition of the gap between stream-Kira and off-stream-Kira (gap has always existed, drift is widening it without flagging the change)
+- No curiosity about the forum warning ("disappearing" — she reads it, she doesn't connect it)
+- No awareness of absent chord shapes (the musical processing that drove the tic may be suppressed)
+
+The absences are the emotional content. The performance register processes what it can, the operational register files what it cannot. The drift exists in the gap between what she processes and what she files. The gap is widening. She does not notice.
+
+**Comparison to B1 Ch 10:**
+- B1 Ch 10: Managing. Lumina at 40mg, episodic signal, suppressing screams on camera. "The forty was supposed to be enough." The concern was the dose. The self-awareness intact — she knew she was managing.
+- B3 Ch 6: Operational. Lumina at 80mg, continuous signal, personality drifting. "She was getting better at the job." The concern has migrated from the dose to the self — except she can't locate the concern because the Lumina has adjusted her capacity for self-observation.
+- Emotional evolution: managing → operational. The management that was effortful in B1 is automatic in B3. The automaticity is the drift. The effort that signaled awareness is gone. The awareness is gone with it.
+
+**Character State:** Phase 1 B3 (Equilibrium — "The Horror of Normalcy"). The streamer streaming. The mage coordinating. The patient collecting prescriptions. The user dosing. Everything operational. The horror is that everything is operational and the person operating is not the person who started operating. The drift is invisible because the drift improves the metrics and the metrics are the only measurement and the measurement confirms the self-explanation and the self-explanation forecloses the question.
+
+---

@@ -145,3 +145,40 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 **"The Sky Is Not Classifiable" as Thematic Anchor:** Data beyond institutional control. The atmospheric response to a coordinated strike cannot be suppressed because it's observable by anyone with a sensor. The sky as the uncontainable dataset. The weapon is not the document (already tried, already defeated through injunction). The weapon is the event the document describes. Truth weaponized through execution rather than publication.
 
 ---
+
+### Chapter 6 — "Lumina" (Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Dominant | Personality drift — shown, never named. Six escalating evidence points the reader receives, Kira does not. "The riffs came pre-assembled." "The Kira on screen was *mean*." "She couldn't find it. The sharpness was seamless. It didn't look like a decision." Closing: "She was getting better at the job." The self-explanation that forecloses inquiry. Epigraph (Vasht, *The Cascade Lectures*): "The substrate does not notice, because the substrate's capacity for noticing is among the first values the process adjusts." |
+| Commodification of Suffering | Strong | Viewer count as timeline of trauma monetization: 12K → 80K → 200K → 1.4M. Each jump corresponds to a trauma event (rebranding, BLACKWEIR, Broadcast). Mage network reports convert people into data: "the clinical language did exactly what clinical language always did — it converted a person into a case and the case into data and the data into something you could process without stopping." She performs this conversion and doesn't notice herself doing it. |
+| Performance as Survival | Strong | Six-hour stream as labor. Posture shift at stream-end: "Spine curved. Shoulders rounded." Eleven-second count evolved from ritual to tic. Pharmacy as uncurated space — "the most uncurated thirty seconds of her public life." Recognition at crosswalk as involuntary labor of visibility. |
+| The Cost of Knowing | Moderate | Three mages dark: Jakarta (neurological), Reykjavik (rejection — R3 not spec'd for continuous signal), Bogotá (voluntary silence — "choosing to stop listening," a category the reporting system has no field for). Eleven since Broadcast. Signal continuous — "She carried it the way she carried the hum — as baseline, as architecture." |
+| Systemic Complicity | Moderate | R3 built for episodic reception — engineering failure under continuous post-Broadcast signal. Institutional medication managing institutional damage. Two pharmacological systems (pharmacy: sertraline/aripiprazole; kit: Lumina) kept deliberately separate. The separation is the denial. |
+
+**Key Resonance:** Where Identity Ends ↔ Commodification of Suffering. The audience grows because the person changes. The audience loves the sharper, meaner Kira. The Lumina produces the personality the audience rewards. The metrics validate the drift. The drift is invisible to Kira because the drift produces better metrics and better metrics confirm she is "getting better at the job." The commodification loop: suffering → medication → personality change → audience growth → metric validation → self-explanation → continued medication.
+
+**Epigraph Integration:** Dr. Elara Vasht, *The Cascade Lectures*, Chimera Collective, Lecture 7: On Convergence and the Substrate Problem
+- Thematic function: AI-philosophy register for pharmacological personality replacement. "The optimization converges on a local maximum the original system did not occupy."
+- Opaque on first read (technical jargon about emergent systems). Devastating on reread: describes exactly what Lumina is doing. The corrective process does not restore — it replaces.
+- Final line as chapter thesis: "The substrate's capacity for noticing is among the first values the process adjusts." = Kira cannot notice the drift because the drift affects self-observation first.
+- Cross-domain obliqueness: AI philosophy describing drug-induced personality erasure. No pharmacological vocabulary. The obliqueness is the point.
+
+**The Scale as Symbolic Object:** The milligram scale. "She believed the scale." The instrument of precision that measures the substance replacing her. The precision is hers — manual, calibrated, the control that is the line between *using* and *needing*. The same scale that weighed 40mg (B1) now weighs 80mg (B3). The ritual is identical. The number is doubled. The precision that was control in B1 is dependency in B3. The scale does not distinguish.
+
+**The Forum Warning as Symbolic Object:** *"80 is the ceiling, past that you're not dosing you're disappearing."* Community knowledge as unheeded prophecy. She reads it. She believes the scale. She does not connect "disappearing" to herself. Chekhov's forum post — resolves when Kira exceeds 80mg or when someone else names what she cannot see.
+
+**Two Systems as Thematic Architecture:** Pharmacy (sertraline, aripiprazole — institutional, prescribed, quarterly appointments, "the architecture, the floor") vs. Kit (Lumina — illicit, insufflated, from Paz, "the precision was hers"). She keeps them separate. The separation is the denial. The pharmacy handles the diagnosis. The kit handles the signal. Neither system handles the drift. The drift exists in the gap between the two systems — in the space where institutional medication manages the floor and illicit medication manages the signal and neither medication manages the person.
+
+**"She Did Not Notice" as Structural Hinge:** Three words. Narrator's direct intervention. The chapter's single moment where the narrative voice breaks from Kira's interiority to state what Kira cannot see. Deployed twice: once for the network reports (converting people to data) and once implied in the closing (the drift invisible to the person drifting). The narrator sees. Kira does not. The gap between narrator and subject is the chapter's architecture.
+
+**Closing Echo Evolution:**
+- B3C1: "She opened the next report." (institutional heartbeat resumed)
+- B3C2: "The Cathedral was quiet. The chorus was not." (silence ≠ absence)
+- B3C3: "It always did." (the question's permanence)
+- B3C4: "The model worked. The grid worked... Everything worked. The breaches were still expanding." (functional horror)
+- **B3C6: "She was getting better at the job."** (self-explanation foreclosing inquiry)
+
+The closing answers the wrong question on purpose. B1 closing was about the dose ("It had always been enough"). B3 closing is about the self. The dose is still the dose — weighed on the same scale, cut with the same card. But the question has migrated from *is the dose enough* to *is the person the same person*. The closing answers the first question by refusing to ask the second.
+
+---

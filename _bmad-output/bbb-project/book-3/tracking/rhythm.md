@@ -240,3 +240,71 @@ The closing that was institutional archive (B1 Ch 5), then model completion (B1 
 The field log that was blank (B1 Ch 38), then compressed (B2 Ch 5), then honest (B2 Ch 25), then terminal (B2 Ch 41), then object (B2 Ch 49) has become testimony (B3 Ch 5). The entries are lengthening. The institutional compression is gone. The private record is becoming the only record. The field log is evolving toward its B3 endpoint: publication under his own name.
 
 ---
+
+### Chapter 6 — "Lumina" (Kira Calloway)
+
+**Metrics:**
+
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Word count | ~4,300 | 3,500–5,000 | ✅ |
+| Scenes | 4 | 3–5 | ✅ |
+| Dialogue % | ~7% | 5–15% | ✅ |
+| Avg sentence length | ~18 words | 12–20 | ✅ |
+| Fragment % | ~15% | 10–20% | ✅ |
+| NBA count | 2 | 2 max | ✅ |
+| Mode | TEXTURE | TEXTURE | ✅ |
+
+**Scene Structure:**
+
+1. **Stream** (~1,300 words) — Mid-stream entry. Performance energy. Riffing, chat interaction, game navigation. Signal description (continuous post-Broadcast). Personality drift shown through speed and sharpness.
+2. **Network** (~1,000 words) — Post-stream. Dashboard review. Three red nodes (Jakarta, Reykjavik, Bogotá). Sofia's message. Clinical processing of mage reports.
+3. **Pharmacy** (~600 words) — Walk, recognition, Gail, psych meds pickup. The uncurated space. Shortest scene — deliberate compression. The ordinary.
+4. **Home/Lumina/Drift** (~1,400 words) — Two systems (prescriptions in drawer, kit in bathroom). Lumina ritual at 80mg. Onset. Mirror. Clip review. Closing self-explanation.
+
+**Tension Curve:**
+
+```
+Scene 1 (Stream)     ████████░░  7/10 — performance energy, signal description, drift evidence
+Scene 2 (Network)    ██████░░░░  6/10 — three dark nodes, clinical processing, "she did not notice"
+Scene 3 (Pharmacy)   ████░░░░░░  4/10 — deliberate low point, uncurated ordinary
+Scene 4 (Home/Drift) ████████░░  7/10 — Lumina ritual, mirror, clip review, closing
+```
+
+**Rhythm Pattern:** Low-sustained with internal acceleration. No external events. All tension is internal — the drift operating beneath the surface. The chapter never spikes because the chapter's subject is the absence of spikes. The horror is the flatline. The signal is continuous. The person is operational. The tension is in what the reader sees and Kira doesn't.
+
+**Transitions:**
+- Stream → Network: Clean break (section divider). Silence lands. Eleven-second count bridges.
+- Network → Pharmacy: Clean break. "She did not notice." → pharmacy walk. The not-noticing carries across the break.
+- Pharmacy → Home: Clean break. Transaction → apartment. Two systems established immediately ("The Lumina was not in the drawer. The Lumina was in the bathroom.").
+
+**Flow Score:** 8/10
+- Strengths: Paratactic rhythm sustained throughout. Bimodal paragraphs. Single-line punches land ("Three nodes were red." / "She did not notice." / "Fine. The face was fine."). Closing compound sentence ("The Lumina was at eighty milligrams because...") echoes B3C1 closing structure.
+- Minor note: Pharmacy scene is the shortest — deliberate, but could risk feeling rushed. The compression serves the thematic function (the ordinary is brief because the ordinary is not what she's paying attention to).
+
+**Action/Reflection Balance:** ~15% action (stream gameplay, pharmacy walk, Lumina ritual) / ~85% reflection (interiority, signal processing, self-observation). Appropriate for TEXTURE mode and Kira's POV (internal pattern-seeker).
+
+**Pacing Notes:**
+- The chapter moves through four discrete spaces (stream setup, dashboard, pharmacy, bathroom) without external conflict. All movement is internal.
+- The acceleration in Scene 1 (riffs landing, chat wall, clip notification) provides kinetic energy that the subsequent scenes gradually metabolize.
+- The deceleration from Scene 3 (pharmacy) to Scene 4 (home) is the chapter's quietest passage — appropriately, it's where the Lumina ritual happens. The ritual is quiet because the ritual is routine.
+
+**Comparison to Previous Chapters:**
+
+| Metric | Ch 1 | Ch 2 | Ch 3 | Ch 4 | Ch 5 | Ch 6 |
+|--------|------|------|------|------|------|------|
+| Words | ~4,400 | ~4,100 | ~3,800 | ~4,000 | ~4,200 | ~4,300 |
+| Scenes | 3 | 4 | 3 | 4 | 3 | 4 |
+| Dialogue % | 0% | 8% | 0% | 12% | 2% | 7% |
+| Mode | TEXTURE | TEXTURE | TEXTURE | TEXTURE | TEXTURE | TEXTURE |
+| Tension peak | 6 | 7 | 5 | 7 | 8 | 7 |
+
+Phase 1 equilibrium maintained. Word counts in narrow band (3,800–4,400). TEXTURE mode consistent across all six chapters. Dialogue percentage varies by POV (0% for Aurielle/Malachi, 7-12% for Kira/Sofia). Tension peaks moderate — no chapter exceeds 8. The flatline is the phase.
+
+**Kira Rhythm Signature (B3):**
+- Stream dialogue: fast, riffing, fragmented. Chat-directed. Performance register.
+- Off-stream narration: paratactic compounds. Long-long-SHORT. Cost-accounting internal monologue.
+- Signal description: acoustic vocabulary (frequency, hum, murmur, inhabited). Sensory specificity without metaphor.
+- Closing structure: simple declarative repeated. "She was getting better at the job." — the repetition is the argument. The sentence that answers the wrong question.
+
+---

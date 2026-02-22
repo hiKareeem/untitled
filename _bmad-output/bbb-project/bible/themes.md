@@ -520,6 +520,8 @@ This bible dimension tracks **theme evolution**:
 
 | Ch 41 | Complicity (Dominant), Truth (Dominant), Architecture (Strong), Identity (Strong), Institutional Impotence (Strong), Obligation (Moderate) | Nikolai POV — Voice through P-Frames. "Still deployed" — two words that end twenty years of doctrine. Second honest VS-7 filed. "The doctrine's classification of absorbed personnel as non-recoverable is contradicted by the evidence received through this unit's own equipment." Career over. Field log terminus: "This is the last entry written by a serving officer." Hum gap resolved. |
 
+| B3 Ch 6 | Identity (Dominant), Commodification (Strong), Performance (Strong), Cost of Knowing (Moderate), Complicity (Moderate), Architecture (Background) | Kira POV — personality drift begun (shown, never named). Stream at 1.4M (sharper, meaner, audience loves it). Mage network: 214 hubs, 3 dark this month, 11 since Broadcast. Pharmacy: psych meds (sertraline, aripiprazole). Lumina: 80mg insufflated from Paz. "She was getting better at the job." Epigraph: Vasht, *The Cascade Lectures* — "The substrate does not notice." |
+
 <!-- INSERT_NEXT_PROGRESSION -->
 
 ---
@@ -811,6 +813,10 @@ This bible dimension tracks **theme evolution**:
 | The empty ceiling (Ch 40) | Where Identity Ends, What We Owe | The shape in the ceiling (Ch 32) arrived and passed through. The empty ceiling is not relief — it is the space where the dread was, now resolved into fact. |
 | Implant warmth (Ch 40) | Commodification of Suffering, Systemic Complicity | R3 upper terminus warm — heat dissipation from a system run past its operating parameters. The antenna is burning. Physical damage flag for Phase 5. |
 | "Almost" (Ch 40) | Where Identity Ends | The chapter's final word. The memory erosion's first arrival. The filing's first gap. The smallest possible signal for the largest possible shift. |
+
+| The milligram scale (B3 Ch 6) | Where Identity Ends | "She believed the scale." Precision as control. The instrument that measures the substance replacing her. Same scale, doubled number (40→80). The precision that was control in B1 is dependency in B3. |
+| Forum warning (B3 Ch 6) | Where Identity Ends | *"80 is the ceiling, past that you're not dosing you're disappearing."* Community knowledge as unheeded prophecy. Chekhov's forum post. |
+| Two systems (B3 Ch 6) | Where Identity Ends, Systemic Complicity | Pharmacy (sertraline, aripiprazole — institutional) vs. Kit (Lumina — illicit, from Paz). Kept separate. The separation is the denial. Neither system manages the drift. |
 
 <!-- INSERT_NEXT_SYMBOLS -->
 
