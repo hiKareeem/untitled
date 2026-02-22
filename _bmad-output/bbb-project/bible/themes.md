@@ -952,3 +952,27 @@ _Updated by: B2 Ch 39 — "Through the Infrastructure" bible update_
 
 _Last updated: 2026-02-21_
 _Updated by: B2 Ch 41 — "Jarek" bible update_
+
+---
+
+## Chapter 53 Progression Entry — "I Was There" (Nuwa Lin)
+
+| Theme | Intensity | Ch 53 Manifestation |
+|-------|-----------|---------------------|
+| Cost of Survival | **Dominant** | Seven structures for twelve thousand people. 14% survival capacity. The arithmetic of expendability. "The system had never been designed to track what the expendable did after they survived." Green notification beside grey — the system that archived her now asking for what she knows. |
+| Testimony vs. Silence | **Dominant** | "I told her I was there." The verb "counted" as recognition signal between survivors. "It is not the same verb." Documented/recorded/catalogued = system's verbs. Counted = body's verb. Dharavi connection: three months sending names, nobody responded until Nuwa used "counted." |
+| Personhood Under Systems | **Strong** | Dual-system existence: "She was in both systems now. The one that had archived her and the one that was asking for what she knew." Grey (evacuation priority: none) beside green (network messages). The expendable person operating in both simultaneously. |
+| Institutional Failure | **Strong** | "Your corridor-level knowledge is what the models don't have." Institutional data is modeled. Nuwa's is measured. The system that archived 340,000 data-orphans can't produce the topology knowledge survivors carry. |
+| The Absorbed as Political Question | **Moderate** | The Broadcast reframed as census. "The Broadcast event was not random. It was a census." 47 names = 47 resolvable coherence signatures. The absorbed counting themselves through infrastructure. |
+| Knowledge as Power/Burden | **Strong** | Triple-braided knowledge: body-knowledge + Fuxi's data + clinical vocabulary. Knowledge saves lives (couple from Level 6, woman from Level 3). Knowledge reveals arithmetic (7 structures, 12,000 people, 14%). "What she carried could not be packed at all." |
+
+**New symbols introduced:**
+- **Green beside grey** — Dual-notification motif. Dead system (grey, frozen credential) beside live system (green, network messages). Visual representation of dual-system existence. The expendable person in both systems.
+- **"Counted" (verb)** — The body's verb. Not documented, not recorded, not catalogued. The first language. The recognition signal between survivors. The bridge from Neo-Shanghai to Dharavi.
+- **Seven structures for twelve thousand people** — The arithmetic of survival capacity. 14%. The number that describes the cost of the next event before it happens.
+- **Iron loom frames** — Nuwa's question to Dharavi survivor. Structural vs. conductive. The technical curiosity connecting survivors who understand which materials carry death.
+
+---
+
+_Last updated: 2026-02-22_
+_Updated by: B2 Ch 53 — "I Was There" bible update_

@@ -937,5 +937,31 @@ Lagos is the primary FAS city featured in the narrative. Lower conduit density t
 
 ---
 
-_Last updated: 2026-02-21_
-_Updated by: B2 Ch 36 — "Synchronization" bible update_
+### Neo-Shanghai Mid-Levels — Organizing Building (Nuwa's Location)
+
+**Description:** Converted warehouse, Level 4, Mid-Levels district. Masonry exterior walls (poured concrete, pre-residential-grid construction era). Path-poor structure — minimal conduit routing, built before infrastructure expansion brought metal-framed polymer into standard. Four-by-three meter rooms. Shared corridor with communal shelf. Mechanical latches on doors. Ventilation shaft visible from windows. Hum through walls: Mid-Level frequency, steady, residential-grade.
+
+**Discovered:** B2 Ch 8, Nuwa's residence post-BLACKWEIR relocation
+
+**Key Interior Locations:**
+- **Nuwa's room (Unit unspecified):** Four meters by three. Sink, cooking surface, window onto ventilation shaft. Table propped against wall. Mattress on floor. Cabinet with dry staples. Projector (salvaged from public terminal) mounted to project topology maps onto wall.
+- **Shared corridor:** Communal shelf where residents leave items (Fen's oil, shared resources). Unmetered power outlet (Nuwa uses for projector).
+- **Shuang's room (Unit 2):** Two children. Cooking in evenings. Observed Nuwa walking along walls for months before first contact.
+- **Fen's room (Unit 9):** Cousin lost in Sector 12. Institutional notices filed in drawer, not acted on.
+
+**Key Events:**
+- **B2 Ch 8:** Nuwa's first appearance. Fen brings spring onions. Chemical staining recognized.
+- **B2 Ch 29:** Organizing begins. Sacrifice district designation (Sector 7M) arrives. Nuwa identifies 7 path-poor structures for 12,000 residents. Knocks on Fen's door, then Shuang's. "I'm not telling people to leave. I'm telling people where to stand." Topology map projected for first time.
+- **B2 Ch 43:** Voice event. 47 names heard. Shuang arrives with children: "Is it happening again?" Nuwa sends first message to Mage Testimony Network. Green notification beside grey.
+- **B2 Ch 53:** Network responses received. Couple from Level 6 returns (third visit): "Were you alone?" / "Yes." Woman from Level 3 walks 40 minutes to see map. Nuwa sends detailed topology data (40 minutes, building-by-building, 47 names with junction coordinates). Dharavi connection established via "counted" verb. Dual-system existence confirmed.
+
+**Significance:** The organizing hub for Sector 7M Mid-Levels survivors. Nuwa's base of operations for relocation work using Fuxi's topology data. The building where corridor-level knowledge (body-knowledge + Fuxi's 13 years) becomes operational survival intelligence. The site where invisible woman becomes network node. Seven path-poor structures identified from this location serve 12,000 people with 14% survival capacity.
+
+**Current State (B2 Ch 53):** Active organizing center. Families visiting for topology maps. Network integration ongoing (Lagos, Mumbai, Dharavi connections established). Projector running. Shared resources circulating (oil, greens). Community trust deepening through repeated visits.
+
+**Controlled by:** Informal survivor network (Nuwa organizing, Shuang/Fen supporting, families participating)
+
+---
+
+_Last updated: 2026-02-22_
+_Updated by: B2 Ch 53 — "I Was There" bible update_

@@ -891,5 +891,31 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-21_
-_Updated by: B2 Ch 36 — "Synchronization" bible update_
+### Fuxi's Data Chip (State Update — B2 Ch 53)
+
+**Previous state (B2 Ch 43):** Warm behind Nuwa's left ear. 13 years of maintenance logs. Junction maps. Conduit density readings. 47 names cross-referenced with junctions. Used to send first message to Mage Testimony Network.
+
+**Ch 53 state change:** Data being requested by global network. Lagos coordinator wants full 13-year dataset for longitudinal correlation. Documentation group wants detailed junction coordinates. The chip that was Fuxi's private record is now recognized as "the most complete dataset we have" for Neo-Shanghai Sump. Partial data sent (Sector 7M coordinates, 47 names with junctions). Complete dataset transmission pending.
+
+**Symbolic arc:** Private maintenance logs (Fuxi's work) → Nuwa's inheritance (Ch 18) → organizing tool (Ch 29) → testimony data (Ch 43) → global infrastructure knowledge (Ch 53). The chip's data has gone from suppressed institutional record to most complete Sump dataset that exists anywhere.
+
+**Current State:** Behind Nuwa's ear. Partial data transmitted to network. Full 13-year dataset requested by Lagos. Junction coordinates being integrated into global sacrifice district database.
+
+---
+
+### Green/Grey Notification Motif (B2 Ch 53)
+
+**Description:** Dual-notification display in Nuwa's cracked overlay. Grey notification (frozen credential): "Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned." Green notifications (network messages): "Message delivered. Recipient: Mage Testimony Network (public channel)."
+
+**Origin:** Grey notification established B2 Ch 8 (frozen since Sump reclassification). Green notifications begin B2 Ch 43 (first message sent).
+
+**Significance:** Visual representation of dual-system existence. Dead system (grey — archived residential record, decommissioned credential server, evacuation priority: none) beside live system (green — network integration, data requests, global connections). The expendable person operating in both systems simultaneously. The grey notification never updates. The green notifications accumulate.
+
+**Symbolic function:** Personhood under systems. The institutional classification that says "none assigned" beside the network confirmation that says "what the models don't have." Both rendered through same cracked overlay, same damaged housing, same compensating tilt. Nuwa doesn't choose one over the other — she operates in both.
+
+**Current State (B2 Ch 53):** Grey notification unchanged (10+ months frozen). Green notifications accumulating (Lagos, Mumbai, Dharavi, documentation group responses). Dual-system state permanent.
+
+---
+
+_Last updated: 2026-02-22_
+_Updated by: B2 Ch 53 — "I Was There" bible update_
