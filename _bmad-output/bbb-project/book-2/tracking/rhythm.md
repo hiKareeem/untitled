@@ -1708,4 +1708,68 @@ Ch 19 is longer — AEGIS's debut required establishing the full processing arch
 
 ---
 
+### Chapter 48 — "She Did Not Follow" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Liturgical establishing (morning practice, chorus post-saturation) → urgency (Imani's message, decision to go) → transit deterioration (migraine progression, convergence felt through chorus) → arrival/witness (perimeter, fifty-three gathered, Seren at front) → the walk-in (pairs and clusters, counting through chorus, the look) → aftermath (empty staging area, the thought of entering, Imani's grip) → transit return (silence, the lie three days dead, closing meditation)
+**Pacing:** Phase 5 Nephthys register — witness, not prophecy. Extremely narration-heavy (95% narration / 5% dialogue). The chapter's thesis is silence. The pacing is sustained-slow with compression at key beats (the look, "She did not follow"). Slower than Ch 24 (warehouse confrontation — dialogue-driven). Slower than Ch 38 (saturation — catastrophic signal). This chapter is observation without intervention. The rhythm tracks the walk-in: deliberate, calm, irreversible.
+
+**Scene Breakdown:**
+| Scene | Words | Tension | Tempo |
+|-------|-------|---------|-------|
+| Cathedral morning practice / Imani's message | ~400 | Establishing → urgency | Liturgical opening, then pivot. "Threshold is mobilizing." |
+| Decision / preparation | ~150 | Compressed | "I need to go." / "I've packed the kit." Three years in a sentence. |
+| Transit (Cathedral → perimeter) | ~500 | Deterioration | Migraine progression tracked by minute. Convergence felt through chorus. |
+| Perimeter arrival / fifty-three gathered | ~600 | Witness establishing | Counting. Calm observation. Seren at front. Violet fabric. |
+| "Nephthys could speak" | ~200 | Pivot | The counter-liturgy available. The words available. "She did not speak." |
+| The walk-in | ~900 | Sustained witness | Pairs, clusters, counting through chorus. The monitoring officers filing. |
+| Seren's look | ~350 | Emotional peak | 3-5 seconds. Recognition. "You taught me to listen. I listened." |
+| Seren enters / remaining walk in | ~400 | Witness continuation | Seren's signature. Twenty-one. Fifteen. Nine. Four. Last one: eleven seconds. |
+| Empty staging area / the thought | ~500 | Compression | "She could enter." The shimmer three meters away. "She did not step forward." |
+| Imani's grip / nosebleed / departure | ~300 | Resolution | Cloth extended. "We should go back." / "Yes." |
+| Transit return / closing meditation | ~800 | Sustained-slow | The lie three days dead. Fifty-three people. "She had not followed." Words-as-roads. Silence. |
+
+**Rhythm Notes:**
+- Opening establishes post-saturation density: "The global composite had left residue in the local weave the way a flood left sediment" — the chapter begins in the aftermath of Ch 38
+- "The word. *Circulation.*" — single-sentence paragraph. Three days from Cathedral floor to coordination message. The framework weaponized.
+- Transit deterioration tracked by minute markers: seventeen-minute mark (dephasing ends), minute sixteen (migraine begins), minute thirty (perimeter felt). The precision is clinical.
+- "Nephthys could speak." — single-sentence paragraph. The chapter's hinge. The counter-liturgy is available. She does not use it.
+- "The words were always one step from what others made of them." — the chapter's thesis, delivered before the silence.
+- "She did not speak." — single-sentence paragraph. Maximum isolation. The silence begins.
+- The walk-in section uses counting as rhythm device: two, three, two, seven, counting through chorus, thirty-one entered, twenty-two remain. The arithmetic is pastoral and detached simultaneously.
+- Seren's look: 3-5 seconds counted. The italicized interior line (*You taught me to listen...*) is Nephthys's interpretation, not Seren's words. POV discipline held.
+- "She could enter." — the thought arrives without theology. Plain. The shimmer three meters away. The branded palm reaching since the Rhine corridor.
+- "She did not step forward." — single-sentence paragraph. The decision made by not making it.
+- "She had not followed." — single-sentence paragraph, line 236. The title phrase. Maximum isolation after the long polysyndetic meditation on causality.
+- Closing polysyndetic chain: "and did not pray and did not think and did not theologize and did not reach for the framework" — Nephthys defining herself by negation. The accumulation mirrors the circulation's movement.
+- Final fragments: "Silent. The Cathedral approaching. Imani beside her. The blood dark in the cloth." — noun phrases, not verbs. The chapter ends in stasis, not action.
+
+**Dialogue Percentage:** ~5% (Imani: 6 lines, Nephthys: 4 lines [three are single words], Seren: 0 lines)
+
+**Pacing Concern:** Extremely narration-heavy by design. The chapter's thesis is silence — Nephthys has nothing left to say. The density is deliberate. The transit sections provide structural breathing room (opening/closing), but the perimeter section is sustained witness without dialogue relief. This is the correct architecture for the chapter's argument.
+
+**Structural Note:** The chapter ends on the transit back, not at the Cathedral. The return is implied, not shown. What Nephthys will do when she returns is described in conditional/future tense ("She would return... She would stand... She would not say..."). The conditional is the chapter's final register: not certainty but intention, not prophecy but plan. The prophet reduced to a woman deciding what not to say.
+
+**Comparison to prior Nephthys chapters:**
+| Chapter | Mode | Peak | Close |
+|---------|------|------|-------|
+| B2 Ch 2 | TEXTURE | Ritual lie / "I am fine" | Morning practice. Imani's look. |
+| B2 Ch 13 | PRESSURE | Seren's question / insufficient answer | Kira invitation. Three congregations. |
+| B2 Ch 21 | TEXTURE | "Names" confirmed / shared vocabulary | Private. "Still here" insufficient. |
+| B2 Ch 24 | PRESSURE | Warehouse confrontation / Malachi echo | Transit. "No longer certain they were hers to interpret." |
+| B2 Ch 35 | TEXTURE | Three walked in / "circulation" interior | Carried back in silence. Imani witness shift. |
+| B2 Ch 38 | PRESSURE | Saturation / "circulation" spoken aloud | "Don't say it." Lie refused. Twelve remain. |
+| **B2 Ch 48** | **TEXTURE** | **Seren's look / fifty-three enter** | **Transit. "She had not followed." Silence. Words-as-roads.** |
+
+**Nephthys Rhythm Arc (cumulative B2 — complete):**
+- B2 Ch 2: TEXTURE. Counter-liturgy. Ritual lie accepted. Morning practice.
+- B2 Ch 13: PRESSURE. Three congregations. Seren's question. Insufficient answer.
+- B2 Ch 21: TEXTURE. Kira convergence. "Names" confirmed. "Still here" insufficient.
+- B2 Ch 24: PRESSURE. Warehouse. Malachi echo. "No longer certain."
+- B2 Ch 35: TEXTURE. Three walked in. "Circulation" discovered interior. Silence.
+- B2 Ch 38: PRESSURE. Saturation. "Circulation" spoken. Lie refused. Framework weaponized.
+- **B2 Ch 48: TEXTURE. Fifty-three walked in. Seren's look. "She did not follow." Silence. Book 2 arc complete.**
+
+---
+
 _Last updated: 2026-02-21_
