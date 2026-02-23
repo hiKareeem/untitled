@@ -308,3 +308,74 @@ Phase 1 equilibrium maintained. Word counts in narrow band (3,800–4,400). TEXT
 - Closing structure: simple declarative repeated. "She was getting better at the job." — the repetition is the argument. The sentence that answers the wrong question.
 
 ---
+
+### Chapter 7 — "The Pen Continues" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (Hall of Nations ritual) → grinding-analytical (committee gallery) → contemplative (replacement document writing) → elegiac-personal (flag/father/Article 14) → resolving (coda: apartment quiet)
+**Pacing:** Five-scene structure following institutional observation to private documentation. Hall of Nations ~600 words (12%). Committee gallery ~1,100 words (22%). Diplomatic residence/writing ~1,300 words (26%). Evening (flag/father/continuation) ~1,200 words (24%). Coda ~800 words (16%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Hall of Nations | ~600 | Low-ritualistic | Measured, observational, flag/portrait ritual |
+| Committee gallery | ~1,100 | Medium-grinding | Analytical, procedural, forty-minute metric, vote |
+| Diplomatic residence (writing) | ~1,300 | Medium-contemplative | The act of writing, Broadcast passage, "The absorbed spoke. The institution assessed." |
+| Evening (flag/father/Article 14) | ~1,200 | Medium-elegiac | Flag fading, father distance, pen continues, inheritance |
+| Coda (apartment quiet) | ~800 | Low-resolving | Pen capped, hands washed, lamp off, darkness |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The pen continued." / "He had not stopped." / "He continued." / "Clean enough. Not clean." / "The warmth was real. The emptiness was structural."
+- TEXTURE mode = quiet register, institutional horror. Horror in continuation: tribunal grinds, committee defers, document grows, pen continues. The machinery that metabolizes action into procedure.
+- Two NBA deployments: (1) "Not a file. Not a terminal draft. Paper." (2) "The replacement document was not a memo. It was not a framework analysis. It was not a committee recommendation... It was the thing..." Both earned — first for document's material form, second for its ontological status.
+- Closing coda (~800 words) is chapter's quietest passage. Pen capped. Hands washed. Lamp off. The ritual of stopping for the evening, not forever. "The pen continued." — closing echo from B2 Ch 52.
+- Dialogue 0% (deliberate — solo chapter, institutional observation, private documentation). Only voices are quoted document text (italicized passages from replacement document).
+- Five-scene architecture mirrors diplomatic discipline: ritual (Hall of Nations) → observation (committee) → documentation (writing) → reflection (inheritance) → continuation (closing). The rhythm is the practice.
+- Bookend structure: "The ninety-second session... and Zeyad was early" (opening) → "The pen continued." (closing). The diplomat who is always early, the pen that continues.
+
+**Dialogue Percentage:** 0% (deliberate — solo chapter, observation and documentation, no interaction)
+
+**Pacing Concern:** Risk of institutional density feeling static. Mitigated by: (1) Five-scene structure provides rhythmic variation (ritual → grinding → contemplative → elegiac → quiet); (2) Quoted document passages (italicized) provide register shift from narration; (3) Personal moments (father paragraph, hand-washing) provide negative space; (4) Closing drops to quietest possible register after elegiac section.
+
+**Structural Note:** B3C7 establishes Phase 1 equilibrium for Zeyad thread. Six months post-Broadcast, sixteen months post-BLACKWEIR. Tribunal at Session 92 (up from 63 in B2 Ch 7). De-escalation proposal tabled indefinitely (17 motions filed by nitro bloc). Replacement document at 149 pages (nearing completion for Phase 2). The diplomat whose documentation is complete and whose documentation changes nothing. The institution that could not fix a holographic flag is prosecuting him for trying to fix the institution. Chapter rhythm enacts this: steady, analytical, the pace of institutional observation and private documentation. The pen continues because the pen is the only thing that still works.
+
+**Comparison to B2 Ch 7:**
+- B2 Ch 7: "Due Process" — Session 63, grey pass new, flag flickering, dead-hand package, 217 exhibits, legal pad entered as evidence
+- B3 Ch 7: "The Pen Continues" — Session 92, grey pass degraded (16 months), flag failing, replacement document at 149 pages, third legal pad
+- Together they bracket Zeyad's tribunal arc: B2 Ch 7 = six months post-BLACKWEIR, proceedings begin. B3 Ch 7 = sixteen months post-BLACKWEIR, proceedings grind. The tribunal that was urgent has become administrative. The document that was begun is nearing completion. The pen that started continues.
+
+**Pen Echo Evolution:**
+- B1 Ch 6: Pen introduced — Khalil's, from 2039, "the same pen"
+- B1 Ch 17/30/45/50: Pen present in each chapter, writing margin notes, framework analyses
+- B2 Ch 7: Pen writing in legal pad (entered as evidence)
+- B2 Ch 52: "The pen continued." — replacement document begun, closing line
+- **B3 Ch 7: "The pen continued." — 149 pages, fourth ink cartridge, closing echo**
+
+The pen that was inheritance (B1 Ch 6), then evidence (B2 Ch 7), then continuation (B2 Ch 52) has become the thing that continues because continuation is what remains (B3 Ch 7). The pen does not hesitate. The hand does not hesitate. The hesitation is somewhere deeper — between the portrait and the document, between the handshake and the sentences, between the inheritance and the accounting. The pen continues anyway.
+
+**Motif Density:**
+- **The pen:** 8 direct references — title, opening, writing scenes, ink cartridge, closing
+- **Grey card:** 4 references — edges rounded, typography blurring, institutional time
+- **Jordanian flag (holographic):** 3 references — still flickering, 16+ months, failure progressed
+- **Jordanian flag (fabric):** 2 references — grandfather's, fading, on shelf
+- **Portrait/Khalil:** 2 references — eastern alcove, hand on frame ritual
+- **The hum:** 6 references — foundation, floor, conduit register, unchanged
+- **Forty minutes:** 3 references — metric, injunction, institutional rhythm
+- **Replacement document:** 11 references — on desk, 147 pages → 149 pages, the accounting
+
+**Sensory Hierarchy:**
+- **Sound (dominant):** Hum through foundation/floor ×6, conduit register, low-frequency vibration
+- **Tactile (strong):** Pen, grey card edges, ink on palm, wood frame, notebook pages, ink cartridge
+- **Visual (present):** Flag flickering/failing, gallery lighting, lake (peripheral, ignored), committee chamber
+
+**Institutional Vocabulary as Architecture:**
+- "procedural sediment," "terminal function," "architecture's omissions," "stratigraphy," "procedural fiction," "structural architecture," "institutional typography," "economic sovereignty provisions," "the architecture metabolizes action into procedure, and procedure into deferral, and deferral into the specific institutional silence that is indistinguishable from approval of the status quo"
+- The vocabulary is not decoration — it is Zeyad's cognitive framework. He thinks in institutional terms because institutional process is his moral framework. The vocabulary enacts the architecture it describes.
+
+**Zeyad Rhythm Signature (B3):**
+- Institutional observation: long accretive sentences, clause-by-clause accumulation, diagnostic precision
+- Document text (italicized): even longer sentences, system description, analytical register
+- Personal moments: shorter sentences, declarative breaks, "The warmth was real. The emptiness was structural."
+- Closing structure: three-word declarative. "The pen continued." — the sentence that echoes B2 Ch 52, seeds Phase 5 "continuation is—"
+
+---

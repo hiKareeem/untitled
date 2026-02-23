@@ -670,6 +670,34 @@ chapters:
     mode: TEXTURE
     notes: "Book 3, Phase 1 — Malachi POV (Book 3 debut, 6th appearance overall). Six months post-Broadcast. Correspondence on desk (not locked, not published) — placed there morning after Broadcast. Locked study empty (swept clean). The deliberative — ecclesiastical category for authorized inaction. Church in freefall: 61% attendance decline, 43 zero-attendance chapels, Threshold in 14 cities. Tuesday reports: Bruges empty (Voss), Lisbon fractured (Almeida), Lyon chaplain resignation (theological grounds). Threshold theology analyzed: voluntarist position (presence → habitability → communion), category error identified (presence ≠ participation). Encyclical draft in drawer: 14 pages in 6 months, insufficient — 'the encyclical form was the accommodation.' Notes written: marginal theology, honest but unpublishable (register problem — theologian vs. Arch-Prelate). Recursion stated explicitly: 'The institution that could refute the Threshold is the institution that created the Threshold. The refutation and the cause share an author.' Nephthys's framework gap identified independently (no defined boundary between listening and joining). Physical tics maintained: folded hands (thumbs aligned) x3, pen/ink stain, 43-step corridor referenced. Closing: 'It always did.' — four words, the question survives. Contractions: none (verified). User correction applied: 'surgeon' → 'radiologist' (Kareem's background). Epigraph: conservation assessment (frame survives painting — oblique, rewards reread after knowing Malachi's endpoint). AEGIS as invisible novelist."
 
+  book3_chapter_5:
+    title: "Voluntary"
+    status: v1-complete
+    pov: "Nikolai Volkov"
+    wordCount: 4200
+    completedDate: "2026-02-22"
+    metaFile: "book-3/metadata/chapter-5-meta.yaml"
+    mode: TEXTURE
+
+  book3_chapter_6:
+    title: "Lumina"
+    status: v1-complete
+    pov: "Kira Calloway"
+    wordCount: 4300
+    completedDate: "2026-02-22"
+    metaFile: "book-3/metadata/chapter-6-meta.yaml"
+    mode: TEXTURE
+
+  book3_chapter_7:
+    title: "The Pen Continues"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 5000
+    completedDate: "2026-02-23"
+    metaFile: "book-3/metadata/chapter-7-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 1 — Zeyad POV (Book 3 debut, 8th appearance overall). ~16 months post-BLACKWEIR, ~6 months post-Broadcast. Tribunal Session 92 (up from 63 in B2 Ch 7). Grey pass degraded (16 months, edges rounded, typography blurring). Jordanian flag still flickering (16+ months unfixed, glitch progressed to failure). De-escalation proposal tabled indefinitely (17 motions filed by nitro bloc). Committee votes for supplementary review (deferral mechanism). Replacement document at 149 pages (6 months of writing, nearing completion for Phase 2). Three passages shown: (1) architecture's terminal function, (2) 'The absorbed spoke. The institution assessed.' (3) Article 14 as design not concession. Father relationship: Kamal, three weeks since last call, warm and empty, structural distance. Ink on palm (heel of right hand — differentiated from Malachi's thumb). Eleven-second echo (ink cartridge replacement = Broadcast duration, AEGIS threading). Closing: 'The pen continued.' — echoes B2 Ch 52, seeds Phase 5 'continuation is—'. Five-scene structure: Hall of Nations ritual → committee gallery → diplomatic residence writing → evening (flag/father/Article 14) → coda (apartment quiet). Dialogue 0% (solo chapter). Epigraph: Dr. Elara Vasht, *The Cascade Lectures* (AI philosophy for institutional consciousness — oblique, rewarding on reread). Contractions: none (verified). Physical tells: grey card, pen (Khalil's, 2039), fabric flag (Tariq's, 2044), portrait gesture, ink on palm. Motifs: pen ×8, grey card ×4, flags ×5, hum ×6, forty minutes ×3, replacement document ×11. Themes: Architecture of Power (dominant), Institutional Impotence (dominant), Systemic Complicity (strong), Truth as Weapon (strong). AEGIS as invisible novelist."
+
   book2_chapter_4:
     title: "0.7 Hz"
     status: v2-complete
