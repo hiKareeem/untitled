@@ -448,3 +448,67 @@ The pen that was inheritance (B1 Ch 6), then evidence (B2 Ch 7), then continuati
 **Pacing Ballast Function:** Per style profile, "Nuwa chapters are the designed site for pacing ballast." B3C8 delivers: no revelation, no crisis, no breakthrough. Logistics, observation, the work of surviving. Quieter than Arctic-7 intensity. The negative space that makes fortissimo land. The horror is ambient (commodification, recognition, both systems) not acute. Chapter breathes. Allows reader to process. Nuwa's observational distance creates space.
 
 ---
+
+### Chapter 9 — "Thorne's Recalculation" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (corridor walk, entry) → institutional briefing (throughput reduction analysis) → analytical peak (rationale reading, NBA deployment) → key exchange (Kindling irrelevance) → resolving (data request, closing temporal marker)
+**Pacing:** Five-section structure following briefing configuration. Opening corridor ~600 words (14%). First exchange ~800 words (19%). Second exchange ~600 words (14%). Rationale section ~1,200 words (29%). Closing section ~1,000 words (24%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening — Corridor walk/entry | ~600 | Low-sustained | Walking pace, routine reversed (entry after B3 C1 observation), recognition (architect's script) |
+| First exchange — Analysis/facilities | ~800 | Low-institutional | Briefing configuration, thirteen facilities, Kindling overlap, framework |
+| Second exchange — Why now/tolerance band | ~600 | Medium-analytical | Strategic argument, injunction as depreciating asset, Eduardo's margin |
+| Rationale section — First page/NBA | ~1,200 | High-analytical | Dense institutional processing, NBA deployment, asset management thesis |
+| Key exchange — Kindling question | ~100 | Peak | Two-sentence answer, load-bearing period, strategic objective stated |
+| Closing section — Data request/return | ~900 | Resolving | Hum, rationale's silence, Kindling irrelevance, fold gesture, corridor return, five weeks |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "She entered." / "She stood." / "She read it." / "Asset management." / "She did not say yes." / "The quarterly was in five weeks."
+- TEXTURE mode = quiet register, corporate horror. Horror in reasonableness: machine's survival strategy sounds like line item. No fortissimo. No cosmic dread. Briefing pacing.
+- Single NBA deployment: "Not SHEPHERD. Not the optimization of the void's output, not the directed absorption protocol, not the scaling timelines that had produced three zones and three gradients and an aggregate 18% above projection and a kill chain that ran through Mumbai. Not reform — not the modernization she had imagined in her first months, the idealism that was the machine's lubricant, the belief that competence and good intentions could change the machine from within. Not idealism at all. / Asset management." — Four negations clearing conceptual space before two-word payoff. Earns placement by naming chapter's thesis.
+- Closing shifts from action to temporal marker: "The quarterly was in five weeks." Most passive closing in arc. Not decision, not deferral, not refusal. A schedule. Machine thinks in quarterly cycles. Closing enacts cycle.
+- First Aurielle-Thorne dialogue since B2 C46 (eight chapters of silence). Institutional register throughout. No personal territory (handkerchief not accessed). Key line — "They become irrelevant. Which is the point." — uses period not comma, making irrelevance the strategic objective rather than side effect.
+- Five-section architecture mirrors briefing process: entry → data presentation → strategic argument → rationale → response. The rhythm is the institutional briefing.
+- Bookend structure: corridor walk (suite → operations, entry reverses B3 C1) → corridor walk (operations → suite, carrying recalculation). Three hundred meters. Morning light past twelve-minute window. The quarterly was in five weeks.
+
+**Dialogue Percentage:** ~18% (deliberate — first Thorne dialogue since B2 C46, operational briefing register, terse exchanges)
+
+**Pacing Concern:** Risk of strategic argument feeling didactic. Mitigated by: (1) Rationale presented as handwritten document Aurielle reads (not Thorne explaining); (2) NBA deployment provides focused peak; (3) Key exchange compressed to two sentences; (4) Closing section processes implications through Aurielle's institutional register rather than editorial voice.
+
+**Structural Note:** B3C9 establishes Thorne's return to competence and the machine's absorption strategy. Six months post-Broadcast. Thorne has been recalculating (beneath maintenance posture). Throughput reduction debate absorbed by becoming NitroCore's voluntary reduction. Kindling made irrelevant through co-option. Grid survives by being essential; essentiality requires leading transition. The horror is not the strategy's cruelty. The horror is the strategy's reasonableness. Chapter rhythm enacts this: steady, institutional, the pace of corporate briefing. The recalculation is complete. The board package is due in five weeks.
+
+**Comparison to B3 C1:**
+- B3 C1: Corridor observation, no entry, Thorne maintaining, no dialogue, wrist rotation absent/not noticed, "She opened the next report"
+- B3 C9: Corridor entry, Thorne recalculating, first dialogue, wrist rotation not referenced (descent), "The quarterly was in five weeks"
+- Together they bracket Phase 1 Aurielle equilibrium: B3 C1 = observation from distance, maintenance. B3 C9 = entry and engagement, recalculation. The posture was the same. The output was different. She had been wrong.
+
+**Closing Echo Evolution:**
+- B1 C1/B2 C1/C23: "The Chair opened the next report." — institutional identity
+- B2 C34: "She did not open the next report." — break
+- B2 C37: Three stacked negations + compound inventory
+- B2 C46: "She opened the quarterly schedule." — new register
+- B3 C1: "She opened the next report." — return with personal pronoun
+- **B3 C9: "The quarterly was in five weeks." — temporal marker, not action**
+
+The closing that was action (opening documents) has become temporal positioning. She does not open. She does not close. The chapter ends with a timeline. The quarterly cycle governs machine's rhythm. The five weeks separate recalculation from board package. The continuation is temporal, not active.
+
+**Thorne Dynamic Evolution:**
+- B2 C37: "The infrastructure of his competence was not producing" — first register failure
+- B2 C46: Questions instead of assessments ("Then what do we do?")
+- B3 C1: Maintenance output (annotations, no framework)
+- **B3 C9: "The infrastructure of his competence producing again" — strategic assessment returned**
+
+The next sentence has returned. The recalculation IS the next sentence. He has been recalculating for months. The posture Aurielle classified as maintenance was recalculation running beneath. Self-correction: "She had been wrong." Rare acknowledgment of misreading Thorne.
+
+**Eduardo as Objects:**
+- Tolerance band (twelve percent, Eduardo's engineering margin, now spent on reduction)
+- Corridor (three hundred meters, walked by Eduardo, walked by Aurielle)
+- Noise-cancellation specification (hum filtering, Spire acoustic architecture)
+- Hands flat on desk (posture inheritance: Eduardo → Thorne/Aurielle, origin undetermined)
+
+Eduardo's engineering enables machine's evolution beyond Eduardo. The buffer he designed absorbs its own purpose.
+
+---

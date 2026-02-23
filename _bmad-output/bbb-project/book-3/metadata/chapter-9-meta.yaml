@@ -1,0 +1,173 @@
+---
+chapter: 9
+title: "Thorne's Recalculation"
+pov: "Aurielle Vasquez"
+book: 3
+phase: 1
+phase_name: "Adjustment — The Horror of Normalcy"
+location: "Neo-Shanghai Spires — NitroCore Operations Wing / Thorne's Office"
+timeline: "~6 months post-Broadcast (~16 months post-BLACKWEIR)"
+word_count: 4200
+draft_version: 1
+status: "final"
+date_written: "2026-02-23"
+mode: "TEXTURE"
+
+# Story Elements
+scenes:
+  - name: "Corridor walk and entry"
+    location: "Executive suite → operations wing corridor → Thorne's office"
+    characters: ["Aurielle"]
+    function: "Reversal of B3 C1 observation, entry after six months, recognition of architect's script"
+  - name: "First exchange — Analysis presentation"
+    location: "Thorne's office"
+    characters: ["Aurielle", "Thorne"]
+    function: "Throughput reduction analysis, thirteen facilities, Kindling overlap, framework"
+  - name: "Second exchange — Strategic argument"
+    location: "Thorne's office"
+    characters: ["Aurielle", "Thorne"]
+    function: "Why now, injunction as depreciating asset, tolerance band, function redesign"
+  - name: "Rationale reading"
+    location: "Thorne's office"
+    characters: ["Aurielle", "Thorne"]
+    function: "Grid's survival strategy, NBA deployment, asset management thesis"
+  - name: "Key exchange — Kindling question"
+    location: "Thorne's office"
+    characters: ["Aurielle", "Thorne"]
+    function: "Strategic objective stated: irrelevance as the point"
+  - name: "Closing — Data request and return"
+    location: "Thorne's office → corridor → executive suite"
+    characters: ["Aurielle"]
+    function: "Data request, fold gesture, corridor return, temporal closing"
+
+# Key Events
+events:
+  - "First Aurielle-Thorne dialogue since B2 C46 (eight chapters of silence)"
+  - "Thorne's competence returned: recalculation running beneath maintenance posture"
+  - "Throughput reduction debate reached NitroCore board level"
+  - "Thirteen facilities identified as expendable (Tier 3 extraction, Tier 2 refinement, Jakarta conversion)"
+  - "Twelve-percent tolerance band to be spent on voluntary reduction (eighteen months)"
+  - "Compliance framework designed to make reduction NitroCore's reduction"
+  - "Strategic objective: make Kindling irrelevant by co-opting their campaign"
+  - "Board package due before quarterly (five weeks)"
+  - "Aurielle self-correction: 'She had been wrong' about Thorne maintaining vs. recalculating"
+
+# Character Development
+character_notes:
+  Aurielle:
+    - "Wrist rotation: not referenced (descent from B3 C1's 'absent, not noticed')"
+    - "Institutional register as only register (maintained from B3 C1)"
+    - "Self-correction: rare acknowledgment of misreading Thorne"
+    - "Reads documents last page first (recommendation before rationale)"
+    - "Archive reflex: folds pages, carries them (same gesture as SHEPHERD timeline)"
+    - "Data request as only output: institutional reflex unchanged"
+    - "Closing evolution: action → temporal marker ('The quarterly was in five weeks')"
+  Thorne:
+    - "Competence returned: 'infrastructure of his competence producing again'"
+    - "Recalculation running for months (beneath maintenance posture)"
+    - "Handwritten analysis: three pages, architect's script, margined precision"
+    - "Strategic intelligence: three moves ahead, precedent accumulation"
+    - "Key line: 'They become irrelevant. Which is the point.' (period not comma)"
+    - "Institutional register throughout (no personal territory, handkerchief not accessed)"
+    - "Door still open (maintained for six months)"
+
+# Continuity
+continuity_notes:
+  - "B3 C1 reversed: corridor observation → entry and engagement"
+  - "B2 C46: SHEPHERD terminated, scaling timeline folded/filed, 'I know'"
+  - "B2 C37: Thorne's register failure inverted (competence returned)"
+  - "B2 C34: Mumbai kill chain referenced in NBA"
+  - "B2 C23: SHEPHERD operational (18% above projection) referenced in NBA"
+  - "Eduardo's tolerance band: twelve percent, designed for seasonal variation"
+  - "Three hundred meters: corridor Eduardo walked, Aurielle walks"
+  - "Morning light: twelve-minute window (direct sun → diffuse)"
+  - "Hum: filtered, Spire specification, Eduardo's noise-cancellation design"
+  - "Hands flat on desk: posture inheritance (Eduardo → Thorne/Aurielle)"
+
+forward_threads:
+  - "B3 C12 'The Grid Holds': First major Kindling strike, Aurielle holds grid alone"
+  - "B3 C19 'Thorne Leaves': Enabler departs (recalculated, gave framework, left)"
+  - "Board package → quarterly → implementation of voluntary reduction"
+  - "Kindling irrelevance → Sofia escalation (simultaneous global strikes)"
+  - "Thirteen facilities → decommissioning timeline"
+  - "Compliance framework → regulatory positioning"
+  - "Phase 4-5: The balcony, the step (Aurielle's endpoint)"
+
+# Themes
+primary_themes:
+  - "Architecture of Power (Dominant)"
+  - "Systemic Complicity (Strong)"
+  - "The Cost of Knowing (Ambient)"
+  - "What Systems Do to People (Character theme)"
+
+thematic_objects:
+  - "Thorne's recalculation (three handwritten pages, asset management)"
+  - "Thirteen facilities (grid's expendable organs)"
+  - "Twelve-percent tolerance band (Eduardo's margin → compliance margin)"
+  - "The quarterly (five weeks, temporal governance)"
+  - "The fold (archive reflex, operational vs. archival)"
+  - "Compliance framework (institutional construction)"
+  - "They become irrelevant (strategic objective, not side effect)"
+
+# Technical
+epigraph:
+  source: "The Kindling Letters"
+  work: "Letter 7 (distributed via encrypted relay, 2176)"
+  text: "If the grid chooses to reduce before we force it to reduce, the reduction belongs to the grid. Our victory becomes their strategy. We must move faster than their capacity to absorb us."
+  function: "Resistance rhetoric about absorption. Oblique on first read, devastating on reread. Kindling saw it coming. Their own warning becomes the diagnosis the machine co-opts."
+
+style_notes:
+  - "Negation-before-assertion: 1 instance (at limit for Aurielle)"
+  - "Four negations → two-word payoff: 'Asset management'"
+  - "Paratactic structure dominant (short declaratives as punctuation)"
+  - "Long-long-SHORT rhythm sustained"
+  - "Sensory hierarchy: sound > tactile > visual, temperature absent"
+  - "TEXTURE mode: quiet register, corporate horror, briefing pacing"
+  - "No fortissimo, no cosmic dread, horror in reasonableness"
+  - "Dialogue ~18%: operational briefing register, terse exchanges"
+
+rhythm_notes:
+  - "Five-section structure: entry → data → argument → rationale → response"
+  - "Tension shape: flat-sustained → institutional → analytical peak → key exchange → resolving"
+  - "Closing: temporal marker not action ('The quarterly was in five weeks')"
+  - "Bookend: corridor walk (suite → operations → return), three hundred meters"
+  - "Most passive closing in Aurielle arc: not decision, not deferral, a schedule"
+
+# New Locations
+new_locations:
+  - name: "Thorne's office (operations wing)"
+    description: "End of three-hundred-meter corridor, operations display (twelve-zone data), institutional furniture, no two-chair briefing geometry"
+    details: "Door open for six months, desk with handwritten documents, operations wing ambient sound (terminals, ventilation, analysts)"
+    function: "Operational territory (not executive suite), Thorne's domain, briefing configuration"
+
+# New Objects
+new_objects:
+  - name: "Thorne's recalculation (handwritten analysis)"
+    description: "Three pages, architect's script, margined precision, regulatory exposure assessment containing throughput reduction analysis"
+    significance: "The next sentence returned, competence producing again, machine's survival strategy"
+  - name: "Thirteen facilities list"
+    description: "Tier 3 extraction (7), Tier 2 refinement (4), Jakarta conversion (2), expendable sites"
+    significance: "Grid's expendable organs, voluntary reduction targets, four overlap with Kindling list"
+  - name: "Compliance framework"
+    description: "Institutional construction making reduction NitroCore's reduction (not regulator's, not Kindling's)"
+    significance: "Framework as power, terms of reduction controlled by grid"
+
+# Cross-References
+related_chapters:
+  - "B3 Ch 1: Corridor observation, no entry, Thorne maintaining, 'She opened the next report'"
+  - "B2 Ch 46: SHEPHERD terminated, 'I know,' handkerchief sentence, 'She opened the quarterly schedule'"
+  - "B2 Ch 37: Eduardo absent from Broadcast, Thorne's register failure, wrist stopped by Voice"
+  - "B2 Ch 34: Mumbai kill chain, translation absent, 'She did not open the next report'"
+  - "B2 Ch 23: SHEPHERD operational, 18% above projection, acoustic anomaly"
+  - "B2 Ch 10: SHEPHERD named, Thorne's 'Yes. You do.'"
+  - "B1 Ch 1: Eduardo's assassination, Thorne's handkerchief, corridor"
+  - "B3 Ch 12: The Grid Holds (forward)"
+  - "B3 Ch 19: Thorne Leaves (forward)"
+
+# Notes
+author_notes: "User approved draft with one correction ('the Voice' → 'the Broadcast' for register consistency). Fourth-wall break ('the dossier described') caught in self-review and corrected. Epigraph devastating on reread: Kindling's own warning becomes the diagnosis. Thorne's competence returned but applied to asset management, not architecture. Closing shifts from action to temporal marker — most passive in arc. The horror is in the reasonableness."
+
+audit_status: "Complete"
+tracking_status: "Complete (rhythm, themes)"
+bible_status: "Pending updates (Thorne recalculation, thirteen facilities, compliance framework)"
+---

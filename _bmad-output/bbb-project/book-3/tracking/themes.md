@@ -275,8 +275,10 @@ The pen that was inheritance (B1), then evidence (B2 Ch 7), then continuation (B
 - B3C4: "Everything worked. The breaches were still expanding." (functional horror)
 - B3C6: "She was getting better at the job." (self-explanation foreclosing inquiry)
 - B3C7: "The pen continued." (continuation as practice)
-- **B3C8: "Both systems held." (contradiction sustained)**
+- B3C8: "Both systems held." (contradiction sustained)
+- **B3C9: "The quarterly was in five weeks." (temporal continuation)**
 
-All Phase 1 closings enact continuation. The machine continues. The chorus continues. The question continues. The model works. The drift continues. The pen continues. Both systems hold. The continuation is not resilience. The continuation is the horror. Phase 1 equilibrium: the Broadcast happened, everyone knows, the system continues, the contradictions hold.
+All Phase 1 closings enact continuation. B3C9 adds temporal dimension: the machine continues on schedule. The recalculation will arrive when the quarterly arrives. The continuation is governed by cycles. The horror is not that the machine continues. The horror is that the machine continues predictably, on timeline, according to institutional rhythm. The quarterly was in five weeks. The machine knows when.
 
 ---
+
