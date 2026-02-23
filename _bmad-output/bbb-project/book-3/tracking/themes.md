@@ -321,3 +321,79 @@ All Phase 1 closings enact continuation. B3C10 adds proof dimension: the model w
 
 ---
 
+### Chapter 11 — "Ninety Milligrams" (Kira Calloway)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Where Identity Ends | Dominant | The drift includes not noticing the drift. Kira reads personality change as skill development ("She was getting better at the job" → "The ninety would help"). Forum posts describe 90mg effects (texture gaps, personality erosion) — she reads them, doesn't connect to herself. The plan arrives "fully formed at 2 AM" — narrator identifies as manic, Kira does not: "She did not recognize this." The closing line is the drift's voice answering a question Kira isn't asking: *help with what?* |
+| Commodification of Suffering | Strong | 1.6M → 1.9M viewers watching biological monitoring data from seven mages during Kindling strike. The signal in human nervous systems is streaming content. Sponsorship read dropped mid-sentence for relay data (professional cost unregistered). Proximity stream plan: "I want to show them what I hear." The antenna as product. The audience seeing the data makes it real — visibility as validation. The mage network as infrastructure for Sofia's coordination produces data for Kira's audience. |
+| Systemic Complicity | Moderate | Kira's network is operational infrastructure for Kindling. The coordination produces data that proves Sofia's model. The model working produces arrests (three operatives, B3 Ch 10). The dependency: she can't step back from coordination because coordination might stop the signal, and stopping the signal might let her reduce the dose. "The circularity was the trap. She recognized the circularity. She did not recognize it as a trap." The system she built to document the signal now requires the signal to justify its existence. |
+| Truth as Weapon | Moderate | Biological data cleaner than institutional networks. "The institutional networks measure from outside. The mages measure from inside. And inside is where the signal lives." The triangle complete: Sofia's atmospheric vertex + Kindling's infrastructure vertex + Kira's biological vertex. The proximity stream as ultimate truth-telling: showing the world what the antenna hears at the source. The data made real by audience visibility. The weapon is the broadcast itself. |
+
+**Key Resonance:** Where Identity Ends ↔ Commodification of Suffering. The personality drift that Kira cannot see is the same drift that produces higher engagement (1.6M → 1.9M viewers). The audience metrics confirm the drift as skill. The commodification validates the erosion. The sharper she gets, the more the audience grows. The more the audience grows, the more evidence she has that she's "getting better at the job." The feedback loop: drift → engagement → validation → escalation → drift.
+
+**Epigraph Integration:** *Testimony of the Antenna*, Kira (unauthorized recordings), Fragment 14
+- Thematic function: Kira's own words used as epigraph for chapter where she cannot see herself. "The number is the number. The number is not the problem." On first read: mage documenting pharmaceutical precision. On reread: denial. The number IS the problem. Her insistence that it isn't is the drift speaking.
+- Unauthorized recording: testimony she gave is more honest than testimony she's living. The documentation she doesn't control captures what the authorized narrator cannot.
+- Structural irony: the woman who documented everything (filing system, network dashboard, relay architecture) is the subject of documentation she doesn't control. The testimony persists. The testifier cannot see herself in it.
+
+**Lumina Escalation as Thematic Arc:**
+- B1 Ch 10: 40mg, "It had always been enough" — past adequacy
+- B3 Ch 6: 80mg, "She was getting better at the job" — present denial
+- **B3 Ch 11: 90mg, "The ninety would help" — prospective self-medication**
+- Evolution: past adequacy → present denial → future escalation. Each closing is the drift's voice. The trajectory: the dose that was enough → the skill that's improving → the dose that will help. The self-explanation forecloses inquiry.
+
+**Quiet Room Metaphor as Identity Compression:**
+- B2: Quiet room as functional space (Lumina creates habitable cognitive environment)
+- B3 Ch 6: Drift onset, metaphor backgrounded
+- **B3 Ch 11: "The room at eighty was a closet now."** — spatial compression tracks Lumina insufficiency AND identity compression. The room shrinks as the dose becomes inadequate. The 90mg is framed as "making the room bigger." Reader understands: the room is being rebuilt around a smaller person. The architecture of self is contracting. The metaphor evolution tracks Where Identity Ends.
+
+**The Plan as Manic Architecture:**
+Arrives "fully formed at 2 AM" in apartment where she hasn't slept well in three weeks. Narrator provides clinical frame: "The plan was manic. The plan was the product of a mind running past its own governor. The plan was brilliant and reckless and urgent in a way that felt like clarity because the mania always felt like clarity — that was the diagnostic feature, the thing the textbooks described, the thing that the person inside the mania could not see because seeing it required the cognitive architecture the mania had co-opted." Then: "She did not recognize this." The reader is given the diagnosis Kira cannot access. The dramatic irony is structural: AEGIS-as-invisible-novelist knows the outcome, provides the clinical vocabulary, delivers the thesis that Kira's POV cannot deliver.
+
+**Paz Exchange as Structural Alternative Refused:**
+Paz offers the exit: "You can turn off the network. You can stop being the relay hub. You can step back from the coordination." Kira files it under "things Paz says that are structurally correct and operationally meaningless." The circularity: can't reduce dose until signal stops, but stopping signal requires work that requires dose. She recognizes the circularity. Does not recognize it as trap. The refusal is the trap's mechanism. The system she built (network, coordination, biological monitoring) now requires her continued participation to justify the escalation that the participation demands.
+
+**Nuwa's Warnings as Unread Text:**
+Seven-minute reply delay (unusual for Nuwa — signals she read the message multiple times). Practical questions that are warnings: "What's your current Lumina dose?" / "Moving to 90 before or after you stand next to the largest Anchor Zone on earth?" The masonry corridor logistics delivered alongside: "The last person who went to the margin for longer than forty minutes was a Listener from the Cathedral. She was there for an hour. She walked in. She didn't come back." Kira files the logistics under "operational planning" and the caution under "noted." The distinction between information she will use and information she will carry without acting on. The precision is hers. The trap is also hers.
+
+**Network as Operational Infrastructure:**
+Evolution from testimony (B1) → data relay (B2) → operational infrastructure (B3). The network that documented the signal now coordinates Kindling strikes. Seven mages positioned near Jakarta-Surabaya corridor during Sofia's proof-of-concept strike. Neural coherence data confirms Sofia's triangle. The biological vertex is Kira's infrastructure. The mages are not testifying — they are measuring. The shift from witness to instrument. The commodification of the body carrying the signal. Four red nodes (twelve total dark since Broadcast). The human cost of being infrastructure.
+
+**Concurrent Plot Integration (B3 Ch 10 ↔ Ch 11):**
+Sofia's proof-of-concept strike (Ch 10) and Kira's biological monitoring (Ch 11) are the same event from different vertices. Timeline concurrent (same 17-hour window). Sofia measures atmospheric. Kira carries biological. Neither chapter references the other's POV — structural complements, not narrative intersection. The triangle complete without the vertices meeting. The coordination is infrastructure, not relationship. The data flows through encrypted nodes. The people do not meet. The system works. The system is the horror.
+
+**Symbolic Objects:**
+
+**The Closet:** "The room at eighty was a closet now." The quiet room shrinking. Spatial compression as identity compression. The 90mg framed as renovation ("making the room bigger"). The reader understands: the room is being rebuilt around a smaller person. The architecture of self contracting. The metaphor tracks Where Identity Ends theme. The horror is that the renovation will work — the 90mg will make the room bigger by making the person smaller.
+
+**The Milligram Scale:** Epigraph: "You can hear me adjusting the scale. That's the sound. That clicking — that's the tare. I'm precise about this." The precision as defense mechanism. The number as control. "The number is the number. The number is not the problem." The insistence on pharmaceutical precision while the personality erodes. The scale measures the dose. The scale does not measure the drift. The precision is real. The precision is also denial.
+
+**The Forum Posts:** Kira reads about 90mg effects: "The drug removes more of me and what's left hears more clearly." / "At 90 I stopped losing days. I started losing details." / "The ceiling isn't 80. The ceiling is wherever you stop being the person who decided to start." She reads them. She does not connect them to herself. Same architecture as B3 Ch 6 (reading about disappearing, not connecting). The forum as prophecy. The reader sees it. Kira does not.
+
+**The Eleven-Second Count:** Appears twice: (1) post-stream transition ritual, (2) counting Paz's reply delay. Evolution: migrating from transition ritual (performer to private self) to general counting compulsion. The tic spreading. The boundary between performer-habit and neurological symptom eroding. The involuntary becoming more involuntary. Seeds further erosion.
+
+**São Paulo (Vitor, 29):** New red node. "Implant-generated hallucination" — the report uses a word Kira's filing system "did not have a comfortable category for." The R3 generating output that isn't coming from infrastructure but from its own processing architecture. Phantom signals. Recursive loops. The implant hallucinating the signal. The boundary between signal and noise collapsing at the hardware level. Parallel to Kira's boundary collapse at the cognitive level. The system breaking down in the same way across scales.
+
+**Comparison to other B3 closings:**
+- B3C1: "She opened the next report." (institutional heartbeat resumed)
+- B3C2: "The Cathedral was quiet. The chorus was not." (silence ≠ absence)
+- B3C3: "It always did." (question's permanence)
+- B3C4: "Everything worked. The breaches were still expanding." (functional horror)
+- B3C6: "She was getting better at the job." (self-explanation foreclosing inquiry)
+- B3C7: "The pen continued." (continuation as practice)
+- B3C8: "Both systems held." (contradiction sustained)
+- B3C9: "The quarterly was in five weeks." (temporal continuation)
+- B3C10: "The hum continued through the floor." (signal persistence after proof)
+- **B3C11: "The ninety would help." (prospective self-medication, future escalation)**
+
+All Phase 1-2 closings enact continuation. B3C11 adds prospective dimension: the dose she hasn't taken yet framed as solution to problem she hasn't named. Future tense. Reaching forward. The escalation as answer. The drift's voice providing the self-explanation. The question Kira isn't asking: *help with what?* The answer the drift provides: *the ninety will help.* The circularity is complete. The trap is closed.
+
+**Forward Thematic Connections:**
+- Ch 17 (Nuwa): Logistics coordination, first in-person meeting, masonry corridor
+- Ch 21 (Blackout Stream): Proximity stream execution, manic plan realized, hospitalization
+- Ch 25: Post-hospitalization, 90mg consequences visible, network role questioned
+- Phase 3: Kira's arc toward recognizing drift (or not), network as infrastructure vs. testimony, the antenna pointed at source
+
+---
+

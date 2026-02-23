@@ -566,3 +566,107 @@ Eduardo's engineering enables machine's evolution beyond Eduardo. The buffer he 
 The thesis word evolution tracks Sofia's arc: model validation → institutional failure → systemic antagonist → moral weight. "Both" is the endpoint of Phase 1 — the recognition that correct action produces dual outcome. The breaches stop. The dependency collapses. Both.
 
 ---
+
+### Chapter 11 — "Ninety Milligrams" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Performance-sustained (stream) → clinical-processing (network/quiet room) → operational-rising (Paz exchange) → manic-compressed (proximity plan/Nuwa) → resolving (closing self-explanation)
+**Pacing:** Four-section structure following stream-to-planning cycle. Stream ~1,500 words (33%). Post-stream/quiet room ~1,400 words (30%). Paz exchange ~600 words (13%). Proximity plan/Nuwa ~1,100 words (24%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Stream (Kindling data) | ~1,500 | Medium-performance | Fast, riffing, technical translation, 8-hour duration |
+| Post-stream/quiet room | ~1,400 | Low-clinical | Network dashboard, forum browsing, spatial compression |
+| Paz exchange | ~600 | Medium-operational | Flat, pharmacological, "That's past my line, Kira" |
+| Proximity plan/Nuwa | ~1,100 | High-manic | 2 AM idea, fully formed, logistics mapped, warnings ignored |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Four red. Twelve total since the Broadcast." / "The room at eighty was a closet now." / "She did not recognize this." / "The ninety would help."
+- TEXTURE mode = quiet register, personality drift horror. Horror in not-noticing: Kira reads drift as skill, plan as logic, escalation as necessity.
+- No NBA deployment — Kira's register has shifted from musical/acoustic vocabulary to spatial/architectural. The negation-before-assertion technique present (2 instances, target met) but not in italicized canonical form. Musical vocabulary erosion continues from B3 Ch 6.
+- Closing echo: "The ninety would help." — prospective self-medication. Third in trilogy: B1 Ch 10 "It had always been enough" (past adequacy) → B3 Ch 6 "She was getting better at the job" (present denial) → B3 Ch 11 (future escalation). Each closing is drift's voice answering question Kira isn't asking.
+- Dialogue ~15% (stream voice, Paz exchange via messages, Nuwa exchange via messages). Stream dialogue sharper than B3 Ch 6 — sponsorship-read interruption edgier, technical translation faster. Off-stream: messaging relay only, no in-person dialogue.
+- Four-section architecture mirrors Kira's operational cycle: performance (stream) → processing (network/data) → escalation (Paz) → planning (proximity stream). The rhythm is the drift accelerating.
+- Bookend structure: biological monitoring data arrives during stream (opening) → "The ninety would help." (closing). The data that proves Sofia's model becomes the signal that demands more Lumina.
+
+**Dialogue Percentage:** ~15% (stream voice + messaging relay exchanges)
+
+**Pacing Concern:** Risk of 2 AM planning section feeling rushed/compressed. Mitigated by: (1) Narrator explicitly identifies plan as manic ("The plan was manic... She did not recognize this") — reader given clinical frame Kira lacks; (2) Nuwa's seven-minute reply delay signals caution; (3) Closing section processes implications through spatial metaphor (room/closet/ceiling) rather than rushing to endpoint.
+
+**Structural Note:** B3C11 deepens Phase 2 personality drift architecture. Seven months post-Broadcast, concurrent with B3 Ch 10 (Sofia's proof-of-concept strike). Kira's network provides biological vertex of Sofia's triangle — seven mages, Jakarta-Surabaya corridor, neural coherence data confirms model. Network is operational infrastructure now, not testimony. 80mg insufficient — quiet room shrinking to closet, signal louder post-Kindling data, pattern-seeking machinery running through suppression. Escalation to 90mg (past community ceiling, past forums, past Paz's line). Proximity stream plan seeds Ch 21 crisis — manic, fully formed at 2 AM, Nuwa's warnings filed but not acted on. Chapter rhythm enacts drift: steady acceleration, pre-assembled riffs, 8-hour stream (broke 6-hour discipline), the speed that feels like skill. The not-noticing architecture intact.
+
+**Comparison to B3 Ch 6:**
+- B3 Ch 6: "Lumina" — 80mg maintenance, personality drift onset, network self-managing, three red nodes, "She was getting better at the job"
+- B3 Ch 11: "Ninety Milligrams" — 80mg insufficient, drift deepening, network operational for Kindling, four red nodes (+São Paulo), "The ninety would help"
+- Together they bracket Kira's Phase 2 arc: Ch 6 = drift shown but unnamed, 80mg as ceiling. Ch 11 = drift accelerating, 80mg breached, proximity stream planned. The gap: one month. The escalation: 10mg + manic planning. The trajectory: performer → coordinator → antenna pointed at source.
+
+**Concurrent Plot Integration:**
+- B3 Ch 10 (Sofia): First synchronized Kindling strike, Jakarta-Surabaya corridor, 06:00-23:00, biological monitoring via Kira's network
+- B3 Ch 11 (Kira): Same strike data arriving during stream, seven mages neural coherence readings, triangle confirmed
+- Timeline: concurrent (same 17-hour window, different vertices). Sofia measures atmospheric. Kira carries biological. Neither chapter references other's POV. Structural complements.
+
+**Closing Echo Evolution:**
+- B1 Ch 10: "It had always been enough." (dosage adequacy, past tense, retrospective)
+- B3 Ch 6: "She was getting better at the job." (self-explanation, present tense, denial)
+- **B3 Ch 11: "The ninety would help."** (prospective self-medication, future tense, escalation)
+- Evolution: past adequacy → present denial → future escalation. Each closing is drift's voice. The trajectory: the dose that was enough → the skill that's improving → the dose that will help. The self-explanation forecloses inquiry. The question Kira isn't asking: *help with what?*
+
+**Lumina Escalation Arc (Trilogy):**
+- B1 Ch 10: 40mg, self-managed, nightly ritual
+- B2 Ch 6: 60mg via Paz (first escalation)
+- B2 Ch 28: 60mg mid-crisis (daytime use)
+- B2 Ch 32: 80mg (past Paz's line, "São Paulo")
+- B3 Ch 6: 80mg maintenance ("the ceiling")
+- **B3 Ch 11: 80mg insufficient → 90mg (past community ceiling, past forums, operational demand)**
+- Forward: Ch 21 (proximity stream at 90mg → hospitalization)
+
+**Quiet Room Metaphor Evolution:**
+- B2: Quiet room as functional space (Lumina creates habitable cognitive environment)
+- B3 Ch 6: Not explicitly spatial (drift onset, metaphor backgrounded)
+- **B3 Ch 11: "The room at eighty was a closet now."** — spatial compression tracks Lumina insufficiency. Room shrinks as dose becomes inadequate. 90mg framed as "making the room bigger." The architecture of the metaphor is consistent and escalating. Reader understands: room being rebuilt around smaller person.
+
+**Personality Drift Evidence (Reader Receives, Kira Doesn't):**
+1. Stream duration: 8 hours (past 6-hour discipline). "The extra two happened the way the extra hours always happened now."
+2. Sponsorship break: Drops paid content mid-sentence. Doesn't register professional cost.
+3. Speed: "Words arriving pre-assembled" — same language from Ch 6, now faster.
+4. Viewer count: 1.6M → 1.9M during single stream. She doesn't look. Not-looking is performed discipline; number climbing is drift's output.
+5. The plan: Arrives "fully formed at 2 AM." Narrator identifies as manic, identifies diagnostic features, delivers: "She did not recognize this."
+6. Forum browsing: Reads posts about 90mg effects (texture gaps, personality erosion). Doesn't connect to self. Same architecture as Ch 6.
+7. Closing echo: "The ninety would help." — self-explanation that forecloses inquiry.
+
+**Kira Rhythm Signature (B3 Ch 11):**
+- Stream dialogue: faster than Ch 6, edgier, technical translation more authoritative
+- Off-stream narration: paratactic compounds, spatial metaphor (room/closet/ceiling/walls/blur) replacing musical vocabulary
+- Signal description: "louder," "more texture," "more density," "pressing against the blur" — specific physical qualities, not metaphor
+- Closing structure: three-word declarative repeated. "The ninety would help." — the sentence that answers wrong question, the drift's voice
+
+**Motif Density:**
+- **Eleven-second count:** 2 instances (post-stream ritual + Paz reply delay) — evolution: migrating from transition ritual to general counting compulsion
+- **Quiet room/closet:** 5 references — spatial compression, ceiling/walls/blur, room shrinking to closet, 90mg as renovation
+- **The signal:** 12 references — continuous, inhabited, louder, more texture/density, pressing against blur, resonating with Kindling data
+- **Network dashboard:** 214 hubs, 31 regions, four red nodes (three from Ch 6 + São Paulo), twelve total dark since Broadcast
+- **Lumina scale:** 3 references — milligram precision, tare sound (epigraph), "The number is the number"
+- **Posture shift:** 1 reference — performer to folded (spine curved, shoulders rounded, knees pulled, compact architecture)
+- **Touch back of neck:** 1 reference — R3 housing, bone, warmth (residual heat, system running past specification)
+- **Paz's line:** 3 references — 60mg, 80mg, 90mg ("That's past my line, Kira")
+
+**Sensory Hierarchy:**
+- **Sound/vibration (dominant):** Signal in spine (continuous, louder, textured), hum, frequency
+- **Spatial (strong):** Room/closet metaphor, ceiling/walls/blur, compressed space, architectural vocabulary
+- **Tactile (present):** Fingertips pressing desk (flat, not chord shapes), back of neck (warmth), R3 housing
+- **Visual (minimal):** LED strip cycling, ring light off, relay feed (pink text), viewer count (dismissed)
+
+**Forward Connections:**
+- Ch 17 (Nuwa): First in-person meeting, logistics coordination, masonry corridor mapped
+- Ch 21 (Blackout Stream): Proximity stream execution, Neo-Shanghai Anchor Zone margin, hospitalization
+- Ch 25: Post-hospitalization, 90mg consequences visible
+- Phase 3: Kira's role in Kindling coordination, network as operational infrastructure
+
+**Thematic Weight:**
+- **Where Identity Ends (Dominant):** Drift includes not-noticing drift. Forum posts describe her future; she doesn't connect. Closing line is drift's voice.
+- **Commodification of Suffering (Strong):** 1.6M → 1.9M viewers watching biological monitoring data. Proximity stream plan: "I want to show them what I hear."
+- **Systemic Complicity (Moderate):** Network is operational infrastructure for Kindling. Can't step back from coordination because coordination might stop signal, stopping signal might let her reduce dose. Circularity is trap. She recognizes circularity. Doesn't recognize it as trap.
+- **Truth as Weapon (Moderate):** Biological data cleaner than institutional networks. "Mages measure from inside. And inside is where the signal lives."
+
+---

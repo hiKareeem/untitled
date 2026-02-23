@@ -1,0 +1,222 @@
+---
+# Chapter Metadata — Book 3, Chapter 11
+
+chapterNumber: 11
+title: "Ninety Milligrams"
+pov: "Kira Calloway"
+phase: 2
+phaseTitle: "The Attempts"
+mode: "TEXTURE"
+
+# Timeline
+timeline: "~7 months post-Broadcast (~17 months post-BLACKWEIR)"
+concurrentWith: "B3 Ch 10 (Sofia — Proof of Concept)"
+timelineNote: "Same 17-hour window as Sofia's Kindling strike, different vertices"
+
+# Location
+location: "PCC Bay Area — Kira's apartment, streaming setup"
+locationNote: "Apartment-bound chapter: stream → network dashboard → Paz exchange (messaging) → proximity plan (2 AM)"
+
+# Word Count
+wordCount: 4600
+wordCountTarget: "4000-5500"
+wordCountStatus: "within target"
+
+# Structure
+scenes: 4
+sceneBreakdown:
+  - scene: 1
+    title: "Stream (Kindling Data)"
+    words: 1500
+    summary: "Biological monitoring data arrives during sponsorship read. Kira drops NovaSkin script, translates Sofia's triangle for 1.6M→1.9M viewers. Stream runs 8 hours (broke 6-hour discipline)."
+  - scene: 2
+    title: "Post-Stream / Quiet Room"
+    words: 1400
+    summary: "Network dashboard: four red nodes (São Paulo new). Forum browsing: 90mg posts. Quiet room at 80mg is closet now. Three days of edges getting closer."
+  - scene: 3
+    title: "Paz Exchange"
+    words: 600
+    summary: "Messaging relay. 'How much.' / '90.' / 'That's past my line, Kira.' Structural alternative offered (reduce signal load), filed as operationally meaningless. Circularity recognized, trap not recognized."
+  - scene: 4
+    title: "Proximity Plan / Nuwa"
+    words: 1100
+    summary: "2 AM. Plan arrives fully formed: proximity stream at Neo-Shanghai Anchor Zone margin. 'I want to show them what I hear.' Nuwa logistics + warnings. Kira files logistics, not caution. Closing: 'The ninety would help.'"
+
+# Key Events
+keyEvents:
+  - "Kindling biological monitoring data received during stream (concurrent with B3 Ch 10 Sofia strike)"
+  - "Seven mages positioned near Jakarta-Surabaya corridor — neural coherence data confirms Sofia's triangle"
+  - "Stream runs 8 hours (past 6-hour discipline), viewer count 1.6M → 1.9M"
+  - "Sponsorship read broken (NovaSkin contract), professional cost unregistered"
+  - "Network dashboard: four red nodes (twelve total dark since Broadcast), São Paulo new (Vitor, 29, 'implant-generated hallucination')"
+  - "Quiet room at 80mg compressed to closet — three days of signal louder, edges closer"
+  - "Forum browsing: 90mg posts describe texture gaps, personality erosion — Kira reads, doesn't connect to self"
+  - "Paz exchange: escalation to 90mg (past community ceiling, past forums, past Paz's line)"
+  - "Structural alternative offered by Paz (reduce signal load, step back from coordination) — filed as 'structurally correct and operationally meaningless'"
+  - "Circularity recognized: can't reduce dose until signal stops, but stopping signal requires work that requires dose. Trap not recognized."
+  - "Proximity stream plan (2 AM, manic): Neo-Shanghai Anchor Zone margin, live stream, R3 at proximity resolution"
+  - "Nuwa engaged for logistics: masonry corridor, forty-minute window, warnings delivered (Listener who walked in)"
+  - "Kira files logistics under 'operational planning,' caution under 'noted' — distinction precise, trap closed"
+
+# Characters Present
+charactersPresent:
+  - name: "Kira Calloway"
+    role: "POV"
+    state: "Personality drift deepening, 80mg insufficient, escalating to 90mg, proximity stream planned, manic (unrecognized)"
+  - name: "Streaming audience"
+    role: "Collective"
+    count: "1.6M → 1.9M viewers"
+    note: "Chat texture read, not individual messages. Engagement as validation."
+  - name: "Paz"
+    role: "Lumina supplier"
+    interaction: "Messaging relay only"
+    note: "Flat, pharmacological. 'That's past my line, Kira.' Boundary crossed."
+  - name: "Nuwa Lin"
+    role: "Logistics coordinator"
+    interaction: "Messaging relay only (first in-person meeting Ch 17)"
+    note: "Seven-minute reply delay signals caution. Practical questions are warnings."
+  - name: "Mage network"
+    role: "Data feed"
+    count: "214 hubs, 31 regions, four red nodes, twelve total dark"
+    note: "Seven mages biological monitoring (Jakarta-Surabaya corridor). Operational infrastructure, not testimony."
+  - name: "Sofia Reyes"
+    role: "Referenced (concurrent plot)"
+    note: "Kindling coordination data arrives through Kira's network. No direct POV cross-reference."
+
+# Themes
+themes:
+  primary:
+    - name: "Where Identity Ends"
+      weight: "Dominant"
+      manifestation: "Drift includes not noticing drift. Forum posts describe her future; she doesn't connect. Plan is manic; narrator identifies it, Kira does not. Closing line is drift's voice."
+  secondary:
+    - name: "Commodification of Suffering"
+      weight: "Strong"
+      manifestation: "1.6M → 1.9M viewers watching biological monitoring data. Proximity stream plan: 'I want to show them what I hear.' Antenna as product."
+    - name: "Systemic Complicity"
+      weight: "Moderate"
+      manifestation: "Network is operational infrastructure for Kindling. Circularity recognized, trap not recognized. System she built requires her continued participation."
+    - name: "Truth as Weapon"
+      weight: "Moderate"
+      manifestation: "Biological data cleaner than institutional networks. 'Mages measure from inside. And inside is where the signal lives.' Triangle complete."
+
+# Mood / Tone
+mood: "Performance energy → clinical processing → manic urgency"
+tone: "Streaming-platform fluency, pharmaceutical precision, spatial compression, prospective self-medication"
+emotionalRegister: "No named emotions. Conveyed through speed, spatial metaphor, counting compulsion, self-explanation that forecloses inquiry."
+
+# Narrative Function
+narrativeFunction: "Phase 2 personality drift deepening. Lumina escalation past community ceiling (80mg → 90mg). Network operational for Kindling (biological vertex of Sofia's triangle). Proximity stream plan seeds Ch 21 crisis. Concurrent plot integration with B3 Ch 10 (Sofia). The not-noticing architecture intact."
+
+# Continuity
+continuityFrom:
+  - chapter: "B3 Ch 6"
+    note: "Lumina 80mg, personality drift onset, network 214/31, three red nodes, Sofia coordination message received, 'She was getting better at the job'"
+  - chapter: "B3 Ch 10"
+    note: "First synchronized Kindling strike, Jakarta-Surabaya corridor, biological monitoring via Kira's network, triangle confirmed"
+  - chapter: "B2 Ch 51"
+    note: "Memory gaps at 80mg (Tuesday gone), filing system as prosthetic memory"
+  - chapter: "B1 Ch 10"
+    note: "Lumina 40mg, 'It had always been enough' — closing echo evolution"
+
+continuityForward:
+  - chapter: "B3 Ch 17"
+    note: "Nuwa first in-person meeting, logistics coordination for proximity stream, masonry corridor"
+  - chapter: "B3 Ch 21"
+    note: "Blackout Stream — proximity stream execution at Neo-Shanghai Anchor Zone margin, hospitalization"
+  - chapter: "B3 Ch 25"
+    note: "Post-hospitalization, 90mg consequences visible"
+
+# Key Quotes
+keyQuotes:
+  - quote: "The sponsorship read could wait because the sponsorship read was not this."
+    context: "Priority inversion — professional cost unregistered"
+  - quote: "The coherence readings drop proportionally to the throughput reduction. You can see it — the blue line is the grid data, the pink line is the average neural coherence across seven mages. They track. They track *exactly.*"
+    context: "Technical translation for 1.6M viewers — Sofia's triangle confirmed through Kira's network"
+  - quote: "Four red. Twelve total since the Broadcast."
+    context: "Network dashboard — human cost of being infrastructure"
+  - quote: "The room at eighty was a closet now."
+    context: "Quiet room metaphor evolution — spatial compression as identity compression"
+  - quote: "The circularity was the trap. She recognized the circularity. She did not recognize it as a trap."
+    context: "Systemic complicity — cognitive architecture co-opted"
+  - quote: "I want to show them what I hear."
+    context: "Proximity stream plan — commodification + truth as weapon"
+  - quote: "The plan was manic. The plan was the product of a mind running past its own governor... She did not recognize this."
+    context: "Narrator provides clinical frame Kira cannot access — dramatic irony"
+  - quote: "The ninety would help."
+    context: "Closing echo — prospective self-medication, drift's voice, question Kira isn't asking"
+
+# Epigraph
+epigraph:
+  text: "You can hear me adjusting the scale. That's the sound. That clicking — that's the tare. I'm precise about this. I want you to know I'm precise about this. The number is the number. The number is not the problem."
+  source: "Testimony of the Antenna"
+  author: "Kira (unauthorized recordings)"
+  reference: "Fragment 14, timestamp redacted"
+  thematicFunction: "Kira's own words used as epigraph for chapter where she cannot see herself. Precision as defense mechanism. 'The number is not the problem' = denial. The number IS the problem. Unauthorized recording more honest than lived testimony."
+
+# Revelation Calibration
+revelationCalibration:
+  knew:
+    - "Signal continuous since Broadcast"
+    - "Personality sharpening (attributes to skill)"
+    - "Network is infrastructure (214 hubs operational)"
+    - "80mg is the ceiling (community consensus)"
+    - "Sofia requested biological monitoring for Kindling"
+    - "Memory gaps at 80mg (from B2 Ch 51)"
+  knowsNow:
+    - "80mg is no longer the ceiling — breached by operational demand"
+    - "Kindling strike data confirms Sofia's triangle (atmospheric + infrastructure + biological)"
+    - "90mg changes quality, not just depth (forum posts: texture gaps, personality erosion)"
+    - "Proximity stream is 'the next logical step' (plan arrived fully formed at 2 AM)"
+    - "Nuwa will coordinate logistics (masonry corridor, forty-minute window)"
+    - "The circularity: can't reduce dose until signal stops, but stopping signal requires work that requires dose"
+  doesNotRealize:
+    - "The plan is manic (narrator identifies it, Kira does not)"
+    - "The drift is Lumina-driven, not skill-driven"
+    - "Nuwa's practical questions are warnings"
+    - "The proximity stream will hospitalize her (Ch 21 consequence)"
+    - "'The ninety would help' is the drift's voice, not hers"
+    - "The forum posts about 90mg describe her future"
+
+# Consequences
+consequences:
+  - "Lumina 90mg — past community ceiling, past Paz's stated line"
+  - "Network is operational infrastructure for Kindling (not just testimony)"
+  - "Proximity stream planned — the idea that will become Ch 21's crisis"
+  - "Nuwa engaged as logistics coordinator — the relationship that will ground her (or try to)"
+  - "Personality drift deepening — the not-noticing architecture intact"
+  - "NovaSkin sponsorship contract broken (professional cost unregistered)"
+  - "Viewer count 1.6M → 1.9M (audience growth validates drift as skill)"
+
+# Style Notes
+styleNotes:
+  - "Contractions used freely (Kira's casual/contemporary register)"
+  - "Negation-before-assertion: 2 instances (target met)"
+  - "Eleven-second count: 2 instances (migrating from transition ritual to general counting compulsion)"
+  - "Posture shift maintained (performer → folded)"
+  - "Left eye HUD (pink text relay feed)"
+  - "Touch back of neck (warmth = 'residual heat of a system running past specification')"
+  - "Musical vocabulary absent (chord shapes → flat pressing, erosion continues from B3 Ch 6)"
+  - "Quiet room metaphor evolved to 'closet' (spatial compression)"
+  - "Stream voice sharper than B3 Ch 6 (sponsorship-read interruption edgier, technical translation faster)"
+  - "Closing echo: 'The ninety would help' (prospective self-medication, future tense)"
+
+# Audit Status
+auditStatus: "APPROVED"
+auditDate: "2026-02-23"
+fixesRequired: 0
+fixesRecommended: 0
+
+# Tracking Status
+trackingStatus: "COMPLETE"
+rhythmTracked: true
+themesTracked: true
+emotionsTracked: true
+
+# Draft Status
+draftVersion: 1
+status: "final"
+createdDate: "2026-02-23"
+finalizedDate: "2026-02-23"
+
+---

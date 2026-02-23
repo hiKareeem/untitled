@@ -316,3 +316,78 @@ The absences are the emotional content. The performance register processes what 
 **Character State:** Phase 1→2 transition. The theorist has become the coordinator. The scientist who measured from outside is now directing action from inside the operational network. The emotional register is still indirect (no named emotions, all through sensation/gesture), but the register has shifted from observational to operational. She is no longer only watching. She is coordinating. The moral weight is accumulating. The recognition that correct action produces dual outcome ("Both.") is the endpoint of Phase 1 and the opening of Phase 2. The horror is not that the model doesn't work. The horror is that the model works and working has consequences.
 
 ---
+
+### Chapter 11 — "Ninety Milligrams" (Kira Calloway)
+
+**Emotional Arc:** Performance energy (stream) → clinical processing (network dashboard, quiet room compression) → pharmacological negotiation (Paz exchange) → manic urgency (proximity plan) → prospective self-medication (closing)
+
+**Emotional Register:** Performance-operational → manic-compressed. Phase 2 personality drift deepening. Emotion conveyed through speed (pre-assembled riffs, 8-hour stream), spatial compression (quiet room → closet), counting compulsion (eleven-second count migrating), and self-explanation that forecloses inquiry. No named emotions. The drift is invisible to Kira, visible to reader through narrator's clinical frame. The horror is not the escalation. The horror is that the escalation feels like logic.
+
+**Physical Tells:**
+- Fingertips pressing desk (flat, splayed, not chord shapes — musical vocabulary erosion continues)
+- Eleven-second count (2 instances: post-stream ritual + Paz reply delay — tic migrating from transition to general compulsion)
+- Posture shift (performer → folded: spine curved, shoulders rounded, knees pulled, compact architecture)
+- Touch back of neck (R3 housing, bone, warmth — "residual heat of a system running past specification")
+- Left eye relay feed (pink text, scrolling faster than read speed)
+- Sleep fragmentation (three weeks of shallow rest, not catastrophic insomnia)
+- Signal in spine (continuous, louder, more texture/density, pressing against blur)
+
+**Emotional Beats:**
+
+1. **Stream opening (Kindling data arrival)** — Performance energy. Sponsorship read dropped mid-sentence. "The sponsorship read could wait because the sponsorship read was not this." Emotional weight: priority inversion. The data is extraordinary. The professional cost (NovaSkin contract) doesn't register as problem. The drift operating: what should be concern (breaking paid contract) is processed as correct prioritization.
+
+2. **Technical translation (1.6M viewers)** — Flow state. "The words were arriving pre-assembled — the technical vocabulary and the streaming vocabulary merging into a fluency that felt like command and sounded like authority." Emotional weight: the speed feels like skill. The pre-assembled quality (same language from B3 Ch 6, now faster) is evidence of drift to reader, evidence of expertise to Kira. The audience receiving it as expertise validates the self-assessment.
+
+3. **Chat texture** — "She read the texture, not the words. The texture was engagement. The texture was *this matters.*" Emotional weight: collective response as validation. 1.6M people processing data through her interpretive lens. The scale of audience confirming the importance of the work. The commodification invisible because the visibility equals validation.
+
+4. **Stream duration (8 hours)** — "The extra two happened the way the extra hours always happened now." Emotional weight: normalization of discipline breach. The 6-hour limit broken. The breaking is routine ("the way... always happened now"). The drift in duration as well as tone. The not-noticing: she doesn't mark it as concern.
+
+5. **Viewer count (1.9M)** — "She didn't look." Emotional weight: performed discipline masking drift output. The not-looking is intentional (discipline against metrics obsession). The number climbing is the drift's output. The audience grows because the content is sharper/faster/edgier. The sharpness is the drift. The discipline (not looking) prevents her from seeing the evidence (growth rate).
+
+6. **Post-stream collapse** — "The eleven-second count happened. Involuntary." Emotional weight: transition ritual as neurological necessity. The posture going (spine curved, shoulders rounded). The compact architecture of exhaustion. Eight hours of performance. The signal still scrolling in left eye. She should turn it off. She doesn't.
+
+7. **Network dashboard (four red nodes)** — Clinical processing. "Four red. Twelve total since the Broadcast." Emotional weight: filed and moved on. São Paulo (Vitor, 29): "implant-generated hallucination" — word her filing system "did not have a comfortable category for." The discomfort noted, filed, dismissed. The pattern (mages going dark) is data. The data is tracked. The tracking is the emotional response.
+
+8. **Quiet room compression** — "The room at eighty was a closet now." Emotional weight: spatial metaphor for identity compression. The Lumina's effect changing quality. The compressed space compressed further. The ceiling lower, walls closer. "A room she could sit in — not comfortable, not spacious, but habitable" → closet. The insufficiency recognized as pharmaceutical problem, not identity problem. The room needs renovation (90mg). The person shrinking is not the frame.
+
+9. **Forum browsing** — Reading posts about 90mg effects. "The drug removes more of me and what's left hears more clearly." / "The ceiling isn't 80. The ceiling is wherever you stop being the person who decided to start." Emotional weight: prophecy unrecognized. She reads them. She does not connect them to herself. Same architecture as B3 Ch 6 (reading about disappearing, not connecting). The forum as mirror. The mirror doesn't reflect.
+
+10. **Paz exchange** — Flat, pharmacological. "How much." / "90." / "That's past my line, Kira." Emotional weight: boundary crossed without hesitation. Paz's eleven-second pause (she counts it, involuntary). The curve speech anticipated but not repeated — she knows what Paz will say because she's heard it before (60mg, 80mg, now 90mg). The structural alternative offered: "You can turn off the network." Filed under "structurally correct and operationally meaningless." The circularity recognized. The trap not recognized.
+
+11. **The circularity** — "The circularity was the trap. She recognized the circularity. She did not recognize it as a trap." Emotional weight: cognitive architecture co-opted. The logic is sound: can't reduce dose until signal stops, but stopping signal requires work that requires dose. The soundness is the trap. The trap is invisible because the logic is correct. The drift operating at the level of what constitutes "correct."
+
+12. **The plan (2 AM)** — Manic urgency. "The idea was this: go to the Anchor Zone." Fully formed. Complete. "I want to show them what I hear." Emotional weight: the plan feels like clarity. The narrator provides clinical frame: "The plan was manic... the thing that the person inside the mania could not see because seeing it required the cognitive architecture the mania had co-opted." Then: "She did not recognize this." The dramatic irony is structural. The reader has the diagnosis. Kira has the plan.
+
+13. **Nuwa exchange** — Seven-minute reply delay (unusual for Nuwa). Practical questions that are warnings. "What's your current Lumina dose?" / "Moving to 90 before or after you stand next to the largest Anchor Zone on earth?" Emotional weight: caution unread. Nuwa's logistics delivered alongside warning about Listener who walked in. Kira files logistics under "operational planning" and caution under "noted." The distinction is precise. The precision is the trap. Information she will use vs. information she will carry without acting on.
+
+14. **Closing self-explanation** — "The ninety would help." Repeated. "The ninety would help. The ninety would make the room bigger." Emotional weight: prospective self-medication as answer. Future tense. The dose she hasn't taken yet framed as solution to problem she hasn't named. The self-explanation that forecloses inquiry. The drift's voice answering question Kira isn't asking: *help with what?*
+
+**Emotional Palette:** Performance energy (stream), clinical processing (network/data), pharmacological precision (Paz exchange), manic urgency (proximity plan), prospective self-medication (closing)
+
+**No Named Emotions:** All emotional content conveyed through:
+- Speed (pre-assembled riffs, 8-hour stream, technical translation)
+- Spatial compression (quiet room → closet, ceiling/walls/blur)
+- Counting compulsion (eleven-second count migrating from ritual to general tic)
+- Physical sensation (fingertips pressing, signal in spine, warmth at neck, sleep fragmentation)
+- Self-explanation (closing echo, drift's voice)
+- Structural absence (what is not noticed: drift, professional cost, forum prophecy, Nuwa's warnings)
+
+**Emotional Absence:**
+- No concern about 8-hour stream duration (discipline breach normalized)
+- No registration of professional cost (NovaSkin contract broken)
+- No connection between forum posts and self (prophecy unread)
+- No recognition of plan as manic (clinical frame inaccessible)
+- No processing of Nuwa's warnings (caution filed, not acted on)
+- No awareness of musical vocabulary erosion (chord shapes → flat pressing)
+- No questioning of circularity as trap (logic is correct, trap is invisible)
+
+The absences are the emotional content. The drift exists in the gap between what she processes (data, logistics, dose, plan) and what she doesn't process (duration, cost, prophecy, mania, warnings, erosion). The gap is widening. She does not notice. The not-noticing is the drift's primary mechanism.
+
+**Comparison to B3 Ch 6:**
+- B3 Ch 6: Drift onset. 80mg maintenance. Network self-managing. "She was getting better at the job." Present-tense self-explanation. The concern has migrated from dose to self, but she can't locate concern because Lumina has adjusted capacity for self-observation.
+- B3 Ch 11: Drift deepening. 80mg insufficient → 90mg. Network operational for Kindling. "The ninety would help." Future-tense self-medication. The concern has migrated from self to dose again, but the migration is the drift's output. The escalation feels like solution.
+- Emotional evolution: present denial → prospective escalation. B3 Ch 6 = "I am getting better" (skill narrative). B3 Ch 11 = "The dose will help" (pharmaceutical narrative). The shift from attributing sharpness to skill to attributing insufficiency to dose. Both are drift's voice. The trajectory: the self-explanation that was about competence becomes about chemistry. The chemistry is the self.
+
+**Character State:** Phase 2 (The Attempts — Correct and Insufficient). The streamer streaming at higher engagement. The coordinator coordinating Kindling biological monitoring. The antenna receiving signal at increasing volume. The patient escalating past community ceiling. Everything operational. The horror is that everything is operational and the operation is manic and the mania is invisible because the mania produces correct output (data, coordination, audience growth, plan). The drift is invisible because the drift improves the metrics and the metrics are the only measurement and the measurement confirms the self-explanation and the self-explanation forecloses the question. The ninety will help. The question Kira isn't asking: *help with what?* The answer the drift provides: *the ninety will help.* The circularity is complete. The trap is closed.
+
+---
