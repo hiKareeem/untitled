@@ -259,3 +259,60 @@ The absences are the emotional content. The performance register processes what 
 **Character State:** Phase 1 B3 (Equilibrium — "The Horror of Normalcy"). The streamer streaming. The mage coordinating. The patient collecting prescriptions. The user dosing. Everything operational. The horror is that everything is operational and the person operating is not the person who started operating. The drift is invisible because the drift improves the metrics and the metrics are the only measurement and the measurement confirms the self-explanation and the self-explanation forecloses the question.
 
 ---
+
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+**Emotional Arc:** Clinical observation (strike execution) → vindication (zero expansion) → consequence weight (arrests) → processing (coordination planning) → moral resolution (closing thesis "Both.")
+
+**Emotional Register:** Data-driven → indirect emotional processing through physical sensation and gesture. Sofia's emotional arc is conveyed through stillness, field kit reflex, marker gestures, mechanical feeding. No named emotions. The vindication is not triumph. The consequence is not grief. The processing is not despair. The emotions exist in the gap between the data and the human cost.
+
+**Physical Tells:**
+- Field kit held after arrest report (weight, green indicator, grounding reflex under stress)
+- Stillness after zero reading ("She did not move" — emotion conveyed through absence of movement)
+- Marker picked up, held, set down without writing (gesture as emotional processing — the weight too much to notate, or the data speaking for itself)
+- Protein bar standing (mechanical feeding, body as machine, mind elsewhere)
+- Red/blue marker system (red = observations, blue = hypotheses — data organization as emotional processing)
+- Paper printouts spread across desk (assembly metaphor, correlation tracking, the triangle complete)
+
+**Emotional Beats:**
+
+1. **Strike execution (06:00-06:07)** — Clinical observation. Pure measurement. No emotional register. "Seven people were shutting things down because her model said shutting things down would work." The recognition of causality (her model → their action) noted without emotional commentary.
+
+2. **Atmospheric validation (06:14)** — Vindication. "She did not move. She sat at the desk in the safe house and looked at the number on the display and the number was the number and the model was correct and she had known the model was correct for three years and the knowledge had never felt like this." Emotion conveyed through stillness. The vindication is indirect — "the knowledge had never felt like this" describes the sensation without naming the emotion.
+
+3. **Biological confirmation (06:25)** — Triangle complete. "The data was clean. The correlation was operating across all three axes at the scale of a coordinated action and the math held at every vertex." Emotional weight: satisfaction through data validation. The triangle she described in the mid-truth publication is now operational in real time.
+
+4. **Karaboué relay** — "Zero." / "Zero." The echo. Two scientists confirming the number. The silence between them processed as data ("Not the silence of a dropped connection. The silence of a conduit thermodynamics specialist processing a number he had modeled for six months and hearing it confirmed by a field measurement."). Emotional weight: shared vindication, processed through professional register.
+
+5. **Grid rerouting (07:42-12:03)** — Consequence emerging. Manufacturing zones lose power. Hospital on backup generators. "Nobody died. The dependency was not theoretical." Two-sentence thesis. Emotional weight: the cure's body count is theoretical until it isn't. The dependency she modeled as abstract becomes concrete. The emotional processing is through negation ("Nobody died") followed by assertion ("The dependency was not theoretical").
+
+6. **Arrest report (14:30)** — Consequence weight. "She reached for the field kit. Held it. The weight. The green indicator." The field kit as grounding object. The checking reflex under stress. "The model worked. / Three people were in detention because the model worked." Two sentences. The second adds causality. Emotional weight: moral consequence. Being correct has human cost.
+
+7. **Recovery (36 hours)** — Processing. The grid self-corrects. The expansion resumes. "Sixteen hours. The longest sustained zero-expansion window since BLACKWEIR." The window measured. The resumption noted. Emotional weight: pyrrhic. The model works. The grid defeats it. The pattern is the same pattern the twelve independent operations showed. The scale is larger. The result is identical.
+
+8. **Data assembly** — "She spread the data across the desk. Printouts — atmospheric, infrastructure, biological. The triangle complete for the first time at synchronized scale. She laid them in sequence..." The assembly metaphor. Emotional processing through data organization. The correlation tracking. The pattern visible.
+
+9. **Marker gesture** — "She picked up the red marker. Held it. Set it down without writing." Emotional weight: the data speaks for itself, or the weight is too much to process into notation. The gesture without completion. The intention without execution.
+
+10. **Kindling coordination channel** — Sofia addresses operatives. "Sixteen hours. Three facilities. One sector. The model held. The grid corrected in thirty-six hours." Data delivery. No qualifiers. No hedging. "We need to go bigger. We need to go everywhere at once." The imperative earned by the data. Emotional weight: determination. The theorist has become the coordinator. The transition from watching to directing.
+
+11. **Processing (23:00)** — "She ate a protein bar. Standing. The same compound taste. The mechanical process of feeding the body while the mind continued assembling." The body as machine. Feeding as maintenance. Mind elsewhere. Emotional weight: dissociation between physical needs and mental processing. The protein bar is fuel. The standing is efficiency. The mind is assembling.
+
+12. **Closing thesis** — "She picked up the blue marker. Finished the sentence on the printout. / *If the reduction exceeds rerouting capacity globally, the grid cannot correct. The breaches stop. The dependency collapses. Both.* / She set the marker down. The ink dried on the paper. The hum continued through the floor." Emotional weight: moral resolution. The word "Both" carries the chapter's thesis. The cure and the cost are inseparable. The recognition is the endpoint of Phase 1. The hum continuing is the structural coda — the signal persists, the infrastructure runs, the chapter ends not on resolution but on continuation.
+
+**Emotional Palette:** Vindication (indirect, through stillness), moral weight (consequence of being correct), determination (coordination imperative), pyrrhic recognition (the model works and is insufficient)
+
+**No Named Emotions:** All emotional content conveyed through:
+- Physical sensation (field kit weight, stillness, mechanical feeding)
+- Gesture (marker held/set down, data assembly, protein bar standing)
+- Data processing (timestamps, percentages, correlation tracking)
+- Structural absence (what is not said, what is not written)
+
+**Comparison to B2 Ch 47:**
+- B2 Ch 47: UGC presentation. Vote passes 67-45. Injunction arrives in 40 minutes. Sofia in gallery. "The science was correct. The vote was sufficient. The forty minutes were the answer." Emotional weight: institutional failure. The vindication is hollow. The institutions are irrelevant.
+- B3 Ch 10: Kindling strike. Model validated. Grid reroutes. Three operatives arrested. "The model worked. Three people were in detention because the model worked." Emotional weight: moral consequence. The vindication has human cost. The action produces dual outcome.
+- Emotional evolution: institutional failure → moral consequence. B2 Ch 47 = the institutions will not act. B3 Ch 10 = Sofia acts and the action costs. The gap between knowing and acting has closed. The new gap: between acting and the cost of acting.
+
+**Character State:** Phase 1→2 transition. The theorist has become the coordinator. The scientist who measured from outside is now directing action from inside the operational network. The emotional register is still indirect (no named emotions, all through sensation/gesture), but the register has shifted from observational to operational. She is no longer only watching. She is coordinating. The moral weight is accumulating. The recognition that correct action produces dual outcome ("Both.") is the endpoint of Phase 1 and the opening of Phase 2. The horror is not that the model doesn't work. The horror is that the model works and working has consequences.
+
+---

@@ -512,3 +512,57 @@ The next sentence has returned. The recalculation IS the next sentence. He has b
 Eduardo's engineering enables machine's evolution beyond Eduardo. The buffer he designed absorbs its own purpose.
 
 ---
+
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+**Mode:** TEXTURE → PRESSURE transition point
+**Tension Shape:** Rising (strike execution) → peak (zero expansion reading) → sustained (grid rerouting, arrests) → resolution into Phase 2 planning
+**Pacing:** Timestamp-driven chronological. Seven sections tracking 17 hours of real-time action (06:00-23:00). Dense data processing alternating with operational coordination. Accelerates through validation (06:00-06:14), sustains through consequences (07:42-14:30), decelerates into processing (23:00). Closing contemplative — Sofia alone with data and thesis.
+
+**Section Breakdown:**
+| Section | Timestamp | Words | Tension | Tempo |
+|---------|-----------|-------|---------|-------|
+| Strike execution | 06:00-06:07 | ~600 | Rising | Precise, timestamp-driven, facility sequence |
+| Atmospheric validation | 06:14 | ~400 | Peak | "Zero." — vindication moment |
+| Biological confirmation | 06:25 | ~300 | Sustained-high | Triangle complete, Karaboué relay |
+| Grid rerouting | 07:42-12:03 | ~800 | Sustained-consequence | Adjacent sector spike, manufacturing zones, hospital |
+| Arrests | 14:30 | ~400 | Consequence-weight | Operational codes, detention, field kit held |
+| Recovery | 36 hours | ~600 | Processing | Grid self-correction, expansion resumes |
+| Coordination planning | 23:00 | ~1,700 | Contemplative-resolving | Kindling channel address, marker notes, closing thesis |
+
+**Rhythm Notes:**
+- Long-long-SHORT pattern dominant — "Zero." / "The model worked." / "Three people were in detention because the model worked." / "Nobody died. The dependency was not theoretical."
+- TEXTURE mode shifting to PRESSURE. Horror in vindication — being correct has consequences. The proof works. Three people arrested. Manufacturing zones dark. Hospital on backup.
+- Single NBA deployment (mild): "The boundary was not contracting. The boundary was not advancing. The boundary was holding position..." — double negation for spatial data, not full canonical form. Appropriate for Sofia's register (processing coordinates, not groping toward uncanny).
+- Closing compound chain (~80 words) mirrors B2 Ch 47 technique: "the frequency that Liang had called instrument drift and that Novak had classified and that Solberg had found first and that BLACKWEIR had confirmed and that the Broadcast had broadcast and that the model described and that the Kindling had, for sixteen hours, silenced." Accumulation as structural argument. History of 0.7 Hz signal compressed into single sentence.
+- Dialogue ~8-10% (two exchanges: Karaboué relay, Kindling channel). Sofia's register fully stripped: "Sixteen hours. Three facilities. One sector. The model held." Same terse, number-first register from B2 Ch 47 UGC presentation.
+- Timestamp structure mirrors Sofia's data-processing register — she experiences event as timeline of measurements. Seven sections = seven data points.
+- Closing thesis isolated: "Both." — single italicized word carrying moral weight. The cure and the cost are the same action.
+
+**Dialogue Percentage:** ~8-10% (two exchanges — Karaboué confirmation, Kindling coordination)
+
+**Pacing Concern:** Risk of data density feeling clinical/detached from human cost. Mitigated by: (1) Arrest section compressed but weighted (field kit held, "Three people in detention because the model worked"); (2) "Nobody died. The dependency was not theoretical." — two-sentence thesis on cure's body count; (3) Closing thesis ("Both.") provides moral resolution after data accumulation.
+
+**Structural Note:** B3C10 delivers Phase 1→2 transition. Proof of concept at synchronized scale. Model validated. Grid defeats it through self-correction. The chapter is the hinge — after this, strikes go global and pyrrhic pattern emerges. Chapter rhythm enacts transition: TEXTURE (data observation) → PRESSURE (operational consequence). Sofia moves from watching to directing. First half: she processes data. Second half: she addresses Kindling coordination channel. The theorist has become the coordinator.
+
+**Comparison to B3 Ch 4:**
+- B3 Ch 4: Erasure List established, Kindling reports reviewed (12 independent ops), model complete, coordination problem defined, Kira message sent
+- B3 Ch 10: First synchronized strike (3 facilities), model validated at scale, grid rerouting confirmed, Kira network operational, Phase 2 coordination begins
+- Together they bracket Phase 1 Sofia arc: Ch 4 = assembly/planning. Ch 10 = execution/proof. The gap: six weeks (Kira message → network operational). The result: "Both."
+
+**Emotional Register Evolution:**
+- Opening (06:00-06:14): Clinical observation. Pure measurement. No emotional register.
+- Vindication (06:14): "She did not move." Stillness as emotion. The knowledge had never felt like this.
+- Consequence (14:30): Field kit held. Weight. Green indicator. Model worked. Three people in detention.
+- Processing (23:00): Marker picked up, held, set down without writing. Protein bar standing. Mechanical feeding. Mind elsewhere.
+- Closing: Blue marker finishing sentence. "Both." Ink drying. Hum continuing. No resolution — continuation.
+
+**Thesis Word Tracking:**
+- B2 Ch 4: "The model worked." (first statement, post-BLACKWEIR validation)
+- B2 Ch 47: "The science was correct. The vote was sufficient. The forty minutes were the answer." (institutional response)
+- B3 Ch 4: "The problem is not the model. The problem is the grid." (coordination problem defined)
+- **B3 Ch 10: "Both." (cure and cost, inseparable)**
+
+The thesis word evolution tracks Sofia's arc: model validation → institutional failure → systemic antagonist → moral weight. "Both" is the endpoint of Phase 1 — the recognition that correct action produces dual outcome. The breaches stop. The dependency collapses. Both.
+
+---

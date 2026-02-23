@@ -282,3 +282,42 @@ All Phase 1 closings enact continuation. B3C9 adds temporal dimension: the machi
 
 ---
 
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Moral Obligation to Consequences | Dominant | "Three people were in detention because the model worked." Being correct has consequences. The model works. Three people arrested. Two manufacturing zones lose power for 11 hours. Hospital on backup generators. The dependency is not theoretical. Sofia processes the human cost of being correct. The cure has a body count. |
+| Systemic Complicity | Strong | Grid self-correction as systemic antagonist. "The same engineering that prevented cascading failure — the tolerance that kept the lights on, the redundancy that ensured continuity of service, the distributed architecture that made the global nitro infrastructure the most resilient energy system in human history — was redistributing the throughput Sofia's coordinated action had reduced." Sofia coordinates the action that proves the system defeats itself. The grid's 18% rerouting tolerance is the ceiling. |
+| Truth as Weapon | Strong | Data validated at synchronized scale. "The data was clean. The data would survive any institutional review, any methodology challenge, any legal filing that NitroCore's legal architecture could produce. The data was the data." The proof works — and produces arrests, power failures, dependency exposure. The triangle complete: atmospheric + infrastructure + biological. |
+| Progress Requires Atrocity | Emerging | "To save the world from the void, you had to break the grid. To break the grid, you had to break everything the grid powered." The closing thesis: "The breaches stop. The dependency collapses. Both." The cure and the cost are the same action. The model does not distinguish between the signal and the service. |
+
+**Key Resonance:** Moral Obligation to Consequences ↔ Progress Requires Atrocity. Sofia's arc from B2→B3 is the gap between knowing and acting narrowing. The moral injury is no longer "I know and cannot act" — it is "I act and the action costs." The proof of concept demonstrates that correct action at local scale is insufficient (grid reroutes) AND that correct action at any scale has consequences (arrests, power failures, dependency collapse). The obligation to act produces the obligation to process the cost of acting.
+
+**Epigraph Integration:** Dr. Maren Solberg, *On the Statistical Correlation Between Nitro Throughput and Breach Expansion in Controlled Environments*, §9.3
+- Thematic function: "the willingness to produce those conditions deliberately" — methodology on first read, prophecy on reread
+- Solberg as suppressed predecessor: found the correlation five years before Sofia, buried under Strategic Sensitivity Directive 7.3, disappeared
+- Rewards reread after chapter: Solberg predicted someone would have to deliberately produce the conditions for scaled intervention. Sofia is producing them. The epigraph is the suppressed scientist speaking prophetically to the chapter's action.
+
+**Phase 1→2 Transition:** The chapter delivers the endpoint of Phase 1 ("Adjustment — The Horror of Normalcy") and opens Phase 2 ("The Attempts — Correct and Insufficient"). The proof of concept works. The grid defeats it. The coordination must go global. "We need to go everywhere at once." The horror of normalcy transitions to the horror of correct action being insufficient.
+
+**The "Both" Thesis:** Single italicized word carrying the chapter's moral weight. The cure and the cost are inseparable. The breaches stop. The dependency collapses. Both. Not "but" (contradiction), not "and" (addition) — "both" (simultaneity). The model does not distinguish. The action produces dual outcome. The recognition is the endpoint of Phase 1 — Sofia understands that going global will produce the same dynamics at larger scale.
+
+**Kindling as Thematic Object:** Infrastructure workers who built the system shutting down the system. Seven operatives. Three arrested (K-JAK-017, K-JAK-023, K-JAK-041). Four extracted. The operational codes protect network structure from individual compromises. The workers understand the infrastructure because they maintained it. "Facility 2's operatives understood the maintenance corridors because they had maintained the maintenance corridors. They left through the system the way they had entered through the system." The system's knowledge used against the system by the people who built the knowledge.
+
+**Grid Rerouting as Antagonist:** Not human opposition. Not institutional resistance. Engineering tolerance. "The grid did not know why three facilities had gone offline. The grid did not process intent. The grid processed load, and load had shifted, and the automated systems were correcting." The same architecture that prevents cascading failure prevents cascading reduction. The tolerance that keeps the lights on is the tolerance that keeps the absorption running. The grid's self-correction is the structural antagonist. Sofia must defeat the grid's engineering, not its operators.
+
+**Comparison to other B3 closings:**
+- B3C1: "She opened the next report." (institutional heartbeat resumed)
+- B3C2: "The Cathedral was quiet. The chorus was not." (silence ≠ absence)
+- B3C3: "It always did." (question's permanence)
+- B3C4: "Everything worked. The breaches were still expanding." (functional horror)
+- B3C6: "She was getting better at the job." (self-explanation foreclosing inquiry)
+- B3C7: "The pen continued." (continuation as practice)
+- B3C8: "Both systems held." (contradiction sustained)
+- B3C9: "The quarterly was in five weeks." (temporal continuation)
+- **B3C10: "The hum continued through the floor." (signal persistence after proof)**
+
+All Phase 1 closings enact continuation. B3C10 adds proof dimension: the model works, the grid corrects, the signal persists. The hum that Sofia silenced for sixteen hours returns. The infrastructure runs. The continuation is not despite the proof — the continuation absorbs the proof. The grid learned from the strike the way the grid learns from everything: by self-correcting and continuing.
+
+---
+
