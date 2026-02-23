@@ -368,6 +368,103 @@ The pen that was inheritance (B1 Ch 6), then evidence (B2 Ch 7), then continuati
 - **Tactile (strong):** Pen, grey card edges, ink on palm, wood frame, notebook pages, ink cartridge
 - **Visual (present):** Flag flickering/failing, gallery lighting, lake (peripheral, ignored), committee chamber
 
+---
+
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+**Mode:** TEXTURE → PRESSURE transition point
+**Tension Shape:** Flat-sustained (strike execution, data arrival) → peak (zero expansion reading, 06:14) → sustained (grid rerouting, consequences) → processing (arrests, recovery) → resolving (coordination planning, closing thesis)
+**Pacing:** Seven-section structure following timestamp-driven chronological progression. Strike execution ~800 words (17%). Atmospheric/biological data ~1,000 words (21%). Grid rerouting/consequences ~1,200 words (25%). Arrests ~600 words (13%). Recovery ~600 words (13%). Coordination planning ~500 words (10%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Strike execution (06:00-06:14) | ~800 | Rising | Timestamp-driven, data arrival, "by 06:14 the model was correct" |
+| Atmospheric/biological data | ~1,000 | Peak | Zero expansion reading, "She did not move," triangle complete |
+| Grid rerouting/consequences | ~1,200 | Sustained-high | Adjacent sector spike, manufacturing zones, hospital backup |
+| Arrests (14:30) | ~600 | Sustained | Three operatives detained, K-JAK designations, "Three people were in detention because the model worked" |
+| Recovery (36 hours) | ~600 | Declining | Grid recovery, expansion resumes, 16-hour window |
+| Coordination planning (23:00) | ~500 | Medium | Kindling channel address, "We need to go bigger" |
+| Closing | ~300 | Resolving | Marker notes, protein bar, blue marker thesis: "Both." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Zero." / "The model worked." / "Three people were in detention because the model worked." / "Nobody died. The dependency was not theoretical."
+- TEXTURE → PRESSURE transition: Chapter begins in Phase 1 equilibrium (proof of concept execution) and ends with Phase 2 imperative ("We need to go everywhere at once")
+- No NBA deployment — Sofia's POV doesn't use the technique. Paratactic precision is her register.
+- Closing ritual: protein bar standing, marker notes (red data, blue hypothesis), "Both." as thesis word
+- Dialogue ~8-10% (minimal — Karaboué relay exchange, Kindling coordination channel). Terse, data-driven, operational register.
+- Seven-section architecture mirrors timestamp structure: 06:00 → 06:14 → 07:42 → 14:30 → 36 hours → 23:00 → closing. The rhythm is the data timeline.
+- Bookend structure: "The strike began at 06:00 local time, and by 06:14 the model was correct" (opening) → "The hum continued through the floor" (closing). The model was correct. The hum continues.
+
+**Dialogue Percentage:** ~8-10% (deliberate — operational chapter, encrypted relay, data-driven exchanges)
+
+**Pacing Concern:** Risk of timestamp structure feeling mechanical. Mitigated by: (1) Emotional beats embedded in data processing ("She did not move" after zero reading, field kit held after arrest report); (2) Consequence sections (grid rerouting, arrests) provide human cost; (3) Closing drops to contemplative register after operational intensity.
+
+**Structural Note:** B3C10 closes Phase 1 and opens Phase 2. The proof of concept works: 3 facilities, 31% local reduction, 16-hour window of zero expansion. The grid defeats it: automated rerouting, 36-hour recovery. Three operatives arrested. The model works. The grid works. The coordination must go bigger. Chapter rhythm enacts this: timestamp precision → data vindication → consequence processing → operational escalation. Phase 1→2 hinge.
+
+**Comparison to B3 Ch 4:**
+- B3 Ch 4: "The Erasure List" — model complete, Kindling reports (12 local operations), coordination planning begins
+- B3 Ch 10: "Proof of Concept" — first synchronized strike, model validated at coordinated scale, "We need to go bigger"
+- Together they bracket Phase 1 Sofia arc: Ch 4 = planning, Ch 10 = execution. The scientist who planned the coordination now processes the coordination's success and cost.
+
+**Closing Echo Evolution:**
+- B3 Ch 4: "Everything worked. The breaches were still expanding." — functional horror
+- **B3 Ch 10: "Both." — the breaches stop, the dependency collapses, both**
+- The closing that was enumerated functionality (Ch 4) has become compressed thesis (Ch 10). The blue marker hypothesis is the moral weight. One word. Isolated. The cost and the cure are the same action.
+
+---
+
+### Chapter 13 — "The Human Cost" (Sofia Reyes)
+
+**Mode:** TEXTURE (Phase 2 operational)
+**Tension Shape:** Flat-sustained (post-wave analysis) → analytical (Karaboué relay, emergency threshold) → operational-rising (working group coordination) → peak (dependency maps presented) → sustained-clinical (targeting discussion) → moral-compressed (detained operatives question) → resolving (afternoon processing, blue marker thesis)
+**Pacing:** Seven-section structure following coordination session timeline. Post-wave analysis ~800 words (17%). Karaboué relay ~600 words (13%). Working group coordination ~800 words (17%). Dependency maps ~1,200 words (26%). Targeting discussion ~800 words (17%). Detained operatives ~400 words (9%). Closing ~300 words (6%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Post-wave analysis | ~800 | Low-sustained | Data processing, 12 facilities/9% global/6-hour window, grid recovery |
+| Karaboué relay (04:00) | ~600 | Medium-analytical | Emergency threshold identified (25-30%), "The number keeps going up" |
+| Working group (06:00) | ~800 | Medium-operational | 14 nodes connected, second-wave planning, 35-40 facilities required |
+| Dependency maps | ~1,200 | High-clinical | Gulf/South America/Southeast Asia, populations as data, "The numbers were people" |
+| Targeting discussion | ~800 | High-clinical | "Clinical language was how you selected which populations lost power" |
+| Detained operatives (09:00) | ~400 | Peak-compressed | Surabaya woman's question, families in dependency maps, "Yes" |
+| Closing (11:00-14:00) | ~300 | Resolving | Protein bar, afternoon processing, blue marker thesis, "The coordination continued" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The relay was quiet." / "The numbers were people." / "Yes." / "The coordination continued."
+- TEXTURE mode maintained but operational register — Sofia running coordination session, not observing data
+- Single NBA deployment: "Not stopped — quieted" (mild, scientific calibration of data description)
+- Closing ritual: protein bar standing, marker notes (red data, blue thesis), "The correlation does not have a humanitarian exemption"
+- Dialogue ~15-18% (multiple relay exchanges — Karaboué, working group, cell commanders, Surabaya operative). All operational, data-driven, no expository dialogue.
+- Seven-section architecture mirrors coordination session timeline: post-wave → technical analysis → operational briefing → dependency presentation → targeting → moral question → continuation. The rhythm is the session's progression.
+- Bookend structure: "The data from the first wave arrived in twelve streams, and by the sixth hour every stream confirmed the same thing: the model worked and the grid defeated it" (opening) → "The coordination continued" (closing). The pyrrhic pattern named in first sentence, enacted through chapter, stated in last line.
+
+**Dialogue Percentage:** ~15-18% (deliberate — coordination chapter, multiple relay nodes, operational exchanges)
+
+**Pacing Concern:** Risk of dependency mapping feeling didactic. Mitigated by: (1) Data presented as operational briefing, not exposition; (2) Surabaya woman's question provides emotional pivot without narrative amplification; (3) Clinical language framed as mechanism that permits decision, not coldness; (4) Closing drops to contemplative register after operational intensity.
+
+**Structural Note:** B3C13 is Phase 2 operational core. Post-first-wave (Ch 12) analysis and second-wave planning. The dependency maps are the chapter's innovation: translating throughput reduction into population impact. 2.1M freshwater-dependent (Gulf), 31 ventilator-dependent patients (South America), 1.2M residential consumers (Southeast Asia). Clinical language as ethical mechanism: "how you selected which populations lost power and which kept it." The detained operatives' families are in the dependency maps. The coordination continues. Chapter rhythm enacts this: data → coordination → consequence → moral processing → continuation. The pyrrhic pattern: correct and devastating.
+
+**Comparison to B3 Ch 10:**
+- B3 Ch 10: "Proof of Concept" — first synchronized strike, 3 facilities/31% local/16-hour window, "We need to go bigger"
+- B3 Ch 13: "The Human Cost" — post-first-wave (12 facilities/9% global/6-hour window), second-wave planning (35-40 facilities/25-30% global), dependency mapping
+- Together they bracket Phase 1→2 transition: Ch 10 = proof works, must scale. Ch 13 = scaling planned, cost mapped. The scientist who said "we need to go bigger" now maps what "bigger" costs.
+
+**Recurrent Elements Evolved:**
+- "The numbers were the numbers" (Ch 4, Ch 10) → "The numbers were the numbers. The numbers were people." (Ch 13) — the phrase turns on itself
+- "She was an atmospheric physicist. She measured. She modeled. She published." (Ch 10) → extended: "She coordinated the deliberate shutdown of the infrastructure that 2.1 million people depended on for freshwater" (Ch 13) — the sentence gains a clause as her role evolves
+- Blue marker thesis: "Both." (Ch 10) → "The correlation does not have a humanitarian exemption." (Ch 13) — the hypotheses are becoming moral theses
+- "The hum continued through the floor" (Ch 10, Ch 13) — structural coda, exact repetition
+
+**Closing Echo Evolution:**
+- B3 Ch 4: "Everything worked. The breaches were still expanding."
+- B3 Ch 10: "Both."
+- **B3 Ch 13: "The correlation does not have a humanitarian exemption." + "The coordination continued."**
+- The closing that was functional horror (Ch 4), then compressed thesis (Ch 10), has become explicit moral statement + continuation (Ch 13). The blue marker is no longer speculative. The thesis is stated. The coordination continues despite the thesis, because of the necessity the thesis describes.
+
+---
+
 **Institutional Vocabulary as Architecture:**
 - "procedural sediment," "terminal function," "architecture's omissions," "stratigraphy," "procedural fiction," "structural architecture," "institutional typography," "economic sovereignty provisions," "the architecture metabolizes action into procedure, and procedure into deferral, and deferral into the specific institutional silence that is indistinguishable from approval of the status quo"
 - The vocabulary is not decoration — it is Zeyad's cognitive framework. He thinks in institutional terms because institutional process is his moral framework. The vocabulary enacts the architecture it describes.
