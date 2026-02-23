@@ -670,3 +670,44 @@ The thesis word evolution tracks Sofia's arc: model validation → institutional
 - **Truth as Weapon (Moderate):** Biological data cleaner than institutional networks. "Mages measure from inside. And inside is where the signal lives."
 
 ---
+
+### Chapter 12 — "The Grid Holds" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (opening data review) → escalating disruption (alert cascade) → operational peak (manual override) → sensory center (hum change) → observational (Thorne arrival) → reversal (recovery curve) → resolving (paired closing)
+**Pacing:** Seven-section structure following crisis timeline. Opening ~400 words (10%). Alert cascade ~800 words (20%). Manual override ~700 words (17%). Hum section ~400 words (10%). Thorne section ~300 words (7%). Recovery ~600 words (15%). Closing ~800 words (20%).
+
+**Section Breakdown:**
+| Section | Timestamp | Words | Tension | Tempo |
+|---------|-----------|-------|---------|-------|
+| Opening — Quarterly data | 04:17 | ~400 | Low-sustained | Routine operational, Jakarta decommissioning, first alert arrives |
+| Alert cascade | 04:17-04:34 | ~800 | Rising-accumulative | Seventeen-minute cascade, twelve facilities, simultaneity through accumulation |
+| Manual override | 04:35-04:50 | ~700 | Peak-operational | Zone 6, Zone 8, rerouting, throughput peaks 9.1%, number holds |
+| Hum change | ~04:50 | ~400 | Peak-sensory | Amplitude decrease, model working, Anchor Zone data, "The model worked" |
+| Thorne arrival | 05:40-11:15 | ~300 | Sustained-observational | Five hours watching, no dialogue, silence carries thesis |
+| Recovery | 10:47 | ~600 | Reversal | Facilities restore, throughput climbs, hum returns, six-hour window closes |
+| Closing | 11:30 | ~800 | Resolving | Crisis summary, Kindling/strategy convergence, appendix unopened, paired closing |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The alert was not routine." / "This was not singular." / "She was the response." / "The model worked." / "She did not open the appendix." / "She opened the next report."
+- TEXTURE mode = quiet register, operational horror. Crisis processed identically to quarterly review. Horror in return to baseline, not in disruption.
+- Single NBA deployment: "Not resilience. Not adaptation. Not the grid learning from the disruption and incorporating the lesson into its operational architecture. Recovery." — Three negations clearing expected framings before single-word payoff. Chapter's thesis: grid recovers, does not learn.
+- Paired closing (new structure): "She did not open the appendix. / She opened the next report." — negation + echo. Appendix contains six-hour window data (model proved). She does not look. She opens next report instead.
+- No dialogue — first fully silent Aurielle chapter. Crisis managed through operational competence, not communication.
+- Seven-section architecture mirrors crisis timeline: disruption → response → validation → observation → recovery → processing.
+
+**Dialogue Percentage:** 0% (deliberate — fully silent, crisis as operational data)
+
+**Structural Note:** B3C12 delivers Phase 2 thesis. Model works (six hours thirteen minutes, proportional breach reduction, clean data). Grid recovers (emergency protocols, automated restoration, baseline resumed). Aurielle's competence holds grid and defeats model. The thing she does well is the thing that prevents model from working at scale. Chapter rhythm: crisis processed in same institutional vocabulary as quarterly review. Machine does not distinguish between day that changes everything and day that changes nothing.
+
+**Closing Echo Evolution:**
+- B3 C1: "She opened the next report." — return with personal pronoun
+- B3 C9: "The quarterly was in five weeks." — temporal marker
+- **B3 C12: "She did not open the appendix. / She opened the next report." — paired closing**
+
+**Thematic Weight:**
+- **Architecture of Power (Dominant):** Grid's structure absorbs resistance. Recovery is designed state, not adaptation.
+- **Systemic Complicity (Strong):** Aurielle's competence prevents model from working. Operational excellence defeats throughput reduction.
+- **Cost of Knowing (Ambient):** She hears hum change, pulls Anchor Zone data, knows model works, does not open appendix.
+
+---

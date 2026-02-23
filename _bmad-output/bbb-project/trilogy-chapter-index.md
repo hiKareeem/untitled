@@ -61,27 +61,27 @@
 
 ## Book 3 — POV Distribution (PLANNED)
 
-| POV | Chapters (estimated) | Total |
-|-----|---------------------|-------|
-| **Aurielle** | 1, 9, 12, 19, 25, 35 | 6 |
-| **Nephthys** | 2, 13, 21, 29, 32, 36 | 6 |
-| **Malachi** | 3, 14, 27, 37, 44 | 5 |
-| **Sofia** | 4, 10, 22, 31, 39, 43 | 6 |
-| **Kira** | 6, 11, 20, 24, 34, 42 | 6 |
-| **Nikolai** | 5, 15, 23, 33, 40, 45 | 6 |
-| **Zeyad** | 7, 17, 28, 41, 46 | 5 |
-| **Nuwa** | 8, 16, 26, 38, 47 | 5 |
-| **AEGIS** | 18, 30, 48 (final) | 3 |
+| POV | Chapters | Total |
+|-----|----------|-------|
+| **Aurielle** | 1, 9, 12, 20, 26, 36 | 6 |
+| **Nephthys** | 2, 14, 22, 30, 33, 37 | 6 |
+| **Malachi** | 3, 15, 28, 38, 45 | 5 |
+| **Sofia** | 4, 10, 13, 23, 32, 40, 44 | 7 |
+| **Kira** | 6, 11, 21, 25, 35, 43 | 6 |
+| **Nikolai** | 5, 16, 24, 34, 41, 46 | 6 |
+| **Zeyad** | 7, 18, 29, 42, 47 | 5 |
+| **Nuwa** | 8, 17, 27, 39, 48 | 5 |
+| **AEGIS** | 19, 31, 49 (final) | 3 |
 
-**Total:** ~48 chapters | ~200K words (estimated)
+**Total:** 49 chapters | ~200K words (estimated)
 
 **Status:** PLANNING — chapters not yet written
 
 ### Key Events (Planned)
-- **Ch 31-33:** The Proposition (convergence event)
-- **Ch 35-42:** Choice-based endings (Aurielle, Nephthys, Malachi, Sofia, Nikolai, Kira)
-- **Ch 41, 44, 46:** "Continuation is—" endings (Zeyad, Malachi, Zeyad)
-- **Ch 48:** AEGIS final chapter — dies mid-sentence
+- **Ch 32-34:** The Proposition (convergence event)
+- **Ch 35-43:** Choice-based endings (Aurielle, Nephthys, Malachi, Sofia, Nikolai, Kira)
+- **Ch 42, 45, 47:** "Continuation is—" endings (Zeyad, Malachi, Zeyad)
+- **Ch 49:** AEGIS final chapter — dies mid-sentence
 
 ### Absent POVs
 - **Fuxi:** Closed in B2 Ch 9
@@ -94,7 +94,7 @@
 ### Active Across All Three Books
 - Aurielle (8 → 8 → 6)
 - Nephthys (6 → 6 → 6)
-- Sofia (5 → 7 → 6)
+- Sofia (5 → 7 → 7)
 - Kira (5 → 7 → 6)
 - Nikolai (6 → 5 → 6)
 - Zeyad (5 → 5 → 5)
@@ -135,15 +135,15 @@
 - **Fuxi:** 9 (final)
 
 ### Book 3 (Planned)
-- **Aurielle:** 1 → 9 → 12 → 19 → 25 → 35
-- **Nephthys:** 2 → 13 → 21 → 29 → 32 → 36
-- **Malachi:** 3 → 14 → 27 → 37 → 44
-- **Sofia:** 4 → 10 → 22 → 31 → 39 → 43
-- **Kira:** 6 → 11 → 20 → 24 → 34 → 42
-- **Nikolai:** 5 → 15 → 23 → 33 → 40 → 45
-- **Zeyad:** 7 → 17 → 28 → 41 → 46
-- **Nuwa:** 8 → 16 → 26 → 38 → 47
-- **AEGIS:** 18 → 30 → 48 (final)
+- **Aurielle:** 1 → 9 → 12 → 20 → 26 → 36
+- **Nephthys:** 2 → 14 → 22 → 30 → 33 → 37
+- **Malachi:** 3 → 15 → 28 → 38 → 45
+- **Sofia:** 4 → 10 → 13 → 23 → 32 → 40 → 44
+- **Kira:** 6 → 11 → 21 → 25 → 35 → 43
+- **Nikolai:** 5 → 16 → 24 → 34 → 41 → 46
+- **Zeyad:** 7 → 18 → 29 → 42 → 47
+- **Nuwa:** 8 → 17 → 27 → 39 → 48
+- **AEGIS:** 19 → 31 → 49 (final)
 
 ---
 
