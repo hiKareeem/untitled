@@ -34,15 +34,15 @@
 
 | POV | Chapters | Total |
 |-----|----------|-------|
-| **Aurielle** | 1, 10, 12, 21, 29, 37, 42, 47 | 8 |
-| **Nephthys** | 2, 13, 22, 30, 44, 49 | 6 |
-| **Malachi** | 3 (debut), 14, 24, 32, 43 | 5 |
-| **Sofia** | 4, 11, 17, 26, 33, 41, 46 | 7 |
-| **Kira** | 6, 15, 23, 31, 39, 50 | 6 |
-| **Nikolai** | 5, 16, 25, 35, 40, 51 | 6 |
-| **Zeyad** | 7, 18, 27, 36, 45, 52 | 6 |
-| **Nuwa** | 8, 19, 28, 53 (closes book) | 4 |
-| **AEGIS** | 20 (debut), 34, 38, 48 | 4 |
+| **Aurielle** | 1, 10, 12, 23, 30, 34, 37, 46 | 8 |
+| **Nephthys** | 2, 13, 24, 35, 38, 48 | 6 |
+| **Malachi** | 3 (debut), 14, 22, 27, 39, 50 | 6 |
+| **Sofia** | 4, 11, 20, 26, 36, 45, 47 | 7 |
+| **Kira** | 6, 16, 21 (dual), 28, 32, 40, 51 | 7 |
+| **Nikolai** | 5, 15, 25, 41, 49 | 5 |
+| **Zeyad** | 7, 17, 31, 42, 52 | 5 |
+| **Nuwa** | 8, 18, 29, 43, 53 (closes book) | 5 |
+| **AEGIS** | 19 (debut), 33, 44 | 3 |
 | **Fuxi** | 9 (final) | 1 |
 
 **Total:** 53 chapters | ~250K words
@@ -50,10 +50,10 @@
 ### Key Events
 - **Ch 3:** Malachi POV debut
 - **Ch 9:** Fuxi final chapter (thread handoff to Nuwa)
-- **Ch 17:** Mid-truth publication (Sofia)
-- **Ch 20:** AEGIS POV debut
-- **Ch 30-31:** Nephthys-Kira convergence scene
-- **Ch 38:** Mumbai autonomous fire (AEGIS, 2.3M killed)
+- **Ch 19:** AEGIS POV debut
+- **Ch 20:** Mid-truth publication (Sofia)
+- **Ch 21:** Nephthys-Kira dual POV (convergence)
+- **Ch 44:** Mumbai autonomous fire (AEGIS)
 - **Ch 46-49:** The Voice event (11 seconds)
 - **Ch 53:** Book closes on Nuwa
 
@@ -95,17 +95,17 @@
 - Aurielle (8 → 8 → 6)
 - Nephthys (6 → 6 → 6)
 - Sofia (5 → 7 → 6)
-- Kira (5 → 6 → 6)
-- Nikolai (6 → 6 → 6)
-- Zeyad (5 → 6 → 5)
-- Nuwa (1 → 4 → 5)
+- Kira (5 → 7 → 6)
+- Nikolai (6 → 5 → 6)
+- Zeyad (5 → 5 → 5)
+- Nuwa (1 → 5 → 5)
 
 ### Book-Specific POVs
 - **Vantanen:** B1 only (Prologue)
 - **Mirelle:** B1 only (absorbed Ch 40)
 - **Fuxi:** B1-B2 (closes B2 Ch 9)
 - **Malachi:** B2-B3 (debuts B2 Ch 3)
-- **AEGIS:** B2-B3 (debuts B2 Ch 20, closes B3 Ch 48)
+- **AEGIS:** B2-B3 (debuts B2 Ch 19, closes B3 Ch 48)
 
 ---
 
@@ -123,15 +123,15 @@
 - **Nuwa:** 42 (debut)
 
 ### Book 2
-- **Aurielle:** 1 → 10 → 12 → 21 → 29 → 37 → 42 → 47
-- **Nephthys:** 2 → 13 → 22 → 30 → 44 → 49
-- **Malachi:** 3 (debut) → 14 → 24 → 32 → 43
-- **Sofia:** 4 → 11 → 17 → 26 → 33 → 41 → 46
-- **Kira:** 6 → 15 → 23 → 31 → 39 → 50
-- **Nikolai:** 5 → 16 → 25 → 35 → 40 → 51
-- **Zeyad:** 7 → 18 → 27 → 36 → 45 → 52
-- **Nuwa:** 8 → 19 → 28 → 53
-- **AEGIS:** 20 (debut) → 34 → 38 → 48
+- **Aurielle:** 1 → 10 → 12 → 23 → 30 → 34 → 37 → 46
+- **Nephthys:** 2 → 13 → 24 → 35 → 38 → 48
+- **Malachi:** 3 (debut) → 14 → 22 → 27 → 39 → 50
+- **Sofia:** 4 → 11 → 20 → 26 → 36 → 45 → 47
+- **Kira:** 6 → 16 → 21 (dual) → 28 → 32 → 40 → 51
+- **Nikolai:** 5 → 15 → 25 → 41 → 49
+- **Zeyad:** 7 → 17 → 31 → 42 → 52
+- **Nuwa:** 8 → 18 → 29 → 43 → 53
+- **AEGIS:** 19 (debut) → 33 → 44
 - **Fuxi:** 9 (final)
 
 ### Book 3 (Planned)
