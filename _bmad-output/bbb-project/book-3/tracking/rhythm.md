@@ -379,3 +379,72 @@ The pen that was inheritance (B1 Ch 6), then evidence (B2 Ch 7), then continuati
 - Closing structure: three-word declarative. "The pen continued." — the sentence that echoes B2 Ch 52, seeds Phase 5 "continuation is—"
 
 ---
+
+### Chapter 8 — "Both Systems" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (morning count) → observational-rising (Verge district) → brief spike (recognition) → operational (coordination) → contemplative (hum reflection) → resolving (both systems held)
+**Pacing:** Six-section structure following observation-to-action cycle. Morning count ~400 words (10%). Verge district ~1,400 words (34%). Recognition/coordination ~700 words (17%). Hum reflection ~400 words (10%). Family scene ~700 words (17%). Closing reflection ~500 words (12%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning count | ~400 | Low-sustained | Inventory-driven, arithmetic, room/creds/implant/food |
+| Verge district | ~1,400 | Medium-observational | Cyberpunk atmosphere, commodification horror, tourist density |
+| Recognition/coordination | ~700 | Medium-spike | "Nuwa." → alley → checkpoint timing |
+| Hum reflection | ~400 | Low-contemplative | 47 names vs 8.2 million, tourists count nothing |
+| Family scene | ~700 | Low-operational | Relocation work, "Who are you?", Sump recognition |
+| Closing | ~500 | Low-resolving | Both systems, tea ritual, inventory return, "Both systems held." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The gaps had been found." / "The platforms were full." / "She stopped." / "Both systems held."
+- TEXTURE mode = quiet register, pacing ballast. Horror in commodification, not crisis. The Verge sells proximity to suffering. Nuwa observes, routes, continues.
+- Two NBA deployments: (1) "not the corridor's ambient noise, not a vendor's pitch, not the mechanical whine... Her name." — recognition scene, triple negation isolates shock. (2) "Not because gratitude was foreign — because gratitude implied a ledger" — key emotional beat about transactional thinking breaking down.
+- Closing ritual: tea (Fen's oolong), mug washing, inventory check. "Both systems held." — four-word closing. The horror is that they do.
+- Dialogue ~3% (minimal — "Not here," "I'll bring them," "I am from the Sump," "We'll be ready"). Terse, practical, Nuwa's silence-as-language register.
+- Six-section architecture mirrors Nuwa's daily rhythm: count → observe → coordinate → reflect → act → return. The rhythm is survival logistics.
+- Bookend structure: morning count (creds, room, implant, frozen notification) → evening return (tea, mug, inventory unchanged, both systems held). The equilibrium that is not equilibrium.
+
+**Dialogue Percentage:** ~3% (deliberate — Nuwa speaks less than anyone, silence as refusal)
+
+**Pacing Concern:** Risk of tourist district atmosphere feeling static. Mitigated by: (1) Cyberpunk visuals (augmentation density, neon layers, gang violence) provide kinetic energy; (2) Recognition scene provides tension spike mid-chapter; (3) 47 vs 8.2 million arithmetic provides emotional weight without melodrama; (4) Closing drops to quietest register (tea ritual, inventory, four-word resolution).
+
+**Structural Note:** B3C8 establishes Phase 1 equilibrium for Nuwa thread. Six months post-transmission event (she does not name it). Both systems operational: testimony network makes her visible (47 names filed, routing address attached, legible to administrative grid), relocation network makes her useful (families moved, safe zones marked, invisible work). The Verge emerged as tourist district — breach tourism, commodification of Sump, observation platforms at 40 creds/hour. Someone recognized her by name in public. The invisibility she chose is threatened by the visibility the testimony network produces. Chapter rhythm enacts this: steady, observational, the pace of logistics and survival. Both systems held. The horror is that they do.
+
+**Comparison to B2 Ch 8:**
+- B2 Ch 8: "Somewhere That Isn't" — six months post-BLACKWEIR, data-orphan, room without credential verification, Fen's spring onions, Feed says "stabilization"
+- B3 Ch 8: "Both Systems" — eighteen months post-BLACKWEIR, six months post-transmission, testimony + relocation networks active, Fen's oolong nearly empty, Verge emerged
+- Together they bracket Nuwa's post-BLACKWEIR arc: B2 Ch 8 = new equilibrium (invisible, surviving). B3 Ch 8 = equilibrium threatened (visible, useful, cannot sustain both). The woman who survived by being small enough the system didn't notice is now legible to the system she avoided.
+
+**Cyberpunk Visuals as Thematic Texture:**
+- Augmentation density: "more metal than bone," P-Frames "painted on," subdermal ocular implants, titanium/carbon-polymer chassis
+- Light layers: orange conduit glow + commercial blue-white + pink-green neon = "luminescent mold"
+- Gang control: observation platforms, wrist-breaking (efficient, professional), Sump knowledge of frame coverage gaps
+- Commodification: 15 creds for Block 14 photograph, 40 creds/hour observation time, wet-film samples in vials, "authenticated" conduit fragments
+- The cyberpunk is not aesthetic decoration — it is the horror's manifestation. The city selling proximity to genocide. The margins as market.
+
+**Nuwa Rhythm Signature (B3):**
+- Opening: inventory/count before opening eyes (arithmetic as first language)
+- Narration: paratactic, short declaratives, practical vocabulary, no abstraction
+- Observation: precise, physical, infrastructure-focused (masonry vs metal-framed, conduit paths, checkpoint timing)
+- Dialogue: minimal, terse, functional. "Not here." / "I am from the Sump." / "Bring water. Stay inside."
+- Closing: inventory return, ritual (tea), single-line resolution. "Both systems held."
+
+**Motif Density:**
+- **Counting/arithmetic:** 8 references — opening count, 1,041 creds, 47 names, 8.2 million, 15 creds, 40 creds, 9 creds/day, inventory unchanged
+- **Cracked implant:** 4 references — degraded overlay, itches behind ear, frozen notification (18 months), salvage-grade disc
+- **Masonry routing:** 5 references — masonry wall, load-bearing, no conduit paths, body's map, 18 months not overwritten
+- **The hum:** 9 references — trunk-line resonance, frequencies changed, fuller/textured, in walls/tea/floor, carried 8.2 million
+- **Both systems:** 6 references — testimony + relocation, visible + invisible, filed + unrecorded, legible + illegible, title phrase, closing line
+- **Chemical-stained hands:** 1 reference — nitro-reactive dyes, iridescent residue, textile plant (new physical marker)
+- **Fen's oolong:** 3 references — three months old, nearly empty, taste she chose
+
+**Sensory Hierarchy:**
+- **Sound (dominant):** Hum (trunk-line, frequencies, texture, names), vendor pitches, frame servos, commercial noise
+- **Temperature (present):** Air cooled (alley), grey light (ventilation shaft)
+- **Tactile (strong):** Shoulders forward/chin down (Sump posture), pressed hand to walls, cracked implant itching, chemical staining
+- **Visual (precise):** Layered light (orange/blue-white/pink-green), violet haze, augmentation density, masonry vs metal
+
+**Pacing Ballast Function:** Per style profile, "Nuwa chapters are the designed site for pacing ballast." B3C8 delivers: no revelation, no crisis, no breakthrough. Logistics, observation, the work of surviving. Quieter than Arctic-7 intensity. The negative space that makes fortissimo land. The horror is ambient (commodification, recognition, both systems) not acute. Chapter breathes. Allows reader to process. Nuwa's observational distance creates space.
+
+---
