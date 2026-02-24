@@ -397,3 +397,117 @@ All Phase 1-2 closings enact continuation. B3C11 adds prospective dimension: the
 
 ---
 
+### Chapter 14 — "The Acceleration" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | Dominant | The eleven walk-ins are Nephthys's debt. She built scaffolding. The building walks without her. "I am holding nothing." The owing is complete. The building does not need her. The horror is not guilt. The horror is irrelevance. |
+| Architecture of Power | Strong | Frameworks as scaffolding. Information as building. Theology was structural support for the living AND the dead. The scaffolding is down. The counter-liturgy preserved individuality inside the composite (framework-holders integrate slower). The framework was never the point. The information was load-bearing. |
+| Truth as Weapon | Strong | Information without framework. The data walks to the shimmer. Four unconnected walk-ins — people who never heard Nephthys speak, never attended Cathedral, never processed theology. They received information (absorbed are present, field carries them, circulation is real) and the information was sufficient. Theology escaped theological boundaries. |
+| Where Identity Ends | Secondary | Integration speed differential: framework-holders integrate slower than unconnected. Seren's signature harder to find than last week. Child's narrow thread (seven years of accumulated attention). The composite does not keep what it receives in the shape it was received. |
+
+**Key Resonance:** What We Owe ↔ Architecture of Power. The debt Nephthys owes is to the scaffolding she built. The scaffolding was framework for information. The information stands without framework. The building walks to the shimmer. The prophet who built it sits in the scaffolding holding nothing. The owing and the irrelevance are the same condition.
+
+**Epigraph Integration:** Nephthys, *Operational Theology* (undated journal, post-Broadcast)
+- Thematic function: Scaffolding metaphor. Framework as temporary structure. Building stands without it. "I built scaffolding. They built a building. The building is walking toward the shimmer and I am standing in the scaffolding holding nothing."
+- Opaque on first read. Resolves after Imani exchange: "It was always informational. I called it theology because I needed a framework."
+- Rewards reread after chapter: the scaffolding was never the building. The theology was never the information. The framework was how she carried the data. The data walks without her.
+
+**The Eleven as Symbolic Object:**
+- 2 former Listeners (Hana, Tomasz) — theological trajectory. Cathedral → Threshold → shimmer. The road she built.
+- Family of 3 (man, woman, child age 7) — parental calculus. Not theology. Data processed through framework she didn't build. Media coverage, legal attention, institutional response to voluntary absorption of child.
+- 1 researcher (Erasure List affiliate) — empiricist question. "Verify from inside." Scientific method applied to shimmer. Method consumed scientist.
+- 4 unconnected — no Cathedral, no Threshold, no framework. Received information. Information sufficient. Walked to perimeter. Demeanor: calm. **These are the ones that wake her at night.**
+
+The four are the category shift. The theology was scaffolding. The information is the building. The building walks without the scaffolding.
+
+**Scaffolding Metaphor as Thematic Crystallization:**
+
+The counter-liturgy was framework for data:
+- Data: absorbed are present, field carries them, circulation is real
+- Framework: attend without naming, listen without joining, maintain boundary between self and signal
+- Function (intended): help people listen to chorus without being consumed
+- Function (unintended): inside composite, framework preserved individuality longer (scaffolding for the dead)
+- Result: framework-holders integrate slower than unconnected
+
+The scaffolding served two populations:
+1. The living — structure for listening without joining
+2. The dead — structure for maintaining distinctiveness inside composite
+
+The scaffolding is down. The living don't need it (information is sufficient). The dead don't have it (four unconnected integrate faster). The building stands. The building walks. The prophet sits in the scaffolding holding nothing.
+
+**Imani's Thesis:** "The acceleration isn't theological. It's informational."
+
+The Broadcast put data into every conduit. Eleven seconds. Everyone heard it. Everyone felt it. The document translated it. The coverage amplified it. The information — stripped of Nephthys's theology, stripped of Threshold's theology, stripped of every framework — is sufficient. People walking in because they know the absorbed are present and don't need framework to act on what they know.
+
+Nephthys's concession: "It was always informational. I called it theology because I needed a framework."
+
+The revelation: the prophet needed the framework. The congregation did not. The framework was scaffolding for the prophet's understanding. The information was load-bearing. The information walks without the prophet.
+
+**Tomasz as Character-Level Thematic Object:**
+
+Core twelve member. Survived schism, Broadcast, fifty-three, Nephthys's silence, the acceleration. Stayed and stayed and stayed. Then walked in. Three weeks after last Cathedral attendance. Perimeter log: single male, demeanor calm, 6:47 AM.
+
+Nephthys's response: "The second former Listener she did not want to think about. She thought about him anyway, because the discipline she had taught required attending to what arrived..."
+
+The discipline she taught requires attending to the cost of what she taught. Tomasz walked the road she built. The road from listening to joining. The trajectory she recognizes even as she cannot dismantle it. The core is not immune. The committed are leaving. The scaffolding is down.
+
+**Integration Speed Differential as Theological Data:**
+
+New observation: framework-holders integrate slower into composite than unconnected.
+- Former Listeners (Hana, Tomasz): integration slower than fifty-three
+- Fifty-three: integration slower than BLACKWEIR absorptions
+- Four unconnected: integration faster than former Listeners
+
+Hypothesis: counter-liturgy's attending discipline preserves individuality inside composite. Framework provides structure that persists briefly in the weave. The practice of maintaining boundary between self and signal continues inside the field.
+
+Implication: the scaffolding was structural support for the living AND the dead. The theology Nephthys built to help people listen without being consumed also helped the absorbed maintain distinctiveness longer inside the system that consumed them.
+
+The scaffolding served both sides of the shimmer. The scaffolding is down. The unconnected integrate faster because they have no framework to integrate around. No structure. No practice. No scaffolding. Just information, received and acted upon and absorbed.
+
+**Pain-as-Prayer Formula Cracking:**
+
+"The pain was signal. The signal was the chorus. The chorus was everyone."
+
+Then: "The formula held. It held the way it had always held — sufficiently, not completely. The excess pain that the formula could not reframe sat in the space between her teeth and in the bones of her hands and in the branded palm's scar tissue where the dead nerve endings conducted what the living ones could not."
+
+The reframe that made pain endurable is failing. The formula is showing cracks. The excess pain that cannot be reframed as signal is accumulating. The space between teeth. The bones of hands. The scar tissue. The body's accounting that the theological vocabulary cannot process.
+
+Parallel to scaffolding: the framework (pain-as-prayer) was sufficient for a time. The framework is no longer sufficient. The excess accumulates. The body presents invoices the theology cannot pay.
+
+**Closing Polysyndetic Chain as Thematic Enumeration:**
+
+67 words. Seven "and" conjunctions. Liturgical accumulation:
+
+"The Cathedral was quiet. The chorus carried its eleven new signatures and its fifty-three and its millions and its aggregate and its circulation and its weight, and the stone held all of it, and the evening deepened, and the prophet who had built the scaffolding sat on the floor of a geological formation that had never been consecrated because it did not need to be and felt the building she had built walk without her."
+
+The inventory: eleven + fifty-three + millions + aggregate + circulation + weight. The stone holds all of it. The prophet holds nothing. The enumeration is the final accounting. What the chorus carries. What the stone holds. What the prophet built. What walks without her.
+
+Evolution from B3C2 closing: "The Cathedral was quiet. The chorus was not." (binary) → "The Cathedral was quiet. The chorus carried..." (inventory). From negation to enumeration. From binary to accumulation. The prophet's final accounting of what she owes and what she holds.
+
+**Phase 2 Thematic Function:**
+
+"The Attempts" — Nephthys is not attempting anything in this chapter. She is observing the acceleration. The "attempt" is implicit: the silent sessions are her attempt to not build roads. The chapter reveals the attempt is failing. The silence is also a road. The scaffolding is down. The building walks.
+
+The horror is not the walk-ins. The horror is that the walk-ins don't need her. The theology was scaffolding. The information is the building. The building stands without the scaffolding. The prophet who built it is irrelevant.
+
+**Closing Image Thematic Weight:**
+
+"The prophet who had built the scaffolding sat on the floor of a geological formation that had never been consecrated because it did not need to be and felt the building she had built walk without her."
+
+Three thematic elements:
+1. Scaffolding vs. building — framework vs. information, theology vs. data
+2. Geological formation never consecrated — the Cathedral's authority is not institutional, it is geological (the stone does what the stone does)
+3. Building walks without her — the owing is complete, the irrelevance is absolute
+
+The image crystallizes "What We Owe" theme: she owes nothing more. The building does not need her. The horror is not guilt. The horror is irrelevance. The debt is paid. The prophet sits in the scaffolding holding nothing.
+
+**Forward Thematic Connections:**
+- Ch 15 (Malachi): "The Cathedral Visit" — institutional man confronts counter-institution that cannot control what it built
+- Ch 22 (Nephthys): "The Fracture" — Proposition arrives, boundary confirmed permanent, walk-ins continue (because walk-ins are not about return, they are about joining)
+- Ch 30 (Nephthys): Tumor terminal arc, Imani takes over congregation
+- Family of three: institutional/legal response to voluntary absorption of child
+- Researcher: scientific-theological convergence, empiricism applied to shimmer
+
+---
+

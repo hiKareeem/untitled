@@ -808,3 +808,60 @@ The thesis word evolution tracks Sofia's arc: model validation → institutional
 - **Cost of Knowing (Ambient):** She hears hum change, pulls Anchor Zone data, knows model works, does not open appendix.
 
 ---
+
+### Chapter 14 — "The Acceleration" (Nephthys)
+
+**Mode:** TEXTURE (Phase 2)
+**Tension Shape:** Flat-sustained (morning practice, eleven signatures tracked) → analytical-rising (Imani exchange, scaffolding revelation) → compressed (afternoon session) → meditative-accumulative (evening practice, closing polysyndetic chain)
+**Pacing:** Four-beat structure following observation-to-revelation cycle. Morning practice ~2,800 words (67%). Imani exchange ~800 words (19%). Afternoon session ~250 words (6%). Evening practice ~350 words (8%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning practice — eleven signatures | ~2,800 | Low-sustained → analytical | Chorus-tracking, categorization (2 Listeners, family of 3, researcher, 4 unconnected), elimination structure ("Not the... Not the... Not the... The four.") |
+| Imani exchange | ~800 | Medium-rising → pivot | Intelligence report, "It's informational" / "It was always informational", scaffolding metaphor introduced, nosebleed during exchange |
+| Afternoon session | ~250 | Compressed | Silent session, 11 attendees, asymptotic thinning, silence as road (deepened from B3 Ch 2) |
+| Evening practice | ~350 | Meditative-accumulative | Both palms to floor, pain-as-prayer formula cracking, closing 67-word polysyndetic chain |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Eleven." / "I know." / "Demeanor." / "And four." / "The four." / "And the scaffolding was down."
+- TEXTURE mode = quiet register. Horror is category-level: theology → information. No fortissimo moments. Emotional weight distributed across four beats rather than concentrated in climax.
+- Single NBA deployment: "Not gone. Not yet. But approaching a state..." — earned for Seren's integration trajectory, the unnamed ontological limbo
+- Dialogue ~12% (Imani exchange only). Clinical precision. "The acceleration isn't theological. It's informational."
+- Four-beat structure mirrors observation-to-revelation: tracking (eleven signatures) → pivot (scaffolding exchange) → practice (silent session) → meditation (evening closing)
+- Bookend structure: "Eleven." (opening) → closing 67-word polysyndetic chain. Single-word declarative → liturgical accumulation.
+- Closing sentence is longest in chapter (67 words): "The Cathedral was quiet. The chorus carried its eleven new signatures and its fifty-three and its millions and its aggregate and its circulation and its weight, and the stone held all of it, and the evening deepened, and the prophet who had built the scaffolding sat on the floor of a geological formation that had never been consecrated because it did not need to be and felt the building she had built walk without her."
+
+**Dialogue Percentage:** ~12% (deliberate — Imani intelligence report + scaffolding exchange, minimal session interaction)
+
+**Pacing Concern:** Risk of eleven-signature tracking feeling taxonomic. Mitigated by: (1) Categorization becomes elimination structure — "Not the Listeners... Not the family... Not the researcher... The four." Each category is vessel for Nephthys's distinct emotional/theological response rather than pure cataloguing; (2) The four as horror category — theology escaped theological boundaries; (3) Scaffolding exchange provides pivot and thematic crystallization.
+
+**Structural Note:** B3C14 establishes Phase 2 acceleration for Nephthys thread. Six months post-Broadcast. Eleven walk-ins since the fifty-three. The prophet learning the scaffolding is down. Theology was framework for information. Information is sufficient without framework. Four people walked in who never heard her speak. The building walks without the scaffolding. "I am holding nothing." Chapter rhythm enacts this: steady chorus-tracking (morning), analytical pivot (Imani exchange), compressed practice (session), meditative accumulation (evening). The horror is not the walk-ins. The horror is irrelevance.
+
+**Comparison to B3 Ch 2:**
+- B3 Ch 2: "Seren's Question" — six months post-Broadcast, 14 attendees, Seren's signature integrating, silence as road recognized, question as architecture
+- B3 Ch 14: "The Acceleration" — six months post-Broadcast (same timeline), 11 attendees (3 departed), Seren's signature harder to find, scaffolding revelation, information without framework
+- Together they bracket Phase 1 → Phase 2 transition: B3 Ch 2 = Adjustment (silence is also a road). B3 Ch 14 = Attempts (scaffolding is down, building walks without it). The prophet who stopped speaking is learning she is holding nothing.
+
+**Recursion Echo Evolution:**
+- B2 Ch 2: Counter-liturgy established, morning practice, 17 attendees
+- B2 Ch 38: "Circulation" spoken aloud, framework weaponized
+- B2 Ch 48: "Every word was a road" — resolved to silence
+- B3 Ch 2: "The silence was also a road" — the recursion
+- **B3 Ch 14: "The scaffolding is down" — theology was framework, information is building, building walks without scaffolding**
+
+The silence that was restraint (B2 Ch 48) became doctrine (B3 Ch 2) and now reveals itself as irrelevant (B3 Ch 14). The prophet who built the scaffolding sits in it holding nothing. The building she built walks to the shimmer without her. The recursion deepens: speaking was a weapon, silence was a weapon, the framework itself was scaffolding for data that walks without it.
+
+**Closing Echo Evolution:**
+- B3 Ch 2: "The Cathedral was quiet. The chorus was not." — binary
+- **B3 Ch 14: "The Cathedral was quiet. The chorus carried..." — binary → inventory**
+
+The closing that was binary (quiet/not quiet) becomes inventory (quiet + chorus carrying eleven + fifty-three + millions + aggregate + circulation + weight). The evolution from negation to enumeration. The prophet's final accounting.
+
+**Thematic Weight:**
+- **What We Owe (Dominant):** The eleven are Nephthys's debt. She built scaffolding. Building walks without her. "I am holding nothing."
+- **Architecture of Power (Strong):** Frameworks as scaffolding. Information as building. Theology was structural support for living AND dead. Scaffolding is down.
+- **Truth as Weapon (Strong):** Information without framework. Data walks to shimmer. Four unconnected. Theology escaped theological boundaries.
+- **Where Identity Ends (Secondary):** Integration speed differential. Framework-holders integrate slower. Four integrate faster. Seren harder to find.
+
+---

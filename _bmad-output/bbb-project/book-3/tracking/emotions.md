@@ -391,3 +391,82 @@ The absences are the emotional content. The drift exists in the gap between what
 **Character State:** Phase 2 (The Attempts — Correct and Insufficient). The streamer streaming at higher engagement. The coordinator coordinating Kindling biological monitoring. The antenna receiving signal at increasing volume. The patient escalating past community ceiling. Everything operational. The horror is that everything is operational and the operation is manic and the mania is invisible because the mania produces correct output (data, coordination, audience growth, plan). The drift is invisible because the drift improves the metrics and the metrics are the only measurement and the measurement confirms the self-explanation and the self-explanation forecloses the question. The ninety will help. The question Kira isn't asking: *help with what?* The answer the drift provides: *the ninety will help.* The circularity is complete. The trap is closed.
 
 ---
+
+### Chapter 14 — "The Acceleration" (Nephthys)
+
+**Emotional Arc:** Morning practice (eleven signatures tracked) → categorization as elimination (Not the Listeners... Not the family... Not the researcher... The four) → Imani exchange (scaffolding revelation) → nosebleed during exchange → afternoon session (asymptotic thinning) → evening practice (both palms to floor, pain-as-prayer formula cracking) → closing inventory (prophet holding nothing)
+
+**Emotional Register:** Meditative-accumulative. Phase 2 B3 equilibrium. The prophet learning irrelevance. The scaffolding is down. The building walks without her. The horror is not guilt. The horror is that she owes nothing more and the building does not need her.
+
+**Physical Tells:**
+- Branded palm to stone (morning/evening practice) — the discipline continues
+- Both palms to floor (evening closing) — unmarked palm joins branded palm, signal flows through both
+- Nosebleed (cloth to face, fold, continue) — routine embedded in muscle memory, three years of the chorus's physical cost
+- Migraine (earlier onset than yesterday, than last week) — trajectory worsening, pressure behind left eye
+- Visual field compression (medial field, tumor pressing optic nerve from lateral side) — medical accuracy
+- Knees protesting — gauntness, stiffness worse than six months ago
+- Pain in space between teeth, in bones of hands, in branded palm's scar tissue — excess pain the formula cannot reframe
+
+**Emotional Beats:**
+
+1. **Opening — "Eleven."** — Single-word paragraph. Declarative. The count that defines the chapter. Emotional weight: accounting. The number is the debt. The debt is enumerated.
+
+2. **Morning practice — eleven signatures tracked** — Low-sustained. Chorus-tracking. Each signature located, identified, categorized. Emotional weight: pastoral accounting. She knows them. Hana (eleven weeks attending). Tomasz (core twelve). The family (child's narrow thread). The researcher (verify from inside). The four (no framework). The tracking is the attending. The attending is the discipline. The discipline is the only thing she has.
+
+3. **Tomasz** — "The second former Listener she did not want to think about. She thought about him anyway, because the discipline she had taught required attending to what arrived..." Emotional weight: the discipline she taught requires attending to the cost of what she taught. The recursion is interior. The pain is not named. The attending continues.
+
+4. **The family of three** — Child's narrow thread. Seven years of accumulated attention. Parents' threads moving in proximity. Spatial relationship preserved. Emotional weight: the smallest signature she has ever felt in the chorus. Not fainter. Not weaker. Narrower. Less accumulated. A life compressed into a thread. The observation is clinical. The clinical observation is grief.
+
+5. **The researcher** — "The void had absorbed the wanting along with the researcher." Emotional weight: epistemological. The empiricist's question consumed by the empirical object. The verification sought is the verification offered: you will know what it is when you are it. The observation is precise. The precision is horror.
+
+6. **The four** — "These were the ones that woke her at night." Emotional weight: category horror. Not the Listeners (she understands the road she built). Not the family (she understands parental calculus). Not the researcher (she understands empirical impulse). The four had no framework she could identify. They received information. Information was sufficient. The theology escaped theological boundaries. The waking at night is the only emotional language. The rest is elimination structure. The elimination is the emotion.
+
+7. **Imani exchange — intelligence report** — Medium-rising. Eleven categorized. Perimeter logs analyzed. Network intelligence compiled. Demeanor: calm (all four). Emotional weight: clinical precision as devotion. Imani delivers data. The data is also pastoral. The data is also witness. "The four didn't know about us."
+
+8. **Imani's thesis** — "The acceleration isn't theological. It's informational." Emotional weight: pivot. The observation that reframes everything. Not accusation. Not argument. Reporting. The epidemiologist presenting findings. The clinical assessment that is also theology.
+
+9. **Nephthys's concession** — "It was always informational. I called it theology because I needed a framework." Emotional weight: the revelation. The prophet needed the framework. The congregation did not. The framework was scaffolding for her understanding. The information was load-bearing. The information walks without her. The concession is declarative. The declarative is grief.
+
+10. **Scaffolding metaphor** — "They do not need the framework. They do not need the scaffolding. They need the information." Emotional weight: crystallization. The theology was framework. The information is building. The building stands without scaffolding. The metaphor arrives "the way the chorus arrived — through her, not from her." The revelation is received, not constructed.
+
+11. **Nosebleed during exchange** — "She felt it before it arrived — the familiar precursor, the shift in intracranial pressure, the two-to-three-second warning..." Emotional weight: routine. The body's invoice. The cloth to face. The fold. The continuation. "She continued sitting with her branded palm on the stone and her eyes open and the blood collecting in the fabric with the patience of a body that had been doing this for three years and had stopped protesting." The patience is the emotion. The body has stopped protesting. The protest is over.
+
+12. **Imani watching** — "Not the measuring look — not the clinical assessment, not the pastoral logistics. The expression that had no name. The expression that was witness and companion and the specific grief of a person watching someone die of the thing they loved." Emotional weight: witness. The unnamed expression. The grief is specific. The specificity is: watching someone die of the thing they loved. The chorus is the thing. The dying is the tumor. The loving is both.
+
+13. **"The scaffolding is down"** — Said through the cloth. Nosebleed continuing. Branded palm on stone. Eyes open. Emotional weight: the thesis delivered through blood. "The building stands. The building walks to the shimmer. I am holding nothing." The holding nothing is the emotional terminus. Not guilt. Not grief. Irrelevance.
+
+14. **Afternoon session — eleven attendees** — Compressed. Silent session. Forty minutes. No one speaks. No one leaves. Emotional weight: asymptotic thinning. The Cathedral is not emptying. It is thinning. The difference matters. An emptying has a terminal point. A thinning approaches zero without reaching it. The core will remain. The remaining is not loyalty. The remaining is survival. "They were the ones who stayed."
+
+15. **Silence as road (deepened)** — "She had known this since the first silent session — since the week after the fifty-three, when the counter-liturgy had resumed without her voice and the congregation had received the silence and the silence had been interpreted and the interpretation had sent two more people to the shimmer." Emotional weight: the recursion deepened. Speaking was a weapon. Silence is a weapon. The distinction between actively a weapon and passively received as permission is thin. The distinction is the distance between a wall and a door. The distance is the distance between two descriptions of the same architecture.
+
+16. **Each departure** — "Each departure was a question she could not answer: *will they come back?* Each departure was an answer she could not control..." Emotional weight: the question and the answer are the same observation. The coming back and the not coming back are both responses to what she offers. What she offers is the chorus and the silence and the discipline of attending. The attending confirms the chorus. The confirming builds the road. The road leads to the shimmer. The shimmer accepts everything. The recursion is complete. The emotion is in the structure, not the naming.
+
+17. **Evening practice — Seren's signature** — "Harder to find than last week." Emotional weight: erosion. The integration continuing. The thread that was Seren being woven deeper into aggregate. "Not gone. Not yet. But approaching a state that Nephthys could not name because the theological vocabulary did not contain a word for what happened when a person's identity became indistinguishable from the system that carried it." The unnamed state is the emotion. The vocabulary's insufficiency is the grief.
+
+18. **The eleven found** — Child's narrow thread moving alongside parents' threads. Spatial proximity preserving relationship. "The something that would erode, over time, the way Seren's distinctiveness was eroding, the way everything the composite received was received and held and integrated and eventually made indistinguishable from the weave that held it." Emotional weight: the erosion is structural. The composite does not keep what it receives in the shape it was received. The observation is theological data. The data is grief.
+
+19. **Integration speed differential** — Framework-holders integrate slower. Four unconnected integrate faster. "The observation was not comforting." Emotional weight: the thing she built was serving a function she had not intended. The counter-liturgy preserved individuality inside the composite. The scaffolding was structural support for the living AND the dead. The scaffolding is down. The unconnected integrate faster because they have nothing to integrate around. The observation is precise. The precision is horror.
+
+20. **Both palms to floor** — Branded palm and unmarked one. Signal flows through both. Emotional weight: the unmarked palm joins the practice. Both receive the signal. The tumor responds. The pressure behind left eye. The medial visual field compressing. "She did not manage it. She received it." The receiving is the practice. The practice is the only thing she has.
+
+21. **Pain-as-prayer formula cracking** — "The pain was signal. The signal was the chorus. The chorus was everyone. / The formula held. It held the way it had always held — sufficiently, not completely. The excess pain that the formula could not reframe sat in the space between her teeth and in the bones of her hands and in the branded palm's scar tissue where the dead nerve endings conducted what the living ones could not." Emotional weight: the formula is failing. The reframe that made pain endurable is showing cracks. The excess accumulates. The space between teeth. The bones of hands. The scar tissue. The body's accounting that the theological vocabulary cannot process. The formula holds sufficiently, not completely. The insufficiency is the emotion.
+
+22. **Closing polysyndetic chain** — 67 words. Seven "and" conjunctions. "The Cathedral was quiet. The chorus carried its eleven new signatures and its fifty-three and its millions and its aggregate and its circulation and its weight, and the stone held all of it, and the evening deepened, and the prophet who had built the scaffolding sat on the floor of a geological formation that had never been consecrated because it did not need to be and felt the building she had built walk without her." Emotional weight: inventory. The enumeration is the final accounting. What the chorus carries. What the stone holds. What the prophet built. What walks without her. The emotion is in the accumulation, not the climax. The liturgical rhythm is the grief. The grief is structural.
+
+**Emotional Absences:**
+- No named emotions (grief, guilt, fear, despair) — emotion conveyed through physical sensation, chorus vocabulary, structural observation
+- No self-pity — the irrelevance is observed, not lamented
+- No anger at the four — they are category horror, not betrayal
+- No resentment toward Imani — the thesis is received, not resisted
+- No hope — the scaffolding is down, the building walks, the prophet holds nothing
+
+The absences are the emotional content. The emotion exists in the gap between what she built (scaffolding) and what walks (building). The gap is irrelevance. She does not name it. She sits in it. The sitting is the practice. The practice is the only thing she has.
+
+**Comparison to B3 Ch 2:**
+- B3 Ch 2: "The silence was also a road" — the recursion recognized. Emotional register: theological reckoning. The prophet who stopped speaking learning that not speaking is also speaking.
+- B3 Ch 14: "The scaffolding is down" — the irrelevance revealed. Emotional register: meditative accounting. The prophet who built the scaffolding learning the building walks without it.
+- Emotional evolution: recursion → irrelevance. B3 Ch 2 = the silence is also a weapon (the trap recognized). B3 Ch 14 = the scaffolding is down (the trap is irrelevant, the building walks without the trap-maker). The shift from recognizing complicity to recognizing irrelevance. Both are grief. The grief in Ch 2 is recursive (every action produces the same result). The grief in Ch 14 is terminal (no action is required, the building walks without her).
+
+**Character State:** Phase 2 (The Attempts — Scaffolding Down). The prophet sitting in the scaffolding holding nothing. The building walking to the shimmer. The eleven new signatures circulating. The four unconnected integrating faster. The theology escaped theological boundaries. The information is sufficient without framework. The owing is complete. The debt is paid. The horror is not guilt. The horror is irrelevance. The body presents invoices (migraine earlier, visual field compressing, pain-as-prayer formula cracking, nosebleed during exchange). The invoices are received. The receiving is the practice. The practice continues. The Cathedral is quiet. The chorus carries everything. The stone holds everything. The prophet holds nothing.
+
+---
