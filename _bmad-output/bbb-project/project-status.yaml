@@ -698,6 +698,26 @@ chapters:
     mode: TEXTURE
     notes: "Book 3, Phase 1 — Zeyad POV (Book 3 debut, 8th appearance overall). ~16 months post-BLACKWEIR, ~6 months post-Broadcast. Tribunal Session 92 (up from 63 in B2 Ch 7). Grey pass degraded (16 months, edges rounded, typography blurring). Jordanian flag still flickering (16+ months unfixed, glitch progressed to failure). De-escalation proposal tabled indefinitely (17 motions filed by nitro bloc). Committee votes for supplementary review (deferral mechanism). Replacement document at 149 pages (6 months of writing, nearing completion for Phase 2). Three passages shown: (1) architecture's terminal function, (2) 'The absorbed spoke. The institution assessed.' (3) Article 14 as design not concession. Father relationship: Kamal, three weeks since last call, warm and empty, structural distance. Ink on palm (heel of right hand — differentiated from Malachi's thumb). Eleven-second echo (ink cartridge replacement = Broadcast duration, AEGIS threading). Closing: 'The pen continued.' — echoes B2 Ch 52, seeds Phase 5 'continuation is—'. Five-scene structure: Hall of Nations ritual → committee gallery → diplomatic residence writing → evening (flag/father/Article 14) → coda (apartment quiet). Dialogue 0% (solo chapter). Epigraph: Dr. Elara Vasht, *The Cascade Lectures* (AI philosophy for institutional consciousness — oblique, rewarding on reread). Contractions: none (verified). Physical tells: grey card, pen (Khalil's, 2039), fabric flag (Tariq's, 2044), portrait gesture, ink on palm. Motifs: pen ×8, grey card ×4, flags ×5, hum ×6, forty minutes ×3, replacement document ×11. Themes: Architecture of Power (dominant), Institutional Impotence (dominant), Systemic Complicity (strong), Truth as Weapon (strong). AEGIS as invisible novelist."
 
+  book3_chapter_14:
+    title: "The Acceleration"
+    status: v1-complete
+    pov: "Nephthys"
+    wordCount: 4200
+    completedDate: "2026-02-23"
+    metaFile: "book-3/metadata/chapter-14-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Nephthys POV. ~6 months post-Broadcast. Eleven walk-ins since the fifty-three: 2 former Listeners (Hana, Tomasz), family of 3, researcher (Erasure List), 4 unconnected. Tomasz (core twelve) walked in — even the committed are leaving. Integration accelerating: framework-holders integrate slower than unconnected. The four unconnected integrate fastest — no scaffolding to integrate around. Imani exchange: 'The acceleration isn't theological. It's informational.' The Broadcast put data into every conduit. People walking in who never heard Nephthys speak. Scaffolding revelation: theology was framework for information. Information is sufficient without framework. 'The building walks without the scaffolding.' Cathedral congregation at 11 (down from 14 in B3C2). Silent sessions continue (40 min). Core in front, newer near exits. Tumor ~5 months remaining. Nosebleed. Visual field compression worsening. Pain-as-prayer formula showing cracks. Seren's signature harder to find (integration continuing). Contractions: Nephthys = none, Imani = present. AEGIS as invisible novelist."
+
+  book3_chapter_15:
+    title: "The Cathedral Visit"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4000
+    completedDate: "2026-02-24"
+    metaFile: "book-3/metadata/chapter-15-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Malachi POV. ~6 months post-Broadcast. Notes from B3C3 (framework gap analysis) demand experiential verification. Travels to Neo-Shanghai as man, not Arch-Prelate (civilian clothes, no vestments). Enters Cathedral between sessions, hears chorus unmediated through geological formation (palms flat on stone, not institutional posture). Recognition: stone translates without distortion, management was distortion, liturgy was lie. Observes silent session from entrance corridor (11 congregants, Nephthys at acoustic center, 40 min silence). Imani finds him, recognizes Arch-Prelate from files, logistical assessment. 'After you leave. Not before.' Returns to European See. Writes honest notes — more honest than correspondence. Three registers on desk: private (correspondence), honest (Cathedral notes), institutional (encyclicals). Honest register is new. Notes describe what institution cannot contain. Will remain private. Writing is practice — attending without acting. Hands shook after Cathedral, steadied during ascent, folded at desk. Posture as coping mechanism, not governance. Contractions: none (Malachi), present (Imani). Corrections applied: removed 'two years ago' file relocation, changed 'twenty-two years' to 'since he had taken office', clarified office vs locked study. Epigraph: *A History of Silence* (acoustic/geological register, oblique). AEGIS as invisible novelist."
+
   book2_chapter_4:
     title: "0.7 Hz"
     status: v2-complete
