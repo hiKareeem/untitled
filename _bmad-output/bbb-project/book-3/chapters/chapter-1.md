@@ -15,9 +15,9 @@ phase: 1
 location: 'Neo-Shanghai Spires — NitroCore Executive Suite / Operations Wing Corridor'
 timeline: '~6 months post-Broadcast (~16 months post-BLACKWEIR)'
 mode: TEXTURE
-epigraph_source: 'Academic geological research — Erasure List network'
-epigraph_author: 'Dr. Lena Verschuur'
-epigraph_ref: 'Geophysical Letters, 2164'
+epigraph_source: 'Stratigraphy textbook — applied geology'
+epigraph_author: 'None (textbook)'
+epigraph_ref: 'Field Methods in Applied Stratigraphy, 4th ed., 2151'
 rhetoric_reference: 'Corporate register resumed — the shell functioning as the only register. Phase 5 equilibrium: institutional vocabulary operating without the Lie, without the dual track, without the program that gave the vocabulary its purpose. The register is a machine. The machine is running. The running is the register.'
 meta_note: 'AEGIS as invisible novelist'
 ---
@@ -26,9 +26,9 @@ meta_note: 'AEGIS as invisible novelist'
 
 ## The Machine Continues
 
-> *"Post-seismic deformation continues for months after the primary event. The crust does not return to its prior configuration. It settles into a new one. The settling is not recovery. It is the landscape learning its own weight."*
+> *"In stratigraphic analysis, layers deposited before and after a seismic event may be chemically identical. The distinction is positional, not material. The event is visible only as a boundary — a line in the column where one identical layer ends and another begins."*
 >
-> — Dr. Lena Verschuur, "Crustal Response to Deep-Source Perturbation," *Geophysical Letters*, 2164
+> — *Field Methods in Applied Stratigraphy*, 4th ed. (2151)
 
 ---
 
@@ -236,7 +236,7 @@ The return of "the next report" after its absence since B2 C23 is the chapter's 
 - **Dossier alignment:** "Archive, don't destroy" — not deployed (no archival action in this chapter). "Reads briefing documents from the last page first" — deployed (opening: "She read from the last page first"). "Stillness as both strength and dissociation" — present: hands flat, wrist still, but the chapter's stillness is neither strength nor dissociation. It is the equilibrium of a machine at rest. "Controlled empathy" — absent; empathy has been fully absorbed, consistent with B2 C46. "The small voice" — absent as named entity, consistent with B2 C46. "Corporate calculation, power-reading, the language of leverage" — present throughout (the regulatory section, the quarterly analysis, the four-percent assessment). GRRM benchmark: corporate power politics, the slow corruption of principles by necessity — the corruption is complete. What remains is the operation.
 - **Lexicon alignment:** "Legacy absorption zones" — new (replacing "stewardship corridors"). "Historical coherence incidents" — new (replacing "managed atmospheric events"). "Pre-Broadcast population displacement metrics" — new (replacing "sump lifecycle management"). "The Broadcast" — normalized into institutional usage. No vocabulary breaks. Institutional register maintained throughout.
 - **Style profile alignment:** Paratactic structure dominant. Short average sentence length. Bimodal paragraph strategy (dense processing blocks alternating with single-sentence isolations). Em dashes for emphasis and pivot. Italics for payoff word ("*Maintaining.*"). Emotion through physical sensation and structural absence, not named. Professional-register narration. Technical vocabulary without explanation. Sound/vibration as primary sense.
-- **Epigraph alignment:** Verschuur is from the Erasure List network (referenced in B2 alongside Tanaka). The geological register is unconnected to NitroCore's institutional vocabulary — deliberately oblique. "The settling is not recovery" is the chapter's thesis in geological language. "The landscape learning its own weight" rewards reread after Aurielle's endpoint (the fall, the weight, the vertical distance between altitude and ground).
+- **Epigraph alignment:** Anonymous textbook source — no named author, no institutional affiliation, no network connection. Maximally oblique: applied stratigraphy, a field manual for reading rock layers. "The distinction is positional, not material" is the chapter's thesis in four words: the pre-Broadcast and post-Broadcast world are materially identical (same grid, same dependency, same numbers, same quarterly cycle). The event is visible only as a boundary — "a line in the column where one identical layer ends and another begins." The boundary is the Broadcast. The layers are identical. The epigraph reads as geology on first pass, resolves as the chapter's argument on reread. Does not telegraph Aurielle's endpoint (the fall) — the vertical axis is the column, not the body. Rewards reread through structural mirror, not thematic signpost.
 - **Forward seeds planted:** Thorne's open-door stasis → B3 C9 (recalculation). The four-percent throughput reduction as noise → the Kindling escalation in B3 C12 (when the noise becomes signal). Jakarta under-capacity → potential expansion pressure. The appendix she did not open (Anchor Zone coherence correlation) → the data that could have been signal, filed as noise. The corridor (three hundred meters, the distance between suite and operations wing) → Thorne's departure route in B3 C19. The altitude as architecture → the balcony, the step.
 
 ### Pacing
