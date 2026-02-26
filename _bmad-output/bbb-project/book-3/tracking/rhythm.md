@@ -149,3 +149,55 @@ The silence that was restraint (B2 Ch 48) has become doctrine (B3 Ch 2). The pro
 - **B3 Ch 3: "He listened." — six months later, voluntary presence, field log expanding, "Without the lie, the truth had no shape."**
 
 The field log that was shadow document (B1) → contracting (B2 early) → converging (B2 Ch 25) → terminal (B2 Ch 41) has become primary document (B3 Ch 3). The only record. The institutional counterpoint is gone. Nikolai is learning to write without the lie. The learning is slow. The learning is the practice.
+
+---
+
+### Chapter 4 — "The Erasure List" (Sofia Reyes)
+
+**Mode:** TEXTURE
+**Tension Shape:** Data-analytical sustained (opening, Bay Area establishment, hum) → working-group context (Erasure List) → progressive analytical deepening (Kindling operations → grid rerouting → political impossibility) → domestic interruption (Elena scene) → reflective-accumulative (Mirelle, closing compound, new analysis window)
+**Pacing:** Eight-section structure. Opening ~800 words (17%). Erasure List ~500 words (10%). Kindling discovery ~700 words (15%). Grid rerouting ~700 words (15%). Politics ~600 words (12%). 23rd dataset ~400 words (8%). Elena scene ~600 words (12%). Closing ~500 words (10%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening + Bay Area | ~800 | Low-sustained | Data-driven, location establishment, hum measurement, field kit check |
+| Erasure List | ~500 | Low-sustained | Institutional context, working group as accidental institution |
+| Kindling discovery | ~700 | Medium (progressive) | São Paulo → Hamburg → Lagos → pattern recognition → twenty-three operations |
+| Grid rerouting | ~700 | Medium-sustained | "Every operation failed." Analytical processing of systemic failure. 11.4 hours. |
+| Politics | ~600 | Medium-sustained | UGC injuncted, bilateral negotiations, forty minutes + 11.4 hours comparison |
+| 23rd dataset | ~400 | Low-analytical | Ruhr corridor. Rerouting signature catalogued. "The physics had never been the problem." |
+| Elena scene | ~600 | Medium-domestic | Dialogue. Plate of food. Scientific register meeting scientific register. "They have gotten faster." |
+| Mirelle + closing | ~500 | Resolving | "Do not wait." New analysis window. "She sat in the hum and waited for the data." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant throughout — "Twenty-three." / "She had been home for four months." / "The grid rerouted." / "Every time." / "The physics had never been the problem." / "The politics were the politics." / "Yes."
+- TEXTURE mode = quiet register. Horror in data — twenty-three confirmations, twenty-three negations. Paragraph density moderate to high in data sections, lighter in Elena scene.
+- Two NBA deployments (both within limit): "Not by design. Not by charter..." (lighter, Erasure List) and "Not because the model was untestable. Not because the science was insufficient..." (full, closing thesis)
+- Closing compound sentence (~100 words) is chapter's highest-density passage. Stacks: hum + field kit + screens + operations + plot + model + judicial review + bilateral + Kindling + reroutes → SHORT landing: "The model had always been correct. The correctness had never been sufficient."
+- Elena scene breaks analytical rhythm at 2/3 point. Domestic register (food, doorway, table question) interrupts data processing. Dialogue lines very short (3-8 words). Returns to analytical register immediately after.
+- Closing: "She sat in the hum and waited for the data." — seven words. Subject-verb-preposition-conjunction-verb-preposition-article-noun. The simplest sentence in the chapter. The monitoring continues.
+
+**Dialogue Percentage:** ~5% (Elena scene only — deliberate break of zero-dialogue streak from Ch 36/45)
+
+**Pacing Concern:** Risk of data-analytical density feeling repetitive (twenty-three operations, each confirming the same thing). Mitigated by: (1) Progressive revelation structure (São Paulo first → pattern recognition → scale of Kindling network); (2) "Every operation failed" as structural pivot — success reframed as failure; (3) 11.4 hours calculation as analytical focus point; (4) Elena scene as domestic interruption at 2/3 point; (5) Closing gesture (new analysis window) adds forward momentum.
+
+**Structural Note:** B3C4 establishes Phase 1 equilibrium for Sofia thread. Six months post-Broadcast. The model is correct. The politics are impossible. Both statements are true. The interval between correctness and implementation is structural, not informational — no additional data will close the gap. Twenty-three Kindling operations confirm what the model predicted. The grid reroutes what the Kindling reduce. The judiciary processes what the UGC passed. The bilateral negotiations produce vocabulary. Sofia monitors because monitoring is what she has. Chapter rhythm enacts this: steady, analytical, the pace of data processing. The data confirms. The grid compensates. The number increases by one.
+
+**Comparison to B2 Ch 47:**
+- B2 Ch 47: UGC chamber, gallery, presentation, vote, injunction within forty minutes. Dialogue ~15% (Haruno exchange). Active — Sofia presents, watches, leaves. "The forty minutes were the answer."
+- B3 Ch 4: Parents' house, Bay Area, monitoring station. Elena scene ~5% dialogue. Monitoring — Sofia tracks, analyzes, waits. "The correctness had never been sufficient."
+- Together they bracket the political chapter: B2 Ch 47 = the attempt (passed vote, injuncted). B3 Ch 4 = the aftermath (model confirmed, implementation impossible). The active scientist became the monitoring scientist. The gallery became the back bedroom. The institutional architecture became the domestic architecture.
+
+**Number Echo Evolution (Sofia):**
+- B1 Ch 5: 0.7 Hz — the signal discovered
+- B2 Ch 4: 0.7 Hz — the signal confirmed, Novak suppresses
+- B2 Ch 11: 55 pages — the publication
+- B2 Ch 20: 340,000 endpoints — the distribution's reach (mid-truth decay)
+- B2 Ch 26: 12% — the sacrifice-district threshold
+- B2 Ch 36: 7.3 seconds — the model's temporal resolution
+- B2 Ch 45: Eleven seconds — the transmission event's duration
+- B2 Ch 47: Forty minutes — the institutional compensation speed
+- **B3 Ch 4: Twenty-three — the count of demonstrations that work locally and fail systemically. 11.4 hours — the infrastructure's compensation speed.**
+
+The numbers track Sofia's arc: discovery (frequency) → suppression (pages) → distribution (endpoints) → analysis (percentage, seconds) → institutional response (minutes) → systemic failure (operations, hours). Each number is larger in scale. Each number carries a more comprehensive thesis. The progression is from signal to system.

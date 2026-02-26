@@ -237,7 +237,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 #### Ch 4 — Sofia: "The Erasure List"
 - **Phase:** 1 | **Thread:** B — Science/Model
-- **Location:** Mobile / Black Babel
+- **Location:** Bay Area / parents' house (remote Black Babel access)
 - **Arc beat:** Equilibrium — the model exists, the politics are impossible
 - **Synopsis:** Working group of suppressed researchers from fourteen countries. Data comprehensive: throughput reduction correlates with breach stabilization. Model refined over six months, clean and elegant. Politics impossible — UGC proposal injuncted, bilateral negotiations stall on "economic sovereignty." The Kindling have been running small-scale sabotage for months — throughput dips locally, breaches stabilize locally, then grid reroutes from neighbors. Model works at every scale tested. Never tested at the scale that matters. Sofia watches the Kindling operate — she did not coordinate them, they used her published model. She analyzes impact. The correct scientist watching her theory enter the world without her.
 - **Key beats:**
@@ -251,7 +251,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 #### Ch 5 — Kira: "Lumina"
 - **Phase:** 1 | **Thread:** F — Network/Mage
-- **Location:** Neo-Shanghai
+- **Location:** The Bay
 - **Arc beat:** Equilibrium — the antenna functioning, the person eroding
 - **Synopsis:** Streaming post-Broadcast. Network 214/31 hubs, runs itself. She coordinates but doesn't manage. Since Broadcast, signal continuous — implants never quiet. Three more mages gone dark (neurological damage, rejection, silence). Lumina at 80mg. The pharmacist scene — 30-day holder, clicking of capsules, the ritual that grounds her. But personality drift has started: funnier, sharper, meaner on stream. Audience loves it. It is not her. Lumina reshaping cognitive edges. She does not notice because the drift includes not noticing.
 - **Key beats:**
@@ -343,7 +343,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 #### Ch 11 — Kira: "Ninety Milligrams"
 - **Phase:** 2 | **Thread:** F — Network/Mage
-- **Location:** Neo-Shanghai
+- **Location:** The Bay
 - **Arc beat:** Disruption — the drift accelerates
 - **Synopsis:** Personality drift visible. On stream, sharper wit with an edge that wasn't there. Audience reads it as growth — it is not growth. Lumina at 90mg reshaping cognitive profile: faster association, flattened affect recovery, disinhibition. She doesn't notice the drift because the drift includes not noticing. Network coordinating with Kindling — mage biological monitoring during strikes. The work is good, important, requires the antenna, the antenna requires Lumina, Lumina requires escalation. She plans a proximity stream near the Anchor Zone margin. "I want to show them what I hear." The plan is manic. She does not recognize this. Nuwa, watching from the testimony network, does.
 - **Key beats:**
@@ -413,7 +413,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 #### Ch 16 — Sofia: "The Human Cost"
 - **Phase:** 2 | **Thread:** B — Science/Model
-- **Location:** Mobile / monitoring
+- **Location:** The Bay
 - **Arc beat:** Struggle — watching correctness produce casualties
 - **Synopsis:** Kindling coordination growing — not by Sofia but by the decentralized network using her model. Second wave of strikes in preparation: larger, targeting chokepoints the first wave's rerouting revealed. The human cost no longer abstract. Dependency chains mapped: desalination in the Gulf, hospital networks in South America, manufacturing in Southeast Asia. Each targeted node has a population that depends on it. Sofia analyzes targeting priorities the Kindling have chosen. She is not choosing who suffers — the Kindling are — but her model is the map they follow. The correct scientist who published the correct model, watching others use it to choose which populations lose power. Three operatives from the first wave in custody. Sofia knows their node assignments and throughput data. Does not know their names.
 - **Key beats:**

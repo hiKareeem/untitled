@@ -1,0 +1,126 @@
+chapter_number: 4
+book: 3
+title: "The Erasure List"
+pov_character: "Sofia Reyes"
+phase: 1
+location: "PCC Bay Area — parents' house / remote Black Babel access"
+timeline: "~6 months post-Broadcast (~16 months post-BLACKWEIR)"
+estimated_word_count: 3500-4500
+actual_word_count: ~4800
+epigraph_source: "Erasure List working group, internal correspondence (month 4)"
+epigraph_author: "collective"
+mode: TEXTURE
+status: v1-complete
+draft_version: 1
+created_date: "2026-06-08"
+
+# Summary
+summary: >
+  Six months post-Broadcast. Sofia back in the PCC Bay Area, working from her
+  parents' house — her mother Elena Vargas's former office — processing data
+  from the Erasure List working group via remote Black Babel access. Thirty-four
+  suppressed researchers from fourteen countries. Model refined over six months:
+  throughput reduction correlates with breach stabilization at every scale tested.
+  Clean and elegant. Politics impossible — UGC proposal still injuncted, bilateral
+  negotiations stall on "economic sovereignty." The Kindling have been running
+  small-scale operations for months — throughput dips locally, breaches stabilize
+  locally, then grid reroutes from neighbors negate the effect within a mean
+  interval of 11.4 hours. Twenty-three operations tracked. Model works at every
+  scale tested. Never tested at the scale that matters. Elena enters with food,
+  reads the geographic plot in one glance, asks three precise questions that
+  demonstrate complete comprehension, does not name the parallel (daughter
+  repeating mother's trajectory). "They have gotten faster." Sofia watches
+  her theory enter the world without her, from the desk where her mother
+  conducted her own unauthorized research after NitroCore absorbed her work.
+
+# Key Events
+key_events:
+  - "Opening: twenty-three operations counted on terminal. Three screens on Elena's old monitors. Bay Area relocation — four months home."
+  - "Bay Area infrastructure: 0.5 Hz hum (PCC trunk-line, second-generation, East Bay hills substrate). Between Neo-Shanghai (0.7) and New Geneva (0.4). Frequency local, signal global."
+  - "Field kit check: five frequencies, five locations (VEC immersion pod, thirty-fifth floor, thirty-ninth floor, UGC chamber, parents' house). Same signal. Same void."
+  - "Erasure List as permanent institution by accident: thirty-four researchers, fourteen countries, three new in six months. 'Sofia had not recruited them. She had published. The publication was the recruitment.'"
+  - "Model confirmed: throughput reduction correlates with breach stabilization at every geographic scale, every infrastructure generation. 'The physics was the physics. The politics were the politics.'"
+  - "Kindling operations discovery: São Paulo first (eleven percent, nine hours), then Hamburg, Lagos, Osaka. By eighth operation, Sofia understood — Kindling using her published model independently."
+  - "Twenty-three operations in four months, eleven countries. Reductions 8-19%. Durations 4 hours to 3 days. Each local success."
+  - "Grid rerouting: every operation failed systemically. Mean rerouting interval 11.4 hours. Longest: seventy-one hours (Osaka, four junctions). Infrastructure designed to preserve itself. Infrastructure preserved itself."
+  - "Compensation algorithm modeled: elegant, efficient, treats intentional reduction same as equipment failure. 'The algorithm did not know the throughput reduction was intentional.'"
+  - "UGC proposal still injuncted: judicial review fourth month, seventeen NitroCore motions. Bilateral negotiations: six joint statements, 'economic sovereignty' in different syntactic positions."
+  - "Two compensation intervals: forty minutes (legal architecture, Ch 47) and 11.4 hours (grid architecture). Both designed to preserve what they preserve. Both functioning as designed."
+  - "Twenty-third operation dataset: Ruhr corridor, sixteen percent, nineteen hours, rerouted from Belgian/Dutch nodes."
+  - "Elena scene: enters with food (rice, black beans, avocado — father went to market). Reads geographic plot. 'Throughput correlation.' / 'Tested locally.' / 'And the grid compensates.' / 'Mean rerouting interval of 11.4 hours.' Does not name the parallel. Asks about institutional compensation speed: 'Forty minutes.' / 'They have gotten faster.'"
+  - "Italicized memory: Elena's warning when Sofia joined VEC — 'it is the same thing, Sofia, they want you inside because inside is where they can manage what you find' — Sofia said 'it is different now.' Elena did not say it again."
+  - "Mirelle reflection: 'Do not wait.' Kindling also did not wait. Actions correct. Actions local. Grid global."
+  - "Closing: model never tested at scale that matters. Opens new analysis window. Twenty-fourth operation will arrive. 'The model would be confirmed again. The grid would reroute again. The number would increase by one. She sat in the hum and waited for the data.'"
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: POV
+    state: "Phase 1 B3 (Adjustment — 'The Horror of Normalcy'). Six months post-Broadcast. Returned to parents' house in Bay Area. Working from mother's former office. Scientific register fully stripped — no qualifiers, no hedging. Institutional vocabulary processed as construction. Pattern recognition as compulsion (counting operations, calculating mean rerouting interval, counting joint statements). Field kit as talisman. The correct scientist watching her theory enter the world without her."
+  - name: "Elena Vargas"
+    role: Supporting (scene)
+    state: "Sofia's mother. Geophysicist. Career absorbed by NitroCore — tectonic resonance data published under project number instead of her name. Conducted unauthorized research from home for a decade. Understands Sofia's data immediately. Does not name the parallel (daughter repeating mother's trajectory). Register: declarative, precise, no contractions, no hedging — Sofia's register with twenty years of additional erosion. 'They have gotten faster' — forty years of institutional experience in four words."
+  - name: "Miguel Reyes"
+    role: Background (referenced)
+    state: "Sofia's father. Materials engineer. Warm contact. Expresses love through logistics — went to market (avocado), wants to know if Sofia will eat at the table. Does not appear on page. Present through Elena's reference and the food."
+  - name: "Erasure List researchers"
+    role: Channel (referenced)
+    state: "Thirty-four researchers, fourteen countries. Three new in six months. Peer-reviewing each other's work with rigor their former institutions applied to suppressing it."
+  - name: "Kindling"
+    role: Data (observed through impact analysis)
+    state: "Twenty-three operations in four months. Eleven countries. Using Sofia's published model independently. Not coordinated by Sofia. Workers inside the infrastructure testing the hypothesis from inside."
+
+# Themes
+themes:
+  - "Truth as Weapon (Dominant — evolved) — The weapon that works at every scale except the one that matters. Model correct, politics impossible. Twenty-three demonstrations. Twenty-three negations. The gap between knowing and doing."
+  - "Moral Obligation to Consequences (Strong) — Sofia published. The Kindling used her model. She did not coordinate them. She did not choose their targets. Her model is the map they follow. Authorship without agency."
+  - "Systemic Complicity (Strong) — The grid reroutes. The judiciary processes. The bilateral negotiations produce joint statements. Two compensation systems preserving the status quo: forty minutes (legal), 11.4 hours (grid). Both functioning as designed."
+  - "What Systems Do to People (Character theme) — Sofia: the scientist who has done everything she can do and continues doing it. Elena: the scientist who did the same thing twenty years ago, watching her daughter repeat the trajectory. Miguel: love expressed through logistics because the data on the kitchen table does not invite other conversation."
+  - "Architecture of Power (Ambient) — The grid's routing algorithm as institutional architecture. Treats intentional throughput reduction the same as equipment failure. 'The algorithm did not know the throughput reduction was intentional.' The infrastructure preserves itself with the same mechanical precision as the legal architecture."
+
+# Symbols
+symbols:
+  - name: "Twenty-three"
+    appearances: 12
+    arc: "Opens chapter → Kindling operations count → geographic plot → rerouting compensation count → closing accumulation → forward-looking close ('the twenty-fourth operation'). The number that carries the thesis: correctness at every scale except the one that matters."
+  - name: "11.4 hours"
+    appearances: 5
+    arc: "Calculated from twenty-three compensations → compared with forty minutes (legal) → placed in Elena's dialogue ('How long did the institution take?') → closing accumulation. The grid's institutional reflex."
+  - name: "The field kit"
+    appearances: 5
+    arc: "Edge of desk (green indicator steady) → touched (reflex, check) → five frequencies catalogued → touched again in closing (weight, casing, pulse) → 'the instrument that outlasts every institution'"
+  - name: "The hum"
+    appearances: 8
+    arc: "0.5 Hz (Bay Area, house foundation) → measured first morning → between Neo-Shanghai and New Geneva → through the floor → closing ('She sat in the hum and waited for the data')"
+  - name: "Elena's desk/office"
+    appearances: 6
+    arc: "Elena's old monitors repositioned → back bedroom used as office for twenty years → now holds Sofia's equipment → 'arranged on the same desk where Elena had written papers that NitroCore absorbed' → Elena's hand on chair back → Sofia sits at desk in mother's former office"
+  - name: "The food"
+    appearances: 2
+    arc: "Elena's plate (rice, black beans, avocado — father's market trip) → set on desk next to field kit → 'Your father wants to know if you will eat at the table tonight.' Care without naming."
+  - name: "Forty minutes"
+    appearances: 3
+    arc: "Referenced from Ch 47 → compared with 11.4 hours → placed in Elena's dialogue ('They have gotten faster'). The legal architecture's compensation speed."
+
+# Continuity
+continuity_notes:
+  - "B2 Ch 47 → B3 Ch 4: UGC vote 60-40 ✓, injunction within 40 minutes ✓, Article 14 (economic sovereignty) ✓, judicial review ongoing ✓, gallery referenced ✓, field kit ✓, 'the transmission event' naming ✓"
+  - "B2 Ch 45 → B3 Ch 4: De-escalation proposal 20%/5 years ✓, Mirelle's 0.91 correlation (filed) ✓, 'Do not wait' instruction ✓, Mid-Levels apartment as former location ✓, Black Babel distribution ✓"
+  - "B2 Ch 26 → B3 Ch 4: Erasure List working group ✓, grown from 31/12 to 34/14 ✓"
+  - "B2 Ch 20 → B3 Ch 4: VEC terminated ✓, methodology reviews referenced ✓"
+  - "B2 Ch 11 → B3 Ch 4: Black Babel distribution ✓, cascade protocol ✓, 2.1M endpoints ✓"
+  - "B2 Ch 4 → B3 Ch 4: 0.7 Hz (Neo-Shanghai) referenced ✓, field kit as parallel archive ✓, VEC immersion pod referenced ✓"
+  - "B3 Ch 1 → B3 Ch 4: Six months post-Broadcast worldstate ✓, throughput down 4% from attrition consistent with Kindling ops local-only ✓"
+  - "Dossier: Elena Vargas (strained contact, geophysicist, career absorbed by NitroCore, unauthorized research from home) ✓. 'She tried, once' warning directly referenced ✓. Miguel Reyes (warm contact, logistics) ✓. Bay Area origin ✓. Kitchen table data printouts ✓."
+  - "Location divergence: Chapter plan specified 'Mobile / Black Babel' — chapter relocates Sofia to Bay Area / parents' house. Note for chapter plan update."
+  - "Forward: Ch 10 (proof of concept), Ch 16 (human cost), Ch 25 (model works at scale). Elena as recurring presence. Twenty-three operations as baseline for escalation."
+
+# Thread Status
+thread_status:
+  erasure_list: "Permanent institution by accident. Thirty-four researchers, fourteen countries. Encrypted channels via Black Babel node architecture. No central server, no hierarchy, no schedule. Peer-reviewed internally. Model refined six months. Clean. Elegant. Correct at every scale. Politically impossible."
+  kindling_operations: "Twenty-three operations in four months. Eleven countries. Using Sofia's published model independently. Not coordinated by or through Sofia. Local success (8-19% throughput reduction, proportional breach stabilization). Systemic failure (grid reroutes, mean 11.4 hours). Infrastructure preserves itself."
+  ugc_proposal: "Still injuncted. Judicial review fourth month. Seventeen NitroCore motions. Bilateral negotiations: six joint statements, 'economic sovereignty.' Institutional architecture converting passed resolution into temporal object — perpetually approaching, never arriving."
+  sofia_location: "Bay Area, parents' house. Elena's former office. Four months home. Remote Black Babel access. Field kit present. 0.5 Hz hum through house foundation."
+  elena_relationship: "Strained contact. Elena reads data immediately (geophysicist). Does not name the parallel. Warning from years ago ('it is the same thing, Sofia') not repeated. 'They have gotten faster' — acknowledgment without naming. Door left open."
+  model_status: "Correct at every scale tested. Never tested at global scale. Global scale requires institutions that have injuncted the proposal. The gap is structural. The gap is the architecture."
+  mirelle_instruction: "'Do not wait.' Governs Sofia's actions since first package. Kindling also did not wait. The instruction propagated through publication."

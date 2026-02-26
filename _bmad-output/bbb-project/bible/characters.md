@@ -632,16 +632,16 @@ This bible dimension tracks **current character states**:
 ### Sofia Reyes
 
 **Role:** POV #7 (4–5 chapters)
-**Faction:** VEC (researcher)
-**Primary Location:** Neo-Shanghai / VEC HQ
+**Faction:** VEC (researcher, terminated)
+**Primary Location:** PCC Bay Area / parents' house (formerly Neo-Shanghai / VEC HQ)
 **Lens:** Moral obligation, scientific discovery
 
 **Current Psychological State:**
-- Phase: 5/5 B2 (Arc complete — correct and insufficient)
-- Emotional State: The specific flatness of a scientist who has done everything correctly and watched the correct result suspended by the architecture she cannot operate. Not despair — despair would require surprise. Not defeat — the vote passed. The science was sufficient. The vote was sufficient. The architecture was not. She published anyway.
-- Dominant Beliefs: "Mirelle published anyway."
-- Internal Contradictions: The proposal is technically correct, politically passed, and legally suspended. The gap between describing a catastrophe and preventing one is the same gap it has always been. The gap is now in the judicial pipeline.
-- **B2 Ch 47 state:** New Geneva UGC complex. Presented de-escalation proposal to 112-delegate emergency session. Vote: 67-45 in favor. NitroCore Energy Holdings, Ltd. and Helix Energetics, Inc. filed joint Article 14 injunction at 17:02:14 NGA — 40 minutes after the vote. Proposal suspended pending judicial review. Sofia departed the gallery. First chapter ending in motion. Book 2 arc complete.
+- Phase: 1/5 B3 (Adjustment — "The Horror of Normalcy")
+- Emotional State: The correct scientist watching her theory enter the world without her. Model confirmed twenty-three times by Kindling operations she did not coordinate. Grid reroutes twenty-three times. Monitoring because monitoring is what she has. The gap between correctness and implementation is structural, not informational — no additional data will close it.
+- Dominant Beliefs: "Mirelle published anyway." (eroding — publication insufficient, vote insufficient, correctness insufficient)
+- Internal Contradictions: The model works at every scale tested. The model has never been tested at the scale that matters. The gap is no longer in the judicial pipeline — it is the judicial pipeline, the grid architecture, the bilateral framework. All three preserve what they preserve.
+- **B3 Ch 4 state:** Bay Area, parents' house, Elena's former office. Four months home. Remote Black Babel access. Erasure List: 34 researchers, 14 countries. Kindling: 23 operations, 11 countries, local success/systemic failure (grid reroutes, mean 11.4 hours). UGC proposal still injuncted (judicial review fourth month). Elena scene: mother reads data immediately, does not name the parallel, "They have gotten faster."
 
 **The Lie:** Science is inherently moral
 
@@ -656,10 +656,10 @@ This bible dimension tracks **current character states**:
 | Black Babel | Source network | New (Phase 3) | Her first rogue act — providing atmospheric convergence data |
 | Mirelle Dubois | Posthumous inheritor | None → Deep | Never meets her; inherits her investigation through Black Babel |
 
-**Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst → Rogue Advocate
-- Current Phase: 5/5 B2 (Arc complete — correct and insufficient)
-- Progression: B2 Phase 5 complete (Book 2 Ch 47)
-- Next Step: Book 3 — model proven by Kindling strike; window closes
+**Current Arc:** Institutional Scientist → Rogue Scientist → Rogue Analyst → Rogue Advocate → Monitor
+- Current Phase: 1/5 B3 (Adjustment — the model exists, the politics are impossible)
+- Progression: B3 Phase 1 (Book 3 Ch 4)
+- Next Step: Ch 10 (proof of concept — Kindling test at larger scale)
 
 **Phase Trajectory:**
 | Phase | State | Key Event |
@@ -671,9 +671,9 @@ This bible dimension tracks **current character states**:
 | 5/5 | Publishes raw through Black Babel; world responds with "methodology concerns" | Truth is public. World doesn't care enough. |
 
 **Appearances:**
-- Last Appearance: Book 2 Chapter 47 ("Technically Feasible") — 11th POV chapter
-- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 11, B2 Ch 20, B2 Ch 26, B2 Ch 36, B2 Ch 45
-- Next Planned Appearance: Book 3 (TBD)
+- Last Appearance: Book 3 Chapter 4 ("The Erasure List") — 12th POV chapter
+- Previous: B1 Ch 5, B1 Ch 15, B1 Ch 27, B1 Ch 33, B1 Ch 41, B2 Ch 4, B2 Ch 11, B2 Ch 20, B2 Ch 26, B2 Ch 36, B2 Ch 45, B2 Ch 47
+- Next Planned Appearance: B3 Ch 10 ("Proof of Concept")
 
 **Recent History:**
 - **Ch 5:** Detected anomalous 0.7 Hz pulse in sub-strata atmospheric readings — structured, repeating at 90-second intervals, unprecedented in 47 years of VEC data. Decay profile atypical (withdrawal, not dissipation). Flagged for Dr. Liang; told to check instruments (SOP 7.1). Instruments fine. Recalibrated; pulse persisted. Cross-referenced atmospheric, geological, seismic, tidal, industrial databases — zero correlation. Submitted sanitized anomaly report (omitted "structured" and "atypical decay profile" to avoid classification review). Submitted cross-departmental data access request for conduit network RCI feeds (pending Liang approval). Saved personal copy to encrypted archive (non-VEC network) — the 15th entry. Working late (19:40) alone in lab. Fell asleep counting the pulse intervals.
@@ -700,6 +700,9 @@ This bible dimension tracks **current character states**:
 - **B2 Ch 47:** New Geneva UGC emergency session. Presented de-escalation proposal (20%, 18 pages + 61-page appendix, Mirelle attribution). 112 delegates, 73 member states. Haruno (PCC Economic Zone 7) asked the economic impact question. "The alternative is what you heard three days ago" — said twice. Vote: 67-45 in favor (Resolution ES-2171-047). NitroCore Energy Holdings, Ltd. and Helix Energetics, Inc. filed joint Article 14 injunction at 17:02:14 NGA — 40 minutes after vote. Proposal suspended pending judicial review. Sofia read the filing twice. "She did not move." Departed gallery. New Geneva conduit frequency: 0.4 Hz (first-generation infrastructure, lower than Neo-Shanghai's 0.7 Hz). Book 2 arc complete.
 - **Emotional arc (B2 Ch 47):** Controlled precision (presentation) → hollow vote (correct, she did not move) → mechanism recognition (injunction as data, not defeat) → stillness (empty gallery, 0.4 Hz) → Mirelle (the person, not the data) → departure (first chapter ending in motion)
 - **New canonical details (Ch 47):** 0.4 Hz — New Geneva conduit frequency. Resolution ES-2171-047 — canonical designation. 67-45 vote tally. 17:02:14 NGA — injunction filing timestamp. Article 14 — confirmed as the Accords provision used. NitroCore + Helix Energetics joint filing — first named joint corporate action.
+- **B3 Ch 4:** Six months post-Broadcast. Returned to parents' house in PCC Bay Area — Elena Vargas's former office (back bedroom). Four months home. Working from mother's old monitors, remote Black Babel access. Erasure List: 34 researchers, 14 countries (grown from 31/12 in B2 Ch 26). Model refined six months — throughput reduction correlates with breach stabilization at every scale tested. Kindling: 23 operations in 4 months, 11 countries, using Sofia's published model independently. Each local success (8-19% throughput reduction, proportional breach stabilization). Each systemic failure (grid reroutes, mean 11.4 hours). Infrastructure preserves itself. UGC proposal still injuncted (judicial review fourth month, 17 NitroCore motions). Bilateral negotiations: 6 joint statements, "economic sovereignty." Two compensation intervals: 40 minutes (legal) and 11.4 hours (grid). Elena scene: enters with food (rice, black beans, avocado — father went to market). Reads geographic plot immediately. "Throughput correlation." / "Tested locally." / "And the grid compensates." Does not name the parallel (daughter repeating trajectory). Italicized memory: "it is the same thing, Sofia, they want you inside because inside is where they can manage what you find" — Sofia said "it is different now," Elena did not say it again. "How long did the institution take? The legal one." / "Forty minutes." / "They have gotten faster." Mirelle reflection: "Do not wait." Opens new analysis window for twenty-fourth operation. "The model had always been correct. The correctness had never been sufficient." Closing: "She sat in the hum and waited for the data."
+- **Emotional arc (B3 Ch 4):** Data processing (compulsion — twenty-three counted) → location as function (home is operational) → hum measurement (0.5 Hz, catalogued) → Erasure List context (accidental institution) → Kindling recognition (progressive — São Paulo → pattern → twenty-three) → systemic failure ("Every operation failed") → political impossibility (the politics were the politics) → Elena scene (domestic interruption, scientific register, "They have gotten faster") → Mirelle ("Do not wait") → closing (model correct, correctness insufficient, new analysis window)
+- **New canonical details (B3 Ch 4):** 0.5 Hz — Bay Area conduit frequency (PCC trunk-line, second-generation, East Bay hills substrate). 23 — Kindling operations count. 11.4 hours — mean grid rerouting interval. 34 researchers / 14 countries — Erasure List current size. Elena Vargas on page for first time (dialogue scene). Miguel Reyes referenced (market trip, table question). Parents' house established as Sofia's B3 location. Elena's office/desk as workspace. Mounting brackets in garage (Elena's seismographic equipment, donated).
 
 ---
 

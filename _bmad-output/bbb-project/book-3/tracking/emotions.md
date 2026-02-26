@@ -136,3 +136,73 @@ The absences are the emotional content. The observational register processes wha
 - Emotional evolution: institutional expulsion → voluntary return. The listening continues. The choice is different. The function is the same. The horror is the normalcy.
 
 **Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The discharged soldier learning what voluntary means. The first voluntary act of his career is to stand at a perimeter and observe and record. The act is voluntary. The self performing the act was built by 22 years of institutional service. The choice is not free in the philosophical sense. The choice is the only choice the built self can make. The horror is that standing at a perimeter voluntarily feels the same as standing at a perimeter under orders. The body performs the function. The institution is gone. The function persists.
+
+---
+
+### Chapter 4 — "The Erasure List" (Sofia Reyes)
+
+**Emotional Arc:** Data processing (twenty-three operations counted) → location establishment (home, four months, mother's office) → hum measurement (0.5 Hz, Bay Area, catalogued) → working-group context (permanent institution by accident) → Kindling discovery (progressive recognition — São Paulo → pattern → twenty-three) → systemic failure (every operation failed — grid reroutes, 11.4 hours) → political impossibility (injuncted, bilateral, "economic sovereignty") → 23rd dataset analysis (Ruhr corridor, physics not the problem) → Elena scene (domestic interruption, scientific register, "They have gotten faster") → Mirelle reflection ("Do not wait") → closing (model correct, correctness insufficient, new analysis window, waiting for data)
+
+**Emotional Register:** Analytical-sustained. Phase 1 B3 equilibrium. The scientific register is the only register. The monitoring continues. The data confirms what the data always confirmed. The confirmation produces no action because the gap between correctness and implementation is structural, not informational. The register processes institutional failure the same way it processes atmospheric data — as patterns, as numbers, as correlations. The Elena scene introduces the only non-analytical register: domestic. Food, doorway, table question. But even the domestic register is processed through scientific vocabulary — Elena's questions are scientific, Sofia's responses are data.
+
+**Physical Tells:**
+- Field kit at edge of desk (green indicator steady) — touched twice (reflex/check, then closing touch: weight, casing, pulse). "The instrument that outlasts every institution."
+- Three screens (Elena's old monitors, repositioned from garage). Flatscreens on desk where Elena wrote papers NitroCore absorbed.
+- Hum through house foundation at 0.5 Hz — measured first morning, catalogued alongside four other frequencies.
+- Elena's plate (rice, black beans, avocado) set on desk corner next to field kit — domestic object in analytical space.
+- Geographic plot: twenty-three points glowing on four continents.
+- The door: left open after Elena exits. Sound of footsteps, kitchen, cabinet opening.
+
+**Emotional Beats:**
+
+1. **"Twenty-three."** — Opening. Single word, single line. Emotional weight: the count. The compulsion. Every phenomenon converted to number. Twenty-three operations she did not request, conducted by people she did not coordinate. The number carries the thesis before the thesis is stated.
+
+2. **"She had been home for four months."** — Emotional weight: return. Not dramatic. Logistical. The Bay Area is not refuge — it is the place where surveillance architecture is calibrated for consumer data, not atmospheric research. Home is operational. Home is where the infrastructure is adequate.
+
+3. **Elena's office** — "The back bedroom that Elena Vargas had used as an office for twenty years before she stopped using it and Sofia had never asked why." Emotional weight: the unasked question. The room's history as subtext. Elena's career absorbed, equipment donated, room emptied. Now Sofia's equipment on the same desk. Neither asked. Neither offered.
+
+4. **The hum at 0.5 Hz** — Emotional weight: continuity. The signal is present in the house the way it is present everywhere. The frequency is local. The signal is global. The measurement is the reflex. The reflex is the connection to every previous measurement — VEC, BLACKWEIR, UGC chamber, now home.
+
+5. **"Sofia had not recruited them. She had published. The publication was the recruitment."** — Emotional weight: authorship as action. The Erasure List assembled around her work without her coordination. The publication did what institutions could not — connected erased researchers across fourteen countries. The moral weight of having produced the thing that recruited them.
+
+6. **"The physics was the physics. The politics were the politics."** — Emotional weight: partition. Two sentences. Same structure. Irreconcilable subjects. The partition is the thesis stated as resignation.
+
+7. **Kindling discovery (progressive)** — São Paulo first (flagged, filed, single data point). Hamburg second. Lagos, Osaka, São Paulo again. "By the eighth operation, Sofia understood what she was looking at." Emotional weight: recognition. Not surprise — recognition. The Kindling read the appendices. Understood the methodology. Acted. "They had not contacted her. They had not asked permission." The science entered the world and the world used it without her.
+
+8. **"Every operation failed."** — Structural pivot. Two words after a section break. Emotional weight: the reframe. Local success is systemic failure. The grid reroutes. The infrastructure preserves itself. The operations fail because the infrastructure was designed to defeat them.
+
+9. **11.4 hours** — "She had calculated it, the same compulsion that counted sensor readings and delegates' seats and acoustic signatures." Emotional weight: the compulsion producing insight. The number that describes the grid's institutional reflex. The average time for the system to correct an intervention the system was designed to prevent. The number is consistent. The consistency is the problem.
+
+10. **"11.4 hours. The model worked for 11.4 hours."** — Emotional weight: the window. The interval during which the science is real, the intervention works, the world is measurably better. Then the grid compensates. The window closes. The number is the chapter's analytical center.
+
+11. **Forty minutes + 11.4 hours** — "Two systems. Two compensation intervals." Emotional weight: structural recognition. The legal architecture and the grid architecture both preserve the status quo. Both functioning as designed. The parallel is precise. The precision is Sofia's register delivering the chapter's thesis.
+
+12. **Elena enters** — "There is food." Emotional weight: domestic interruption. The analytical register broken by a plate of rice and black beans and avocado. Elena's voice carries "the same precision it carried when she described tectonic resonance patterns." The mother is a scientist. The register match IS the scene's emotional content.
+
+13. **"The data is from fourteen countries."** — Sofia's first dialogue. Emotional weight: the offering. Not invitation, not explanation. "It was the thing she was looking at, offered to the person standing in the doorway the way data is offered to a colleague." The mother as colleague. The only register Sofia has for sharing.
+
+14. **Elena reads the data** — "Her eyes moved across the display the way a scientist's eyes move across a display: not scanning but reading." Emotional weight: recognition. Elena understands immediately. The geophysicist reading atmospheric data the way she read tectonic data. Three questions: "Throughput correlation." / "Tested locally." / "And the grid compensates." Each question demonstrates complete comprehension. No explanation needed.
+
+15. **"They have gotten faster."** — Elena's line. Emotional weight: the chapter's driest observation. Forty minutes (legal) vs. whatever institutional timeline suppressed Elena's work decades ago. "The expression of a scientist who has just received a data point that confirms a hypothesis she did not want confirmed." Elena's mouth: "not a smile, not a frown, a compression." Physical, not named. Four words. Forty years.
+
+16. **The door stays open** — Elena leaves. Footsteps, kitchen, cabinet. "The house resuming around the data the way the house had always resumed around the data." Emotional weight: continuation. The domestic architecture continuing. The work continuing. The household continuing. The same pattern that governed this house when Sofia was a child.
+
+17. **Mirelle: "Do not wait"** — Emotional weight: the instruction that governs. Sofia has not waited. The Kindling have not waited. The actions are correct. The actions are local. The grid is global.
+
+18. **"The model had always been correct. The correctness had never been sufficient."** — Emotional weight: thesis as emotional statement. Two sentences. The second undoes the first. The correctness that was Sofia's identity ("the scientist who solves it") is insufficient. The identity holds but the identity's function has changed.
+
+19. **Field kit touch (closing)** — "The weight, the casing, the pulse. The instrument that had outlasted the lab and the employment and the institutional identity and the apartment and the city and the gallery." Emotional weight: the inventory of loss. Everything the instrument outlasted listed. The instrument remains. The instrument is what remains.
+
+20. **"She sat in the hum and waited for the data."** — Emotional weight: resolution. Seven words. The monitoring continues. The hum continues. The data will arrive. The twenty-fourth operation will confirm what the twenty-third confirmed. The grid will reroute. The number will increase by one. The scientist waits because waiting is what she has.
+
+**Emotional Absence:**
+- No frustration at grid rerouting (analyzed as data, not experienced as defeat)
+- No anger at bilateral negotiations ("economic sovereignty" processed as vocabulary, not provocation)
+- No grief at institutional erasure (the erasure is the condition, not the crisis)
+- No warmth toward Elena (the exchange is precise, not warm — the register match is the closeness)
+- No nostalgia for childhood home (the house is functional space, not memory space)
+- No hope or despair about the twenty-fourth operation
+
+The absences are the emotional content. The analytical register processes what it can. The data confirms. The grid compensates. The number increases by one. The monitoring continues. The house continues around the data. The Elena scene's emotional content lives in what Elena does not say (the parallel) and what Sofia does not ask (why Elena stopped using the room). The unasked questions are the emotional architecture. The asked questions are scientific.
+
+**Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The correct scientist watching her theory enter the world without her. The model is correct. The politics are impossible. Both statements are true. Both have been true for seven months. Sofia monitors because monitoring is what she has. The monitoring confirms what the monitoring always confirmed. The confirmation produces no action. The gap between correctness and implementation is structural. The scientist who has done everything she can do, in the house where her mother did the same.
