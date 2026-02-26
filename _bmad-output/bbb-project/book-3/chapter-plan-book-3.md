@@ -366,7 +366,6 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
   - Field log as honest documentation of the unclassifiable
   - Data point that connects to Proposition without Nikolai knowing
 - **Connects to:** Ch 3 (voluntary arrival), Ch 29 (volunteers — the break), Ch 34 (status report)
-- **Note:** Draft exists as `chapters/chapter-16.md` (Vladivostok, Nikolai POV). Content maps here; will need renumbering.
 
 ---
 
