@@ -2,8 +2,8 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-22"
-lastChapter: "B3 Ch 2"
+lastUpdated: "2026-02-26"
+lastChapter: "B3 Ch 5"
 totalCharacters: 16
 project_name: "Untitled"
 ---
@@ -714,10 +714,10 @@ This bible dimension tracks **current character states**:
 **Lens:** Personhood, platform, the scream
 
 **Current Psychological State:**
-- Phase: 5/5 Book 2 (Burning antenna — identity erosion, cost accepted, does not stop)
-- Emotional State: One week post-Broadcast. Tuesday is gone — not the events (log has entries) but the experiential memory. The filing system is prosthetic memory. 80mg is the floor. Memory erosion confirmed via forum posts (other long-term Lumina users describe identical gaps). Most famous person on Earth (2.1B views, 7 labs authenticated). Most hunted (government/Academy/corporate/military requests). Ignores all institutional pressure. Ring light off since the Broadcast. Has not gone live. The quiet room is the cost.
-- Dominant Beliefs: "The drug removed Kira. What was left heard clearly." The antenna identity is not metaphor. The trade is structural: memory for reception, days for signal, self for antenna. The choice is made by not reducing the dose. The cost is accepted.
-- Internal Contradictions: Filing system that was coping mechanism is now memory prosthetic — Tuesday's entries exist because the system captured them, Kira's experience does not exist because the machinery was suppressed. The person who built the network to protect mages is the person whose relay architecture burned fourteen of them. The most visible human on Earth choosing invisibility. The antenna that could stop listening (reduce dose) but does not.
+- Phase: 1/5 Book 3 (Adjustment — equilibrium with drift onset)
+- Emotional State: Six months post-Broadcast. Network self-sustaining (214/31). Personality drift onset — sharper, faster, meaner on stream. Audience reads as "growth." She does not notice (mechanism includes not noticing). Memory gaps ongoing (Tuesday + two more since B2 Ch 51). Ring light impulse without conscious decision (first instance of action bypassing choice). Lumina 80mg maintenance (floor, not ceiling). Chord shapes absent at 80mg (hands sort pills instead). "The material fails" — cruelty unnoticed. The person standing on the floor is not the person who built it. The difference is gradual. The gradual is the mechanism.
+- Dominant Beliefs: "The drug removed Kira. What was left heard clearly." The antenna identity is not metaphor. The trade is structural: memory for reception, days for signal, self for antenna. The choice is made by not reducing the dose. The cost is accepted. Function is the minimum. The minimum is what she manages.
+- Internal Contradictions: Filing system that was coping mechanism is now memory prosthetic — log entries exist for days the experience doesn't. The person who built the network to protect mages is the person whose relay architecture burned fourteen of them and whose filing system now processes three more as "the material fails." The pattern-seeking machinery that would detect personality drift is suppressed by the drug causing the drift. The instrument measuring everything cannot measure its own recalibration.
 
 **The Lie:** If she controls the platform, she controls the narrative of what she is
 
@@ -748,6 +748,20 @@ This bible dimension tracks **current character states**:
 - Book 2 Arc Complete: Witness → Relay Coordinator → Antenna → Burning Antenna (5/5)
 - Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 32 → Ch 40 → Ch 51. Network 47/9 → 214/31 → 400+ → 412 → 406 (passive) → 398 (attrition). Filing → dataset → language → relay coordinator → burning → antenna → burning antenna → prosthetic memory. Lumina 40mg → 60mg → 80mg (floor). Fourteen mages dark. Memory erosion: Tuesday gone. 2.1B views. Ring light off. Does not stop listening.
 - Book 3 Setup: Lumina dependency as medical crisis. Memory erosion escalating (forum posts: weekly gaps at 80mg/9 months). Personality drift. Institutional pressure atmospheric. The antenna that cannot stop, the cost still mounting.
+
+**Recent History (B3 Ch 5):**
+- Bay Area apartment + Mission pharmacy. Six months post-Broadcast. Network 214/31 stable (growth = attrition equilibrium). Three dark in six months: Lena (Accra, R3 burnout, permanent tinnitus), Marco (Buenos Aires, R2 rejection cascade, implant inert), Sari (Jakarta, voluntary withdrawal post-Mumbai).
+- Pharmacist ritual: 30-day pill holder, clicking capsules into compartments. Legitimate meds (Dr. Osei, civilian psychiatrist): antidepressant (white oblong, since age 16), antipsychotic (pale blue round, added post-Broadcast), anxiolytic (small yellow, PRN), sleep aid (PM, for REM fragmentation). Grounding replacement for Academy architecture.
+- Lumina 80mg maintenance: matte black case, inner pocket, obtained from Paz (tea shop three blocks from pharmacy). Separate transaction. Pharmacist knows legitimate meds. Paz knows Lumina. Nobody knows both.
+- Personality drift onset: sharper, faster, meaner on stream. Stream-voice clipped, riffing accelerated. "The material fails" — efficient, accurate, cruel. Audience reads as "growth" and "authentic." Kira does not notice (drift includes not noticing). Eighty suppresses pattern-seeking machinery that would detect drift in own behavior.
+- Ring light impulse: 9 PM, came on without conscious decision. First instance of action bypassing choice. Stream 28K viewers, 47 minutes. "Hey, chat" — same register, different speed.
+- Memory gaps ongoing: Tuesday (B2 Ch 51) + Thursday + Sunday. Intermittent, not predictable. Log entries exist, experience doesn't.
+- Chord shapes: absent at 80mg (suppressed). Hands sort pills with mechanical precision instead. Eighty took: chord shapes, cruelty-catching, meta-cognition, days.
+- Signal continuous: populated chord, post-Broadcast baseline. 8.2M absorbed cycling through every nitro-connected system. R3 parses at resolution unsuppressed implant never achieved. "The drug removed Kira. What was left heard clearly."
+- Eighty as floor: "Paz had said floors don't move. Paz had said ceilings do." Dosage escalation trajectory established.
+- Filing system: prosthetic memory. "The filing system was Tuesday. She was not." Instrument measuring everything cannot measure its own recalibration.
+- Physical: Right ear tinnitus persistent, manageable. Fingertip buzz bilateral, finer/more organized post-Broadcast. R3 upper terminus warm (residual).
+- Closing: "The person standing on it was not the person who had built it. But the difference was gradual, and the gradual was the mechanism, and the mechanism's design included not recognizing the mechanism."
 
 **Recent History (B2 Ch 51):**
 - Bay Area apartment. One week post-Broadcast. Ring light off since the eleven seconds. Has not gone live.
