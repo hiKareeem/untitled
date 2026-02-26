@@ -670,22 +670,24 @@ chapters:
     notes: "Book 3, Phase 1 — Malachi POV (Book 3 debut, 6th appearance overall). Six months post-Broadcast. Correspondence on desk (not locked, not published) — placed there morning after Broadcast. Locked study empty (swept clean). The deliberative — ecclesiastical category for authorized inaction. Church in freefall: 61% attendance decline, 43 zero-attendance chapels, Threshold in 14 cities. Tuesday reports: Bruges empty (Voss), Lisbon fractured (Almeida), Lyon chaplain resignation (theological grounds). Threshold theology analyzed: voluntarist position (presence → habitability → communion), category error identified (presence ≠ participation). Encyclical draft in drawer: 14 pages in 6 months, insufficient — 'the encyclical form was the accommodation.' Notes written: marginal theology, honest but unpublishable (register problem — theologian vs. Arch-Prelate). Recursion stated explicitly: 'The institution that could refute the Threshold is the institution that created the Threshold. The refutation and the cause share an author.' Nephthys's framework gap identified independently (no defined boundary between listening and joining). Physical tics maintained: folded hands (thumbs aligned) x3, pen/ink stain, 43-step corridor referenced. Closing: 'It always did.' — four words, the question survives. Contractions: none (verified). User correction applied: 'surgeon' → 'radiologist' (Kareem's background). Epigraph: conservation assessment (frame survives painting — oblique, rewards reread after knowing Malachi's endpoint). AEGIS as invisible novelist."
 
   book3_chapter_5:
-    title: "Voluntary"
-    status: v1-complete
-    pov: "Nikolai Volkov"
-    wordCount: 4200
-    completedDate: "2026-02-22"
-    metaFile: "book-3/metadata/chapter-5-meta.yaml"
-    mode: TEXTURE
-
-  book3_chapter_6:
     title: "Lumina"
     status: v1-complete
     pov: "Kira Calloway"
-    wordCount: 4300
-    completedDate: "2026-02-22"
+    wordCount: 4100
+    completedDate: "2026-02-26"
+    metaFile: "book-3/metadata/chapter-5-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 1 — Kira POV (Book 3 debut, 11th appearance overall). Six months post-Broadcast. Bay Area apartment. Network 214/31, self-sustaining. Three more dark (Lena/Marco/Sari). Lumina 80mg maintenance. Pharmacist ritual (30-day holder, clicking). Personality drift onset: sharper, meaner, faster on stream. Audience reads as growth. 'The material fails' — cruelty unnoticed. Ring light impulse without decision. Memory gaps ongoing (Tuesday + Thursday + Sunday). Chord shapes absent at 80mg (hands sort pills instead). Signal continuous, populated, filtered not blocked. Fingertip buzz bilateral, finer post-Broadcast. Epigraph: Vasht, *Cascade Lectures* (AI philosophy for pharmacological personality replacement — oblique). Contractions: used freely (Kira's casual register). AEGIS as invisible novelist."
+
+  book3_chapter_6:
+    title: "The Deliberative"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4200
+    completedDate: "2026-02-26"
     metaFile: "book-3/metadata/chapter-6-meta.yaml"
     mode: TEXTURE
+    notes: "Book 3, Phase 1 — Malachi POV (2nd B3 appearance, 7th overall). Six months post-Broadcast. Correspondence on desk (six months in the open, unpublished). Locked study empty (key still on cord, room without function). Church institutional freefall: monitoring staff resigned (3 months ago), morning briefing ceased (4 months), Chapter Hall unused (9 months), diocesan secretary stopped restocking. Threshold publication arrives (*On the Theology of Participatory Communion*). Category confusion identified: presence ≠ participation. 'The names were a report, not a request.' Nephthys's boundary gap identified: 'listen, do not join' — description without monument. Pen moves (first time in 6 months) — writes notes (marginal theology, 3 pages), not encyclical. Analysis complete: error identified, correction identified, cost identified (publishing correspondence destroys institutional fiction). Three documents on desk: correspondence (proves Church knew) + blank page (proves Church cannot speak) + notes (proves theologian can identify crisis but cannot address it). Ink on thumb fading (body erasing evidence of ceased practice). Hands do not fold (broken B2 Ch 39, maintained). No closing cadence (broken B2 Ch 27, maintained). The 'yet' deliberative (not passive). Epigraph: land survey manual (boundary by monument vs. description — oblique, resolves as Nephthys's unmonumented boundary). Contractions: none (verified). User corrections applied: 'mid-truth crisis' → 'crisis of the initial Reyes publication' (2 instances). AEGIS as invisible novelist."
 
   book3_chapter_7:
     title: "The Pen Continues"

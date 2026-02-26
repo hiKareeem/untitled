@@ -206,3 +206,78 @@ The absences are the emotional content. The observational register processes wha
 The absences are the emotional content. The analytical register processes what it can. The data confirms. The grid compensates. The number increases by one. The monitoring continues. The house continues around the data. The Elena scene's emotional content lives in what Elena does not say (the parallel) and what Sofia does not ask (why Elena stopped using the room). The unasked questions are the emotional architecture. The asked questions are scientific.
 
 **Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The correct scientist watching her theory enter the world without her. The model is correct. The politics are impossible. Both statements are true. Both have been true for seven months. Sofia monitors because monitoring is what she has. The monitoring confirms what the monitoring always confirmed. The confirmation produces no action. The gap between correctness and implementation is structural. The scientist who has done everything she can do, in the house where her mother did the same.
+
+---
+
+### Chapter 6 — "The Deliberative" (Malachi)
+
+**Emotional Arc:** Correspondence on desk (six months, unpublished) → institutional depletion (half capacity, monitoring staff resigned, briefings ceased) → ink on thumb fading (body erasing practice) → Threshold publication arrives → category confusion identified (presence ≠ participation) → Nephthys's boundary gap identified (description without monument) → pen moves (notes, not encyclical) → analysis complete, correction identified, cost identified → three documents on desk (letters + blank page + notes) → deliberation continues → ink fading
+
+**Emotional Register:** Institutional-theological, sustained-flat. Phase 1 B3 equilibrium. The deliberative as identity. The man who sees clearly and cannot act. The analysis sharpens. The immobility deepens. The register processes theological crisis the way it processes everything: structurally, precisely, without affect. The weight conveyed through institutional vocabulary and physical markers (fading ink, unfolded hands, empty room). No named emotions. The absence is the emotional content.
+
+**Physical Tells:**
+- Correspondence on desk (two scripts side by side, six months in the open, unpublished)
+- Blank page beside correspondence (third encyclical, stopped B2 Ch 22, ink bloom dried)
+- Pen beside blank page (has not moved in six months, moves in this chapter for notes)
+- Ink on right thumb: fading (new detail — metabolizing, not refreshed, body erasing evidence)
+- Hands: do not fold (broken B2 Ch 39, explicitly tracked — "The gesture had not returned since the cathedral")
+- Key on cord beneath vestments (opens empty room now, room without function)
+- Vestments: deep violet, gold thread, chain of office (worn daily despite no institutional function)
+- Hum through walls: inhabited (post-Voice quality, maintained from B2 Ch 50)
+
+**Emotional Beats:**
+
+1. **"The correspondence had been on the desk for six months."** — Opening. Emotional weight: duration. The deliberation measured in time. Six months of the "yet" that was deliberative in B2 Ch 50 remaining deliberative in B3 Ch 6. The correspondence in the open. Not published. The distinction is the chapter.
+
+2. **Blank page and pen** — "Neither had the blank page. The pen was beside it." Emotional weight: stillness. Six months of institutional fluency failing. The encyclical form exhausted. The pen that produced everything now beside the page that holds nothing.
+
+3. **The chair receives him** — "The way it always did." Emotional weight: continuity. The institutional furniture continuing to function. The ergonomics of successive office-holders. The chair built around him. The institution's physical architecture intact while its spiritual architecture empties.
+
+4. **Key opens empty room** — "The key opened a room that was empty now." Emotional weight: obsolescence. The locked study that held private theology for 40 years is empty. The key still on cord. The room still there. The function gone. The boundary between public and private collapsed. The room without purpose.
+
+5. **No one had entered the room** — Emotional weight: isolation. The correspondence in the open where anyone could see it. The diocesan secretary, the theological review board, anyone who entered. No one entered. The See operating at less than half capacity. The institutional apparatus depleted. The correspondence visible and unseen.
+
+6. **Chapter Hall unused** — "The twenty-four chairs sat around the long oak table in the same positions they had occupied since Malachi had last adjourned the council... nine months ago." Emotional weight: institutional freeze-frame. The architecture frozen in its last moment of function. 24 chairs arranged. 19 occupied last session. Unknown how many would be occupied now. The question unasked because the council uncalled.
+
+7. **Ink on thumb fading** — "The dark crescent beneath the nail, the permanent stain of forty years of handwritten correspondence, had begun to lighten." Emotional weight: biological erasure. The body metabolizing the mark that defined him. Six months without writing. The old ink disappearing. The new ink not arriving. "The ink on his thumb was the residue of a man who used to write." Identity dissolution at cellular level.
+
+8. **Monitoring staff resigned** — "Both of them. On the same day — not coordinated, not a protest, but the simultaneous recognition by two institutional professionals that the function they performed no longer served an institution that could act on what the function produced." Emotional weight: institutional recognition. The professionals who monitored the decentralized networks recognized the institution could not act. They left. One to the Listeners. The other unknown. The monitoring stopped. The institution continues without the monitoring.
+
+9. **Threshold publication arrives** — Through automated routing. Flagged by algorithm. The system that sorted institutional correspondence applied protocols to a document the institution could no longer respond to. Emotional weight: institutional reflex without institutional capacity. The routing continues. The response does not.
+
+10. **Reading the Threshold theology** — "He read it the way he read everything — structurally, for what the argument did rather than what it claimed." Emotional weight: diagnostic precision. 40 years of theological education. 22 years of institutional governance. The capacity to disassemble an argument the way an engineer disassembles a machine. The precision intact. The institution to deploy the precision gone.
+
+11. **Category confusion identified** — "Presence ≠ participation." Emotional weight: clarity. The error identified immediately. The Threshold conflates confirmation of presence with invitation to participate. The names were a report, not a request. The absorbed said who they were. They did not say: come. The analysis correct. The analysis available. The analysis cannot be deployed.
+
+12. **Nephthys's boundary gap** — "The boundary exists on the page. It does not exist in the terrain." Emotional weight: convergence. Malachi identifies independently what Nephthys experienced in B3 Ch 2. The prophet drew a boundary ("listen, do not join") but did not place a monument (no theological justification). The Threshold walks through the gap. The gap is structural. Nephthys rejected the authority needed to justify the boundary. The instruction is pastoral, not theological. The Threshold knows this. They are reading the gap correctly.
+
+13. **The pen moves** — "This was notable." Emotional weight: break in pattern. Six months of stillness. The pen beside the blank page. The institutional fluency that produced encyclicals in an afternoon simply absent. The pen moves because this is not an encyclical. The pen moves for notes. Marginal theology. Private analysis. The honest voice that lived in the locked study for 40 years now writing at the Arch-Prelate's desk.
+
+14. **Writing in the margin** — "The margin was his native territory. The margin was where the honest theology had always lived." Emotional weight: register shift. Not the encyclical hand (measured institutional script). The private hand (faster, smaller, the hand Nephthys would have recognized). The hand that wrote the unsent responses. The hand that said "I know" on paper decades before saying it aloud.
+
+15. **Analysis complete** — Three pages. Marginal style. Theology that works by question rather than assertion. The Threshold's error identified. The correction identified. The cost identified: correction requires correspondence, correspondence requires publication, publication requires telling the truth in a document that bears his name. Emotional weight: the recursion. He can see the error. He can see the correction. He can see the cost. The seeing produces immobility.
+
+16. **"I could close it."** — The marginal note. Emotional weight: conditional. Not "I will close it." Not "I am closing it." "I could close it." The correspondence contains the data. The data refutes the Threshold. The refutation requires publication. Publication destroys the institution's last defense: the fiction that the institution had not known. The conditional is the deliberative. The deliberative is the paralysis.
+
+17. **Three documents on desk** — "The private letters that proved the Church had known, the blank encyclical that proved the Church could not speak, and the notes that proved the Church's most senior theologian could identify the crisis and could not address it through any channel the Church still operated." Emotional weight: accumulation. Three forms of truth. Suppressed, absent, private. None public. The visual thesis. The documents arranged. The arrangement is the argument.
+
+18. **The yet continues** — "The yet that had been deliberative on the morning after the Voice was still deliberative six months later." Emotional weight: duration as state. Not passive paralysis (B2 Ch 39: did not stand). Deliberative paralysis (B3 Ch 6: identified error, identified correction, identified cost, chose not to act). The choice is active. The immobility is chosen. The choosing happens every morning. The choosing is the deliberation.
+
+19. **Closing compound** — "Malachi sat at the desk with his hands on the paper and the key on its cord against his chest and the morning light through the high windows strengthening toward the ordinary light of a day in the European See, and the institution continued around him in its depleted, fractured quiet, and the notes were on the desk, and the correspondence was on the desk, and the blank page was on the desk, and the pen was beside them, and the ink on his right thumb was fading." Emotional weight: accumulation and erosion. Everything present (hands, key, light, institution, documents, pen). One thing disappearing (ink). The stacked clauses build the inventory. The final clause delivers the loss. The body erasing who he was.
+
+**Emotional Absence:**
+- No frustration at institutional depletion (monitoring staff resigned, briefings ceased, Chapter Hall unused)
+- No anger at Threshold theology (analyzed as structure, not experienced as threat)
+- No grief for the Church's fracture (Threshold/Listeners/Witnesses — observed, not mourned)
+- No satisfaction at identifying the error (diagnostic precision without affect)
+- No anguish about the correspondence (six months on desk, the "yet" deliberative, not tortured)
+- No hope or despair about publication
+
+The absences are the emotional content. The institutional-theological register processes crisis the way it processes everything: structurally, precisely, without named affect. The weight conveyed through physical markers (fading ink, unfolded hands, empty room) and institutional vocabulary (deliberative, correspondence, encyclical, framework). The emotional state is the register. The register is the only register. The horror is the precision: the man who can diagnose everything except his own immobility.
+
+**Comparison to B2 Ch 50:**
+- B2 Ch 50: Correspondence moved from locked study to desk. "In the open." The "yet" transformed from passive (did not stand) to deliberative (chose not to publish). Six months of deliberation ahead.
+- B3 Ch 6: Six months later. Correspondence still on desk. Still unpublished. The "yet" still deliberative. New element: notes. Analysis complete. Error identified. Correction identified. Cost identified. The deliberation sharpened into precision. The precision produces immobility.
+- Emotional evolution: passive paralysis → deliberative paralysis. The immobility in B2 Ch 50 was the absence of decision. The immobility in B3 Ch 6 is the presence of decision: he has decided not to publish because publishing destroys the institution. The decision is active. The decision is made every morning. The decision is the deliberation.
+
+**Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy"). The institutional man without an institution. The theologian who can identify error but cannot correct it without destroying the institution that defined him. The deliberative as identity: the man who sees clearly and cannot act because the seeing includes seeing the cost. The ink on his thumb is fading. The body is erasing the evidence of who he was. Six months of deliberation. The correspondence on the desk. The notes on the desk. The blank page on the desk. The pen beside them. The "yet" continues. The horror is the precision. The horror is that the precision produces nothing except more precision.

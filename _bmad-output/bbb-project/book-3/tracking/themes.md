@@ -155,7 +155,7 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 
 ---
 
-### Chapter 6 — "Lumina" (Kira Calloway)
+### Chapter 5 — "Lumina" (Kira Calloway)
 
 | Theme | Phase | Manifestation |
 |-------|-------|---------------|
@@ -172,6 +172,42 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 - Opaque on first read (technical jargon about emergent systems). Devastating on reread: describes exactly what Lumina is doing. The corrective process does not restore — it replaces.
 - Final line as chapter thesis: "The substrate's capacity for noticing is among the first values the process adjusts." = Kira cannot notice the drift because the drift affects self-observation first.
 - Cross-domain obliqueness: AI philosophy describing drug-induced personality erasure. No pharmacological vocabulary. The obliqueness is the point.
+
+---
+
+### Chapter 6 — "The Deliberative" (Malachi)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Strong | Institutional apparatus collapsed but title/vestments remain. "Encyclicals don't work on a diaspora, councils require attendance, diocesan authority requires dioceses." The tools require the structure. Without structure, tools are inert. Malachi wears vestments daily despite no councils, no encyclicals, no authority. The architecture is shell. |
+| Where Identity Ends | Moderate | Institutional operator without institution. Ink on thumb fading (body erasing evidence of ceased practice). Hands do not fold (institutional composure broken). Key opens empty room (private archive moved to public desk). "The institutional man, sitting with the only honest thing he owns." Identity crisis: theologian who can identify error but cannot act without destroying institution that defined him. |
+| Systemic Complicity | Moderate | 22 years of suppression. Correspondence proves Church knew for two generations. Threshold's error is consequence of Church's suppression. "The gap in the data that the Threshold exploited was a gap the Church had maintained." Publishing truth destroys "the fiction that the institution had not known." Complicity as paralysis: correct analysis produces immobility. |
+| Truth as Weapon | Supporting | Correspondence = truth that destroys. Notes identify Threshold error but require weaponizing suppressed data. "This is the argument the Threshold cannot answer. This is the argument that requires the correspondence." Truth as tactical necessity. The weapon on desk, safety engaged, targeting complete. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The institutional architecture that suppressed truth for generations created the conditions the Threshold exploits. The man best equipped to refute the Threshold is the man whose suppression created the Threshold's opening. The refutation and the cause share an author. The recursion is structural: the institution that gives the diagnosis its authority is the institution the diagnosis indicts.
+
+**Epigraph Integration:** *Principles of Land Survey and Boundary Adjudication*, 2153 ed., §6: Disputed Lines
+- Thematic function: Surveying register for theological boundary problem. "A boundary established by monument is a boundary in the world. A boundary established by description is a boundary on the page."
+- Oblique, resolves on reread: Nephthys's "listen, do not join" is boundary by description, not monument. No theological justification. The Threshold walks through the unmonumented boundary. The surveyor (Malachi) reports the discrepancy but does not adjudicate. "The discrepancy is the finding."
+- Cross-domain obliqueness: Land survey describing theological crisis. No religious vocabulary. The resonance is structural, not lexical.
+
+**Threshold Voluntarism as Symbolic Object:** Formal publication: *On the Theology of Participatory Communion: Presence, Proximity, and the Fulfilled Promise of the Voice.* Category confusion identified: presence ≠ participation. "The names were a report, not a request. The absorbed said who they were. They did not say: come." The error is precise. The refutation is correct. The refutation requires the correspondence. The correspondence requires publication. Publication destroys institutional fiction. The recursion does not resolve.
+
+**Nephthys's Boundary Gap:** "Listen, do not join" — instruction clear, theology absent. Why should faithful listen and not join? Nephthys drew boundary but did not place monument. "The boundary exists on the page. It does not exist in the terrain." The Threshold walks through the gap. The gap is structural: Nephthys rejected institutional authority needed to justify the boundary. The prophet who taught listening cannot control what listening produces. Convergence with B3 Ch 2 (Nephthys's recursion). Both chapters identify same gap from different positions.
+
+**Three Documents on Desk:** Correspondence (proves Church knew), blank page (proves Church cannot speak), notes (proves theologian can identify crisis but cannot address it). Three forms of truth: suppressed, absent, private. None public. The accumulation is the chapter's visual thesis. Six months on desk. The "yet" deliberative, not passive.
+
+**Ink on Thumb Fading:** New physical marker. "The old ink metabolizing, the new ink not arriving, the body's quiet biochemistry erasing the evidence of a practice that had ceased." Biological detail. The body erasing who he was. Six months without writing. The fading is identity dissolution at cellular level. Bookended (opening and closing). The mark that defined him disappearing.
+
+**Locked Study Empty:** Key still on cord. Room without function. "The key opened a room that was empty now." The private space where honest theology lived for 40 years is empty. The correspondence moved to public desk. But desk ≠ publication. The distinction is the deliberative. The room's emptiness = the collapse of boundary between public institutional operator and private honest theologian. The both-ness that held for 44 years is failing.
+
+**Closing Echo Evolution (updated):**
+- B3C1: "She opened the next report." (institutional heartbeat resumed)
+- B3C2: "The Cathedral was quiet. The chorus was not." (silence ≠ absence)
+- B3C3: "He listened." (function persists without institution)
+- B3C4: "She sat in the hum and waited for the data." (monitoring as continuation)
+- B3C5: "It always continued." (Lumina/signal/drift — the mechanism's permanence)
+- **B3C6: "...and the ink on his right thumb was fading." (identity dissolution, biological erasure, the body forgetting who he was)**
 
 **The Scale as Symbolic Object:** The milligram scale. "She believed the scale." The instrument of precision that measures the substance replacing her. The precision is hers — manual, calibrated, the control that is the line between *using* and *needing*. The same scale that weighed 40mg (B1) now weighs 80mg (B3). The ritual is identical. The number is doubled. The precision that was control in B1 is dependency in B3. The scale does not distinguish.
 
