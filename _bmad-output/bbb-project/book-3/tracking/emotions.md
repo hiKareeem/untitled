@@ -49,6 +49,54 @@ This document tracks emotional beats, character interiority, and affective reson
 
 10. **The handkerchief** — "She did not think about the handkerchief." First negative statement of what she doesn't think about. Emotional weight: negative space. The handkerchief is in the drawer. Eduardo is not in the void. The drawer is closed. The handkerchief is not thought about. The not-thinking is the thinking. The absence marked by stating the absence.
 
+---
+
+### Chapter 8 — "Both Systems" (Nuwa Lin)
+
+**Emotional Arc:** Counting ritual (before eyes open) → Anchor margin district (commodification observed) → 47 names vs tourists' counts → polymer fragment horror ("The hand was now a product") → recognition (Yara says "Nuwa Lin" — loss of invisibility) → both systems framework (archived vs visible) → inventory expansion → "not done"
+
+**Emotional Register:** Inventory-driven. Nuwa processes through counting, listing, mapping. Emotions conveyed through physical reflex (fingers tightening on bag handles), compressed stance, shared silence with Fen, eating at table. The horror is in the normalcy of the commodification, not in the intensity of the prose.
+
+**Physical Tells:**
+- Counting ritual (opens before eyes) — creds, room, rice, oil, greens, adhesive Day 6/12
+- Cracked implant (18 months post-BLACKWEIR) — itch with RCI fluctuation, registers gradient as rising warmth
+- Fuxi's data chip (13 years, permanently lodged) — "The chip lived in her"
+- Masonry-wall routing (touched wall in corridor, body's knowledge)
+- Frozen notification (grey, permanent) — structural bookend (opening + closing)
+- Table evolution (kept for company → used for herself) — self-care through habit
+- Fingers tightening on bag handles (recognition reflex) — Sump reflex, body's response to being identified
+- Compressed stance (shoulders forward, chin down) — occupying minimal space
+- Tilted head (overlay dead zone compensation)
+- Chemical staining on fingertips (textile reclamation plant, permanent)
+
+**Emotional Beats:**
+
+1. **The counting ritual** — Low-sustained. Opens before eyes open. Creds (87), room (4x3), rice, oil, greens, adhesive (Day 6 of 12). The ritual is the anchor. The count is the continuity. Emotional weight: grounding. The inventory that precedes consciousness.
+
+2. **The frozen notification** — Grey, permanent. *Lin, Nuwa. Credential tier: Basic. Evacuation priority: None assigned.* Emotional weight: archived status. The system that deleted her residential record, decommissioned her credential server, reclassified her district. The notification that never updates. The permanence is the horror.
+
+3. **The observation platforms** — Tourists with RCI monitors (50-120 creds), recording readings. 14.7 RCI at platform edge. Emotional weight: observational. Nuwa knows what 14.7 means (hum in walls, implant itches, infrastructure warming). Tourists record the number. Tourists do not know what the number means.
+
+4. **The shimmer tours** — 200 creds, 90 minutes, dampening field included. "Experience the Edge." Emotional weight: commodification recognized. The system's price for leaving the containment buffer zone (200 creds relocation stipend) = the price of a guided tour to stand where the buffer zone meets the thing the buffer zone was buffering. The equivalence noted without commentary.
+
+5. **The thermal gradient food** — Cooked on ambient RCI heat. Amber tint from nitro-adjacent heating. Tourist photographs bowl before eating. Emotional weight: horror through composition. "The bowl was cooked on the heat their absorption had generated and the woman did not know this because the woman did not count."
+
+6. **The 47 names** — Mrs. Huang, Yuto, Lin Wei, mother's neighbor, 43 others. 8.2 million total. The ratio (47 / 8.2M) = measure of her life's radius. Emotional weight: witness. The names she recognized vs the millions she did not. The counting as resistance. The tourists count creds, RCI readings, minutes, followers. "They counted everything that could be counted in the vocabulary of transaction and nothing that could be counted in the vocabulary of loss."
+
+7. **The polymer fragments** — Salvaged Sump windows. Unmarked 40 creds / Marked 120 creds / Verified marked 300 creds. Handprints, pressure distortions from BLACKWEIR contact. Emotional weight: horror peak. "Three hundred creds for a piece of the window a hand had gone through." The hand was in the infrastructure. The hand was in the conscious collective field. The hand was a data point. "The hand was now a product."
+
+8. **Shared silence with Fen** — Walking through vendor corridor after polymer fragments. Neither speaks. Emotional weight: mutual understanding through absence of speech. "The not-speaking was the shared language of two women who had survived something that was being sold in a corridor they had not chosen to walk through."
+
+9. **The market** — Unchanged. Greens, rice, adhesive (11 creds, same price as 6 months ago). Unregistered cred accepted. Emotional weight: anchor. The economy that preceded the tourism. The market that sells what people need. The commodity whose price has not inflated. The continuity.
+
+10. **Recognition scene** — Yara says "Nuwa Lin" in transit corridor. Emotional weight: loss of invisibility through being named. Physical reflex: fingers tightening on bag handles (Sump reflex, body's response to being identified). Compressed stance (shoulders forward, chin down). Yara reads the posture, apologizes ("I should have messaged first"). Nuwa's response: "Good." — single word, sufficient. The gratitude that arrives as acknowledgment, not conversation.
+
+11. **Both systems framework** — Frozen notification (grey) beside green notifications (accumulating). Emotional weight: dual visibility. "She was in both systems now. The one that did not see her and the one that had learned her name." The system's visibility = inventory (tracked, classified, processed). The network's visibility = testimony (named, located, heard). The difference: "Being counted by the system that consumed you" vs "being counted by the people who survived the consumption."
+
+12. **Table evolution** — B2 Ch 8: "kept for company" (not used for herself). B3 Ch 8: "used for herself" — most nights. Emotional weight: self-care through habit. The change gradual, unmarked. "She did not know when it had happened. She did not know if it was a decision or a habit. The distinction had never been clear. The distinction did not need to be clear."
+
+13. **Closing inventory** — Physical (creds, food, adhesive, rent, four-minute packing) + data (junction coordinates, conduit densities, 47 names, topology, network, database, body's knowledge). Emotional weight: expansion. "The inventory was larger now. The inventory could not be packed." The work continues. "The inventory was open. She was not done." — Echo B2 Ch 18 "not done," evolved from personal (data chip) to structural (the work).
+
 11. **The wrist** — Absent and unnoticed. "She had not noticed." Emotional weight: doubly absent. The motion gone. The awareness of the absence gone. "The absence of a sound you stop hearing because the hearing has been running so long that the hearing is the silence and the silence is the hearing and the body does not report the cessation of a process the body has already reclassified as baseline." The body's version of what the institutional register is doing: processing the Broadcast as normal.
 
 12. **The closing compound sentence** — "The Broadcast had changed the vocabulary and had not changed the numbers and had not changed the dependency and had not changed the quarterly cycle and had not changed the distance between the altitude and the ground and had not changed the filtered air in the corridor and had not changed the hum through the walnut surface and had not changed the architecture and the architecture continued and the architecture was hers and she continued." Emotional weight: accumulation. The stacked negations build the chapter's thesis through repetition. Everything the Broadcast did not change. The revelation's impotence against the machine's continuation. The horror is the list. The horror is the length of the list. The horror is that the list could continue.

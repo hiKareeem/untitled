@@ -3,8 +3,8 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-26"
-lastChapter: "B3 Ch 7"
-totalCharacters: 17
+lastChapter: "B3 Ch 8"
+totalCharacters: 19
 project_name: "Untitled"
 ---
 
@@ -1185,5 +1185,53 @@ This bible dimension tracks **current character states**:
 | Specialist Dravec | New character | — | Stalker-7 operator, Team Two. Removes frame during Voice event. Sitting on ground, hands shaking — the diagnostic tremor. | B2 Ch 41 |
 | Sergeant Reinholt | New character | — | FAS liaison, assigned to Stalker-7's advisory detachment. Professional, measured. "Your unit requires medical assessment." FAS register consistent with established FAS officers. | B2 Ch 41 |
 
-_Last updated: 2026-02-21 (B2 Ch 41 — "Jarek"; Nikolai arc terminus; Jarek "still deployed"; Vasić/Dravec/Reinholt introduced)_
+---
+
+### Delegate Pereira
+
+**Role:** Supporting — UGC Standing Committee on Nitro Governance chair
+**Faction:** UGC (Brazilian representative)
+**Primary Location:** New Geneva — UGC Headquarters
+**First Appearance:** B3 Ch 7 ("The Pen Continues")
+
+**Description:** Brazilian representative to the UGC. Committee chair for Standing Committee on Nitro Governance. Replaced Dr. Adeyemi after rotation to tribunal panel. Reads motions into record during committee sessions.
+
+**Role in Ch 7:** Committee chair. Reads motion seven into record (NitroCore's institutional affiliation challenge to de-escalation proposal). Procedural function — processes motions, maintains committee order.
+
+**Speech Register:** Formal committee procedure. Reads motions verbatim. No characterization beyond institutional role.
+
+**Institutional Function:** Committee machinery. The person who reads the motions that kill proposals through procedural accumulation. Not antagonist — functionary.
+
+**Planned Appearances:**
+- B3 Ch 7: Committee session, motion seven (debut)
+- Future committee scenes as needed (background institutional presence)
+
+**Relationship to Zeyad:** None direct. Zeyad observes from gallery. Pereira chairs committee. No interaction.
+
+---
+
+### Yara
+
+**Role:** Supporting — Documentation group, Lagos integration
+**Faction:** Network (testimony/ground-truth data architecture)
+**Primary Location:** Neo-Shanghai Mid-Levels
+**First Appearance:** B3 Ch 8 ("Both Systems")
+
+**Description:** Woman, mid-twenties. Clean Mid-Level standard clothing. Current-generation implant with full credential access. High-resolution overlay projection (visible on left eye surface). Portable display (consumer model, sleeker than rigged terminals). Professional, apologetic when realizing she overstepped by approaching Nuwa without messaging first.
+
+**Role in Ch 8:** Documentation group member. Recognized Nuwa's handle on public channel. Thanked Nuwa in person for corridor-level data (junction maps, 47 names, path-poor classifications). "Your data changed what we're able to map. The junction-level resolution, the path-poor classifications — nobody else has that."
+
+**Speech Register:** Professional network participant. Apologetic ("I should have messaged first"). Grateful. Reads social cues (Nuwa's compressed stance, discomfort with recognition).
+
+**Institutional Function:** Network contact. Lagos integration participant. Ground-truth database architecture. Represents the testimony network's expansion beyond individual contributors to institutional-scale data processing.
+
+**Planned Appearances:**
+- B3 Ch 8: Anchor margin district, recognition scene (debut)
+- Potential recurring contact for network coordination
+
+**Relationship to Nuwa:** Network contact. Recognized Nuwa's handle, values her data. One-way gratitude (Yara thanks Nuwa, Nuwa responds with "Good" and leaves). Nuwa does not seek relationship, but Yara represents the network's visibility of Nuwa's work.
+
+---
+
+_Last updated: 2026-02-26 (B3 Ch 8 — "Both Systems"; Yara and Delegate Pereira introduced; Nuwa's dual-network role and loss of invisibility)_
 _Updated by: Chapter-write workflow (full mode)_

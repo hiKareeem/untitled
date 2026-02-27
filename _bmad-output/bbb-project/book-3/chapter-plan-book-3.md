@@ -1028,7 +1028,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 - **Nephthys exits early** (Ch 27 of 53) — her influence extends through Imani, the congregation, and Malachi's pilgrimage
 - **No new POVs** — roster locked, progressive construction from B1-B2
-- **AEGIS gets 5 chapters** (up from 3 in v1) — more room for degradation arc and writing decision
+- **AEGIS gets 5 chapters** (up from 3 in v1) — more room for degradation arc
 - **Sofia does NOT coordinate Kindling** — she observes, the Kindling is emergent. Her model is the map, not her hands.
 - **Aurielle does NOT die** — she IS the machine. More horrifying than suicide.
 - **Proposition at Ch 33-34** (not Ch 32-33) — slightly later, giving Nephthys room to die first

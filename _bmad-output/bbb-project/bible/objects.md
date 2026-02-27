@@ -2,10 +2,10 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-21"
-lastChapter: 41
-totalObjects: 21
-activeObjects: 18
+lastUpdated: "2026-02-26"
+lastChapter: "B3 Ch 8"
+totalObjects: 24
+activeObjects: 21
 project_name: "Untitled"
 ---
 
@@ -917,5 +917,88 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-22_
-_Updated by: B2 Ch 53 — "I Was There" bible update_
+### RCI Monitors (Consumer Items)
+
+**Origin:**
+- Provenance: Industrial instruments (conduit maintenance equipment) repurposed as consumer products
+- First Appearance: B3 Ch 8 (Anchor margin district, 6 months post-Broadcast)
+- Circumstances: Sold by vendors at observation platform entrance
+
+**Description:**
+- Appearance: Portable, hand-size devices. Basic model displays single RCI reading in amber numerals. Enhanced model renders false-color gradient map on personal overlay, pulses when reading crosses advisory threshold.
+- Function: Measures Resonance Coherence Index (RCI) — the ambient field strength from nitro conduit infrastructure. Originally calibrated for technicians servicing Mid-Level grid. Now marketed to breach tourists.
+- Condition: New consumer products. Three colors available (enhanced model). Vendor display rack.
+
+**Pricing:**
+- Basic model: 50 creds (single reading, amber numerals)
+- Enhanced model: 120 creds (false-color gradient map, personal overlay integration, advisory threshold pulse)
+
+**Ownership:**
+- Vendors at Anchor margin district (Level 3, observation platform entrance)
+- Tourists (purchased for proximity excursions, shimmer viewing, RCI recording)
+
+**Symbolic Meaning:** Industrial instruments become consumer products. The tools that measured danger become the tools that sell proximity to danger. The measurement becomes the experience. The commodification of the field that consumed 8.2 million people.
+
+**Significance:** Breach tourism infrastructure. Commodification of suffering (tourists count RCI readings, Nuwa counts names). Speed of normalization (6 months from BLACKWEIR to consumer RCI monitors).
+
+**Current State:** Active (B3 Ch 8 forward, Anchor margin district economy)
+
+---
+
+### Dampening Fields (Portable)
+
+**Origin:**
+- Provenance: Military surplus — Stalker equipment designed for soldiers operating at breach perimeters
+- First Appearance: B3 Ch 8 (Anchor margin district, 6 months post-Broadcast)
+- Circumstances: Repurposed for breach tourism, sold/rented by vendors
+
+**Description:**
+- Appearance: Chest-mounted, canteen-size units worn on lanyards
+- Function: Generates localized counter-frequency that reduces hum amplitude within 1-meter radius. Originally designed for soldiers who operated at breach perimeters where RCI exceeded threshold the human nervous system could sustain without performance degradation.
+- Condition: Military surplus, consumer-marketed. Produces faint electronic whine beneath hum.
+
+**Pricing:** Included in shimmer tour package (200 creds, 90 minutes). Rental pricing not specified (implied available separately).
+
+**Ownership:**
+- Vendors at Anchor margin district
+- Tourists (rented for proximity excursions)
+
+**Symbolic Meaning:** Military technology repurposed for tourism. The equipment that let soldiers survive breach perimeters now lets tourists visit absorption zones. The survival tool becomes the commodity.
+
+**Significance:** Breach tourism infrastructure. Commodification of military survival technology. Contrast with Nuwa's survival (cracked implant, masonry-wall routing, body's accommodation vs. technological counter-frequency).
+
+**Current State:** Active (B3 Ch 8 forward, Anchor margin district economy)
+
+---
+
+### Polymer Fragments (Salvaged Sump Windows)
+
+**Origin:**
+- Provenance: Salvaged from Sump residential units post-BLACKWEIR — transparent polymer panels used as windows
+- First Appearance: B3 Ch 8 (Anchor margin district artifact vendors, 6 months post-Broadcast)
+- Circumstances: Cut to palm-size, smoothed edges, mounted on display stands, sold as absorption-event artifacts
+
+**Description:**
+- Appearance: Palm-size transparent polymer fragments, smoothed edges, mounted on small display stands. Some fragments have marks — handprints, pressure distortions, discoloration from contact between human skin and polymer during BLACKWEIR absorption event.
+- Function: Decorative objects. Collectibles. Evidence of proximity to absorption event.
+- Condition: Salvaged, processed (cut, smoothed, authenticated)
+
+**Pricing:**
+- Unmarked: 40 creds
+- Marked: 120 creds (handprints, pressure distortions visible)
+- Verified marked: 300 creds (absorption-event residue authenticated by Anchor Zone salvage crews)
+
+**Ownership:**
+- Artifact vendors (Level 2 maintenance corridor, Anchor margin district)
+- Tourists (purchased as collectibles, evidence of proximity)
+
+**Symbolic Meaning:** The window a hand went through becomes a product. The boundary between living and absorbed becomes a collectible. The residue of contact becomes verified merchandise. The suffering as artifact. 300 creds for a piece of the window a hand went through.
+
+**Significance:** Commodification of suffering (dominant theme B3 Ch 8). BLACKWEIR residue as product. Authentication of absorption-event contact as value-add. Nuwa's recognition: "The hand was now a product."
+
+**Current State:** Active (B3 Ch 8 forward, Anchor margin district artifact economy)
+
+---
+
+_Last updated: 2026-02-26 (B3 Ch 8 — "Both Systems"; RCI monitors, dampening fields, polymer fragments added)_
+_Updated by: Chapter-write workflow (full mode)_

@@ -2,10 +2,10 @@
 title: "Locations"
 type: bible-dimension
 dimension: locations
-lastUpdated: "2026-02-21"
-lastChapter: "B2 Ch 47"
-totalLocations: 20
-activeLocations: 15
+lastUpdated: "2026-02-26"
+lastChapter: "B3 Ch 8"
+totalLocations: 21
+activeLocations: 16
 project_name: "Untitled"
 ---
 
@@ -211,6 +211,43 @@ Neo-Shanghai is a vertical megacity spanning ~3.7km from Deep Sump (-200m below 
 **Current State:** Operational
 
 **Controlled by:** Mixed governance (corporate, civic, Academy)
+
+---
+
+### Anchor Margin District
+
+**Description:** Formed at the boundary between Mid-Levels residential corridors (Levels 2-3) and the Anchor Zone administrative perimeter, approximately 6 months post-Broadcast. Not on municipal maps. Operates on the logic of every district that forms at the edge of something the system cannot fully contain. Mixed light (amber conduit glow from Anchor Zone exposed infrastructure + institutional white from Mid-Levels = warm copper wash, double shadows). Hum louder than Mid-Levels residential baseline, climbing toward advisory threshold (14.7 RCI at observation platforms). The boundary acquired a margin, the margin acquired a population, the population acquired an economy.
+
+**Stratum:** Mid-Levels (Levels 2-3, at Anchor Zone perimeter)
+**RCI Range:** 12–15 (residential baseline to advisory threshold)
+**Characters Present:** Nuwa Lin (resident, 9th floor building 4 blocks north), Fen, Shuang (referenced), Yara (documentation group, visitor)
+
+**Resources:**
+- Breach tourism economy (observation platforms, RCI monitors, dampening fields, shimmer tours)
+- Vendor economy (food stalls, artifact vendors)
+- Market (Level 3, unchanged from pre-district formation)
+- Transit junction (Level 3, public display)
+
+**Dangers:**
+- RCI gradient (residential → advisory threshold at perimeter)
+- Commodification of proximity to absorption zone
+- Loss of invisibility for margin residents (network visibility, recognition in public spaces)
+
+**Key Interior Locations (established B3 Ch 8):**
+- **Observation Platforms (3 platforms, Level 3):** Cantilevered from structural beams at transit way/perimeter fencing junction. Improvised construction — reclaimed infrastructure materials (grey composite panels from decommissioned conduit housings). Extend 2 meters past municipal boundary into Anchor Zone airspace. Occupied by tourists with RCI monitors (basic 50 creds / enhanced 120 creds), recording readings. 14.7 RCI at platform edge (upper range Mid-Level normal, advisory classification).
+- **Food Stalls (Level 3, east wall):** 6 stalls in structural alcoves (originally emergency equipment storage). Thermal gradient rice bowls cooked on ambient RCI heat (conduit infrastructure beneath corridor floor channeled through metal grating). Amber tint from nitro-adjacent heating. Face observation platforms, foot traffic circulation between platforms and stalls.
+- **Artifact Vendor Corridor (Level 2):** Maintenance corridor beneath transit way. Alcove-stall configuration. Polymer fragments from salvaged Sump windows (palm-size, smoothed edges, display stands). Unmarked 40 creds / Marked 120 creds / Verified marked 300 creds (absorption-event residue authenticated by Anchor Zone salvage crews). Handprints, pressure distortions from BLACKWEIR contact.
+- **Market (Level 3):** Unchanged from pre-district formation. Vegetable stalls, dry goods vendors, unregistered cred accepted. Anchor economy predating tourism. Where Nuwa buys greens, rice, adhesive (11 creds, same price as 6 months ago).
+- **Transit Junction (Level 3):** Public display still scrolling headlines. Nuwa's overlay dead zone (tilts head to compensate). Recognition site (Yara approached Nuwa here).
+
+**Key Events:**
+- **B3 Ch 8 (~6 months post-Broadcast):** District fully formed. 3 observation platforms operational. RCI monitor economy (consumer items, 50-120 creds). Dampening field rentals (portable, chest-mounted, military surplus). Shimmer tours (200 creds, 90 minutes, dampening field included). Thermal gradient food stalls (6 stalls, cooked on ambient RCI heat). Polymer fragment vendors (salvaged Sump windows, 40-300 creds). Nuwa walks through with Fen, counts 47 names vs tourists counting creds. Recognized by Yara (documentation group) in transit corridor — loss of invisibility through being named in public space.
+
+**Significance:** The intertidal zone (epigraph). The boundary between stable states (Mid-Levels residential / Anchor Zone administrative) develops structural complexity because nothing in it is permanent. Organisms that colonize the boundary do not resemble organisms of either state. The district is its own system — adapted to destruction (absorption event), dependent on the cycle that destroys (commodifies proximity to the consumed). The absorption event as product. The suffering as economy. The speed of normalization (6 months from BLACKWEIR to shimmer tours) is the horror.
+
+**Current State:** Operational, expanding (construction blocked stairwell between Levels 2-3, new platform being installed)
+
+**Controlled by:** Informal (vendor economy, no municipal governance, operates in institutional gap at perimeter boundary)
 
 ---
 

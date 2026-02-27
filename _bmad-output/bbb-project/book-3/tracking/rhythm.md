@@ -48,6 +48,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 - B3 C1: solo quarterly review, dialogue 0%, wrist rotation absent and unnoticed, institutional register normalized, "She opened the next report"
 - Together they bracket the Broadcast: B2 C1 = six months post-BLACKWEIR, SHEPHERD seeded. B3 C1 = six months post-Broadcast, SHEPHERD dead. The machine continues.
 
+---
+
+### Chapter 8 — "Both Systems" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat accumulation (horror through inventory, not intensity) → recognition scene (brief physical tension) → resolving (closing inventory expansion)
+**Pacing:** Slow, deliberate. Six scenes + framing. Cyberpunk visuals delivered through inventory register, not atmospheric density.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening count (before eyes) | ~300 | Low-sustained | Counting ritual, frozen notification, cracked implant, morning routine |
+| Corridor to Anchor margin | ~400 | Low-sustained | Walking pace, Fen, Shuang reference, building reorganization |
+| Observation platforms | ~900 | Medium (accumulation) | Tourism economy, RCI monitors, dampening fields, shimmer tours, 47 names vs tourists' counts |
+| Food stalls | ~600 | Medium-sustained | Thermal gradient rice, tourist composition, "I was here" vs "I Was There" |
+| Artifact vendors (Level 2) | ~500 | Medium-high (horror peak) | Polymer fragments, hand through window, 300 creds, shared silence with Fen |
+| Market (Level 3) | ~300 | Low (anchor) | Unchanged, greens/rice/adhesive, unregistered cred |
+| Recognition scene | ~600 | Medium-high (physical) | Yara, "Nuwa Lin," loss of invisibility, reflex, "Good" |
+| Closing (evening) | ~600 | Resolving | Cooking, table, overlay, both systems, inventory larger, "not done" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "Nuwa counted." / "The tourists counted nothing." / "The hand was now a product." / "Good."
+- TEXTURE mode = quiet register. Horror in normalcy of commodification, not in atmospheric intensity. Paragraph density moderate.
+- Zero NBA deployment (deliberate — Nuwa inventories, does not grope toward expression)
+- Closing rhythm: paratactic declarations, inventory expansion, final lines shortest sentences in section ("The inventory was open. She was not done.")
+- Bimodal paragraphs: dense blocks (observation platforms, food stalls, vendor corridor, both systems reflection) + single-line punches (~25% 1-line)
+- Dialogue ~5% (short, clipped — "Yes." / "I know what the difference is." / "Good." / "Let's go see.")
+- Cyberpunk visuals: observation platforms, RCI monitors, false-color gradients, mixed light (amber + white = copper), double shadows, thermal gradient cooking, reclaimed infrastructure materials
+
+**Pacing Concern:** Risk of tourism economy feeling like worldbuilding exposition. Mitigated by: (1) filtering all visuals through Nuwa's inventory register (counts, prices, measurements); (2) 47 names vs tourists' counts as thematic anchor; (3) recognition scene as physical tension peak; (4) polymer fragment horror ("The hand was now a product") as emotional climax.
+
+**Structural Note:** B3C8 establishes Nuwa's dual-network role and loss of invisibility. Phase 1 equilibrium. The district has formed. The tourism has normalized. The commodification is complete. The horror is the speed (6 months). Chapter rhythm enacts this: steady accumulation, inventory-driven, the pace of normalcy. The counting continues. The inventory expands. She is not done.
+
+**Comparison to B2 C8:**
+- B2 C8: "Somewhere That Isn't" — data-orphan in margins, frozen notification, cracked implant, Fen introduced, table used for first time, "She was not free. She was unprocessed."
+- B3 C8: "Both Systems" — dual-network role, Lagos integration, recognized in public, table evolution (kept for company → used for herself), "The inventory was open. She was not done."
+- Together they bracket Nuwa's B2 arc: invisible → visible. B2 C8 = 6 months post-BLACKWEIR, alone, unprocessed. B3 C8 = 18 months post-BLACKWEIR, networked, recognized. The counting continues.
+
 **Closing Echo Evolution:**
 - B1 C1/B2 C1/C23: "The Chair opened the next report." — institutional identity
 - B2 C34: "She did not open the next report." — break
