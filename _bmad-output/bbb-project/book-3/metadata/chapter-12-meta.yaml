@@ -1,0 +1,116 @@
+---
+chapter: 12
+title: "Aggregate"
+pov: "Nikolai Volkov"
+book: 3
+phase: 2
+phase_name: "The Attempts — Correct and Insufficient"
+timeline: "~8 months post-Broadcast (~24 months post-BLACKWEIR)"
+location: "Vladivostok breach perimeter"
+mode: "TEXTURE"
+word_count: 4200
+draft_version: 1
+date_generated: "2026-02-27"
+status: "complete"
+
+# Chapter Summary
+summary: |
+  Eight months post-Broadcast. Nikolai at the Vladivostok breach perimeter — his third breach in four months at this site. Seven weeks of continuous observation have given him longitudinal data no institutional deployment ever provided. He observes the aggregate responding to throughput changes from Kindling strikes — immediate, structural, correlating with grid events rather than local conditions. Over weeks, the responses grow more complex: sub-harmonics, anticipatory frequency shifts. The aggregate is learning. He documents it in the field log — the critical data point that will eventually reach Sofia's model and AEGIS's architecture without Nikolai knowing.
+
+# Key Events
+key_events:
+  - Seven weeks of longitudinal observation at same site — continuity no deployment provided
+  - Throughput event at 11:47 — aggregate responds immediately to infrastructure change
+  - Aggregate does not respond to individual address (Jarek's name spoken once, nothing)
+  - Response complexity increasing over weeks — sub-harmonics, anticipatory shifts
+  - Field log entry "This is learning" — observation that aggregate is developing predictive capability
+  - Data point exists in isolation — no one who could use it will read it, no model it could inform will receive it
+
+# Character States
+characters:
+  nikolai_volkov:
+    arc_position: "Observer without institution — the scientist without the system"
+    psychological_state: "Focused, methodical, isolated. The practice of observation has replaced the practice of deployment."
+    key_actions:
+      - Stands outside tape at Vladivostok perimeter for seven weeks
+      - Says Jarek's name aloud once — aggregate does not respond
+      - Documents eleven throughput events and aggregate responses
+      - Writes field log entry identifying aggregate learning
+      - Checks hands (left index finger, four seconds) — still
+    key_dialogue: []
+    internal_conflict: "The observation exists in one private document. No one who could use it will read it. The data point that connects to the Proposition is isolated from the channels that could deliver it."
+    relationships_affected: []
+
+# Themes
+themes:
+  primary: "Systemic Complicity"
+  primary_expression: "The observer outside the system. Nikolai has the data the Proposition needs, but no institutional channel to deliver it. The system's failure is not suppression but isolation — the truth exists, documented, accurate, and structurally unreachable."
+  secondary: "Where Identity Ends"
+  secondary_expression: "The aggregate as collective intelligence. 8.2 million absorbed developing coordinated behavior, monitoring infrastructure, building predictive models. Not individual voices (Jarek) but collective organization."
+  tertiary: "Truth as Weapon"
+  tertiary_expression: "The field log as scientific record. Stripped of institutional language, the observations are precise, data-driven, honest. The truth is in the field log. The field log is in one man's pocket."
+
+# Continuity
+continuity:
+  callbacks:
+    - "B3 Ch 3: Vladivostok established, civilian clothes, field log expanding, aggregate murmur collective"
+    - "B2 Ch 49: Discharged, no rank, field log private, 'He listened' close"
+    - "B2 Ch 41: Voice event (individual names through P-Frames) — contrast with aggregate (collective, not individual)"
+    - "B2 Ch 25: FAS non-kinetic containment, scanner positioning as informal doctrine"
+    - "Hum discrepancy: 0.2 gap maintained (5.2/5.4)"
+    - "Hands-check: left index finger, four seconds, still"
+    - "Jaw clench: absent (transferred to Dekker B2 Ch 49)"
+    - "Yelena/Corridor: three references (calibration origin, superior listener, home)"
+  seeds:
+    - "Ch 29: Threshold volunteers — the break"
+    - "Ch 33-34: Proposition — Sofia/Nikolai data converges (this chapter's observation is the data point)"
+    - "Ch 41: Publishes field log under his own name"
+  objects_introduced: []
+  objects_used:
+    - "Field log (datapad) — warm from body heat, entries 47-57"
+    - "Lagos jacket — collar worn flat from three months Vladivostok weather"
+  locations_visited:
+    - "Vladivostok breach perimeter — third breach in four months, sub-grade conduit junction"
+
+# Technical Details
+technical:
+  epigraph:
+    source: "Principles of Signal Theory"
+    edition: "2142 ed."
+    text: "Signal: energy organized by a source. Noise: energy organized by nothing. The distinction requires knowing the source. When the source is unknown, the distinction is a choice."
+  voice_markers:
+    contractions: 0
+    nba_count: 1
+    nba_deployment: "Not reflection. Not resonance. Not the passive acoustic signature of a medium carrying environmental noise. *Anticipation.*"
+    almost_count: 0
+    dialogue_ratio: "0%"
+    closing: "The hum was 5.2. The instruments said 5.4. / He listened."
+  rhythm:
+    mode: "TEXTURE"
+    tension_shape: "Quiet escalation (seven weeks baseline) → acute event (11:47 throughput shift) → recognition (This is learning) → longitudinal accumulation (eleven events, anticipation)"
+    pacing: "Four-section structure. Perimeter/baseline ~700 words. Event ~1200 words. Recovery/learning ~800 words. Longitudinal ~1500 words."
+  numbers:
+    - "5.2/5.4 Hz (hum discrepancy, 0.2 gap)"
+    - "0.3 Hz (throughput drop)"
+    - "37 minutes (recovery time)"
+    - "11 events (seven weeks)"
+    - "7 weeks (observation period)"
+    - "Entries 47-57 (field log)"
+    - "0.1-0.3 seconds (anticipation interval)"
+    - "8.2 million (absorbed count)"
+
+# Cross-Thread Connections
+connections:
+  sofia_thread: "Throughput events are Kindling strikes (Nikolai doesn't know the term). His observation that aggregate monitors grid variables seeds the Proposition's core insight."
+  kira_thread: "Kindling coordination produces the throughput events Nikolai registers. The network Kira built creates the data Nikolai documents."
+  aegis_thread: "This field log entry will eventually reach AEGIS's architecture. The aggregate's learning is the precursor to the Proposition."
+
+# Notes
+notes:
+  - "Zero dialogue — unprecedented in Nikolai arc. Field log entries serve as chapter's voice."
+  - "Hum baseline 5.2/5.4 (vs. B3C3's 5.4/5.6) — different breach site within Vladivostok."
+  - "Third consecutive Nikolai chapter close with 'He listened' (B2C49, B3C3, B3C12)."
+  - "Field log entries are longest since tribunal — scientific record emerging."
+  - "Jarek's name spoken aloud once — aggregate does not respond. Individual address ineffective."
+  - "NBA deployment at anticipation moment — the chapter's perceptual breakthrough."
+---

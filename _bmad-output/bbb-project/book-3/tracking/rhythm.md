@@ -542,3 +542,59 @@ The numbers that were audience metrics (twelve million, 2.1 billion) and network
 Same antenna metaphor, verb shift: received (Broadcast event) → listening (maintenance) → continued (baseline) → coming (destination). The antenna that was passive receiver has become active trajectory. The proximity stream is not a plan. The proximity stream is where the antenna is going. The going is the drift's direction. The direction is the curve Nuwa recognizes and Kira cannot see.
 
 ---
+
+### Chapter 12 — "Aggregate" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Quiet baseline (seven weeks observation) → acute event (11:47 throughput shift) → recognition ("This is learning") → longitudinal accumulation (eleven events, anticipation)
+**Pacing:** Four-section structure. Perimeter/baseline ~700 words (17%). Event ~1,200 words (29%). Recovery/learning ~800 words (19%). Longitudinal ~1,500 words (35%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Perimeter/baseline | ~700 | Low-sustained | Seven weeks observation, containment team accommodation, aggregate murmur |
+| The event (11:47) | ~1,200 | Medium-rising | Throughput shift, aggregate responds, first field log entry, correlation documented |
+| Recovery/learning | ~800 | Medium-peak | Throughput recovers, aggregate modified, "This is learning," hands-check |
+| Longitudinal | ~1,500 | Medium-resolving | Eleven events, complexity increasing, anticipation (NBA), week-7 field log, closing |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The gap was consistent." / "A sound beneath the sound." / "He had not said the name again." / "The aggregate responded." / "Still." / "He listened."
+- TEXTURE mode = quiet register. Intensity in the observation (aggregate learning), not prose density. Paragraph density moderate.
+- Single NBA deployment: "Not reflection. Not resonance. Not the passive acoustic signature of a medium carrying environmental noise. *Anticipation.*" — the chapter's perceptual breakthrough, week-5 observation, the word no institutional classification contains.
+- Closing: "The hum was 5.2. The instruments said 5.4. / He listened." — third consecutive Nikolai close with these two words. The practice continues. The verb does not change. The context deepens.
+- Dialogue: 0% (unprecedented in Nikolai arc). Field log entries serve as chapter's voice — written register, operational, stripped of institutional vocabulary.
+- Four-section architecture: observation → event → documentation → accumulation. Adapted Nikolai pattern for presence-based (not deployment-based) observation. The structure mirrors the chapter's argument — continuity produces pattern recognition that isolated deployments cannot.
+- Bookend structure: "The perimeter had become a practice" (opening — seven weeks) → "He listened" (closing — the practice continues). The opening establishes continuity. The closing is the same verb as B2 Ch 49 and B3 Ch 3. The repetition is the practice.
+- Field log entries as dialogue substitute: Three entry sequences shown in full. The longest field log display in the Nikolai arc. The entries are the chapter's voice — Nikolai in conversation with the data.
+
+**Dialogue Percentage:** 0% (deliberate — solitary observation, field log as voice)
+
+**Pacing Concern:** Risk of zero dialogue feeling too internal. Mitigated by: (1) Field log entries function as dialogue — Nikolai's voice in written register; (2) Throughput event provides external action (infrastructure shift, aggregate response); (3) Seven weeks of observation compressed into longitudinal summary prevents repetition; (4) NBA deployment at anticipation moment provides focused perceptual peak.
+
+**Structural Note:** B3C12 is the scientist without the institution. Seven weeks at the same perimeter — continuity no deployment cycle ever provided. Nikolai observes the aggregate responding to throughput (Kindling strikes he doesn't know are Kindling strikes). The responses grow more complex: sub-harmonics, anticipatory shifts. The aggregate is learning. He documents it in the field log. The critical data point — "the variable the aggregate monitors is the variable the grid controls" — exists in one private document. No one who could use it will read it. No model it could inform will receive it. The chapter rhythm enacts this: quiet, methodical, data-driven, isolated. The observation is accurate. The observation is structurally unreachable. The system's complicity is not suppression but isolation.
+
+**Comparison to B3 Ch 3:**
+- B3 Ch 3: First Vladivostok breach, civilian clothes, field log expanding, aggregate murmur collective (not individual), PCC sergeant interaction, "He listened"
+- B3 Ch 12: Third Vladivostok breach (seven weeks later), same perimeter, field log longest entries since tribunal, aggregate learning documented, zero dialogue, "He listened"
+- Together they bracket Nikolai's B3 Phase 1-2 trajectory: Ch 3 = voluntary presence, observation without institutional frame. Ch 12 = longitudinal data, scientific record, critical observation isolated from Proposition channels. The practice deepens. The isolation deepens. The data accumulates.
+
+**Number Echo Evolution (Nikolai):**
+- B2 Ch 5: Six months, 6.1 Hz, 0.2 gap
+- B2 Ch 15: Accra, 0.2 gap
+- B2 Ch 25: 4.7 hours (FAS resolution time)
+- B2 Ch 41: 06:17 local, 11 seconds, 12 P-Frame units
+- B2 Ch 49: 3.8/4.0 (tribunal), 4.2/4.4 (Lagos), 38 forms, 15 years
+- B3 Ch 3: 5.4/5.6, 0.2 gap, 8.2 million, 11%, 15 years
+- **B3 Ch 12: 5.2/5.4, 0.2 gap, 0.3 Hz drop, 37 minutes (recovery), 11 events, 7 weeks, entries 47-57, 0.1-0.3 seconds (anticipation), 8.2 million**
+
+The numbers have shifted from institutional metrics (six months rotation, 38 forms, 15 years service) to observational data (Hz values, event counts, anticipation intervals). The field log's numbers are scientific. The institution's numbers were administrative. The shift tracks the arc: from soldier to scientist, from institutional observer to independent researcher, from VS-7 to field log.
+
+**Closing Echo Evolution (Nikolai):**
+- B2 Ch 41: "He stood at the window until the hum was all there was."
+- B2 Ch 49: "The hum was 4.2. / He listened."
+- B3 Ch 3: "The hum was 5.4. The instruments said 5.6. / He listened."
+- **B3 Ch 12: "The hum was 5.2. The instruments said 5.4. / He listened."**
+
+Same verb, same two-word close, same hum-then-listen structure. B2 Ch 49: listening on a Lagos street, freshly discharged, no destination. B3 Ch 3: listening at Vladivostok perimeter, voluntarily, first breach. B3 Ch 12: listening at same perimeter, seven weeks later, with data. The verb does not change. The context deepens. The practice is the practice. The listening continues.
+
+---
