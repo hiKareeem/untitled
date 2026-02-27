@@ -1000,5 +1000,60 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-26 (B3 Ch 8 — "Both Systems"; RCI monitors, dampening fields, polymer fragments added)_
+### Triage Map (NitroCore Strategic Display)
+
+**Origin:**
+- Provenance: Created by Marcus Thorne as visualization component of Strategic Adaptation Framework assessment
+- First Appearance: B3 Ch 9 (Thorne's office, operations wing, six months post-Broadcast)
+- Circumstances: Thorne's competence reactivated from maintenance to strategic recalculation
+
+**Description:**
+- Appearance: Operations display wall visualization. Facilities color-coded (essential vs expendable). Corridors weighted by throughput dependency. Twelve zones rendered as network graph with nodes sized by essentiality metrics.
+- Function: Visual representation of grid vulnerability analysis. Identifies thirty-one facilities that can be taken offline without cascade failure. Supports nine-percent voluntary throughput reduction strategy.
+- Condition: Active display, first new visual data object on Thorne's operations display since SHEPHERD's throughput curves were removed (B2 Ch 46)
+
+**Significance:**
+- Symbolism: Grid visualized as architecture of sacrifice — essential things surrounded by things that can be lost. Thorne's handwriting (architect's script) translated into infrastructure. The machine calculating which parts of itself to lose so that the rest can continue.
+- Stakes: Co-option strategy foundation. NitroCore becomes mechanism of reduction rather than target. Kindling resistance absorbed by institutional action.
+- Thematic: Architecture of Power (co-option as institutional immune system), Systemic Complicity (competence deployed for triage)
+
+**Current Owner:** NitroCore (Thorne's operations wing display, Aurielle reviewing)
+
+**History:**
+- B3 Ch 9: Triage map visible on Thorne's operations display. Aurielle enters office (first time in six months), observes map, requests facility-level data for thirty-one identified sites. Opens first facility file.
+
+---
+
+### Strategic Adaptation Framework Assessment
+
+**Origin:**
+- Provenance: Authored by Marcus Thorne, distributed via NitroCore board package automated system
+- First Appearance: B3 Ch 9 (arrives 06:00, six months post-Broadcast)
+- Circumstances: Appended to quarterly board package without Aurielle's request. Thorne's authorization code. Architect's digital script template (replicates handwriting proportions).
+
+**Description:**
+- Appearance: Fourteen-page document. Three sections: (1) Regulatory landscape analysis, (2) Grid vulnerability analysis, (3) Strategic positioning recommendation. Header carries Thorne's authorization code and digital architect's script.
+- Function: Strategic framework for NitroCore's response to throughput reduction pressure. Recommendation: lead reduction before reduction is imposed.
+- Condition: New document, first strategic framework from Thorne since SHEPHERD's termination
+
+**Content Summary:**
+- Section 1 (Regulatory landscape): Seven bilateral agreements, cumulative trajectory toward twelve-percent reduction in eighteen months. UGC injunction holds twenty-percent target in legal review while bilateral commitments exceed framework without enforcement mechanism.
+- Section 2 (Grid vulnerability): Thirty-one facilities expendable (secondary converters, expansion sites, peripheral nodes). Combined throughput reduction: nine percent. Identifies which facilities essential, which reducible, which corridors can absorb reduction without cascade.
+- Section 3 (Strategic positioning): NitroCore can resist and become target, or lead and remain essential. Grid survives by being essential. If grid resists reduction, becomes obstacle regulation is built to constrain. If grid leads reduction, remains essential service provider demonstrating responsible adaptation.
+
+**Significance:**
+- Symbolism: Thorne's competence reactivated. Not maintenance (C1 stasis), not optimization (SHEPHERD), but triage. Asset management applied to grid's own infrastructure. Co-option logic formalized.
+- Stakes: Establishes NitroCore's strategic response to Kindling strikes and bilateral reduction commitments. Makes Kindling irrelevant by absorbing their resistance into institutional action.
+- Thematic: Architecture of Power (grid adapts by absorbing threats), The Cost of Knowing (knowledge deployed for triage, thirty-one facilities identified as expendable)
+
+**Current Owner:** NitroCore executive suite (Aurielle, board distribution)
+
+**History:**
+- B3 Ch 9: Assessment arrives in board package. Aurielle reads from last page first (characterization habit). Walks to Thorne's office. Discusses bilateral trajectory, tolerance band, Kindling irrelevance. Requests facility-level data. Opens first facility file (of thirty-one).
+
+**Symbolic Arc:** First strategic document from Thorne since B2 Ch 46 ("We keep the grid running. We manage the infrastructure."). Evolution from maintenance to strategic recalculation. The institutional register finds something new to process. The machine is not cycling. The machine is building.
+
+---
+
+_Last updated: 2026-02-27 (B3 Ch 9 — "Thorne's Recalculation"; triage map, Strategic Adaptation Framework assessment added)_
 _Updated by: Chapter-write workflow (full mode)_

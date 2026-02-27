@@ -636,3 +636,30 @@ _Updated by: B2 Ch 23A — "Ground Level" (Aurielle, Neo-Shanghai site inspectio
 _Updated by: B2 Ch 33 — "Three Walked In" (Nephthys, primary Anchor perimeter, circulation discovered)_
 _Updated by: B2 Ch 44 — "0.003 Seconds" (AEGIS, global coherence transmission, 0.003-second generation/deletion)_
 _Updated by: B3 Ch 1 — "The Machine Continues" (Aurielle, six months post-Broadcast, Phase 1 equilibrium)_
+_Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment, co-option strategy, triage map)_
+
+**B3 Ch 9 — "Thorne's Recalculation" (Aurielle)**
+
+**Morning (06:00):**
+- Board package arrives via automated distribution
+- Contains quarterly review, regulatory exposure summary, infrastructure status report, and new section: "Strategic Adaptation Framework: Throughput Reduction Preparedness Assessment"
+- Assessment authored by Thorne, fourteen pages, recommendation: NitroCore should lead throughput reduction before reduction is imposed
+- Aurielle reads assessment at desk (reads from last page first—characterization habit)
+- Assessment details: Section 1 (regulatory landscape—seven bilateral agreements, cumulative trajectory toward 12%), Section 2 (grid vulnerability analysis—thirty-one expendable facilities, nine-percent reduction), Section 3 (strategic positioning—lead reduction and remain essential, or resist and become target)
+
+**Morning (09:15):**
+- Aurielle walks corridor to operations wing (third transit—breaks twice-daily pattern from Ch 1)
+- Thorne's door open (six months continuous), but operations display changed: triage map visible (facilities color-coded, corridors weighted, network graph with nodes sized by essentiality)
+- Aurielle enters Thorne's office (first entry in six months—Ch 1 observed from 300m)
+- Dialogue: bilateral trajectory discussion, tolerance band (Eduardo's twelve-percent engineering margin), Kindling strikes acceleration, co-option logic
+- Thorne: "They become irrelevant. Which is the point."—Kindling resistance absorbed by NitroCore leading voluntary reduction
+- Aurielle requests facility-level data (workforce impact, client transition timelines, regional dependency mapping)
+- Sits in chair across from Thorne's desk (briefing configuration reversed—she is in his office)
+- Opens first facility file (of thirty-one)
+
+**Key Developments:**
+- Thorne's competence reactivated from maintenance (Ch 1 stasis) to strategic recalculation (full voltage)
+- First Aurielle-Thorne dialogue since B2 Ch 46 (six months)
+- Co-option strategy established: NitroCore becomes mechanism of reduction rather than target
+- Triage map: first new visual data object on display since SHEPHERD's throughput curves removed (B2 Ch 46)
+- Closing echo shifts from cyclical ("the next report") to sequential ("the first facility file")—machine building, not cycling

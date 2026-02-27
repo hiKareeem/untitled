@@ -78,6 +78,73 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 - Observation platforms (3, cantilevered, reclaimed infrastructure materials)
 - RCI monitors as consumer products (industrial instruments → tourist equipment)
 - Dampening fields repurposed (military survival tech → tourism commodity)
+
+---
+
+### Chapter 9 — "Thorne's Recalculation" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Dominant | Co-option as institutional immune system. NitroCore leads throughput reduction before reduction is imposed. Grid survives by becoming mechanism of its own reduction rather than target. "The grid survived by becoming whatever the grid needed to become." Strategic positioning: resist and become target, or lead and remain essential. The grid's necessity survives reduction if reduction is managed by the asset. |
+| Systemic Complicity | Strong | Aurielle processes co-option logic through institutional vocabulary without resistance. Thorne's competence reactivated to calculate which facilities expendable. Thirty-one facilities = sites she can name, converters/junctions that employ people and serve clients, each identified as expendable because grid's survival does not require them. "They become irrelevant. Which is the point." — resistance absorbed by institution that produced conditions resistance is resisting. Competence as complicity: the recalculation is correct. |
+| The Cost of Knowing | Ambient | Knowledge deployed for triage, not prevention. Thorne knows which pieces grid can lose. Aurielle will review the numbers. The numbers will be correct. The knowledge produces the nine-percent reduction. The reduction produces Kindling irrelevance. The irrelevance produces grid survival. The cost: thirty-one facilities, workforce impact requested as data not processed as human cost. Knowledge without power to refuse what knowledge reveals. |
+| What Systems Do to People | Character theme | Thorne: competence reactivated from maintenance (C1 terminal function) to strategic triage (C9 full voltage). The same competence applied to different problem. Not building expansion (SHEPHERD), not maintaining infrastructure (post-Broadcast), calculating contraction (triage map). The architect who built the grid now calculates which pieces to lose. Aurielle: institutional register works better when it has strategic framework to construct than when merely maintaining. The horror: the register's reactivation feels like purpose. The machine found something new to process. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The institutional architecture that metabolizes threats (Broadcast absorbed into vocabulary, C1) now metabolizes resistance (Kindling absorbed into strategic framework, C9). Co-option is not cynicism—co-option is the machine's immune system. The grid adapts by absorbing what threatens it. The people who operate the grid are the immune system's operators. Their competence is the mechanism of absorption. The woman reviewing the numbers is the immune system calculating which antibodies to deploy.
+
+**Epigraph Integration:** Kurokawa, M. et al., *Principles of Adaptive Flow Systems*, 7th ed. (2138)
+- Thematic function: Industrial hydraulics register for institutional adaptation. "When a pressurized system encounters a sustained obstruction, the fluid does not stop. It redistributes. The obstruction determines the new flow geometry. The system that adapts to the obstruction fastest retains the highest throughput."
+- Oblique on first read: engineering manual, not obviously related to Aurielle's domain (corporate strategy, not fluid dynamics)
+- Resolves on reread: the grid IS a flow system (energy throughput). The Kindling/bilateral agreements are the obstruction. NitroCore's nine-percent voluntary reduction is the redistribution. The new flow geometry = triage map (facilities color-coded, corridors weighted, nodes sized by essentiality). The system that adapts fastest = NitroCore leading reduction before reduction is imposed.
+- Broader resonance: "The system that resists the obstruction breaks" = the grid that resists regulation becomes the target. The grid that adapts (co-opts the resistance) survives.
+
+**Co-option as Thematic Architecture:**
+- The Kindling implement throughput reduction by direct action (sabotage, facility targeting)
+- Bilateral agreements implement throughput reduction by voluntary commitment (seven agreements, cumulative trajectory toward 12%)
+- NitroCore implements throughput reduction by institutional action (nine percent, board-authorized, thirty-one facilities)
+- Result: Kindling's direct action becomes redundant when grid reduces itself
+- The resistance absorbed by the institution that produced the conditions the resistance is resisting
+- Co-option logic: grid survives Broadcast by absorbing Broadcast into vocabulary (C1). Grid survives reduction by absorbing reduction into operations (C9). Grid survives because grid adapts. Grid adapts because grid is essential. Grid is essential because nothing replaces it.
+
+**Triage Map as Symbolic Object:**
+- First new visual data object on display in Aurielle's arc since SHEPHERD's throughput curves removed (B2C46)
+- Facilities color-coded (essential vs expendable)
+- Corridors weighted by throughput dependency
+- Twelve zones rendered as network graph with nodes sized by essentiality metrics
+- The grid visualized as architecture of sacrifice: essential things surrounded by things that can be lost
+- Thirty-one facilities = the pieces the grid can lose and survive
+- Nine percent = the reduction that proves the grid can reduce voluntarily
+- The map is Thorne's handwriting translated into infrastructure
+- The infrastructure is the grid reorganized around the principle that the grid can lose pieces and survive if the right pieces are lost
+- The visualization makes the co-option logic visible: the machine calculating which parts of itself to lose so that the rest can continue
+
+**Eduardo's Tolerance Band as Inherited Constraint:**
+- Twelve percent = engineering margin Eduardo specified
+- Buffer that absorbed seasonal variation, maintenance cycling, routine fluctuations
+- Twelve percent = threshold where noise becomes signal
+- Bilateral trajectory reaching twelve percent in eighteen months
+- When bilateral commitments exceed tolerance band: grid experiences structural stress for first time since construction
+- Eduardo present as infrastructure specification, not personal object
+- Father as grid's design parameter
+- The tolerance band is the boundary. The recalculation operates within the boundary. The boundary is inheritance.
+
+**Closing Echo Shift (Cyclical → Sequential):**
+- B3 C1: "She opened the next report" (cyclical—the quarterly cycle, recurring, repetitive)
+- B3 C9: "She opened the first facility file" (sequential—beginning of new process, thirty more to follow)
+- Thematic function: machine not cycling, machine building
+- The echo object shift marks the chapter's thematic beat: institutional register found something new to process
+- Not managing the void (SHEPHERD, dead)
+- Not managing the infrastructure (maintenance, C1 stasis)
+- Managing the grid's institutional position (strategic adaptation, C9 reactivation)
+- The machine continues by adapting. The adaptation is the continuation.
+
+**Comparison to B3 C1:**
+- C1: Architecture of Power as stasis (machine continues, vocabulary metabolized revelation, enforcement vacuum)
+- C9: Architecture of Power as adaptation (machine adapts, co-option metabolizes resistance, strategic positioning)
+- Together they establish Phase 1 thematic arc: equilibrium (C1) → disruption (C9)
+- The horror of normalcy (C1: Broadcast absorbed) → the horror of adaptation (C9: resistance absorbed)
+- The machine that continued (C1) is now the machine that builds (C9)
+- Same institutional architecture. Different application. The system does not resist threats. The system absorbs them.
 - Shimmer tours (200 creds, 90 minutes, dampening field included)
 - Thermal gradient food (cooked on heat the absorbed generate, amber tint photographed before eating)
 - Polymer fragments (salvaged windows, verified absorption-event residue, 300 creds)

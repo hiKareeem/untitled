@@ -97,6 +97,75 @@ This document tracks emotional beats, character interiority, and affective reson
 
 13. **Closing inventory** — Physical (creds, food, adhesive, rent, four-minute packing) + data (junction coordinates, conduit densities, 47 names, topology, network, database, body's knowledge). Emotional weight: expansion. "The inventory was larger now. The inventory could not be packed." The work continues. "The inventory was open. She was not done." — Echo B2 Ch 18 "not done," evolved from personal (data chip) to structural (the work).
 
+---
+
+### Chapter 9 — "Thorne's Recalculation" (Aurielle Vasquez)
+
+**Emotional Arc:** Assessment arrival (institutional machinery) → reading sections 1-3 (Thorne's recalculation processed as data) → corridor walk (third transit, breaking pattern) → office entry (first time in six months, spatial shift) → dialogue (bilateral trajectory, co-option logic) → "They become irrelevant. Which is the point." → data request (not commitment) → closing accumulation (the grid would be smaller and the grid would continue) → "She opened the first facility file."
+
+**Emotional Register:** Institutional processing reactivated. Phase 1 B3 equilibrium disrupted. The machine finds something new to process. Emotions conveyed through institutional vocabulary, spatial geometry, Thorne's voltage assessment, co-option logic. The horror is that the recalculation is correct. The horror is that the institutional register works better when it has a strategic framework to construct than when it was merely maintaining.
+
+**Physical Tells:**
+- Hands on walnut surface (reading assessment) — vibration through desk, hum registered through infrastructure
+- Wrist rotation — not referenced (exited chapter's inventory, beyond C1's "absent and unnoticed")
+- Corridor walk — third transit, breaking twice-daily pattern established in C1
+- Office entry — first time entering Thorne's office in six months (C1: observed from 300m)
+- Sitting in chair across from Thorne's desk — briefing configuration reversed (she is in his office, not him in hers)
+- Hands flat on desk (Thorne) — posture of competence reactivated, full voltage
+
+**Emotional Beats:**
+
+1. **The board package** — Arrives at 06:00. Automated distribution. Institutional machinery that produces meeting materials the way the grid produces throughput data: on schedule, formatted, equivalent. Emotional weight: routine. The assessment she did not request arrives through the same channels as everything else. The machine delivers. She processes.
+
+2. **Reading from last page first** — Characterization through habit. The recommendation: NitroCore should lead the throughput reduction before the throughput reduction is imposed. Emotional weight: recognition. She reads the conclusion first because she processes data by verifying its boundaries. The habit is the institutional register's efficiency. The efficiency is her competence.
+
+3. **Thorne's architect script** — Digital template replicating handwriting's proportions. Not handwritten anymore, but the script's typography preserved. Emotional weight: continuity. The architect's signature maintained through institutional channels. The man who built the grid's infrastructure now calculates which pieces to lose. The script is the same. The application is different.
+
+4. **Eduardo's tolerance band** — Twelve percent. The engineering margin. The buffer that absorbed seasonal variation and maintenance cycling. Twelve percent is the threshold where noise becomes signal. Emotional weight: inheritance. Eduardo present as infrastructure specification, not as personal object. The father as the grid's design parameter. The tolerance band is the only Eduardo reference in the chapter. He exists as engineering margin.
+
+5. **Section two: triage** — Which facilities essential, which reducible, which corridors can absorb reduction without cascade failure. The analysis is precise. The analysis is the grid seen through Thorne's eyes. Emotional weight: competence recognized. She has been reading Thorne's competence for sixteen months. The competence is the same. The application is different. Not maintenance. Not optimization. *Triage.*
+
+6. **Section three: strategic positioning** — NitroCore could resist and become the target, or lead and remain essential. The grid survives by being essential. The grid has always survived by being essential. Emotional weight: structural logic. Not idealism, not cynicism, not strategy beyond survival. Asset management. The grid is the asset. The asset's value is its necessity. The necessity survives reduction if the reduction is managed by the asset.
+
+7. **Corridor walk — third transit** — 09:15. Not the morning walk, not the afternoon walk. Breaking the twice-daily pattern that has been the pattern for six months. Emotional weight: disruption. The equilibrium established in C1 is breaking. The pattern is breaking. She walks the corridor a third time because Thorne has produced something that requires her presence in his office, not his presence in hers.
+
+8. **Thorne's door open** — Six months. The composite panel in the open position. The same configuration she observed six months ago. But the operations display behind him is different. Not the twelve-zone baseline monitoring. Not the infrastructure maintenance data. The triage map. Emotional weight: reactivation. The stasis from C1 has broken. The door is still open. What is happening behind the door has changed.
+
+9. **The triage map** — Facilities color-coded, corridors weighted by throughput dependency, twelve zones rendered as network graph with nodes sized by essentiality metrics. Emotional weight: visualization. The grid reorganized around the principle that the grid can lose pieces and survive if the right pieces are lost. First new visual data object on a display in Aurielle's arc since SHEPHERD's throughput curves were removed in B2C46. The machine has something new to show.
+
+10. **Office entry — first time in six months** — C1: observed from 300 meters. C9: walks corridor and enters. Spatial shift structural. Emotional weight: proximity. The distance from C1 is closed. She enters his office. She sits in his chair. She reviews his display. The briefing configuration reversed. She came to him. He produced the recalculation. The geometry says: this is his framework, and she is reviewing it.
+
+11. **Thorne's voltage** — Full voltage. Not the reduced output she observed six months ago, the lower-register competence of a man who had asked *then what do we do* and received *we manage the infrastructure* and managed the infrastructure. The voltage is back. Emotional weight: recognition. The competence that always produced the institutional response is running at full capacity. Not SHEPHERD's voltage. A different current. The same competence applied to a different problem.
+
+12. **"They become irrelevant. Which is the point."** — Seven words. Period after "irrelevant" forces the pause. "Which is the point" arrives as separate sentence. Emotional weight: co-option logic in minimum expression. The Kindling's campaign is a threat because the Kindling are implementing throughput reduction by direct action. If NitroCore implements reduction by institutional action, the Kindling's direct action becomes redundant. The resistance is absorbed by the institution that produced the conditions the resistance is resisting. The sentence sits in the room. The sentence is the chapter's thesis.
+
+13. **Co-option** — The word does not appear in the assessment. The word is the assessment's architecture. The structural logic beneath the institutional vocabulary. The principle that the grid survived by becoming whatever the grid needed to become. Emotional weight: horror through clarity. The grid survived the Broadcast by absorbing the Broadcast into its vocabulary. The grid will survive the reduction by absorbing the reduction into its operations. The grid survives because the grid adapts. The grid adapts because the grid is essential. The grid is essential because nothing replaces it. The logic is clean. The logic is correct. That is the horror.
+
+14. **She did not say yes** — She did not say no. She did not ask for time. She did not invoke the board's authority or the compliance review process. Emotional weight: refusal to commit without data. She asks the question the institutional vocabulary produces when the institutional vocabulary encounters a framework that is structurally sound and strategically correct and requires only the data to confirm that the structure holds. "Show me the facility-level numbers."
+
+15. **The closing accumulation** — Penultimate paragraph. ~130 words. Stacked "and" clauses. The corridor outside was three hundred meters and the hum came through the building and the grid was the grid and the grid would be smaller and the grid would survive being smaller and the man at this desk had calculated which pieces to lose and the woman at the other desk would review the calculations and the calculations would be correct and the board would receive the package and the package would be authorized and the Kindling would become irrelevant and the bilateral agreements would ratify what NitroCore had already done and the regulatory architecture would converge on a framework that NitroCore had written and the grid would be smaller and the grid would be essential and the grid would continue. Emotional weight: institutional momentum. The chapter's thesis built through accumulation. The co-option logic rendered as inevitability. The machine calculating which parts of itself to lose so that the rest could continue.
+
+16. **"She opened the first facility file."** — Six words. Subject-verb-object. The simplest sentence in the chapter. Emotional weight: closing echo shift. From cyclical ("the next report" / "the quarterly schedule") to sequential ("the first facility file"). Same subject, same verb, different object. The word "first" signals thirty more. The opening of the first file is the beginning of the review that will produce the board authorization that will produce the nine-percent reduction. The echo has moved from cyclical to sequential. The machine is not cycling. The machine is building.
+
+**Emotional Absence:**
+- No grief for the thirty-one facilities (named as expendable without emotional content)
+- No concern for workforce impact (requested as data, not processed as human cost)
+- No resistance to co-option logic (processed as structurally sound)
+- No awareness of wrist rotation's absence (beyond inventory—not referenced at all)
+- No reference to handkerchief (exited active inventory alongside wrist rotation)
+- No deployment of "I know" (B2C46/C37 two-word anomaly not active in C9's register)
+
+The absences are the emotional content. The institutional register has rediscovered its utility. The register that processes everything has found something new to process: not managing the void, not managing the infrastructure—managing the grid's institutional position. The co-option is not cynicism. The co-option is the machine's immune system. The woman reviewing the numbers is the immune system's operator.
+
+**Comparison to B3 C1:**
+- B3 C1: Institutional register normalized, running on autopilot, Thorne maintaining, wrist rotation absent and unnoticed, "She opened the next report"
+- B3 C9: Institutional register reactivated, building strategic framework, Thorne recalculating, wrist rotation not referenced (exited inventory), "She opened the first facility file"
+- Emotional evolution: normalization of emptiness → reactivation through strategic framework. The shell that hardened into structure in C1 has found something to construct in C9. The machine is not cycling. The machine is building.
+
+**Character State:** Phase 1 B3 (Adjustment — "The Horror of Normalcy") disrupted. The equilibrium from C1 is breaking. The machine has found something new to process. The institutional register works better when it has a strategic framework to construct than when it was merely maintaining. The horror is that the recalculation is correct. The horror is that she will review the numbers and the numbers will be correct and the board will authorize and the grid will be smaller and the grid will continue. The co-option is the machine's survival. She is the machine.
+
+---
+
 11. **The wrist** — Absent and unnoticed. "She had not noticed." Emotional weight: doubly absent. The motion gone. The awareness of the absence gone. "The absence of a sound you stop hearing because the hearing has been running so long that the hearing is the silence and the silence is the hearing and the body does not report the cessation of a process the body has already reclassified as baseline." The body's version of what the institutional register is doing: processing the Broadcast as normal.
 
 12. **The closing compound sentence** — "The Broadcast had changed the vocabulary and had not changed the numbers and had not changed the dependency and had not changed the quarterly cycle and had not changed the distance between the altitude and the ground and had not changed the filtered air in the corridor and had not changed the hum through the walnut surface and had not changed the architecture and the architecture continued and the architecture was hers and she continued." Emotional weight: accumulation. The stacked negations build the chapter's thesis through repetition. Everything the Broadcast did not change. The revelation's impotence against the machine's continuation. The horror is the list. The horror is the length of the list. The horror is that the list could continue.

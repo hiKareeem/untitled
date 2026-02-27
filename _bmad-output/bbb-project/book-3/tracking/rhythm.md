@@ -86,14 +86,53 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 - B3 C8: "Both Systems" — dual-network role, Lagos integration, recognized in public, table evolution (kept for company → used for herself), "The inventory was open. She was not done."
 - Together they bracket Nuwa's B2 arc: invisible → visible. B2 C8 = 6 months post-BLACKWEIR, alone, unprocessed. B3 C8 = 18 months post-BLACKWEIR, networked, recognized. The counting continues.
 
+---
+
+### Chapter 9 — "Thorne's Recalculation" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (reading assessment) → medium rise (corridor walk, office entry, dialogue) → resolving (closing accumulation)
+**Pacing:** Front-loaded assessment processing (~1,400 words, 36%). Dialogue section ~1,200 words (31%). Closing accumulation ~400 words (10%). Remaining distributed across transitions.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Board package arrival | ~200 | Low-sustained | Institutional machinery, automated distribution, assessment header |
+| Assessment reading (sections 1-3) | ~1,200 | Low-sustained | Slow, data-driven, Thorne's recalculation processed through Aurielle's institutional register |
+| Corridor walk to operations wing | ~300 | Low-sustained | Walking pace, third transit (breaking twice-daily pattern) |
+| Thorne's office (entry + observation) | ~400 | Medium (spatial shift) | First entry in six months, triage map, voltage assessment |
+| Dialogue (bilateral trajectory, co-option logic) | ~1,200 | Medium-sustained | Clipped, institutional, mutual completion, "They become irrelevant. Which is the point." |
+| Closing (sitting, reviewing, opening file) | ~600 | Resolving | Penultimate compound accumulation → six-word closing echo |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "She had not requested the assessment." / "Twelve percent was the threshold where noise became signal." / "They become irrelevant. Which is the point." / "She did not say yes." / "She opened the first facility file."
+- TEXTURE mode = quiet register. Horror in bureaucratic co-option, not catastrophic event. Paragraph density moderate.
+- Single NBA deployment: "Not maintenance. Not optimization. *Triage.*" — chapter's single moment of recognition (what Thorne's competence is now doing)
+- Closing compound accumulation (~130 words, stacked "and" clauses) is chapter's only high-density passage. Builds co-option logic through institutional momentum. Earns position through accumulation.
+- Dialogue ~31% (first Aurielle-Thorne dialogue since B2C46) — operational, clipped, peer architecture resumed
+- Briefing configuration reversed: she enters his office (first time in B3), sits in his chair, reviews his display
+- Three-section architecture (assessment → corridor → dialogue) + closing coda echoes C1 structure but with reactivation instead of stasis
+
+**Dialogue Percentage:** ~31% (all Aurielle-Thorne, operational register)
+
+**Pacing Concern:** Risk of assessment sections feeling like exposition. Mitigated by: (1) Aurielle reads from last page first (characterization through process); (2) assessment filtered through her institutional processing register; (3) triage map as visual anchor; (4) dialogue section provides tension rise after sustained low register.
+
+**Structural Note:** B3C9 breaks C1's stasis. Thorne's competence reactivates from maintenance to strategic recalculation. First Aurielle-Thorne dialogue in six months. The machine finds something new to process: not managing the void, not managing the infrastructure—managing the grid's institutional position. Co-option as survival strategy. The grid survives by becoming the mechanism of its own reduction. Chapter rhythm enacts this: steady institutional processing (assessment reading) → spatial shift (corridor walk, office entry) → strategic dialogue (bilateral trajectory, Kindling irrelevance) → closing accumulation (the grid would be smaller and the grid would continue). The machine is not cycling. The machine is building.
+
+**Comparison to B3 C1:**
+- B3 C1: Thorne maintaining, door open, observed from 300m, dialogue 0%, "She opened the next report" (cyclical)
+- B3 C9: Thorne recalculating, door open, she enters office, dialogue 31%, "She opened the first facility file" (sequential)
+- Together they bracket Phase 1 Aurielle arc: C1 = equilibrium established (machine continues). C9 = equilibrium disrupted (machine adapts). The closing echo shifts from cyclical to sequential. The machine has found something new to process.
+
 **Closing Echo Evolution:**
 - B1 C1/B2 C1/C23: "The Chair opened the next report." — institutional identity
 - B2 C34: "She did not open the next report." — break
 - B2 C37: Three stacked negations + compound inventory sentence
 - B2 C46: "She opened the quarterly schedule." — new register
-- **B3 C1: "She opened the next report." — return**
+- B3 C1: "She opened the next report." — return (personal pronoun, cyclical)
+- **B3 C9: "She opened the first facility file." — shift (sequential, not cyclical)**
 
-The echo object that was broken (B2 C34), escalated (B2 C37), and replaced (B2 C46) has returned. With personal pronoun. The machine absorbed the break. Phase 1 B3 normalized the disruption. The report is the heartbeat. The heartbeat has resumed.
+The echo object shifts from quarterly cycle ("the next report" / "the quarterly schedule") to triage map ("the first facility file"). Same subject, same verb, different object. The word "first" signals thirty more to follow. The echo has moved from cyclical (recurring, repetitive) to sequential (beginning of new process). The machine is not cycling. The machine is building.
 
 ---
 
