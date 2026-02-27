@@ -166,6 +166,46 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 16 — "The Human Cost" (Sofia Reyes)
+
+**Mode:** PRESSURE
+**Tension Shape:** Data-sustained (detention feed, three operatives) → analytical-building (three clusters, dependency chains) → moral-deepening (Müller's analysis, Elena scene) → compound-effect confirmation → closing suspension (annotation without publishing)
+**Pacing:** Five-section structure. Opening (detention feed) ~400 words (11%). Second wave mapping (three clusters) ~1,000 words (26%). Dependency analysis ~800 words (21%). Compound effect + arrests ~600 words (16%). Elena scene ~600 words (16%). Closing (annotation) ~400 words (11%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Detention feed (three) | ~400 | Low-sustained | Data specificity, filing numbers, no names |
+| Second wave (three clusters) | ~1,000 | Rising | Gulf/Colombia/Mekong, dependency chains, 2.3M/400K populations |
+| Dependency analysis | ~800 | Medium-deepening | Müller's 340 pages, two readings, numbers becoming specific |
+| Compound effect + arrests | ~600 | Medium-sustained | Four strikes, mean 2.35, nineteen operatives, model improves/arrests accumulate |
+| Elena scene | ~600 | PEAK (moral) | Doorframe, tectonic resonance disclosure, "responsible for what model does not contain" |
+| Closing (annotation) | ~400 | Resolving-suspended | Writing without publishing, three screens, moral connection has no methodology |
+
+**Rhythm Notes:**
+- PRESSURE mode = controlled register under moral weight, intensity through data specificity not prose density
+- Paratactic dominant: "Three." / "She did not know their names." / "The math improved." / "Significantly." / "No." / "Yes."
+- Single NBA deployment: "The look was not accusatory. The look was not sympathetic. The look was the look of a woman who..." — Elena's clinical observation
+- Closing polysyndetic chain: "and the model improved and the arrests did not and the water supply for 2.3 million people was fourteen days on backup and the number sat in the margin of the printout in her handwriting and the handwriting was the only part of the system that was not data"
+- Dialogue ~12% — Elena scene only (9 lines), no real-time Erasure List channel. Structural choice: aftermath chapter, not real-time monitoring
+- Chapter's thesis: Elena's line "You are responsible for what the model does not contain" (10 words)
+- Three-monitor structure as narrative architecture: left (detention), center (dependency), right (compound effect) — three complete datasets that don't integrate
+- Chapter's number is three: operatives in custody, recurs throughout (three clusters, three dependency chains, three monitors, three datasets, three screens)
+
+**Dialogue Percentage:** ~12% (Elena scene — domestic, moral weight)
+
+**Pacing Concern:** Risk of data accumulation overwhelming narrative momentum. Mitigated by: (1) three-cluster structure provides clear progression; (2) Elena scene grounds moral weight in character relationship; (3) closing suspension is deliberate — writing-without-publishing as moral position; (4) dependency chains made concrete (desalination, clinics, manufacturing) not abstract.
+
+**Structural Note:** B3C16 is the moral-consequence chapter. Six weeks after B3C10's real-time monitoring. The data has been collected. The compound effect confirmed (mean 2.35 across four strikes). Nineteen operatives in custody. Second wave preparing (three clusters, larger scale). Sofia confronts gap between model (infrastructure) and consequences (people). Elena's generational mirror: mother's tectonic resonance data → NitroCore routing optimization → infrastructure density → daughter's model → Kindling operations. The annotation (dependency overlay) is Sofia's attempt to make model complete, but she doesn't publish it. Moral suspension IS the endpoint. Same institutional position Elena occupied for twenty years: correct research, unauthorized, conducted from home, not published through official channels.
+
+**Comparison to B3C4 and B3C10:**
+- B3C4: "She sat in the hum and waited for the data." — observation, twenty-three operations baseline
+- B3C10: "She sat in the hum and began revising the model." — analysis, compound effect discovered (factor 2.4)
+- B3C16: "She wrote the annotation and did not publish it and did not stop writing it..." — incomplete action, moral suspension
+- Verb evolution: waiting → revising → writing-without-publishing. Each closing marks arc position. Hum remains (0.5 Hz). Field kit remains (green). Arrests remain.
+
+---
+
 ### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
 
 **Mode:** TEXTURE → PRESSURE → TEXTURE
