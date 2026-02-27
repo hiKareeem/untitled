@@ -3,8 +3,8 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-02-26"
-lastChapter: "B3 Ch 5"
-totalCharacters: 16
+lastChapter: "B3 Ch 7"
+totalCharacters: 17
 project_name: "Untitled"
 ---
 
@@ -1133,6 +1133,8 @@ This bible dimension tracks **current character states**:
 | Paz | Supporting character update | B2C40 last appearance | **B3C6:** Referenced. Resupplied Lumina last week — noodle shop handoff. "Paz had said eighty was as high as anyone went." Friendship predates supply. Kira holds friendship and supply as separate facts. | Ch 6 (B3) |
 | Gail (pharmacist) | Supporting character update | B2C16 last appearance | **B3C6:** Dispenses Kira's psych meds. "Calloway. Ready for you." / "See you next month." Uncurated interaction maintained. Knows name and prescription history, nothing else. | Ch 6 (B3) |
 | Sofia Reyes | Cross-reference | B3C4 last appearance | **B3C6:** Encrypted message received by Kira — biological monitoring during Kindling strikes. Kira flags for regional coordinators. | Ch 6 (B3) |
+
+| Delegate Pereira | New character (background) | — | Brazilian representative, Standing Committee on Nitro Governance chair. Replaced Dr. Adeyemi after Adeyemi's rotation to tribunal panel. Reads motions into record (motion seven, B3 Ch 7). Functional role only — committee procedural machinery. | B3 Ch 7 |
 
 <!-- INSERT_NEXT_RECENT_CHANGES -->
 

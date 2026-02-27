@@ -197,6 +197,149 @@ The field log that was shadow document (B1) → contracting (B2 early) → conve
 - B2 Ch 26: 12% — the sacrifice-district threshold
 - B2 Ch 36: 7.3 seconds — the model's temporal resolution
 - B2 Ch 45: Eleven seconds — the transmission event's duration
+- B2 Ch 47: Forty minutes — vote to injunction
+- **B3 Ch 4: Twenty-three — Kindling operations confirmed. 11.4 hours — average grid reroute time. "The model had always been correct. The correctness had never been sufficient."**
+
+The number that was discovery (B1) → suppression (B2 early) → publication (B2 Ch 11) → distribution (B2 Ch 20) → threshold (B2 Ch 26) → resolution (B2 Ch 36) → transmission (B2 Ch 45) → political failure (B2 Ch 47) has become confirmation loop (B3 Ch 4). Twenty-three operations. Each confirms. Each fails. The monitoring continues.
+
+---
+
+### Chapter 5 — "Lumina" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Data-processing sustained (network dashboard) → ritual-grounding (pharmacy scene) → performance-drift (stream scene) → meditative-resolving (closing)
+**Pacing:** Four-scene structure. Network dashboard ~900 words (22%). Pharmacy ritual ~1,200 words (29%). Stream scene ~1,400 words (34%). Closing ~600 words (15%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Network dashboard | ~900 | Low-sustained | Filing three dark mages, data categories, equilibrium analysis |
+| Pharmacy ritual | ~1,200 | Low-meditative | Clicking capsules, 30-day holder, grounding replacement for Academy |
+| Stream scene | ~1,400 | Medium-drift | Ring light impulse, audience reaction, "the material fails," dramatic irony peak |
+| Closing | ~600 | Resolving | Signal continuous, "It always continued." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The network ran itself." / "She began sorting." / "It was not her." / "The floor held." / "It always continued."
+- TEXTURE mode = quiet register. Horror in drift — personality erosion visible to reader, invisible to Kira. Paragraph density moderate.
+- Two NBA deployments (at max target): "Not because the network had stopped growing..." (equilibrium analysis) and "Not spoken. Not remembered. Present..." (filing system as Tuesday)
+- Closing: "It always continued." — three words. Echo of B2 closings. The hum as permanent condition.
+- Dialogue ~6% (stream scene only — chat reactions, Kira's stream-voice). Filing-language register in narration. Stream-voice clipped, faster, meaner (drift visible through performance).
+- Four-scene architecture: data processing → ritual grounding → performance drift → continuation. The rhythm is the mechanism. The mechanism includes not noticing.
+- Bookend structure: network dashboard (opening, three dark) → closing (signal continuous). The attrition continues. The architecture absorbs it.
+
+**Dialogue Percentage:** ~6% (minimal — stream scene only, TEXTURE mode appropriate)
+
+**Pacing Concern:** Risk of drift feeling invisible (mechanism includes not noticing). Mitigated by: (1) Dramatic irony — reader sees what Kira cannot; (2) Audience reaction ("growth," "authentic") provides external mirror; (3) "The material fails" cruelty marker; (4) Ring light impulse (action without decision) seeds Ch 20.
+
+**Structural Note:** B3C5 establishes Phase 1 equilibrium for Kira thread. Six months post-Broadcast. Lumina 80mg maintenance. Network 214/31 stable (growth = attrition). Personality drift onset — sharper, faster, meaner. The drift includes not noticing. The filing system that organized the world cannot organize the filer. The drug removed Kira. What was left heard clearly. Chapter rhythm enacts this: steady, functional, the pace of maintenance dosing. The floor held. The floor was not a ceiling anymore.
+
+**Comparison to B2 Ch 51:**
+- B2 Ch 51: 80mg maintenance established. Tuesday memory gap. Ring light mostly off. 2.1B views aftermath. "The eighty held."
+- B3 Ch 5: 80mg maintenance continued. Memory gaps ongoing (Tuesday + two more). Ring light impulse without decision. Personality drift visible through stream. "The floor held."
+- Together they bracket the maintenance period: B2 Ch 51 = 80mg as new baseline, drift beginning. B3 Ch 5 = 80mg as floor not ceiling, drift accelerating. The mechanism's design includes not recognizing the mechanism.
+
+**Dosage Echo Evolution:**
+- B2 Ch 6: 60mg via Paz — first mention
+- B2 Ch 32: 80mg (Mumbai relay, "past Paz's line")
+- B2 Ch 40: 80mg (Second Broadcast, amplification medium)
+- B2 Ch 51: 80mg maintenance, filters signal
+- **B3 Ch 5: 80mg as floor. "Paz had said floors don't move. Paz had said ceilings do."**
+
+The dosage that was threshold (B2 Ch 32) → amplification (B2 Ch 40) → maintenance (B2 Ch 51) has become floor (B3 Ch 5). Not a ceiling anymore. Escalation trajectory established. Ch 11 seeds 90mg.
+
+---
+
+### Chapter 6 — "The Deliberative" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Observational-sustained (correspondence on desk) → analytical-theological (voluntarist position) → institutional-diagnostic (Church freefall) → meditative-accumulative (notes, not encyclical, closing)
+**Pacing:** Four-section structure. Correspondence observation ~900 words (20%). Threshold theology analysis ~1,400 words (31%). Church freefall ~1,000 words (22%). Notes/closing ~1,200 words (27%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Correspondence on desk | ~900 | Low-sustained | Six months in the open, not published, deliberative paralysis |
+| Voluntarist analysis | ~1,400 | Medium-analytical | Category confusion (presence ≠ participation), theological precision |
+| Church freefall | ~1,000 | Medium-diagnostic | Diaspora, no tools, encyclicals don't work, councils require attendance |
+| Notes/closing | ~1,200 | Medium-accumulative | Not encyclical, the deliberative who cannot act, locked study empty |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The correspondence was on his desk." / "He had not published it." / "Notes." / "The key was still on the cord."
+- TEXTURE mode = quiet register. Horror in paralysis — the deliberative who sees through the error but cannot refute it without invoking the boundary Nephthys never defined. Paragraph density moderate to high in theological sections.
+- One NBA deployment (at minimum target): "Not presence. Not participation. *Circulation.*" — theological precision on the category confusion
+- Closing: "The key was still on the cord. The room had no function." — two sentences. The locked study that held the correspondence now holds nothing. The architecture persists. The function is gone.
+- Dialogue 0% (deliberate — Malachi alone, analytical register, the deliberative in isolation)
+- Four-section architecture: observation → analysis → diagnosis → notation. The rhythm is theological processing. The processing produces notes, not action.
+- Bookend structure: correspondence on desk (opening, six months in the open) → locked study empty (closing, key on cord, no function). The paralysis held.
+
+**Dialogue Percentage:** 0% (deliberate — analytical isolation, TEXTURE mode appropriate)
+
+**Pacing Concern:** Risk of theological analysis feeling static. Mitigated by: (1) Voluntarist position as concrete error to analyze; (2) Church freefall as institutional context; (3) "Notes, not encyclical" as deliberative endpoint; (4) Locked study emptiness as architectural marker.
+
+**Structural Note:** B3C6 establishes Phase 1 equilibrium for Malachi thread. Six months post-Broadcast. Correspondence on desk, not published. Threshold theology articulated (voluntarist position). Church in freefall — diaspora, no tools. The deliberative who sees the error cannot refute it without invoking Nephthys's undefined boundary. Notes, not encyclical. The locked study empty. Chapter rhythm enacts this: steady, analytical, the pace of theological processing without institutional action. The deliberative held. The deliberation produced notation, not doctrine.
+
+**Comparison to B2 Ch 50:**
+- B2 Ch 50: Correspondence arrives. Hands do not fold (broken B2 Ch 39). Encyclicals stopped (B2 Ch 39). Closing cadence broken (B2 Ch 27). The tools exhausted.
+- B3 Ch 6: Correspondence on desk (six months, not published). Hands still do not fold. No encyclicals. Notes instead. Locked study empty (key on cord, no function).
+- Together they bracket the correspondence period: B2 Ch 50 = arrival, tools exhausted. B3 Ch 6 = six months later, deliberative paralysis, notes not encyclical. The analyst who cannot act.
+
+**Tool Echo Evolution:**
+- B1/B2 early: Encyclicals as primary tool, councils as secondary, diocesan authority functional
+- B2 Ch 27: Closing cadence broken (first tool failure)
+- B2 Ch 39: Hands do not fold, encyclicals stopped (tools exhausted)
+- B2 Ch 50: Correspondence arrives, no tools remain
+- **B3 Ch 6: Notes, not encyclical. "Encyclicals don't work on a diaspora, councils require attendance, diocesan authority requires dioceses."**
+
+The tools that were functional (B1) → failing (B2 Ch 27) → exhausted (B2 Ch 39) → absent (B2 Ch 50) have been replaced by notation (B3 Ch 6). The deliberative who cannot act. The analyst without institutional authority. The notes accumulate. The Church fractures.
+
+---
+
+### Chapter 7 — "The Pen Continues" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Observational-sustained (gallery, flag/pass degradation) → procedural-grinding (committee session, proposal dies) → documentary-meditative (residence, writing Section 9) → declarative-resolving (closing, pen continues)
+**Pacing:** Four-scene structure. Gallery observation ~1,000 words (26%). Committee session ~1,400 words (36%). Residence/writing ~1,100 words (28%). Closing ~400 words (10%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Gallery observation | ~1,000 | Low-sustained | Flag degradation (red triangle lost), grey pass typography fade, institutional decay visible through symbols |
+| Committee session | ~1,400 | Low-grinding | Motion seven processed, proposal tabled, procedural machinery, dramatic irony (reader knows proposal is dead, committee processes as if alive) |
+| Residence/writing | ~1,100 | Low-meditative | Section 9 written, replacement document 63 pages, notebook nearly full, hum dual register |
+| Closing | ~400 | Resolving | Parallel decay (flag fading/ink persistent), "The pen continued." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The flag was not an emergency." / "NitroCore's motions." / "The committee was on motion seven." / "The pen continued."
+- TEXTURE mode = quiet register. Horror in institutional grinding — the machinery processes, the processing prevents, the prevention is architecture. Paragraph density moderate to high in procedural sections (deliberate — syntax mirrors bureaucratic accumulation).
+- One NBA deployment (at minimum target): "The proposal was not rejected. The proposal was tabled indefinitely." — reserved for proposal's death, maximum impact
+- Closing: "The pen continued." — three words. Echo of B2 Ch 17/52. The inheritance as continuation.
+- Dialogue 0% (deliberate — Zeyad observes and writes, no spoken exchanges)
+- Four-scene architecture: observation → procedural grinding → documentary writing → continuation. The rhythm is institutional processing. The processing prevents action. The pen continues anyway.
+- Bookend structure: Jordanian flag (opening, red triangle lost) → pen continues (closing, ink persistent). Parallel decay — institution degrades, record accumulates, neither affects the other.
+- Long sentence flag: NitroCore's seventeen motions paragraph is deliberate run-on mirroring procedural accumulation. Sentence structure performs the grinding.
+
+**Dialogue Percentage:** 0% (deliberate — observation-only, TEXTURE mode appropriate for Zeyad's institutional isolation)
+
+**Pacing Concern:** Risk of procedural grinding feeling inert. Mitigated by: (1) Dramatic irony — reader knows proposal is dead, committee processes as if alive; (2) Motion seven's *non-institutional* classification echoes Sofia/Mirelle (institutional pattern visible); (3) Section 9 writing provides documentary focus; (4) Parallel decay (flag/ink) provides thematic resolution.
+
+**Structural Note:** B3C7 establishes Phase 1 equilibrium for Zeyad thread. Six months post-Broadcast. Tribunal grinding forward. De-escalation proposal tabled indefinitely via NitroCore's seventeen procedural motions. Replacement document 63 pages, Section 9 written. Notebook nearly full (5-6 pages remaining). Grey pass degraded (typography fading). Jordanian flag red triangle lost. The pen continues because the pen is the only thing that still works. Chapter rhythm enacts this: steady, institutional, the pace of procedural machinery. The architecture processes. The processing prevents. The pen continues.
+
+**Comparison to B2 Ch 52:**
+- B2 Ch 52: Vote passed, injuncted in forty minutes. Replacement document in progress. Pen continues. "The pen was in his hand."
+- B3 Ch 7: Proposal tabled via seventeen motions. Replacement document 63 pages, Section 9 written. Pen continues. "The pen continued."
+- Together they bracket institutional impotence: B2 Ch 52 = vote to injunction (forty minutes). B3 Ch 7 = proposal to tabling (procedural accumulation). The machinery prevents. The pen continues.
+
+**Pen Echo Evolution:**
+- B2 Ch 7: Khalil's pen, breast pocket, writes questions during tribunal
+- B2 Ch 17: Lagos, writes framework document, "the pen continues"
+- B2 Ch 31: Lagos Anchor Zone, pen still during news then resumes
+- B2 Ch 42: Broadcast event, pen still through three scenes then writes replacement document opening line
+- B2 Ch 52: Forty minutes, pen continues replacement document
+- **B3 Ch 7: Section 9 written, notebook nearly full, "The pen continued because the pen is the only thing that still works."**
+
+The pen that was institutional tool (B2 Ch 7) → framework writer (B2 Ch 17) → witness (B2 Ch 31/42) → replacement document writer (B2 Ch 52) has become only functional tool (B3 Ch 7). The pen continues. The continuation is the inheritance. The inheritance is not the outcome.
+
+---
 - B2 Ch 47: Forty minutes — the institutional compensation speed
 - **B3 Ch 4: Twenty-three — the count of demonstrations that work locally and fail systemically. 11.4 hours — the infrastructure's compensation speed.**
 
