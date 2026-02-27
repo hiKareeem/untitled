@@ -497,6 +497,71 @@ All Phase 1 closings enact continuation. B3C9 adds temporal dimension: the machi
 
 **Grid Rerouting as Antagonist:** Not human opposition. Not institutional resistance. Engineering tolerance. "The grid did not know why three facilities had gone offline. The grid did not process intent. The grid processed load, and load had shifted, and the automated systems were correcting." The same architecture that prevents cascading failure prevents cascading reduction. The tolerance that keeps the lights on is the tolerance that keeps the absorption running. The grid's self-correction is the structural antagonist. Sofia must defeat the grid's engineering, not its operators.
 
+---
+
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Moral Obligation to Consequences | Dominant | Sofia did not coordinate the strike. She published the model. The Kindling read it and acted. Three of seven operatives arrested. Two manufacturing zones offline for fourteen hours. Hospital on backup generators (8-14 hours capacity). 340,000 people inside an infrastructure dispute they did not choose. "Three people were arrested today," Sofia says at dinner. Elena's response: "Your model is improving. Their arrests are not." The moral weight delivered through data juxtaposition, not emotional language. Being correct produces consequences. The consequences are human. |
+| Systemic Complicity | Strong | Grid compensation as structural antagonist. The model works: 39% throughput reduction → 94% breach reduction (compound effect, factor 2.4). Grid compensates: hour nine rerouting begins, thirty-six hours to baseline restoration. The same redundancy architecture that prevents cascading failure prevents sustained reduction. Sofia's model is correct. The grid's engineering defeats the model's correctness. "To reduce everywhere, you need to strike everywhere at once." The global coordination required is the coordination the Kindling cannot achieve. The system's resilience is the system's defense. |
+| Truth as Weapon (evolved) | Strong | The model is no longer Sofia's. She published it. The Kindling weaponized it. "She did not coordinate them. She did not know when the next coordinated strike would occur or where or how many facilities would be targeted. She would see it in the data the way she had seen this one." The weapon is wielded by others. The scientist who published truth watches truth become operational framework for infrastructure sabotage. The arrests are consequences of publication. The revised model (compound effect, 12-15% target) will be published through the same cascade protocol. The cycle continues. |
+| What We Owe | Emerging | Elena's parallel trajectory (geophysicist, NitroCore absorbed her work, authorship erased, unauthorized research from home) is Sofia's future written twenty years early. Elena recognizes it. Sofia processes it. "Elena had been the data." The dinner scene: Elena references 11.4-hour number from Ch 4 without prompting (she remembers the numbers), delivers moral assessment through scientific register ("Your model is improving. Their arrests are not."), does not tell Sofia what to feel. The mother who did the same work in the same room recognizes the same trap. What Sofia owes: continuation. What Elena offers: witness without instruction. |
+
+**Key Resonance:** Moral Obligation to Consequences ↔ Truth as Weapon (evolved). The model that was Sofia's (B2 Ch 45: de-escalation proposal, 20%/5 years) became the Erasure List's (B3 Ch 4: 34 researchers, 14 countries, distributed methodology) and is now the Kindling's (B3 Ch 10: operational framework, coordinated strikes, arrests). The evolution: personal research → collaborative science → weaponized infrastructure knowledge. Sofia's obligation shifts from "publish the truth" (B2) to "process the consequences of truth being used" (B3). The Kindling operatives are infrastructure workers who built the system. They understand the model because they understand the infrastructure. The knowledge is theirs. The arrests are theirs. The model is correct. The arrests are consequences of correctness.
+
+**Epigraph Integration:** Marchetti, L., *Field Guide to Hive Diagnostics*, 4th ed., PCC Agricultural Extension (2161)
+- Thematic function: Apiculture — colony collapse disorder. Oblique, tangentially related, rewarding on reread.
+- First read: Dying bees. Coordinated defensive behavior without viable queen. Brood pattern visible only after the fact.
+- Reread: The Kindling executing inherited protocols (Sofia's model) without viable queen (Sofia not coordinating). The behavior resembles health (coordinated strikes, model validation). The colony is still dying (grid compensates, baseline restored in thirty-six hours). The "brood pattern" is the data Sofia reads post-strike — the compound effect discovered after the fact, not predicted before.
+- No relationship to atmospheric science on first pass. Not within Sofia's domain. The epigraph is about systems executing protocols without central coordination, appearing functional while terminal dynamics persist.
+
+**Compound Effect as New Plot Element:**
+- **Discovery:** Multi-facility coordination produces nonlinear breach response (factor 2.4 — disproportionate to throughput reduction)
+- **Data:** First reading: 31% throughput → 82% breach reduction (factor 2.6). Refined: 39% throughput → 94% breach reduction (factor 2.4 final).
+- **Implication:** Global reduction target drops from 20% (linear model) to 12-15% (compound effect model) if nonlinearity holds
+- **Status:** One data point. Needs replication. "One data point is an observation. Two is a pattern. Three is a finding." The Kindling will provide replication.
+- **Intersection with Aurielle arc:** Thorne's 9% voluntary reduction (B3C9) approaches revised 12-15% threshold. If compound effect holds, NitroCore's co-option strategy accidentally becomes more effective than intended. The grid's strategic positioning (lead reduction before reduction imposed) intersects with Sofia's revised model (lower threshold required). The structural intersection is not textual — neither character knows the other's numbers.
+
+**Erasure List Channel as Dialogue Vehicle:**
+Four named researchers (functional scientific community in exile):
+- **Phan** (Ho Chi Minh City, Southeast Asian Atmospheric Institute, retracted paper on conduit-proximity sleep disruption) — local monitoring, flat register, fourteen hours on channel past midnight
+- **Lam Duc Minh** (Da Nang, University of Da Nang, atmospheric chemist) — breach monitoring, voice thinned by hour nine fatigue
+- **Novak** (Kraków, University of Warsaw, atmospheric physics, conduit-proximity cancer clusters paper triggered funding review) — European feeds, inter-zone tracking, keys audible, instrument-checking pauses
+- **Müller** (Düsseldorf, European Atmospheric Institute, health infrastructure access via WHO collaboration) — dependency mapping, hospital feeds
+
+The dialogue is operational (data requests, confirmations, numbers). No exposition. Voices individuate through fatigue, compressed audio, procedural pauses. The channel is scientific community after institutional expulsion. Parallel to Nuwa's testimony network, Nephthys's counter-liturgy, Nikolai's discharged-soldier perimeter presence — the institutions that form in the margins after the primary institutions fail or expel.
+
+**Elena's Line — "Your model is improving. Their arrests are not."**
+Eight words. The chapter's moral thesis. Elena's register (declarative, precise, geophysicist) compresses the gap between scientific progress and human consequence into parallel construction. Subject-verb. Subject-verb. Model improving (scientific success). Arrests not improving (human cost). The juxtaposition is the argument. Elena does not tell Sofia what to feel. Elena presents the data. The register is scientific. The meaning is maternal. The line carries both simultaneously.
+
+Parallel to other parental assessments: Miguel's "You will eat" (logistics-as-care, not question), Elena's B3C4 "They have gotten faster" (forty minutes institutional response time, compressed with bitter precision). The parents who express care through data, logistics, observation — not emotional vocabulary.
+
+**Closing Echo Evolution (Sofia):**
+- B2 Ch 47: "The forty minutes were the answer." — political failure, injunction
+- B3 Ch 4: "She sat in the hum and waited for the data." — monitoring loop, observation
+- **B3 Ch 10: "She sat in the hum and began revising the model." — analytical progression, revision**
+
+Same posture (sitting in hum, field kit pulsing, monitors displaying). Verb shift: waiting → revising. The data arrived (compound effect discovered). The model changes (12-15% target replaces 20%). The arrests began (three of seven). But the penultimate sentence is the thesis: "and the model improved and the arrests did not." The closing sentence is the posture (what Sofia does). The penultimate sentence is the meaning (what the doing costs).
+
+**Number Echo Evolution (Sofia):**
+- B3 Ch 4: Twenty-three (Kindling operations, each confirms and fails). 11.4 hours (mean grid reroute time). "The model had always been correct. The correctness had never been sufficient."
+- **B3 Ch 10: Thirty-one (throughput reduction percentage — the proof). Factor 2.4 (compound effect — the revision). Three of seven (arrests — the cost). Nine hours (rerouting delay — longer than 11.4 mean). Thirty-six hours (baseline restoration). "The model improved and the arrests did not."**
+
+The number that was confirmation loop (Ch 4) has become proof and cost (Ch 10). Thirty-one percent proves the model works. Three arrests prove the model's use has consequences. The monitoring continues. The revision begins. The arrests begin. Each number carries different aspect of the thesis: proof (31%), mechanism (factor 2.4), cost (3 of 7), duration (9 hours, 36 hours).
+
+**Symbolic Objects:**
+
+**The Scatter Plot:** Twenty-three points on proportional line (single-facility operations, linear response). Twenty-fourth point above the line (coordinated strike, nonlinear response). The outlier is the revision. The space between the line and the point is the space between individual action and collective action, between what the model predicted and what the model could not predict because the calibration data was insufficient. The compound effect visible only after coordinated action occurs. Parallel to epigraph: the brood pattern visible only after the fact.
+
+**Elena's Arroz con Pollo:** Sofrito (one hour preparation), olives (Miguel bought at market, Elena specified the kind). The table cleared of data printouts (first time in decades — kitchen table restored to non-research function). The domestic architecture around the crisis data. Food as care-without-naming. Miguel's logistics, Elena's precision, Sofia's technical answer to neighbor's solar array question. The family that processes the world through data, logistics, technical analysis — eating together while the Mekong sector recovers and three people sit in detention and the model revises itself.
+
+**The Glass of Water:** Miguel brings it. Precise placement (away from instruments — the materials engineer who understands you do not set things near equipment). Cold. Sofia drinks half before returning to monitors. The interruption that is care. The logistics-as-love. Parallel to Elena's plate of food (B3C4), Miguel's market trips, the avocado that means father went shopping. The parents who express concern through provision, not emotional vocabulary.
+
+**Closing Line Analysis:** "She sat in the hum and began revising the model." Nine words. Subject-verb-preposition-article-noun-conjunction-verb-gerund-article-noun. The simplest compound sentence. The posture (sitting in hum) echoes Ch 4. The action shifts: waiting → revising. The model that was complete (Ch 4: twenty-three confirmations, linear correlation established) is now incomplete (Ch 10: compound effect discovered, one data point, needs replication). The revision is the practice. The practice continues. But the sentence before the closing is the meaning: "and the model improved and the arrests did not." The closing is what Sofia does. The penultimate is what the doing costs.
+
+---
+
 **Comparison to other B3 closings:**
 - B3C1: "She opened the next report." (institutional heartbeat resumed)
 - B3C2: "The Cathedral was quiet. The chorus was not." (silence ≠ absence)

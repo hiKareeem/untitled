@@ -353,6 +353,69 @@ The dosage that was threshold (B2 Ch 32) → amplification (B2 Ch 40) → mainte
 
 **Pacing Concern:** Risk of theological analysis feeling static. Mitigated by: (1) Voluntarist position as concrete error to analyze; (2) Church freefall as institutional context; (3) "Notes, not encyclical" as deliberative endpoint; (4) Locked study emptiness as architectural marker.
 
+---
+
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+**Mode:** TEXTURE
+**Tension Shape:** Real-time data accumulation (strike monitoring) → analytical discovery (compound effect) → domestic interruption (Miguel) → grid compensation (hour nine) → analytical discussion (Erasure List channel) → domestic scene (dinner) → reflective-accumulative (closing)
+**Pacing:** Eight-section structure. Opening ~600 words (14%). Breach response ~500 words (12%). Grid compensation ~400 words (9%). Miguel scene ~300 words (7%). Arrests + manufacturing ~400 words (9%). Hour fourteen + compound effect ~600 words (14%). Dinner scene ~600 words (14%). Closing ~500 words (12%). Remaining ~400 words distributed across transitions.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening — "Thirty-one" | ~600 | Medium-rising | Real-time data, throughput cliff, Phan's feed, coordinated strike |
+| Breach response | ~500 | Medium-sustained | Lam's data, correlation holds, compound effect discovered (factor 2.6) |
+| Grid compensation begins | ~400 | Medium-sustained | Hour nine, Novak's European feeds, rerouting starts |
+| Miguel scene | ~300 | Low-domestic | Water glass, dinner timing, logistics-as-care, brief interruption |
+| Arrests + manufacturing | ~400 | Medium-sustained | Three of seven, dependency mapping, human cost emerges |
+| Hour fourteen + compound effect | ~600 | Medium-high (analytical) | Factor 2.4 refined, revised target (12-15%), channel discussion |
+| Dinner scene | ~600 | Medium-domestic | Arroz con pollo, Elena's line, table resumed, moral juxtaposition |
+| Closing | ~500 | Resolving | Compound effect analysis, model improving / arrests not, revision begins |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Thirty-one." / "Holding." / "Three of seven." / "The data was someone else's operation." / "The compound effect was nonlinear." / "The answer was better than the model." / "She sat in the hum and began revising the model."
+- TEXTURE mode = quiet register. Intensity in data, not prose density. Dinner scene provides pacing ballast. Paragraph density moderate.
+- Zero NBA deployments (deliberate — analytical chapter, not perceptual). One NBA-adjacent parallel in closing ("not facility by facility but sector by sector...") functions as analytical reframing, not groping-toward-expression.
+- Closing compound accumulation (~130 words) is chapter's highest-density passage. Stacks: three arrests + manufacturing zones + hospital + 340,000 people + infrastructure dispute + workers + model + scientist + Bay Area + hum + field kit + grid + data + model improved + arrests did not. Builds to six-word thesis: "and the model improved and the arrests did not."
+- Closing: "She sat in the hum and began revising the model." — echoes Ch 4's "She sat in the hum and waited for the data." Same posture, verb shift: waiting → revising. Arc moved from observation to analysis.
+- Dialogue ~20% (significant increase from Ch 4's ~5%). Erasure List channel provides functional scientific dialogue (Phan, Lam, Novak, Müller — ~30 lines). Dinner scene provides domestic dialogue (Elena, Miguel, Sofia — ~10 lines). All operational or domestic — no exposition, no quippy lines.
+- Elena's register maintained from Ch 4. Miguel's first speaking role — practical, domestic, logistics-as-care. Erasure List researchers individuate through fatigue, compressed audio, instrument-checking pauses.
+- Bimodal paragraphs: dense data blocks (monitoring sections, compound effect analysis) + single-line punches (~15% 1-line). Dinner scene introduces shorter domestic paragraphs.
+
+**Dialogue Percentage:** ~20% (Erasure List channel + dinner scene — deliberate increase for dialogue-poor Sofia thread)
+
+**Pacing Concern:** Risk of real-time monitoring feeling static (fourteen hours of data observation). Mitigated by: (1) Hour-by-hour progression provides temporal structure; (2) Compound effect discovery as analytical peak; (3) Two domestic interruptions (Miguel, dinner) break analytical momentum at strategic points; (4) Erasure List channel provides voice variation (four researchers, distinct registers); (5) Human cost emerges progressively (arrests → manufacturing → hospital → 340,000 residents).
+
+**Structural Note:** B3C10 validates Sofia's model and demonstrates its insufficiency simultaneously. First coordinated Kindling strike — three facilities, one sector, seven operatives, three arrested. Model works: 39% throughput reduction → 94% breach reduction (factor 2.4, nonlinear compound effect). Grid compensates: hour nine rerouting begins, thirty-six hours to baseline. Human cost: three arrests, two manufacturing zones offline, hospital on backup generators, 340,000 people inside infrastructure dispute they didn't choose. The proof is the concept working. The concept working produces consequences the concept wasn't designed to contain. Chapter rhythm enacts this: real-time data accumulation → analytical discovery → domestic grounding → grid response → human cost → analytical discussion → domestic moral assessment → reflective closing. The data confirms. The arrests confirm. Both are true. The model improves. The arrests do not.
+
+**Comparison to B3 Ch 4:**
+- B3 Ch 4: Twenty-three single-facility operations, each confirms and fails, 11.4-hour mean rerouting, Elena doorway scene, "She sat in the hum and waited for the data."
+- B3 Ch 10: First coordinated strike (operation #24), compound effect discovered, nine-hour rerouting (longer), Elena dinner table scene, "She sat in the hum and began revising the model."
+- Together they bracket Sofia's Phase 1 arc: Ch 4 = equilibrium (model correct, politics impossible, monitoring loop). Ch 10 = disruption (model works, system compensates, human cost begins). The monitoring continues. The verb changes: waiting → revising. The data arrived. The model changed. The arrests began.
+
+**Number Echo Evolution (Sofia):**
+- B3 Ch 4: Twenty-three — Kindling operations confirmed. 11.4 hours — average grid reroute time.
+- **B3 Ch 10: Thirty-one — throughput reduction percentage (the proof). Factor 2.4 — compound effect (the revision). Three of seven — arrests (the cost). "The model improved and the arrests did not."**
+
+The number that was confirmation loop (Ch 4: twenty-three operations, each confirms, each fails) has become proof and cost (Ch 10: thirty-one percent proves model, three arrests prove consequence). The monitoring continues. The revision begins. The arrests begin.
+
+**Closing Echo Evolution (Sofia):**
+- B2 Ch 47: "The forty minutes were the answer." — political failure
+- B3 Ch 4: "She sat in the hum and waited for the data." — monitoring loop
+- **B3 Ch 10: "She sat in the hum and began revising the model." — analytical progression**
+
+Same posture (sitting in hum), verb shift (waiting → revising). The data arrived. The model changes. But the penultimate sentence is the thesis: "and the model improved and the arrests did not." The closing sentence is the posture. The penultimate is the meaning.
+
+**New Plot Element — Compound Effect:**
+- **Discovery:** Multi-facility coordination produces nonlinear breach response (disproportionate to throughput reduction)
+- **Data:** 31% throughput → 82% breach reduction (factor 2.6 initial) → refined to 39% throughput → 94% breach reduction (factor 2.4 final)
+- **Implication:** Global reduction target drops from 20% to 12-15% if compound effect holds
+- **Status:** One data point. Needs replication (Kindling will provide).
+- **Intersection:** Thorne's 9% voluntary reduction (B3C9) approaches revised 12-15% threshold. If compound effect holds, NitroCore's co-option strategy accidentally becomes more effective than intended.
+
+---
+
 **Structural Note:** B3C6 establishes Phase 1 equilibrium for Malachi thread. Six months post-Broadcast. Correspondence on desk, not published. Threshold theology articulated (voluntarist position). Church in freefall — diaspora, no tools. The deliberative who sees the error cannot refute it without invoking Nephthys's undefined boundary. Notes, not encyclical. The locked study empty. Chapter rhythm enacts this: steady, analytical, the pace of theological processing without institutional action. The deliberative held. The deliberation produced notation, not doctrine.
 
 **Comparison to B2 Ch 50:**

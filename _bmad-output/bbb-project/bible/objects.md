@@ -2,10 +2,10 @@
 title: "Objects"
 type: bible-dimension
 dimension: objects
-lastUpdated: "2026-02-26"
-lastChapter: "B3 Ch 8"
-totalObjects: 24
-activeObjects: 21
+lastUpdated: "2026-02-27"
+lastChapter: "B3 Ch 10"
+totalObjects: 25
+activeObjects: 22
 project_name: "Untitled"
 ---
 
@@ -1055,5 +1055,41 @@ An object deserves documentation if it:
 
 ---
 
-_Last updated: 2026-02-27 (B3 Ch 9 — "Thorne's Recalculation"; triage map, Strategic Adaptation Framework assessment added)_
+### Compound Effect Model (Nonlinear Breach Response)
+
+**Origin:**
+- Provenance: Discovered by Sofia Reyes during real-time monitoring of first coordinated Kindling strike
+- First Appearance: B3 Ch 10 ("Proof of Concept")
+- Circumstances: Mekong Delta sector strike — three facilities simultaneously offline, throughput reduced 39%, breach activity reduced 94%
+
+**Description:**
+- Appearance: Data point on scatter plot — twenty-fourth point sitting above proportional line established by twenty-three single-facility operations
+- Function: Revised throughput-breach correlation model. Multi-facility coordination produces nonlinear (disproportionate) breach reduction. Factor of 2.4 observed (39% throughput reduction → 94% breach reduction).
+- Condition: One data point. Status: observation, not finding. Requires replication to confirm nonlinearity holds across multiple coordinated strikes.
+
+**Technical Details:**
+- **Linear model (B2 Ch 45, original):** 20% throughput reduction over 5 years → proportional breach stabilization
+- **Compound effect model (B3 Ch 10, revised):** 12-15% coordinated throughput reduction → equivalent breach stabilization if nonlinearity holds
+- **Mechanism:** Simultaneous multi-facility shutdowns saturate local grid routing faster than sequential operations. Grid compensation delayed (9 hours vs 11.4-hour mean). Deeper initial reduction before rerouting begins.
+- **Implication:** Global coordination threshold lowered. Fewer facilities need offline if strikes coordinated across sectors simultaneously.
+
+**Significance:**
+- Symbolism: The outlier on the scatter plot. The space between individual action and collective action. The model that was complete (Ch 4) is now incomplete. The revision as practice.
+- Stakes: Lowers Kindling operational threshold. Makes global coordination more achievable (12-15% vs 20%). Intersects with Thorne's 9% voluntary reduction (B3C9) — if compound effect holds, NitroCore's co-option strategy accidentally approaches revised threshold.
+- Thematic: Truth as Weapon (evolved — model weaponized by Kindling, revised model will be published via same cascade protocol), Moral Obligation to Consequences (better model enables larger strikes, larger strikes produce larger human cost)
+
+**Current Owner:** Sofia Reyes (discovery), Erasure List (distributed methodology once confirmed)
+
+**History:**
+- B3 Ch 10: First coordinated Kindling strike (Mekong Delta, three facilities). Sofia monitors real-time via Erasure List channel (Phan, Lam, Novak, Müller). Throughput drops 31% initially, 39% final. Breach activity drops 94%. Factor 2.4 calculated. Erasure List channel discussion: "One data point. We need replication." Sofia: "We need replication." The Kindling will provide replication through future coordinated strikes.
+
+**Symbolic Arc:** The model that was Sofia's (B2 Ch 45) became the Erasure List's (B3 Ch 4) and became the Kindling's (B3 Ch 10). Now the model revises itself through operational use. The scientist who published truth watches truth become operational framework, watches framework produce arrests, watches arrests produce model revision. The cycle continues. The revised model will be published. The Kindling will read it.
+
+**Intersection with Other Arcs:**
+- **Aurielle/Thorne (B3C9):** Thorne's triage map identifies 31 facilities for 9% voluntary reduction. Compound effect model suggests 12-15% coordinated threshold. The gap narrows. NitroCore's co-option strategy approaches revised scientific threshold without knowing the threshold changed.
+- **Kindling (forward):** Compound effect enables larger coordinated campaigns (Ch 16, Ch 25). Human cost scales with operational scale. Three arrests (Ch 10) becomes baseline, not ceiling.
+
+---
+
+_Last updated: 2026-02-27 (B3 Ch 10 — "Proof of Concept"; compound effect model added, Erasure List researchers established)_
 _Updated by: Chapter-write workflow (full mode)_

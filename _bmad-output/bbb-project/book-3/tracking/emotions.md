@@ -51,6 +51,53 @@ This document tracks emotional beats, character interiority, and affective reson
 
 ---
 
+### Chapter 10 — "Proof of Concept" (Sofia Reyes)
+
+**Emotional Arc:** Real-time data arrival (thirty-one) → compound effect discovery → domestic interruption (Miguel, water) → grid compensation → arrests → manufacturing zones → compound effect discussion → dinner table (Elena's line) → closing accumulation (model improved / arrests did not)
+
+**Emotional Register:** Analytical-sustained with domestic punctuation. No named emotions. Weight conveyed through data juxtaposition (model improving / arrests not), physical gestures (Miguel's fork set down vs. Elena's fork continuing), and the penultimate compound accumulation sentence. The horror is not in the feeling — the horror is in the numbers and what the numbers mean for people Sofia does not know.
+
+**Physical Tells:**
+- Field kit touched twice (reflex/check at desk edge, closing touch — casing, weight, indicator)
+- Number written on margin (0.03 m/hr — the compulsion, the physical recording)
+- Glass of water (cold, glass against hand, Miguel's precise placement away from instruments)
+- Fork circuits at dinner (Elena's continues, Miguel's set down, Sofia's — not described)
+- Hands moving across haptic interface (flat-screen, not VEC pod — the institutional architecture she lost)
+- Hum through house foundation (0.5 Hz, continuous, kitchen floor, bedroom floor, garage floor)
+
+**Emotional Beats:**
+
+1. **"Thirty-one"** — The number arrives at 14:23. Not in report. In live feed. Emotional weight: analytical focus. The throughput cliff. The coordinated strike. The proof arriving in real time. No excitement. No fear. The register is data-processing. The number is the number.
+
+2. **Compound effect discovered** — Factor 2.6 → 2.4. The outlier on the scatter plot. Twenty-three points on the line, twenty-fourth above it. Emotional weight: analytical discovery. "The number was important. The number changed the model." Not triumph. Not vindication. The recognition that the model was incomplete and is now less incomplete. The revision as practice.
+
+3. **Miguel's water glass** — Precise placement (away from instruments). "You have been in here since morning." Emotional weight: care-without-naming. The logistics-as-love. The father who does not read monitors but recognizes that specifics matter. The interruption that is provision. Sofia drinks half before returning to monitors.
+
+4. **"She did not know who they were"** — Three of seven arrested. Junction 7-Alpha, Can Tho node. Conduit technicians, grid operators. Workers who read her model and acted. Emotional weight: gap between knowledge and person. She knows grid sector designation, converter station number, trunk-line junction code. She does not know names, families, whether they understood hospital had 8-14 hours backup. The data without the people.
+
+5. **Manufacturing zones offline** — Garment, electronics assembly. Grid's routing algorithm: residential critical, manufacturing discretionary. "She did not know how many people worked in them." Emotional weight: dependency made concrete. The algorithm is correct. The correctness means workers sent home, production lost, daily wage unknown. The numbers describing system whose correctness produces consequences.
+
+6. **Compound effect discussion on channel** — "Factor of 2.4 on the first data point." Lam: "We need replication." Sofia: "We need replication." Emotional weight: scientific register as emotional restraint. The discovery that could lower global target from 20% to 12-15%. One data point. The methodology demands confirmation. The excitement (if present) is compressed into clipped exchange, immediate quantification demand, silence of recalculation.
+
+7. **"Three people were arrested today"** — Sofia says it at dinner. Does not know why she said it. "The statement arrived at the dinner table the way data arrived on the monitor — present, unprocessed, requiring acknowledgment before it could be filed." Emotional weight: processing delay. The human cost entering domestic space. Miguel's fork set down. Elena's fork continues. The differential response.
+
+8. **Elena's line** — "Your model is improving. Their arrests are not." Emotional weight: moral thesis delivered through data juxtaposition. Eight words. Subject-verb, subject-verb. The gap between scientific progress and human consequence compressed into parallel construction. Elena does not tell Sofia what to feel. Elena presents the juxtaposition. The register is scientific. The meaning is maternal. The line carries both.
+
+9. **Table resumed** — Miguel picks up fork. Arroz con pollo. The hum through kitchen floor at 0.5 Hz. "The silence between a mother and a daughter who understood the same thing and named it in different registers." Emotional weight: shared recognition without shared vocabulary. Elena had been the data twenty years ago. Sofia is the data now. The parallel unnamed. The meal continues.
+
+10. **Closing accumulation** — "The answer was also three arrests and two manufacturing zones dark for fourteen hours and a hospital on backup generators and three hundred and forty thousand people inside an infrastructure dispute they had not chosen, conducted by workers they did not know, validated by a model published by a scientist who sat in her mother's former office in the East Bay and revised the numbers while the hum came through the floor at 0.5 Hz and the field kit pulsed green and the grid restored what the Kindling had reduced and the data confirmed what the data had always confirmed and the model improved and the arrests did not." Emotional weight: accumulation as argument. The compound sentence stacking proof + cost + location + infrastructure + data + revision + arrests. Builds to six-word thesis: "and the model improved and the arrests did not." The emotional climax is structural, not named.
+
+**Emotional Restraint Technique:** Sofia's register does not name emotions. Weight conveyed through: (1) Data juxtaposition (model improving / arrests not), (2) Physical gestures (fork set down vs. continuing, water glass placement, field kit touching), (3) Gap between knowledge and person (knows grid codes, not names), (4) Domestic architecture around crisis data (dinner while Mekong recovers, three in detention, model revises), (5) Penultimate compound accumulation → SHORT closing. The horror is in the numbers. The numbers describe people. The people are consequences of being correct.
+
+**Comparison to B3 Ch 4:**
+- B3 Ch 4: Elena doorway scene, plate of food, "They have gotten faster" (forty minutes), "She sat in the hum and waited for the data."
+- B3 Ch 10: Elena dinner table scene, arroz con pollo, "Your model is improving. Their arrests are not." (model vs. cost), "She sat in the hum and began revising the model."
+- Emotional progression: Ch 4 = monitoring loop, correctness insufficient. Ch 10 = proof validated, cost begins, revision continues. The waiting became revising. The insufficiency became consequence.
+
+---
+
+---
+
 ### Chapter 8 — "Both Systems" (Nuwa Lin)
 
 **Emotional Arc:** Counting ritual (before eyes open) → Anchor margin district (commodification observed) → 47 names vs tourists' counts → polymer fragment horror ("The hand was now a product") → recognition (Yara says "Nuwa Lin" — loss of invisibility) → both systems framework (archived vs visible) → inventory expansion → "not done"

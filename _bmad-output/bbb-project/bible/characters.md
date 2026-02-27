@@ -2,9 +2,9 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-02-26"
-lastChapter: "B3 Ch 8"
-totalCharacters: 19
+lastUpdated: "2026-02-27"
+lastChapter: "B3 Ch 10"
+totalCharacters: 22
 project_name: "Untitled"
 ---
 
@@ -1234,4 +1234,84 @@ This bible dimension tracks **current character states**:
 ---
 
 _Last updated: 2026-02-26 (B3 Ch 8 — "Both Systems"; Yara and Delegate Pereira introduced; Nuwa's dual-network role and loss of invisibility)_
+_Updated by: Chapter-write workflow (full mode)_
+
+### Phan
+
+**Role:** Supporting — Erasure List researcher
+**Faction:** Erasure List (suppressed atmospheric researchers)
+**Primary Location:** Ho Chi Minh City, District 4
+**First Appearance:** B3 Ch 10 ("Proof of Concept")
+
+**Description:** Atmospheric researcher. Residential apartment above restaurant in District 4. Rooftop monitoring equipment housed in climate unit (broadband acoustic sensor calibrated to Mekong Delta trunk-line frequency, 0.6 Hz). Eleven months on Erasure List. Former Southeast Asian Atmospheric Institute.
+
+**Background:** Published paper correlating conduit proximity with sleep architecture disruption in residential populations. Paper retracted. Data not retracted. Institutional suppression via retraction, not data challenge.
+
+**Role in Ch 10:** Local monitoring for first coordinated Kindling strike (Mekong Delta sector). Provided real-time throughput data via encrypted channel. Fourteen hours on channel past midnight. Flat register — scientist reading instruments, affect calibrated to precision not urgency.
+
+**Speech Register:** Scientific, operational. Flat affect. Data-driven. "Three facilities. Junction 7-Alpha, Converter Station Mekong-3, and the secondary node at Can Tho. Coordinated. Throughput is dropping." No exposition. No emotional language. Fatigue audible by hour fourteen (voice thin, compressed audio).
+
+**Institutional Function:** Erasure List channel participant. Local monitoring node. Provides geographic-specific data Sofia cannot access from Bay Area. Part of distributed scientific community operating after institutional expulsion.
+
+**Planned Appearances:**
+- B3 Ch 10: Mekong strike monitoring (debut)
+- Potential recurring voice on Erasure List channel (Ch 16, Ch 25 if Kindling campaign continues)
+
+**Relationship to Sofia:** Erasure List colleague. No direct relationship beyond encrypted channel. Functional scientific exchange. Sofia requests data, Phan provides. Peer architecture, not hierarchical.
+
+---
+
+### Lam Duc Minh
+
+**Role:** Supporting — Erasure List researcher
+**Faction:** Erasure List (suppressed atmospheric researchers)
+**Primary Location:** Da Nang (60km from nearest Anchor Zone)
+**First Appearance:** B3 Ch 10 ("Proof of Concept")
+
+**Description:** Atmospheric chemist. University of Da Nang, formerly. Monitoring station 60km from Anchor Zone. Spectrograph equipment for breach activity measurement.
+
+**Background:** Institutional affiliation terminated (method unspecified). On Erasure List. Atmospheric chemistry background enables breach monitoring (expansion rate measurement via spectrograph).
+
+**Role in Ch 10:** Breach activity monitoring for Mekong strike. Provided real-time Anchor Zone expansion rate data. Nine hours on channel. Voice thinned by fatigue at hour nine — "fatigue replacing precision, the register of a scientist who had been reading instruments past his body's tolerance."
+
+**Speech Register:** Scientific, operational. Fatigue audible. "Anchor Zone activity at — Sofia, the expansion rate is dropping." / "Point zero three meters per hour. Baseline for this zone is point one seven. It is dropping in real time." Procedural pauses (stabilizing instruments before reporting). Precision degrading under fatigue but methodology maintained.
+
+**Institutional Function:** Erasure List channel participant. Breach monitoring specialist. Provides data type Sofia's atmospheric focus cannot directly measure. Distributed scientific community — each researcher contributes domain expertise.
+
+**Planned Appearances:**
+- B3 Ch 10: Mekong strike monitoring (debut)
+- Potential recurring voice on Erasure List channel (breach data specialist)
+
+**Relationship to Sofia:** Erasure List colleague. Functional scientific exchange. Sofia requests breach data, Lam provides. Peer architecture.
+
+---
+
+### Novak
+
+**Role:** Supporting — Erasure List researcher
+**Faction:** Erasure List (suppressed atmospheric researchers)
+**Primary Location:** Kraków
+**First Appearance:** B3 Ch 10 ("Proof of Concept")
+
+**Description:** Atmospheric physicist. University of Warsaw until published paper on conduit-proximity cancer clusters triggered funding review from Helix Energetics subsidiary. European feeds monitoring. Inter-zone routing tracking capability.
+
+**Background:** Published conduit-proximity cancer cluster correlation. University received funding review from Helix Energetics subsidiary (institutional pressure via financial leverage). Institutional affiliation terminated or researcher departed. On Erasure List.
+
+**Role in Ch 10:** European feeds monitoring for grid compensation tracking. Predicted sixteen-to-twenty-hour inter-zone rerouting interval (optimistic — actual was nine hours). Provided real-time adjacent zone throughput data as grid compensated. Keys audible on channel (instrument operation). Instrument-checking pauses before speaking.
+
+**Speech Register:** Scientific, operational. Procedural. "The European feeds are showing no sympathetic rerouting yet. If the grid pulls from adjacent international zones, I will see it here first." / "If it follows the established pattern — [pause, keys, pause] — the inter-zone rerouting takes longer than local compensation." Scientist's reflex: check instruments before speaking. Immediate response to Sofia's compound effect statement: "By how much?" — quantification demanded.
+
+**Institutional Function:** Erasure List channel participant. European monitoring node. Inter-zone routing specialist. Provides geographic coverage Sofia lacks (European grid architecture, international backbone routing).
+
+**Planned Appearances:**
+- B3 Ch 10: Mekong strike monitoring (debut)
+- Potential recurring voice on Erasure List channel (European grid specialist)
+
+**Relationship to Sofia:** Erasure List colleague. Functional scientific exchange. Peer architecture. Matches Sofia's analytical reflex (finding stated → quantification demanded).
+
+**Note:** Renamed from Kowalski to avoid collision with Jarek Kowalski.
+
+---
+
+_Last updated: 2026-02-27 (B3 Ch 10 — "Proof of Concept"; Phan, Lam Duc Minh, and Novak introduced as Erasure List researchers; compound effect discovered)_
 _Updated by: Chapter-write workflow (full mode)_
