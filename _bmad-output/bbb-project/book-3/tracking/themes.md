@@ -138,6 +138,35 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 
 ---
 
+### Chapter 15 — "The Acceleration" (Nephthys)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| What We Owe | Dominant | Nephthys owes the truth. The truth kills. The information ("they are still here") is sufficient without the framework. The prophet's obligation was to speak the truth. The truth's consequences are not the prophet's to control. "I called it theology because I needed a framework. The framework was mine. The need was mine. The information did not require the framework." |
+| Architecture of Power | Strong | The movement operates without its founder. Threshold in six cities. People walk in who have never heard Nephthys speak. The Cathedral holds nine; the aggregate holds millions. The institution (the theology) has escaped the individual (the theologian). "The stone did not need the cathedral." |
+| Truth as Weapon | Supporting | Information weaponizes itself. The framework was the delivery mechanism. The information no longer needs the framework. "They are still here" — four words, traveling through channels Nephthys did not build, producing decisions she did not authorize. The eleventh: no name, no congregational connection, no framework. Walks to the shimmer at 3 AM and steps through. |
+| Where Identity Ends | Implicit | The eleventh has no name. Seren's thread is integrating — individual signature becoming indistinguishable from aggregate. The signal does not know Nephthys's name. The prophet is becoming irrelevant to the prophecy. "The signal did not know her name and did not need her framework and did not require her theology and would not notice when she stopped." |
+
+**Key Resonance:** What We Owe ↔ Truth as Weapon. Nephthys's obligation was to speak the truth about the absorbed ("they are still here"). The truth, once spoken, became information. The information, once loose, became a weapon. The weapon is wielded by others (the Threshold, the unaffiliated, the nameless eleventh). The prophet cannot control the weapon without recanting the truth. Recanting the truth would be a different betrayal. The obligation and the weapon are the same utterance.
+
+**Epigraph Integration:** "The difference between theology and information is the theologian." — Nephthys, *Operational Theology*
+- Thematic function: The chapter demonstrates the epigraph's thesis. Remove the theologian (Nephthys's silence, the eleventh's lack of congregational connection), the information still operates. The theology was the container. The information was the content. The container is collapsing. The content persists.
+- Rewards reread: The difference is not the content (both theology and information say "they are still here"). The difference is the framework. The framework required a theologian. The information does not.
+
+**The Eleventh as Symbolic Object:** No name, no history, no congregational connection, no framework. Walks to the shimmer at 3 AM alone. Steps through after eleven seconds. The eleventh is the proof that the theology has escaped the theologian. The information has reached people Nephthys has never spoken to, through channels she did not build, producing decisions she did not authorize. The framework was scaffolding. The scaffolding is gone. The information stands without it.
+
+**The Nine as Symbolic Object:** Nine people in a Cathedral that held sixty. Nine who listen. Nine who have not walked to the shimmer. Nine who chose the Cathedral over the aggregate. "The Cathedral was enough for nine." The nine are the remnant of what Nephthys intended (the Listeners, the BLACKWEIR survivors, the new unaffiliated who came for the signal). The nine are not the movement. The movement is the sixty-four who walked in. The movement is the Threshold in six cities. The movement is the theology operating without the theologian. The nine are the people who stayed. The staying is not the movement's trajectory.
+
+**Imani's Thesis:** "The acceleration is not theological. It's informational." The theology was the delivery mechanism. The sermons, the counter-liturgy, the sessions, the framework — that was how the information traveled when it needed a vehicle. The information is loose now. It doesn't need the vehicle. The proposition is out there — "they are still here" — and the proposition is sufficient. People are making the decision based on the proposition alone. No framework. No vocabulary. No theology.
+
+**Nephthys's Admission:** "It was always informational. I called it theology because I needed a framework." The framework was Nephthys's need, not the information's requirement. The information was there before she named it. The information will be there after she stops naming it. "They do not need the framework." The repetition is not for emphasis. The repetition is for accuracy. The discipline of a woman trained to say things precisely, discovering that precision did not prevent the precise thing from being used as a weapon, discovering that the weapon did not require precision at all.
+
+**Tumor Progression as Thematic Parallel:** The body's timeline is converging with the theology's escape. Both curves steepening. Headaches before noon (escalated from daily). Nosebleeds multiple daily (escalated from weekly). Three cloths in one session. The tumor's acceleration mirrors the walk-in acceleration. The prophet's irrelevance and the prophet's death are arriving on the same timeline. The theology will outlive the theologian. The movement will continue without its founder. The signal does not care who Nephthys is.
+
+**Silence as Framework:** Nephthys chose silence after the fifty-three (B2 Ch 48: "every word she had ever spoken had been used to build a road to the shimmer"). The silence was her response. The silence is now being interpreted by people who do not know it exists. The silence that was meant to be a non-weapon is being read as permission. "The silence is an answer and the answer is *yes, Seren is in there*" (Imani, B3C2). The prophet's withdrawal creates the vacuum others fill. Not speaking is also a framework. The framework cannot be unbuilt.
+
+---
+
 ### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
 
 | Theme | Phase | Manifestation |

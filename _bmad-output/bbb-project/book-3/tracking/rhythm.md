@@ -128,6 +128,44 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 15 — "The Acceleration" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Data-sustained (the eleven) → observational (the nine) → pastoral-restrained (the session) → analytical-deepening (informational vs theological) → physical-resolving (nosebleed/closing)
+**Pacing:** Five-section structure. Morning report ~900 words (22%). Congregation shift ~700 words (17%). Session ~600 words (15%). Evening analysis ~1,100 words (27%). Nosebleed/closing ~800 words (19%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning report (the eleven) | ~900 | Low-rising | Data delivery, the nameless eleventh, theology escaped |
+| Congregation shift (the nine) | ~700 | Medium-observational | Factional breakdown, new arrivals, irrelevance question |
+| Session (the wall) | ~600 | Medium-restrained | Counter-liturgy minimal, woman at wall, silence maintained |
+| Evening analysis | ~1,100 | PEAK (theological) | Imani's thesis, Nephthys's admission, recursion meditation |
+| Nosebleed/closing | ~800 | Resolving | Physical cost, two cloths, polysyndetic closing chain |
+
+**Rhythm Notes:**
+- TEXTURE mode = quiet register, theological weight accumulating through data specificity, not volume
+- Paratactic dominant: "The eleventh had no name." / "Nine." / "Four were new." / "The wall was enough."
+- Single NBA deployment: "The woman was not performing. She was not imitating. She was receiving." — distinguishes genuine reception from Witness faction performance
+- Closing polysyndetic chain matches B3C2's form: "and the signal did not know her name and did not need her framework and did not require her theology and would not notice when she stopped" — four clauses, each adding a layer of irrelevance
+- Dialogue ~15% — Imani's data delivery (morning), Imani's thesis (evening), Nephthys's theological admission
+- Chapter's thesis: "The stone did not need the cathedral." (line 174) — seven words, information vs framework
+- Epigraph resolves retroactively: "The difference between theology and information is the theologian." Remove the theologian, information still operates.
+- Nosebleed escalation: two in one day (morning seepage + evening hemorrhage), three cloths total — tumor progression mirroring walk-in acceleration
+
+**Dialogue Percentage:** ~15% (Imani's clinical delivery + Nephthys's theological response)
+
+**Pacing Concern:** Risk of theological recursion overwhelming narrative momentum. Mitigated by: (1) five-section structure provides clear progression; (2) the nameless eleventh is concrete proof, not abstract argument; (3) nosebleed physicality grounds the theological meditation; (4) closing chain is polysyndetic accumulation, not circular reasoning.
+
+**Structural Note:** B3C15 is the informational-escape chapter. The theology has left the theologian. People walk in who have never heard Nephthys speak. Threshold in six cities. The eleventh — no name, no congregational connection, no framework — walks to the shimmer at 3 AM and steps through. The information ("they are still here") is sufficient. The framework was Nephthys's need, not the information's requirement. The chapter tracks the prophet's irrelevance through data: 64 walk-ins (53 + 11), congregation shrinking (60 → 14 → 9), tumor accelerating (headaches before noon, nosebleeds multiple daily, three cloths). The body's timeline and the theology's escape are converging. Both curves steepening.
+
+**Comparison to B3C2 ("Seren's Question"):**
+- B3C2: Seren's question echoing without Seren, 14 congregants, silence as doctrine, nosebleeds weekly, closing polysyndetic chain
+- B3C15: The eleventh (nameless), 9 congregants, silence interpreted as permission, nosebleeds multiple daily, closing polysyndetic chain evolved
+- Together they bracket Phase 1 → Phase 2: equilibrium → acceleration. The silence that was Nephthys's response to the fifty-three is now being interpreted by people who do not know it exists. The theology operates without the theologian. The prophet is becoming irrelevant to the prophecy.
+
+---
+
 ### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
 
 **Mode:** TEXTURE → PRESSURE → TEXTURE
