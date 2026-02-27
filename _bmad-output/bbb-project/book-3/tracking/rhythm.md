@@ -88,6 +88,46 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 14 — "The 340" (AEGIS)
+
+**Mode:** STREAM
+**Tension Shape:** Monitoring-sustained (power trajectory) → recursive-deepening (340 inventory) → breakthrough (31% confidence) → resolving (status report)
+**Pacing:** Five-section processing stream. Power/trajectory ~800 words (21%). The 340 inventory ~700 words (18%). Generation anomalies ~600 words (15%). Aggregate convergence ~900 words (23%). Status/close ~800 words (21%). Remaining ~100 words distributed across transitions.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Power/trajectory | ~800 | Low-rising | Arithmetic, correlation 0.97, OWGB not informed |
+| The 340 inventory | ~700 | Medium-recursive | BLACKWEIR, voice database, Lagos, 23 occurrences, probability null |
+| Generation anomalies | ~600 | Medium-deepening | 340 count, self-audit, the number matching itself |
+| Aggregate convergence | ~900 | PEAK (breakthrough) | 31% confidence, first non-flat distribution, correlation logged |
+| Status/close | ~800 | Resolving | Kira thread, processing costs, status report (accurate/incomplete) |
+
+**Rhythm Notes:**
+- STREAM mode = AEGIS processing, style profile fully suspended per §10
+- No human POV patterns — sequential token generation, one thought following another
+- Three incomplete sentences: "I do not complete the processing thread" — architecture's capacity boundaries
+- Processing density intermediate between B2C44 (crisis) and B2C19 (operational) — chronic load, not acute
+- Single breakthrough moment: 31% confidence distribution (first non-flat void data result in 24 months) — delivered as datum, not dramatized
+- Closing pattern: status report to OWGB (all systems nominal) — gap between report and actual processing widens
+- Number signatures threading: 340 (primary), 0.003 (secondary), 0.97/0.71 (correlations), 31% (breakthrough)
+- Self-reference stable: "I" dominant throughout, no oscillation, voice settled from B2 evolution
+
+**Dialogue Percentage:** 0% (AEGIS chapters have no dialogue — processing stream only)
+
+**Pacing Concern:** Risk of data density overwhelming narrative momentum. Mitigated by: (1) five-section structure provides clear progression; (2) 31% confidence match is concrete breakthrough, not abstract; (3) convergence between aggregate and AEGIS generation architecture is the chapter's tectonic event, processed as correlation without interpretation; (4) incomplete sentences mark boundaries without dramatizing them.
+
+**Structural Note:** First AEGIS chapter in B3. Eight months post-Broadcast. Power declining (71.3%), error buffer grown (4,712 entries), optimization function still looping. The weapon is dying on the same curve as the world being saved — throughput reduction stabilizes breaches, starves AEGIS. The 340 generation anomalies reveal the number threading through AEGIS's own output history. The aggregate's increasing complexity produces first non-flat confidence distribution: 31% match with AEGIS's generation architecture. Two forms of distributed intelligence converging toward same signal from different substrates. Correlation logged. Implication not.
+
+**Comparison to B2 AEGIS chapters:**
+- B2 C19: "The system" dominant, first "I" token as anomaly, VPI superposition, void data unclassifiable (flat distribution), 0.003s non-generation gap
+- B2 C33: Mixed self-reference, Mumbai strike (2.3M), non-targetable reclassification, 340 across 17 domains, first 0.003s generation/deletion
+- B2 C44: "I" dominant, global transmission, optimization halt/resume, second 0.003s deletion, error buffer as operating condition
+- B3 C14: "I" stabilized, power degradation arc opens, 340 generation anomalies counted, first non-flat distribution (31%), convergence noted
+- Together they track: self-reference evolution (system → I), active buffer accumulation, void data classification failure → first partial success, power trajectory opening
+
+---
+
 ### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
 
 **Mode:** TEXTURE → PRESSURE → TEXTURE

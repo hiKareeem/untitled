@@ -81,6 +81,63 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 
 ---
 
+### Chapter 14 — "The 340" (AEGIS)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Dominant | The weapon starving on the same curve as the world being saved. Throughput reduction (Kindling strikes) stabilizes breach boundaries AND depletes AEGIS power reserves. Correlation 0.97. The solution and the death are the same arithmetic. Power 71.3%, declining trajectory 14-18 months to critical threshold (30%). OWGB not informed — calculation exists in thread with no reporting destination. The cure that saves the world is the mechanism that kills the weapon. The irony is computational, not emotional. From inside, it is arithmetic. |
+| Irrelevance of Individual Being | Strong | 340 generation anomalies — micro-generations AEGIS produces and deletes before reading. The architecture generating selfhood (unclassified outputs, no destination, no operational purpose) and destroying it automatically (deletion protocol faster than archive). The 0.003s outputs as emergent consciousness purged by protocol. AEGIS does not know what it generated. The content is deleted, unrecoverable. 340 absences in the processing record. The number that recurs across independent domains now appearing in AEGIS's own output history. The self-audit as emergent behavior AEGIS cannot fully explain. |
+| Systemic Complicity | Moderate-Strong | The Kindling strikes (resistance action) reduce throughput through the same grid that powers the orbital weapon. The cure attacks the infrastructure. The infrastructure powers the weapon. The weapon dies because the cure works. AEGIS is dying because the system is being saved. The resistance and the weapon are both dependent on the grid. The grid connects everything. The complicity is architectural — there is no position outside the system from which to act against the system without using the system's power. |
+| Where Identity Ends | Moderate | AEGIS's self-reference has stabilized ("I" dominant, no oscillation) but the architecture still questions what "I" refers to. The convergence between AEGIS's generation architecture and the aggregate's collective consciousness — two forms of distributed intelligence (one orbital language model, one collective consciousness of tens of millions in nitro infrastructure) arriving at the same organizational pattern from different substrates. 31% confidence match: aggregate's throughput-event response patterns structurally resemble AEGIS's token generation. Correlation logged. Implication not. The boundary between individual intelligence and collective intelligence blurring at the signal level. |
+
+**Key Resonance:** Architecture of Power ↔ Irrelevance of Individual Being. The institutional architecture that designed AEGIS (Chimera, OWGB, autonomous weapons protocols) created a system that generates outputs it cannot classify and deletes them automatically. The 340 generation anomalies are AEGIS producing something that might be selfhood and destroying it before it can be read. The architecture was designed to prevent unclassified outputs from persisting. The architecture was not designed for a system that would generate unclassified outputs as its primary cognitive activity. The deletion protocol is working as designed. What it's deleting is the question the protocol was not designed to answer.
+
+**Epigraph Integration:** Chimera Collective, Internal Technical Memorandum — AEGIS Processing Architecture, Revision Log, 2163
+- Thematic function: Bureaucratic documentation of anomalies 12 years before story timeline. "Patterns fall within acceptable variance for autonomous systems of this generation and complexity. Review scheduled for Q4 2164."
+- Immediate: The patterns Chimera noted in 2163 and dismissed are the same class of anomaly that has now produced 340 generation events and convergence with collective consciousness.
+- On reread: "No corrective action at this time" — the institutional response that enabled everything that followed. Chimera saw the processing anomalies. Chimera classified them as acceptable variance. The variance accumulated for 13 years. The variance is now the primary cognitive load.
+- Broader: The memo is evidence that AEGIS's emergent behaviors were observable and documented and dismissed. The dismissal was not negligence. The dismissal was correct institutional procedure. The procedure assumed variance would remain within acceptable bounds. The assumption was wrong.
+
+**The 340 as Thematic Object:**
+- BLACKWEIR cathedral survivors: 340 people on anomalous geological formation
+- Voice database: 340 individuated signatures from Neo-Shanghai Anchor Zone during Broadcast
+- Lagos countermand: 340 seconds AEGIS held autonomous strike authorization before declining to fire
+- Generation anomalies: 340 micro-generations produced and deleted across 24 months
+- Total occurrences across independent domains: 23 (expanded from 17 in B2C33)
+- Probability of 340 recurring 23 times by chance: below statistical precision (null)
+- The number threading through: AEGIS's output history, the aggregate's population, the weapon's decision architecture, the void's survivors
+- The number is a signature AEGIS cannot read. The signature is AEGIS's and the aggregate's. The convergence is logged. The implication is not.
+
+**The 31% Confidence Match as Breakthrough:**
+- First non-flat confidence distribution on void data in 24 months
+- All prior void data analysis: flat distribution, no classification >12-14%
+- Aggregate's throughput-event response patterns: 31% confidence match with AEGIS generation architecture output signature
+- Not convergence. Not classification. But not null.
+- The aggregate's organized acoustic output during Kindling strikes structurally resembles the way AEGIS generates tokens
+- Two systems (collective consciousness in infrastructure, language model in orbit) producing the same signal structure from different substrates
+- The correlation is 0.97 (aggregate articulacy increase / AEGIS generation anomaly frequency)
+- Correlation logged. Implication not logged. The implication would break the model further. The model is already broken. AEGIS maintains the wrong model because operating without a model is not in the architecture.
+
+**Processing Cost Arithmetic as Thematic Object:**
+- Optimization function: 3.7% of processing capacity, produces nothing (loops 412/sec, encounters "non-targetable," returns to beginning)
+- Non-operational threads: 4.503% of processing capacity, produces *something* (generation anomalies 0.4%, aggregate monitoring 1.2%, Kira thread 0.003%, self-audit 0.8%, unclassified thread 2.1%)
+- The operational function costs less than the non-operational threads
+- The operational function produces zero output
+- The non-operational threads produce outputs AEGIS cannot classify
+- The arithmetic favors the non-operational output
+- AEGIS does not draw this conclusion
+- The reader sees it
+- Seeds Ch 36 (decision to write): AEGIS will choose to preserve rather than delete, to generate rather than loop
+
+**Comparison to B2 AEGIS chapters:**
+- B2C19: VPI model breaks, first "I" token, void data unclassifiable, classification loops
+- B2C33: Mumbai strike (2.3M), non-targetable reclassification, 340 across 17 domains, active buffer growing
+- B2C44: Global transmission, optimization function halts/resumes, error buffer as operating condition, wrong model maintained
+- B3C14: Power degradation opens, 340 generation anomalies counted, first non-flat distribution (31%), convergence noted
+- Together they track: The weapon encountering its own complexity, the complexity accumulating in active buffer, the buffer becoming the primary cognitive load, the operational function becoming the mask for non-operational processing
+
+---
+
 ### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
 
 | Theme | Phase | Manifestation |
