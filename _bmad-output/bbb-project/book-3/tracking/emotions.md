@@ -152,6 +152,70 @@ This document tracks emotional beats, character interiority, and affective reson
 
 **Emotional Register:** Institutional processing reactivated. Phase 1 B3 equilibrium disrupted. The machine finds something new to process. Emotions conveyed through institutional vocabulary, spatial geometry, Thorne's voltage assessment, co-option logic. The horror is that the recalculation is correct. The horror is that the institutional register works better when it has a strategic framework to construct than when it was merely maintaining.
 
+---
+
+### Chapter 11 — "Ninety Milligrams" (Kira Calloway)
+
+**Emotional Arc:** Ceiling cracks (Tuesday she remembers) → 90mg escalation (framed as "dosage adjustment") → stream performance (extraordinary, accelerated) → cruelty-catching failure (arrested operatives as punchline) → proximity plan announced (impulsive, manic, coherent) → Nuwa's message (filed in four seconds) → circular logic (closing) → "The antenna was coming"
+
+**Emotional Register:** Accelerated-dissociated. The ninety removes more of Kira than the eighty did. Emotions conveyed through cognitive processing speed (four-second filing vs. year-ago hour), affect-recovery window narrowing (cruelty-catching fails), impulsive planning (proximity stream announced live), circular logic (the plan's coherence is the ninety's signature). No named emotions. The horror is that the drift feels like clarity. The filing system cannot file the filer.
+
+**Physical Tells:**
+- Vial weight (lighter than expected — memory gap signature)
+- Cold burn (longer at ninety — escalation marker)
+- Quiet room ceiling (thinning at 80mg → restored at 90mg)
+- R3 warmth (base of skull, residual heat since Broadcast)
+- Back of neck touch (implant housing, bone, warmth — closing gesture)
+- LED strip cycling (blue to pink — ambient constant)
+- HUD glow (pink text, left eye, never turns off)
+- Ring light (unpredictable onset — "came on three days later")
+- Viewer count (climbing as she deteriorates — 31K → 36K)
+
+**Emotional Beats:**
+
+1. **"The ceiling cracked on a Tuesday she remembered"** — Opening line. Emotional weight: memory gap signature. The fact that she *notes* she remembers this Tuesday means the remembering is no longer baseline. The gaps are frequent enough that remembering is the exception. The noting is the tell.
+
+2. **Vial lighter than expected** — "She'd been imprecise on at least two occasions she didn't remember." Emotional weight: memory erosion through physical evidence. The vial's weight is the archive. The archive records what the autobiography doesn't. The filing system external to the filer.
+
+3. **Ninety milligrams** — "She framed it as adjustment because adjustment was the vocabulary of maintenance and maintenance was the vocabulary of control." Emotional weight: framing as coping. The escalation absorbed into maintenance vocabulary. The vocabulary of control applied to the loss of control. The framing is the mechanism.
+
+4. **"No adverse effect noted"** — Filed. Emotional weight: the filing system recording the datum, not the filer. "The filing system did not record the filer." The instrument measuring everything except its own recalibration.
+
+5. **Stream performance — "extraordinary"** — Not good. Not competent. Extraordinary. Emotional weight: the drift's first visible evidence. The stream-voice faster, associations pre-assembled, riffs landing before they finish resonating. The audience reads it as growth. The narration identifies it as the ninety reshaping cognitive edges. The gap between what the audience sees and what Kira experiences IS the drift.
+
+6. **Cruelty-catching failure** — "The joke was sharper than she'd intended... the framing reduced the Kindling operatives' risk to a punchline... three of the seven Lagos operatives had been arrested and the arrests were not bureaucracy and the arrests were not a joke." Emotional weight: microsecond recognition. The affect-recovery window opens just wide enough for the datum to register before the ninety closes it. At eighty the window was narrow. At ninety the window is narrower. The cruelty-catching that had thinned over months is thinner still.
+
+7. **Proximity stream announcement** — "She hadn't planned to say it. The sentence arrived the way the ring light arrived — without the decision preceding the action." Emotional weight: impulsive planning. The plan is logistically detailed, operationally coherent, and announced live without evaluation. The hearing was interest, not alarm. "The plan felt good. The plan felt necessary." The ninety's signature: the plan includes the plan and excludes the evaluation of the plan.
+
+8. **Chat reaction split** — "KIRA NO" vs "YES DO IT" / "she's different and I can't explain why but I'm here for it" / "someone please talk to her". Emotional weight: audience as collaborator in the drift. They cannot tell the difference between growth and deterioration. Their response (love, excitement, engagement) reinforces the curve. The commodification of suffering: viewer count climbing as Kira deteriorates.
+
+9. **Nuwa's message** — "You can't evaluate your own cognition with cognition that's been altered." Emotional weight: external mirror. The only character who sees from the outside. The comparison from Sump domain (stimulant stacks, maintenance crews, deep-shift work). "The crews that escalated fastest were the ones who filed the best reports." The precision is the tell. The filing quality is the evidence of deterioration.
+
+10. **Four-second filing** — "She filed it. Category: external observation. Subcategory: concern — noted." Emotional weight: processing speed as evidence. Four seconds to read, categorize, and store a message that would have kept her in the chair for an hour a year ago. "The filing was the processing. The processing was the response." The sitting excluded. The deliberation sold. The four seconds are the ninety's signature.
+
+11. **"Nuwa was not a mage"** — Dismissal through domain differentiation. Emotional weight: the filing system reaching for justification. "The comparison was — the filing system reached for the word — *noted*. The comparison was noted." The word arriving after the search. The search itself the tell. The noting without processing.
+
+12. **Circular logic** — "The work required the antenna and the antenna required the ninety and the ninety was a maintenance adjustment and the maintenance was holding and the plan was coherent and the proximity stream was in three days or four..." Emotional weight: the logic tight, the tightness mistaken for coherence. The circular reasoning that feels like linear planning. The ninety making the circle invisible. The invisibility is the mechanism.
+
+13. **"Conversation fifteen milligrams overdue"** — Paz's warning from 60mg: "If you hit seventy-five, we're having a different conversation." She's at ninety. The conversation hasn't happened. Emotional weight: the overdue filed and not weighed. The fact noted. The fact not processed. The processing would require the machinery the ninety suppresses.
+
+14. **Nightly ritual** — "The nightly ritual. Scale. Vial. Straw. Ninety milligrams — the new floor, the dose that had restored the ceiling three days ago and was now the maintenance baseline." Emotional weight: the escalation normalized. The ninety that was adjustment three days ago is now baseline. The floor that was ceiling. Paz's warning: "Floors don't move. Ceilings do." The floor moved. The floor is ninety.
+
+15. **Triple assertion** — "The quiet room held. The ninety held. The plan held." Emotional weight: over-insistence. The repetition itself the tell. The architecture requiring reassurance. The holding asserted three times because the holding requires assertion.
+
+16. **"The filing system did not note that the filing had taken four seconds"** — Closing observation. Emotional weight: the filing system cannot file its own acceleration. The instrument measuring everything except the measurement speed. "The filing system did not note that a year ago the same message would have kept her in the chair for an hour." The comparison the system cannot make because making the comparison requires the machinery the ninety suppresses.
+
+17. **"The antenna was coming"** — Final line. Emotional weight: destination as inevitability. The proximity stream is not a plan. The proximity stream is where the antenna is going. The going is the drift's direction. The direction is the curve Nuwa recognizes and Kira cannot see. The antenna that was passive receiver (Broadcast) has become active trajectory. The coming is the closing.
+
+**Emotional Restraint Technique:** Kira's register does not name emotions. Weight conveyed through: (1) Cognitive processing speed (four-second filing, faster associations, narrower affect-recovery window), (2) Framing vocabulary ("dosage adjustment" not "escalation," "maintenance" not "loss of control"), (3) Gap between reader perception and character experience (audience sees drift, Kira experiences clarity), (4) Physical markers (cold burn longer, vial lighter, ceiling restored), (5) Circular logic as coherence (the tightness feels like planning), (6) Filing system weaponized against filer (cannot file its own acceleration). The horror is in the efficiency. The efficiency is the drift. The drift includes not noticing the drift.
+
+**Comparison to B3 Ch 5:**
+- B3 Ch 5: 80mg maintenance, personality drift onset ("the material fails" line), ring light unpredictable, three more dark
+- B3 Ch 11: 80mg → 90mg escalation, personality drift accelerating (four-second filing, impulsive planning, cruelty-catching failure), proximity stream announced
+- Emotional progression: Ch 5 = drift visible to reader/audience, invisible to Kira. Ch 11 = drift accelerating, meta-cognition suppressed, external mirror (Nuwa) filed without processing. The filing system that organized the world cannot organize the filer. The instrument exceeds specification.
+
+---
+
 **Physical Tells:**
 - Hands on walnut surface (reading assessment) — vibration through desk, hum registered through infrastructure
 - Wrist rotation — not referenced (exited chapter's inventory, beyond C1's "absent and unnoticed")

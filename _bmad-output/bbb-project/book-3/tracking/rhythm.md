@@ -484,3 +484,61 @@ The pen that was institutional tool (B2 Ch 7) → framework writer (B2 Ch 17) �
 - **B3 Ch 4: Twenty-three — the count of demonstrations that work locally and fail systemically. 11.4 hours — the infrastructure's compensation speed.**
 
 The numbers track Sofia's arc: discovery (frequency) → suppression (pages) → distribution (endpoints) → analysis (percentage, seconds) → institutional response (minutes) → systemic failure (operations, hours). Each number is larger in scale. Each number carries a more comprehensive thesis. The progression is from signal to system.
+
+---
+
+### Chapter 11 — "Ninety Milligrams" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Quiet escalation (ceiling cracks, 90mg) → accelerated performance (stream scene, impulsive plan) → external mirror (Nuwa's message, filed in four seconds) → circular logic (closing)
+**Pacing:** Three-section structure. Escalation ~900 words (21%). Stream scene ~1,800 words (43%). Mirror/closing ~1,500 words (36%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Escalation — ceiling cracks | ~900 | Low-rising | Quiet opening, vial lighter, 90mg taken, framed as "dosage adjustment" |
+| Stream scene | ~1,800 | Medium-high (performance) | Fast, accelerated, Kindling data riff, cruelty-catching failure, proximity plan announced |
+| Nuwa's message + closing | ~1,500 | Medium-resolving | Four-second filing, circular logic, nightly ritual, "The antenna was coming" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Ninety milligrams." / "No adverse effect noted." / "She kept going." / "The antenna was coming."
+- TEXTURE mode = quiet register. Intensity in character state (cognitive acceleration, drift deepening), not prose density. Paragraph density moderate.
+- Two NBA deployments (at target): (1) "Not good. Not competent. Not the steady translator... Extraordinary." — three negations before payoff, chapter's first visible drift evidence. (2) "Not the shape... This was different. A thinning." — distinguishes new symptom from Broadcast's approaching shape.
+- Closing: "The antenna was coming." — three words. The plan as destination, the destination as the drift's trajectory.
+- Dialogue ~25% (stream scene dialogue-heavy — Kira translating Kindling data for audience, Nuwa's message). Stream dialogue fast, clipped. Nuwa's message compressed, pragmatic.
+- Three-section architecture: escalation (quiet, framed as maintenance) → performance (stream at 90mg, extraordinary) → mirror (Nuwa's warning, filed without processing). The rhythm is acceleration without alarm. The filing system runs faster. The filer cannot see the acceleration.
+- Bookend structure: "The ceiling cracked on a Tuesday she remembered" (opening — memory gap signature) → "The antenna was coming" (closing — the plan as inevitability). The opening notes what she *does* remember. The closing is what she cannot assess.
+- Triple assertion: "The quiet room held. The ninety held. The plan held." — over-insistence as tell, the repetition itself revealing the architecture requiring reassurance.
+
+**Dialogue Percentage:** ~25% (stream scene + Nuwa's message — significant for Kira chapter, appropriate for performance mode)
+
+**Pacing Concern:** Risk of personality drift feeling abstract (reader told about acceleration but not shown). Mitigated by: (1) Stream scene demonstrates the drift in action — faster riffs, cruelty-catching failure ("arrested operatives" as punchline), impulsive proximity plan announced live; (2) Four-second filing of Nuwa's warning vs. year-ago hour of deliberation — the speed differential IS the evidence; (3) Chat audience split reaction ("KIRA NO" vs "YES DO IT") — they cannot tell growth from deterioration; (4) Circular logic paragraph — the plan's coherence is the ninety's signature.
+
+**Structural Note:** B3C11 deepens the personality drift established in B3C5. Lumina escalates from 80mg (ceiling thinning) to 90mg (ceiling restored, framed as "dosage adjustment"). On stream: faster, funnier, sharper — the audience reads it as growth. The cruelty-catching fails (arrested operatives reduced to punchline). The proximity stream plan is announced impulsively, live, logistically detailed and operationally manic. Nuwa's message arrives through the testimony network — recognizes the stimulant-stack pattern from Sump maintenance crews. Kira files it in four seconds. The filing system cannot file its own acceleration. The chapter rhythm enacts this: the stream scene is high-energy (the ninety working), the escalation scene is quiet (framed as maintenance), the closing is circular (the logic tight, the tightness mistaken for coherence). The drift includes not noticing the drift.
+
+**Comparison to B3 Ch 5:**
+- B3 Ch 5: Lumina 80mg maintenance, personality drift onset ("the material fails" line), ring light unpredictable, pharmacist ritual, network self-sustaining
+- B3 Ch 11: Lumina 80mg → 90mg escalation, personality drift accelerating (faster associations, impulsive planning, four-second filing), ring light unpredictable, Kindling coordination, proximity stream planned
+- Together they bracket the drift's progression: B3 Ch 5 = onset (funnier, sharper, meaner — visible to reader/audience, invisible to Kira). B3 Ch 11 = acceleration (cognitive processing faster, affect-recovery narrower, meta-cognition suppressed). The filing system that organized the world cannot organize the filer. The instrument exceeds specification.
+
+**Number Echo Evolution (Kira):**
+- B2 Ch 6: Twelve million views, 60mg
+- B2 Ch 16: 214 hubs / 31 cities
+- B2 Ch 32: 80mg, fourteen dark
+- B2 Ch 40: Eleven seconds, 2.1 billion views
+- B2 Ch 51: Tuesday (the missing day)
+- B3 Ch 5: Three more dark (six months)
+- **B3 Ch 11: Ninety milligrams. Four seconds (filing speed). Three days (proximity stream timeline). "The ten milligrams bought space."**
+
+The numbers that were audience metrics (twelve million, 2.1 billion) and network casualties (fourteen dark, three more) have become pharmacological markers (ninety milligrams, ten milligrams) and cognitive processing speed (four seconds). The escalation is chemical. The evidence is temporal. The filing system records the data. The filing system cannot record what the data means for the filer.
+
+**Closing Echo Evolution (Kira):**
+- B2 Ch 32: "The ceiling low. The shape unnamed."
+- B2 Ch 40: "The antenna received."
+- B2 Ch 51: "She did not stop listening."
+- B3 Ch 5: "It always continued."
+- **B3 Ch 11: "The antenna was coming."**
+
+Same antenna metaphor, verb shift: received (Broadcast event) → listening (maintenance) → continued (baseline) → coming (destination). The antenna that was passive receiver has become active trajectory. The proximity stream is not a plan. The proximity stream is where the antenna is going. The going is the drift's direction. The direction is the curve Nuwa recognizes and Kira cannot see.
+
+---
