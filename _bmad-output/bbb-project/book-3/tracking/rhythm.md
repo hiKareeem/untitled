@@ -88,6 +88,47 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 13 — "The Grid Holds" (Aurielle Vasquez)
+
+**Mode:** TEXTURE → PRESSURE → TEXTURE
+**Tension Shape:** Institutional detection (alert) → escalating countdown (95→91) → PRESSURE peak (six-hour window) → pivot (NBA) → resolving (recovery, Thorne observation, closing)
+**Pacing:** Seven-section real-time crisis. Alert ~350 words (9%). Throughput decline ~450 words (12%). Correlation ~350 words (9%). Emergency protocols ~550 words (14%, PRESSURE center). Six-hour window ~350 words (9%, peak). Recovery+NBA ~500 words (13%). Thorne ~400 words (11%). Closing ~250 words (7%). Remaining ~600 words distributed across transitions.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Alert (14:07) | ~350 | Low-rising | Amber markers populating, twelve simultaneous, seventeenth file on desk |
+| Throughput decline | ~450 | Rising | Countdown (95→94→93→92→91), rerouting protocols, margin consumed |
+| Correlation visible | ~350 | Medium | Appendix data now on wall, model as operational data, real-time |
+| Emergency protocols | ~550 | PRESSURE (center) | Authorization, manual override, operational knowledge deployed, 91→92 |
+| Six-hour window | ~350 | PRESSURE (peak) | Model works, breach activity down, "Twelve people. Six hours. Nine percent." |
+| Recovery + NBA | ~500 | Pivot | Valley on display, triple negation, "*Her.*", competence as obstacle |
+| Thorne observation | ~400 | Medium-resolving | Corridor (12 meters), silence, recalculation taking different shape |
+| Closing | ~250 | Resolving | Hum, desk, post-strike assessment, restoration timeline |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "Twelve simultaneous." / "Ninety-two." / "The model worked." / "He did not look up. She did not enter."
+- TEXTURE → PRESSURE → TEXTURE mode transition (first Aurielle chapter with mode shift within chapter)
+- Single NBA deployment: "Not the automated system. Not the redistribution algorithm. Not Eduardo's engineering margin — the margin had been consumed in the first eleven minutes. *Her.*" — triple negation at chapter pivot, competence-as-obstacle realization
+- Throughput countdown as rhythmic engine: 95, 94, 93, 92, 91 — single-sentence paragraphs punctuating dense institutional processing
+- Two compound accumulations (Flag 2: line 156 ~70 words, Flag 3: line 194 ~100 words) — may exceed one-per-chapter pattern but earned by content
+- Minimal dialogue ~2% (operations desk status, Aurielle authorization) — operational only, no Thorne dialogue
+- Real-time timeline: 14:07 to 23:00 (9 hours) — section breaks at inflection points where data changed
+- Closing echo: "She opened the restoration timeline." — shift from triage map (C9) to recovery document
+
+**Dialogue Percentage:** ~2% (operational only — crisis management, not character interaction)
+
+**Pacing Concern:** Seven sections in one chapter risks fragmentation. Mitigated by: (1) each section break is a time jump at data inflection point, not arbitrary; (2) real-time crisis justifies granular tracking; (3) TEXTURE → PRESSURE → TEXTURE arc provides overall shape; (4) throughput countdown (95→91) creates continuous thread across sections.
+
+**Structural Note:** First Aurielle real-time crisis chapter. Tests whether institutional register can process operational emergency without breaking into different mode. It can. The register holds. The register IS how she manages the crisis — institutional vocabulary as operational tool, not shell. The vocabulary works. The vocabulary is how she works. The vocabulary is the competence that holds the grid.
+
+**Comparison to B2 C34 (Mumbai aftermath):**
+- B2 C34: retrospective crisis (DN-4 arrived, board session convened, legal exposure framed), PRESSURE throughout, translation absent for 2.3M
+- B3 C13: real-time crisis (alert → response → recovery), TEXTURE → PRESSURE → TEXTURE, translation not attempted (data processed as data)
+- Together they show Aurielle's institutional register evolution: B2 C34 = dual-track collapsed, waiting for translation that doesn't arrive. B3 C13 = single track operational, no translation expected, data processed directly as institutional input.
+
+---
+
 ### Chapter 9 — "Thorne's Recalculation" (Aurielle Vasquez)
 
 **Mode:** TEXTURE
