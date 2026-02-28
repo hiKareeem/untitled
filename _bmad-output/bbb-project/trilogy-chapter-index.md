@@ -3,6 +3,7 @@
 **Purpose:** Fast lookup for chapter-writer workflow to locate preceding POV chapters across all three books.
 
 **Generated:** 2026-02-22
+**Updated:** 2026-02-27 (Book 3 synced to chapter-plan-book-3.md v2)
 
 ---
 
@@ -63,25 +64,34 @@
 
 | POV | Chapters | Total |
 |-----|----------|-------|
-| **Aurielle** | 1, 9, 12, 20, 26, 36 | 6 |
-| **Nephthys** | 2, 14, 22, 30, 33, 37 | 6 |
-| **Malachi** | 3, 15, 28, 38, 45 | 5 |
-| **Sofia** | 4, 10, 13, 23, 32, 40, 44 | 7 |
-| **Kira** | 6, 11, 21, 25, 35, 43 | 6 |
-| **Nikolai** | 5, 16, 24, 34, 41, 46 | 6 |
-| **Zeyad** | 7, 18, 29, 42, 47 | 5 |
-| **Nuwa** | 8, 17, 27, 39, 48 | 5 |
-| **AEGIS** | 19, 31, 49 (final) | 3 |
+| **Aurielle** | 1, 9, 13, 21, 30, 40, 49 | 7 |
+| **Nephthys** | 2, 15, 22, 27 (death) | 4 |
+| **Nikolai** | 3, 12, 29, 34, 41, 46, 52 | 7 |
+| **Sofia** | 4, 10, 16, 25, 33, 39, 47 | 7 |
+| **Kira** | 5, 11, 20, 26, 38, 44 | 6 |
+| **Malachi** | 6, 17, 28, 37, 45, 51 | 6 |
+| **Zeyad** | 7, 19, 31, 42, 48 | 5 |
+| **Nuwa** | 8, 18, 24, 35, 43, 50 | 6 |
+| **AEGIS** | 14 (debut), 23, 32, 36, 53 (final) | 5 |
 
-**Total:** 49 chapters | ~200K words (estimated)
+**Total:** 53 chapters | ~210K words (estimated)
 
 **Status:** PLANNING — chapters not yet written
 
 ### Key Events (Planned)
-- **Ch 32-34:** The Proposition (convergence event)
-- **Ch 35-43:** Choice-based endings (Aurielle, Nephthys, Malachi, Sofia, Nikolai, Kira)
-- **Ch 42, 45, 47:** "Continuation is—" endings (Zeyad, Malachi, Zeyad)
-- **Ch 49:** AEGIS final chapter — dies mid-sentence
+- **Ch 14:** AEGIS POV debut
+- **Ch 27:** Nephthys dies (tumor) — before Proposition
+- **Ch 33-34:** The Proposition (convergence event)
+- **Ch 44:** Kira chooses herself (period ending)
+- **Ch 47, 48, 49, 51, 53:** "The continuation is—" endings (Sofia, Zeyad, Aurielle, Malachi, AEGIS)
+- **Ch 50, 52:** Period endings (Nuwa, Nikolai)
+
+### Endpoint Classification
+| Type | Characters | Meaning |
+|------|-----------|---------|
+| **Period** | Kira, Nikolai, Nuwa | Made a choice, stepped outside system |
+| **Biology** | Nephthys | Dies to tumor before crisis resolves |
+| **The dash** | Aurielle, Malachi, Sofia, Zeyad, AEGIS | Institutional paralysis / sentence doesn't end |
 
 ### Absent POVs
 - **Fuxi:** Closed in B2 Ch 9
@@ -92,20 +102,20 @@
 ## Cross-Book POV Tracking
 
 ### Active Across All Three Books
-- Aurielle (8 → 8 → 6)
-- Nephthys (6 → 6 → 6)
+- Aurielle (8 → 8 → 7)
+- Nephthys (6 → 6 → 4)
 - Sofia (5 → 7 → 7)
 - Kira (5 → 7 → 6)
-- Nikolai (6 → 5 → 6)
+- Nikolai (6 → 5 → 7)
 - Zeyad (5 → 5 → 5)
-- Nuwa (1 → 5 → 5)
+- Nuwa (1 → 5 → 6)
 
 ### Book-Specific POVs
 - **Vantanen:** B1 only (Prologue)
 - **Mirelle:** B1 only (absorbed Ch 40)
 - **Fuxi:** B1-B2 (closes B2 Ch 9)
 - **Malachi:** B2-B3 (debuts B2 Ch 3)
-- **AEGIS:** B2-B3 (debuts B2 Ch 19, closes B3 Ch 48)
+- **AEGIS:** B2-B3 (debuts B2 Ch 19, debuts B3 Ch 14, closes B3 Ch 53)
 
 ---
 
@@ -135,15 +145,15 @@
 - **Fuxi:** 9 (final)
 
 ### Book 3 (Planned)
-- **Aurielle:** 1 → 9 → 12 → 20 → 26 → 36
-- **Nephthys:** 2 → 14 → 22 → 30 → 33 → 37
-- **Malachi:** 3 → 15 → 28 → 38 → 45
-- **Sofia:** 4 → 10 → 13 → 23 → 32 → 40 → 44
-- **Kira:** 6 → 11 → 21 → 25 → 35 → 43
-- **Nikolai:** 5 → 16 → 24 → 34 → 41 → 46
-- **Zeyad:** 7 → 18 → 29 → 42 → 47
-- **Nuwa:** 8 → 17 → 27 → 39 → 48
-- **AEGIS:** 19 → 31 → 49 (final)
+- **Aurielle:** 1 → 9 → 13 → 21 → 30 → 40 → 49
+- **Nephthys:** 2 → 15 → 22 → 27 (death)
+- **Nikolai:** 3 → 12 → 29 → 34 → 41 → 46 → 52
+- **Sofia:** 4 → 10 → 16 → 25 → 33 → 39 → 47
+- **Kira:** 5 → 11 → 20 → 26 → 38 → 44
+- **Malachi:** 6 → 17 → 28 → 37 → 45 → 51
+- **Zeyad:** 7 → 19 → 31 → 42 → 48
+- **Nuwa:** 8 → 18 → 24 → 35 → 43 → 50
+- **AEGIS:** 14 (debut) → 23 → 32 → 36 → 53 (final)
 
 ---
 
@@ -162,7 +172,7 @@
 ### Chapter Plans (full architecture)
 - `book-1/chapter-plan-book-1.md` (1498 lines)
 - `book-2/chapter-plan-book-2.md` (1331 lines)
-- `book-3/chapter-plan-book-3.md` (844 lines)
+- `book-3/chapter-plan-book-3.md` (v2, 53 chapters)
 
 ### Manuscripts (compiled prose)
 - `manuscript-book1.md` (~260K words)

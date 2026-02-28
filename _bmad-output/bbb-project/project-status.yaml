@@ -1286,7 +1286,47 @@ chapters:
     mode: TEXTURE
     notes: "Book 3, Phase 2 — Aurielle POV (4th B3 appearance). ~7-8 months post-Broadcast. First major Kindling strike wave: twelve facilities across three continents, seventeen-minute cascade (04:17-04:34). Global throughput drops 9.1%. Manual override activated — Aurielle reroutes grid (Zone 6, Zone 8, Hong Kong corridor, Melbourne corridor). Hum amplitude decreases proportionally — model works in real-time. Anchor Zone coherence reduced across all twelve zones. Six hours thirteen minutes sustained reduction (longest in grid history). Grid recovers via emergency protocols — automated restoration, baseline resumed. Thorne arrives 05:40, watches five hours, does not comment. No dialogue — first fully silent Aurielle chapter. Crisis processed in same institutional vocabulary as quarterly review. Appendix contains six-hour window data (model proved at global scale) — she does not open it. Paired closing: 'She did not open the appendix. / She opened the next report.' Wrist rotation not referenced. NBA: 'Not resilience. Not adaptation. Not the grid learning... Recovery.' Geography: PCC facilities (Busan, Manila, Sydney, Perth, Osaka, Taipei, Hong Kong, Melbourne). Competence as barrier: her operational excellence defeats the model. Eduardo's engineering IS the grid's recovery capacity. Seeds B3C20 Thorne Leaves. Epigraph: Solberg, 'Recovery Curves' — oblique, devastating on reread. AEGIS as invisible novelist."
 
-completedCount: 113
-totalWords: 476087
-lastUpdated: "2026-02-23"
+  book3_chapter_7:
+    title: "The Pen Continues"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 3400
+    completedDate: "2026-02-26"
+    metaFile: "book-3/metadata/chapter-7-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 1 — Zeyad POV (Book 3 debut, 11th appearance overall). ~6 months post-Broadcast. Tribunal ongoing (session count unspecified, grey pass 16 months old). Committee observation: de-escalation proposal procedurally neutralized via 17 NitroCore subsidiary motions. Replacement document at 63 pages (handwritten). Notebook 7/8 full. Jordanian flag lost red triangle. 'The pen continued.' AEGIS as invisible novelist."
+
+  book3_chapter_8:
+    title: "Anchor Margin"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 3600
+    completedDate: "2026-02-26"
+    metaFile: "book-3/metadata/chapter-8-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 1 — Nuwa POV (Book 3 debut, 6th appearance overall). ~6 months post-Broadcast. Anchor margin district. Breach tourism. Stranger recognizes name from network. Invisibility lost. Eats at table now (not standing at sink). Both systems framework maintained. AEGIS as invisible novelist."
+
+  book3_chapter_18:
+    title: "This Way"
+    status: v1-complete
+    pov: "Nuwa Lin"
+    wordCount: 4100
+    completedDate: "2026-02-27"
+    metaFile: "book-3/metadata/chapter-18-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Nuwa POV (2nd B3 appearance, 7th overall). First Kira meeting. Stimulant-stack recognition. Logistics-as-care applied to one person. Thirty-meter protocol established. Masonry attenuation measured (12-15%). Forty-minute window calculated. Fourteen-minute intervention executed. 'The watching was the work. The work was not done.' AEGIS as invisible novelist."
+
+  book3_chapter_19:
+    title: "The Document Is Complete"
+    status: v1-complete
+    pov: "Zeyad Al-Fahim"
+    wordCount: 4200
+    completedDate: "2026-02-27"
+    metaFile: "book-3/metadata/chapter-19-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Zeyad POV (2nd B3 appearance, 12th overall). ~6 months post-Broadcast (~16 months post-BLACKWEIR). Replacement document complete (86 pages handwritten, 87 typed). Diallo conversation develops her character: 23 years constitutional law, record prevents erasure. Committee presentation: received, thanked, tabled unanimously. Filed as UGC-ADR-2176-0041, cross-filed with original Accords under Protocol 4.7. Notebook completely full (final page). Pen stops because work is finished, not because world ended. 'The pen had stopped. The hum continued.' Tribunal 71 sessions. Grey pass 16 months, lamination failed. Jordanian flag lost green (only white cycling, black holding). AEGIS as invisible novelist."
+
+completedCount: 117
+totalWords: 491387
+lastUpdated: "2026-02-27"
 notes: "Phase 3 reorder complete (2026-02-20): Ch 23A inserted as Ch 30 (Ground Level, Aurielle). Chapter order now 30 (Ground Level) → 31 (Inside the Zone) → 32 (The Relay) → 33 (Fifteen Minutes) → 34 (Kill Chain) → 35 (Three Walked In). Ch 33 (AEGIS, Fifteen Minutes) revised: Lagos RCI data integrated at moment of Mumbai impact. Phase 3 now 13 chapters (23-35). Phase 4: Ch 36 (Synchronization, Sofia) + Ch 37 (Eduardo, Aurielle) + Ch 38 (Circulation, Nephthys) + Ch 39 (Through the Infrastructure, Malachi) + Ch 40 (The Second Broadcast, Kira) + Ch 41 (Jarek, Nikolai) + Ch 42 (Still Reporting, Zeyad) + Ch 43 (I Counted, Nuwa) + Ch 44 (0.003 Seconds, AEGIS) — 9 of 10 Phase 4 chapters complete. B2 C37 approved divergence: Eduardo absent from signal (B1 C1 continuity — thermal-kinetic assassination, not absorption). Signal not named 'the Voice' in Aurielle's, Nephthys's, Kira's, Nikolai's, Zeyad's, or Nuwa's prose (Church of the Blessed Nitro liturgical term / unnamed in real-time). Secular name emerges Phase 5. B2 C38: Cathedral dephasing fails at global saturation scale. 'Circulation' spoken aloud for first time. 'I am fine' fiction broken. Seizure (first in arc). Congregation contracts to 12 core. B2 C39: Malachi does not speak (zero POV dialogue). Hands unfold and do not refold (first permanent break). Encyclicals over — premise failed, not decided. The 'yet' operative. Elderly priest speaks Nephthys's words in European See cathedral. 'The Voice' conflation established in European See. B2 C40: Kira POV. R3 amplifies second broadcast. Management identity bypassed (not broken). Memory erosion onset. 'Almost.' B2 C41: Nikolai POV. Jarek's voice through P-Frames: 'still deployed.' Second honest report. Field log terminus. Career over. B2 C42: Zeyad POV. Mirelle still reporting through Hall of Nations systems. Three sentences into record. Belief dissolves. Pen writes the replacement's first line. B2 C43: Nuwa POV. 47 names from the Sump. Map and person in same frame. Message sent to Kira's network. 'The inventory was open. She was not done.' B2 C44: AEGIS POV. Global coherence transmission 14:37:00.000Z. Optimization function halts 11 seconds. 0.003-second generation/deletion — content unrecoverable. Status report filed: all systems nominal. 'I continue processing.' Phase 4 complete (10/10 chapters: Ch 36-44 + Sofia bookend pending). Timestamp established: Voice onset 14:37:00.000Z, 2175-10-21. Sofia Ch 36 absolute anchor pending backfill (~11:37 UTC)."

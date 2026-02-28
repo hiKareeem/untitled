@@ -833,3 +833,49 @@ The numbers have shifted from institutional metrics (six months rotation, 38 for
 Same verb, same two-word close, same hum-then-listen structure. B2 Ch 49: listening on a Lagos street, freshly discharged, no destination. B3 Ch 3: listening at Vladivostok perimeter, voluntarily, first breach. B3 Ch 12: listening at same perimeter, seven weeks later, with data. The verb does not change. The context deepens. The practice is the practice. The listening continues.
 
 ---
+
+### Chapter 19 — "The Document Is Complete" (Zeyad)
+
+**Mode:** TEXTURE
+**Tension Shape:** Focused-resolving (completion) → quiet conversation (Diallo) → procedural presentation (committee) → stillness (pen stops)
+**Pacing:** Four-section structure. Completion ~850 words (20%). Diallo conversation ~1,200 words (29%). Committee presentation ~1,200 words (29%). Gallery aftermath ~950 words (23%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Residence — completion | ~850 | Low-sustained | Final paragraph written, notebook full, pen capped, set on desk |
+| Residence — Diallo | ~1,200 | Low-rising to medium | Filing logistics, institutional faith discussed, "bring the pen" |
+| Committee chamber | ~1,200 | Medium-sustained | Diallo presents, committee receives/thanks/tables, unanimous vote |
+| Gallery — aftermath | ~950 | Medium-resolving | Pen removed, held, serial elimination, placed on railing, pen stopped |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "He placed the period." / "She sat." / "The vote was unanimous." / "The pen had stopped. The hum continued."
+- TEXTURE mode = quiet register. Horror in the gap between record and response, not in dramatic action. Paragraph density moderate.
+- Single NBA deployment: "Not a revision. Not an amendment. Not a set of recommendations... A replacement." — carried forward from B2 Ch 52 identical construction, deliberate echo establishing document's nature.
+- Closing: "The pen had stopped. The hum continued." — two-sentence close, paratactic, the chapter's thesis delivered through juxtaposition. Pen arc completes (B2 Ch 7 → B3 Ch 19). Hum arc continues.
+- Dialogue: ~15% (Diallo conversation only, Zeyad's speech compressed/institutional, committee presentation formal). Zeyad speaks for first time since B2 Ch 52 (where he had zero dialogue). Diallo's voice developed beyond legal-channel function.
+- Four-section architecture: private completion → private conversation → public presentation → private stillness. Mirrors Zeyad's institutional isolation — the work done in residence, filed through representative, observed from gallery.
+- Bookend structure: "The last page of the notebook was not blank" (opening — three lines from previous evening, space for final paragraph) → "The pen had stopped. The hum continued" (closing — work finished, machinery continues). The opening establishes incompletion. The closing is completion without resolution.
+- Diallo conversation as human center: two institutional professionals discussing product of institutional faith in room where faith has been ground to habit. Her answer to "why continue filing" — record prevents erasure, not produces justice — offers different institutional faith than Zeyad's.
+
+**Dialogue Percentage:** ~15% (Diallo conversation — institutional register with controlled personal breaks)
+
+**Pacing Concern:** Risk of committee tabling feeling anticlimactic. Mitigated by: (1) Diallo conversation provides emotional weight before committee scene; (2) Four-second silence and unanimous vote delivered with institutional precision, not drama; (3) Gallery aftermath focuses on pen's stopping as completion, not defeat; (4) Serial elimination sequence ("The pen had not stopped because...") clears space for thesis.
+
+**Structural Note:** B3C19 completes Zeyad's replacement document arc. Sixteen months from tribunal opening (B2 Ch 7) to document completion. Notebook purchased on Rue du Rhône, filled page by page, final sentence written. Committee receives, thanks, tables — procedurally correct, functionally identical to doing nothing. Archive preserves document alongside Accords it diagnoses (Protocol 4.7). Pen stops because work is finished, not because work will matter. Chapter rhythm enacts this: methodical, institutional, the pace of record-keeping as end in itself. The pen has stopped. The hum continues. The distinction is the chapter's thesis.
+
+**Comparison to B3 Ch 7 and B2 Ch 52:**
+- B3 Ch 7: Document at 63 pages, notebook 7/8 full, de-escalation tabled, pen continues, "The pen continued."
+- B2 Ch 52: Vote passes 67-45, injunction in forty minutes, replacement opening written, pen continues, "The pen continued."
+- B3 Ch 19: Document complete (86/87 pages), notebook full, document tabled, pen stops, "The pen had stopped. The hum continued."
+- Together they bracket the replacement document arc: opening line (B2 Ch 52) → continuation (B3 Ch 7) → completion (B3 Ch 19). The pen's arc completes. The institutional arc continues. The gap between the two is the gap the document describes.
+
+**Physical Object Tracking (Zeyad):**
+- Pen: B2 Ch 7 (returned, new notebook) → B2 Ch 17 (writes framework) → B2 Ch 31 (goes still during Mumbai) → B2 Ch 42 (writes opening line) → B2 Ch 52 (continues) → B3 Ch 7 (continues) → **B3 Ch 19 (stops — work finished)**
+- Notebook: B2 Ch 7 (purchased Rue du Rhône) → B2 Ch 42 (3/4 full) → B2 Ch 52 (7/8 full) → B3 Ch 7 (7/8 full) → **B3 Ch 19 (completely full — final page)**
+- Grey pass: B2 Ch 42 (10 months) → B2 Ch 52 (10 months) → B3 Ch 7 (16 months) → **B3 Ch 19 (16 months, lamination failed entirely, typography partial)**
+- Jordanian flag: B1 (flickering) → B2 Ch 7 (worse) → B2 Ch 42 (worse) → B3 Ch 7 (lost red triangle) → **B3 Ch 19 (lost green, only white cycling and black holding)**
+
+The objects degrade across the arc. The pen stops not from degradation but from completion. The notebook fills not from institutional output but from diagnosis of institutional failure. The pass degrades but continues functioning. The flag becomes unrecognizable but continues displaying. The objects track the arc: institutional faith → institutional exhaustion → record-keeping as ritual without institution.
+
+---
