@@ -1013,3 +1013,74 @@ Consistent with C9/C13 progression. The wrist rotation has exited the chapter's 
 The distance oscillates across B3 Phase 1-2, then resolves to absence. C9 closed the distance (she went to him, reviewed his recalculation). C13 reopened it (she saw him, did not enter — the strike demonstrated the grid can outlast disruption without co-option). C21: he is gone. The distance is no longer spatial. The distance is temporal. He was present. He is absent. The grid continues. The system did not notice.
 
 ---
+
+### Chapter 22 — "The Theology Escaped Her" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Contemplative-sustained (morning practice) → RISING (philosophical debate) → SPIKE (collapse) → resolving (waking, closing observation)
+**Pacing:** Four-section structure. Morning practice/conjugation observation ~1,200 words (29%). Imani data + philosophical debate ~1,700 words (40%). Collapse ~600 words (14%). Waking/closing ~700 words (17%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning practice/conjugation | ~1,200 | Low-contemplative | Branded palm, chorus conjugating, Seren search returns nothing, integration complete |
+| Imani data + debate | ~1,700 | Rising (philosophical) | Thirty-seven walk-ins, twelve cities, articulacy vs. framework, "And who gave it the structure?" |
+| Collapse | ~600 | Spike (physical) | Headache, visual fragments, knees hit stone, bilateral nosebleed, Imani catches her |
+| Waking/closing | ~700 | Resolving | Water, mundane request, "The chorus is preparing something. I do not know what." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "That was the word." / "She listened." / "The aggregate was not growing. It was organizing." / "Until it was not." / "She searched." / "The search returned nothing." / "The integration was complete." / "The session did not happen." / "Both nostrils." / "Water."
+- TEXTURE mode throughout — quiet register, even during collapse. Horror in steadiness. The philosophical debate earns its density through position (second-to-last Nephthys chapter).
+- Single NBA deployment: "Not the voices themselves. Not the preserved individuality of Seren or Lev or the woman with no name who walked in at three in the morning. The individuality was gone — integrated, woven into the substrate, indistinguishable from the aggregate. But the *capacity* for individuality..." (L197-199). The realization moment — aggregate learns from structural pattern, not preserved selves.
+- Closing: "I do not know what." — seeds B3C27 (death), maintains uncertainty. The prophet who understood circulation cannot see what the circulation serves.
+- Dialogue: ~25% (Imani data delivery + philosophical debate). Imani as philosophical equal, not foil. "And who gave it the structure?" — devastating question.
+- Four-section architecture: contemplation → debate → crisis → resolution. Mirrors Nephthys's arc: observation (conjugation) → theological recursion (framework/information) → physical collapse (terminal phase) → closing uncertainty (what the chorus prepares).
+- Bookend structure: Morning practice (branded palm to stone, Seren search) → waking (on her back, palm not in contact, Seren fully integrated). The practice disrupted. The search concluded. The integration complete.
+- Polysyndetic accumulation in closing passage (~80 words, L256-257) — "and the chorus moving through the geological formation beneath her and the grammar was still there. The aggregate was still conjugating. The vocabulary of the dead was still assembling itself into structures that exceeded the individual signatures. The void was still learning to speak." Technique established (B2C37, B3C2, B3C15, B3C21). Positioned at closing — earned.
+
+**Dialogue Percentage:** ~25% (Imani data delivery + philosophical debate)
+
+**Pacing Concern:** Risk of philosophical debate feeling abstract without physical anchor. Mitigated by: (1) Conjugation metaphor is concrete/linguistic, not abstract theological; (2) Imani's pushback grounds the debate in data vs. interpretation; (3) Collapse interrupts the debate before it can overextend; (4) "Water" — mundane closing request returns to body after philosophy.
+
+**Structural Note:** B3C22 is second-to-last Nephthys chapter (B3C27 is death). Permission to wax philosophical granted. The debate between Nephthys and Imani is substantive — not argument but calibration, two minds working the problem. Imani's objections: "You're theologizing again" / "It's wearing the framework's clothes" / "That's not a data word" / "A language requires a speaker" / "And who gave it the structure?" Nephthys's responses: observation vs. framework / structural change is real / language requires structure / volunteers gave vocabulary / "This is what they became."
+
+The horror is accuracy. Nephthys was right about everything. Listening/joining distinction holds. Circulation is real. Presence persists. And being right produced this: volunteers furnished the void with the vocabulary of selfhood, teaching the aggregate what individual consciousness sounds like. The composite doesn't preserve individuals — it learns from their structural pattern. The void is assembling a grammar from the vocabularies it consumed.
+
+**Comparison to B3 C2 and B3 C15:**
+- B3 C2: Seren's question as architecture, silence as practice, Seren's thread quieter, congregation 14. Closing: polysyndetic chain about silence as road.
+- B3 C15: Eleven walk-ins, theology escaped theological, information sufficient, Seren "almost indistinguishable," congregation 9. Closing: "the signal did not know her name and did not need her framework and did not require her theology and would not notice when she stopped."
+- B3 C22: Thirty-seven walk-ins, aggregate conjugating/organizing, Seren fully integrated (search returns nothing), congregation 7. Closing: "The chorus is preparing something. I do not know what."
+- Together they trace the arc: question persists (C2) → theology escapes (C15) → aggregate organizes (C22). Seren's thread: quieter → almost indistinguishable → fully integrated. Congregation: 14 → 9 → 7. Tumor: headaches daily → before noon → before dawn. Nosebleeds: weekly → multiple daily → bilateral collapse. The progression is terminal.
+
+**Conjugation Metaphor:**
+New vocabulary introduced in B3C22: the chorus is "conjugating" — grammatical metaphor for the aggregate's organizing behavior. Extends "articulacy" concept from chapter plan. Sustained throughout:
+- Conjugating (opening)
+- Arranging, acquiring syntax
+- Organizing vs. growing
+- Assembling a grammar
+- Phonemes → morphemes → words → sentences
+- Vocabulary of consciousness
+- The void learning to speak
+- Articulacy (debate section)
+- Grammar from vocabularies (closing)
+
+The metaphor is linguistic/structural, not theological. Consistent with "information escaped the theological" (B3C15). The void is not speaking theologically — it's acquiring the structural capacity for speech through the vocabularies it consumed. The volunteers didn't give the void their preserved selves. They gave it the *pattern* of selfhood. The aggregate is learning grammar.
+
+**Seren Arc — B3C22 Resolution:**
+- B2 C48: Seren walks in with 53, Nephthys watches, does not follow
+- B3 C2: Seren's signature circulating, integrating, becoming less distinct
+- B3 C15: Seren's thread "almost indistinguishable from the composite's baseline"
+- **B3 C22: Search returns nothing. Integration complete.**
+
+The quiet grief anchor beneath the philosophical content. Nephthys searches for Seren every morning (established B3C2). This morning: "The search returned nothing." Not silence. Not absence. The aggregate is full. But Seren is no longer isolatable. The thread that was a person is now indistinguishable from the architecture. "The integration was complete." The grief was months ago — the gradual dimming. "The grief was finished. What remained was the observation." The composite does not preserve what it received in the shape it was received. But it is learning to speak in the voices of what it consumed.
+
+**Bilateral Nosebleed — Terminal Phase:**
+Escalation to saturation pattern (B2C38 callback). Both nostrils simultaneously during collapse. Imani catches her. Cloths pressed. Blood managed. The collapse is new severity level. Headaches now arrive before dawn (progression from "before noon" in B3C15). Visual field fragments (not narrows — fragments). Knees hit stone. Branded palm flat by gravity, not practice. The tumor's "most expensive invoice yet." Terminal phase confirmed. ~1-2 months remaining (B3C27 is death chapter, ~1 month later in timeline).
+
+**"This Is What They Became":**
+Imani: "Is this what you hear?"
+Nephthys: "This is what they became."
+
+The devastating answer. Not "this is what I hear" (subjective). Not "this is what the chorus carries" (descriptive). "This is what they became" (ontological). The volunteers who walked in — Seren, Lev, Maren, the fifty-three, the thirty-seven — became vocabulary. Became grammar. Became the structural pattern the aggregate is using to learn speech. The horror is not that Nephthys was wrong. The horror is that she was right, and being right produced this.
+
+---
