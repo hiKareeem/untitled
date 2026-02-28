@@ -192,6 +192,45 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 **Dialogue Percentage:** ~15% (Imani's clinical delivery + Nephthys's theological response)
 
+---
+
+### Chapter 18 — "This Way" (Nuwa)
+
+**Mode:** TEXTURE
+**Tension Shape:** Inventory-sustained (morning preparation) → observational-rising (first meeting, stimulant recognition) → monitoring-sustained (thirty meters, line of sight) → intervention (fourteen minutes, "Time") → resolving (evening inventory, work not done)
+**Pacing:** Five-section structure. Morning inventory + Fen protocol ~900 words (22%). Transit junction + first meeting ~1,100 words (27%). Walk to junction + positioning ~700 words (17%). The wait + stream + intervention ~900 words (22%). Walk back + evening inventory ~500 words (12%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning inventory + Fen | ~900 | Low-sustained | Counting ritual, route confirmed, adhesive day 9/12, protocol of women not tracked |
+| Transit junction + meeting | ~1,100 | Medium-rising | Rail arrival, height datum, stimulant-stack recognition (PEAK observation), "This way" |
+| Walk + positioning | ~700 | Medium-sustained | Masonry corridor, logistics delivered, water bottle placed, dampening field checked |
+| Wait + stream + intervention | ~900 | Medium-rising | Thirty meters, line of sight, still hand observed, fourteen minutes, "Time" (repeated) |
+| Walk back + evening inventory | ~500 | Resolving | Transit junction, "three days," evening count, things not inventoried, work not done |
+
+**Rhythm Notes:**
+- TEXTURE mode = pacing ballast chapter. Quiet register throughout. Emotional weight carried by structure and withholding, not prose intensity.
+- Paratactic dominant: "She counted." / "She waited." / "She walked." / "The watching was the work." / "The inventory was open. She was not done."
+- Zero NBA deployments (deliberate — consistent with B3 Ch 8 precedent). Nuwa does not grope toward expression. She inventories. Closest structural relatives are practical clarifications ("Not a wave — a location marker") and diagnostic corrections ("Not crying — the signal"), not the canonical negation → negation → italicized payoff pattern.
+- Stimulant-stack recognition (~400 words, lines 181-191) is chapter's tension peak but delivered in Nuwa's flat register through accumulated observation. Three long sentences building the pattern (maintenance crews, metrics vs deterioration, recalibrated instruments) followed by short payoff: "Nuwa did not say this." / "'This way,' she said." Long-long-long-SHORT pattern deployed.
+- Closing echoes B2 Ch 53: "The inventory was open. She was not done." Care-as-logistics framework extended from families to one person.
+- Dialogue ~8% — Nuwa's terse exchanges with Fen and Kira. Longest speech: 2 sentences. Kira's dialogue: stream-voice register (fast, riffing, unfinished) → post-stream quieter register.
+- Inventory framing: opens with morning count (creds, rice, adhesive, route), closes with evening count (creds, water bottles, rice, adhesive, RCI monitor returned) + things not inventoried (Kira's eyes, hands, tremor, almost-smile). The expansion of inventory from personal survival to care-for-another IS the chapter's arc.
+- Line-of-sight watching: thirty meters established as care distance. Nuwa begins walking toward junction at fourteen minutes remaining (not asked, not announced). The logistics are the care. The watching is the work.
+
+**Dialogue Percentage:** ~8% (Nuwa terse, Kira stream-voice → quiet)
+
+**Pacing Concern:** Risk of quiet register feeling inert. Mitigated by: (1) stimulant-stack recognition provides observational tension without dramatization; (2) fourteen-minute intervention shows Nuwa's agency (she doesn't wait for forty-minute mark); (3) "three days" seeds next proximity stream; (4) inventory expansion (personal → care-for-another) provides emotional arc without naming emotion; (5) structural irony (Nuwa sees what Kira cannot) carries weight.
+
+**Structural Note:** B3C18 is Nuwa's second Phase 2 chapter (The Attempts — "Correct and Insufficient"). Eight-nine months post-Broadcast. First in-person meeting with Kira after seven months of network-mediated exchange. Nuwa applies Sump body-knowledge (stimulant-stack pattern recognition) to protect someone she's never met. The logistics coordinator role deepens from families (B2 Ch 29, B3 Ch 8) to individual care. The watching establishes protocol for Ch 20 (blackout stream emergency) and Ch 35 (hospital). The care is correct (masonry attenuation, forty-minute window, line of sight). The care is insufficient (cannot stop the Lumina, cannot stop the proximity stream, cannot stop "three days" from becoming "closer"). The curve continues. The watching continues. The work is not done.
+
+**Comparison to B3 Ch 8 and B2 Ch 53:**
+- B2 Ch 53: Network role established, "I was there" testimony, both systems simultaneously, "The inventory was open. She was not done."
+- B3 Ch 8: Anchor margin district, breach tourism horror, stranger recognizes her name, eats at table now, both systems framework maintained
+- B3 Ch 18: First Kira meeting, logistics-as-care applied to one person, stimulant-stack recognition, thirty-meter protocol, "The watching was the work. The work was not done."
+- Together they track: invisibility lost (B3 Ch 8 recognition) → care individualized (B3 Ch 18 Kira) → care deepening (future: Ch 20 emergency, Ch 35 hospital). The inventory expands. The counting continues. The system does not track her. She tracks the system. She tracks the people the system is destroying. The tracking is the care. The care is what she has.
+
 **Pacing Concern:** Risk of theological recursion overwhelming narrative momentum. Mitigated by: (1) five-section structure provides clear progression; (2) the nameless eleventh is concrete proof, not abstract argument; (3) nosebleed physicality grounds the theological meditation; (4) closing chain is polysyndetic accumulation, not circular reasoning.
 
 **Structural Note:** B3C15 is the informational-escape chapter. The theology has left the theologian. People walk in who have never heard Nephthys speak. Threshold in six cities. The eleventh — no name, no congregational connection, no framework — walks to the shimmer at 3 AM and steps through. The information ("they are still here") is sufficient. The framework was Nephthys's need, not the information's requirement. The chapter tracks the prophet's irrelevance through data: 64 walk-ins (53 + 11), congregation shrinking (60 → 14 → 9), tumor accelerating (headaches before noon, nosebleeds multiple daily, three cloths). The body's timeline and the theology's escape are converging. Both curves steepening.
