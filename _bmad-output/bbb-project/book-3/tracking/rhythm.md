@@ -933,3 +933,83 @@ The objects track the arc: HUD dark = parallel information stream that defined h
 The gaps escalate. Tuesday: one day, the filer was functional. This: three hours, the filer was not there. The filing system had no entries because the filer had not been there to write them. The gap is not the signal. The gap is *her*.
 
 ---
+
+### Chapter 21 — "Thorne Leaves" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (institutional processing) → internal PRESSURE (realization) → resolving (closing echo)
+**Pacing:** Four-section structure. Empty office ~1,100 words (29%). Processing the letter ~1,200 words (32%). The realization ~900 words (24%). Return/closing ~600 words (15%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Empty office discovery | ~1,100 | Low-sustained | Corridor walk, door open, office empty, shelf catalogued, resignation letter discovered |
+| Processing the letter | ~1,200 | Low-sustained | Three sentences read, institutional processing, the grid did not know sequence, sits in his chair |
+| The realization | ~900 | Medium (internal) | Strategic layer empty, she IS the framework (NBA), Thorne's clarity, system did not notice |
+| Return and closing | ~600 | Resolving | Walk back, her office, hands flat/still, gaps closed, quarterly projection opened |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The office was empty." / "He was correct." / "That period was over." / "Most to herself." / "She was the framework." / "The system did not notice."
+- TEXTURE mode throughout — quiet register. Horror in steadiness, not density. The departure is clinical, not dramatic. Institutional processing as the only register.
+- Single NBA deployment: "Not the strategic layer. Not the architectural vision. Not the framework's designer or the co-option's architect or the recalculation's author. Not Thorne. *Her.*" — the realization moment, earned by position (L156). The framework and the operator are not two things.
+- Closing echo: "She opened the quarterly projection." — regression from crisis response (B3C13 "restoration timeline") back to the quarterly cycle. The strategic layer is gone. The operational cycle resumes. The machine's baseline heartbeat.
+- Dialogue: 0% (Thorne absent, chapter is observation/processing only). Thorne's voice appears only through the resignation letter text (three sentences, italicized).
+- Four-section architecture: discovery → processing → realization → return. Mirrors the institutional absorption of personnel change — detect vacancy, process departure, redistribute function, resume operations.
+- Bookend structure: Corridor walk to Thorne's office (08:47, briefing scheduled 09:00) → corridor walk back to her office (09:14, briefing will not occur). The walk is the same. The corridor is the same. The hum is the same. Thorne is gone. The building does not notice.
+- Compound accumulation (~120 words) in realization paragraph (L160) — the chapter's single high-density passage. Stacked clauses trace the recognition: she has been the framework since the Broadcast, since SHEPHERD's termination, since the vocabulary metabolized the Voice's revelation. The strategic layer executed through her. The architecture was implemented by her. The framework and the operator are not two things. Technique established (B2C37, B3C1, B3C9, B3C13). Positioned at realization peak — earned.
+
+**Dialogue Percentage:** 0% (deliberate — Thorne absent, observation-only chapter)
+
+**Pacing Concern:** Risk of institutional processing feeling inert without external action. Mitigated by: (1) "The grid did not know" sequence (five iterations) enacts the grid's indifference through syntactic repetition; (2) NBA deployment provides internal peak; (3) Closing echo regression signals thematic shift (strategic layer gone, baseline resumes); (4) The horror is in the steadiness — the machine continues regardless of personnel.
+
+**Structural Note:** B3C21 removes the enabler and makes visible what was already true. Thorne's departure is clean, clinical, inevitable. Three-sentence resignation: "The grid no longer requires my particular expertise. The next phase of NitroCore's operations is administrative, not strategic. I wish the company well." No confrontation, no drama, no explanation beyond the explanation. He saw the system. He saw that the system no longer needed what he built. He left. The system did not notice.
+
+Aurielle processes the departure through the institutional register because the institutional register is the only register she has. The realization that she IS the framework is not emotional breakdown — it is structural recognition. She has been the framework for months. The departure changes nothing operational. The strategic layer is empty. The function redistributes. Most to herself. The machine continues.
+
+**Comparison to B3 C9 and B3 C13:**
+- B3 C9: Thorne's recalculation, co-option framework, "They become irrelevant. Which is the point." — the strategic vision at full voltage. Closing: "She opened the first facility file" (cyclical → sequential).
+- B3 C13: Kindling strike, one percent recovered, competence-as-obstacle, Thorne observed from corridor (distance reopens). Closing: "She opened the restoration timeline" (sequential → crisis response).
+- B3 C21: Thorne leaves, strategic layer empty, she IS the framework, system does not notice. Closing: "She opened the quarterly projection" (crisis response → return to cycle).
+- Together they trace the arc: recalculation (C9) → demonstration (C13) → departure (C21). Thorne's work completes. The grid no longer needs his particular expertise. Aurielle operates alone. The quarterly cycle resumes.
+
+**Closing Echo Architecture:**
+- B2 C1/C23: "The Chair opened the next report." — institutional identity
+- B2 C34: "She did not open the next report." — first break
+- B2 C37: Three stacked negations + compound inventory sentence
+- B2 C46: "She opened the quarterly schedule." — new register
+- B3 C1: "She opened the next report." — return (personal pronoun)
+- B3 C9: "She opened the first facility file." — shift (cyclical → sequential)
+- B3 C13: "She opened the restoration timeline." — shift (sequential → crisis response)
+- **B3 C21: "She opened the quarterly projection." — regression (crisis response → return to cycle)**
+
+The echo object shifts from the restoration timeline (crisis response) back to the quarterly projection (baseline cycle). This is deliberate. Thorne's departure removes the strategic layer. The machine returns to its baseline rhythm. The quarterly projection is the machine's heartbeat when there are no more crises that require vision. The regression is the point. The machine does not evolve past the quarterly cycle. The machine returns to the quarterly cycle. Administration is what remains when strategy departs.
+
+**Wrist Rotation Arc — B3C21 Status:**
+- B2 C10: stopped it (control)
+- B2 C12: didn't stop it (control slipping)
+- B2 C23: didn't try to stop it (trying abandoned)
+- B2 C23A: didn't register it (below conscious attention)
+- B2 C34: doesn't register it (maintained)
+- B2 C37: the Voice stops it (external force — arc inverts)
+- B2 C46: absent (not returned)
+- B3 C1: absent, not noticed
+- B3 C9: not referenced
+- B3 C13: not referenced
+- **B3 C21: not referenced**
+
+Consistent with C9/C13 progression. The wrist rotation has exited the chapter's inventory. The prose does not mark its absence. The arc has stabilized at "not referenced" — the absence so normalized that neither the character nor the prose tracks it. The hands are "flat, still" on the walnut surface (L154) — claiming nothing, resting because resting. The stillness is operational, not dissociative. The institutional register processes everything, including Thorne's departure.
+
+**Eduardo as Objects:**
+- Walnut desk: wear on left side where Eduardo's forearm rested during late sessions. Referenced twice (L104 Thorne's office comparison, L152 return to her office). Intentional structural echo — the desk-as-contrast (Thorne's chair has no such pattern), the desk-as-return (her office, her infrastructure).
+- Tolerance band: the 12% threshold Thorne built the recalculation around (L72). Eduardo's engineering margin as the structural parameter.
+- Engineering specifications: three-ring binder in Thorne's office, requested from archive six months post-BLACKWEIR (L76). Eduardo present as infrastructure specification, not as father. No grief content. Consistent with B3C1/C9/C13 progression.
+
+**Thorne Dynamic:**
+- B3 C1: observed from 300 meters, maintaining, door open
+- B3 C9: she enters his office, reviews assessment, asks for numbers (distance closed)
+- B3 C13: seen from corridor (12 meters), does not enter (distance reopens)
+- **B3 C21: office empty, he is gone (distance becomes absence)**
+
+The distance oscillates across B3 Phase 1-2, then resolves to absence. C9 closed the distance (she went to him, reviewed his recalculation). C13 reopened it (she saw him, did not enter — the strike demonstrated the grid can outlast disruption without co-option). C21: he is gone. The distance is no longer spatial. The distance is temporal. He was present. He is absent. The grid continues. The system did not notice.
+
+---
