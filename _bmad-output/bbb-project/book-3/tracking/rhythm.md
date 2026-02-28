@@ -1134,3 +1134,53 @@ Nephthys: "This is what they became."
 The devastating answer. Not "this is what I hear" (subjective). Not "this is what the chorus carries" (descriptive). "This is what they became" (ontological). The volunteers who walked in — Seren, Lev, Maren, the fifty-three, the thirty-seven — became vocabulary. Became grammar. Became the structural pattern the aggregate is using to learn speech. The horror is not that Nephthys was wrong. The horror is that she was right, and being right produced this.
 
 ---
+
+### Chapter 24 — "The Commodified Perimeter" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Inventory-sustained (opening count) → accumulation-rising (district walk, vendor corridor, augmentation passage) → medium-peak (media offer/refusal) → resolving (evening inventory, closing line)
+**Pacing:** Seven-section structure. Opening count + adhesive ritual ~400 words (10%). Four-block walk ~600 words (15%). Observation platforms + augmentation passage ~800 words (20%). Vendor corridor ~700 words (17%). Masonry junction + media offer ~900 words (22%). Walk home + Fen exchange ~400 words (10%). Evening inventory + notifications ~300 words (7%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening count + adhesive | ~400 | Low-sustained | Counting ritual, frozen notification, Kira blackout stream referenced, morning routine |
+| Four-block walk | ~600 | Low-rising | Residential → commercial transition, district naming, copper light, three weeks growth |
+| Platforms + augmentation | ~800 | Medium (accumulation) | 9 platforms (up from 3), cyberpunk bodies passage, tourist augmentation vs Nuwa's original body |
+| Vendor corridor | ~700 | Medium-rising | Supplements (new), artifact vendors, masonry chips (80 creds), commodification inventory |
+| Junction + media offer | ~900 | PEAK (refusal) | Copycat streamers, media consultant, 200 creds/session, "No" |
+| Walk home + Fen | ~400 | Medium-resolving | "Good," cabbage exchange, shared understanding |
+| Evening inventory | ~300 | Resolving | Cooking, notifications (7 green), Dharavi parallel, business card on counter, closing line |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The fourth block was the district." / "The platforms were full." / "She was the only person in the corridor whose body was entirely original." / "'No,' she said." / "She understood." / "The inventory was open. She was not done."
+- TEXTURE mode = pacing ballast chapter. Quiet register throughout. Horror through accumulation (vendor corridor doubling, artifact categories expanding, masonry chips in basket), not intensity.
+- Zero NBA deployment (deliberate — consistent with B3C8/18 precedent). Nuwa inventories, does not grope toward expression. Closest structural relative: "Not the faces. The bodies." (focus directive, not canonical NBA pattern).
+- Closing rhythm: paratactic declarations, inventory expansion, final lines shortest sentences in section ("The inventory was open. She was not done.") — echo B2C53, B3C8, B3C18.
+- Bimodal paragraphs: dense blocks (augmentation passage, vendor corridor, media refusal passage) + single-line punches (~25% 1-line).
+- Dialogue ~8% (Nuwa terse, media representative professional, Fen brief). Longest Nuwa speech: 2 sentences ("The series is a proximity experience. With better production value.").
+- Cyberpunk + 100 years visuals: subderm overlays (luminescent jawline threads), spinal polymer housing, dermal conductors (silver fingertips reading RCI from fencing), overlay threads rendering amber as gradient maps on eyelids, proximity supplements (bandwidth capsules), consumer augmentation saturation.
+
+**Pacing Concern:** Risk of commodification inventory feeling like worldbuilding exposition. Mitigated by: (1) filtering all visuals through Nuwa's inventory register (counts, prices, measurements); (2) media offer as tension peak (800 creds vs 31 creds); (3) refusal as character assertion; (4) Dharavi parallel (Mumbai artifact market) as thematic echo; (5) business card on counter as symbolic object (shape of refusal).
+
+**Structural Note:** B3C24 is Nuwa's third Phase 3 chapter (The Breaks — "Horror of Normalcy Escalated"). ~21-22 months post-BLACKWEIR, 3 weeks after Kira's blackout stream (B3C20). District licensing fully operational. Commodification complete and expanding. Nuwa recognized twice now (Yara in B3C8, media consultant in B3C24). Visibility as resource and target. Refusal asserts boundaries but doesn't stop commodification. The district continues. The streamers occupy the junction. The masonry chips sell. Chapter rhythm enacts this: steady accumulation, inventory-driven, the pace of normalcy escalated into commerce. The horror is not the event — the horror is the speed (3 weeks: supplements appear, platforms multiply to 9, copycat streamers occupy her mapped position). The counting continues. The inventory expands. She is not done.
+
+**Comparison to B3C8 and B3C18:**
+- B3C8: "Both Systems" — district formed (6 months post-BLACKWEIR), 3 observation platforms, polymer fragments introduced, Yara recognition, both systems framework
+- B3C18: "This Way" — first Kira meeting, logistics-as-care, masonry junction positioned, forty-minute window, stimulant-stack recognition, "The watching was the work."
+- B3C24: "The Commodified Perimeter" — district expanded (9 platforms), supplements new (3 weeks), media offer refused, Kira hospitalized (not visited), copycat streamers at junction, "The inventory was open. She was not done."
+- Together they track: invisibility lost (C8 recognition) → care individualized (C18 Kira) → care failed/visibility weaponized (C24 media offer, Kira in hospital, junction occupied). The commodification accelerates. The visibility increases. The refusal is hers. The work continues.
+
+**Cyberpunk + 100 Years Motif (per author direction):**
+Pushed through bodies and technology as consumption interface:
+- Bodies: subderm overlays tracing jawlines in luminescent thread (active when feed processing), spinal reinforcement visible as polymer housing ridges, dermal conductors with silver contact points in fingertips (every surface becomes interface)
+- Technology: fingertips reading RCI from fencing, spinal housings processing hum as data, overlay threads rendering amber light as gradient maps on eyelid surfaces
+- Sensory enhancement: proximity supplements in dispensers, biometric payment via subderm scan, capsules opening reception bandwidth
+- District architecture: licensed platforms in reclaimed infrastructure composite, artifact authentication industry, vendor zones by product category
+- Nuwa as counterpoint: only original body in corridor, external-mount implant, chemical staining, unaugmented = anomaly
+
+The motif integrated through Nuwa's observational register — she inventories the augmentation the way she inventories everything: by counting, categorizing, measuring. The cyberpunk visuals are data. The data is the horror. Bodies more metal than bone. Technology configured to consume the output that consumed the Sump. The district as market built on boundary of mass death.
+
+**Dialogue Percentage:** ~8% (Nuwa terse, media professional, Fen brief)
+
+---

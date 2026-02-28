@@ -1156,3 +1156,65 @@ Thematic evolution:
 
 ---
 
+### Chapter 24 — "The Commodified Perimeter" (Nuwa Lin)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Commodification of Suffering | Dominant | Breach tourism fully escalated. Observation platforms (9, up from 3), RCI monitors (consumer to professional models), proximity supplements (bandwidth enhancement capsules, 3 weeks new), artifact vendors (polymer fragments + conduit housing + textile samples + masonry chips 80 creds). The wall that saved 12% of survivors sold in basket. Copycat streamers occupy Nuwa's mapped position. Media offer: 200 creds/session for safe routes knowledge. The survived thing commodified. The horror is the speed (3 weeks: supplements appear, platforms multiply, position occupied). |
+| Irrelevance of Individual Being | Strong | Nuwa's refusal of media offer (800 creds total) is assertion of individual relevance against system converting survival knowledge into content. Refusal doesn't stop commodification. District continues. Streamers occupy junction. Masonry chips sell. Business card on counter = shape of refusal, but refusal changes nothing structurally. "The inventory was open. She was not done." — work continues regardless of recognition or refusal. |
+| Cost of Survival | Moderate | 31 creds vs 800 creds refused. Oil gone. Price increases from tourist demand (Level 3 vendor raised prices twice). Survival costs more when survival is product. Cabbage from Fen = gift economy vs market economy. Refusal denominated in currency that costs more than it pays. The arithmetic: 22 creds for food vs 200 creds/session = survival margin vs commodification value. |
+| Systemic Complicity | Ambient | Nuwa's ground-truth coordinator role (topology queries, junction coordinates, safe routes knowledge) is necessary survival infrastructure AND complicity with architecture that requires organizing. The margins exist because system created them. The survival knowledge exists because system's infrastructure consumes. The knowledge she refuses to sell to media is the knowledge she shares with network for free. The distinction: testimony vs content. Both use same knowledge. Different architecture. |
+
+**Key Resonance:** Commodification of Suffering ↔ Irrelevance of Individual Being. The district commodifies proximity (platforms, supplements, artifacts, media offers). Nuwa refuses commodification of her knowledge. The refusal is hers. The refusal changes nothing. The streamers occupy the junction she mapped. The masonry chips sell. The media consultant leaves card on ledge. The card is pocketed (not because she'll use it, but because ledge is junction and junction is topology and topology is not surface for system's business cards). Individual refusal vs structural continuation. The horror: being right about the refusal doesn't stop what the refusal refuses.
+
+**Epigraph Integration:** Neo-Shanghai Anchor Zone Proximity Experience Licensing Framework, Municipal Ordinance 14.3.1
+- Thematic function: Municipal bureaucracy as commodification architecture. "'Proximity experience' shall mean any guided, ticketed, or commercially offered activity occurring within 200 meters of a designated Anchor Zone perimeter..."
+- The system that consumed 8.2 million people now regulates the commercial sale of proximity to the consumption. The licensing framework = institutional architecture metabolizing mass death into regulated commerce.
+- Immediate: The district Nuwa walks through is legally defined, municipally licensed, commercially zoned. The horror normalized into ordinance.
+- Broader: Same institutional vocabulary pattern as B3C1 (legacy absorption zones, historical coherence incidents). The Broadcast metabolized into regulatory language. The absorption event metabolized into proximity experience licensing. The system processes revelation and mass death identically: by absorbing into operational architecture and continuing.
+
+**Cyberpunk + 100 Years Motif as Thematic Object:**
+
+Bodies as commodity landscape (per author direction):
+- Subderm overlays tracing jawlines in luminescent thread (active when feed processing)
+- Spinal reinforcement visible as polymer housing ridges (posture correction marketed as lifestyle enhancement)
+- Dermal conductors with silver contact points in fingertips (every surface becomes interface)
+- Bodies more modification than original = consumer augmentation normalized over 22 years
+- Nuwa's unaugmented body = anomaly (only original body in corridor)
+
+The motif is thematic, not decorative. The tourists' bodies are configured to *consume* the Anchor Zone's output (fingertips reading RCI from fencing, spinal housings processing hum as data, overlay threads rendering amber as gradient maps on eyelids). The same output that consumed the Sump's population is now the product the tourists' augmented bodies are designed to receive. Technology as consumption interface. The cyberpunk aesthetic = the horror of bodies optimized for proximity to mass death.
+
+**The 800 Creds as Symbolic Object:**
+
+200 creds/session × 4 sessions minimum = 800 creds total
+- 800 creds = rent through end of year
+- 31 creds = current total (22 for food after room paid)
+- 200 creds = relocation stipend from containment buffer zone notice (B2C29)
+- 200 creds = price of 90-minute proximity experience on licensed platforms
+- 80 creds = price of masonry chip (wall fragment that saved 12%)
+
+The equivalences are the horror. The system assigns same value to: leaving the buffer zone, experiencing proximity to mass death, consulting on safe routes, fragment of survival wall. The 800 creds Nuwa refuses = survival margin for months. The refusal costs. The cost is the point. The knowledge is not for sale because selling converts testimony into content, survival into product, the 47 names into documentary footage.
+
+**Dharavi Correspondent Parallel:**
+
+Mumbai artifact market arrived. Selling brick fragments from textile workshop. 80 creds. "I am writing to you because you will understand what it means when the wall that saved you becomes a product and the product is eighty creds and the eighty creds is the price the system assigns to the difference between absorbed and alive."
+
+Thematic function: The commodification is not local. The commodification is global. Neo-Shanghai and Mumbai simultaneously. The system metabolizes survival into commerce at same rate across cities. The correspondent writes to Nuwa because Nuwa is the only person who will understand the specific horror of the wall-as-product. The network connects people who survived the same thing being sold in different corridors. The connection is testimony. The testimony is resistance to commodification without power to stop commodification.
+
+**"The Series Is a Proximity Experience. With Better Production Value."**
+
+Nuwa's sharpest line in the trilogy. Two sentences. Classification, not quip. The media consultant's documentary series = proximity experience (guided, ticketed, commercially offered activity within 200m of Anchor Zone perimeter) with higher production budget than platform tours. The reduction is accurate. The accuracy is the cut. Nuwa's pragmatic register classifying the offer the way she classifies everything: by function, not by framing. The consultant frames it as "ethical representation," "ground-level experience," "survival knowledge." Nuwa classifies it as proximity experience. The classification is correct. The correctness is the refusal.
+
+**Comparison to B3C8 and B3C18:**
+- B3C8: Commodification observed (platforms, RCI monitors, polymer fragments), recognition (Yara), both systems framework, "not done"
+- B3C18: Care individualized (Kira logistics), stimulant-stack recognition, masonry junction positioned, "watching was the work"
+- B3C24: Commodification escalated (supplements, masonry chips, copycat streamers), media offer refused, Kira hospitalized (not visited), "not done"
+- Thematic progression: observation (C8) → care (C18) → refusal (C24). The commodification accelerates. The visibility weaponizes. The care fails (Kira in hospital, calculation was correct but signal didn't follow calculation). The refusal is hers. The work continues.
+
+**Forward Thematic Connections:**
+- Ch 35: Nuwa visits Kira in hospital (care continues despite failure)
+- Ch 43: "The count is final" — inventory closes, work complete
+- Trilogy endpoint: The district continues. The platforms multiply. The network continues. Nuwa's testimony preserved in Lagos database, 14-city architecture. The counting was the resistance. The resistance was the record. The record persists.
+
+---
+
