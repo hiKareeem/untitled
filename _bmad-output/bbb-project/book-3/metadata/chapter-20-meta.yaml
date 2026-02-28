@@ -1,0 +1,162 @@
+---
+chapter: 20
+title: "The Blackout Stream"
+pov: "Kira Calloway"
+phase: 2
+mode: "TEXTURE → FRACTURE"
+wordCount: 4200
+completedDate: "2026-02-28"
+status: v1-complete
+auditResult: "PASS — 0 critical issues, 0 flags"
+
+# Timeline
+timeline: "~8-9 months post-Broadcast (~18-19 months post-BLACKWEIR), 3 days after B3 Ch 18"
+timelineNotes: "Return visit to masonry junction. First visit was B3 Ch 18 (Nuwa POV). Kira messaged Nuwa first per protocol."
+
+# Location
+primaryLocation: "Neo-Shanghai Anchor Zone margin (masonry junction, east side)"
+secondaryLocation: "Chen Academy medical facility, Neo-Shanghai"
+locationNotes: "Masonry junction: same positioning as B3 Ch 18. Chen Academy: regional mage training institution, not Varma (Kira's Academy). Medical facility used because nearest mage-capable infrastructure."
+
+# Key Events
+keyEvents:
+  - "Biometric overlay stream (4.2M concurrent viewers)"
+  - "Signal spike at 15 minutes (step-function, coherence 0.847 → 0.99)"
+  - "Quiet room blows open (first external destruction)"
+  - "30 seconds aggregate fragments channeled through R3"
+  - "11 minutes unresponsive standing (section break = the gap)"
+  - "Nuwa calls emergency services from 30 meters"
+  - "3-hour memory gap (NO entries — filer was absent)"
+  - "Hospitalized Chen Academy, HUD powered down"
+  - "Filing system failure (reaches for entry that doesn't exist)"
+  - "Blackout stream becomes most analyzed media since Broadcast"
+
+# Character State
+characterState:
+  lumina: "90mg baseline (insufficient at proximity)"
+  quietRoom: "Blew open → rubble → rebuilding"
+  filingSystem: "First failure — filer was absent, not just memory deleted"
+  chordShapes: "Absent (ninety holds them even when quiet room destroyed)"
+  hud: "Powered down by medical staff (first time off since age 18)"
+  memoryGaps: "3 hours (largest gap yet — NO entries)"
+  personalityDrift: "Present in stream narration but becomes irrelevant when signal bypasses ninety"
+  network: "214/31 hubs (referenced implicitly)"
+
+# Biometric Data
+biometricData:
+  heartRate: "94 (baseline) → 112 → 148 (peak) → 76 (recovery)"
+  neuralActivity: "7.3 (baseline) → 8.9 → 12.7 (peak) → 4.1 (recovery)"
+  coherenceDensity: "0.847 → 0.91 → 0.94 → 0.97 → 0.99 (peak) → 0.52 (recovery)"
+  r3Thermal: "41.3°C (peak) → 38.7°C → 38.4°C (declining)"
+
+# Viewer Count Progression
+viewerProgression: "400K → 800K → 1.2M → 2.6M → 3.8M → 4.2M concurrent"
+
+# Continuity
+continuityCrossReferences:
+  - "B3 Ch 18: First proximity stream, Nuwa logistics, masonry junction positioning, 30m protocol, 'you come to me first'"
+  - "B3 Ch 11: Lumina 90mg escalation, personality drift accelerating, proximity stream announced impulsively"
+  - "B3 Ch 5: Lumina 80mg, personality drift onset, network 214/31, pharmacist ritual"
+  - "B2 Ch 51: Tuesday gap (entries exist, experience doesn't) — contrast with this gap (NO entries, filer absent)"
+  - "B2 Ch 40: Second Broadcast (conscious, narrating) — contrast with blackout (unconscious, absent)"
+  - "B2 Ch 32: Quiet room compressed at 80mg — evolution to rubble at 90mg"
+
+# Seeds Forward
+seedsForward:
+  - "Ch 26: Continued hospitalization at Chen Academy, implant decision approaches"
+  - "Ch 38: Transfer to Mumbai/Varma for implant decision (institution that broke her is one that can fix her)"
+  - "Ch 44: 'Just Being Kira' — choosing herself over antenna function"
+  - "Blackout stream as media event: 4.2M witnesses, biometric data recorded, institutional/scientific/legal implications"
+
+# Themes
+themes:
+  primary:
+    - "Where Identity Ends (Strong): 'The instrument had been there. The person had not.'"
+    - "Commodification of Suffering (Strong): Biometric overlay broadcasting body's distress to 4.2M viewers"
+  secondary:
+    - "Systemic Complicity (Moderate): Pharmaceutical stack fails, institutional response (Chen Academy medical)"
+
+# Structural Notes
+structuralNotes: |
+  Four-section architecture: Setup → Performance → Fracture → Aftermath.
+  
+  The section break between sections 3 and 4 IS the eleven-minute gap. Kira's absence from her body is rendered as the reader's absence from the narrative. The gap in the prose is an honest gap, not a narrative omission. AEGIS, reconstructing from the stream recording, would have access to the eleven minutes — but AEGIS is writing in Kira's voice, and Kira's voice was not present.
+  
+  Mode transition: TEXTURE (setup + stream) → FRACTURE (signal spike, prose breaks) → Clinical (Chen Academy, filing system processing what it cannot process).
+  
+  Single NBA deployment: "Not a gap like Tuesday... This was larger. This was the stream." — the distinction between Tuesday (entries exist, experience doesn't) and this (no entries because no Kira) is the chapter's thesis.
+  
+  Closing: "The hum continued. It always continued." — two-sentence close, paratactic, the signal's persistence regardless of the instrument's state.
+
+# Epigraph
+epigraphSource: "Signal Theory and Receiver Architecture, 2163 ed., §9: Saturation Events"
+epigraphTheme: "Receiver saturation — instrument ceases to mediate, becomes conductor. Signal uses hardware; hardware transmits rather than processes."
+epigraphResolution: "Kira is the receiver. R3 is the hardware. At step-function, instrument ceases to process and becomes conductor. 'Conductor' carries double meaning: engineering (transmits signal) + musical (directs performance). She's both and neither, because conductor requires a person and the person was not there."
+
+# Physical Object Tracking
+physicalObjects:
+  hud: "Running since age 18 → powered down (first time off, new state)"
+  quietRoom: "rest (60mg) → suppression (80mg) → medium (Broadcast) → cost (B2 Ch 51) → purchased (B3 Ch 11) → rubble/rebuilding (B3 Ch 20)"
+  filingSystem: "Built 22 months ago → operational through drift → reaches for entry that doesn't exist (first filing failure)"
+  chordShapes: "Absent at 80mg+ → ninety holds them even when quiet room is rubble (motor suppression deeper than signal suppression)"
+  portableRig: "Introduced — military surplus, repurposed Academy diagnostics, streams biometric data to 4.2M viewers"
+
+# Memory Gap Evolution
+memoryGapEvolution: |
+  B2 Ch 51: Tuesday — single day, entries exist (filer present, memory deleted), experience absent
+  B3 Ch 5: intermittent, ongoing
+  B3 Ch 11: vial lighter than expected (occasions she didn't remember)
+  B3 Ch 20: three hours — NO entries (filer absent), stream recording exists (4.2M witnesses), personal recollection: junction → coherence 0.94 → nothing → white ceiling
+  
+  The gaps escalate. Tuesday: one day, the filer was functional. This: three hours, the filer was not there. The filing system had no entries because the filer had not been there to write them. The gap is not the signal. The gap is *her*.
+
+# Quiet Room Metaphor Evolution
+quietRoomEvolution: |
+  B2 Ch 6: rest (60mg)
+  B2 Ch 32: suppression (80mg, compressed)
+  B2 Ch 40: medium/conductor (Broadcast, inverted)
+  B2 Ch 51: cost
+  B3 Ch 11: purchased (90mg, ceiling restored)
+  B3 Ch 20: rubble/rebuilding (first external destruction — signal overwhelms from outside)
+  
+  The quiet room doesn't thin or crack — it blows open, ceases to exist, becomes rubble. The ninety is rebuilding it in Chen Academy. The question for Ch 26/38: does Kira *want* it rebuilt, or did the rubble show her something she needed to see?
+
+# Comparison to B2 Ch 40 (Second Broadcast)
+comparisonBroadcast: |
+  B2 Ch 40: Signal passes through her, she's conscious and narrating (eleven seconds of testimony), 80mg inverts and becomes medium/conductor, weight after = "used as infrastructure"
+  
+  B3 Ch 20: Signal passes through her, she loses consciousness/presence entirely (thirty seconds aggregate fragments, eleven minutes silence), 90mg blown open and becomes rubble, weight after = "This was heavier."
+  
+  The blackout exceeds the Broadcast. During the Broadcast, Kira was present. During the blackout, the instrument was there but the person was not.
+
+# Nuwa's Role
+nuwaRole: |
+  Thirty meters west, line of sight (B3 Ch 18 protocol maintained).
+  RCI checked (13.2, up from 13.1 yesterday).
+  Forty-minute window calculated (step-function arrives at 15 — aggregate changed, not calculation).
+  Calls emergency services.
+  "A woman who had mapped the topology of safety was already moving."
+  The watching was the work. The logistics of care compressed into operational vocabulary.
+
+# Chen Academy
+chenAcademy: |
+  Neo-Shanghai's mage training institution (regional facility, East Asian corridor).
+  Not Varma (Kira's Academy, Mumbai — expelled).
+  No jurisdiction over Kira.
+  Medical facility used because nearest mage-capable medical infrastructure.
+  Academy-grade diagnostics (4 numbers: heart rate, neural activity, coherence, R3 thermal).
+  Medical staff powered down HUD (institutional control over her interface).
+  Implant cooldown protocol administered.
+  Seeds Ch 26 (continued hospitalization) and Ch 38 (transfer to Mumbai/Varma).
+
+# Notes
+notes: |
+  Chapter executes the blackout stream event through Kira's POV limitations in a way that makes those limitations the chapter's thesis. The section break IS the gap. The filing system's failure IS the revelation. The quiet room's destruction and rebuilding IS the new stage of the pharmaceutical arc.
+  
+  Three hours — of which Kira experienced fifteen minutes and the rest is the property of 4.2M people who watched what her body did while she was not in it.
+  
+  "The person inside the instrument was not sure she had come back."
+  
+  User edits applied: "broadcast key" → "started the broadcast" (2 instances), "second Broadcast" → "Broadcast" (1 instance).
+  
+  AEGIS as invisible novelist.

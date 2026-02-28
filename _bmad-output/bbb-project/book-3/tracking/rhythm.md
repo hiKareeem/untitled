@@ -879,3 +879,57 @@ Same verb, same two-word close, same hum-then-listen structure. B2 Ch 49: listen
 The objects degrade across the arc. The pen stops not from degradation but from completion. The notebook fills not from institutional output but from diagnosis of institutional failure. The pass degrades but continues functioning. The flag becomes unrecognizable but continues displaying. The objects track the arc: institutional faith → institutional exhaustion → record-keeping as ritual without institution.
 
 ---
+
+### Chapter 20 — "The Blackout Stream" (Kira)
+
+**Mode:** TEXTURE → FRACTURE
+**Tension Shape:** Setup (quiet logistics) → Performance (climbing tension via numbers) → Fracture (step-function, prose breaks) → Aftermath (clinical processing)
+**Pacing:** Four-section structure. Setup ~650 words (15%). Stream ~1,200 words (29%). Fracture ~800 words (19%). Chen Academy ~1,550 words (37%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Setup — Bay Area to junction | ~650 | Low-sustained | Message exchange, masonry junction, portable rig, biometric overlay, Nuwa positioning |
+| The stream | ~1,200 | Low-rising to high | 4.2M concurrent, coherence climbing (0.847 → 0.94), stream-voice narrating, numbers as countdown |
+| The fracture | ~800 | Peak-breaking | Step-function, quiet room blows open, coherence 0.97 → 0.99, aggregate fragments (30 sec), silence (11 min), chat screaming |
+| Chen Academy | ~1,550 | High-resolving | White ceiling, HUD dark, three-hour gap discovered, filing system fails to fill, quiet room as rubble/rebuilding |
+
+**Rhythm Notes:**
+- TEXTURE → FRACTURE mode transition. Setup and stream sections = TEXTURE (quiet register, tension builds through numbers not prose). Fracture section = prose breaks as interiority breaks. Chen Academy = clinical register (filing system processing what it cannot process).
+- Single NBA deployment: "Not a gap like Tuesday — the single day absent from the autobiography... This was larger. This was the stream." — earned, the moment Kira realizes the filer was absent (not just the memory deleted). The distinction between Tuesday (entries exist, experience doesn't) and this (no entries because no Kira) is the chapter's thesis.
+- Closing: "The hum continued. It always continued." — two-sentence close, paratactic, the signal's persistence regardless of the instrument's state.
+- Dialogue: ~10% (Nuwa terse/operational, medical staff institutional, stream narration dominates). Kira's stream-voice accelerated at 90mg (faster associations, pre-assembled connections) until signal spike replaces it with aggregate fragments.
+- Four-section architecture: logistics → performance → fracture → aftermath. The section break between fracture and aftermath IS the eleven-minute gap — Kira's absence from her body rendered as reader's absence from narrative.
+- Biometric overlay as structural device: coherence numbers climbing (0.847 → 0.91 → 0.94 → 0.97 → 0.99) = the countdown the audience doesn't know is a countdown. Heart rate, neural activity, coherence broadcast to 4.2M concurrent viewers. The body's distress as data.
+- The step-function: signal spike arrives at 15 minutes (not 40 — the aggregate changed, not Nuwa's calculation). Quiet room doesn't thin or crack — it blows open, ceases to exist, becomes rubble. First external destruction of quiet room (signal overwhelms from outside, not tolerance erosion from inside).
+- Filing system failure: "The filing system reached for the next entry. The entry was not there." First time in the arc the filer was absent (not just memory deleted). Files the gap as data but "the gap was categorized. The gap was not filled." Filing system can categorize absence but cannot fill it.
+
+**Dialogue Percentage:** ~10% (stream narration, Nuwa logistics, medical staff clinical)
+
+**Pacing Concern:** Risk of the eleven-minute gap feeling like narrative omission rather than structural choice. Mitigated by: (1) Section break = the gap (reader jumps from Nuwa moving to white ceiling the way Kira jumps from step-function to white ceiling); (2) Chen Academy section explicitly addresses the gap ("How long was I —" / "eleven minutes of unresponsive standing"); (3) Filing system's failure to find the entry reinforces that the gap is experiential, not narrative; (4) AEGIS meta-narrative conceit supports the choice (AEGIS writing in Kira's voice, and Kira's voice was not present).
+
+**Structural Note:** B3C20 executes the blackout stream event through Kira's POV limitations in a way that makes those limitations the chapter's thesis. The section break IS the gap. The filing system's failure IS the revelation. The quiet room's destruction and rebuilding IS the new stage of the pharmaceutical arc. Three hours — of which Kira experienced fifteen minutes and the rest is the property of 4.2M people who watched what her body did while she was not in it. The instrument had been there. The person had not. "The person inside the instrument was not sure she had come back."
+
+**Comparison to B2 Ch 40 (Second Broadcast):**
+- B2 Ch 40: Signal passes through her, she's conscious and narrating (eleven seconds of testimony), 80mg inverts and becomes medium/conductor, weight after = "used as infrastructure"
+- B3 Ch 20: Signal passes through her, she loses consciousness/presence entirely (thirty seconds aggregate fragments, eleven minutes silence), 90mg blown open and becomes rubble, weight after = "This was heavier."
+- The blackout exceeds the Broadcast. During the Broadcast, Kira was present. During the blackout, the instrument was there but the person was not.
+
+**Physical Object Tracking (Kira):**
+- HUD (left eye pink text): Running since age 18 → **B3 Ch 20 (powered down by medical staff — first time off, new state)**
+- Quiet room (pharmaceutical architecture): rest (60mg) → suppression (80mg) → medium (Broadcast) → cost (B2 Ch 51) → purchased (B3 Ch 11) → **rubble/rebuilding (B3 Ch 20)**
+- Filing system: built 22 months ago → operational through drift → **B3 Ch 20 (reaches for entry that doesn't exist — first filing failure, filer was absent)**
+- Chord shapes: absent at 80mg+ → **B3 Ch 20 (ninety holds them even when quiet room is rubble — motor suppression deeper than signal suppression)**
+- Portable rig (biometric overlay): **B3 Ch 20 (introduced — military surplus, repurposed Academy diagnostics, streams heart rate/neural activity/coherence to 4.2M viewers)**
+
+The objects track the arc: HUD dark = parallel information stream that defined her experience, off. Quiet room rubble = pharmaceutical architecture destroyed by signal it was designed to filter, rebuilding. Filing system failure = the filer absent, not just the memory. Chord shapes still suppressed = the ninety holds the hands even when it cannot hold the signal. The portable rig = the body's distress as data, broadcast to millions.
+
+**Memory Gap Evolution:**
+- B2 Ch 51: Tuesday — single day, entries exist (filer present, memory deleted), experience absent
+- B3 Ch 5: intermittent, ongoing
+- B3 Ch 11: vial lighter than expected (occasions she didn't remember)
+- **B3 Ch 20: three hours — NO entries (filer absent), stream recording exists (4.2M witnesses), personal recollection: junction → coherence 0.94 → nothing → white ceiling**
+
+The gaps escalate. Tuesday: one day, the filer was functional. This: three hours, the filer was not there. The filing system had no entries because the filer had not been there to write them. The gap is not the signal. The gap is *her*.
+
+---
