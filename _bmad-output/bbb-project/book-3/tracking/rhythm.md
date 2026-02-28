@@ -1223,3 +1223,51 @@ The motif integrated through Nuwa's observational register — she inventories t
 **Dialogue Percentage:** ~8% (Nuwa terse, media professional, Fen brief)
 
 ---
+
+### Chapter 26 — "Hospitalized" (Kira Calloway)
+
+**Mode:** FRACTURE
+**Tension Shape:** Filing system degradation (inventory of absence) → ritual absence (medication without architecture) → neurologist data (three-week accumulation) → dampening comprehension (NBA peak) → archives request (pivot) → choice deferred (resolving)
+**Pacing:** Six-section structure. Filing system review ~1,300 words (32%). Medication section ~700 words (17%). Neurologist data ~1,100 words (27%). Archives request ~600 words (15%). Closing ~400 words (10%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Filing system (21 days) | ~1,300 | Low-rising | Reading own degradation, entries show competent → thin → absent → "Still here" |
+| Medication ritual absence | ~700 | Medium-sustained | Paper cup vs 30-day holder, chemistry without architecture, patient vs person |
+| Neurologist data delivery | ~1,100 | Rising | Three datasets (R3 residuals, metabolic, memory), recommendation builds |
+| Dampening comprehension | ~200 | PEAK (NBA) | "Not removal. Not deactivation. *Dampening.*" → "antenna muted" |
+| Archives request | ~600 | Pivot | Present-tense shift, "She does not say yes. She does not say no." |
+| Closing (choice deferred) | ~400 | Resolving | Filing incomplete, "Pending," quiet room holds, person uncertain |
+
+**Rhythm Notes:**
+- FRACTURE mode = new mode for Kira (first deployment). Quiet register but structural break visible. Horror in degradation pattern, not in event.
+- Long-long-long-SHORT pattern sustained — "Day six had no entry." / "Day seven had no entry." / "Day eight was a single line: *Still here.*"
+- Single NBA deployment (canonical): "Not removal. Not deactivation. *Dampening.*" → "Not the antenna being removed. The antenna being *muted.*" — two-stage clearing (medical vocabulary → identity cost). Earned at comprehension moment.
+- Present-tense shift at choice moment: "She does not say yes. She does not say no. She says:" — first use of dramatic present within Kira's past-tense narration. Deliberate fracture marker. Narrative holds its breath.
+- Structural negation (non-NBA): "Not the signal eliminated. The reception eliminated." — quiet room vocabulary pattern, serves differentiation not revelation.
+- Filing system as structural device: italicized entries showing degradation in real time (Day 1 complete → Day 8 "Still here" → Day 22 "Pending")
+- Pharmacist ritual catalogued by absence: clicking, bench, fluorescent light, 30-day holder — inventory of missing architecture
+- Quiet room metaphor extended: "controlled burn" (new — Lumina consumed as substrate per metabolic data)
+- Closing echo of B3C20: "person inside instrument not sure she had come back" → "person under it not sure person under it was person who built it" (darkness external → internal, left eye dark)
+- Bimodal paragraphs: dense data blocks (filing review, neurologist presentation, closing meditation) + single-line emphasis (Day 6/7 gaps, "Still here")
+- Dialogue minimal: Dr. Yuen clinical delivery ~12 lines, Kira 4 lines (archives request assertion). Nurse: functional silence.
+
+**Dialogue Percentage:** ~8% (Dr. Yuen clinical, Kira archives assertion)
+
+**Pacing Concern:** Risk of hospitalization feeling static (single location, minimal action). Mitigated by: (1) filing system entries provide temporal progression (21 days compressed); (2) three-dataset structure (R3/metabolic/memory) builds toward recommendation; (3) archives request pivots from medical to identity question; (4) choice deferred maintains tension forward (resolution in Ch 38/44); (5) degradation shown through log quality, not described.
+
+**Structural Note:** B3C26 is Kira's Phase 3 fracture chapter. ~3 weeks post-blackout stream (B3C20). The antenna separated from the person. Filing system degrading (architecture holds, content thins). Pharmacist ritual absent (grounding 12,000 km away). Chen found Lumina — two-system secrecy broken. R3 won't recalibrate from proximity parameters. Dampening recommended: antenna muted, not removed. She doesn't answer — asks for archives instead. Wants to see what she was when she wasn't there. The choice begins here, does not complete here. Chapter rhythm enacts this: inventory of absence, data accumulation, comprehension moment, pivot to unfiled gap, resolution deferred. The fracture is recognition, not decision. The person under the ceiling is uncertain whether she is the architect or the residue.
+
+**Comparison to B3C5, B3C11, B3C20:**
+- B3C5 "Lumina": 80mg maintenance, personality drift onset, pharmacist ritual established, filing continues but filer drifting, "The floor held"
+- B3C11 "Ninety Milligrams": escalation to 90mg, quiet room cracking at 80mg, proximity stream plan, Nuwa warning filed in 4 seconds, "The ninety held"
+- B3C20 "The Blackout Stream": proximity stream event, R3 saturates, 3-hour gap, filer absent, hospitalized at Chen, "The person inside the instrument was not sure she had come back"
+- B3C26 "Hospitalized": 3 weeks at Chen, filing degrading, ritual absent, dampening recommended, archives requested, choice deferred, "The person under it was not sure the person under it was the person who had built it"
+- Together they track: drift → escalation → event → fracture. Each chapter marks separation of antenna from person. Lumina: 80mg → 90mg → 90mg (event) → 45mg (taper). Quiet room: floor held → ninety held → rubble → rebuilt but lower. Filing: drift onset → 4-second entry → filer absent → degraded quality. The progression is cumulative. The fracture is the recognition that the separation may be complete.
+
+**Epigraph Function:** Industrial decommissioning (equipment lifecycle management). Oblique, tangential. First read: factory calibration procedure. Reread: Kira = equipment, dampening = factory calibration, Lumina/signal/antenna function = "field calibrations" classified as "drift." "Protocol does not distinguish between drift that degraded performance and drift that improved it. Both are corrected." = chapter's thesis. Institution cannot differentiate between what made her the antenna and what is destroying her. Rewards reread perfectly.
+
+**Thematic Weight:** Where Identity Ends (Strong), Systemic Complicity (Strong), Commodification of Suffering (Moderate). The fracture chapter. Identity question: is the choice-maker the person or the instrument? Institution proposes to "correct" both the transformation and the destruction because both deviate from baseline. Archives as property: 4.2M witnesses to 30 seconds she didn't experience.
+
+---

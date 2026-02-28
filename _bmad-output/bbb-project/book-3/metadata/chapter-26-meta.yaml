@@ -1,0 +1,79 @@
+---
+chapter: 26
+title: "Hospitalized"
+pov: "Kira Calloway"
+location: "Neo-Shanghai — Chen Academy medical facility"
+timeline: "~3 weeks post-blackout stream (~22 months post-BLACKWEIR)"
+word_count: 4100
+phase: 3
+arc_beat: "Fracture — the antenna separated from the person"
+
+summary: |
+  Three weeks post-blackout stream. Kira reads her filing system entries from hospitalization at Chen Academy — the degradation visible in the log itself (competent → thin → absent → "Still here"). The pharmacist ritual is absent — hospital provides same chemicals without the architecture (no clicking, no bench, no 30-day holder). Chen's bloodwork found the Lumina — the two-system secrecy broken. Neurologist presents three weeks of data: R3 won't recalibrate from proximity parameters, Lumina metabolizing 22% faster than model (signal consuming it as substrate), memory erosion documented (11 gaps in 21 days). Recommendation: implant dampening. She stops being the antenna or the erosion continues. She doesn't answer — she asks for the stream archives. Wants to see what she was when she wasn't there. The choice begins here, does not complete here.
+
+key_events:
+  - Filing system entries from 3 weeks show degradation pattern
+  - Pharmacist ritual absent — medication without architecture
+  - Chen found Lumina in bloodwork — two-system secrecy broken
+  - Neurologist: R3 at proximity parameters, won't recalibrate
+  - Metabolic data: signal consuming Lumina as substrate (controlled burn)
+  - Memory erosion: 11 gaps in 21 days, documented clinically
+  - Recommendation: implant dampening (antenna muted, not removed)
+  - Archives request — wants to see the 30 seconds + 11 minutes
+  - Choice deferred — "Pending"
+
+characters_present:
+  - Kira Calloway (POV)
+  - Dr. Yuen (neurologist)
+  - Medical staff (nurse, attending — brief)
+
+emotional_beats:
+  - Filing system as mirror — degradation visible in her own log
+  - Ritual absence — grounding 12,000 km away
+  - Two-system collapse — Chen knows both
+  - Dampening comprehension — not removal, muting
+  - Identity question — is the person making the choice the person or the instrument?
+  - Archives as data — filing the unfiled gap
+
+thematic_notes:
+  - Where Identity Ends (Strong): "The person under it was not sure the person under it was the person who had built it"
+  - Systemic Complicity (Strong): Institution cannot differentiate between drift that made her the antenna and drift destroying her
+  - Commodification of Suffering (Moderate): The 30 seconds + 11 minutes as property — "The recording is mine"
+
+continuity_notes:
+  - R3 installed age 10 (cannot be removed, can be dampened)
+  - HUD powered down since B3C20 admission (left eye dark)
+  - Lumina: 90mg → 45mg taper over 3 weeks
+  - Quiet room: rebuilt by ninety, lower ceiling at 45mg
+  - Chord shapes: absent (suppressed since 80mg)
+  - Pharmacist ritual: established B3C5, now absent
+  - Filing system: degradation visible in log quality
+  - Network: 214/31 (stable)
+  - Two-system secrecy: broken (Chen knows legitimate meds + Lumina)
+
+seeds_planted:
+  - Archives viewing (will occur off-page or Ch 35/38)
+  - Dampening decision (deferred to Ch 38/44)
+  - Nuwa hospital visit (Ch 35 connection point)
+
+voice_notes:
+  - Filing system as structural device — entries show degradation
+  - Pharmacist ritual catalogued by absence (clicking, bench, holder)
+  - NBA deployment: "Not removal. Not deactivation. *Dampening.*" → "Not the antenna being removed. The antenna being *muted.*"
+  - Present-tense shift at choice moment: "She does not say yes. She does not say no."
+  - Quiet room metaphor extended: "controlled burn" (Lumina consumed as substrate)
+  - Closing echo of B3C20: darkness external → internal (left eye)
+
+technical_notes:
+  - Epigraph: industrial decommissioning (oblique, rewards reread)
+  - R3 coherence plateau at 0.28 (proximity parameters at 14km distance)
+  - Metabolic acceleration: 40% at 90mg, 22% at 45mg
+  - Memory gaps: 11 in 21 days (6 confirmed ambulatory/functional)
+  - Monitoring array: 4 numbers (heart rate, neural activity, coherence, R3 thermal)
+
+connects_to:
+  - B3C20 (immediate predecessor — blackout stream, Chen admission)
+  - B3C35 (Nuwa at hospital)
+  - B3C38 (Academy return, choice continuation)
+  - B3C44 (just being Kira — identity resolution)
+---
