@@ -999,3 +999,97 @@ B3C16's innovation: the polysyndetic chain that doesn't resolve. The writing con
 
 ---
 
+### Chapter 17 — "The Voluntarist Heresy" (Malachi)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Dominant | Institution suppresses its own theologian through editorial policy, not tribunal. Procedural suppression more efficient than Nephthys's Silencing — no formal prohibition, no convened board, decision administrative. Legal advisory = prohibition without administrative burden. "The institution was not suppressing theology. The institution was managing liability." Malachi uses institutional surveillance infrastructure (archived monitoring tables) to access counter-institutional channel. Power inverted: Arch-Prelate's authority denied by institution, asserted through network institution was surveilling. |
+| Where Identity Ends | Strong | Malachi publishes under institutional title (Arch-Prelate, European See) through channel that doesn't recognize institutional authority. "He wore the institution. The institution had just refused to carry his words." First theological work in 22 years not mediated by institution — discovering what he is without institutional channel. Vestments still on after counter-institutional publication. Identity crisis unresolved. Paper signed with credentials Church conferred but cannot retract (no administrative capacity for tribunal). |
+| Systemic Complicity | Supporting | Editorial board following legal advisory (competent risk management, not villainy). Suppression mirrors Nephthys's Silencing: "He had prescribed Nephthys suppressants because the institution required it. The editorial board had rejected his paper because the institution's legal counsel required it." Mechanisms different (medical intervention vs editorial decision), function identical (institution protecting itself from truth its members produce). Litigation consequence of Church's prior suppression (accommodation encyclical weaponized). Complicity systemic, not personal. |
+| Truth as Weapon | Evolved | Paper is correct analysis weaponized through incompleteness. Identifies Threshold's error (category confusion) and Nephthys's gap (boundary without justification) but cannot cite correspondence that would make argument irrefutable. "The data available to this author — limited to publicly accessible sources" written seven times during drafting. Each iteration a strategic withholding. Paper published to challenge Threshold theology but Threshold built on grief, not theology. Analysis correct but insufficient. Truth incomplete is truth weaponized differently — against institution that suppressed it, not against movement it targets. |
+
+**Key Resonance:** Architecture of Power ↔ Where Identity Ends. The institutional architecture that suppresses through editorial policy also fragments the identity of the person who operates it. Malachi's suppression is procedural (editorial rejection, liability management) not personal (no tribunal, no brand, no excommunication). The efficiency is the horror. The suppression has been automated. Malachi's response — publishing through counter-institutional channel — is first act outside institutional mediation in 22 years. The institutional man in the counter-institutional space. The identity crisis: he wears the vestments of the office that refused to carry his words. The credentials remain. The channel changes. The identity fractures.
+
+**Epigraph Integration:** *Journal of Ecclesiastical Liability Review*, Vol. 41, Editorial Note on Submission Guidelines
+- Thematic function: Institutional suppression rendered as bureaucratic procedure. Editorial policy as suppression mechanism.
+- First read: administrative boilerplate, submission guidelines, sensitive topics advisory
+- Reread: the mechanism that will reject Malachi's paper, published before his submission arrives. "Institutional positions published during periods of active litigation may be interpreted as establishing liability." Translation: the institution will not speak truth that exposes it to lawsuits. The suppression is not theological — it is actuarial.
+- Broader: The institution manages truth through editorial policy. The policy is published as guidance. The guidance functions as prohibition. The prohibition requires no enforcement because institutional professionals understand that guidance from legal office carries weight of prohibition without administrative burden. The suppression is competent. The competence is the horror.
+
+**Nephthys Parallel as Thematic Crystallization:**
+
+B2 Ch 3: Nephthys Silenced. Mechanism: tribunal, brand, excommunication, suppressants prescribed. Function: institution protecting itself from truth its member produced. Malachi's role: prescribed suppressants "because the institution required it."
+
+B3 Ch 17: Malachi suppressed. Mechanism: editorial rejection, liability management, standing legal advisory. Function: institution protecting itself from truth its member produced. Editorial board's role: rejected paper "because the institution's legal counsel required it."
+
+The parallel: "The mechanisms were different — a medical intervention and an editorial decision — but the function was identical: the institution protecting itself from the truth its own members produced."
+
+The evolution: Nephthys's Silencing required tribunal (formal proceeding, witnesses, decree, brand). Malachi's suppression requires editorial board (three sentences, same-day rejection, no formal prohibition). The mechanism has evolved. The efficiency has increased. The suppression has been automated.
+
+The recognition: Malachi identifies the parallel. "He had prescribed Nephthys suppressants because the institution required it. The editorial board had rejected his paper because the institution's legal counsel required it." The complicity is systemic. The institution suppresses through procedure. The procedure is competent. The competence is not villainy — it is institutional risk management. The horror is that the suppression works better when it is procedural than when it is personal.
+
+**The Paper's Incompleteness as Thematic Object:**
+
+Twelve pages. Seven days to write. Formal academic structure (thesis, evidence, counter-evidence, analysis, conclusion). Identifies Threshold's category confusion (presence ≠ participation). Identifies Nephthys's framework gap (boundary without justification). Proposes medical boundary (suffering, not sacrament).
+
+The constraint: cannot cite correspondence. Citing it would require explaining 40 years of institutional suppression. The paper needs to work without the archive.
+
+The phrase: "the data available to this author — limited to publicly accessible sources." Written seven times during drafting. Each time, the phrase cost him "something he did not have vocabulary for."
+
+The incompleteness: "The paper stood without it. The paper stood the way a building stood without its deepest foundation — functional, structurally sound, and incomplete in a way that only the architect could see."
+
+The consequence: Paper is correct but insufficient. Threshold will read and dismiss (built on grief, not theology). Nephthys will read and recognize incompleteness (will know he has archive, has not published it). Analysis identifies error but cannot close gap or enforce boundary because closing and enforcing require archive, and archive requires publication, and publication requires institutional man to become institutional indictment.
+
+The thematic weight: Truth incomplete is truth weaponized differently. The paper challenges Threshold theology but cannot stop Threshold walking. The paper exposes Church's suppression but cannot expose Church's knowledge. The incompleteness is strategic (protects correspondence) and structural (argument without foundation). The analysis is the only thing he has produced in nine months that is worth producing. The analysis is insufficient. The insufficiency is the endpoint.
+
+**Black Babel as Counter-Institutional Infrastructure:**
+
+Encrypted relay network. Distributed Sofia Reyes's mid-truth publication (B2 timeline). Used by Nephthys (counter-liturgy), Threshold (theology), Kindling (operations), mage network (biological monitoring). Decentralized, uncredentialed, beyond reach of editorial boards and legal advisories.
+
+Malachi accesses it through See's archived monitoring tables. The institutional surveillance infrastructure contains, in its own records, the means to use the channel it was designed to watch. The irony is structural: the institution built the tool to monitor the counter-institutional channel. The tool contains the access. The access is available to anyone with institutional credentials. The institutional man uses institutional surveillance infrastructure to access counter-institutional channel.
+
+The publication: broadest routing (same distribution as Reyes publication). Published under his name and title (Arch-Prelate, European See). Did not anonymize. Did not remove credentials. "The paper would arrive in the counter-institutional channel with the full weight of the institutional authority it had been denied."
+
+The inversion: Arch-Prelate publishing theology Church refused to print, through network Church was surveilling, under name and title Church conferred and cannot retract (no administrative capacity for tribunal). The institutional man in the counter-institutional space. The authority denied by institution, asserted through network. The first act outside institutional mediation in 22 years.
+
+**Closing Polysyndetic Chain as Thematic Enumeration:**
+
+Eight "and" conjunctions. ~100 words. Accumulation without resolution:
+- hum through the walls
+- correspondence beside him
+- rejection beside the correspondence
+- paper transmitted
+- blank page buried beneath accumulated documents
+- key on its cord against his chest
+- ink on his right thumb fading toward invisibility
+- morning light through the high windows was the ordinary light
+- institution continued around him in its depleted quiet
+- Arch-Prelate who had just published through encrypted relay network wore the vestments of the office that had refused to carry his words and did not take them off
+
+The enumeration is institutional accounting. What remains (hum, correspondence, key, vestments). What is transmitted (paper). What is fading (ink). What continues (institution, morning light). What is unresolved (vestments still on, identity crisis unresolved).
+
+No closing cadence. Pattern broken B2 Ch 27, maintained through B3. No "the question survives." No rhetorical close. The polysyndetic accumulation IS the close. The enumeration without resolution. The yet continues.
+
+**Comparison to B2 Ch 14 (Thematic Evolution):**
+
+B2 Ch 14: "The Voice Is Not Wounded" — emergency council, three positions, mid-truth response, second encyclical drafted, Threshold weaponizes immediately, locked study visit, "The question survives"
+
+B3 Ch 17: "The Voluntarist Heresy" — solo writing, no council, formal paper (not encyclical), Church suppresses publication, publishes via Black Babel, "The yet continued"
+
+Thematic evolution:
+- Institutional channel: functional (B2) → refuses (B3)
+- Suppression target: Nephthys (B2 Ch 3) → Malachi (B3 Ch 17)
+- Suppression mechanism: tribunal (B2 Ch 3) → editorial policy (B3 Ch 17)
+- Publication channel: Church (B2) → Black Babel (B3)
+- Identity: institutional man within institution (B2) → institutional man in counter-institutional space (B3)
+
+The arc: B2 Ch 14 = institution suppresses Nephthys, Malachi drafts encyclical through institutional channel. B3 Ch 17 = institution suppresses Malachi, Malachi publishes paper through counter-institutional channel. The suppression mirrors. The mechanism evolves. The efficiency increases. The institutional man discovers what he is without the institution mediating his voice.
+
+**Forward Thematic Connections:**
+- Ch 28 ("Learns Nephthys Died"): The gap in her framework permanent. She may not have read his paper. The parallel recognition incomplete. The boundary she drew cannot be justified by the person who drew it.
+- Ch 37 ("Pilgrimage to Cathedral"): The empty seat. Nephthys gone. Her framework incomplete. His analysis published but insufficient without correspondence.
+- Ch 45 ("The Confession"): The correspondence. The decision. The institutional indictment. Does he publish the archive?
+- Ch 51 ("The Study — Endpoint"): The yet resolves. The deliberation ends. The institutional man's final position.
+
+---
+

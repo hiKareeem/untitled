@@ -571,3 +571,62 @@ The absences are the emotional content. The scientific register processes moral 
 Emotional evolution: anticipation → analysis → moral suspension. Posture evolution: sitting-and-waiting → sitting-and-revising → writing-without-publishing. The arc: observation → analysis → incomplete moral action. The hum remains. The field kit remains. The arrests remain. The publishing doesn't happen. The writing continues.
 
 **Character State:** Phase 2 B3 (The Attempts — "Correct and Insufficient"). The correct scientist watching her correct model produce correct consequences that are devastating. The model works. The model is incomplete. The incompleteness is not scientific failure but moral failure. The moral failure does not have reproducible methodology. She writes the annotation anyway. She does not publish it. She does not stop writing it. Same institutional position Elena occupied for twenty years: correct research, unauthorized, conducted from home, not published through official channels, existing in gap between knowledge and power. The horror is not the gap. The horror is that the gap has no methodology. The horror is that she writes anyway. The horror is that the handwriting is the only part of the system that is not data.
+
+---
+
+### Chapter 17 — "The Voluntarist Heresy" (Malachi)
+
+**Emotional Arc:** Paper completed (constraint identified) → argument rendered (gap in Nephthys's framework) → submission (institutional reflex) → rejection (liability, not theology) → recognition (suppression mirrors Nephthys) → Black Babel publication (counter-institutional act) → closing accumulation (vestments still on, yet continues)
+
+**Emotional Register:** Controlled institutional precision under suppression. Phase 2 B3 (The Attempts — "Correct and Insufficient"). Register remains institutional-theological, no qualifiers. Emotional weight accumulates through the gap between what the paper cites (publicly available data) and what Malachi knows (correspondence). Horror is procedural: the institution suppresses its own theologian through editorial policy, not tribunal. The suppression is competent. The competence is the horror.
+
+**Physical Tells:**
+- Paper (twelve pages, handwritten title, correspondence stock) — seven days to write, slower than encyclicals, different mode
+- Correspondence (on desk, eight months, two scripts) — unpublished, the archive he cannot cite
+- Blank page (third encyclical, buried under accumulated documents) — the institutional writing that stopped
+- Rejection (three sentences, direct channel) — same-day administrative decision
+- Ink on right thumb (barely visible, fading) — twelve pages didn't refresh mark, body erasing institutional writing
+- Key on cord (against chest, opens empty room) — the locked study no longer visited
+- Vestments (deep violet, gold thread, chain of office) — worn throughout, institution that refused to carry his words
+- Hum (inhabited, through walls) — post-Voice quality, steady, does not distinguish between documents
+
+**Emotional Beats:**
+
+1. **Paper completed** — Low-sustained. Twelve pages. Seven days. Not the institutional fluency of encyclicals. Emotional weight: constraint. Cannot cite correspondence. "The paper needed to work without the archive. The argument needed to stand on publicly available data." The withholding strategic, not institutional. Protecting correspondence not because institution requires it but because publication would change argument from analysis to indictment.
+
+2. **Argument rendered** — Medium (intellectual). Paper excerpts italicized. Category confusion identified (presence ≠ participation). Gap in Nephthys's framework ("listen, do not join" without justification). Medical boundary proposed (suffering, not sacrament). Emotional weight: precision. "The data available to this author — limited to publicly accessible sources" written seven times during drafting. Each iteration cost him "something he did not have vocabulary for." The phrase true. The incompleteness deliberate.
+
+3. **Submission** — Low-sustained. Tuesday. Institutional reflex. Journal's template, author identification, credentials listed. Emotional weight: institutional gesture. "The institutional man performing the institutional gesture." Does not expect acceptance. Expectation not cynicism — institutional knowledge. Served on advisory board six years. Understands editorial calculus. Journal publishes theology institution can accommodate. Does not publish theology that exposes institution to liability.
+
+4. **Rejection** — Medium-rising. Same day. Three sentences. Direct communication channel. Emotional weight: speed as message. "The board recognizes the theological rigor of your analysis." Translation: argument correct, no flaw found. "The current climate does not support institutional positions." Translation: institution will not speak. Not because speech wrong. Because speech dangerous. Fourteen active lawsuits. Standing legal advisory. The institution managing liability.
+
+5. **Recognition** — PEAK (moral). Suppression mirrors Nephthys. "He had prescribed Nephthys suppressants because the institution required it. The editorial board had rejected his paper because the institution's legal counsel required it." Emotional weight: parallel identified. Mechanisms different (medical intervention vs editorial decision). Function identical (institution protecting itself from truth its members produce). The distinction does not matter. The complicity systemic.
+
+6. **Black Babel access** — Medium-sustained. Communications console. Archived routing tables. Monitoring protocols contained relay addresses. Emotional weight: irony. Institutional surveillance infrastructure contains means to use channel it was designed to watch. "The institutional infrastructure that had been designed to watch the counter-institutional channel contained, in its own records, the means to use it." The access available to anyone with institutional credentials.
+
+7. **Publication** — Medium-high (action). Broadest routing. Same distribution as Reyes publication. His name, his title. Did not anonymize. Did not remove credentials. Emotional weight: inversion. "The paper would arrive in the counter-institutional channel with the full weight of the institutional authority it had been denied." Arch-Prelate publishing theology Church refused to print, through network Church was surveilling, under name and title Church conferred and cannot retract. First act outside institutional mediation in 22 years.
+
+8. **Nephthys will read it** — Medium-sustained. Thought arrives without institutional framing. She will read the gap analysis. She will recognize parallel suppression. She will recognize incompleteness ("data available to this author — limited to publicly accessible sources"). She will know he has archive, has not published it. Emotional weight: anticipated recognition. The institutional man who Silenced her now silenced by same institution for same reason. The parallel complete. The archive still withheld.
+
+9. **Paper's insufficiency** — Resolving-suspended. Threshold will read and dismiss (built on grief, not theology). Paper cannot stop walking. Paper can name error, identify gap, propose boundary. Cannot close gap or enforce boundary because closing requires archive. Archive requires publication. Publication requires institutional man to become institutional indictment. Emotional weight: correct and insufficient. "The analysis was the only thing he had produced in nine months that was worth producing." The analysis insufficient. The insufficiency the endpoint.
+
+10. **Closing polysyndetic accumulation** — Suspended. Eight "and" conjunctions. ~100 words. Hum through walls, correspondence beside him, rejection beside correspondence, paper transmitted, blank page buried, key on cord, ink fading, morning light ordinary, institution continuing in depleted quiet, Arch-Prelate wore vestments of office that refused to carry his words and did not take them off. Emotional weight: enumeration without resolution. What remains (hum, correspondence, key, vestments). What is transmitted (paper). What is fading (ink). What continues (institution, morning light). What is unresolved (vestments still on, identity crisis unresolved). The yet continues.
+
+**Emotional Absence:**
+- No anger at editorial board (competent risk management, not villainy)
+- No satisfaction at publishing paper (correct but incomplete)
+- No hope paper will stop Threshold (built on grief, not theology)
+- No fear of institutional consequences (Church lacks capacity for tribunal)
+- No guilt about withholding correspondence (strategic, not institutional suppression)
+- No despair about Nephthys's gap (identified but cannot close without her)
+
+The absences are the emotional content. The institutional register processes suppression the way it processes everything: structurally, precisely, without named affect. The weight conveyed through procedural detail (three-sentence rejection, same-day decision, standing legal advisory) and physical markers (ink fading, paper weight, vestments worn). The emotional state is the register. The register is the only register. The horror is the competence: the institution that suppresses through editorial policy more efficiently than through tribunal.
+
+**Comparison to B3C6 and B2C14:**
+- B2C14: Emergency council, three positions, encyclical drafted, Threshold weaponizes, locked study visit, "The question survives." Emotional register: institutional crisis management, encyclical fluency operational.
+- B3C6: Six months post-Broadcast. Notes written (not encyclical). Analysis complete. Correspondence on desk. "The yet continued." Emotional register: deliberative paralysis, precision producing immobility.
+- B3C17: Eight-nine months post-Broadcast. Paper completed. Church suppresses. Publishes via Black Babel. "The yet continued." Emotional register: procedural suppression, first counter-institutional act.
+
+Emotional evolution: institutional crisis management → deliberative paralysis → incomplete action. Posture evolution: council convened → notes written → paper published (without archive). The arc: institutional response → analysis → counter-institutional publication. The encyclicals stopped (B2C39). The notes began (B3C6). The paper published (B3C17). The correspondence remains unpublished. The yet continues.
+
+**Character State:** Phase 2 B3 (The Attempts — "Correct and Insufficient"). The institutional man publishing through counter-institutional channel for first time in 22 years. The paper correct (identifies Threshold error, Nephthys gap). The paper incomplete (cannot cite correspondence). The incompleteness strategic (protects archive) and structural (argument without foundation). The suppression mirrors Nephthys (different mechanism, same function). The institution suppresses through editorial policy (more efficient than tribunal). The horror is the competence. The horror is that the suppression has been automated. He wears the vestments of the office that refused to carry his words. The vestments still on. The identity crisis unresolved. The yet continues.

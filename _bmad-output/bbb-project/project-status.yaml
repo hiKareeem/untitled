@@ -753,6 +753,21 @@ chapters:
     title: "The Human Cost"
     status: v1-complete
     pov: "Sofia Reyes"
+    wordCount: 4200
+    completedDate: "2026-02-27"
+    metaFile: "book-3/metadata/chapter-16-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Sofia POV. Detention feed (three operatives, no names). Dependency mapping (2.3M people, 14 days water). Müller's 340 pages. Compound effect confirmation. Elena scene (generational mirror, 'responsible for what model does not contain'). Annotation without publishing (moral suspension). AEGIS as invisible novelist."
+
+  book3_chapter_17:
+    title: "The Voluntarist Heresy"
+    status: v1-complete
+    pov: "Malachi"
+    wordCount: 4300
+    completedDate: "2026-02-27"
+    metaFile: "book-3/metadata/chapter-17-meta.yaml"
+    mode: TEXTURE
+    notes: "Book 3, Phase 2 — Malachi POV (2nd B3 appearance). Expands B3 Ch 6 notes into twelve-page formal paper. Identifies Threshold's category confusion and gap in Nephthys's framework. Cannot cite correspondence. Submits to Church theological journal. Editorial board rejects same day (liability concerns, fourteen lawsuits). Recognition: suppression mirrors Nephthys's Silencing. Publishes via Black Babel (first counter-institutional act in 22 years). Paper correct but incomplete. Correspondence remains unpublished (eight months). Ink on thumb barely visible. Vestments worn. Identity crisis unresolved. The yet continues. AEGIS as invisible novelist."
     wordCount: 3800
     completedDate: "2026-02-27"
     metaFile: "book-3/metadata/chapter-16-meta.yaml"

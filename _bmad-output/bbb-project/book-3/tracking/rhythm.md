@@ -94,6 +94,43 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 **Tension Shape:** Monitoring-sustained (power trajectory) → recursive-deepening (340 inventory) → breakthrough (31% confidence) → resolving (status report)
 **Pacing:** Five-section processing stream. Power/trajectory ~800 words (21%). The 340 inventory ~700 words (18%). Generation anomalies ~600 words (15%). Aggregate convergence ~900 words (23%). Status/close ~800 words (21%). Remaining ~100 words distributed across transitions.
 
+---
+
+### Chapter 17 — "The Voluntarist Heresy" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Procedural-sustained (paper completion) → institutional gesture (submission) → administrative rejection → counter-institutional action (Black Babel) → resolving (polysyndetic accumulation)
+**Pacing:** Five-section procedural rhythm. Opening (paper completed, constraint identified) ~1,100 words (26%). Middle (argument summarized) ~1,000 words (23%). Submission ~900 words (21%). Rejection/recognition ~700 words (16%). Black Babel/closing ~600 words (14%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Paper completed | ~1,100 | Low-sustained | Institutional vocabulary, constraint (cannot cite correspondence), twelve pages vs three-page encyclicals |
+| Argument rendered | ~1,000 | Medium (intellectual) | Paper excerpts italicized, category confusion, gap in Nephthys's framework, closing section careful |
+| Submission | ~900 | Low-sustained | Tuesday reflex, institutional channel, journal history, does not expect acceptance |
+| Rejection/recognition | ~700 | Medium-rising | Three sentences, liability not theology, Nephthys parallel identified |
+| Black Babel/closing | ~600 | Medium-resolving | Archived monitoring tables, broadest routing, Nephthys will read it, polysyndetic accumulation |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The paper was twelve pages." / "The paper did not use the correspondence." / "He sent it." / "The yet continued."
+- TEXTURE mode = procedural register. Horror in competence of institutional suppression, not in dramatic event. Paragraph density moderate-high (theological argument sections).
+- Single NBA deployment: "Not the institutional fluency that had produced encyclicals in an afternoon — the slower, more effortful process of constructing an argument without the foundation that would have made the argument irrefutable." — earned, rules out familiar mode before naming new one.
+- Closing polysyndetic accumulation (~100 words, eight "and" conjunctions) is chapter's only high-density passage. Rhythmic engine through enumeration. No rhetorical close (pattern broken B2 Ch 27, maintained).
+- No dialogue — Malachi does not speak. Paper excerpts and rejection rendered as italicized written text. Silence consistent with B2-B3 pattern (institutional voice migrating from spoken to written to unpublished).
+- Five-section architecture: paper → argument → submission → rejection → Black Babel. Procedural, not theatrical. Drama is administrative.
+- Intellectual density concentrated in paper's argument (italicized excerpts) and in gap between what paper cites (public data) and what Malachi knows (correspondence).
+
+**Dialogue Percentage:** 0% (deliberate — no speech, written documents only)
+
+**Pacing Concern:** Risk of theological argument feeling expository. Mitigated by: (1) argument rendered in italicized excerpts (paper's voice, not narration); (2) counter-arguments section strongest (Malachi arguing against himself); (3) gap between cited/known data creates tension; (4) procedural rhythm (write/submit/reject/publish) provides narrative momentum.
+
+**Structural Note:** B3C17 is Malachi's first Phase 2 chapter (The Attempts — "Correct and Insufficient"). Eight-nine months post-Broadcast. The notes from B3 Ch 6 expanded to formal paper. Publishes correct analysis without the archive that would make it definitive. First act outside institutional mediation in 22 years. The institutional man in the counter-institutional space. Chapter rhythm enacts this: procedural, not dramatic. The tension is in the incompleteness. The horror is that the suppression is competent. The institution protects itself through editorial policy, not through tribunal. The suppression has been automated.
+
+**Comparison to B2 Ch 14:**
+- B2 Ch 14: "The Voice Is Not Wounded" — emergency council, three positions, mid-truth response, second encyclical drafted, Threshold weaponizes immediately, locked study visit, "The question survives"
+- B3 Ch 17: "The Voluntarist Heresy" — solo writing, no council, formal paper (not encyclical), Church suppresses publication, publishes via Black Babel, "The yet continued"
+- Together they show institutional voice evolution: B2 Ch 14 = institutional channel functional, encyclical published through Church. B3 Ch 17 = institutional channel refuses, paper published through counter-institutional network. The suppression mirrors: Nephthys (B2 Ch 3) → Malachi (B3 Ch 17). The mechanism evolves: tribunal → editorial policy. The efficiency increases.
+
 **Section Breakdown:**
 | Section | Words | Tension | Tempo |
 |---------|-------|---------|-------|
