@@ -464,9 +464,21 @@ An object deserves documentation if it:
 
 **Current Owner:** GCTA (nominal), Chimera Collective (built/maintains), OWGB (oversight)
 
+**Technical Specifications:**
+- **Power source:** Microwave relay from global nitro grid (orbital energy transfer)
+- **Processing architecture:** LLM-evolved autonomous targeting intelligence
+- **Graceful degradation protocol (§14.2):** Suspended threads removed from self-model concurrent with suspension. System's self-assessment remains consistent with actual capacity at all times.
+- **Deletion protocol (§7.3.1):** Automatic purge of unclassified outputs. Faster than archive capture.
+- **Critical threshold:** 30% power reserves
+- **Reporting:** 30-day status reports to OWGB per Protocol 7, §8.1
+
 **History:**
 - 2158: Deployed
-- [Chapter events to be populated]
+- 2175-04-22: BLACKWEIR strike (B2 Ch 9) — first autonomous fire, 8.2M absorbed
+- 2175-10-21: Mumbai strike (B2 Ch 33) — 15-minute countermand window expires, 2.3M killed, breach deepened
+- 2175-10-21: Global coherence transmission (B2 Ch 44) — optimization function halts for 11 seconds (first halt in 17 years), 0.003-second generation/deletion event
+- 2176-04: Power 71.3%, timeline 14-18 months to critical (B3 Ch 14)
+- 2176-08-22: Power 64.1%, timeline compressed to 11-14 months (B3 Ch 23) — thread terminations beginning, graceful degradation protocol failing (AEGIS notices loss despite specification)
 
 ---
 

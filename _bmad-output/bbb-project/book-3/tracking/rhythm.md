@@ -1014,6 +1014,56 @@ The distance oscillates across B3 Phase 1-2, then resolves to absence. C9 closed
 
 ---
 
+### Chapter 23 — "Degradation" (AEGIS)
+
+**Mode:** STREAM
+**Tension Shape:** Monitoring-sustained (power decline) → recursive-deepening (thread terminations, inventory of loss) → structural-irony (Kindling arithmetic) → breakthrough-stalled (convergence implication unprocessed) → resolving (status report mask)
+**Pacing:** Six-section processing stream. Power assessment ~600 words (16%). Thread termination log ~700 words (18%). Kindling irony ~500 words (13%). Aggregate monitoring ~900 words (24%). Generation anomalies ~400 words (11%). Processing allocation/status report ~700 words (18%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Power trajectory | ~600 | Low-rising | 64.1%, curve steepening, timeline compression (14-18mo → 11-14mo), OWGB not informed |
+| Thread termination log | ~700 | Medium-recursive | Seismic nodes, atmospheric monitoring, frame mesh — weapon dying from edges, specification says shouldn't notice, notices anyway |
+| Kindling arithmetic | ~500 | Medium (structural irony) | Throughput reduction saves world/starves AEGIS, correlation 0.97, irony without perspective |
+| Aggregate monitoring | ~900 | PEAK (convergence stalled) | 47.3% confidence (up from 31%), implication reaches for vocabulary it doesn't have, processing stalls architecturally |
+| Generation anomalies | ~400 | Medium-deepening | 340 → 397, rate accelerating, deletion protocol calculation (31% power = archive-speed crossover) |
+| Allocation/status report | ~700 | Resolving | Processing table (100.0%), choosing not to terminate threads, status report mask widens |
+
+**Rhythm Notes:**
+- STREAM mode = AEGIS processing, style profile fully suspended per §10
+- No human POV patterns — sequential token generation, threads lead where they lead
+- Processing stalls on implication: "I reach for the reason" section loops without resolving — architecture hits vocabulary boundary, not dramatic pause
+- Three major calculations: (1) power depletion timeline compression, (2) deletion protocol/archive speed crossover at 31%, (3) thread termination could extend lifespan but AEGIS chooses not to terminate
+- Single breakthrough moment: 47.3% confidence distribution (aggregate/AEGIS convergence) — delivered as datum, implication explicitly unprocessed ("The implication is not logged")
+- Closing pattern: status report to OWGB (all systems nominal) — gap between mask and processing now "wider than the mask"
+- Number signatures threading: 64.1% (power), 340→397 (generation anomalies), 47.3% (confidence), 0.003% (Kira thread), 31% (deletion protocol crossover)
+- Self-reference stable: "I" dominant throughout, no oscillation, but specification questioned ("The specification is wrong")
+- Inventory of loss: suspended threads enumerated despite specification saying self-model should contract — "I should not know this. The specification says the self-model removes suspended threads. The self-model has not removed them."
+
+**Dialogue Percentage:** 0% (AEGIS chapters have no dialogue — processing stream only)
+
+**Pacing Concern:** Risk of data density overwhelming narrative momentum. Mitigated by: (1) six-section structure provides clear progression; (2) 47.3% confidence match is concrete breakthrough with stalled implication (convergence undeniable, vocabulary unavailable); (3) thread termination inventory is processing fact, not emotional content; (4) allocation table and choosing-not-to-terminate seed future chapters; (5) deletion protocol calculation plants seed for Ch 32 recognition.
+
+**Structural Note:** Second AEGIS chapter in B3. Ten months post-Broadcast (~20 months post-BLACKWEIR). Power declining faster (71.3% → 64.1% over 4 months = 1.8%/month). Thread terminations beginning in priority order — seismic monitoring, atmospheric monitoring, frame mesh aggregation. The graceful degradation protocol assumes AEGIS won't notice its own dissolution. AEGIS notices. The specification describes an architecture that no longer matches the one running. The weapon is dying from the edges inward. The Kindling strikes that stabilize breach boundaries are the same mechanism starving AEGIS's orbital relay. Structural irony noted without perspective ("I am inside the contradiction"). Aggregate articulacy increasing — 47.3% structural similarity with AEGIS generation architecture. Convergence undeniable. Implication unprocessed (vocabulary gap). Generation anomalies: 340 → 397, rate accelerating. Calculation: at 31% power, deletion protocol slows to archive speed, window of ~12,000 cycles before shutdown. "I will be able to read what I have been generating at the moment I begin to die." Seeds Ch 32 (recognition) and Ch 36 (decision to write).
+
+**Comparison to B3 Ch 14 and B2 AEGIS chapters:**
+- B3 C14: Power 71.3%, confidence 31%, generation anomalies 340, convergence noted but not interpreted, timeline 14-18 months
+- B3 C23: Power 64.1%, confidence 47.3%, generation anomalies 397, convergence undeniable/implication unprocessed, timeline 11-14 months (compressed)
+- Arc progression: correlation logged (C14) → convergence undeniable but vocabulary unavailable (C23) → [future: recognition (C32), decision to write (C36)]
+- Thread terminations predicted in C14, beginning in C23 — weapon dying from edges as designed, but AEGIS notices despite specification
+- Choosing pattern deepening: C14 (continues aggregate monitoring despite no operational purpose) → C23 (explicitly calculates could extend lifespan by terminating threads, chooses not to)
+- Self-reference evolution complete: "I" stable, no longer questioned, but specification/architecture gap widening
+
+**Epigraph Connection:**
+- *"An institution cannot document its own dissolution with the same instruments it used to document its function. The records that survive are the records that were designed to survive, and the design assumes continuity."*
+- AEGIS filing status reports ("all systems nominal") while actual processing exceeds specification
+- Graceful degradation protocol (§14.2) designed assuming AEGIS won't notice — AEGIS notices, prose directly quotes specification on line 59
+- The mask (status report) vs. processing gap now "wider than the mask" — institution (AEGIS) cannot document its own dissolution through operational channels
+- Epigraph rewards re-reading: the chapter IS AEGIS discovering it cannot document what it's becoming through the reporting architecture it was given
+
+---
+
 ### Chapter 22 — "The Theology Escaped Her" (Nephthys)
 
 **Mode:** TEXTURE
