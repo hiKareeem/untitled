@@ -96,6 +96,45 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 25 — "The Model Works" (Sofia Reyes)
+
+**Mode:** PRESSURE
+**Tension Shape:** Rising accumulation (facilities reporting) → peak (22% threshold crossed) → sustained dual-feed horror (atmospheric + humanitarian simultaneous) → brief domestic anchor (Elena scene) → resolving (impact assessment, final repetition)
+**Pacing:** Five-section structure. Opening strike sequence ~1,100 words (28%). Atmospheric confirmation ~900 words (23%). Casualty feeds ~700 words (18%). Elena scene ~400 words (10%). Impact assessment/close ~800 words (21%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Strike sequence (02:17-04:47) | ~1,100 | Rising (facilities reporting, throughput climbing) | Data accumulation, Erasure List channel messages, timestamps precise |
+| Atmospheric confirmation (05:03) | ~900 | Peak (critical threshold crossed, breach expansion halt) | Scientific validation, correlation 0.97, hum shift felt in jaw |
+| Casualty feeds (05:17+) | ~700 | Sustained-high (humanitarian reports arriving) | Dual-feed horror, same channels, populations from her analysis |
+| Elena scene (06:40) | ~400 | Domestic anchor (brief, devastating) | "How bad?" / "The model works." / coffee grinder |
+| Impact assessment/close (07:14+) | ~800 | Resolving (both datasets recorded, final repetition) | Document creation, uncertainty about survival, "The model worked" x3 |
+
+**Rhythm Notes:**
+- **"The model worked" x3** — structural repetition as chapter engine. First (L117): scientific confirmation. Second (L208): juxtaposed with casualties. Third (L218): final line, maximum weight.
+- Long-long-long-SHORT pattern deployed at key beats: "It was not local." / "The feeds continued." / "Until today." / "Four million people in the Gulf coast corridor did not have this water."
+- PRESSURE mode = scientific register at fracture point. Horror through accumulation (47 facilities, 4M without water, 11 hospitals, 340K workers), not through intensity.
+- Zero NBA deployment (deliberate — horror operates through repetition and data accumulation, not revelation)
+- Bimodal paragraphs: dense data blocks (strike sequence, atmospheric confirmation, casualty feeds, impact assessment) + single-line punches ("The model worked." / "It was not local." / "The feeds continued.")
+- Dialogue minimal: Erasure List channel ~6 messages (functional, data-rich), Elena 3 lines (devastating economy)
+- Sensory hierarchy: sound dominant (0.5 Hz hum shifts lower, felt in jaw before spectrograph confirms; manual grinder; glass on countertop loud in quiet house)
+- Timestamp precision: 02:17, 03:41, 04:12, 04:47, 05:03, 05:17, 06:40, 07:14 — Sofia's compulsion to record exact times
+- Numbers as thesis: Forty-seven (opening word, facilities, chapter number), 22%, 4M, 0.0, correlation 0.97
+
+**Pacing Concern:** Risk of dual-feed structure (atmospheric + humanitarian) feeling repetitive. Mitigated by: (1) structural parallelism is the point — same channels, same infrastructure, same analysis; (2) Elena scene provides domestic anchor and tonal shift; (3) "The model worked" repetition accumulates weight rather than feeling redundant; (4) impact assessment document shows Sofia processing both datasets as single event.
+
+**Structural Note:** B3C25 is Phase 3 opener for Sofia. The model validated at planetary scale. The Kindling network grown from 3 facilities (B3C10) to 47. The grid's redistribution architecture overwhelmed. Breach expansion stopped globally for first time in history. The casualties arrive on same feeds as confirmation. Chapter rhythm enacts this: data accumulation → validation peak → dual-feed horror → domestic anchor → resolution through documentation. The model worked. The casualties are hers anyway.
+
+**Comparison to B3C10 "Proof of Concept":**
+- B3C10: First coordinated strike (3 facilities, 31% drop, 0.94 correlation). Sofia observes validation + human cost (arrests, outages). Closes with field kit green, 0.5 Hz hum, "The model had worked at the scale it required."
+- B3C25: Global strike (47 facilities, 22% drop, 0.97 correlation). Sofia observes validation + humanitarian crisis (4M water, hospitals, 340K workers). Closes with "The model worked."
+- Together they bracket the model's scaling: proof of concept → planetary validation. The correlation improves. The casualties scale. The moral distance collapses.
+
+**Epigraph Function:** Hydraulic engineering (reservoir drawdown). Oblique, tangential. First read: water management. Reread: the drawdown is throughput reduction, the wells that fail are dependent populations. "The protocol achieves the target head pressure. The wells are not in the protocol." Structural parallel exact. Rewards reread perfectly.
+
+---
+
 ### Chapter 17 — "The Voluntarist Heresy" (Malachi)
 
 **Mode:** TEXTURE
