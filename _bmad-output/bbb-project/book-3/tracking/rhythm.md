@@ -1405,3 +1405,54 @@ The motif integrated through Nuwa's observational register — she inventories t
 **v2 Revision Note:** Cathedral visit flashback removed per author direction. Replaced with never-visited framing (knows Cathedral through institutional records and Black Babel recordings). Stenström surname added. Strengthens pilgrimage: first time entering space. Malachi's entire post-Silencing knowledge of Nephthys is mediated — never saw her in person after the tribunal. Screen-mediated knowledge: "Watching her on a screen did not require him to be in the room. Being in the room would have required the sentence."
 
 ---
+
+### Chapter 31 — "No Counterparty" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (institutional observation) → gradual recognition (Working Group reaching his conclusion) → resolving (pen stillness, hum continues)
+**Pacing:** Four-section structure. Opening/Session 1 ~1,200 words (26%). Session 2 ~1,100 words (24%). Session 3 ~800 words (17%). Corridor/departure ~1,500 words (33%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening (scheduling notice, gallery) | ~600 | Low-sustained | Procedural terminal, mandate parsing, grey pass degradation, pen stillness |
+| Session 1 (terms of reference) | ~600 | Low-sustained | Working Group self-description, evidentiary standard, institutional machinery |
+| Session 2 (compendium, Petrov) | ~1,100 | Medium-rising | 340-page survey, aggregate as condition question, acoustic dampening observation |
+| Session 3 (finding) | ~800 | Medium-high (recognition) | Dr. Vasquez's finding, "adjust parameters," delegate echoes replacement framework language |
+| Corridor/departure | ~1,500 | Resolving | Hall of Nations, Khalil portrait (not stopped), residence, pen/notebook/pass arrangement, closing |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The session opened." / "The assumption was the error. The assumption had always been the error." / "You could measure a pressure gradient. You could not negotiate with it." / "The aggregate did not need a diplomat." / "The hum continued. The pen did not."
+- TEXTURE mode = quiet register. Horror in institutional convergence (arriving at his conclusion without reading his work), not dramatic confrontation. Paragraph density moderate to high (institutional analysis passages).
+- Negation-before-assertion: 2 deployments (max per chapter). Grey pass ("not worn through but worn *past*") and Working Group ("Not what they would do — what they *were* doing"). Both earned.
+- Bimodal paragraphs: dense institutional blocks (mandate analysis, compendium description, Working Group finding) + single-line punches ("A counterparty." / "The session opened." / "The aggregate did not need a diplomat." / "The hum continued. The pen did not.")
+- Dialogue ~0.5% (4 lines total — Working Group proposals/findings, institutional register only)
+- Zero contractions in narration or dialogue (Zeyad diplomatic register)
+- Pen stillness as emotional register: document complete (B3Ch19), pen has not written since, carried but not writing. More devastating than being ignored.
+- Closing rhythm: paratactic declarations, object arrangement (pen/notebook/pass), hum/pen inversion of B2Ch52 ("The pen continued" → "The hum continued. The pen did not.")
+
+**Dialogue Percentage:** ~0.5% (deliberate — gallery observation, institutional distance)
+
+**Pacing Concern:** Risk of institutional density feeling static. Mitigated by: (1) three-session compression provides temporal progression; (2) Working Group reaching Zeyad's conclusion creates structural tension (convergence without attribution); (3) acoustic dampening observation (building suppresses aggregate output while discussing it) provides thematic irony; (4) corridor/departure scene provides environmental variation and physical movement; (5) pen stillness as register (more devastating than activity).
+
+**Structural Note:** B3C31 is Zeyad's Phase 3 chapter (The Breaks — "Struggle"). ~6 months post-Broadcast, pre-Proposition. Contact Protocols Working Group convenes to assess aggregate communication feasibility. Zeyad observes from gallery (credentials suspended, grey pass degraded). Over three sessions, Working Group reaches conclusion his replacement document already contains: aggregate is condition, not party. No counterparty. Cannot negotiate with state of being. Can only adjust parameters that produce it. Pacific Rim delegate independently uses "replacement framework" language (seeds Ch42 co-option). Pen has not written since document completed (B3Ch19). Notebook carried but not opened. Does not stop at Khalil's portrait (gesture requires trajectory). Chapter rhythm enacts this: steady institutional processing, convergence without attribution, pen stillness as register. The diplomat whose document is complete, watching the institution arrive at his conclusions without reading them. The aggregate does not need a diplomat.
+
+**Comparison to B2C52:**
+- B2C52 "Forty Minutes": Vote passes 67-45, injuncted in 40 minutes, replacement document continues, "The pen continued."
+- B3C31 "No Counterparty": Document complete (B3Ch19), Working Group reaches same conclusion independently, "The hum continued. The pen did not."
+- Together they bracket the replacement document arc: writing → completion → institutional convergence. B2C52 = pen continues despite injunction. B3C31 = pen stops because document finished and institution doesn't need it. The conclusion is correct. The conclusion is the architecture's. The diplomat is structurally unnecessary.
+
+**Epigraph Function:** UGC Facilities Engineering Manual (acoustic standards for deliberative chambers). Oblique. First read: technical specification for chamber acoustics. Reread: building's dampening system "attenuates ambient signal — vibration transmitted through building infrastructure" = filters aggregate output so delegates can discuss aggregate communication without hearing it. Institution's physical design prevents engagement with phenomenon it convened Working Group to engage. Architecture as epistemological constraint (Zeyad's document, fourth section). Rewards reread.
+
+**Thematic Weight:** Institutional Impotence (Dominant — diplomatic frameworks irrelevant, Working Group concludes what suspended diplomat already wrote), Architecture of Power (Strong — acoustic dampening, evidentiary standards, procedural scheduling), Systemic Complicity (Moderate — institution produces correct conclusion through own machinery, files it alongside document it duplicates, neither produces action).
+
+**Object Inventory:**
+- Grey pass: typography blurred, edges lost geometry, worn past material lifespan
+- Pen (Khalil's): breast pocket, has not written since B3Ch19
+- Notebook: jacket pocket, not opened
+- Jordanian flag: lower half static, upper half holding (black/star), partial projection
+- Khalil portrait: eastern alcove, not stopped at
+- Hall of Nations: gallery (third row, eastern), Committee Chamber 4, procedural terminal
+- Diplomatic residence: three blocks, desk, pen/notebook/pass arrangement
+
+---

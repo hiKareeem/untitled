@@ -12,7 +12,7 @@ title: 'Hospitalized'
 pov: 'Kira Calloway'
 wordTarget: '3500-4500'
 phase: 3
-location: 'Neo-Shanghai — Chen Academy medical facility'
+location: 'Neo-Shanghai — Chén Academy medical facility'
 timeline: '~3 weeks post-blackout stream (~22 months post-BLACKWEIR)'
 mode: FRACTURE
 epigraph_source: 'Equipment Lifecycle Management: Decommissioning and Reassignment Protocols'
@@ -20,7 +20,7 @@ epigraph_author: ''
 epigraph_ref: '2158 ed., §11: Field Calibration Correction'
 rhetoric_reference: 'Filing system degradation, pharmaceutical ritual absence, implant dampening, archive request'
 meta_note: 'AEGIS as invisible novelist — Kira fracture chapter'
-revisionNotes: 'Diverges from plan: no new 3-day blackout (Kira already conscious at Chen per B3C20). Pill sorting ritual current per B3C5, now absent. Cumulative memory erosion, not dramatic gap. Chen knows about Lumina (bloodwork). Epigraph: industrial decommissioning, oblique.'
+revisionNotes: 'Diverges from plan: no new 3-day blackout (Kira already conscious at Chén per B3C20). Pill sorting ritual current per B3C5, now absent. Cumulative memory erosion, not dramatic gap. Chén knows about Lumina (bloodwork). Epigraph: industrial decommissioning, oblique.'
 ---
 
 # Chapter 26
@@ -30,23 +30,23 @@ revisionNotes: 'Diverges from plan: no new 3-day blackout (Kira already consciou
 <!--
 📋 SYNOPSIS - Chapter 26
 
-SYNOPSIS: Three weeks post-blackout stream. Kira at Chen Academy medical facility, Neo-Shanghai. Not a waking scene — she's been here, conscious, monitored. The filing system entries from three weeks show degradation: some competent, some mechanical, three days with no entries (the intermittent gaps accelerating). The pharmacist ritual is absent — hospital provides same chemicals, no bench, no clicking, no 30-day holder. Chen's bloodwork found the Lumina — the two-system secrecy is broken. Neurologist presents three weeks of observation data: R3 coherence-field residuals persisting at proximity parameters despite distance from Anchor Zone. Memory erosion documented clinically. Recommendation: implant dampening. She stops being the antenna or the erosion continues. She asks for the stream archives — the 30 seconds + 11 minutes. The choice begins here but does not complete here.
+SYNOPSIS: Three weeks post-blackout stream. Kira at Chén Academy medical facility, Neo-Shanghai. Not a waking scene — she's been here, conscious, monitored. The filing system entries from three weeks show degradation: some competent, some mechanical, three days with no entries (the intermittent gaps accelerating). The pharmacist ritual is absent — hospital provides same chemicals, no bench, no clicking, no 30-day holder. Chén's bloodwork found the Lumina — the two-system secrecy is broken. Neurologist presents three weeks of observation data: R3 coherence-field residuals persisting at proximity parameters despite distance from Anchor Zone. Memory erosion documented clinically. Recommendation: implant dampening. She stops being the antenna or the erosion continues. She asks for the stream archives — the 30 seconds + 11 minutes. The choice begins here but does not complete here.
 
 **Phase:** 3/5 (The Breaks — "Fracture")
 **Themes:** Where Identity Ends (Strong), Commodification of Suffering (Moderate), Systemic Complicity (Strong)
 **Characters present:** Kira Calloway (POV), neurologist (Dr. Yuen), medical staff (brief)
-**Location:** Neo-Shanghai — Chen Academy medical facility
+**Location:** Neo-Shanghai — Chén Academy medical facility
 
 **Key events:**
 - Filing system entries from 3 weeks show degradation — architecture holds, content thins
 - Pharmacist ritual absent — same chemicals, no architecture
-- Chen found Lumina in bloodwork — two-system secrecy broken
+- Chén found Lumina in bloodwork — two-system secrecy broken
 - Neurologist recommends implant dampening after 3 weeks of data
 - She asks for stream archives — wants to see what she was
 - Choice deferred — fracture, not decision
 
 **Continuity:**
-- B3 Ch 20: Blackout stream, hospitalized at Chen, HUD powered down, 3-hour gap, R3 38.7°C declining, quiet room rubble/rebuilding, coherence 0.52
+- B3 Ch 20: Blackout stream, hospitalized at Chén, HUD powered down, 3-hour gap, R3 38.7°C declining, quiet room rubble/rebuilding, coherence 0.52
 - B3 Ch 11: Lumina 90mg, quiet room cracking at 80mg, proximity stream plan, Nuwa warning filed in 4 seconds
 - B3 Ch 5: Lumina 80mg maintenance, pharmacist ritual (30-day holder, clicking, bench, fluorescent light), personality drift onset, memory gaps (Thursday, Sunday)
 - B2 Ch 51: Tuesday gone, 80mg as floor, memory erosion onset
@@ -66,7 +66,7 @@ SYNOPSIS: Three weeks post-blackout stream. Kira at Chen Academy medical facilit
 - Right ear tinnitus: persistent, mechanical.
 - Quiet room: rebuilt (ninety's work over 3 weeks) but altered — smaller, lower ceiling.
 - Pharmacist ritual: established B3C5, 30-day holder at Bay Area apartment, 12,000 km away.
-- Lumina: 90mg via Paz (illicit). Chen found it in bloodwork. Two-system secrecy broken.
+- Lumina: 90mg via Paz (illicit). Chén found it in bloodwork. Two-system secrecy broken.
 
 **Bible update needed:**
 - Characters: Kira — hospitalized, dampening recommended, archives requested, filing system degrading
@@ -77,7 +77,7 @@ SYNOPSIS: Three weeks post-blackout stream. Kira at Chen Academy medical facilit
 ## Chapter Brief
 
 **Plan Confirmed:** 2026-02-28
-**Divergences Noted:** Plan has Kira waking with 3-day memory gap, last memory = pharmacist counter. B3C20 already ends with Kira conscious at Chen Academy. Revised: chapter opens ~3 weeks into hospitalization, cumulative erosion (not new blackout), filing system entries showing degradation. Pharmacist ritual absent (current in B3C5, now 12,000 km away). Chen found Lumina in bloodwork — secrecy broken. Neurologist recommendation after 3 weeks of data, not emergency. Archives request preserved from plan.
+**Divergences Noted:** Plan has Kira waking with 3-day memory gap, last memory = pharmacist counter. B3C20 already ends with Kira conscious at Chén Academy. Revised: chapter opens ~3 weeks into hospitalization, cumulative erosion (not new blackout), filing system entries showing degradation. Pharmacist ritual absent (current in B3C5, now 12,000 km away). Chén found Lumina in bloodwork — secrecy broken. Neurologist recommendation after 3 weeks of data, not emergency. Archives request preserved from plan.
 **Author Notes:** Epigraph: industrial decommissioning, oblique. FRACTURE mode — Phase 3 break. NBA target: 1, reserved for dampening comprehension moment. Pause after self-review for author read/comments before audit.
 
 ---
@@ -92,11 +92,11 @@ SYNOPSIS: Three weeks post-blackout stream. Kira at Chen Academy medical facilit
 
 The filing system had twenty-one days of entries. She read them the way she read all her entries — sequentially, timestamped, the architecture she'd built holding the data the way architecture held data: structurally, without opinion, the mechanism doing what the mechanism did regardless of what the mechanism held.
 
-Day one was complete. Timestamped at 18:42, ninety minutes after the monitoring array's first readout in the Chen Academy file. The entry was hers — she recognized the formatting, the categories, the shorthand she'd developed over two years of filing everything that happened to a body that carried 8.2 million absorbed in its spine.
+Day one was complete. Timestamped at 18:42, ninety minutes after the monitoring array's first readout in the Chén Academy file. The entry was hers — she recognized the formatting, the categories, the shorthand she'd developed over two years of filing everything that happened to a body that carried 8.2 million absorbed in its spine.
 
-*Day 1. Chen Academy medical facility, Neo-Shanghai. Admission: signal exposure event, proximity stream. R3 thermal: 38.7°C, declining. Coherence density: 0.52. HUD: powered down (not by me). Memory gap: ~3 hours. Stream recording exists. 4.2M witnesses. Quiet room: rubble. Ninety rebuilding. Physical: heavy. Assessment: the instrument exceeded its design parameters.*
+*Day 1. Chén Academy medical facility, Neo-Shanghai. Admission: signal exposure event, proximity stream. R3 thermal: 38.7°C, declining. Coherence density: 0.52. HUD: powered down (not by me). Memory gap: ~3 hours. Stream recording exists. 4.2M witnesses. Quiet room: rubble. Ninety rebuilding. Physical: heavy. Assessment: the instrument exceeded its design parameters.*
 
-She remembered writing it. She remembered the weight of the stylus against the tablet Chen's staff had provided — her own devices locked during the monitoring period, the HUD dark, the left eye that had scrolled pink text since she was eighteen showing nothing. She remembered the white ceiling. The hum. The monitoring array's four numbers in institutional green where her numbers used to sit in pink.
+She remembered writing it. She remembered the weight of the stylus against the tablet Chén's staff had provided — her own devices locked during the monitoring period, the HUD dark, the left eye that had scrolled pink text since she was eighteen showing nothing. She remembered the white ceiling. The hum. The monitoring array's four numbers in institutional green where her numbers used to sit in pink.
 
 Day two was complete. Thinner.
 
@@ -106,7 +106,7 @@ She remembered the blood draw. She remembered the phlebotomist's face — young,
 
 Ninety milligrams. Nightly. Lumina — a compound that did not appear in her prescribed medication list, that was not routed through any pharmacy her insurance recognized, that was obtained through a contact whose name she did not provide and whose operational security she would not compromise even in a medical facility that needed the information to manage her care. The attending had been clinical about it. Toxicology screen. Metabolic panel. The data processed the way institutional data was processed — categorically, without the personal architecture that the pharmacist on Mission and Paz at the tea shop had maintained by knowing only their half.
 
-The pharmacist knew about the legitimate meds. Paz knew about the Lumina. Chen knew about both. The two-system architecture that had held for twenty months was in a single medical file.
+The pharmacist knew about the legitimate meds. Paz knew about the Lumina. Chén knew about both. The two-system architecture that had held for twenty months was in a single medical file.
 
 Day three was complete. Competent.
 
@@ -140,7 +140,7 @@ The same chemicals. The same molecules binding to the same receptors, doing the 
 
 No clicking. No compartments. No bench. No fluorescent light. No 30-day holder in translucent plastic with AM/PM divided. No ritual. The hospital provided the chemistry and not the architecture, and the architecture was the thing that held, and the chemistry without the architecture was medication, and medication was what happened to you, and the ritual was what you did, and the difference between what happened to you and what you did was the difference between a patient and a person and the hospital did not require her to be a person. The hospital required her to be a patient. The patient swallowed the capsules from the paper cup and the box was checked and the nurse left and the grounding that the clicking provided was not in the protocol.
 
-The Lumina was managed separately. Forty-five milligrams — half the dose Paz had maintained, administered under observation, the taper protocol that Chen's pharmacological team had designed after the bloodwork revealed what the bloodwork revealed. Ninety to forty-five over three weeks, the reduction rate calibrated to avoid withdrawal cascade while monitoring the R3's response to diminished suppression. The quiet room noticed. The ceiling that the ninety had rebuilt was lower than the eighty's ceiling and higher than the forty-five's, and the forty-five's ceiling was the ceiling she had now, and the ceiling she had now was the lowest the quiet room had been since the ninety rebuilt it from rubble, and the signal underneath it was louder, and the loud was not the populated chord's volume but its *resolution* — the information density increasing as the pharmaceutical filter thinned, the names present, the 8.2 million more distinct at forty-five than they'd been at ninety the way a landscape is more distinct when the glass is thinner.
+The Lumina was managed separately. Forty-five milligrams — half the dose Paz had maintained, administered under observation, the taper protocol that Chén's pharmacological team had designed after the bloodwork revealed what the bloodwork revealed. Ninety to forty-five over three weeks, the reduction rate calibrated to avoid withdrawal cascade while monitoring the R3's response to diminished suppression. The quiet room noticed. The ceiling that the ninety had rebuilt was lower than the eighty's ceiling and higher than the forty-five's, and the forty-five's ceiling was the ceiling she had now, and the ceiling she had now was the lowest the quiet room had been since the ninety rebuilt it from rubble, and the signal underneath it was louder, and the loud was not the populated chord's volume but its *resolution* — the information density increasing as the pharmaceutical filter thinned, the names present, the 8.2 million more distinct at forty-five than they'd been at ninety the way a landscape is more distinct when the glass is thinner.
 
 She pressed her fingertips to the mattress. The buzz was there. Bilateral. Persistent. She touched the back of her neck. The implant housing. The bone. The warmth — steady, the R3's thermal output stabilized at 37.2 after three weeks of cooling, the hardware running at parameters the manufacturer had intended for an implant installed in a ten-year-old who would grow into it gradually, not for an implant that had been recalibrated by proximity to the signal's source and had not recalibrated back.
 
@@ -152,7 +152,7 @@ The numbers were normal. The numbers had been normal for a week. The numbers wer
 
 Dr. Yuen arrived at 14:00 with a tablet and the expression of a person who had organized data into a recommendation and was now required to deliver the recommendation to the data's source.
 
-Neurologist. Chen Academy faculty. She'd seen him three times — once during the initial assessment, once during the second week when the R3 residuals had prompted additional scanning, once when the coherence readings hadn't followed the expected decay curve. Each visit had been clinical, structured, the institutional communication protocol that treated the patient as a system to be assessed. She had not objected. She understood the protocol. She'd lived inside a version of it since she was ten.
+Neurologist. Chén Academy faculty. She'd seen him three times — once during the initial assessment, once during the second week when the R3 residuals had prompted additional scanning, once when the coherence readings hadn't followed the expected decay curve. Each visit had been clinical, structured, the institutional communication protocol that treated the patient as a system to be assessed. She had not objected. She understood the protocol. She'd lived inside a version of it since she was ten.
 
 "Ms. Calloway." He sat. The chair was institutional. The room was institutional. The monitoring array's green numbers sat in the space where her HUD's pink numbers would have sat if her HUD were operational and her HUD was not operational and the absence of the pink was a data point she had filed on day one and not filed again because the absence had become the baseline and baselines did not require filing.
 
@@ -228,7 +228,7 @@ The filing system engaged. Automatic. The architecture applied to the gap betwee
 
 She filed it. The filing was incomplete. The category existed. The content did not.
 
-*Day 22. Chen Academy. Neurologist: dampening recommended. R3 at proximity parameters, will not recalibrate. Memory erosion: 11 gaps in 21 days. Lumina taper: 45mg, metabolizing 22% above model. Choice: dampen (stop being antenna) or continue (erosion accelerates). Archives requested. Pending.*
+*Day 22. Chén Academy. Neurologist: dampening recommended. R3 at proximity parameters, will not recalibrate. Memory erosion: 11 gaps in 21 days. Lumina taper: 45mg, metabolizing 22% above model. Choice: dampen (stop being antenna) or continue (erosion accelerates). Archives requested. Pending.*
 
 The quiet room held. The ceiling was low — lower at forty-five than it had been at ninety, lower at ninety than it had been at eighty, the ceiling tracking the dosage the way the dosage tracked the signal the way the signal tracked the thing it had always tracked which was everything. The walls were there. The ninety had built them from the rubble the signal had made at the masonry junction and the forty-five was maintaining them at a height that was functional and a width that was narrow and a quality that was sufficient and sufficient was not what the quiet room had been. The quiet room had been compressed. Dense. The ninety's architecture — tight, low, everything held. The forty-five's architecture was the same materials at half the density. The room held. What it held was thinner.
 
@@ -286,7 +286,7 @@ No overuse. Structural negation kept to the quiet room's established vocabulary.
 
 **Fingertip buzz:** Present twice.
 1. Medication section: "She pressed her fingertips to the mattress. The buzz was there. Bilateral. Persistent."
-2. Archives request: "She pressed her fingertips to the mattress. The buzz was there. Bilateral. Persistent." Same gesture, same confirmation. The buzz is the body-confirmation reflex — she presses to confirm the body is hers. Consistent with B2C6 onset, B3C5 (finer post-Broadcast), B3C20 (present at Chen). ✓
+2. Archives request: "She pressed her fingertips to the mattress. The buzz was there. Bilateral. Persistent." Same gesture, same confirmation. The buzz is the body-confirmation reflex — she presses to confirm the body is hers. Consistent with B2C6 onset, B3C5 (finer post-Broadcast), B3C20 (present at Chén). ✓
 
 **"The quiet room" metaphor:** Tracked through the chapter as structural metaphor for pharmaceutical management.
 - Filing section: quiet room progress noted in Day 5 entry (ceiling lower but solid).
@@ -299,7 +299,7 @@ No overuse. Structural negation kept to the quiet room's established vocabulary.
 ### Continuity Check
 
 **B3C20 → B3C26 state transfer:**
-- Location: Chen Academy ✓
+- Location: Chén Academy ✓
 - HUD: powered down ✓ (referenced as dark, not by her choice)
 - R3 thermal: 38.7 → 37.2 (three weeks of cooling) ✓
 - Coherence: 0.52 → 0.28-0.31 (declining but plateau) ✓
@@ -315,8 +315,8 @@ No overuse. Structural negation kept to the quiet room's established vocabulary.
 
 **Lumina arc:**
 - B3C5: 80mg maintenance → B3C11: 90mg escalation → B3C20: 90mg at event → B3C26: 45mg taper ✓
-- Paz: referenced as contact, name not provided to Chen ✓ (operational security maintained)
-- Two-system secrecy broken: "The pharmacist knew about the first. Paz knew about the second. Chen knew about both." ✓ (echoes B3C5: "The pharmacist knew about the first. Paz knew about the second. Nobody knew about both.")
+- Paz: referenced as contact, name not provided to Chén ✓ (operational security maintained)
+- Two-system secrecy broken: "The pharmacist knew about the first. Paz knew about the second. Chén knew about both." ✓ (echoes B3C5: "The pharmacist knew about the first. Paz knew about the second. Nobody knew about both.")
 
 **Implant age:** "installed when she was ten" ✓ (B3C11: "modified since ten"; B3C20: "parsing the signal since she was ten")
 
