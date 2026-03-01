@@ -666,6 +666,79 @@ _Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment
 
 ---
 
+### ~8 Months Post-Broadcast (~18 Months Post-BLACKWEIR)
+
+**B3 Ch 13 — "The Grid Holds" (Aurielle)**
+
+**Afternoon (14:07-23:00):**
+- First major Kindling strike wave: 12 facilities offline across three continents in four-hour window
+- Global throughput drops 9% (96% → 91%)
+- Aurielle authorizes emergency protocols, manual override of redistribution algorithm
+- One percent recovered through operational knowledge (91% → 92%)
+- Six-hour window: Anchor Zone coherence down, breach expansion stopped, model validated
+- Grid recovery: 11 facilities restored by 22:00, throughput at 95%
+- Thorne observes recovery data from operations wing, does not comment
+- Competence-as-obstacle thesis: her operational knowledge held the grid, preventing model from working at scale
+
+**B3 Ch 21 — "Thorne Leaves" (Aurielle)**
+
+**Morning (08:47):**
+- Aurielle arrives for scheduled 09:00 briefing with Thorne
+- Thorne's office empty: personal effects gone, display dark, security badge on desk
+- Three-sentence resignation letter discovered (dated previous day, after business hours)
+- Letter addressed to Board with copies to HR and CEO
+- Content: "The grid no longer requires my particular expertise. The next phase of NitroCore's operations is administrative, not strategic. I wish the company well."
+
+**Afternoon:**
+- Aurielle processes Thorne's departure: bilateral agreements signed (7 total), voluntary reduction operational (9 facilities closed), triage map executing
+- Recognition: strategic layer empty, operational layer continues, "She was the framework"
+- Operations calendar updated: Monday briefing → Pryce, Wednesday review → division heads, Friday assessment → herself
+- Calendar gaps filled in three minutes
+- Security badge placed in desk drawer, resignation letter filed for HR processing
+
+---
+
+### ~11 Months Post-Broadcast (~27 Months Post-BLACKWEIR)
+
+**B3 Ch 30 — "Alone" (Aurielle)**
+
+**Early Morning (06:14):**
+- Emergency Board Session directive arrives: 09:00 meeting, restoration timeline required
+- Kindling global strike aftermath: 47 facilities offline across six continents (12-hour window previous day)
+- Global throughput at 78%, climbing via automated recovery protocols
+- Two datasets on display: throughput + Anchor Zone coherence (side by side, permanent configuration)
+- Humanitarian crisis: three regions affected
+  - Region 1 (South Asian Cooperative): desalination serving 4.2M offline
+  - Region 2 (East African corridor): 6 hospitals on backup generators (designed for hours, now 14+ hours)
+  - Region 3 (Southeast Asian manufacturing): 340,000 workers displaced, corridors dark
+
+**Morning (09:00):**
+- Board session via secure channel: Hargrave (COO) demands restoration timeline, emergency powers
+- Aurielle reports: throughput 79% as of 08:45, recovery consistent with catastrophic-failure curve, 72-96 hour restoration estimate
+- Emergency operational powers authorized for CEO
+- Humanitarian triage prioritization: desalination first, hospitals second, manufacturing standard timeline
+
+**Morning-Afternoon (09:30-13:00):**
+- Manual overrides authorized: same protocols as Ch 13, different operational knowledge (grid reorganized around 9 voluntary closures)
+- Desalination corridor restored by 11:00 (three nodes restarted in sequence)
+- Hospital network on grid power by 13:00
+- Throughput at 81%, climbing
+
+**Afternoon:**
+- Cooperation model analyzed (not executed): voluntary maintenance of reduced throughput → board removes her (11-3 vote) → Hargrave authorizes restoration → same outcome
+- Recognition: "The grid did not depend on her decision. The grid depended on the grid."
+- Operator-as-replaceable-component thesis: "*The machine running.*" (NBA)
+- Thorne's three-sentence letter reprocessed and applied to herself
+
+**Evening (17:00):**
+- Recovery status: throughput 84%, humanitarian indicators stable
+- Humanitarian reports filed (archive-don't-destroy)
+- Quarterly projection template updated: pre-strike projections obsolete, revision required
+- "She opened the next quarterly projection" — not Thorne's calculations, hers
+- Closing: "The machine continued." (first time final sentence subject is "The machine" not "She")
+
+---
+
 ### ~10 Months Post-Broadcast (~20 Months Post-BLACKWEIR)
 
 **B3 Ch 23 — "Degradation" (AEGIS)**

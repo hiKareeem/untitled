@@ -342,6 +342,52 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 **Rhythm Notes:**
 - Long-long-long-SHORT pattern sustained — "Twelve simultaneous." / "Ninety-two." / "The model worked." / "He did not look up. She did not enter."
 - TEXTURE → PRESSURE → TEXTURE mode transition (first Aurielle chapter with mode shift within chapter)
+
+---
+
+### Chapter 30 — "Alone" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Institutional detection (emergency directive) → dual-dataset processing (throughput + humanitarian) → board pressure → manual overrides → cooperation model (analytical peak) → NBA pivot → resolving (quarterly projection, machine continues)
+**Pacing:** Seven-section crisis aftermath. Emergency directive ~400 words (12%). Humanitarian reports ~350 words (10%). Thorne absence ~250 words (7%). Board session ~400 words (12%). Manual overrides ~300 words (9%). Cooperation model ~700 words (21%, analytical center). NBA + closing ~1,000 words (29%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Emergency directive (06:14) | ~400 | Low-sustained | Standing at window, two datasets on display, throughput 78% climbing |
+| Humanitarian reports | ~350 | Medium-rising | Three regions, 4.2M/340K/six hospitals, same typography as throughput |
+| Thorne absence | ~250 | Low-sustained | No scaling timelines, calendar gaps filled, office empty, structural not dramatic |
+| Board session (09:00) | ~400 | Medium | Hargrave demands restoration, emergency powers authorized, humanitarian triage |
+| Manual overrides (09:30) | ~300 | Medium-sustained | Same protocols as C13, different knowledge, desalination/hospitals restored |
+| Cooperation model | ~700 | PEAK (analytical) | Board vote 11-3, succession protocol, same outcome regardless, grid depends on grid |
+| NBA + closing | ~1,000 | Pivot → resolving | Triple negation, "*The machine running.*", quarterly projection (hers not Thorne's), "The machine continued." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Forty-seven facilities was not twelve facilities." / "The recovery curve did not require her." / "The model worked. People were dying because the model worked." / "The channel closed. The data remained." / "The grid did not depend on her decision. The grid depended on the grid." / "The machine continued."
+- TEXTURE mode sustained throughout — quiet register, horror in steadiness not density. No mode shift within chapter (contrast with C13's TEXTURE → PRESSURE → TEXTURE).
+- Single NBA deployment: "Not the operator running the machine. Not the machine requiring the operator. *The machine running.*" — two negations eliminate expected framings before two-word italicized payoff. Subject-verb only. No operator in sentence. Grammar enacts realization.
+- Closing echo evolution: "She opened the next quarterly projection." (two paragraphs before end) + "The machine continued." (final sentence, 3 words). For first time in arc, final sentence's subject is "The machine" not "She." Operator removed from closing grammar.
+- Cooperation model section (~700 words, lines ~149-165) is chapter's analytical center — board vote math (11-3), succession protocol, restoration under Hargrave. Densest sustained passage. Institutional chess made explicit.
+- Dialogue minimal: 7 lines total (4 Hargrave, 3 Aurielle). All operational — restoration timelines, engineering parameters, emergency authorizations. No Thorne dialogue (absent).
+- Bimodal paragraphs: dense institutional blocks (throughput analysis, board session, cooperation model, quarterly template) + single-line punches ("The recovery curve did not require her." / "The model worked. People were dying because the model worked." / "The channel closed. The data remained." / "The machine continued.").
+- Penultimate compound accumulation (~40 words) shorter than C1/C9/C13 (~100-130 words) — deliberate for TEXTURE mode and thesis simplicity.
+- Humanitarian crisis + throughput data on same display — visual structure from C13 now permanent configuration. Same typography. Same wall. Numbers equivalent.
+
+**Dialogue Percentage:** ~5% (board session only — Hargrave institutional, Aurielle operational)
+
+**Pacing Concern:** Risk of cooperation model feeling over-analytical (board vote math explicit, institutional chess visible). Mitigated by: (1) analytical density is the point — Aurielle models the futility completely; (2) positioned as chapter's analytical center between board session and NBA; (3) demonstrates operator-as-variable thesis through institutional logic; (4) board vote specificity (11-3, BLACKWEIR abstentions) shows she knows the numbers the way she knows all numbers.
+
+**Structural Note:** B3C30 is Phase 3 pivot chapter. Kindling global strike (47 facilities, 22% reduction) exceeds first strike (12 facilities, 9%) and voluntary reduction framework (9 facilities, 9%). Grid restores itself — engineering's catastrophic-failure curve operates without her being decisive factor. Thorne absent three weeks (C21). Cooperation model reveals structural futility: every choice produces same outcome (restoration). Operator is replaceable variable. Machine is constant. NBA delivers thesis: "*The machine running.*" — no operator in sentence. Closing removes her from subject position: "The machine continued." Chapter rhythm enacts this: steady institutional processing, no escalation, no crescendo. Machine continues at same volume throughout. Horror is steadiness.
+
+**Comparison to B3C13 and B3C21:**
+- B3C13: First strike (12 facilities), her competence holds grid (one percent recovered), competence as obstacle, "She opened the restoration timeline"
+- B3C21: Thorne leaves, "She was the framework," calendar gaps filled, "She opened the quarterly projection"
+- B3C30: Global strike (47 facilities), grid restores without her being decisive, operator as variable, "She opened the next quarterly projection" + "The machine continued"
+- Together they track: competence as obstacle (C13) → operator as framework (C21) → operator as replaceable component (C30). The one percent that mattered (C13) becomes irrelevant at scale (C30). The framework she became (C21) is revealed as machine's operational layer (C30). The closing echo shifts from her actions to machine's continuation.
+
+**Epigraph Function:** Systems engineering — redundancy theory. "The operator is a component. The architecture assumes the operator's failure. The system continues." Oblique on first read. Resolves perfectly on reread after cooperation model and NBA. The operator's replaceability is not a bug. It's the design.
+
+---
 - Single NBA deployment: "Not the automated system. Not the redistribution algorithm. Not Eduardo's engineering margin — the margin had been consumed in the first eleven minutes. *Her.*" — triple negation at chapter pivot, competence-as-obstacle realization
 - Throughput countdown as rhythmic engine: 95, 94, 93, 92, 91 — single-sentence paragraphs punctuating dense institutional processing
 - Two compound accumulations (Flag 2: line 156 ~70 words, Flag 3: line 194 ~100 words) — may exceed one-per-chapter pattern but earned by content

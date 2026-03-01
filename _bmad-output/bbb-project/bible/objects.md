@@ -498,10 +498,43 @@ An object deserves documentation if it:
 - **Ch 7 update:** Bloodstain confirmed — "the bloodstain that wouldn't fully clean because some stains were structural rather than superficial." The handkerchief is in the top left drawer. Aurielle does not open the drawer in Ch 7 — she knows what's inside and choosing not to look is itself a kind of management. "Keeping it was easier than understanding why she'd been given it."
 - **Ch 19 update:** Referenced but not opened. "She did not need anything from it, and the decision she had made this morning was not a decision that required comfort or reassurance or the physical evidence of a debt she could not repay." The drawer is "within reach" — proximity as temptation resisted. The handkerchief's function evolves: Ch 1 (offered), Ch 7 (kept), Ch 19 (acknowledged but denied).
 - **Ch 25 update:** Drawer closed without touching — "the stain that would not lift." Handkerchief present but receding in narrative weight as sandalwood disappears and institutional identity consolidates. Function: Ch 25 (present but untouched — the object persists while Eduardo's sensory traces vanish).
+- **B3 Ch 21 update:** Not referenced during Thorne's departure processing. The drawer is closed. Thorne's security badge placed in same drawer. The handkerchief and badge coexist as objects of departed men.
+- **B3 Ch 30 update:** Referenced once in passing — "the handkerchief in the drawer next to the security badge." Not dwelt on. Drawer remains closed. Object fully receded into background inventory. Function: B3 Ch 30 (present in negative space — mentioned only to confirm it persists while being irrelevant to current crisis).
 
-**Current Owner:** Aurielle Vasquez (top left drawer, Eduardo's desk, Eduardo's office)
+**Current Owner:** Aurielle Vasquez (desk drawer, executive suite)
 
-**Current State:** Preserved — cleaned, folded, bloodstained (stain structural, won't fully clean)
+**Current State:** Preserved — cleaned, folded, bloodstained (stain structural, won't fully clean). Shares drawer with Thorne's security badge (as of B3 Ch 21).
+
+---
+
+### Thorne's Security Badge
+
+**Origin:**
+- Provenance: NitroCore corporate security badge, issued to Marcus Thorne as Senior Operations Director
+- Introduced: B3 Ch 21 — left on Thorne's desk (face down) with three-sentence resignation letter
+- Circumstances: Returned to HR as part of resignation protocol (dated previous day, after business hours)
+
+**Description:**
+- Appearance: Standard NitroCore security badge (biometric access, photo ID, authorization codes)
+- Function: Building access, system authentication, operational authorization
+- Condition: Inactive (returned, access revoked)
+
+**Narrative Significance:**
+- Symbol of institutional departure: the badge returned is the institutional relationship severed
+- Positioned face down on desk — deliberate placement, not casual
+- Aurielle places it in desk drawer (B3 Ch 21) — same drawer as Eduardo's handkerchief
+- Two departed men, two objects: father (handkerchief, bloodstained, kept) and enabler (badge, returned, stored)
+- Badge and handkerchief coexist as inventory of loss — Eduardo (assassinated, outside the grid) and Thorne (resigned, outside the institution)
+- **B3 Ch 30 update:** Referenced in passing — "the security badge in her desk drawer" and "the handkerchief in the drawer next to the security badge." Objects persist in background inventory while being irrelevant to current crisis.
+
+**Current Owner:** Aurielle Vasquez (desk drawer, executive suite) — badge is deactivated, kept as object not as functional item
+
+**Current State:** Inactive, stored alongside Eduardo's handkerchief
+
+**History:**
+- B3 Ch 21: Left on Thorne's desk (face down) with resignation letter, discovered by Aurielle at 08:47
+- B3 Ch 21 (afternoon): Placed in Aurielle's desk drawer alongside handkerchief
+- B3 Ch 30: Referenced in passing, drawer remains closed
 
 ---
 
