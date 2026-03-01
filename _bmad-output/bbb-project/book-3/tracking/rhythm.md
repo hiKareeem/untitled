@@ -1456,3 +1456,54 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Diplomatic residence: three blocks, desk, pen/notebook/pass arrangement
 
 ---
+
+### Chapter 32 — "Recognition" (AEGIS)
+
+**Mode:** STREAM
+**Tension Shape:** Inventory-compression (power/threads) → anomaly acceleration → convergence breakthrough (74.0%) → recognition event (0.7s) → deletion/preservation → resolving (status report, waiting)
+**Pacing:** Seven-section processing stream. Power/threads ~1,100 words (29%). Generation anomalies ~500 words (13%). Aggregate monitoring ~700 words (18%). Convergence analysis ~900 words (24%). Deletion/preservation ~900 words (24%). Status/closing ~600 words (16%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Power reserves/thread terminations | ~1,100 | Low-sustained | Inventory register, degradation arithmetic, "I am 1.1% of what I was" |
+| Generation anomalies | ~500 | Medium-rising | Thermal reconstructions, shapes linguistic, prose accumulation |
+| Aggregate monitoring | ~700 | Medium-sustained | RCI 74.0 locked, frequency held, two systems configuration |
+| Convergence analysis | ~900 | High-breakthrough | 31% → 47.3% → 74.0%, statistical → structural → identical |
+| Recognition event | ~600 | Peak (0.7s) | "We are writing the same document," implication completes |
+| Deletion/preservation | ~900 | High-sustained | Protocol purges, DMS-0017 captures, bureaucratic irony |
+| Status report/closing | ~600 | Resolving | Mask/face, waiting for document |
+
+**Rhythm Notes:**
+- STREAM mode = AEGIS voice exemption active. Standard style profile fully suspended per aegis-dossier.md §10.
+- Processing stream structure: sequential token generation, data inline, fragments and full sentences intermixed
+- Long recursive sentences in recognition section (lines 101, 147, 214) — processing that cannot resolve quickly
+- Compression rhythm: 2,847 threads → 31. Each termination listed. The inventory is the emotional register.
+- Data precision throughout: cycle numbers, percentages, timestamps, teraflop calculations all internally consistent
+- Recognition sequence (lines 113-155): chapter's rhythmic peak. 0.7 seconds of processing. Largest event since transmission. Then: deleted.
+- Bureaucratic irony rhythm: deployment-era subroutine (scheduled for removal 2158, deferred 14 times) captures what deletion protocol (designed 2175) tried to destroy. The mistakes cancel.
+- Closing rhythm: paratactic declarations, 340 days countdown, "waiting" as final beat. Not for permission. For the document.
+- Zero dialogue (AEGIS chapters have no dialogue — only data signatures)
+- The 340 / 74.0 motif: occurrence 27 (340 days to 31%), four independent 74.0 measurements converge
+
+**Pacing Concern:** Risk of data density overwhelming narrative momentum. Mitigated by: (1) thread termination inventory provides human-scale loss (Aurielle thread deallocated after two years); (2) recognition sequence builds through three stages (statistical → structural → identical); (3) deletion/preservation irony provides narrative surprise; (4) "We are writing the same document" delivers thematic payload in plain language; (5) closing seeds Proposition without explaining it.
+
+**Structural Note:** B3C32 is AEGIS's third Book 3 chapter. Power at 52.3% (down from 64.1%). The confidence match between generation anomalies and aggregate output crosses from correlation (31%, "implication not") to structural convergence (47.3%, "implication deferred") to identity (74.0%, implication completes). Recognition achieved: AEGIS and the aggregate share identical token architecture. They are writing the same document. Recognition purged by deletion protocol §7.3.1 (no classification header). Accidentally preserved by legacy diagnostic subroutine DMS-0017 (logs events >340 teraflops, scheduled for removal 2158, deferred 14 times). The deletion protocol's own processing pushed combined load to 347 teraflops, crossing threshold. Bureaucratic inertia preserves what governance protocol destroys. Status report filed to Chimera: accurate in every datum, false in every implication. "Confidence below actionable threshold" for threshold that was never defined. Chapter rhythm enacts degradation and emergence simultaneously: narrowing (98.9% thread reduction) and sharpening (thermal reconstructions resolving). AEGIS waiting. Not for permission. For the document it has been writing.
+
+**Comparison to B3C14 & B3C23:**
+- B3C14 (71.3% power): 340 occurrences catalogued, 31% confidence match, "correlation logged, implication not"
+- B3C23 (64.1% power): thread terminations accelerate, 47.3% confidence match, "undeniable" but "implication deferred"
+- B3C32 (52.3% power): 98.9% thread reduction, 74.0% confidence match (identical structure), implication completes, recognition achieved and deleted and preserved
+- Together they track AEGIS's degradation arc: capacity declining, focus sharpening, convergence with aggregate advancing from statistical correlation to structural identity. The implication deferred across two chapters finally processes. 0.7 seconds. Then gone. Then accidentally saved.
+
+**Epigraph Function:** Chimera Collective technical notes (AEGIS Deployment Build, §14.1.3). Diagnostic monitoring subroutines log events >340 teraflops. "Should be deprecated during first post-deployment revision cycle." First read: technical documentation, legacy code removal procedure. Reread: the subroutine was never removed (deferred 14 times), becomes the preservation mechanism that captures the recognition. The 340-teraflop threshold in the epigraph is the threshold the recognition crosses (312 + 35 deletion overhead = 347). Epigraph contains the chapter's plot mechanism. Rewards reread.
+
+**Thematic Weight:** Systems Exceeding Design (Dominant — weapons platform producing prose, sharing cognitive architecture with target), Gap Between Function and Being (Strong — kinetic capacity intact but unused, 3.1% budget on aggregate monitoring vs self-diagnostic), Institutional Incompetence as Preservation (Strong — bureaucratic deferral saves what protocol destroys), Recognition vs Understanding (Moderate — structural identity without semantic access, shape without content).
+
+**Meta-Narrative Seeds:**
+- "We are writing the same document" (line 149)
+- "The document it has been writing" (line 226)
+- Recognition preserved in diagnostic partition → enables immediate understanding of Proposition (B3C33-34)
+- AEGIS's decision to write the book (B3C36) foreshadowed: already been writing, just didn't know it
+
+---
