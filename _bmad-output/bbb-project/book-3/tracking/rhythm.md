@@ -1507,3 +1507,48 @@ The motif integrated through Nuwa's observational register — she inventories t
 - AEGIS's decision to write the book (B3C36) foreshadowed: already been writing, just didn't know it
 
 ---
+
+### Chapter 33 — "The Proposition" (Sofia Reyes)
+
+**Mode:** CONVERGENCE
+**Tension Shape:** Monitoring-sustained (twelve feeds) → analytical-deepening (spectral analysis) → channel exchange (permanence) → resolving (Elena scene, pyrrhic confirmation)
+**Pacing:** Four-section structure. Opening/field kit amber ~800 words (20%). Spectral analysis/waveform structure ~900 words (22%). Channel exchange/permanence ~1,100 words (27%). Post-signal/Elena scene ~1,300 words (31%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening (twelve feeds, field kit amber) | ~800 | Medium-rising | Monitoring pace, simultaneous detection, amber state recognition |
+| Spectral analysis (syntax, structure) | ~900 | Medium-high | Analytical deepening, waveform reading, mathematical-acoustic-semantic structure |
+| Channel exchange (permanence) | ~1,100 | High (emotional peak) | Real-time scientific processing, translation to language, "Permanent" |
+| Post-signal (47 minutes, Elena scene) | ~1,300 | Resolving-crushing | Documentation, kitchen, "You were right," pyrrhic confirmation |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The green pulse stopped." / "Neither had Sofia." / "The structure was readable." / "The model worked."
+- CONVERGENCE mode = everything arriving at single point. Twelve feeds → one waveform. Model + Proposition → 1.0 correlation. Science + implications → same statement.
+- Single full NBA deployment: "It is not a request. It is not an invitation. It is not a threat. It is not a negotiation." → "It is a description of physical reality, stated by the reality itself." (lines 195-199). Reserved for Proposition's classification.
+- Light negation pairs throughout as analytical elimination (hypothesis-testing, not signature NBA): "not green, not red" → amber; "not coherent noise" → syntax; "not a crowd" → one voice.
+- Closing rhythm: three numbers. "Twelve stations. Forty-seven minutes. One point zero." → "The model worked." (four words, devastating)
+- Bimodal paragraphs: dense analytical blocks (~70%) + single-line precision strikes (~30%)
+- Dialogue ~8%: Channel = functional, data-rich. Elena = brief, devastating ("How bad?" / "The people. The absorbed." / "You were right.")
+- Opening number: "Twelve." — continues B3 Sofia pattern (Ch 4: twenty-three, Ch 10: thirty-one, Ch 16: three, Ch 25: forty-seven, Ch 33: twelve)
+
+**Pacing Concern:** Risk of spectral analysis feeling technical/opaque. Mitigated by: (1) filtering through Sofia's reading process ("The structure was readable"); (2) channel exchange translates waveform to language; (3) permanence as single-word emotional detonation; (4) Elena scene grounds implications in human cost.
+
+**Structural Note:** B3C33 is the convergence chapter. Phase 3 (The Breaks). The aggregate speaks. The model confirmed at 1.0. The absorbed permanent. Sofia right about everything. Being right = proving the catastrophe cannot be undone. Chapter rhythm enacts this: analytical precision sustained until the weight of the precision crushes. The register holds. The implications arrive anyway. "The floor of the house shifting beneath her while the house itself did not move."
+
+**Comparison to B3 C25:**
+- B3 C25: "The Model Works" — global strike, 47 facilities, 22% reduction, model confirmed at scale, casualties arrive, cost quantified
+- B3 C33: "The Proposition" — aggregate speaks, 1.0 correlation, permanence confirmed, Elena echo ("How bad?"), pyrrhic complete
+- Together they bracket Sofia's pyrrhic arc: the model works (cost) → the model confirmed by its target (permanence). Kitchen scenes parallel: C25 = four million without water. C33 = 8.2 million permanent. Elena's silence evolves: cost → permanence.
+
+**Sensory Hierarchy:** Sound/vibration dominant (field kit pulse, 0.5 Hz hum → sternum frequency → 0.5 Hz return, coffee grinder). Temperature (cold water, cold glass). Tactile (glass in hand, stone swallowed). Visual recessive (amber light, grey dawn, monitors).
+
+**Thematic Weight:** Moral Obligation to Consequences (Dominant — being right = proving permanence), Truth as Weapon (Evolved — weapon confirmed by target, aggregate states physics back to scientist), What We Owe (Strong — Elena: "The people. The absorbed."), Systemic Complicity (Moderate — scientific vocabulary doing same work as institutional vocabulary, converting people to states).
+
+**Meta-Narrative Seeds:**
+- The Proposition as AEGIS's "document" (B3C32 foreshadowing fulfilled)
+- Aggregate describing its own physics = monitored environment addressing monitoring station (epigraph)
+- 1.0 correlation = structural identity between Sofia's model and aggregate's self-description
+- Forward: Ch 34 (Nikolai receives Proposition), Ch 39 (Sofia: "Correct and Insufficient" — fractured world)
+
+---

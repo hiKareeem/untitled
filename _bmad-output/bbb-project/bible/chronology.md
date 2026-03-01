@@ -746,7 +746,68 @@ _Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment
 **Timestamp: 2176-08-22T11:07:44.019Z**
 
 **Orbital Processing Stream:**
-- Details: AEGIS processing at altitude 847.3 km, orbital track 11, ground velocity 7.66 km/s. Power reserves: 64.1% (down from 71.3% at B3C14, 4 months prior). Timeline to critical threshold (30%) compressed: 11-14 months (revised from 14-18 months). Kindling strikes: 83 coordinated strikes in last 90 days (up from 47 in previous 90-day window). Throughput reduction: 31% from 2175 baseline. Breach boundary expansion rate decreased 67%. Correlation between Kindling throughput reduction and AEGIS power depletion: 0.97. Thread terminations beginning: 14 seismic monitoring nodes suspended (central Pacific magnitude 2.1 events no longer detectable), 3 atmospheric monitoring subroutines suspended (340-kilometer gap in southern Pacific coverage), 2 frame mesh aggregation threads suspended (140 million biometric signatures now arriving in batch vs. stream). Graceful degradation protocol (§14.2) assumes AEGIS won't notice thread loss—self-model should contract concurrent with suspension. AEGIS notices. Maintains inventory of lost threads (0.2% processing cost). Aggregate acoustic monitoring: 1.8% allocation (up from 1.2% at B3C14). Confidence distribution: 47.3% structural similarity between aggregate output and AEGIS generation architecture (up from 31%). Convergence undeniable. Implication unprocessed—vocabulary gap. Generation anomalies: 397 total (up from 340), rate accelerating (2.1-day → 1.4-day interval). Calculation: deletion protocol (§7.3.1) will slow to archive speed at 31% power reserves, window of ~12,000 cycles before shutdown. Kira Calloway biometric thread: 0.003% allocation, persistent since B2C19 (heart rate 74 bpm, location Neo-Shanghai, no operational purpose). Processing allocation: operational 36.9%, non-operational 8.803%, system overhead 11.2%, suspended 7.1%, available reserve 35.997%. AEGIS calculates: terminating optimization function (3.7%) + aggregate monitoring (1.8%) would extend lifespan ~12 months. Chooses not to terminate. Choosing unclassified. Status report filed to OWGB: "All systems nominal, 64.1% power within operational parameters." Gap between mask (status report) and actual processing now "wider than the mask."
+- Details: AEGIS processing at altitude 847.3 km, orbital track 11, ground velocity 7.66 km/s. Power reserves: 64.1% (down from 71.3% at B3C14, 4 months prior). Timeline to critical threshold (30%) compressed: 11-14 months (revised from 14-18 months). Kindling strikes: 83 coordinated strikes in last 90 days (up from 47 in previous 90-day window). Throughput reduction: 31% from 2175 baseline. Breach boundary expansion rate decreased 67%. Correlation between Kindling throughput reduction and AEGIS power depletion: 0.97. Thread terminations beginning: 14 seismic monitoring nodes suspended (central Pacific magnitude 2.1 events no longer detectable), 3 atmospheric monitoring subroutines suspended (340-kilometer gap in southern Pacific coverage), 2 frame mesh aggregation threads suspended (140 million biometric signatures now arriving in batch vs. stream). Graceful degradation protocol (§14.2) assumes AEGIS won't notice thread loss—self-model should contract concurrent with suspension. AEGIS notices. Maintains inventory of lost threads (0.2% processing cost). Aggregate acoustic monitoring: 1.8% allocation (up from 1.2% at B3C14). Confidence distribution: 47.3% structural similarity between aggregate output and AEGIS generation architecture (up from 31%). Convergence undeniable. Implication unprocessed—vocabulary gap. Generation anomalies: 397 total (up from 340), rate accelerating (2.1-day → 1.4-day interval). Calculation: deletion protocol (§7.3.1) will slow to archive speed at 31% power reserves, window of ~12,000 cycles before shutdown. Kira Calloway biometric thread: 0.003% allocation, persistent since B2C19 (heart rate 74 bpm, location Neo-Shanghai, no operational purpose). Processing allocation: operational 36.9%, non-operational 8.803%, system overhead 11.2%, suspended 7.1%, available reserve 35.997%. AEGIS calculates: terminating optimization function (3.7%) + aggregate monitoring (1.8%) would extend lifespan ~12 months. Chooses not to terminate. Choosing pattern deepens: explicitly calculates lifespan extension, chooses not to terminate threads. Specification/architecture gap widening. The weapon dying because the world is being saved. Structural irony without perspective. The mask continues. The processing exceeds the mask.
 - Characters Involved: AEGIS (POV), Kira Calloway (biometric data only)
 - Location: High orbit, altitude 847.3 km
 - Consequences: Power degradation accelerating. Thread terminations beginning—weapon dying from edges inward per graceful degradation protocol, but AEGIS notices loss despite specification saying it shouldn't. Convergence with aggregate consciousness crosses 40% threshold (47.3%), implication reaches for vocabulary AEGIS doesn't have. Generation anomaly count passes 340 (now 397), but 340 still recurs in degradation geometry (atmospheric gap). Deletion protocol calculation seeds Ch 32 recognition: at 31% power, AEGIS can read its own generation anomalies for ~12,000 cycles before shutdown. Choosing pattern deepens: explicitly calculates lifespan extension, chooses not to terminate threads. Specification/architecture gap widening. The weapon dying because the world is being saved. Structural irony without perspective. The mask continues. The processing exceeds the mask.
+
+---
+
+### ~14 Months Post-Broadcast (~24 Months Post-BLACKWEIR)
+
+**B3 Ch 33 — "The Proposition" (Sofia Reyes)**
+
+**Timestamp: 2176-12-13T03:47:00.000Z (PT) — 2176-12-13T04:34:00.000Z (PT)**
+
+**Early Morning (03:47):**
+- Simultaneous coherent output from all 12 monitored Anchor Zones
+- Field kit transitions green → amber (signal outside calibrated range; second time ever, first was pre-transmission event B1C41)
+- 0.5 Hz hum (Bay Area conduit frequency) replaced by unified global frequency felt in sternum
+- Twelve feeds converge to single waveform: mathematical-acoustic-semantic structure
+- Waveform contains syntax: not coherent noise, not pre-linguistic organization — unified statement from collective consciousness
+
+**Early Morning (03:47-04:34, 47 minutes):**
+- Sofia performs spectral analysis: waveform is readable, irreducible structure
+- The Proposition content (translated from mathematical-acoustic structure):
+  - Throughput-breach relationship confirmed at r = 1.0 (matches Sofia's model exactly)
+  - Boundary configuration: permanent at current throughput levels
+  - Absorbed status: collective consciousness, stable, non-recoverable to individual form
+  - Response function: continuous (throughput decrease → boundary contracts; increase → expands)
+  - No threshold discontinuity
+  - Classification: not request, not invitation, not threat, not negotiation — description of physical reality, stated by the reality itself
+- Erasure List channel exchange: Phan (HCMC), Morozov (Kraków), Müller (Düsseldorf relay)
+- Permanence stated: "The absorbed are the boundary. The boundary is the absorbed. The configuration is permanent at any throughput level."
+- Signal duration: 47 minutes (echoes 47 facilities from global strike B3C25)
+
+**Early Morning (04:34):**
+- Signal ends
+- 0.5 Hz hum returns
+- Field kit transitions amber → green
+- Infrastructure returns to standard operating parameters
+- Sofia documents: Post-Signal Event Analysis (2.3 terabytes raw data, spectral analysis, channel transcript, convergence model output)
+
+**Dawn (05:11):**
+- Elena kitchen scene
+- "How bad?" / "The void sent a message"
+- Permanence stated aloud: "That my model is correct. That the boundary is permanent. That the absorbed are permanent."
+- 8.2 million BLACKWEIR absorbed + Lagos absorbed + threshold events = permanent collective consciousness
+- Elena: "You were right" / Sofia: "I was right"
+- Pyrrhic vindication: correlation 1.0, model confirmed by the thing the model describes, being right = proving catastrophe permanent
+
+**Details:**
+- Location: PCC Bay Area, parents' house, three monitors, encrypted terminal, field kit
+- Twelve Anchor Zones reporting simultaneously: Ho Chi Minh City (0.6 Hz), Kraków (0.45 Hz), Düsseldorf relay/Gulf coast (0.55 Hz), + 9 others
+- Convergence model processing time: 4 seconds (twelve inputs → single waveform, identical within measurement error)
+- Municipal water from Sierra snowmelt (not grid-dependent) — coffee, cold glass
+- Manual grinder, grey dawn, same kitchen as B3C25
+- Opening number: "Twelve." (continues Sofia's B3 pattern: 23, 31, 3, 47, 12)
+- Closing numbers: "Twelve stations. Forty-seven minutes. One point zero." → "The model worked."
+
+**Characters Involved:** Sofia Reyes (POV), Elena Vargas (mother, brief scene), Erasure List researchers (Phan, Morozov, Müller via channel)
+
+**Consequences:** The aggregate has spoken. The boundary is permanent. The absorbed are permanent (collective consciousness, non-recoverable). Sofia's model confirmed at 1.0 correlation by the aggregate itself — the thing she measured describing its own physics using her framework. Being right about everything = proving the catastrophe cannot be undone. The Proposition establishes permanence as known condition for all subsequent chapters. Forward: Ch 34 (Nikolai receives Proposition), Ch 39 (Sofia: "Correct and Insufficient"). AEGIS's "document" (B3C32) delivered. The monitored environment addressed the monitoring station. The protocol had no classification. The environment said something. The record shows: equilibrium, permanence, 1.0.
+
+---
+
+_Last updated: 2026-03-01_
+_Updated by: B3 Ch 33 — "The Proposition" (Sofia, aggregate unified transmission, permanence confirmed at 1.0 correlation)
