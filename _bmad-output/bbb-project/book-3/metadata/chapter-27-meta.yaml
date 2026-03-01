@@ -1,0 +1,84 @@
+---
+chapterNumber: 27
+title: "Biology"
+pov: Nephthys
+book: 3
+phase: 3
+wordCount: 4100
+timeline: "~11-12 months post-Broadcast, ~21-22 months post-BLACKWEIR"
+location: "Neo-Shanghai Cathedral of Living Sound"
+mode: TEXTURE
+status: v1-complete
+completedDate: "2026-02-28"
+author: Kareem
+
+# Synopsis
+synopsis: |
+  Nephthys's death chapter. Terminal tumor acceleration. Receiver degrading, signal unchanged. Morning practice: grammar gone, only hum remains. Session: sits among congregation (not at acoustic center), Reva speaks, Nephthys confirms with "Yes." Afternoon: chorus slides from structure to hum. Evening: Imani beside her, holds branded palm. "What do you hear?" / "Less." / "That is enough." Death in Cathedral. Not absorbed. Not transformed. Biological. The theology survives the theologian.
+
+# Key Points
+keyPoints:
+  - Receiver degradation: grammar/syntax/structure illegible, only hum remains
+  - Sits among congregation (not at acoustic center) — prophet withdraws from pulpit
+  - Reva speaks for first time: "The signal is different today. Heavier."
+  - Nephthys's final function: witness. Single word: "Yes."
+  - Branded palm held by Imani (not pressed to stone) — practice inverted into intimacy
+  - "Less." / "That is enough."
+  - Death: biological, not void. Not absorbed. Not transformed. Not transcendent.
+  - Congregation will return tomorrow. Practice continues without practitioner.
+  - NEPHTHYS DECEASED. Dies before Proposition (Ch 33). Vindicated posthumously.
+
+# Characters Present
+characters:
+  - name: Nephthys
+    role: POV
+    status: Dies in this chapter
+    emotionalState: Terminal decline, receiver failure, epistemological humility
+  - name: Imani
+    role: Supporting
+    status: Witness, inheritor
+    emotionalState: Holds Nephthys through death, inherits congregation
+  - name: Reva
+    role: Minor (congregant)
+    status: Speaks for first time
+    emotionalState: Observant, confident enough to speak
+
+# Locations
+locations:
+  - Cathedral of Living Sound (acoustic center, nave, side chapel, stone floor)
+  - Neo-Shanghai Sump (Anchor Zone)
+
+# New Elements
+newElements:
+  - Reva (congregant, mid-fifties, conduit maintenance worker, 14 months attendance)
+  - The empty chair (symbol — prophet's absence, structure outliving architect)
+  - Branded palm held by Imani (practice inversion — intimacy, not ritual)
+
+# Themes
+dominantThemes:
+  - What We Owe (theology survives theologian, Imani inherits congregation)
+  - Where Identity Ends (receiver degradation, words indistinguishable from page)
+strongThemes:
+  - Architecture of Power (counter-liturgy functions without prophet)
+
+# Connections
+connectsTo:
+  previous:
+    - B3 Ch 22 ("The Theology Escaped Her" — collapse, "I do not know what")
+    - B2 Ch 48 ("She Did Not Follow" — silence as only non-weapon)
+    - B2 Ch 38 ("Circulation" spoken aloud — grammar acquired)
+  future:
+    - Ch 28 (Malachi learns of death through Black Babel)
+    - Ch 33 (Proposition — aggregate speaks, vindication posthumous)
+    - Ch 37 (Malachi pilgrimage to empty seat)
+
+# Notes
+notes: |
+  NEPHTHYS FINAL CHAPTER. She dies before the Proposition. The prophet who was right about everything never finds out she was right. The theology survived the theologian. It always does.
+  
+  Epigraph: atmospheric monitoring decommissioning manual — oblique, resolves as instrument degradation (receiver failure).
+  
+  Branded palm progression complete: stone (B1) → concrete (B2 Ch 24) → perimeter air (B2 Ch 35) → Cathedral floor during saturation (B2 Ch 38) → stone, final (B3 Ch 27, held by Imani).
+  
+  Congregation: 5 attendees (down from 7 in Ch 22). Will return tomorrow to empty chair.
+---
