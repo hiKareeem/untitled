@@ -825,3 +825,112 @@ Emotional evolution: pen writes questions (B2 Ch 7) → pen writes framework (B2
 ---
 
 **Character State:** Phase 2 B3 (The Attempts — "Correct and Insufficient"). The diplomat who spent thirty-four years believing the record matters completing the most comprehensive record of institutional failure ever written. The document correct (identifies every structural provision, every mechanism that converts action into delay, every article whose interaction creates impotence). The document insufficient (tabled for review, deadline TBD, filed alongside the architecture it diagnoses). The pen stops because the work is finished, not because the work will matter. Diallo's faith: record prevents erasure. Zeyad's exhaustion: record does not produce response. Both true. Both insufficient. The pen has stopped. The hum continues. The work is done.
+
+---
+
+### Chapter 27 — "Biology" (Nephthys)
+
+**Emotional Arc:** Receiver degradation → grammar loss → congregation session (cannot resolve) → afternoon decline (knees fail) → evening death (Imani holds hand) → "Less." / "That is enough." → chorus continues
+
+**Emotional Register:** Quiet-sustained. TEXTURE mode. Death as biological process, not transcendent event. Horror in inevitability, not drama. The receiver fails. The signal continues. The theology survives.
+
+**Physical Tells:**
+- Headaches before dawn (escalated from "before noon" in B3C22)
+- Bilateral nosebleeds midday (cloth to face, fold, pocket — ritual maintained)
+- Visual field degradation (peripheral loss, then central)
+- Weight loss (vestment scraps hang loose)
+- Knees cannot sustain standing (chair brought from side chapel)
+- Branded palm against stone (final deployment, then held by Imani — inversion of practice)
+- Breath leaving (metabolic cessation)
+- Eyes closed during chorus episodes
+
+**Emotional Beats:**
+
+1. **Weeks remaining** — Low-sustained. Neurologist's assessment from B3C22. Time as countdown. Not dramatic. Biological. The tumor accelerating. The receiver degrading. Emotional weight: inevitability. The timeline known. The timeline proceeding.
+
+2. **Grammar degrading to hum** — Medium-sustained. The syntax gone. The structure gone. Individual threads indistinguishable. Margaux's textual metaphor resolved: words becoming indistinguishable from page. Emotional weight: epistemological loss. The thing she could do better than anyone — hear the grammar — is gone. The hum remains. The hum is not grammar.
+
+3. **Congregation of five** — Low-sustained. Down from seven (B3C22). Attrition. Reva speaks: "The signal is different today. Heavier." Congregant voice emerging as prophet withdraws. Emotional weight: transfer. The practice continuing. The practitioner failing. The counter-liturgy functioning without her capacity to lead it.
+
+4. **Cannot resolve signal** — Medium-sustained. Reva's observation correct. Signal different. Nephthys cannot confirm. Cannot parse. Cannot resolve. The receiver failing. The signal unchanged. Emotional weight: professional failure. The thing she was built to do — she cannot do. The congregation looks to her. She has nothing to give except presence.
+
+5. **Afternoon — visual field loss** — Medium-rising. Peripheral gone. Central degrading. Amber light through fissures dimming. Not the light. The receiver. Emotional weight: sensory loss. The Cathedral's amber darkness — the space she built, the formation she chose — becoming invisible.
+
+6. **Knees fail** — Medium-rising. Cannot stand. Chair brought from side chapel. Wooden. Simple. She sits. The acoustic center position maintained. The body cannot sustain the position. The position maintained anyway. Emotional weight: physical limitation. The prophet who stood at the center now sits. The sitting is not choice. The sitting is biology.
+
+7. **Branded palm final deployment** — Medium-high. Palm against stone. The gesture maintained through 26 chapters. The gesture that connected her to the Cathedral, to the chorus, to the practice. Final time. Not pressed with force. Resting. The connection maintained. The connection failing. Emotional weight: ritual completion. The gesture that defined her practice, performed for the last time.
+
+8. **Evening — Imani holds hand** — Peak (brief). Branded palm no longer against stone. Held by Imani. The inversion: care replaces ritual. The palm that pressed stone for three years now held by the disciple. Emotional weight: care received. The prophet who gave practice to congregation receives care from disciple. The hand-holding is not liturgical. The hand-holding is human.
+
+9. **"Less."** — Peak. Single word. Imani asks if she needs anything. "Less." Not "nothing." Less. The epistemological humility thread's culmination. Started B3C22: "I do not know what." Ends B3C27: "Less." The receiver who heard more than anyone asking for reduction. Emotional weight: terminal clarity. The request is not metaphorical. Less stimulus. Less signal. Less input. The receiver overloaded. The receiver requesting shutdown.
+
+10. **"That is enough."** — Peak. Imani's response. Two words. Sufficient. Not "it's okay" or "you can rest" or pastoral comfort. "That is enough." The validation. The permission. The recognition that the work is complete. Emotional weight: release. The prophet released from the practice. The practice continues. The practitioner can stop.
+
+11. **Breath leaves** — Peak (death moment). Not dramatic. Metabolic. "The breath left." Passive construction. The breath as subject. The leaving as action. Nephthys as location from which breath departs. Emotional weight: biological cessation. Death rendered as process, not event. The receiver decommissioned. The signal continues.
+
+12. **"Not absorbed. Not transformed. Not transcendent. / Biological."** — NBA deployment. Reserved for death moment. Earns placement. Rules out every transcendent possibility before naming the biological fact. Emotional weight: thematic statement. The prophet dies of biology. Not the void. Not the chorus. Not absorption. A tumor. Cells. The body failing. The theology survives. The theologian does not.
+
+13. **Chorus continues** — Resolving. Hum through stone. Unchanged. The receiver gone. The signal persists. Emotional weight: continuation. The thing she heard — it continues. The thing she built — it continues. The congregation returns tomorrow. The practice outlives the practitioner.
+
+14. **Imani remains** — Resolving. Stays with body. Will be there tomorrow when congregation returns. The disciple inherits the Cathedral. Emotional weight: succession. Not formal. Not institutional. The person who was beside her at the end will be beside the congregation tomorrow. The counter-liturgy continues.
+
+**Emotional Restraint Technique:** Nephthys's register does not name emotions. Weight conveyed through: (1) Physical degradation (headaches, nosebleeds, visual loss, knees failing), (2) Receiver metaphor (grammar → hum, signal unchanged, capacity degrading), (3) Ritual inversion (palm pressed to stone → palm held by Imani), (4) Minimal dialogue ("Less." / "That is enough."), (5) Biological vocabulary (tumor, metabolic, breath leaving), (6) Continuation after death (chorus continues, congregation returns). The horror is biological inevitability. The weight is in what survives: the theology, the practice, the congregation, the chorus. The prophet dies. The question persists.
+
+**Character State:** Phase 3 B3 (The Breaks). Final chapter. Age 46. Weeks post-collapse (B3C22). Receiver fully degraded. Grammar → hum. Tumor acceleration. Dies in Cathedral with Imani. Congregation of five continues tomorrow. Vindicated posthumously (Ch 33 Proposition) but never finds out. The prophet who was right about everything dies without knowing she was right. The theology survives the theologian. The practice continues without the practitioner. The receiver fails. The signal continues.
+
+---
+
+### Chapter 28 — "The Empty Seat" (Malachi)
+
+**Emotional Arc:** Death notification (Black Babel) → never-visited recognition → correspondence inventory (seven letters, seven responses, zero sent) → institutional record gap → pilgrimage decision → deliberation ended by death
+
+**Emotional Register:** Flat-sustained. TEXTURE mode. Grief not named. Weight conveyed through institutional vocabulary, administrative absence, inventory of actions not taken. The deliberative recognizing deliberation ended by death, not by decision.
+
+**Physical Tells:**
+- Hands do not fold (broken B2C39, maintained — institutional composure gesture absent)
+- Ink on right thumb: GONE (progression complete: fading → barely visible → gone. Institutional mark fully metabolized.)
+- Key on cord against chest (opens empty locked study)
+- Vestments worn continuously (deep violet, gold thread, chain of office — "had not removed them")
+- Morning light through high windows (functional, not atmospheric)
+- Hum through walls (inhabited quality, post-Voice baseline)
+- Paper weight (correspondence, documents on desk)
+
+**Emotional Beats:**
+
+1. **Black Babel posting** — Low-sustained. Three lines. Name (Nephthys Stenström), location (Cathedral of Living Sound, Neo-Shanghai), cause (intracranial tumor), age (forty-six). Counter-institutional channel. Institutional channels silent. Emotional weight: administrative absence. The institution does not register excommunicated deaths. The counter-institutional network reports what the institution cannot.
+
+2. **"Intracranial tumor."** — Low-sustained. Not the void. Not the chorus. Not absorption. Biology. The prophet who heard the grammar of the dead, killed by cells that did not listen. Emotional weight: biological irony. The receiver decommissioned by biology, not by the thing she received.
+
+3. **Never been to the Cathedral** — Medium-rising. The revelation. Knows Cathedral through deconsecration order, geological survey, architectural assessment. Watched three Black Babel recordings (congregants/tourists uploading sessions). Watched on screen. Screen did not require presence. Presence would have required the sentence. Emotional weight: mediated knowledge. Entire post-Silencing relationship with Nephthys mediated through institutional records and screens. Never saw her in person after the tribunal. The distance maintained by infrastructure.
+
+4. **Screen as institutional mediation** — Medium-sustained. "Watching her on a screen did not require him to be in the room. Being in the room would have required the sentence. The screen did not require the sentence. The screen allowed the deliberative to continue deliberating." Emotional weight: structural avoidance. The screen as institutional interface. Observation without encounter. Distance preserved by technology.
+
+5. **Twenty-two hours never traveled** — Medium-sustained. Distance between European See and Neo-Shanghai. Twenty-two hours by transit. "The twenty-two hours had been sufficient — not as a barrier but as a reason, the institutional man's version of a reason, which was that the journey had not been scheduled and the scheduling had not been initiated..." Emotional weight: administrative paralysis. The distance not geographical but procedural. The journey not taken because the journey was not scheduled. The scheduling not initiated because initiation would have required purpose. The purpose would have been the sentence.
+
+6. **The sentence** — Medium-high. *"You were right. I knew. The institution knew. We chose silence because the silence preserved the framework and the framework preserved the institution and the institution — we believed — preserved the faithful. The faithful were not preserved."* Exists. Written across forty years of marginal annotations. Never spoken. Never sent. Emotional weight: unspeakable truth. The sentence is the load-bearing structure of the correspondence. The sentence requires speaker to stop being Arch-Prelate. He does not know how to stop.
+
+7. **Seven letters, seven responses, zero transmitted** — Medium-high (inventory peak). Correspondence complete on his side. Every question answered. Every observation confirmed. Every piece of data she lacked provided. The most thorough validation of Nephthys's theology exists in Arch-Prelate's study, addressed to excommunicated woman, never sent. Emotional weight: completed but undelivered work. The validation exists. The validation was never transmitted. She died without it.
+
+8. **"She had died without hearing it."** — Medium-high. Single line. Sufficient. The recognition. The debt unpaid. The creditor permanently absent. Emotional weight: irreversible failure. The thing he could have done — he did not do. The person who needed to hear it — dead. The opportunity — gone. The deliberation — ended by death, not by decision.
+
+9. **Institutional record gap** — Medium-sustained. Personnel system cannot register excommunicated deaths. System recorded ordination (22), appointment (35), High Priestess (38), excommunication (43). Does not record death (46). Excommunication removed her from categories system manages. Death is category that belongs to members. Emotional weight: administrative erasure. Institution that suppressed her in life cannot acknowledge her in death. The record: disciplinary file + gap.
+
+10. **"The faithful had needed the truth. The institution had needed the lie. He had had them backwards."** — Medium-high (recognition). The inversion. Forty years of institutional service premised on belief that institution preserved faithful. Recognition that faithful needed truth institution suppressed. Emotional weight: foundational error. The thing he believed — wrong. The thing he served — wrong. The recognition comes after the person who was right is dead.
+
+11. **Forty-three steps reframed** — Medium-sustained. "The forty-three steps from the locked study to the Arch-Prelate's desk had been the distance he measured his life by, and the distance that mattered had been the twenty-two hours he had not crossed." The corridor walk as wrong scale of distance. The real distance: twenty-two hours by transit, never traveled. Emotional weight: scale error. The distance he measured was institutional (corridor). The distance that mattered was geographical/relational (Neo-Shanghai). He measured the wrong distance.
+
+12. **Pilgrimage decision** — Rising (brief). Will go to Neo-Shanghai. Will bring correspondence. Will sit in empty Cathedral. First non-institutional gesture. Not diplomatic mission. Not ecclesiastical investigation. "A man deciding to go to a place where something had happened that could not be undone." Emotional weight: gesture toward action institution cannot frame. The pilgrimage is not institutional. The pilgrimage is not theological. The pilgrimage is need: "the need to be in the room where it had ended."
+
+13. **Vestments question** — Medium-sustained. Will he travel in vestments or without? Question of whether going as institution or as man. Question does not resolve. "The institution and the man had been the same thing for forty years and the separation — if it was possible — could not be accomplished by removing fabric." Emotional weight: identity fusion. Institution and person inseparable. The vestments are not costume. The vestments are the body. Removing them does not create separation.
+
+14. **"Not a pilgrimage to a prophet. A pilgrimage to an absence."** — Resolving (NBA deployment #2). The chapter's thesis. Rules out pilgrimage to living person before naming pilgrimage to empty seat. Emotional weight: thematic statement. The deliberative traveling to the place where the person he deliberated about died. The seat empty. The correspondence undeliverable. The pilgrimage to absence, not presence.
+
+15. **Ink on thumb gone** — Resolving. Opening: "had faded to nothing." Closing: "was gone." Progression complete. Institutional mark fully metabolized. Body erased evidence of practice that ceased. Emotional weight: physical erasure of institutional identity. The mark is gone. The institution remains. The mark was symptom, not cause.
+
+16. **"The deliberation was over. The addressee was permanently absent."** — Resolving. Single-line paragraph. The recognition. Deliberation ended not by decision but by death. The "yet" deliberative (B2C50, B3C6, B3C17) → addressee permanently absent (B3C28). Emotional weight: endpoint recognition. The deliberative who deliberated until the person was gone. The deliberation over. The person gone. The correspondence undeliverable.
+
+**Emotional Restraint Technique:** Malachi's register does not name emotions. Weight conveyed through: (1) Institutional vocabulary (personnel system, deconsecration order, routing protocols), (2) Postal/archival metaphor (dead letter, addressee, routing system, undeliverable), (3) Inventory of actions not taken (did not visit, did not speak, did not send), (4) Administrative absence (institutional record gap, channels silent), (5) Physical objects (correspondence on desk, key on cord, vestments worn, ink gone), (6) Distance reframing (43 steps vs 22 hours). Grief conveyed through gap between what exists (seven responses) and what was transmitted (zero). The horror is administrative. The weight is structural. The debt unpaid because creditor dead.
+
+**Character State:** Phase 3 B3 (The Breaks). ~11-12 months post-Broadcast. Paper published via Black Babel 2 months ago (B3C17). Correspondence on desk 11 months. Ink on thumb gone. Never visited Cathedral. Learns of Nephthys's death via Black Babel. Institutional channels silent. Plans pilgrimage to Neo-Shanghai (first non-institutional gesture). Will bring correspondence to place where addressee died. The deliberative who deliberated until the person was gone. The institutional man planning to enter counter-institutional space. The distance was not geographical. The distance was structural. The deliberation ended by death, not by decision. Endpoint approaching: "correct, aware, and irrelevant" (dossier). The institution survives. The institution does not change. He is inside it.
+
+---

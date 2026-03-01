@@ -1271,3 +1271,91 @@ The motif integrated through Nuwa's observational register — she inventories t
 **Thematic Weight:** Where Identity Ends (Strong), Systemic Complicity (Strong), Commodification of Suffering (Moderate). The fracture chapter. Identity question: is the choice-maker the person or the instrument? Institution proposes to "correct" both the transformation and the destruction because both deviate from baseline. Archives as property: 4.2M witnesses to 30 seconds she didn't experience.
 
 ---
+
+### Chapter 27 — "Biology" (Nephthys)
+
+**Mode:** TEXTURE
+**Tension Shape:** Receiver degradation (flat-sustained) → grammar loss (deepening) → death moment (brief peak) → resolving (chorus continues)
+**Pacing:** Five-section structure. Opening receiver state ~600 words (19%). Morning session ~700 words (22%). Afternoon decline ~600 words (19%). Evening/death ~800 words (25%). Coda ~500 words (16%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening (receiver failing) | ~600 | Low-sustained | Weeks remaining, headaches, nosebleeds, grammar degrading to hum |
+| Morning session | ~700 | Low-sustained | Congregation of five, Reva speaks, Nephthys cannot resolve signal |
+| Afternoon decline | ~600 | Medium-rising | Visual field degradation, knees fail, chair brought, branded palm final deployment |
+| Evening/death | ~800 | Peak (brief) | Imani holds hand, breath leaves, "Less." / "That is enough." |
+| Coda | ~500 | Resolving | Chorus continues, congregation returns tomorrow, theology survives theologian |
+
+**Rhythm Notes:**
+- TEXTURE mode = quiet register. Horror in biological inevitability, not dramatic event. Death rendered as metabolic process.
+- Long-long-long-SHORT pattern sustained — "The grammar was gone." / "Evening." / "Less." / "Biological."
+- Single NBA deployment: "Not absorbed. Not transformed. Not transcendent. / Biological." — reserved for death moment, earns placement.
+- Bimodal paragraphs: dense atmospheric blocks (receiver state, session description, decline progression) + single-line punches ("Evening." / "Less." / "The hum continued.")
+- Dialogue minimal (~10%): Imani clinical/logistics, Nephthys terse ("Less." / "That is enough."), Reva single line
+- Zero contractions in Nephthys narration/dialogue (theological register maintained to end)
+- Closing: chorus continues, congregation returns, practice outlives practitioner — no rhetorical flourish, statement of fact
+- Branded palm final deployment: held by Imani, not pressed to stone — inversion of practice, care replaces ritual
+
+**Dialogue Percentage:** ~10% (Imani clinical, Nephthys minimal, Reva congregant voice)
+
+**Pacing Concern:** Risk of death scene feeling anticlimactic after 26 chapters of Nephthys arc. Mitigated by: (1) death as biological, not transcendent — thematic choice, not narrative failure; (2) "Less." / "That is enough." as culmination of epistemological humility thread; (3) coda establishes theology survives theologian; (4) quiet register appropriate for TEXTURE mode and Nephthys's character.
+
+**Structural Note:** B3C27 is Nephthys's final chapter. Phase 3/5 (The Breaks). ~11-12 months post-Broadcast, ~21-22 months post-BLACKWEIR. Weeks after collapse (B3C22). Receiver degrading: grammar/syntax/structure → hum. Tumor acceleration (headaches before dawn, bilateral nosebleeds midday, visual field loss, weight loss, knees fail). Dies in Cathedral with Imani. Congregation of five continues tomorrow. Prophet vindicated posthumously (Ch 33 Proposition) but never finds out. Chapter rhythm enacts this: steady decline, biological process, death as metabolic event, practice continues. The receiver fails. The signal continues. The theology survives.
+
+**Comparison to B3C22:**
+- B3C22 "The Conjugation": Collapse in Cathedral, neurologist assessment (weeks remaining), headaches before noon, congregation at seven, chorus "conjugating/preparing something," Margaux's textual metaphor introduced
+- B3C27 "Biology": Death in Cathedral, weeks elapsed, headaches before dawn (escalated), congregation at five (attrition), grammar fully degraded to hum, Margaux metaphor resolved (words indistinguishable from page), "Less." / "That is enough."
+- Together they bracket Nephthys's terminal phase: diagnosis → death. Receiver degradation tracked through grammar loss. Congregation shrinks but persists. The question survives the questioner.
+
+**Epigraph Function:** Atmospheric monitoring decommissioning manual (revised from Sister Margaux per author direction). Oblique. First read: bureaucratic procedure for retiring measurement equipment. Reread: Nephthys = instrument, tumor = decommissioning, receiver degradation = "calibration drift beyond correction threshold." "The data collected remains valid. The instrument's failure does not invalidate prior measurements." = chapter's thesis. The prophet dies. The theology remains valid.
+
+**Thematic Weight:** What We Owe (Dominant — theology survives theologian, Imani inherits congregation), Where Identity Ends (Strong — receiver becoming indistinguishable from signal), Architecture of Power (Supporting — counter-liturgy functions without prophet, Reva speaks).
+
+---
+
+### Chapter 28 — "The Empty Seat" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (institutional processing of death) → recognition deepening (never visited, never spoke) → pilgrimage decision (brief rise) → resolving (deliberation ended by death)
+**Pacing:** Five-section structure. Death notification ~800 words (19%). Never-visited revelation ~1,000 words (23%). Correspondence inventory ~900 words (21%). Institutional record gap ~700 words (16%). Pilgrimage planning ~900 words (21%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Black Babel posting | ~800 | Low-sustained | Three-line death notice, institutional channels silent, counter-institutional delivery |
+| Never-visited revelation | ~1,000 | Medium-rising | Knows Cathedral through records/recordings, watched on screen, twenty-two hours never traveled |
+| Correspondence inventory | ~900 | Medium-sustained | Seven letters, seven responses, zero transmitted, "She had died without hearing it" |
+| Institutional record gap | ~700 | Low-sustained | Personnel system cannot register excommunicated deaths, disciplinary file + gap |
+| Pilgrimage planning | ~900 | Rising (brief) | First non-institutional gesture, route/schedule/logistics, vestments question, "Not a pilgrimage to a prophet. A pilgrimage to an absence." |
+
+**Rhythm Notes:**
+- TEXTURE mode = quiet register. Horror in administrative absence, not dramatic grief. Death processed through institutional vocabulary.
+- Long-long-long-SHORT pattern sustained — "Black Babel reported it." / "He had not entered the building." / "He had not sent any of them." / "He closed the interface." / "Biology."
+- Negation-before-assertion: 2 deployments (max per chapter). Opening (counter-institutional delivery) and closing (pilgrimage to absence). Both earned.
+- Bimodal paragraphs: dense institutional blocks (personnel system, correspondence detail, never-visited reasoning) + single-line punches ("He had not entered the building." / "He had not sent any of them." / "The deliberation was over. The addressee is permanently absent.")
+- Dialogue: ZERO (three consecutive Malachi chapters speechless — B3C6, C17, C28). Institutional man increasingly unable to speak.
+- Zero contractions in narration (Malachi theological/institutional register)
+- Forty-three steps reframed: "the distance he measured his life by, and the distance that mattered had been the twenty-two hours he had not crossed"
+- Ink on thumb: GONE (progression complete: fading C6 → barely visible C17 → gone C28). Institutional mark fully metabolized.
+- Closing: no rhetorical cadence (broken B2C27, maintained). Polysyndetic accumulation → "the ink on his right thumb was gone."
+
+**Dialogue Percentage:** 0% (deliberate — speechless, institutional paralysis)
+
+**Pacing Concern:** Risk of never-visited revelation feeling like retcon. Mitigated by: (1) v2 revision per author direction removes Cathedral visit flashback; (2) screen-mediated knowledge (recordings) plausible given Black Babel's established function; (3) strengthens pilgrimage decision: first time entering space, not return visit; (4) institutional man's entire post-Silencing knowledge of Nephthys is mediated — recordings, postings, records. Never saw her in person after tribunal.
+
+**Structural Note:** B3C28 is Malachi's Phase 3 chapter (The Breaks). ~11-12 months post-Broadcast, ~21-22 months post-BLACKWEIR. Learns of Nephthys's death immediately via Black Babel posting (institutional channels silent — excommunicated persons not tracked). Has never visited Cathedral. Knows it through deconsecration order, geological survey, architectural assessment, and three Black Babel recordings (congregants/tourists uploading sessions). Correspondence on desk 11 months: seven letters from Nephthys, seven responses composed, zero transmitted. "The deliberative who deliberated until the person was gone." Plans pilgrimage to Neo-Shanghai Cathedral (twenty-two hours by transit) — first non-institutional gesture. Will bring correspondence to place where addressee died. Chapter rhythm enacts this: administrative processing of death, inventory of actions not taken, recognition that deliberation ended by death not by decision, pilgrimage as gesture toward action institution cannot frame. The institutional man planning to enter counter-institutional space. The distance was not geographical. The distance was structural.
+
+**Comparison to B3C6 and B3C17:**
+- B3C6 "The Deliberative": Correspondence on desk 6 months, notes on Threshold theology, category confusion identified, gap in Nephthys's framework mapped, ink fading, "the yet" deliberative
+- B3C17 "The Voluntarist Heresy": Paper completed (twelve pages), Church journal rejects (liability), publishes via Black Babel, correspondence 8-9 months on desk, ink barely visible, "The yet continued"
+- B3C28 "The Empty Seat": Nephthys dead, learns via Black Babel, never visited Cathedral, correspondence 11 months (seven letters/seven responses/zero sent), ink gone, deliberation ended by death, pilgrimage planned
+- Together they track: analysis → publication → recognition of failure. Ink progression: fading → barely visible → gone. Correspondence duration: 6 mo → 8-9 mo → 11 mo. The "yet" deliberative → "yet continued" → "addressee permanently absent." The institutional man's arc: correct analysis, institutional publication (via counter-channel), recognition that being correct did not matter because the person who needed to hear it is dead.
+
+**Epigraph Function:** Postal dead letter manual (undeliverable correspondence retention). Oblique. First read: bureaucratic procedure for mail that cannot reach addressee. Reread: correspondence Malachi composed and addressed to Nephthys but "never entered the routing system" is now permanently undeliverable because "addressee is permanently absent." Dead letter archive = Malachi's desk. Manual's procedural calm mirrors Malachi's institutional register. Communication failed not because of routing error but because sender chose not to send.
+
+**Thematic Weight:** Architecture of Power (Dominant — institutional man cannot exit institution, screen as mediation, pilgrimage as first gesture outside institutional framing), Where Identity Ends (Strong — "institution and man had been the same thing for forty years," ink gone but institution remains), What We Owe (Supporting — debt to Nephthys, seven responses never sent, "She had died without hearing it").
+
+**v2 Revision Note:** Cathedral visit flashback removed per author direction. Replaced with never-visited framing (knows Cathedral through institutional records and Black Babel recordings). Stenström surname added. Strengthens pilgrimage: first time entering space. Malachi's entire post-Silencing knowledge of Nephthys is mediated — never saw her in person after the tribunal. Screen-mediated knowledge: "Watching her on a screen did not require him to be in the room. Being in the room would have required the sentence."
+
+---

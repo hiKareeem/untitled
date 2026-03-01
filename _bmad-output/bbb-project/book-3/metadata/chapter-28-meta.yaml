@@ -1,0 +1,107 @@
+chapter: 28
+title: "The Empty Seat"
+pov: Malachi
+phase: 3
+thread: "G — Institutional Church"
+location: "European See / Black Babel communications"
+timeline: "~11-12 months post-Broadcast, ~21-22 months post-BLACKWEIR"
+word_count: 4300
+draft_version: 2
+status: complete
+date_completed: "2026-03-01"
+
+arc_beat: "Fracture — the conversation that is no longer possible"
+
+summary: |
+  Malachi learns of Nephthys Stenström's death through Black Babel — institutional channels did not carry news of an excommunicated heretic's death. He has never been to the Cathedral. He has never spoken to her since the Silencing. He knows the Cathedral only through institutional records and Black Babel recordings. The woman who was right about everything is dead, and the institutional man who knew she was right never told her. The correspondence — seven letters received, seven responses composed, zero transmitted — remains on his desk. The deliberative who deliberated until the person he was deliberating about was gone. He begins planning the pilgrimage — not to a living prophet but to an empty seat. First time he will enter the space.
+
+key_events:
+  - Learns of Nephthys's death via Black Babel posting (three lines: name, location, cause, age)
+  - Institutional record gap: system does not register excommunicated persons' deaths
+  - Never-visited revelation: knows Cathedral through records and recordings, never entered building
+  - Seven letters from Nephthys, seven unsent responses — correspondence complete on his side
+  - Inventory of what he did not do: did not visit, did not speak, did not send correspondence
+  - Plans pilgrimage to Neo-Shanghai Cathedral — first non-institutional gesture
+  - Ink on thumb gone — institutional mark fully metabolized
+
+characters_present:
+  - Malachi (POV)
+  
+characters_referenced:
+  - Nephthys Stenström (dead, B3 Ch 27)
+  - Imani (implied present at Nephthys's death)
+  - Sofia Reyes (Black Babel publication referenced)
+  - Breslin (accommodation framework referenced)
+  - Luminarch (passive institutional role)
+
+objects:
+  - Correspondence (seven letters from Nephthys, seven unsent responses)
+  - Paper (voluntarist heresy analysis, twelve pages, published via Black Babel)
+  - Notes (Threshold theology analysis from B3 Ch 6)
+  - Rejection letter (Journal of Ecclesiastical Liability Review)
+  - Blank page (third encyclical, buried under documents)
+  - Key on cord (opens empty locked study)
+  - Vestments (deep violet, gold thread, chain of office)
+  - Black Babel posting (three lines)
+  - Personnel editor interface (diocesan system)
+
+locations:
+  - European See (Malachi's study)
+  - Neo-Shanghai (Cathedral of Living Sound, Sump district — referenced, not visited)
+  - Twenty-two hours by transit (distance)
+
+themes:
+  dominant: "Architecture of Power"
+  strong: "Where Identity Ends"
+  supporting: "What We Owe"
+
+continuity_notes:
+  - Correspondence on desk 11 months (6 mo Ch 6 → 8-9 mo Ch 17 → 11 mo Ch 28)
+  - Paper published via Black Babel 2 months ago (B3 Ch 17)
+  - Ink on thumb progression complete: fading (Ch 6) → barely visible (Ch 17) → gone (Ch 28)
+  - Hands do not fold (broken B2 Ch 39, maintained)
+  - No encyclicals (stopped B2 Ch 39)
+  - No closing cadence (broken B2 Ch 27, maintained)
+  - Locked study empty (B3 Ch 6, maintained)
+  - Hum quality: inhabited (post-Voice, B2 Ch 50)
+  - Nephthys died B3 Ch 27 (intracranial tumor, age 46, in Cathedral, Imani present)
+  - Stenström surname added (v2)
+  - Never visited Cathedral (v2 — knows through records and recordings)
+
+seeds_planted:
+  - Ch 37: Pilgrimage to Neo-Shanghai Cathedral, first time entering space, empty seat
+  - Ch 45: The confession — correspondence fate (publication or suppression?)
+  - Ch 51: Endpoint in study — "correct, aware, and irrelevant"
+
+revision_history:
+  - v1: Initial draft with Cathedral visit flashback
+  - v2: Removed Cathedral visit per author direction, replaced with never-visited framing (knows through institutional records and Black Babel recordings). Added Stenström surname. Strengthens pilgrimage decision.
+
+epigraph:
+  source: "Manual of Undeliverable Correspondence: Retention and Disposition"
+  reference: "Unified Postal Authority, 2149 ed., §12.3: Permanent Absence of Addressee"
+  function: "Oblique. Resolves as correspondence composed and addressed but never entered routing system, now permanently undeliverable."
+
+style_notes:
+  - Zero contractions (Malachi register)
+  - Zero spoken dialogue (three consecutive chapters speechless)
+  - Negation-before-assertion: 2 deployments (max per chapter)
+  - Paratactic structure dominant (~55% simple sentences)
+  - Bimodal paragraphs (dense blocks + single-line punches)
+  - Institutional/administrative vocabulary
+  - Postal/archival metaphor domain (dead letter, routing, addressee)
+  - Em dashes: 1-2 per paragraph in dense blocks
+  - No AI vocabulary, no significance inflation, no anti-patterns
+
+malachi_tracking:
+  forty_three_steps: "Referenced in evolved context — reframed as wrong scale of distance vs. twenty-two hours never traveled"
+  key_on_cord: "Present, opens empty room"
+  ink_on_thumb: "GONE (final evolution)"
+  hands_folded: "Absent (broken B2 Ch 39)"
+  vestments: "Worn continuously, deep violet, gold thread, chain of office"
+  hum_quality: "Inhabited"
+  encyclicals: "None (stopped B2 Ch 39)"
+  closing_cadence: "None (broken B2 Ch 27)"
+  correspondence_status: "On desk 11 months, seven letters + seven unsent responses"
+  locked_study: "Empty, key still on cord"
+  deliberative_status: "Ended by death, not by decision"
