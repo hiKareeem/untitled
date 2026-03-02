@@ -1732,3 +1732,58 @@ The motif integrated through Nuwa's observational register — she inventories t
 **Timeline Note:** B3C38 timestamp 2177-01-28, same day as B3C36 (AEGIS: "The Decision to Write"). Thematic parallel: both transformation chapters on same date. AEGIS deciding to write / Kira being dampened. Both choosing what they become.
 
 ---
+
+### Chapter 39 — "Correct and Insufficient" (Sofia Reyes)
+
+**Mode:** TRANSFORMATION
+**Tension Shape:** Flat-sustained (report composition) → rising (Kindling disbandment data) → sustained-crushing (de-escalation section, humanitarian cost) → quiet peak (Elena scene) → resolving-devastating (final report review, closing)
+**Pacing:** Seven-section structure. Report opening/methodology ~900 words (23%). Findings section ~700 words (18%). Kindling disbandment ~600 words (15%). De-escalation/humanitarian ~900 words (23%). Elena kitchen ~700 words (18%). Final report review ~100 words (3%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Report opening (41 pages, methodology) | ~900 | Low-sustained | Scientific register, data-rich, methodology as non-painful section |
+| Findings section (11 days) | ~700 | Medium-rising | Confirmation accumulation, correlation 1.0, permanence, "simple" |
+| Kindling disbandment | ~600 | Medium-sustained | 19 arrested, network dissolving, objective achieved, physics done |
+| Erasure List transition + de-escalation | ~900 | Medium-high | "Weather station" metaphor, physics not policy, humanitarian cost |
+| Elena kitchen scene | ~700 | High (quiet peak) | "And the cost?" / "Correct and insufficient" |
+| Final report review | ~100 | Resolving-devastating | Report saved, model confirmed, closing numbers |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "They had succeeded." / "The mid-truth had changed nothing." / "The report would change nothing." / "The kitchen." / "Correct." / "Insufficient."
+- TRANSFORMATION mode = pyrrhic vindication. Register holds throughout. Weight conveyed through repetition and tautology, not density.
+- Single full NBA deployment: "Not wrong. Not incomplete. Not methodologically flawed. Not awaiting data that would never arrive or review that would never matter. *Finished.*" (closing, lines 258-259). Reserved for report's status.
+- Light negation pairs as analytical elimination: "Not formally" → distributed; "Not because it had been defeated. Because it had won."
+- Closing rhythm: four numbers. "Forty-one pages. Twelve Anchor Zones. Forty-seven minutes. One point zero." → "Correct." / "Insufficient." (two one-word paragraphs, isolated, devastating)
+- Bimodal paragraphs: dense analytical blocks (~74%) + single-line precision strikes (~26%)
+- Dialogue ~3%: Erasure List channel (functional, brief). Elena (devastating — "And the cost?" / "Correct and insufficient")
+- Opening number: "Forty-one pages." — continues B3 Sofia pattern (Ch 4: twenty-three, Ch 10: thirty-one, Ch 16: three, Ch 25: forty-seven, Ch 33: twelve, Ch 39: forty-one)
+- Tautology as rhythm device: "The physics were the physics" appears 3x + structural echoes. Intentional — Sofia's register under pyrrhic weight, repetition IS the numbness.
+
+**Pacing Concern:** Risk of sustained analytical register feeling inert. Mitigated by: (1) Kindling disbandment data (19 arrested, network dissolving) provides narrative progression; (2) "weather station" metaphor (Phan) — devastating precision; (3) Elena scene as emotional peak; (4) humanitarian figures refined (4.2M not 4M) — post-event accounting specificity; (5) closing two-word devastation.
+
+**Structural Note:** B3C39 is Phase 4 transformation. Sofia's arc: institutional scientist → rogue witness → correct and insufficient. The report documents complete validation: correlation 1.0, equilibrium confirmed, boundary permanent, humanitarian cost permanent. The chapter rhythm enacts this: sustained analytical precision → accumulation of confirmations → Elena's moral counterpoint → closing acknowledgment. The register never breaks. The weight arrives anyway. "A perfect document about a world that no document could repair."
+
+**Comparison to B3 C33:**
+- B3 C33: "The Proposition" — aggregate speaks, 1.0 correlation confirmed, permanence stated, "You were right" / "I was right"
+- B3 C39: "Correct and Insufficient" — report documents, model complete, world fractured, "And the cost?" / "Correct and insufficient"
+- Together they bracket Sofia's pyrrhic arc: the model confirmed by its target (C33) → the confirmation documented and insufficient (C39). Kitchen scenes evolve: C33 = permanence recognition. C39 = moral weight acknowledgment. Elena's register: "How bad?" → "And the cost?"
+
+**Sensory Hierarchy:** Sound/vibration dominant (0.5 Hz hum 3.2 dB below baseline — measurable reduction, "the sound of the model working," glass on countertop). Temperature (cold water from tap). Tactile (glass in hand). Visual recessive (grey-gold light, green field kit, monitors).
+
+**Thematic Weight:** Moral Obligation to Consequences (Dominant — fulfilled and insufficient), Pyrrhic Victory (Dominant — succeeded, cost permanent, "two statements same statement"), Truth as Weapon (Strong — confirmed by target, wielded by workers, prosecuted by institutions), Systemic Complicity (Moderate — model mapped fractures, scientific vocabulary = institutional vocabulary), What We Owe (Moderate — Elena: "And the cost?" — gap between accuracy and adequacy).
+
+**Meta-Narrative Seeds:**
+- Report as complete document (41 pages, 9 sections, model version 14.3)
+- Erasure List transition to monitoring body (weather station)
+- Kindling disbanded (19 arrested, objective achieved)
+- De-escalation by physics not policy (grid constraint)
+- 3.2 dB hum reduction (measurable proof)
+- Forward: Ch 47 (Sofia final — "the world adjusts," continuation structure)
+
+**User Edits:**
+- Report title formatting (line breaks added)
+- "Fuxi Lin's operational framework" → "shared operational frameworks" (Kindling as distributed)
+- "Mid-truth" → "initial publication" (3 instances — Sofia's own naming, not institutional)
+
+---

@@ -1,0 +1,150 @@
+---
+# Chapter 39 Metadata — "Correct and Insufficient"
+
+chapterNumber: 39
+title: "Correct and Insufficient"
+pov: "Sofia Reyes"
+phase: 4
+phaseTitle: "The Choices"
+mode: "TRANSFORMATION"
+arcBeat: "Transformation — pyrrhic vindication"
+
+# Timeline
+timeline: "~16 months post-Broadcast (~26 months post-BLACKWEIR)"
+timestamp: "2177-02-15 (estimated)"
+timeElapsed: "Weeks after Proposition (B3C33)"
+
+# Location
+primaryLocation: "PCC Bay Area — parents' house / monitoring"
+scenes:
+  - location: "Back bedroom / monitoring station"
+    description: "Three monitors, field kit, encrypted terminal, spectral analysis hardware"
+  - location: "Kitchen"
+    description: "Elena scene, table, water from tap, grey-gold afternoon light"
+
+# Characters Present
+characters:
+  - name: "Sofia Reyes"
+    role: "POV"
+    state: "Writing final report, model confirmed at 1.0, pyrrhic vindication"
+  - name: "Elena Vargas"
+    role: "Mother, moral mirror"
+    state: "Reading news feed, provides moral counterpoint"
+  - name: "Phan (HCMC)"
+    role: "Erasure List researcher"
+    presence: "Channel only"
+  - name: "Morozov (Kraków)"
+    role: "Erasure List researcher"
+    presence: "Channel only"
+
+# Key Events
+events:
+  - "Sofia completes 41-page report: 'Post-Proposition Equilibrium Analysis'"
+  - "Model confirmed at every level: throughput-breach, compound effect, equilibrium, permanence, response function"
+  - "Correlation 1.0 with Proposition's description"
+  - "Kindling disbanded: 19 arrested across 11 countries, objective achieved, network dissolving"
+  - "Müller arrested and released (72 hours, no charges) — institutional intimidation"
+  - "Erasure List transitions from research network to monitoring body ('weather station')"
+  - "De-escalation implemented by physics, not policy — grid cannot return to pre-strike levels"
+  - "Humanitarian cost permanent: 4.2M emergency water, 340K displaced, 17 clinics on backup"
+  - "Elena scene: 'And the cost?' / 'Correct and insufficient'"
+  - "Report saved and distributed: Erasure List (encrypted), UGC Scientific Advisory, Black Babel (public)"
+
+# Thematic Elements
+dominantThemes:
+  - "Moral Obligation to Consequences (fulfilled and insufficient)"
+  - "Pyrrhic Victory (succeeded, cost permanent)"
+secondaryThemes:
+  - "Truth as Weapon (confirmed by target, wielded by workers, prosecuted by institutions)"
+  - "Systemic Complicity (model mapped fractures)"
+  - "What We Owe (gap between accuracy and adequacy)"
+
+# Continuity Tracking
+establishedElements:
+  - "Report title: 'Post-Proposition Equilibrium Analysis'"
+  - "Report length: 41 pages, 9 sections"
+  - "Model version: 14.3 (incorporating compound effect coefficients)"
+  - "Hum reduction: 3.2 dB below pre-strike baseline (measurable)"
+  - "Humanitarian figures refined: 4.2M emergency water, 340K displaced, 17 clinics"
+  - "Kindling arrests: 19 across 11 countries (7 released, 4 awaiting trial, 3 disappeared, 5 in proceedings)"
+  - "Müller arrest/release: 72 hours, no charges"
+  - "Erasure List transition: research network → monitoring body"
+  - "De-escalation mechanism: physics not policy (grid constraint)"
+  - "Report distribution: Erasure List, UGC Scientific Advisory, Black Babel"
+  - "Save timestamp: 14:23 Wednesday"
+
+continuityReferences:
+  - chapter: "B3C33"
+    elements: ["Proposition 1.0 correlation", "permanence confirmed", "47 minutes", "12 Anchor Zones", "Elena: 'You were right'"]
+  - chapter: "B3C25"
+    elements: ["Global strike 47 facilities", "22% reduction", "4M emergency water (refined to 4.2M)", "340K displaced"]
+  - chapter: "B3C16"
+    elements: ["Dependency chains", "19 operatives arrested", "Elena: 'responsible for what model doesn't contain'"]
+  - chapter: "B3C10"
+    elements: ["Proof of concept", "compound effect 2.4", "Erasure List channel"]
+  - chapter: "B3C4"
+    elements: ["Bay Area house", "field kit", "0.5 Hz hum", "34 researchers/14 countries"]
+
+# Style & Voice
+voiceNotes: "Scientific register at transformation point — stripped, data-rich, no qualifiers. Precision as the last thing she has. The report as testimony without a court."
+nbaCount: 1
+nbaDeployment: "Closing — report status: 'Not wrong. Not incomplete. Not methodologically flawed. Not awaiting data that would never arrive or review that would never matter. *Finished.*'"
+dialoguePercentage: "~3%"
+openingNumber: "Forty-one pages"
+closingLine: "Correct. / Insufficient."
+
+# Epigraph
+epigraphSource: "The Precision of Loss"
+epigraphAuthor: "Okonkwo, A."
+epigraphRef: "Okonkwo, A., The Precision of Loss, Accra Literary Press (2168)"
+epigraphText: |
+  "After the proof, the quiet room.
+  After the theorem, the swept floor.
+  We were right about the fire,
+  right about the wind,
+  right about the door that would not hold.
+  We were right.
+  The house burned down."
+
+# Word Count & Structure
+wordCount: 3900
+targetRange: "3500-4500"
+sections: 7
+sectionBreaks: 6
+
+# Connections
+backwardConnections:
+  - "B3C33 (Proposition confirmation)"
+  - "B3C25 (Global strike)"
+  - "B3C16 (Human cost)"
+  - "B3C10 (Proof of concept)"
+  - "B3C4 (Erasure List formation)"
+  - "B2C11 (Initial publication)"
+  - "B2C4 (Novak suppression)"
+
+forwardConnections:
+  - "B3C47 (Sofia final — 'the world adjusts')"
+
+# Production Metadata
+draftVersion: 1
+createdDate: "2026-03-02"
+auditDate: "2026-03-02"
+auditStatus: "PASS (0 critical, 1 minor flag)"
+trackingUpdated: "2026-03-02"
+status: "complete"
+
+# User Edits
+userEdits:
+  - "Report title formatting (line breaks added)"
+  - "Fuxi Lin's operational framework → shared operational frameworks"
+  - "Mid-truth → initial publication (3 instances)"
+
+# Notes
+notes: |
+  The chapter's number is forty-one — the pages in the report. Secondary numbers: 1.0 (correlation), 
+  3.2 (dB reduction), 19 (arrested), 4.2M (emergency water). The report as spine: composition, 
+  findings, distribution, insufficiency. Elena's "Correct and insufficient" names the gap between 
+  accuracy and adequacy. Sofia's transformation complete: the obligation fulfilled, the fulfillment 
+  insufficient. The model works. The cost is permanent. The two statements are the same statement.
+
+---
