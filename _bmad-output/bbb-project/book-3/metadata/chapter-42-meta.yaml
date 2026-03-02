@@ -1,0 +1,124 @@
+---
+# Chapter 42 Metadata — "Co-opted"
+
+chapter_number: 42
+title: "Co-opted"
+pov_character: "Zeyad Al-Fahim"
+word_count: 4750
+phase: 4
+phase_name: "The Choices — Decision as Violence"
+location: "New Geneva — UGC Headquarters"
+timeline: "Post-Proposition, tribunal concluded, credentials restored"
+status: complete
+
+# Themes
+dominant_theme: "Institutional Impotence"
+secondary_themes:
+  - "Architecture of Power"
+  - "Where Identity Ends"
+  - "Systemic Complicity"
+
+# Key Events
+key_events:
+  - "Credentials restored (blue laminated credential, RESTORED DELEGATE, floor access)"
+  - "Jordanian flag replaced by new emitter (degradation history erased)"
+  - "Committee session: Article 9/12/14 amendments using Zeyad's analytical structure"
+  - "\"Emerging consensus\" — committee attributes his framework to deliberative process"
+  - "Legal advisory panel bibliography: 41 sources, UGC-ADR-2176-0041 not cited"
+  - "Pacific Corporate Coalition delegate speaks his framework without attribution"
+  - "Diallo's diagnosis: co-option as mechanism (4 instances in 23 years)"
+  - "Negation-before-assertion: \"Not rejection. Not suppression... Absorption.\""
+  - "Touches Khalil photograph (first time in weeks)"
+  - "\"The citation is ambulatory\" — pen as attribution committee will not produce"
+
+# Character Development
+character_arcs:
+  zeyad_al_fahim:
+    state: "The want achieved does not feel the way he expected"
+    development: "Recognizes co-option as institutional mechanism, not personal betrayal. The architecture matters more than the name. He knew this when he wrote the document."
+    key_moment: "\"He had what he wanted. The want did not feel the way he had expected it to feel.\""
+  
+  dr_diallo:
+    state: "Expanded from procedural guide to institutional diagnostician"
+    development: "Catalogs co-option as mechanism observed 4 times in 23 years. Provides Treaty of Nairobi and Mediterranean Refugee Accord parallels. Names the mechanism: attribution as institutional resource."
+    key_moment: "\"The question is whether the architecture matters more than the name.\""
+
+# Continuity
+previous_chapter_connections:
+  - "B3 Ch 31: Pen still since Ch 19, Working Group concluded no counterparty, delegate echoed his language"
+  - "B3 Ch 19: Document complete (87pp), filed UGC-ADR-2176-0041, pen stopped"
+  - "B3 Ch 7: Grey pass 16 months, replacement document in progress, de-escalation tabled"
+
+forward_connections:
+  - "B3 Ch 48: \"The Pen Stopped\" — final chapter, \"the continuation is—\""
+
+# Objects
+key_objects:
+  - name: "Blue laminated credential"
+    status: "New (issued post-tribunal)"
+    description: "RESTORED DELEGATE / FLOOR ACCESS / UNRESTRICTED. Fourth credential in sequence."
+  
+  - name: "Khalil's pen"
+    status: "Still (has not written since B3 Ch 19)"
+    description: "In breast pocket beside credential. Function shifted from writing to citation."
+  
+  - name: "Notebook"
+    status: "Full, carried, not opened"
+    description: "Black hardcover, Rue du Rhône stationer. Last page used for replacement document."
+  
+  - name: "Jordanian flag holographic projection"
+    status: "Replaced (new emitter, historyless)"
+    description: "Full spectrum, pristine. Degradation pattern erased by building-wide upgrade."
+  
+  - name: "Replacement document"
+    status: "Filed UGC-ADR-2176-0041, entering policy without attribution"
+    description: "87 pages typed. Committee uses framework as \"emerging consensus.\" Legal advisory panel bibliography: 41 sources, document not cited."
+
+# Style Notes
+voice_compliance:
+  contractions: 0
+  negation_before_assertion: 1
+  paratactic_structure: "Dominant"
+  sensory_hierarchy: "Sound/vibration (hum in floor/table/chair, chamber acoustics) → Tactile (credential materiality, frame touch) → Visual (flag projection, typography)"
+  dialogue_percentage: 15
+  almost_count: 0
+
+anti_patterns_avoided:
+  - "No felt/feel emotional shorthand"
+  - "No rhetorical questions in narration"
+  - "No metaphor clusters"
+  - "No AI vocabulary"
+  - "No significance inflation"
+
+# Epigraph
+epigraph_source: "Hydrological Survey Methods for Multi-Basin Systems"
+epigraph_section: "§11.3: Confluence and Tributary Assessment"
+epigraph_function: "Oblique. Maps co-option mechanism (tributary discharge incorporated into main channel, name absent from downstream records). Author revision preserved obliqueness by removing explicit river metaphor from text."
+
+# Rhythm
+mode: "TEXTURE"
+tension_shape: "Institutional-sustained → observational-rising → diagnostic → resolving"
+pacing: "Deliberate, institutional speed. Weight in accumulation and gap (filed vs. cited)."
+closing: "\"The flag was new.\" (3 words)"
+
+# Production Notes
+draft_version: 1
+created_date: "2026-03-02"
+author_revisions:
+  - "Line 183: Removed explicit river/tributary metaphor to preserve epigraph obliqueness"
+  - "Line 110: Pacific Rim → Pacific Corporate Coalition (worldbuilding consistency)"
+
+audit_status: "Complete"
+tracking_updated: true
+bible_updated: true
+
+# Cross-Thread Connections
+cross_thread:
+  - character: "Nikolai Volkov"
+    chapter: "B3 Ch 41"
+    connection: "Field log published under his name, changes nothing formally. Zeyad: document absorbed without his name, changes policy partially. Both: record permanent, attribution conditional, institution processes through different mechanisms (military silence vs. co-option)."
+
+# Summary
+summary: "Zeyad's credentials are restored. He enters the UGC chamber on the floor for the first time since suspension. The committee debates post-Proposition framework revisions using his language, his categories, his analytical structure — attributed to \"emerging consensus,\" not to UGC-ADR-2176-0041. The legal advisory panel read his document, replicated his framework, cited 41 other sources. Diallo diagnoses co-option as institutional mechanism observed 4 times in 23 years. The architecture is entering the Accords. The name is not. The want achieved does not feel the way he expected. The institution uses what you built. The institution does not remember who built it."
+
+---

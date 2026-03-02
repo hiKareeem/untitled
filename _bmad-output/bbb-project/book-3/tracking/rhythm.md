@@ -1886,3 +1886,63 @@ The motif integrated through Nuwa's observational register — she inventories t
 - "Sofia Vasquez's" model → "the Reyes model" (scientific community naming, Nikolai/Sofia don't know each other)
 
 ---
+
+### Chapter 42 — "Co-opted" (Zeyad Al-Fahim)
+
+**Mode:** TEXTURE
+**Tension Shape:** Institutional-sustained (credential/entrance) → observational-rising (committee session, co-option) → diagnostic (Diallo conversation) → resolving (photograph/closing accretive chain)
+**Pacing:** Four-section structure. Corridor/entrance ~900 words (19%). Committee chamber ~1,400 words (29%). Corridor/Diallo ~1,500 words (32%). Eastern alcove/photograph ~950 words (20%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Corridor/entrance — new credential | ~900 | Low-sustained | Blue credential materiality, Jordanian flag replaced (new emitter, history erased), pen still, entering floor |
+| Committee chamber — co-option | ~1,400 | Medium-rising | Session, "emerging consensus," his language without his name, Article 9/12/14 amendments, Pacific Corporate Coalition delegate |
+| Corridor — Diallo | ~1,500 | Medium-high (diagnostic) | Post-session, co-option as mechanism (4 instances in 23 years), Treaty of Nairobi/Mediterranean parallels, "Absorption." |
+| Eastern alcove — photograph | ~950 | Resolving | Touches frame (first time in weeks), Khalil/pen/flag, final accretive chain (89 words), "The flag was new." |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "The credential was blue." / "Emerging consensus." / "Without the name." / "Absorption." / "The flag was new."
+- TEXTURE mode = quiet register. Horror in institutional mechanism (co-option), not dramatic event. Weight through accumulation and gap (what was filed vs. what was cited).
+- Single NBA deployment (line 183): "Not rejection. Not suppression. Not the procedural violence of tabling or the legal violence of prosecution or the administrative violence of a grey card with illegible typography. Absorption." — Three institutional violence types negated before naming the fourth (co-option). **Revised from draft:** removed explicit river/tributary metaphor to preserve epigraph obliqueness. NBA now ends with "Absorption." as final word.
+- Closing rhythm: final paragraph deploys extended paratactic chain (9 clauses, 89 words) — institutional architecture as syntax, pen's trajectory compressed into single sentence. Followed by three short declaratives: "The pen did not move. The hum continued. The institution continued." Final image: "The flag was new." (3 words)
+- Bimodal paragraphs: dense blocks (credential materiality, committee session, Diallo's diagnosis, closing chain) + single-line punches ("Emerging consensus." / "Without the name." / "Absorption.")
+- Dialogue ~15% (Diallo scene only). Zeyad speaks 5 times (short, fragments, institutional register). Diallo speaks 8 times (diagnostic, constitutional lawyer's precision). Committee chair speaks once (procedural). Pacific Corporate Coalition delegate speaks once (his framework, no attribution).
+- Pen stillness: referenced 12+ times. Has not written since B3 Ch 19 (document complete). Function shifted from writing to citation (Diallo: "The citation is ambulatory").
+- "Almost" count: 0 (declarative throughout)
+
+**Pacing Concern:** Risk of committee session feeling procedural. Mitigated by: (1) "emerging consensus" as emotional anchor (his language, not his name); (2) Diallo's diagnosis provides mechanism analysis (co-option as institutional process observed 4 times); (3) negation-before-assertion delivers chapter's thesis (absorption, not rejection); (4) closing accretive chain accumulates weight through enumeration.
+
+**Structural Note:** B3C42 is Phase 4 transformation. Zeyad's arc: document enters policy, name does not. Co-option as institutional violence — subtler than rejection, more complete than suppression. The institution that prosecuted him for unauthorized disclosure now uses his unauthorized disclosure as foundational text. Chapter rhythm enacts this: deliberate, institutional speed, weight in the gap between UGC-ADR-2176-0041 (archive) and "emerging consensus" (committee). The architecture matters more than the name. He knew this when he wrote the document. The want achieved does not feel the way he expected.
+
+**Comparison to B3 C31 ("No Counterparty"):**
+- B3 C31: Working Group, gallery observation, delegate echoes his language ("replacement framework"), pen still, Khalil portrait untouched, flag degrading
+- B3 C42: Committee session, floor participation (restored credentials), committee uses his framework ("emerging consensus"), pen still, Khalil portrait touched (first time in weeks), flag replaced (history erased)
+- Together they bracket the co-option arc: language echoed without attribution (C31) → framework absorbed as institutional consensus (C42). The pen remains still. The institution continues.
+
+**Comparison to B3 C19 ("The Document Is Complete"):**
+- B3 C19: Document finished (87pp), filed UGC-ADR-2176-0041, committee received/thanked/tabled, pen stopped, Diallo: "Bring the pen"
+- B3 C42: Document entering policy, cited as "emerging consensus" (not UGC-ADR-2176-0041), pen still, Diallo: "Bring the pen" (ambulatory citation)
+- Together they bracket the document's trajectory: completion → absorption. The filing preserved the record. The committee cited the framework. The name is in the archive. The archive preserves what was filed. The committee cites what it chooses.
+
+**Sensory Hierarchy:** Sound/vibration dominant (hum in floor/table/chair, chamber acoustics dampened vs. corridor unfiltered, portfolio clasp, footsteps). Tactile secondary (hum through fingers, credential materiality, frame touch, water glass vibration). Visual tertiary (flag projection, blue credential, display typography, photograph, grey pass absence).
+
+**Thematic Weight:** Institutional Impotence (Dominant — co-option as subtlest violence, "not rejection but absorption"), Architecture of Power (Strong — Article 9 Section 4, bilateral framework obsolescence, legal advisory panel as processing layer), Where Identity Ends (Moderate — name in archive vs. name absent from policy, pen as ambulatory citation).
+
+**Epigraph Function:** *Hydrological Survey Methods for Multi-Basin Systems*, §11.3. Oblique — about river confluence, tributary discharge incorporated into main channel, name absent from downstream records. First read: technical hydrology. Reread after chapter: maps co-option mechanism exactly (Zeyad's work = tributary, committee output = main channel, contribution not separately metered). **Author revision preserved obliqueness** — removed explicit river metaphor from line 183 so epigraph resolves on reread without being spelled out in text.
+
+**Meta-Narrative Seeds:**
+- Credentials restored (tribunal concluded), floor access not gallery
+- Grey pass replaced by blue credential (RESTORED DELEGATE)
+- Jordanian flag replaced (building-wide upgrade, degradation history erased)
+- Article 9/12/14 amendments using his analytical structure (two-thirds threshold, breach-adjacent territorial classification, bilateral framework obsolescence)
+- Legal advisory panel bibliography: 41 sources, UGC-ADR-2176-0041 not cited
+- Diallo's diagnosis: co-option observed 4 times in 23 years (Treaty of Nairobi, Mediterranean Refugee Accord 2161)
+- "The citation is ambulatory" — pen as attribution the committee will not produce
+- Forward: Ch 48 ("The Pen Stopped" — final chapter, "the continuation is—")
+
+**User Edits:**
+- Line 183: Removed explicit river/tributary metaphor ("The institution taking his work into its own architecture the way a river takes a tributary's discharge into its own flow — the volume incorporated, the name of the source stream absent from the downstream record.") to preserve epigraph obliqueness. NBA now ends with "Absorption." as final word.
+- Line 110: "Pacific Rim coordination office" → "Pacific Corporate Coalition coordination office" (worldbuilding consistency)
+
+---

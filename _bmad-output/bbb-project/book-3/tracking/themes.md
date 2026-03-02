@@ -1505,3 +1505,104 @@ Nuwa's sharpest line in the trilogy. Two sentences. Classification, not quip. Th
 
 ---
 
+### Chapter 42 — "Co-opted" (Zeyad Al-Fahim)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Institutional Impotence | Dominant | Co-option as institutional violence — subtler than rejection, more complete than suppression. The document enters policy without the name. "Emerging consensus" — the committee attributes Zeyad's framework to its own deliberative process. Legal advisory panel reads the document, replicates the analytical structure (Article 9 Section 4 as foundational failure, bilateral framework obsolescence, two-thirds threshold), does not cite it. Bibliography: 41 sources, UGC-ADR-2176-0041 not among them. The institution absorbs what it prosecuted. Unauthorized disclosure becomes foundational text. "Not rejection. Not suppression. Not the procedural violence of tabling or the legal violence of prosecution or the administrative violence of a grey card with illegible typography. Absorption." |
+| Architecture of Power | Strong | Article 9, Section 4 — foundational failure identified, modified (not eliminated). Bilateral framework (state/corporate) → environmental management framework. Two-thirds threshold calibrated to prevent simple-majority override. Committee's legal advisory panel as processing layer between observation and policy. The archive as preservation without access (filed but not cited). Credential typography as institutional timeline (serif → grey → blue). Flag replacement as institutional maintenance (building-wide upgrade, not targeted repair). Acoustic architecture (gallery dampened, floor unfiltered, corridor carries hum). The institution taking his work into its own architecture. |
+| Where Identity Ends | Moderate | The name in the archive vs. the name absent from policy. ZEYAD AL-FAHIM (credential) vs. "emerging consensus" (committee). The pen's identity (Khalil's → Zeyad's → the Accords'). "The citation is ambulatory" — the pen carries attribution the committee will not produce. Jordanian flag: form persists, history erased. The grandfather's legacy: documentation without recognition. The work persists; the authorship dissolves. "The name would be in the archive and the archive would preserve what was filed." |
+| Systemic Complicity | Ambient | Diallo's diagnosis: co-option as mechanism observed 4 times in 23 years (Treaty of Nairobi — Kenyan delegation's framework as "regional input"; Mediterranean Refugee Accord 2161 — Zeyad's logistics analysis as "best practices," name in acknowledgments page 47). The institutional pattern is established, repeatable, procedurally correct. The institution does not suppress through tribunal. The institution absorbs through editorial process. The suppression has been automated. |
+
+**Key Resonance:** Institutional Impotence ↔ Architecture of Power. The institutional architecture that absorbs the document is the same architecture the document diagnosed as failing. The replacement framework enters the Accords as revision (not replacement). The revision incorporates his work partially, belatedly, insufficiently. The institution uses his analysis to modify the provisions that produced BLACKWEIR. The institution does not acknowledge the analysis came from the man it prosecuted for documenting BLACKWEIR. The architecture absorbs. The name does not.
+
+**Epigraph Integration:** *Hydrological Survey Methods for Multi-Basin Systems*, §11.3: Confluence and Tributary Assessment
+- Thematic function: Hydrological register for institutional co-option. "Below the confluence point, tributary discharge is incorporated into total channel flow. Downstream gauging stations do not distinguish tributary contribution from main-channel volume. The combined flow is measured as a single discharge. The tributary's name does not appear in downstream hydrological records."
+- Immediate: Technical statement about river measurement. Tributary enters main channel, contribution not separately metered, name absent from downstream records.
+- Core parallel: Zeyad's work (tributary) enters committee output (main channel). The volume is incorporated. The name is absent. The downstream record (committee amendments, policy revisions) measures the combined flow as institutional consensus. The tributary's contribution is real. The tributary's name does not appear.
+- **Author revision preserved obliqueness:** Draft included explicit river/tributary metaphor in line 183 NBA passage. Removed per author feedback to preserve epigraph's obliqueness. The epigraph now resolves on reread without being spelled out in text. The mapping is structural, not stated.
+- Rewards reread: The epigraph's precision ("downstream gauging stations do not distinguish tributary contribution") maps exactly to legal advisory panel's bibliography (41 sources, UGC-ADR-2176-0041 not cited). The panel read the document. The panel extracted the framework. The panel cited other sources. The downstream record does not distinguish the tributary. The confluence happened. The name is absent.
+
+**Diallo as Institutional Diagnostician:**
+- Expanded from procedural guide (B3C19: how to file) to institutional diagnostician (B3C42: how the institution absorbs)
+- Catalogs co-option as mechanism observed 4 times in 23 years
+- Provides Treaty of Nairobi parallel (Kenyan delegation, "regional input," framework without citation)
+- Provides Mediterranean Refugee Accord parallel (2161, Zeyad's logistics analysis, "best practices," acknowledgments page 47)
+- Names the mechanism: "attribution as institutional resource"
+- Does not offer comfort — offers diagnosis
+- "The question is whether the architecture matters more than the name."
+- Repeats "Bring the pen" with evolved meaning: ambulatory citation, the only attribution the committee will not produce
+- Diallo's function: she has watched the tribunal, the filing, the tabling, the Working Group, the committee session. She has the data. The diagnosis is her work.
+
+**The Pen as Ambulatory Citation:**
+- Khalil's pen, signed the Accords (2044)
+- Wrote replacement document (B2 Ch 42 → B3 Ch 19, 87 pages)
+- Stopped when document complete (B3 Ch 19)
+- Has not written since (B3 Ch 31, Ch 42)
+- Function shifted: writing → citation
+- Diallo: "The pen that signed the Accords will be present when the Accords are revised using the framework the pen wrote."
+- The pen is the cross-reference. The pen connects the original signing to the replacement framework. The pen is carried in the breast pocket of the man whose name the committee converted into emerging consensus.
+- The citation is ambulatory. The committee does not need to produce it. Zeyad carries it.
+- Thematic function: the only attribution that persists is the one the institution cannot remove — the physical object, carried by the person, present in the chamber.
+
+**Jordanian Flag as Symbolic Object:**
+- B3 Ch 7: lost red triangle (16 months failing)
+- B3 Ch 19: lost red and green
+- B3 Ch 31: lower half static, upper half degrading
+- B3 Ch 42: replaced by new emitter (building-wide upgrade), full spectrum, pristine, historyless
+- Maintenance requests (3 filings, 2 follow-ups, 1 formal query via Diallo) did not produce repair
+- Building-wide upgrade produced repair without consulting requests
+- The flag's degradation history erased
+- Thematic parallel to co-option: form persists (flag complete, document's framework entering policy), history erased (degradation pattern gone, authorship dissolved)
+- The new flag has no memory of the old flag. The committee's framework has no memory of the document's author.
+
+**Credential Transition as Timeline Object:**
+- Original diplomatic credentials: serif typeface, 34 years
+- Grey unlaminated card: issued during suspension, 16 months, degraded, illegible typography
+- Blue laminated credential: current, post-tribunal, RESTORED DELEGATE, FLOOR ACCESS, UNRESTRICTED
+- Typography shift tracks institutional timeline and Zeyad's position within it
+- The credential materiality is institutional communication: grey (provisional, degrading) → blue (restored, permanent)
+- The restoration is conditional. RESTORED ≠ original. The credential acknowledges the gap.
+
+**"Emerging Consensus" as Institutional Vocabulary:**
+- Committee chair: "incorporating the emerging consensus on post-Proposition governance parameters"
+- The phrase attributes Zeyad's framework to the committee's deliberative process
+- "Emerging" = the framework developed organically through institutional proceedings
+- "Consensus" = collective wisdom, not individual contribution
+- The vocabulary erases authorship by design. The framework did not arrive from outside (UGC-ADR-2176-0041, filed document). The framework emerged from within (committee deliberation, Working Group findings, legal advisory panel analysis).
+- The institution converts individual contribution into collective output. The collective output becomes institutional authority. The institutional authority becomes the nameless consensus the committee invokes.
+- Thematic function: institutional vocabulary as erasure mechanism. The words are precise. The precision is the violence.
+
+**Comparison to Prior Co-option Instances (Diallo's catalog):**
+1. **Treaty of Nairobi** — Kenyan delegation's environmental provisions drafted, submitted as "regional input," analytical framework appeared in final text without citation
+2. **Mediterranean Refugee Accord (2161)** — Zeyad's logistics analysis (6 months refugee corridor coordination), final agreement incorporated operational framework as "best practices derived from field assessment," name in acknowledgments section page 47 (the section no delegation reads)
+3. **[Two other instances referenced but not detailed]**
+4. **Replacement Document (current)** — 87 pages handwritten analysis, filed UGC-ADR-2176-0041, legal advisory panel replicates analytical structure, bibliography cites 41 sources (document not among them), framework enters policy as "emerging consensus"
+
+The pattern: individual work → institutional submission → analytical extraction → attribution erasure → framework absorption. The mechanism is procedural, not conspiratorial. The institution does not suppress the work. The institution uses the work and credits the process.
+
+**Forward Implications:**
+- Ch 48 ("The Pen Stopped"): Zeyad's final chapter, "the continuation is—"
+- Floor access restored — could participate, doesn't
+- His work absorbed without his name — osmosis, not adoption
+- Grandfather's legacy: documentation without recognition
+- The pen stopped because the document was complete
+- The institution continues because institutions continue
+- The record exists, unattributed
+- The record is everything he has
+
+**Cross-Thread Connections:**
+- Nikolai (B3C41): Field log published under his name, changes nothing formally, record exists
+- Zeyad (B3C42): Document absorbed without his name, changes policy partially, record exists in archive
+- Both: the record is permanent, the attribution is conditional, the institution processes both through different mechanisms (military silence vs. co-option), the function is complete, the continuation is institutional
+
+**The Want Achieved:**
+- "He had what he wanted. The want did not feel the way he had expected it to feel."
+- The architecture is entering the Accords. The name is not.
+- He wrote the document so the architecture would modify the provisions that produced BLACKWEIR.
+- He did not write it for the name.
+- He has what he wanted (framework in policy). The having does not feel like achievement. The having feels like the corridor — the same marble, the same acoustics, the same institutional geography, the same man standing in it with a different credential and the same pen and the recognition that both things are true simultaneously: the document's purpose achieved, the document's authorship dissolved.
+- The simultaneity is the institution's final lesson: it will use what you built. It will not remember who built it.
+
+---
+

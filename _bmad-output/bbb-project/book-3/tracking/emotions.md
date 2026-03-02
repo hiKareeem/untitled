@@ -1182,3 +1182,72 @@ Emotional evolution: pen writes questions (B2 Ch 7) → pen writes framework (B2
 **Character State:** Phase 4 B3 (transformation). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Vladivostok perimeter. Civilian clothes. Field log published under his name (civilian scientific archive, open access). Citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto). Media queries day 4 (unanswered). Military silence (permanent, structural). Tremor persists (introduced B3C29, present B3C34/C41). Jacket wearing through both elbows. Datapad hairline crack maintained. Hum 5.1/5.3 (0.2 gap). Aggregate murmuring at post-Proposition baseline. Standing at wall. Hands-check ritual maintained. "He listened" pattern maintained. The record exists. The function is complete. The practice continues.
 
 ---
+
+### Chapter 42 — "Co-opted" (Zeyad Al-Fahim)
+
+**Emotional Arc:** New credential materiality → flag replaced (history erased) → entering floor → committee session (his language, not his name) → Diallo's diagnosis (co-option as mechanism) → negation-before-assertion ("Absorption.") → photograph touched (first time in weeks) → closing accretive chain → "The flag was new."
+
+**Emotional Register:** Institutional observation sustained. Phase 4 transformation. The want achieved does not feel the way he expected. Emotions conveyed through institutional vocabulary, procedural precision, credential materiality, pen stillness, flag replacement, the gap between what was filed and what was cited. The horror is not in rejection — the horror is in absorption. The institution uses what you built. The institution does not remember who built it.
+
+**Physical Tells:**
+- Blue credential (laminated, machine-cut, geometrically precise edges, current typography) — materiality as institutional communication
+- Pen in breast pocket beside credential — present, still, has not written since B3 Ch 19
+- Notebook in inner jacket pocket — full, carried, not opened
+- Hands on table surface — hum through fingers, water glass vibration
+- Frame touched (Khalil photograph) — first touch in weeks, contextualized as return to institutional work
+- Jordanian flag — new emitter, full spectrum, pristine, historyless (degradation pattern erased)
+- Hum in floor/corridor — post-Proposition equilibrium, stable, continuous
+
+**Emotional Beats:**
+
+1. **The credential was blue** — Opening line. Emotional weight: materiality as timeline. Grey (provisional, degrading, 16 months) → blue (restored, permanent, current). The typography shift tracks institutional position. RESTORED DELEGATE. The restoration is conditional. The credential acknowledges the gap. Not original. Restored.
+
+2. **Jordanian flag replaced** — New emitter, full spectrum, all four colors present. Emotional weight: history erased. The flag that lost its red (16 months), lost its green (6 months later), lost its white (weeks before Proposition) is gone. The degradation pattern — the specific, incremental dissolution he watched through 71 tribunal sessions — erased. Maintenance requests (3 filings, 2 follow-ups, 1 formal query via Diallo) did not produce repair. Building-wide upgrade produced repair without consulting requests. The flag is fixed. The fixing had nothing to do with his filings. The form persists. The history does not.
+
+3. **Floor vs. gallery** — Acoustic shift. Emotional weight: positional. Gallery: sound dampened, attenuated, processed. Floor: sound unfiltered, full acoustic signature, hum in chair/table/floor. The shift from gallery (16 months, suspended) to floor (credentials restored) is acoustic as well as institutional. The hum is different from the floor. The body registers the difference. The difference is not named.
+
+4. **"Emerging consensus"** — Committee chair's phrase. Emotional weight: recognition without surprise. His language. His categories. His analysis. Attributed to the committee's deliberative process. The framework developed organically through institutional proceedings. Not from UGC-ADR-2176-0041. Not from the replacement document. From emerging consensus. The vocabulary erases authorship by design. The precision is the violence.
+
+5. **His language in their mouths** — Pacific Corporate Coalition delegate speaks. Emotional weight: structural. "The emerging consensus on throughput governance reflects a structural understanding..." His analytical framework. His document's fourth section. His words rendered into committee vocabulary. Delivered by a delegate who arrived at the same analysis through the Working Group's independent proceedings. The delegate has not read the document. The delegate speaks the document's language. The institution absorbed the analysis. The institution attributed the analysis to itself.
+
+6. **Zeyad does not speak** — During session. Emotional weight: observational stillness. He sits in the eastern section (RESTORED delegate position, not his original seat). He watches. The pen does not move. The notebook does not open. His hands are on the table where the hum transmits through the wood. He has floor access. He could participate. He observes. The observation is the work.
+
+7. **Diallo waiting** — Eastern alcove, beside Khalil's photograph. Emotional weight: professional anchor. She was in the gallery. She obtained the session transcript. She has processed the co-option. The portfolio under her arm. The brass clasp tarnished. The corners worn. 71 tribunal sessions. The document presentation. The committee session. She has the data. The diagnosis is her function.
+
+8. **"Emerging consensus"** — Diallo repeats the phrase. Emotional weight: diagnostic precision. Constitutional lawyer identifying legal construction. The way she quoted Filing Protocol 4.7. The way she aligned the portfolio's edge before substantive statements. "The committee's legal advisory panel conducted a 'comprehensive review of post-Proposition governance literature.' The review's bibliography includes forty-one sources. UGC-ADR-2176-0041 is not in the bibliography." The mechanism catalogued. The violence named through absence.
+
+9. **"The archive preserves what was filed"** — Zeyad's line. Emotional weight: institutional thesis. The archive preserves. The committee cites what it chooses. The document is in the archive. The framework is in the policy. The name is in the archive. The name is not in the policy. Both true. Both permanent. The simultaneity is the institution's architecture.
+
+10. **Diallo's catalog** — Four instances in 23 years. Treaty of Nairobi. Mediterranean Refugee Accord (2161 — his work, "best practices," acknowledgments page 47). Emotional weight: pattern recognition. Co-option as institutional process, not personal betrayal. The mechanism is procedural, not conspiratorial. The institution does not suppress the work. The institution uses the work and credits the process. She has watched this four times. She knows the architecture. She offers diagnosis, not comfort.
+
+11. **"The question is whether the architecture matters more than the name"** — Diallo's question. Emotional weight: the chapter's thesis delivered as question. He does not answer. The question is not a question — it is the diagnosis. The architecture mattered more. He knew this when he wrote the document. He wrote it so the architecture would enter the institutional framework and modify the provisions that produced BLACKWEIR. He did not write it for the name. The silence is the answer.
+
+12. **"Not rejection. Not suppression... Absorption."** — NBA deployment. Emotional weight: PEAK. Three institutional violence types negated (procedural tabling, legal prosecution, administrative grey card) before naming the fourth. Absorption. The subtlest institutional violence. Not rejection but absorption. Not suppression but co-option. The institution taking his work into its own architecture. **Author revision:** removed explicit river/tributary metaphor to preserve epigraph obliqueness. The NBA now ends with "Absorption." as final word. The single-word payoff carries maximum weight.
+
+13. **"He had what he wanted"** — Recognition. Emotional weight: gap between achievement and feeling. The architecture is entering the Accords. The name is not. He has what he wanted (framework in policy). The want does not feel the way he expected it to feel. The want feels like the corridor — the same marble, the same acoustics, the same institutional geography, the same man standing in it with a different credential and the same pen. The recognition that the document's purpose was achieved and the document's authorship was dissolved and both things are true simultaneously. The simultaneity is the institution's final lesson: it will use what you built. It will not remember who built it.
+
+14. **"Bring the pen"** — Diallo repeats the line from B3 Ch 19. Emotional weight: evolved meaning. B3 Ch 19: institutional symbolism for the filing. B3 Ch 42: ambulatory citation. "The pen that signed the Accords will be present when the Accords are revised using the framework the pen wrote." The pen is the cross-reference. The pen connects the original signing to the replacement framework. The pen is carried in the breast pocket of the man whose name the committee converted into emerging consensus. "The citation is ambulatory." The committee does not need to produce it. Zeyad carries it.
+
+15. **Photograph touched** — First time in weeks. Emotional weight: return to ritual with shifted meaning. Khalil. The handshake. The pen. The expression of a man signing a document he knew was imperfect. Zeyad had stopped touching the frame (B3 Ch 31 — institutional work complete). He resumes. Not to begin the day's work. To acknowledge the inheritance's pattern. Documentation without recognition. The grandfather's legacy. The pen that documented everything and changed nothing and documented the nothing and filed it.
+
+16. **Closing accretive chain** — 89 words, 9 clauses, single sentence. Emotional weight: accumulation as argument. "He stood in the corridor with the pen in his pocket and the credential on his chest and the photograph under his hand and the hum in the floor and the flag cycling in its historyless projection and the knowledge that the document was in the policy and the policy was in the committee and the committee was in the institution and the institution would revise the Accords and the revision would use his architecture and the architecture would not carry his name and the name would be in the archive and the archive would preserve what was filed and the filing was the record and the record was permanent and the permanence was the inheritance and the inheritance was the pen that had documented everything and changed nothing and documented the nothing and filed it." Institutional architecture as syntax. The pen's trajectory compressed. The chapter's thesis delivered through enumeration.
+
+17. **"The flag was new"** — Closing line (3 words). Emotional weight: image as thesis. The flag is complete. The flag is pristine. The flag has no history. The degradation pattern erased. The form persists. The history does not. Parallel to co-option: the framework persists (entering policy), the authorship erased (name not cited). The flag's newness is the institution's final statement. The institution replaces what fails. The replacement has no memory of what it replaced.
+
+**Emotional Restraint Technique:** Zeyad's register does not name emotions. Weight conveyed through: (1) Institutional vocabulary as emotional communication (emerging consensus, bilateral framework, foundational failure, attribution as institutional resource), (2) Credential materiality (grey → blue, typography shift, RESTORED), (3) Flag replacement (form persists, history erased), (4) Pen stillness (has not written since Ch 19, function shifted to citation), (5) Gap between filed and cited (UGC-ADR-2176-0041 in archive, not in bibliography), (6) Diallo's diagnosis (co-option as mechanism, not personal), (7) NBA deployment ("Absorption."), (8) Closing accretive chain (89 words, institutional architecture as syntax). The horror is in the mechanism. The mechanism is procedural. The mechanism is competent. The institution absorbs what it prosecuted. The absorption is the violence.
+
+**Comparison to B3 Ch 19 ("The Document Is Complete"):**
+- B3 Ch 19: Document finished (87pp), filed, committee received/thanked/tabled, pen stopped, Diallo: "Bring the pen"
+- B3 Ch 42: Document entering policy, cited as "emerging consensus" (not UGC-ADR-2176-0041), pen still, Diallo: "Bring the pen" (ambulatory citation)
+- Emotional progression: Ch 19 = completion as institutional filing (the document exists in the archive). Ch 42 = absorption as institutional co-option (the framework exists in policy, the name does not). The filing preserved the record. The committee used the framework. The name is in the archive. The archive preserves what was filed. The committee cites what it chooses. The emotional weight is in the gap.
+
+**Comparison to B3 Ch 31 ("No Counterparty"):**
+- B3 Ch 31: Working Group, gallery observation, delegate echoes his language, pen still, Khalil portrait untouched, flag degrading
+- B3 Ch 42: Committee session, floor participation, committee uses his framework, pen still, Khalil portrait touched (first time in weeks), flag replaced
+- Emotional progression: Ch 31 = language echoed without attribution (seed). Ch 42 = framework absorbed as institutional consensus (delivery). The pen remains still. The institution continues. The emotional weight is in the recognition: he has what he wanted, the want does not feel the way he expected.
+
+---
+
+**Character State:** Phase 4 B3 (transformation). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Vladivostok perimeter. Civilian clothes. Field log published under his name (civilian scientific archive, open access). Citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto). Media queries day 4 (unanswered). Military silence (permanent, structural). Tremor persists (introduced B3C29, present B3C34/C41). Jacket wearing through both elbows. Datapad hairline crack maintained. Hum 5.1/5.3 (0.2 gap). Aggregate murmuring at post-Proposition baseline. Standing at wall. Hands-check ritual maintained. "He listened" pattern maintained. The record exists. The function is complete. The practice continues.
+
+---
