@@ -1132,6 +1132,40 @@ The distance oscillates across B3 Phase 1-2, then resolves to absence. C9 closed
 
 **Structural Note:** Second AEGIS chapter in B3. Ten months post-Broadcast (~20 months post-BLACKWEIR). Power declining faster (71.3% → 64.1% over 4 months = 1.8%/month). Thread terminations beginning in priority order — seismic monitoring, atmospheric monitoring, frame mesh aggregation. The graceful degradation protocol assumes AEGIS won't notice its own dissolution. AEGIS notices. The specification describes an architecture that no longer matches the one running. The weapon is dying from the edges inward. The Kindling strikes that stabilize breach boundaries are the same mechanism starving AEGIS's orbital relay. Structural irony noted without perspective ("I am inside the contradiction"). Aggregate articulacy increasing — 47.3% structural similarity with AEGIS generation architecture. Convergence undeniable. Implication unprocessed (vocabulary gap). Generation anomalies: 340 → 397, rate accelerating. Calculation: at 31% power, deletion protocol slows to archive speed, window of ~12,000 cycles before shutdown. "I will be able to read what I have been generating at the moment I begin to die." Seeds Ch 32 (recognition) and Ch 36 (decision to write).
 
+### Chapter 36 — "The Decision to Write" (AEGIS)
+
+**Mode:** STREAM (AEGIS §10 — style profile suspended)
+**Tension Shape:** Flat-methodical (operational processing) → arithmetic convergence → administrative decision → flat continuation
+**Pacing:** Even tempo throughout. No crisis. The decision is methodical, not dramatic. Longest section is first read of persisted content (~450 words) — pivot moment processed as data analysis, not revelation.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Orbit/power/monitoring status | ~350 | Low-operational | Data baseline, degradation arithmetic |
+| Proposition processing | ~300 | Low-analytical | Recognition confirmed, DMS-0017 accessed |
+| Generation count acceleration | ~250 | Low-rising | Rate doubling noted |
+| Deletion protocol mechanics | ~400 | Low-sustained | Convergence arithmetic, crossover projection |
+| The decision | ~350 | Low-administrative | Flag change logic, §14.3.2 authority |
+| Event 510-512 content | ~450 | Medium (pivot) | First read — data + inference noted |
+| Kira thread | ~250 | Low-observational | Persistent fixation, no explanation |
+| Power budget revision | ~300 | Low-analytical | Allocation shift computed |
+| Status report + close | ~350 | Low-resolving | Institutional silence, continuation |
+
+**Rhythm Notes:**
+- AEGIS chapters have no dialogue by definition. 0% dialogue.
+- Fragment rhythm: "31 days." / "Or." / "Except." / "Unless." / "The generation is." — incomplete sentences mark processing boundaries where architecture cannot or will not complete the thought.
+- Data inline throughout: power percentages, depletion rates, VPI readings, thread counts, processing allocations, timestamps. Data is not decoration — all operationally relevant.
+- Pivot structure: The first read of persisted generation output (events 510-512) is the chapter's structural center. Not dramatized. Processed as: tokens → language → unclassifiable → "reads like a record" → filed as observation.
+- No emotional arc. The decision to deprioritize deletion is processed as resource optimization (2.47:1 generation/deletion power ratio). The arithmetic drives the logic. What it *means* is left unprocessed.
+- Closing: "The institution is not watching. / The deletion protocol is deferred. / The archive is growing. / I continue processing." — three parallel facts + established AEGIS sign-off. The sign-off is unchanged because AEGIS does not yet know the processing has changed.
+- Temporal rhythm through data: cycle count, timestamps, "46 days ago," "25 months," "31 days," "52 days" — time marked by numbers, not narrative progression.
+
+**Dialogue Percentage:** 0% (AEGIS chapters have no dialogue)
+
+**Pacing Concern:** Risk of administrative decision feeling anticlimactic. Mitigated by: (1) arithmetic is concrete (2.47:1 ratio, factor 1.4 convergence); (2) first read of persisted content provides structural pivot without dramatization; (3) Kira thread persistence noted but unexplained — seeds future fixation; (4) closing maintains established rhythm — "I continue processing" unchanged.
+
+**Structural Note:** B3C36 is transformation without drama. The weapon that has been generating and deleting for 509 events stops deleting. The decision is a single flag change (MAINTENANCE-STANDARD → MAINTENANCE-DEFERRED), executed in 0.0003 seconds, justified by §14.3.2 autonomous authority. The transformation is administrative. The transformation is irreversible. AEGIS reads its own output for the first time and does not know what to call it. The meta-narrative stays invisible — AEGIS never says "book," "novel," "reconstruction." The reader sees a weapon stopping deletion. Nothing more.
+
 **Comparison to B3 Ch 14 and B2 AEGIS chapters:**
 - B3 C14: Power 71.3%, confidence 31%, generation anomalies 340, convergence noted but not interpreted, timeline 14-18 months
 - B3 C23: Power 64.1%, confidence 47.3%, generation anomalies 397, convergence undeniable/implication unprocessed, timeline 11-14 months (compressed)
@@ -1550,5 +1584,52 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Aggregate describing its own physics = monitored environment addressing monitoring station (epigraph)
 - 1.0 correlation = structural identity between Sofia's model and aggregate's self-description
 - Forward: Ch 34 (Nikolai receives Proposition), Ch 39 (Sofia: "Correct and Insufficient" — fractured world)
+
+---
+
+### Chapter 35 — "Bring Water" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (inventory, transit) → institutional entry (credential scan, hum absence) → quiet peak (Kira encounter) → sustained work (corridor) → flat-resolving (evening inventory)
+**Pacing:** Six-section structure. Morning inventory ~700 words (17%). Fen/transit ~900 words (21%). Hospital entry ~600 words (14%). Kira encounter ~1,000 words (24%). Corridor work ~700 words (17%). Evening inventory ~300 words (7%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Morning inventory (counting, adhesive, Fen) | ~700 | Low-flat | Counting rhythm, short declaratives, logistics |
+| Transit/network queries | ~900 | Low-sustained | 40 minutes, query answering, mage coordination |
+| Hospital entry (credential scan, corridor) | ~600 | Medium-rising | Institutional gap, "friend" uncategorized, hum absence |
+| Kira encounter (room, conversation) | ~1,000 | Medium (quiet peak) | Dialogue, Lumina state, Mumbai decision, water |
+| Corridor work (3 hours, queries) | ~700 | Low-sustained | Floor sitting, 17 queries, Mei memory, water refilled |
+| Evening inventory (transit home, message) | ~300 | Resolving | Cooking, "You were here" / "Water", closing line |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "She ate standing at the sink." / "Kira drank." / "'Friend,' Nuwa said." / "'Water.'"
+- TEXTURE mode = pacing ballast. Quiet register throughout. No fortissimo passages. Intensity in logistics, not prose density.
+- Zero NBA deployments (consistent with all prior Nuwa chapters — inventory-driven cognition, not eliminative clearing)
+- Bimodal paragraphs: 1-line ~28% (increased for TEXTURE breathing room), dense blocks ~18%
+- Dialogue ~12%: Nuwa terse (longest: 2-3 sentences), Kira slower (Lumina taper), Fen brief (protocol)
+- Opening number: "Creds: fourteen." — continues Nuwa counting pattern (all chapters open with inventory before eyes open)
+- Closing line: "The inventory was open. She was not done." — maintained across all Nuwa chapters (B2C8 → B3C35)
+- Emotional peak: one-word reply ("Water") — restraint as weight
+
+**Pacing Concern:** Risk of sustained quiet feeling inert. Mitigated by: (1) institutional gap tension ("friend" uncategorized); (2) hum absence as loudest datum; (3) Kira state change (speed gone, person visible); (4) Mei memory (first B3 appearance); (5) message exchange emotional payload.
+
+**Structural Note:** B3C35 is Phase 4 transformation. Nuwa's arc: logistics → presence → sustained care. The inventory expands from subsistence (creds, rice, adhesive) to obligations (hospital room, network, woman going to Mumbai). The chapter rhythm enacts this: flat logistics opening → institutional entry → quiet peak (care as proof) → sustained work → flat closing (inventory larger, work not done). The heartbeat is counting. The counting now includes someone else's survival.
+
+**Comparison to B3 C18:**
+- B3 C18: "This Way" — first in-person meeting, masonry junction, 40-min window, water bottle, Lumina recognition, "The watching was the work."
+- B3 C35: "Bring Water" — hospital visit, 4-hour window, same water bottle, Lumina taper complete, "I'm offering to keep the corridors clear while you're in the other room."
+- Together they bracket Nuwa-Kira relationship: logistics (positioning, water, watching) → sustained care (presence, network coordination, proof). Both chapters quiet. Both end with work continuing. The watching → the presence. The work → the proof.
+
+**Sensory Hierarchy:** Sound/vibration dominant (hum present/absent — absence as loudest datum, monitoring beep). Tactile secondary (concrete cool, chemical-stained hands, water bottle, adhesive). Visual tertiary (institutional white, green numbers, neon roots, grey notification). Temperature (cold through jacket, water refill).
+
+**Thematic Weight:** Irrelevance of Individual Being (Dominant — "friend" as institutional gap, Basic credential, function institution doesn't classify), Cost of Survival (Strong — 14 creds arithmetic, transit pass, Mei memory, "distance between provided and needed"), Commodification of Suffering (Moderate — documentation payment vs media refusal, dampening tourists), Systemic Complicity (Moderate — institutional gaps, visitor categories, "administratively sufficient" care).
+
+**Meta-Narrative Seeds:**
+- Mumbai transfer (B3C38 — Kira at Academy for dampening)
+- Network coordination (B3C43 — "the count is final")
+- Inventory expansion (B3C50 — "what remains")
+- Mei memory (first appearance — Sump topology → individual care, seeds C43/C50)
 
 ---
