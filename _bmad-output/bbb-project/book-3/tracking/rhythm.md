@@ -1683,3 +1683,52 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Mei memory (first appearance — Sump topology → individual care, seeds C43/C50)
 
 ---
+
+### Chapter 38 — "The Academy" (Kira Calloway)
+
+**Mode:** TEXTURE → FRACTURE → TEXTURE
+**Tension Shape:** Quiet opening (campus return, filing compression) → institutional transaction (Vasari) → peak (parent confrontation) → clinical sustained (procedure) → transformation (quiet window) → quiet closing (flight, parents' house, final filing)
+**Pacing:** Six-section structure. Campus/Vasari ~1,100 words (25%). Parents ~1,300 words (30%). Procedure ~1,100 words (25%). Flight ~400 words (9%). Parents' house/final filing ~500 words (11%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Campus return + Vasari negotiation | ~1,100 | Low-rising | Filing compression, institutional irony, data price |
+| Parents arrive + confrontation | ~1,300 | High (FRACTURE) | Blame/love coexisting, cruelty-catching returns, apology |
+| Procedure + threshold adjustment | ~1,100 | Medium-clinical | Signal subjective report (8→6→3), quiet window emerges |
+| Flight home | ~400 | Low-sustained | Background signal, thermal tracking, parents protective |
+| Parents' house + final filing | ~500 | Resolving-quiet | Lemongrass, childhood room, filing system dashes, closing reflection |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern present — "Fair." / "Dad." / "Kira." / "Eight." / "Three." — single-word dialogue as structural punctuation
+- TEXTURE → FRACTURE → TEXTURE arc. Parent confrontation is emotional peak but compressed (dialogue register, knuckle detail, hand placement). Procedure clinical but carries transformation. Closing domestic quiet.
+- 2 NBA deployments (both earned): (1) "Not gone. Not silent. But..." — procedure first threshold drop; (2) "Not the quiet room... Not a room. A window." — metaphoric architecture replacement, chapter's central transformation
+- Bimodal paragraphs: 1-line ~20%, dense blocks ~20% (parent confrontation, quiet window transformation, final filing entry)
+- Dialogue ~15%: higher than typical Kira due to parent scene. Grace carries confrontation, David minimal (one word), Vasari clinical, Kira defensive→apologetic
+- Filing system evolution: one-line entries, dashes for uncategorizable (parents, self-assessment). "Category: —" notation introduced.
+- Quiet room → quiet window: complete metaphoric replacement. "Not a room. No ceiling, no walls. The signal is weather I can hear through glass."
+- Closing line: "The filing system held. The person in it was new." — identity transformation without declaration
+
+**Pacing Concern:** Risk of procedure feeling clinical/distant. Mitigated by: (1) subjective signal report (Kira's voice describing what she hears); (2) quiet window emergence as revelation; (3) thermal tracking (37.0→36.2°C) as physical anchor; (4) "traffic from a high window" analogy earning the transformation.
+
+**Structural Note:** B3C38 is Phase 4 transformation. Kira's arc: antenna → person. The dampening is surgical but the transformation is metaphoric. The quiet room (pharmaceutical, compressed, ceiling/walls) is replaced by the quiet window (no architecture, signal as weather, ambient). The chapter rhythm enacts this: institutional transaction → emotional confrontation → clinical procedure → quiet emergence. The person post-dampening is not the person pre-Lumina and not the person at 90mg. She's someone new. The filing system cannot categorize her.
+
+**Comparison to B3 C26:**
+- B3 C26: "Hospitalized" — dampening recommended, archives requested, filing degrading, quiet room "rebuilt but smaller" at 45mg
+- B3 C38: "The Academy" — dampening executed, data traded, filing encounters limits (dashes), quiet window replaces quiet room at 0mg post-procedure
+- Together they bracket the dampening decision: recommendation → execution. Both chapters track filing system evolution. Both end with Kira changed. C26: fracture, separation of antenna from person. C38: transformation, person emerges from procedure undefined.
+
+**Sensory Hierarchy:** Sound/vibration dominant (signal roar→hum→background, ultrasound vibration in bone, "heard them before she saw them"). Temperature strong secondary (R3 thermal 37.0→36.2°C, procedure room 16°C, David's warm hand, implant warmth lower). Tactile present (fingertip buzz directed→ambient, back of neck touch x3, hug precision, surgical cradle). Visual tertiary (campus architecture, diagnostic blue, neon roots, dark eye). Smell rare (lemongrass — domestic anchor, first in Kira's arc).
+
+**Thematic Weight:** Where Identity Ends (Dominant — filing system cannot assess filer, quiet room obsolete, "someone she would have to learn"), Systemic Complicity (Dominant — institution broke/fixed her, parents signed/witnessed, data archived by cause, "the fighting was the trap"), Commodification of Suffering (Moderate — data price, research value, blackout stream→institutional archive), Personhood is Negotiable (Strong — filing system dashes, categories insufficient for parents/self), Cost of Survival (Present — every strategy had a price, dampening is accounting).
+
+**Meta-Narrative Seeds:**
+- C44 ("Just being Kira" — streaming again, apartment return, quiet window as baseline, stream-voice may return different)
+- C50 (Nuwa final — "corridors are clear," what remains after antenna muted)
+- Parents' house (potential C44+ — recovery location, domestic space, lemongrass anchor)
+- Tinnitus gone (post-dampening baseline, author confirmed)
+- Filing system dashes (uncategorizable content, system encountering limits)
+
+**Timeline Note:** B3C38 timestamp 2177-01-28, same day as B3C36 (AEGIS: "The Decision to Write"). Thematic parallel: both transformation chapters on same date. AEGIS deciding to write / Kira being dampened. Both choosing what they become.
+
+---

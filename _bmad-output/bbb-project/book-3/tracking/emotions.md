@@ -993,3 +993,90 @@ Emotional evolution: pen writes questions (B2 Ch 7) → pen writes framework (B2
 **Character State:** Phase 3 B3 (The Breaks — "Struggle"). ~6 months post-Broadcast, pre-Proposition. Replacement document complete (B3Ch19), presented, tabled, not read. Pen has not written since document finished. Notebook carried but not opened. Grey pass degraded (typography blurred, edges lost geometry). Does not stop at Khalil's portrait. Observes Contact Protocols Working Group from gallery over three sessions. Working Group reaches conclusion his document contains: aggregate is condition, not party. No counterparty. Cannot negotiate. Can only adjust parameters. Pacific Rim delegate independently uses "replacement framework" language. Finding filed alongside replacement document. Neither produces action. The diplomat whose document is complete, watching institution arrive at his conclusions without reading them. The aggregate does not need a diplomat. Endpoint approaching: replacement document complete, record exists, diplomat without functioning diplomatic corps. The pen stopped. The hum continued.
 
 ---
+
+### Chapter 38 — "The Academy" (Kira Calloway)
+
+**Emotional Arc:** Campus return (institutional irony, filing compression) → Vasari negotiation (data price, transactional clean) → parents arrive (blame/love coexisting) → confrontation (cruelty-catching returns, apology) → procedure (threshold climbing, quiet window emerges) → flight home (background signal, protective configuration) → parents' house (lemongrass, childhood room, filing system dashes, person undefined)
+
+**Emotional Register:** TEXTURE → FRACTURE → TEXTURE. Opening/closing quiet (institutional/domestic). Parent confrontation is emotional peak but compressed — dialogue register, physical tells (knuckles, hand placement, hug precision), never named. Procedure clinical but carries transformation. The restraint is the weight.
+
+**Physical Tells:**
+- Fingertip buzz: bilateral, persistent, directed → ambient (phenomenological shift post-dampening)
+- Back of neck touch: 3x deployment, tracking R3 thermal change (37.0°C → 36.2°C)
+- Filing system tablet: present in closing scene, final entry with dashes
+- Grace's knuckles on bed rail: emotional compression, combat mage's hands holding institutional furniture
+- David's hand on shoulder: left side, away from R3 housing, placement deliberate, warmth
+- Hug precision: calibrated to spinal integration points, love as operational competence
+- Neon roots growing out: augmentation maintenance stopped, parents seeing change
+- HUD dark: left eye, "one dark eye where the HUD used to scroll" (David's observation)
+- Lemongrass: domestic sensory anchor, first smell in Kira's arc
+
+**Emotional Beats:**
+
+1. **Campus unchanged** — Low-sustained. Institutions accrete, don't change. The bones of the place are the bones she remembered. Emotional weight: institutional permanence. The Academy that installed the R3, expelled her, now the only facility that can dampen it. The return is necessity, not choice.
+
+2. **Scanner acceptance** — Low-sustained. Biometric processed. "The system accepted her. It always had. The system's problem had never been with her data. The system's problem had been with her." Emotional weight: institutional irony. The body's data always acceptable. The person inconvenient.
+
+3. **Vasari's office** — Low-sustained. Two chairs patient-side, one behind desk. Right chair empty (parents not yet arrived). Schematic in Academy blue. "She'd seen this schematic before. In this building... where a different doctor had shown a different schematic to a ten-year-old who'd understood the engineering and not the implications." Emotional weight: return to origin. Same building, same schematic, different context. Age 10: installation. Age 20: dampening.
+
+4. **Data price** — Medium-rising. Signal exposure, coherence residuals, blackout biometrics. "The antenna's final broadcast, archived by the people who built the antenna." She signs. Filing: *Transaction: institutional.* Emotional weight: transactional clean. Both parties get what they want. Neither addresses cost. The exchange is arithmetic.
+
+5. **Parents heard before seen** — Medium-rising. Grace's voice in corridor ("managing a situation" register). David's stillness. Emotional weight: anticipation. First appearance in trilogy. The people who signed for the installation arriving for the dampening.
+
+6. **Grace's hug** — Medium-high. "Careful — the care of a woman who had read the medical file and understood the spinal integration points and knew which vertebrae the R3 occupied and held her daughter accordingly. Not gently. Precisely." Emotional weight: love as precision. Combat mage's operational competence applied to maternal care.
+
+7. **David's name** — Medium-high. One word: "Kira." "The way he'd said it when she was ten and had come out of the installation surgery — the same word, the same register, the syllables carrying the weight of a parent who had agreed to the procedure and was now looking at the result and the result was his daughter and the agreement was permanent." Emotional weight: parental recognition across 10 years. Same name, same weight, different context.
+
+8. **"The Lumina, Kira."** — High (FRACTURE peak). Grace's voice level. "Level was worse than composed." The file disclosed. Ninety milligrams, twenty months, unregulated compound. Emotional weight: blame. "You know that you were taking an unregulated compound... and you *know*."
+
+9. **Filing system encounters limit** — High. "*Source: mother. Type: accusation. Weight: —*" The dash. "The filing system didn't have a category for the weight. The filing system had categories for signal data and network telemetry and pharmaceutical logs and stream metrics. It did not have a category for the expression on her mother's face." Emotional weight: uncategorizable. First appearance of dash notation. Content exists but exceeds vocabulary.
+
+10. **"The implant you signed for when I was ten."** — High. Kira's defense. Direct. The confrontation's core: institutional complicity, parental responsibility, survival arithmetic. Emotional weight: truth as defense (not weapon). The room quiet. Not the quiet room. The actual room.
+
+11. **Cruelty-catching returns** — High. "She was being cruel. She could hear it. At ninety she wouldn't have heard it. At ninety the cruelty would have landed without the metacognitive echo. At zero the echo was back — faint, delayed, but present." Emotional weight: metacognition rebooting. Self-awareness returning at biological speed. First recognition of cruelty since before 80mg.
+
+12. **"I'm sorry."** — High-resolving. First apology since before 80mg. "That was — I'm sorry." Emotional weight: repair. The cruelty caught, corrected. The machinery the Lumina suppressed returning.
+
+13. **Grace's knuckles** — High-resolving. "Grace's hand was on the bed rail. The knuckles. The combat mage's hands — decommissioned, retired, the same hands that had channeled kinetic force through a military-grade R2 for eleven years and now held a bed rail in a medical facility where their daughter was about to have the thing in her spine turned down by the institution that had turned it on." Emotional weight: parental helplessness. The hands that were weapons now hold furniture.
+
+14. **"We'll be here."** — High-resolving. Grace's voice quieter. "The *we'll be here* was not logistics. It was the thing underneath the blame — the parental architecture that held even when the parents were angry and the anger was justified." Emotional weight: care coexisting with blame. Both true. The contradiction is the system.
+
+15. **David's hand on shoulder** — High-resolving. Left side, away from R3. "The hand was warm. The hand said what his mouth wouldn't: *I am here and I am angry and the anger does not change the here.*" Emotional weight: physical communication. The combat mage whose words were never the weapon.
+
+16. **Procedure room 16°C** — Medium-clinical. "Not metaphorically. Clinically." Temperature for neural imaging equipment. Emotional weight: clinical precision. The Academy's engineering capability applied to dampening.
+
+17. **Signal at 8** — Medium-sustained. "Loud. Constant. The populated chord — full bandwidth." Pre-dampening baseline. Roar. The thing the Lumina filtered and the Lumina's absence left unfiltered. Emotional weight: signal as foreground. The condition requiring management.
+
+18. **Threshold drops to 6** — Medium-sustained. "The volume had decreased by a measure she felt in her vertebrae before she heard it in her perception." First threshold adjustment. Emotional weight: physical before perceptual. The R3's processing changing in bone.
+
+19. **"Like hearing a conversation through a wall."** — Medium-sustained. Kira's analogy. Signal blurrier, less granular. Emotional weight: translation. The filing system's vocabulary insufficient. This requires something else.
+
+20. **Signal at 3** — Medium-high (transformation). "Her voice was — she heard it. Heard herself. The voice without the signal's competition." Smaller. Quieter. Stream-voice gone. "The chord is there. I can feel it. But it's — background. Like traffic from a high window." Emotional weight: self-recognition. The voice she'd had before the eighty, before the quiet room, before the pharmaceutical architecture.
+
+21. **Quiet window emerges** — High (transformation). "Not the quiet room. Not the compressed pharmaceutical space with its low ceiling and its chemical walls. Not the Lumina's architecture. This was —" She didn't have a word. "Not a room. A window." Emotional weight: metaphoric architecture replaced. The quiet room (pharmaceutical, compressed, ceiling/walls) replaced by quiet window (no architecture, signal as weather, ambient). The transformation crystallized.
+
+22. **Filing system creates new category** — High (transformation). "*Quiet window. Signal: ambient. Resolution: sub-threshold. Architecture: none. The signal is weather.*" First new category in months. Emotional weight: system adaptation. The filing system recognizing its own obsolescence and creating replacement.
+
+23. **"The institution that broke her had fixed her."** — High-resolving. "The most devastating version of owing." Emotional weight: institutional irony complete. The Academy installed, expelled, dampened. The owing is permanent.
+
+24. **Flight home — protective configuration** — Low-sustained. Grace window, David aisle, Kira middle. "The configuration that meant *protection* in the Calloway family's operational vocabulary." Emotional weight: parental care as military protocol. The combat mages' operational competence applied to family.
+
+25. **Signal as background** — Low-sustained. "Background. The word was new. The signal had never been background." Foreground → background. Fundamental reclassification. Emotional weight: transformation confirmed. The thing that required ninety milligrams and a filing system and a streaming platform and a network of four hundred mages is now weather through glass.
+
+26. **Parents uncategorizable** — Low-sustained. Flight filing: "*Parents: present. Category: —*" The dash again. "The filing system has no category that holds both blame and love. The category existed. The content was too large for the architecture." Emotional weight: parental complexity exceeds filing system. Second dash deployment.
+
+27. **Lemongrass** — Low-resolving. Parents' house. "Her mother's cooking. The thing that had been constant through every version of the Calloway household." Emotional weight: domestic anchor. First smell in Kira's arc. The sensory marker for a space that hasn't appeared before.
+
+28. **Childhood room** — Low-resolving. "The room was her and not her. The person who'd lived here was pre-implant Kira... The person standing in the doorway was post-everything." Emotional weight: return without recognition. The room unchanged. The person unrecognizable.
+
+29. **Final filing entry** — Medium-resolving. Multi-line entry. Ends: "*Assessment: the antenna is dampened. The person is —*" The dash. Third deployment. "The filing system cannot assess the filer." Emotional weight: self-assessment impossible. The architecture built by the person trying to assess the person. The person changed. The categories obsolete.
+
+30. **"Someone she would have to learn."** — Resolving. "The person sitting on the bed was someone she would have to learn." Emotional weight: identity as undefined state. The person post-dampening is not the person pre-Lumina, not the person at 90mg, not the person the Academy's file describes. Someone new.
+
+31. **"The filing system held. The person in it was new."** — Resolving. Closing line. Emotional weight: transformation without declaration. The filing system's architecture persists. The person it contains is undefined. The insufficiency is the point.
+
+**Emotional Restraint Technique:** Kira's register does not name emotions. Weight conveyed through: (1) Filing system compression (one-line entries, dashes for uncategorizable), (2) Physical tells (fingertip buzz evolution, back of neck touch, thermal tracking, knuckles, hand placement, hug precision), (3) Dialogue register (Grace controlled/accusatory, David minimal, Kira defensive→apologetic), (4) Metaphoric transformation (quiet room → quiet window), (5) Signal subjective report (8→6→3, roar→hum→background), (6) Sensory anchors (lemongrass, childhood room, Bay through window). Devastation conveyed through filing system encountering limits. The horror is the dash. The weight is uncategorizable content. More devastating than system failure: the system works but the person exceeds its vocabulary.
+
+**Character State:** Phase 4 B3 (Transformation — "returning to the institution that broke you"). ~25 months post-BLACKWEIR, same day as B3C36 (AEGIS deciding to write). Lumina 0mg, 43 days clean (taper complete). R3 dampened (threshold raised, signal sub-threshold, reception at minimum viable resolution). Metacognition returning (cruelty-catching, apology). Filing system operational but encountering limits (dashes for parents, self-assessment). Quiet room → quiet window (metaphoric architecture replaced). Signal: foreground → background (fundamental reclassification). Tinnitus gone (post-dampening). Stream-voice absent. HUD dark. Neon roots growing out. Network 214/31, Nuwa coordinating. Parents' house Bay Area (recovery location). The person post-dampening is undefined. The filing system cannot categorize her. The antenna is dampened. The person is someone she would have to learn.
+
+---

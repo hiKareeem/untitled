@@ -2,9 +2,9 @@
 title: "Characters"
 type: bible-dimension
 dimension: characters
-lastUpdated: "2026-03-01"
-lastChapter: "B3 Ch 29"
-totalCharacters: 22
+lastUpdated: "2026-03-02"
+lastChapter: "B3 Ch 38"
+totalCharacters: 24
 project_name: "Untitled"
 ---
 
@@ -763,13 +763,19 @@ This bible dimension tracks **current character states**:
 - Book 2 Progression: B2 Ch 6 → Ch 16 → Ch 21 → Ch 28 → Ch 32 → Ch 40 → Ch 51. Network 47/9 → 214/31 → 400+ → 412 → 406 (passive) → 398 (attrition). Filing → dataset → language → relay coordinator → burning → antenna → burning antenna → prosthetic memory. Lumina 40mg → 60mg → 80mg (floor). Fourteen mages dark. Memory erosion: Tuesday gone. 2.1B views. Ring light off. Does not stop listening.
 - Book 3 Setup: Lumina dependency as medical crisis. Memory erosion escalating (forum posts: weekly gaps at 80mg/9 months). Personality drift. Institutional pressure atmospheric. The antenna that cannot stop, the cost still mounting.
 
-**Recent History (B3 Ch 5):**
-- Bay Area apartment + Mission pharmacy. Six months post-Broadcast. Network 214/31 stable (growth = attrition equilibrium). Three dark in six months: Lena (Accra, R3 burnout, permanent tinnitus), Marco (Buenos Aires, R2 rejection cascade, implant inert), Sari (Jakarta, voluntary withdrawal post-Mumbai).
-- Pharmacist ritual: 30-day pill holder, clicking capsules into compartments. Legitimate meds (Dr. Osei, civilian psychiatrist): antidepressant (white oblong, since age 16), antipsychotic (pale blue round, added post-Broadcast), anxiolytic (small yellow, PRN), sleep aid (PM, for REM fragmentation). Grounding replacement for Academy architecture.
-- Lumina 80mg maintenance: matte black case, inner pocket, obtained from Paz (tea shop three blocks from pharmacy). Separate transaction. Pharmacist knows legitimate meds. Paz knows Lumina. Nobody knows both.
-- **B3 Ch 5 (six months post-Broadcast):** Personality drift onset: sharper, faster, meaner on stream. Stream-voice clipped, riffing accelerated. "The material fails" — efficient, accurate, cruel. Audience reads as "growth" and "authentic." Kira does not notice (drift includes not noticing). Eighty suppresses pattern-seeking machinery that would detect drift in own behavior. Ring light impulse: 9 PM, came on without conscious decision. First instance of action bypassing choice. Stream 28K viewers, 47 minutes. Memory gaps ongoing: Tuesday (B2 Ch 51) + Thursday + Sunday. Intermittent, not predictable. Chord shapes: absent at 80mg (suppressed). Eighty took: chord shapes, cruelty-catching, meta-cognition, days. Eighty as floor: "Paz had said floors don't move. Paz had said ceilings do." Filing system: prosthetic memory. Physical: Right ear tinnitus persistent, manageable. Fingertip buzz bilateral, finer/more organized post-Broadcast. R3 upper terminus warm (residual).
-- **B3 Ch 11 (~7-8 months post-Broadcast):** Lumina escalation 80mg → 90mg. Ceiling thinning at 80mg (quiet room compressed), restored at 90mg. Framed as "dosage adjustment" not "escalation" — vocabulary of control applied to loss of control. Vial lighter than expected (memory gap signature — imprecise on occasions she doesn't remember). Cold burn longer at ninety. Stream performance: extraordinary (not good, not competent — extraordinary). Faster associations, pre-assembled riffs, cruelty-catching failure (arrested operatives reduced to punchline, microsecond recognition then ninety closes it). Proximity stream plan announced impulsively live — logistically detailed, operationally manic, unrecognized as mania. Neo-Shanghai Anchor Zone margin, encrypted mirrors, Ren for local support, three days setup. Chat split: "KIRA NO" vs "YES DO IT" — audience cannot tell growth from deterioration. Nuwa's message (testimony network): recognizes stimulant-stack pattern from Sump maintenance crews. "You can't evaluate your own cognition with cognition that's been altered." Filed in four seconds (vs. year-ago hour of deliberation). Category: external observation. Subcategory: concern — noted. Circular logic: work requires antenna, antenna requires ninety, ninety is maintenance, plan is coherent. Kindling coordination: mage network providing biological monitoring during strikes (Lagos — Idris's Accra cohort, three of seven operatives arrested). Conversation with Paz fifteen milligrams overdue. Ninety is new floor. Filing system cannot file its own acceleration. "The antenna was coming."
-- Closing: "The person standing on it was not the person who had built it. But the difference was gradual, and the gradual was the mechanism, and the mechanism's design included not recognizing the mechanism."
+**Recent History (B3 Ch 38):**
+- **Phase 4 Transformation (25 months post-BLACKWEIR, same day as B3C36):** Returns to Varma Academy Mumbai — institution that installed R3 at age 10, expelled her, now only facility that can dampen it. Data price: signal exposure readings, coherence-field residuals, blackout stream biometrics. "The antenna's final broadcast, archived by the people who built the antenna." Transaction institutional, arithmetic clean.
+- **Parents arrive (first trilogy appearance):** Grace & David Calloway, ex-combat mages, Bay Area generational aristocracy. Grace: R2 (military-grade), 11 years service, decommissioned. David: kinetic operational vocabulary, stillness as contained energy, minimal verbal. They know about Lumina (Chén disclosed). They blame Kira. Love and blame coexisting. Confrontation: "The implant you signed for when I was ten." Cruelty-catching returns (first since before 80mg): "She was being cruel. She could hear it." Metacognition rebooting. First apology: "I'm sorry. That was — I'm sorry." Grace's knuckles on bed rail. David's hand on shoulder (left side, away from R3). "We'll be here" — parental architecture holds despite anger.
+- **Dampening procedure:** Functional neural ultrasound stimulation. Minimal sedation. R3 reception threshold raised. Signal subjective report: 8 (loud, roar, full bandwidth) → 6 (blurrier, "like hearing conversation through wall") → 3 (background, "like traffic from a high window"). Voice without signal's competition: smaller, quieter, stream-voice gone. Quiet window emerges: "Not the quiet room... Not a room. A window." Metaphoric architecture replaced. No ceiling, no walls, no pharmaceutical structure. Signal as weather, ambient, sub-threshold. Filing system creates new category: *Quiet window. Signal: ambient. Architecture: none. The signal is weather.* R3 thermal: 37.0°C → 36.2°C (hardware running cooler). Tinnitus gone (post-dampening, author confirmed). "The institution that broke her had fixed her. The most devastating version of owing."
+- **Recovery at parents' house (Pacific Heights, Bay Area):** Flight home — protective configuration (Grace window, David aisle, Kira middle). Signal now background (fundamental reclassification). Childhood room, lemongrass (domestic anchor, first smell in Kira's arc). Filing system encounters limits: dashes for uncategorizable content. Parents: "Category: —" (no category holds both blame and love). Self-assessment: "The person is —" (filing system cannot assess filer). Final entry: "The antenna is dampened. The person is someone she would have to learn." Closing: "The filing system held. The person in it was new."
+- **Current state:** Lumina 0mg, 43 days clean (taper complete). R3 dampened (threshold raised, signal sub-threshold, minimum viable resolution). Metacognition returning (cruelty-catching, apology). Filing system operational but encountering limits. Quiet room → quiet window. Signal: foreground → background. Tinnitus gone. Stream-voice absent. HUD dark. Neon roots growing out. Network 214/31, Nuwa coordinating. Fingertip buzz: directed → ambient. Person post-dampening undefined. Identity as open question.
+
+**Recent History (B3 Ch 5-26):**
+- **B3 Ch 5 (six months post-Broadcast):** Bay Area apartment. Lumina 80mg maintenance. Personality drift onset: sharper, faster, meaner on stream. "The material fails" — cruelty unnoticed. Ring light impulse without decision. Memory gaps ongoing. Chord shapes absent. Pharmacist ritual (30-day holder, Mission pharmacy). Filing system as prosthetic memory.
+- **B3 Ch 11 (~7-8 months post-Broadcast):** Lumina 80mg → 90mg escalation. Proximity stream plan announced impulsively. Nuwa's warning filed in four seconds. Cruelty-catching failure. Metacognition suppressed. "The antenna was coming."
+- **B3 Ch 20 (~19 months post-BLACKWEIR):** Blackout stream, Neo-Shanghai Anchor Zone margin. 4.2M concurrent viewers. Signal spike, 30 seconds aggregate fragments channeled through R3, 11 minutes standing/staring/silent. 3-hour memory gap. Hospitalized Chén Academy. HUD powered down (first time since age 18). Most analyzed media since second Broadcast.
+- **B3 Ch 26 (~22 months post-BLACKWEIR):** Hospitalized Chén Academy, 3 weeks post-blackout. Lumina taper 90→45mg (clinical management). Chén found Lumina in bloodwork — two-system secrecy broken. Filing system degrading (architecture holds, content thins). Neurologist recommends dampening: R3 won't recalibrate, memory erosion accelerating (11 gaps in 21 days). Archives requested and watched. Quiet room "rebuilt but smaller" at 45mg.
+- **B3 Ch 35 (~23 months post-BLACKWEIR):** Nuwa visits hospital. Lumina ~15mg (taper continuing). Speed gone, eyes still, pharmaceutical electricity absent. Mumbai transfer decision forming. "Next week. The transfer paperwork is processing." Nuwa offers network coordination while Kira in Mumbai. "I'm offering to keep the corridors clear while you're in the other room."
 
 **Recent History (B2 Ch 51):**
 - Bay Area apartment. One week post-Broadcast. Ring light off since the eleven seconds. Has not gone live.
@@ -1325,11 +1331,67 @@ _Updated by: Chapter-write workflow (full mode)_
 
 ---
 
-_Last updated: 2026-02-27 (B3 Ch 10 — "Proof of Concept"; Phan, Lam Duc Minh, and Novak introduced as Erasure List researchers; compound effect discovered)_
+_Last updated: 2026-03-02 (B3 Ch 38 — "The Academy"; Kira dampened at Varma Academy Mumbai; Grace & David Calloway introduced)_
 _Updated by: Chapter-write workflow (full mode)_
 
+---
+
+### Grace Calloway
+
+**Role:** Supporting — Kira's mother (first trilogy appearance)
+**Faction:** Ex-combat mage, Bay Area generational mage aristocracy, advocates/investors
+**Primary Location:** Pacific Heights, San Francisco (Bay Area)
+**First Appearance:** B3 Ch 38 ("The Academy")
+
+**Description:** Ex-combat mage (R2 military-grade implant, 11 years service, decommissioned). Navigates institutional architecture professionally. Advocates for mage rights while profiting from proximity to the system. Love and complicity coexisting.
+
+**Background:** Former combat mage, R2 implant for 11 years, decommissioned (dampening during military retirement). Turned to mage advocacy and investment post-service. Bay Area generational mage aristocracy. Signed for Kira's R3 installation at age 10. Younger daughter Hana also implanted despite Kira's attempts to dissuade them.
+
+**Role in Ch 38:** Flies to Mumbai with David for Kira's dampening procedure. Confronts Kira about Lumina use (discovered via Chén's medical file disclosure). Blame and care coexisting. "You know that you were taking an unregulated compound... and you *know*." Hug calibrated to spinal integration points (love as precision). "We'll be here" — parental architecture holds despite anger. Takes Kira to Pacific Heights house for recovery.
+
+**Speech Register:** Controlled, educated, fluent. Contractions natural. "Managing a situation" register — present, directed, never loud. Carries confrontation. Maternal but not soft. Combat mage's operational competence applied to parenting.
+
+**Physical Tells:** Knuckles on bed rail (emotional compression). Hands that channeled kinetic force through R2 for 11 years now hold institutional furniture. Reads medical files thoroughly. Scans rooms (combat assessment converted to parental inventory).
+
+**Institutional Function:** Embodiment of systemic complicity. Signed for Kira's installation. Profits from mage advocacy. Loves daughter. Blames her for Lumina. All true. The contradiction is the system.
+
+**Relationship to Kira:** Mother. Complex. Love expressed through precision (hug, protective flight configuration). Blame for Lumina use. "We could have helped" / "You couldn't have." Understands implant architecture from inside (ex-R2 carrier). Decommissioning parallel: her R2 dampened, Kira's R3 dampened, same institutional capability.
+
+**Planned Appearances:**
+- B3 Ch 38: Mumbai/Bay Area (debut, dampening procedure, recovery)
+- Potential B3 Ch 44+: Parents' house as recovery location
+
+---
+
+### David Calloway
+
+**Role:** Supporting — Kira's father (first trilogy appearance)
+**Faction:** Ex-combat mage, Bay Area generational mage aristocracy
+**Primary Location:** Pacific Heights, San Francisco (Bay Area)
+**First Appearance:** B3 Ch 38 ("The Academy")
+
+**Description:** Ex-combat mage. Kinetic operational vocabulary. Stillness as contained energy (not calm — the same force, held). Minimal verbal. Physical communication. "The combat mage whose words were never the weapon."
+
+**Background:** Former combat mage, kinetic specialization. Retired from active service. Bay Area generational mage aristocracy. Signed for Kira's R3 installation at age 10. Memory: found bruises from Academy training exercise when Kira was 12, fought instructor (reassigned) but not institution. "The fighting was the trap."
+
+**Role in Ch 38:** Flies to Mumbai with Grace for Kira's dampening procedure. Minimal dialogue (one word: "Kira."). Physical presence as communication. Hand on shoulder (left side, away from R3 housing, placement deliberate). Protective configuration on flight home (aisle seat, watching corridor). Stillness throughout.
+
+**Speech Register:** Nearly silent. One word: "Kira." — same word, same register as when she was ten post-installation surgery. The syllables carry weight. Physical communication preferred over verbal.
+
+**Physical Tells:** Stillness as baseline (contained energy, not calm). Hand placement deliberate (knows R3 integration points from memorizing operational parameters during active service). Protective configuration (aisle seat, corridor watching). Assessment through looking (confirms alive, present, same person).
+
+**Institutional Function:** Embodiment of systemic complicity. Fought instructor, not institution. Signed for installation. Witnesses dampening. The system processes them all. "The fighting was the trap."
+
+**Relationship to Kira:** Father. Minimal verbal, maximum physical presence. "I am here and I am angry and the anger does not change the here." Protective. Memorized R3 integration points. Recognizes daughter across transformation (age 10 installation → age 20 dampening, same name, same weight).
+
+**Planned Appearances:**
+- B3 Ch 38: Mumbai/Bay Area (debut, dampening procedure, recovery)
+- Potential B3 Ch 44+: Parents' house as recovery location
+
+---
+
 | Nuwa Lin | Arc + Recent History | B3 Ch 24 last appearance | **B3C35:** Visits Kira at Chén Academy (4-5 weeks post-blackout stream). Transit paid by documentation group (40 creds for topology data — payment for work, not tours). Network coordination: answering 17 queries in 3 hours, routing table distributed, interim hub function. Kira observed: Lumina 90→45→15mg, speed gone, eyes still, voice slower, neon roots growing out. Mumbai transfer decision forming. "I'm offering to keep the corridors clear while you're in the other room." Water bottle (same from B3C18). Mei memory: first B3 appearance — institutional bed parallel, "distance between what was provided and what was needed." Message exchange: Kira "You were here" / Nuwa "Water" (one word, logistics as proof). Inventory expanded: now includes hospital room, network, woman going to Mumbai. Arc: logistics → presence → sustained care. Next: Ch 43 (network coordination while Kira dampened, "count is final"), Ch 50 ("what remains"). | Ch 35 (B3) |
-| Kira Calloway | State update (observed through Nuwa POV) | B3 Ch 26 last appearance | **B3C35:** Hospitalized at Chén Academy, 5 weeks post-blackout stream. Lumina taper: 90→45→15mg (tapering to zero over next week). Physical state: speed gone, eyes no longer scanning too fast (natural blue, still), posture collapsed (spine curved, 5'4" without pharmaceutical electricity), neon roots growing out, left eye dark (HUD off), voice slower (sentences sometimes unfinished). Medical recitation: filing system applied to clinical data. Mumbai transfer: paperwork processing, Academy has calibration data from age 10 installation, dampening pharmacological (not surgical), risk of paralysis if calibration doesn't match. "You were here" message to Nuwa (filing system minimum format). Almost-smile: slower, tired (person without filter). Next: Ch 38 (Mumbai Academy — dampening procedure). | Ch 35 (B3) |
+| Kira Calloway | Full arc update | B3 Ch 26 last appearance | **B3C38:** Returns to Varma Academy Mumbai for dampening. Data price: signal exposure, coherence residuals, blackout biometrics. Parents arrive (Grace & David, first appearance). Confrontation about Lumina. Cruelty-catching returns, first apology since before 80mg. Dampening procedure: R3 threshold raised, signal 8→6→3 (background). Quiet window replaces quiet room. Tinnitus gone. R3 thermal 37.0→36.2°C. Recovery at parents' Pacific Heights house. Filing system encounters limits: dashes for uncategorizable (parents, self-assessment). "The antenna is dampened. The person is someone she would have to learn." Current: Lumina 0mg (43 days clean), R3 dampened, metacognition returning, identity undefined. Next: Ch 44 ("Just being Kira" — streaming again). | Ch 38 (B3) |
 | Fen | Supporting character update | B2 Ch 43 last appearance | **B3C35:** Brief appearance. Door protocol with Nuwa (destination/return time: "Eighteen hundred. Chén Academy."). Unspoken calculation: transit cost vs media refusal cost (800 creds = 40 round trips). Does not challenge Nuwa's choice because the choice was correct. Protocol of women who learned the system doesn't track them. | Ch 35 (B3) |
 
 ---
