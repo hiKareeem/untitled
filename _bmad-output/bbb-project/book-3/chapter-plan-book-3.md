@@ -901,7 +901,7 @@ Bakker more than Erikson or GRRM. The horror of intelligence. Being correct does
 
 ---
 
-#### Ch 49 — Aurielle: "The Continuation Is—"
+#### Ch 49 — Aurielle: 
 - **Phase:** 5 | **Thread:** A — NitroCore/Grid
 - **Location:** Neo-Shanghai Spires
 - **Arc beat:** New equilibrium — she IS the machine, there was never a boundary

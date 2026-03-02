@@ -355,6 +355,55 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 **Pacing Concern:** Risk of quiet register feeling inert. Mitigated by: (1) stimulant-stack recognition provides observational tension without dramatization; (2) fourteen-minute intervention shows Nuwa's agency (she doesn't wait for forty-minute mark); (3) "three days" seeds next proximity stream; (4) inventory expansion (personal → care-for-another) provides emotional arc without naming emotion; (5) structural irony (Nuwa sees what Kira cannot) carries weight.
 
+---
+
+### Chapter 44 — "Just Being Kira" (Kira Calloway)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat equilibrium (streaming) → brief domestic warmth (Grace scene) → game completion → resolving (period ending)
+**Pacing:** Slow, contemplative. Domestic texture. Weight in the period, not in dramatic escalation.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Stream opening (chat, viewer count, stream-voice) | ~800 | Low-sustained | Human-paced chat, filing entry, HUD activation, lemongrass |
+| Memory inventory | ~400 | Low-sustained | Tuesday/Thursday/Friday status, neurologist, consolidation behavior |
+| Pharmacist ritual | ~400 | Low-sustained | 30-day holder retrieved, click reclaimed, non-Lumina meds |
+| Network question | ~400 | Low-medium | "Someone better is," hub transferred, Nuwa not named |
+| Grace scene | ~400 | Medium (warmth) | Food offered, lemongrass exchange, filing entry with dash |
+| Game completion | ~300 | Low-resolving | Hidden rooms = same room, laugh, stream close |
+| Closing reflection | ~1,100 | Resolving (contemplative) | Quiet window, R3 baseline, filing system final entry, period ending |
+
+**Rhythm Notes:**
+- TEXTURE mode = quiet register throughout. Deliberately low-intensity. Pacing ballast per style profile. The quietness is the point.
+- Paratactic dominant: "The chat was moving at human pace." / "Quiet window: holding." / "The dash again. She left it." / "She laughed." / "She ended the stream."
+- Long-long-long-SHORT pattern deployed: "Quiet window: holding." / "The dash again. She left it." / "She laughed again." / "The answer was a period."
+- Zero NBA deployment (deliberate — TEXTURE mode, equilibrium not revelation, Kira knows what things are)
+- Closing rhythm: filing system final entry → period thesis → *The person is Kira.* Three-beat ending, each beat shorter than the last
+- Bimodal paragraphs: dense blocks (stream-voice description, memory inventory, network reflection, closing) + single-line punches (filing entries, chat messages, "Quiet window: holding")
+- Dialogue ~18% (stream dialogue + Grace exchange). Higher than typical Kira due to stream being dialogue. Stream-voice: biological baseline, slower, with gaps. Grace dialogue: measured, domestic.
+- Chat messages function as natural single-line rhythm breaks without feeling forced
+- Period ending: structural thesis delivered three times for maximum weight
+
+**Pacing Concern:** Risk of TEXTURE mode feeling static or anticlimactic for Kira's final chapter. Mitigated by: (1) the quietness IS the point — equilibrium as earned rest, not narrative failure; (2) filing system evolution (dash → period) provides structural arc; (3) Grace scene provides warmth without melodrama; (4) game metaphor (hidden rooms = same room) works in background; (5) period ending earns weight through accumulation, not declaration; (6) domestic detail (lemongrass, fog, house sounds) grounds the equilibrium.
+
+**Structural Note:** Kira's final chapter. Arc completion. Period ending — not a dash. The person who chose herself, doing the thing she chose. Chapter rhythm enacts this: quiet, contemplative, domestic. No crisis, no revelation, no dramatic escalation. The stream is mundane (puzzle game). The audience is small (42). The voice is slow (biological baseline). The memory has gaps (Tuesday permanent). The filing system is sparse (but functional). The quiet window holds. The person is Kira. Period.
+
+**Comparison to B3 C38:**
+- B3 C38: Dampening procedure, parents' house arrival, filing system dashes, *the person is —*
+- B3 C44: Streaming resumed, HUD reactivated, filing system period, *The person is Kira.*
+- Together they bracket Kira's transformation: choice made (C38) → choice lived (C44). The dash resolved into a period.
+
+**Epigraph Function:** Migratory biology (site fidelity, neural template for "adequate"). Oblique. Resolves on reread: Kira returned to parents' house not because optimal but because recognized. "The site is not chosen. It is recognized." Complicates agency narrative — did she choose or recognize? The word "adequate" echoes in filing entry but Kira doesn't reference study in-text. Epigraph stands alone. Rewards rereading without being on-the-nose.
+
+**Dialogue Percentage:** ~18% (stream dialogue + Grace exchange)
+
+**Stream-voice register:** Biological baseline established. Differentiated from pharmaceutical version (Lumina 60-90mg). Slower, with gaps, pauses where Lumina voice would have filled. The 42 who stayed learned the rhythm. They wait. The waiting is the acceptance.
+
+**Filing system evolution:** C5 (full, competent) → C11 (speed, no metacognition) → C20 (absent 3 hours) → C26 (architecture holds, content thins) → C38 (one-line, dashes, *the person is —*) → **C44 (sparse but functional, affirmative assessments, *The person is Kira.*)** The dash resolved. The period earned.
+
+**Seeds:** None. This is Kira's final chapter. Period ending. The continuation is the mundane life of someone who survived.
+
 **Structural Note:** B3C18 is Nuwa's second Phase 2 chapter (The Attempts — "Correct and Insufficient"). Eight-nine months post-Broadcast. First in-person meeting with Kira after seven months of network-mediated exchange. Nuwa applies Sump body-knowledge (stimulant-stack pattern recognition) to protect someone she's never met. The logistics coordinator role deepens from families (B2 Ch 29, B3 Ch 8) to individual care. The watching establishes protocol for Ch 20 (blackout stream emergency) and Ch 35 (hospital). The care is correct (masonry attenuation, forty-minute window, line of sight). The care is insufficient (cannot stop the Lumina, cannot stop the proximity stream, cannot stop "three days" from becoming "closer"). The curve continues. The watching continues. The work is not done.
 
 **Comparison to B3 Ch 8 and B2 Ch 53:**
