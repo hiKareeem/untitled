@@ -96,6 +96,56 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 ---
 
+### Chapter 37 — "The Pilgrimage" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Sustained-building (transit) → peak (Cathedral/dephasing) → sustained-high (reckoning) → resolving (confession begins)
+**Pacing:** Five-section journey structure. European See departure ~600 words (12%). Transit ~900 words (18%). Cathedral arrival/Imani first conversation ~1,400 words (27%). Sitting in chair/reckoning ~1,600 words (31%). Return/confession ~600 words (12%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| European See departure | ~600 | Low-medium (preparation) | Institutional logistics, vestments decision, correspondence packed, desk empty |
+| Transit (22 hours) | ~900 | Medium (building) | Hum progression (filtered → dense → unmediated), Proposition context, continental boundary |
+| Neo-Shanghai/Cathedral arrival | ~700 | Medium-high (arrival) | Sump inhabited, Cathedral entrance, four congregants, empty seat with flowers |
+| Imani first conversation | ~700 | High (information) | Nephthys read paper, identified gap, was not angry, practice continues |
+| Sitting in chair | ~800 | Peak (phenomenological) | Dephasing architecture, raw signal, threads distinguishable, depth opens |
+| Theological reckoning | ~800 | Sustained-high (philosophical) | Church blessed infrastructure, forty years complicity, understanding vs presence |
+| Imani second conversation | ~300 | High (directive) | "She needed you to say it to the record" |
+| Return transit | ~200 | Medium (processing) | Twenty-two hours, Imani's words resolving |
+| European See/confession | ~600 | Resolving (transformation) | Correspondence returns, centers page, institutional hand, confession begins, ink returning |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern dominant — "Neo-Shanghai was louder." / "Four people sat in the nave." / "He sat in the chair." / "The three years had been heavier." / "He did not write in the margin." / "I know."
+- TEXTURE mode with Bakker philosophical density = highest intellectual weight of any Malachi chapter. Paragraph density high in Cathedral meditation section.
+- Negation-before-assertion: 2 deployments (max per chapter). Both earned — prophetic vs. non-prophetic hearing, understanding vs. presence.
+- Bimodal paragraphs: dense 4-8 line blocks (theological meditation, hum progression, institutional complicity) + single-line punches (~25% 1-line)
+- Dialogue ~10-15% (first Malachi dialogue since B2). Imani's voice carries pivotal information. Terse, functional.
+- Hum as acoustic architecture: three-environment progression (See filtered → transit dense → Cathedral dephased → See filtered) structures chapter's phenomenological argument
+- Cathedral meditation section (~800 words) = chapter's philosophical core. Longest sustained theological argument in Malachi arc. Understanding/presence distinction, institutional complicity thesis.
+- Closing polysyndetic accumulation (~100 words, stacked "and" clauses) builds to final word "returning" — not closing but opening
+
+**Pacing Concern:** Risk of Cathedral meditation feeling static (sitting in chair for ~1,600 words). Mitigated by: (1) hum progression as phenomenological event, not description; (2) understanding/presence distinction as genuine philosophical argument; (3) Imani conversations bracketing the sitting; (4) reckoning structured as compounding recognition, not single realization.
+
+**Structural Note:** B3C37 executes pilgrimage planned in B3C28. Post-Proposition (3 weeks). Deliberative ended, confessant begins. First time entering Cathedral. First time hearing unfiltered composite. First Malachi dialogue since B2. Ink reversal (gone → returning). Chapter rhythm enacts transformation: institutional man entering counter-institutional space, filtered knowledge encountering unfiltered presence, deliberation ending in confession. The pilgrimage is phenomenological, not narrative. The reckoning is structural, not moral.
+
+**Comparison to B3 C28:**
+- B3 C28: "The Empty Seat" — learns of death via Black Babel, never visited Cathedral, plans pilgrimage, ink on thumb GONE, "Not a pilgrimage to a prophet. A pilgrimage to an absence."
+- B3 C37: "The Pilgrimage" — executes pilgrimage, enters Cathedral, sits in chair, hears dephased signal, confession begins, ink on thumb RETURNING
+- Together they bracket Malachi's transformation: deliberative → confessant. B3 C28 = planning, recognition of permanent absence. B3 C37 = execution, presence in absence, confession as action.
+
+**Epigraph Function:** Grid decommissioning manual (residual charge in network after facility offline). Oblique. Resolves on reread as Nephthys (facility) dead, theology (charge) persists in Cathedral (network), congregation draws from stored reserves. Secondary resonance: nitro grid itself is blessed infrastructure whose decommissioning would end suffering. Cross-POV domain (Aurielle's world) makes resonance more rewarding.
+
+**Dialogue Percentage:** ~10-15% (Imani conversations + "I know")
+
+**Imani Voice:** Uses contractions throughout ("You're here" / "She wasn't angry" / "I don't know" / "She didn't need"). Consistent with B3 C27. Practical, clinical, directness calibrated by proximity to death.
+
+**Malachi Voice:** Zero contractions in narration and dialogue ("I did not expect you" / "I did not announce myself" / "I am here for the seat" / "I know"). Theological register maintained.
+
+**Seeds:** Ch 45 (confession complete), Ch 51 (study endpoint, "the continuation is—")
+
+---
+
 ### Chapter 25 — "The Model Works" (Sofia Reyes)
 
 **Mode:** PRESSURE

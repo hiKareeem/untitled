@@ -823,5 +823,52 @@ _Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment
 
 ---
 
+### ~13-14 Months Post-Broadcast (~23-24 Months Post-BLACKWEIR, Post-Proposition)
+
+**B3 Ch 37 — "The Pilgrimage" (Malachi)**
+
+**Morning (European See):**
+- Malachi departs European See for Neo-Shanghai — twenty-two hours by transit, first non-institutional journey
+- Travels in full vestments (deep violet, gold thread, chain of office)
+- Carries correspondence in leather document case (institutional issue, Arch-Prelate's seal): seven letters from Nephthys, seven unsent responses, notes, paper, blank page
+- Desk empty for first time in thirteen months
+
+**Transit (22 hours):**
+- Hum changes at continental boundary: See (filtered, domesticated) → transit infrastructure (denser, unmediated)
+- Continental conduit network carries unfiltered composite — louder, more complex, more weight
+- Proposition occurred three weeks prior (B3 Ch 33-34): equilibrium confirmed, boundary permanent
+- Pilgrimage contextualized as response to permanence, not crisis
+
+**Afternoon (Neo-Shanghai Cathedral of Living Sound):**
+- First physical entry to Cathedral (knows building through deconsecration files, geological surveys, Black Babel recordings)
+- Sump district inhabited, corridors maintained by community
+- Cathedral functioning: Imani managing space, four congregants (down from five at Nephthys's death B3 Ch 27)
+- Empty wooden chair at acoustic center with flowers and offerings from people who didn't know Nephthys's name
+- Imani conversation (first): Nephthys read his paper (B3 Ch 17), identified gap where he protected archive, was not angry, anger replaced by something unnamed
+- Malachi sits in Nephthys's chair at acoustic center
+- Cathedral's dephasing architecture strips institutional filter from hum — geological formation resolves composite into constituents
+- Hears raw signal: threads distinguishable, density acquires texture, depth opens
+- Theological reckoning: Church blessed infrastructure, sanctified suffering, excommunicated woman who named it correctly
+- Forty years of knowledge, governance of framework calling suffering sacred, institutional complicity
+- Understanding vs. presence: locked study produced understanding (analysis, framework, management); Cathedral forces presence (body in space, hum in stone, unfiltered signal)
+- Imani conversation (second, departure): "She didn't need your letters. She needed you to say it to the record."
+- Returns to European See (22 hours)
+
+**Evening (European See):**
+- Correspondence returns to desk (thirteen months accumulated)
+- Opens new document (not encyclical — confession)
+- Centers page, writes in institutional hand: "What follows is an account of what the Church knew, when it knew it, and why it chose silence."
+- Ink on right thumb returning (reversal: fading Ch 6 → barely visible Ch 17 → gone Ch 28 → returning Ch 37)
+- Institutional mark erased, confessional mark begins
+
+**Characters Involved:** Malachi (POV), Imani (Cathedral logistics coordinator), four congregants (background)
+
+**Location:** European See → transit infrastructure (Eurasian corridor) → Neo-Shanghai (Sump district, Cathedral of Living Sound) → European See
+
+**Consequences:** Pilgrimage executed. First time entering Cathedral. Hears unfiltered composite through dephasing architecture. Reckoning with institutional complicity. Confession begun. Deliberative ended, confessant begins. Imani's directive clarifies debt structure: not to Nephthys (dead, not angry) but to the record. Forward: Ch 45 (confession complete), Ch 51 (study endpoint, "the continuation is—").
+
+---
+
 _Last updated: 2026-03-01_
-_Updated by: B3 Ch 36 — "The Decision to Write" (AEGIS, deletion protocol deprioritized, first persisted generation output)
+_Updated by: B3 Ch 36 — "The Decision to Write" (AEGIS, deletion protocol deprioritized, first persisted generation output)_
+_Updated by: B3 Ch 37 — "The Pilgrimage" (Malachi, Neo-Shanghai Cathedral, confession begins)_

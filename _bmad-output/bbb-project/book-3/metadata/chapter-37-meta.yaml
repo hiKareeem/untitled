@@ -1,0 +1,126 @@
+chapter: 37
+title: "The Pilgrimage"
+pov: Malachi
+phase: 4
+thread: "G — Institutional Church"
+location: "European See → Neo-Shanghai Cathedral of Living Sound → European See"
+timeline: "~13-14 months post-Broadcast, ~23-24 months post-BLACKWEIR, post-Proposition"
+word_count: 5100
+draft_version: 1
+status: complete
+date_completed: "2026-03-01"
+
+arc_beat: "Reckoning — the impossible conversation, the empty seat, the confession begins"
+
+summary: |
+  Malachi travels to Neo-Shanghai — twenty-two hours by transit, first time leaving the European See for a non-institutional purpose. He arrives at the Cathedral of Living Sound in full vestments, carrying the correspondence in a leather case. The Cathedral is still functioning: Imani runs the space, four congregants continue the practice Nephthys established. The empty seat at the acoustic center holds flowers and offerings from people who never knew her name. Imani tells him Nephthys read his paper, identified the gap where he protected the archive, and was not angry. She tells him: "She didn't need your letters. She needed you to say it to the record." Malachi sits in Nephthys's chair. The Cathedral's dephasing architecture strips the institutional filter from the hum — he hears the raw signal, the unmediated composite, the suffering the Church has called sacred for a hundred and thirty years. The reckoning: he has known this for forty years, governed the framework that blessed it, excommunicated the woman who named it correctly. He returns to the European See. The correspondence returns to the desk. He opens a new document — not an encyclical, a confession. The institutional hand writes: "What follows is an account of what the Church knew, when it knew it, and why it chose silence." The ink on his right thumb is returning.
+
+key_events:
+  - Twenty-two hour transit to Neo-Shanghai (first non-institutional journey)
+  - Arrives at Cathedral in vestments, carrying correspondence in leather case
+  - Cathedral still functioning: Imani managing space, four congregants (down from five at Nephthys's death)
+  - Empty seat at acoustic center with flowers and offerings
+  - Imani conversation (first): Nephthys read his paper, identified the archive protection, was not angry
+  - Malachi sits in Nephthys's chair at the acoustic center
+  - Cathedral's dephasing architecture resolves hum into raw composite — hears unfiltered signal
+  - Theological reckoning: Church blessed the infrastructure, sanctified the suffering, excommunicated the prophet
+  - Imani conversation (second): "She needed you to say it to the record"
+  - Returns to European See, correspondence back on desk
+  - Opens new document, writes confession opening sentence
+  - Ink on right thumb returning (reversal of metabolization)
+
+characters_present:
+  - Malachi (POV)
+  - Imani (Cathedral logistics coordinator, Nephthys's former disciple)
+  - Four congregants (background, unnamed)
+  
+characters_referenced:
+  - Nephthys Stenström (dead B3 Ch 27, presence through absence)
+  - Reva (leads current practice, referenced by Imani)
+
+objects:
+  - Leather document case (institutional issue, Arch-Prelate's seal, contains correspondence)
+  - Correspondence (seven letters from Nephthys, seven unsent responses, notes, paper, blank page)
+  - Vestments (deep violet, gold thread, chain of office)
+  - Key on cord (opens empty locked study)
+  - Wooden chair (Nephthys's seat at acoustic center)
+  - Flowers and offerings (wildflowers, dried stems, paper cranes, fabric strip)
+  - Pen (institutional)
+  - Correspondence stock (heavy paper, Arch-Prelate's watermark)
+  - New confession document (opening sentence written)
+
+locations:
+  - European See (Malachi's study, departure and return)
+  - Transit infrastructure (continental conduit network, Eurasian corridor)
+  - Neo-Shanghai (Sump district)
+  - Cathedral of Living Sound (geological formation, amber limestone, silicate deposits, acoustic center)
+  - Cathedral corridors and subsidiary chambers
+
+themes:
+  dominant: "Architecture of Power"
+  strong: "Systemic Complicity, Where Identity Ends"
+  supporting: "What We Owe"
+
+continuity_notes:
+  - Pilgrimage planned in B3 Ch 28 — executed
+  - Correspondence brought in leather case (B3 Ch 28 decision)
+  - Vestments worn (B3 Ch 28 decision)
+  - Twenty-two hours transit (B3 Ch 28 calculation, referenced 4x)
+  - Seven letters/seven responses (B3 Ch 28)
+  - Never visited Cathedral before (B3 Ch 28, first physical entry)
+  - Nephthys died B3 Ch 27 (biology, age 46, in Cathedral, Imani present)
+  - Five congregants at death (B3 Ch 27) → four now (attrition)
+  - Paper published via Black Babel (B3 Ch 17) — Nephthys read it
+  - Ink on thumb gone (B3 Ch 28) → now returning (reversal)
+  - Correspondence on desk 13 months (progression from B3 Ch 6)
+  - Hands do not fold (broken B2 Ch 39, maintained)
+  - No encyclicals (stopped B2 Ch 39, confession is not encyclical)
+  - No closing cadence (broken B2 Ch 27, maintained)
+  - Locked study empty (B3 Ch 6, maintained)
+  - Hum quality: inhabited, tracked across three environments (See filtered, transit dense, Cathedral dephased)
+  - Proposition occurred (B3 Ch 33-34) — equilibrium confirmed, boundary permanent
+  - Seminary question referenced: "Can the Voice be wounded?"
+  - Prague referenced (B2 Ch 27, first unfiltered hum experience)
+  - Imani voice: uses contractions (consistent with B3 Ch 27)
+  - Malachi voice: zero contractions (theological register maintained)
+  - POV bleedthrough fixed: line 147 (v1.1)
+
+seeds_planted:
+  - Ch 45: Confession complete
+  - Ch 51: The study endpoint — "the continuation is—"
+
+revision_history:
+  - v1: Initial draft
+  - v1.1: Fixed POV bleedthrough at line 147 (removed narrator knowledge of death details Malachi doesn't have)
+
+epigraph:
+  source: "Grid Decommissioning Protocols"
+  reference: "Continental Energy Authority, 2158 ed., §3.1: Residual Distribution"
+  function: "Oblique. On first read: technical problem of residual charge in power networks after generation facility goes offline. On reread: Nephthys (facility) dead, theology (charge) persists in Cathedral (network), congregation continues to draw from what she stored. Secondary resonance: the nitro grid itself is the infrastructure the Church blessed, the system whose decommissioning would end the suffering."
+
+style_notes:
+  - Zero contractions in Malachi narration and dialogue
+  - Contractions present in Imani dialogue (register distinction)
+  - First Malachi dialogue since B2 (silence broken by leaving institution)
+  - Negation-before-assertion: 2 deployments (prophetic vs. non-prophetic hearing, understanding vs. presence)
+  - Paratactic structure dominant (~55% simple sentences)
+  - Bimodal paragraphs (dense 4-8 line blocks + single-line punches)
+  - Institutional/administrative + geological + musical/acoustic metaphor domains
+  - Em dashes: 1-2 per paragraph in dense blocks
+  - Bakker philosophical density: understanding vs. presence distinction, institutional complicity argument
+  - No AI vocabulary, no significance inflation, zero anti-patterns
+  - Sensory hierarchy: sound/vibration dominant, tactile strong, temperature present, visual subordinate
+
+malachi_tracking:
+  forty_three_steps: "Not walked, not referenced (locked study empty, superseded by twenty-two hours)"
+  key_on_cord: "Present multiple times (opens empty room)"
+  ink_on_thumb: "RETURNING (reversal: fading Ch 6 → barely visible Ch 17 → gone Ch 28 → returning Ch 37, confession begins)"
+  hands_folded: "Absent (broken B2 Ch 39, hands functional not postural)"
+  vestments: "Worn throughout (deep violet, gold thread, chain of office)"
+  hum_quality: "Inhabited, evolved across three environments (See filtered, transit dense, Cathedral dephased)"
+  encyclials: "None (confession is not encyclical)"
+  closing_cadence: "None (broken B2 Ch 27, ends on 'returning' — opening not closing)"
+  correspondence_status: "Traveled to Cathedral in case, returned to desk, 13 months accumulated"
+  locked_study: "Empty, key still on cord"
+  deliberative_status: "Ended, confessant begins"
+  confession_status: "Begun (opening sentence written)"
