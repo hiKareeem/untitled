@@ -906,6 +906,23 @@ _Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment
 
 ---
 
-_Last updated: 2026-03-01_
+### ~16 Months Post-Broadcast (~30 Months Post-BLACKWEIR) — B3 Ch 46
+
+**Event:** The Practice — Others at Perimeters
+
+**Period:** Weeks after field log publication (B3 Ch 41). Ongoing daily observation.
+
+**Details:** Nikolai remains at Vladivostok breach perimeter. Others have arrived independently over four weeks: woman with folding chair and datapad (daily since week 2), São Paulo researcher with spectral analysis equipment (four days, cited throughput-correlation data), Mumbai civilian (two hours, did not return), former Stalker with paper notebook (daily since week 4, age ~30, military boots), three others (brief, one day or less). Seven observers total at this perimeter. Archive access logs show downloads from Lagos, Stockholm, Kyoto, Neo-Shanghai, Mumbai, São Paulo. People arriving at perimeters globally. Not organized. Not coordinated. They read the field log and came. The practice: stand where the thing is, observe honestly, write it down. Field log entry 112 documents other observers for first time. Containment team sergeant extends accommodation — civilian exclusion zone observed as suggestion, observers stay outside tape, do not interfere with operations. Former Stalker at thirty meters — they do not speak, the distance is the practice. Hum 5.0/5.2 (gap 0.2, baseline drifting down). Tremor present, fading. The practice is enough.
+
+**Characters Involved:** Nikolai Volkov (POV), woman with folding chair (observer), São Paulo researcher (observer), Mumbai civilian (observer), former Stalker (observer, ~30 years old), three other observers (background), containment team sergeant (background), aggregate (background)
+
+**Location:** Vladivostok breach perimeter, Russian Far East. Other perimeters referenced globally (Lagos, Stockholm, Kyoto, Neo-Shanghai, Mumbai, São Paulo).
+
+**Consequences:** The field log found its audience — not the institution (military silence holds) but the people at perimeters. The practice established as shared discipline. Not a movement. Not doctrine. A practice. The soldier's discipline applied to something that resists every other form of engagement. Field log's subject shifted from aggregate to practice — observer now observing observers. Forward: Ch 52 (new order, "It is enough." — declarative).
+
+---
+
+_Last updated: 2026-03-02_
 _Updated by: B3 Ch 36 — "The Decision to Write" (AEGIS, deletion protocol deprioritized, first persisted generation output)_
 _Updated by: B3 Ch 37 — "The Pilgrimage" (Malachi, Neo-Shanghai Cathedral, confession begins)_
+_Updated by: B3 Ch 46 — "The Practice" (Nikolai, others at perimeters, practice as shared discipline)_

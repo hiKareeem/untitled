@@ -2038,3 +2038,116 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Line 110: "Pacific Rim coordination office" → "Pacific Corporate Coalition coordination office" (worldbuilding consistency)
 
 ---
+
+### Chapter 45 — "The Confession" (Malachi)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (document review) → brief rise (transmission sequence) → flat resolution (nothing changes) → closing accumulation
+**Pacing:** Front-loaded. Document structure review ~1600 words (38%). Transmission/aftermath ~1400 words (33%). Empty desk/institutional continuation ~1200 words (29%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Confession complete (opening) | ~200 | Low-sustained | Institutional precision, 47 pages, 3 weeks |
+| Document structure review | ~1,600 | Low-sustained | Archival register, four sections catalogued |
+| Transmission sequence | ~600 | Medium (procedural) | Three recipients, routing protocols |
+| Empty desk | ~400 | Low (observational) | Physical absence registered as data |
+| Luminarch silence | ~300 | Low-sustained | Institutional silence as management |
+| Black Babel publication | ~500 | Medium (accumulation) | Citation tracking, public response catalog |
+| Nothing changes | ~400 | Resolving | Thesis delivered through enumeration |
+| Closing meditation | ~200 | Accumulation | Polysyndetic cascade (80+ words) → "stone" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The desk was empty." / "Nothing changed." / "Three transmissions." / "The blank page was historical now."
+- TEXTURE mode = quiet register. Horror in institutional absorption, not in dramatic confrontation. Paragraph density moderate-high (document review sections).
+- Single NBA deployment: "Not the institutional fluency that had produced encyclicals in an afternoon — not the marginal annotations that had come in bursts of private clarity in the locked study. Three weeks of the institutional hand on the institutional paper." Conservative use appropriate for documentary mode.
+- Closing rhythm: polysyndetic accumulation (80+ words, 15+ "and" clauses) → final word "stone" (continuation not resolution)
+- Bimodal paragraphs: dense blocks (document review 5-10 lines) + single-line punches ("The desk was empty." / "Nothing changed." / "Three transmissions.")
+- Dialogue 0% (no spoken dialogue, returns to pre-Ch 37 silence pattern). All "dialogue" is quoted confession text (italicized).
+- Documentary/archival register dominant. Chapter mode is accumulation and release, not perceptual shift.
+
+**Pacing Concern:** Risk of document review feeling expository. Mitigated by: (1) confession presented as institutional artifact (classification codes, disposition records, numbered pages); (2) "Nothing changed" as emotional anchor (confession necessary and insufficient); (3) empty desk as physical absence with weight; (4) closing accumulation builds through enumeration to single-word resolution.
+
+**Structural Note:** B3C45 is Phase 4 transformation. Malachi's arc: deliberative → confessant → complete. The confession begun in Ch 37 (opening sentence) is now transmitted. The desk empty for first time since B2 Ch 50. Nothing left to hide, nothing left to act on. Chapter rhythm enacts this: deliberate, institutional speed, weight in the gap between confession (transmitted) and institution (continuing). The Luminarch's silence is the institution's response. The institution absorbs confession by making it history.
+
+**Comparison to B3 C37 ("The Pilgrimage"):**
+- B3 C37: Pilgrimage executed, Cathedral entry, Imani conversation, confession begun (opening sentence written), ink returning
+- B3 C45: Confession complete (47 pages), transmitted (3 recipients), desk empty, ink present (lighter mark), nothing changes
+- Together they bracket the confession arc: opening sentence (C37) → complete document transmitted (C45). The institutional man confesses. The institution continues.
+
+**Comparison to B3 C28 ("The Empty Seat"):**
+- B3 C28: Nephthys died, pilgrimage planned, ink on thumb gone, correspondence on desk 13 months
+- B3 C45: Confession transmitted, correspondence in transmission log, desk empty, ink on thumb present (new mark)
+- Together they bracket the transformation: deliberative paralysis (C28, "the person was gone") → confessant complete (C45, "nothing left to act on"). The ink metabolized. The ink returned. Different ink.
+
+**Comparison to B3 C17 ("The Voluntarist Heresy"):**
+- B3 C17: Paper published via Black Babel, Church suppressed (legal advisory), ink barely visible, first counter-institutional publication
+- B3 C45: Confession published via Black Babel, Luminarch silent, ink present (lighter), second counter-institutional publication (full institutional data)
+- Together they show escalation: paper (publicly accessible data only) → confession (full institutional archive). The suppression pattern repeats (legal advisory → silence). The counter-institutional channel proves reliable.
+
+**Comparison to B3 C6 ("The Deliberative"):**
+- B3 C6: Correspondence on desk 6 months, notes written, locked study empty, ink fading, deliberative paralysis
+- B3 C45: Correspondence transmitted, desk empty, locked study empty (historical), ink present (new mark), deliberative complete
+- Together they bracket Book 3 Malachi arc: deliberative (C6) → confessant complete (C45). The desk's evolution: correspondence placed in open (B2 C50) → accumulated 14 months (B3 C6/17/28/37) → transmitted, empty (B3 C45).
+
+**Sensory Hierarchy:** Tactile dominant (oak surface, paper weight, ink on thumb, vestment weight, key on cord, chain on chest). Sound/vibration present (hum — inhabited, filtered, in walls). Visual subordinate (morning light, grain of desk, watermark). Temperature absent (appropriate for interior institutional setting).
+
+**Thematic Weight:** Architecture of Power (Dominant — institution absorbs confession by making it history, Luminarch's silence as management), Systemic Complicity (Strong — confession documents complicity, transmitting does not end it), Where Identity Ends (Supporting — institutional man confesses and remains institutional, vestments not removed).
+
+**Epigraph Function:** *Principles of Impoundment Decommissioning*, Federal Hydrology Authority, 2147 ed., §7.3. Oblique — about dam removal, stored water entering downstream channel, channel morphology adjusting to unmanaged flow, erosion pattern persisting. First read: technical hydrology. Reread after chapter: confession (decommissioning) releases stored truth (impounded water) into world (downstream channel). World adjusts slowly, partially, through erosion not transformation. Truth does not retain shape of suppression (reservoir). World retains shape of release. Secondary resonance: "managed flow conditions" = Church's filtered signal; "unmanaged flow" = confession's full disclosure.
+
+**Meta-Narrative Seeds:**
+- Confession complete (47 pages: seminary question, 15 suppressed cases, 23 pages correspondence, Silencing documentation)
+- Three recipients: Black Babel (published within hours), Luminarch (no response), Imani (Cathedral archive)
+- Desk empty for first time since B2 Ch 50 (correspondence transmitted, outgoing tray contains physical pages)
+- Blank page now historical (no longer floor of document landscape, in outgoing tray)
+- Vestments still worn (institution has not revoked them, no protocol for institutional confession)
+- Ink on thumb present, lighter (new confession mark, not old institutional mark)
+- Nothing changes (Church continues, Threshold continues, resonance chapels continue)
+- Confession necessary and insufficient (coexist without contradiction)
+- Forward: Ch 51 ("The Study" — final chapter, "the continuation is—")
+
+**User Edits:**
+- Line 193: "in this arc" → "in his tenure" (fixed bleedthrough, v1.1)
+
+---
+
+### Chapter 46 — "The Practice" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat accumulation (observers arriving) → recognition (former Stalker) → field log entry (practice defined) → resolving (closing accumulative chain + "He listened")
+**Pacing:** Slow, deliberate. Four-section structure. Weight in material observation (folding chair, military boots, notebook, thirty meters), not atmospheric intensity.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening / the woman | ~700 | Low-sustained | Woman with folding chair, Nikolai at wall, hum baseline, weeks after publication |
+| Others arrive | ~1,000 | Low-medium (accumulation) | São Paulo researcher, Mumbai civilian, scattered individuals, containment team accommodation |
+| The former Stalker | ~1,200 | Medium (recognition) | Military boots, steady hands, compulsion, thirty meters, routine established |
+| The discipline / closing | ~1,100 | Medium-resolving | Field log entry 112, NBA deployment, hands-check, practice defined, closing chain |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The gap held." / "The woman was not the first." / "They did not speak." / "The space was not occupied by one person anymore." / "He listened."
+- TEXTURE mode = quiet register. Intensity in accumulation of observers and former Stalker's recognition — not in prose density or emotional volume.
+- Single NBA deployment: "Not doctrine. Not a movement. Not the institutional architecture... Not the substitute... *Discipline.*" — Five negations clearing every category before italicized payoff. Deployed at correct structural moment (after field log documents practice, before narration names it).
+- Closing accumulative chain: longest single sentence in Nikolai arc (~100 words, paratactic "and...and...and..." conjunction). Deliberate structural choice — enacts practice's accumulation through conjunction rather than subordination.
+- Zero dialogue — Nikolai and other observers do not speak. The silence IS the practice. Consistent with B3C12, C34, C41 (zero dialogue chapters).
+- Bimodal paragraphs: dense observational blocks + single-line punches (~25% 1-line).
+- Opening innovation: "The woman arrived on a Tuesday." — First Nikolai opening beginning with another person rather than environment/aggregate/self.
+
+**Dialogue Percentage:** 0% (deliberate — practice does not require conversation)
+
+**Structural Note:** B3C46 establishes the practice as shared discipline. Weeks after publication (B3C41). Others have arrived independently — not organized, not coordinated. The field log found its audience. The practice: stand where the thing is, observe honestly, write it down. Not orders. Not doctrine. Discipline.
+
+**Hum Baseline Drift:** 5.0/5.2 — down from 5.1/5.3 (B3C29, C34, C41). Gap of 0.2 maintained.
+
+**Tremor Trajectory:** Present, fading. "Fainter than the week after the young man, fainter than the days after the Proposition, but present." The break is permanent. The body adapts incompletely.
+
+**Field Log Evolution:** Entry 112 — first entry documenting other observers. The field log's subject has shifted from aggregate to practice.
+
+**Seeds Planted:**
+- Ch 52: "It would have to be enough" → "It is enough." (conditional → declarative)
+- The practice established as ongoing, not temporary
+- Others at perimeters globally
+
+---

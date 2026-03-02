@@ -1295,6 +1295,114 @@ Emotional evolution: pen writes questions (B2 Ch 7) → pen writes framework (B2
 
 ---
 
-**Character State:** Phase 4 B3 (transformation). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Vladivostok perimeter. Civilian clothes. Field log published under his name (civilian scientific archive, open access). Citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto). Media queries day 4 (unanswered). Military silence (permanent, structural). Tremor persists (introduced B3C29, present B3C34/C41). Jacket wearing through both elbows. Datapad hairline crack maintained. Hum 5.1/5.3 (0.2 gap). Aggregate murmuring at post-Proposition baseline. Standing at wall. Hands-check ritual maintained. "He listened" pattern maintained. The record exists. The function is complete. The practice continues.
+**Character State (Nikolai):** Phase 4 B3 (transformation). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Vladivostok perimeter. Civilian clothes. Field log published under his name (civilian scientific archive, open access). Citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto). Media queries day 4 (unanswered). Military silence (permanent, structural). Tremor persists (introduced B3C29, present B3C34/C41). Jacket wearing through both elbows. Datapad hairline crack maintained. Hum 5.1/5.3 (0.2 gap). Aggregate murmuring at post-Proposition baseline. Standing at wall. Hands-check ritual maintained. "He listened" pattern maintained. The record exists. The function is complete. The practice continues.
+
+---
+
+### Chapter 45 — "The Confession" (Malachi)
+
+**Emotional Arc:** Confession complete (institutional precision) → document structure review (archival register) → transmission sequence (procedural) → empty desk (physical absence as data) → Luminarch silence (institutional management) → Black Babel publication (citation tracking) → nothing changes (thesis delivered) → closing meditation (polysyndetic accumulation)
+
+**Emotional Register:** Flat-sustained. Phase 4 B3 transformation complete. The documentary/archival register is the only register. The institutional man processing institutional act in institutional mode. The confession transmitted. The institution continues. The emotional weight is in the gap between confession (necessary) and institution (unchanged).
+
+**Physical Tells:**
+- Desk empty (first time since B2 Ch 50) — physical absence registered as data. "He noticed this the way he had noticed the ink fading — as data, as the quiet registration of a change in the physical environment that his body processed before his mind engaged."
+- Ink on thumb present, lighter (new confession mark, not old institutional mark) — three weeks of confessional writing, the body recording the practice
+- Hands on oak surface (functional, not composed) — no institutional composure posture, hands rest because hands are resting
+- Vestments heavy (deep violet, gold thread, chain of office) — still worn, institution has not revoked them
+- Key on cord (opens empty room) — significance now historical
+- Hum through walls (inhabited, filtered, See's domesticated version) — continuous, baseline
+
+**Emotional Beats:**
+
+1. **Confession complete** — Low-sustained. 47 pages, 3 weeks, institutional hand. Not the fluency of encyclicals. Not the bursts of marginal annotation. Three weeks of deliberate composition. Emotional weight: completion as data. The document exists. The document is numbered. The document is ready for transmission.
+
+2. **Document structure review** — Low-sustained. Four sections catalogued: seminary question (3pp), suppressed cases (11pp), correspondence (23pp), Silencing documentation (10pp). The confession presented as institutional artifact — classification codes, disposition records, numbered pages. Emotional weight: archival. The institutional voice confessing in institutional form. Not because the form is appropriate. Because the form is what the institution recognizes.
+
+3. **The correspondence section** — Medium. Twenty-three pages. Her seven letters, his seven unsent responses. The two scripts side by side for the first time outside the locked study. Emotional weight: exposure. "The letters were the evidence that the Silencing had been performed with full knowledge." The institutional man and the High Priestess. The confirmation and the excommunication. The knowing and the not-sending.
+
+4. **Transmission sequence** — Medium (procedural). Three recipients. Three channels. The institutional routing protocols that carried tribunal findings now carrying the confession that reveals the tribunal's fraudulence. Emotional weight: procedural completion. The transmission is institutional procedure. The same routing. The same protocols. The confession enters the channels the institution built.
+
+5. **Empty desk** — Low (observational). The correspondence transmitted. The outgoing tray contains physical pages (empty for 14 months). The desk surface is oak. The grain is visible. Emotional weight: absence as presence. "The desk without documents was a desk. A piece of furniture in a room where a man sat." The weight carried every morning now distributed across three channels. The carrying or not-carrying no longer his.
+
+6. **Blank page historical** — Low. The page that sat beneath accumulated documents since the third encyclical stopped. The dried circle of ink. The institutional silence made visible. Now in the outgoing tray with the rest. Emotional weight: temporal shift. The blank page was evidence of the encyclical never written. The confession is written. The blank page is historical.
+
+7. **Luminarch silence** — Low-sustained. Transmission received (delivery confirmation automatic). No response. Not refutation. Not acknowledgment. Institutional silence meeting institutional confession. Emotional weight: recognition. "The silence was institutional. He recognized it — the same silence the institution had deployed for every crisis it could not accommodate." The confession will be logged, filed, entered into the record. The institution will not act on it. The silence is management.
+
+8. **Black Babel publication** — Medium (accumulation). Published within hours. Citation tracking: theological commentary (6 hours), families of absorbed (12 hours), Threshold/Listeners/media (distributed). Emotional weight: confirmation without transformation. "The confession entered the public record the way all institutional confessions entered the public record — as confirmation of what everyone already suspected." The people who believed the Church suppressed the truth now have documentary proof. The people who believed the Church was necessary now have documentary proof the institution's own leadership agreed it failed. The confession did not create new understanding. The confession provided archival foundation for understanding that already existed.
+
+9. **Nothing changed** — Resolving. Single-line paragraph. Chapter's thesis. Church continues, Threshold continues, resonance chapels continue, grid continues, breach perimeters continue. Emotional weight: PEAK. The confession was necessary. The confession was insufficient. The two qualities coexist without contradiction. "They coexisted the way every quality in his tenure had coexisted — the pastoral care and the suppression, the private knowledge and the public silence, the institutional man and the person who had asked the question at nineteen."
+
+10. **Institutional identity unchanged** — Low-sustained. Still Arch-Prelate. Title not revoked. Vestments not reclaimed. Chain of office remains. Key remains. Emotional weight: recognition of inseparability. "The institutional identity remained because the institution did not have a protocol for what had happened." The confession does not separate the man from the institution. The institution and the person could not be separated. The pretense of separation was the last lie.
+
+11. **Closing meditation** — Accumulation. Polysyndetic cascade (80+ words, 15+ "and" clauses). Malachi at empty desk, hands on oak surface, vestments heavy, chain on chest, key on cord, hum in walls, morning light, study quiet. Emotional weight: enumeration as argument. "The institutional man who had carried the question since seminary and suppressed the answer for twenty-two years and published the suppression for the record had nothing left to carry and the carrying had been the practice and the practice was over and the vestments were heavy and the desk was empty and the hum continued through the stone." Final word: "stone." Not resolution. Continuation.
+
+**Emotional Restraint Technique:** Malachi's register does not name emotions. Weight conveyed through: (1) Empty desk registered as data (body processes before mind), (2) Ink on thumb returning (new mark, lighter, body recording practice), (3) Vestment weight (heavy, present, not removed), (4) Institutional vocabulary as emotional communication (necessary/insufficient, filed/sealed, managed/absorbed), (5) Luminarch's silence as institutional pattern recognition, (6) "Nothing changed" as single-line thesis, (7) Closing polysyndetic accumulation (institutional architecture as syntax), (8) Physical absence with weight (desk empty, locked study empty, blank page historical). The horror is in the continuation. The confession transmitted. The institution continues. The institutional man confesses and remains institutional.
+
+**Comparison to B3 Ch 37 ("The Pilgrimage"):**
+- B3 Ch 37: Pilgrimage executed, Cathedral entry, Imani conversation, confession begun (opening sentence), ink returning
+- B3 Ch 45: Confession complete (47 pages), transmitted (3 recipients), desk empty, ink present (lighter mark), nothing changes
+- Emotional progression: Ch 37 = reckoning and beginning (the impossible conversation, the empty seat, the confession begins). Ch 45 = completion and continuation (the confession transmitted, the institution absorbs it by making it history). The emotional weight is in the gap between confession (necessary) and institution (unchanged).
+
+**Comparison to B3 Ch 28 ("The Empty Seat"):**
+- B3 Ch 28: Nephthys died, pilgrimage planned, ink on thumb gone, correspondence on desk 13 months, deliberative paralysis
+- B3 Ch 45: Confession transmitted, correspondence in transmission log, desk empty, ink on thumb present (new mark), deliberative complete
+- Emotional progression: Ch 28 = paralysis and loss (the person was gone, the deliberative who deliberated until). Ch 45 = completion and emptiness (nothing left to hide, nothing left to act on). The ink metabolized. The ink returned. Different ink. Different practice.
+
+**Comparison to B3 Ch 6 ("The Deliberative"):**
+- B3 Ch 6: Correspondence on desk 6 months, notes written, locked study empty, ink fading, deliberative paralysis, "yet"
+- B3 Ch 45: Correspondence transmitted, desk empty, locked study empty (historical), ink present (new mark), deliberative complete, confession complete
+- Emotional progression: Ch 6 = deliberative paralysis (the "yet" continues, the hands do not fold, the question persists). Ch 45 = deliberative complete (the carrying was the practice, the practice is over). The desk's evolution: correspondence placed in open (B2 Ch 50) → accumulated 14 months (B3 Ch 6/17/28/37) → transmitted, empty (B3 Ch 45). The emotional weight is in the emptiness.
+
+**Character State (Malachi):** Phase 4 B3 (transformation complete). ~14-15 months post-Broadcast, ~24-25 months post-BLACKWEIR, post-Proposition, post-pilgrimage. European See. Vestments worn (deep violet, gold thread, chain of office — not removed). Confession complete (47 pages, 3 weeks composition). Transmitted to three recipients (Black Babel published within hours, Luminarch silent, Imani received). Desk empty (first time since B2 Ch 50). Ink on thumb present, lighter (new confession mark). Hands do not fold. Key on cord (opens empty room). Locked study empty (historical). Hum inhabited, filtered. Blank page historical. Nothing left to hide. Nothing left to act on. The confession was necessary. The confession was insufficient. The institution continues.
+
+---
+
+### Chapter 46 — "The Practice" (Nikolai Volkov)
+
+**Emotional Arc:** Weeks after publication → woman arrives (folding chair, datapad, daily return) → others arrive (researcher, civilian, scattered individuals) → former Stalker arrives (military boots, steady hands, notebook) → field log entry 112 (documenting others) → hands-check (tremor fading but present) → closing accumulation (the practice is enough) → he listened
+
+**Emotional Register:** Observational-settled. Phase 4 B3 equilibrium. The practice as shared discipline. No named emotions. Weight conveyed through material observation (folding chair, military boots, notebook, thirty meters), physical contrast (steady hands vs tremor), and the closing accumulative chain.
+
+**Physical Tells:**
+- Jacket from Lagos: wearing through at both elbows (tactile inheritance, material continuity)
+- Datapad in interior pocket: weight against ribs, hairline crack lower third
+- Tremor: left index finger, four seconds — present, fading ("fainter than the week after the young man, fainter than the days after the Proposition, but present")
+- Hum: 5.0 (body) / 5.2 (instruments) — 0.2 gap maintained, baseline drifting down
+- Wind: Corridor cold, permafrost air, Yelena's calibration
+- Wall: standing position resumed, same wall, same perimeter
+
+**Emotional Beats:**
+
+1. **The woman arrives** — Folding chair, datapad, twenty meters from tape, facing breach site. Three hours. Returns next morning. Emotional weight: recognition without interaction. The practice observed in another body. Not a volunteer (does not approach tape). An observer. The first mirror.
+
+2. **Others arrive** — São Paulo researcher (spectral analysis, four days), Mumbai civilian (two hours, did not return), scattered individuals. Emotional weight: accumulation. The field log found its audience. Not the institution. Not the committee. The people at perimeters. The people who heard the hum and felt the gap and carried the calibration and had not had the language for it.
+
+3. **Sergeant's accommodation** — Civilian exclusion zone observed as suggestion. Observers stay outside tape, do not interfere. Sergeant processes by not processing. Emotional weight: informal channel extending. The accommodation that began with Nikolai (B3C3) extends to others. The institution cannot classify, so the institution does not classify.
+
+4. **Former Stalker arrives** — Military boots, thirty, the walk/stride/posture of discharged soldier. Emotional weight: recognition. Nikolai knew he was a Stalker before the man reached the perimeter. The age Nikolai was when the field log began. The mirror is precise.
+
+5. **Steady hands** — "The man's hands were steady. No tremor." Emotional weight: temporal contrast. The hands of a person who has not yet stood in the gap and said *please*. The steadiness Nikolai's hands carried for twenty-eight months before the young man. The "before" observed in another body.
+
+6. **The compulsion** — "Within the first hour of proximity, racing the cognitive defenses, recording the observation before the architecture of what he already knew could overwrite what he had just experienced." Emotional weight: shared instinct. The field log's compulsion is not unique to Nikolai. The compulsion is recognizable. The practice spreads through recognition.
+
+7. **Thirty meters** — They do not speak. They have never spoken. They do not need to. Emotional weight: distance as practice. Not isolation. Not community. The recognition that the observation is individual. Each person at their position. The practice does not require conversation.
+
+8. **Field log entry 112** — First entry documenting other observers. "Seven observers at this perimeter in the four weeks since the archive publication." Emotional weight: the field log's evolution. The subject has shifted from aggregate to practice. The observer is now observing observers. The solitary record becoming shared practice.
+
+9. **Hands-check** — "He checked his hands. Left index finger. Four seconds. / The tremor was there. Faint — fainter than the week after the young man, fainter than the days after the Proposition, but present." Emotional weight: the break's permanence and the body's incomplete adaptation. The tremor is fading. The tremor will not resolve. "The hands were not steady. The hands would not be steady again." The new function does not require steady hands.
+
+10. **"It would have to be enough"** — Penultimate paragraph. The practice defined. Not orders. Not doctrine. The thing that remained when everything else was stripped away. Emotional weight: conditional acceptance. "Would have to be" — not certainty, acceptance of necessity. The seed for Ch 52's declarative ("It is enough.").
+
+11. **Closing accumulative chain** — "the hum was 5.0 and the instruments said 5.2 and the gap was consistent and the gap was his and the gap was in the archive and the gap was being measured by other bodies at other perimeters and the measurements were being recorded and the records were honest and the honesty was the discipline and the discipline was the practice and the practice was enough." Emotional weight: paratactic accumulation. The longest sentence in the Nikolai arc. The conjunction that is not organization. One observation connected to the next by "and."
+
+12. **"He listened"** — Closing. Pattern maintained from B3C34, C41. The practice that began as solitary listening has become shared listening. But the closing remains individual. He listened. Not "they listened." The practice is shared. The observation is individual.
+
+**Comparison to B3 C41 ("Under His Name"):**
+- B3 C41: Publication, citations, military silence, "He listened"
+- B3 C46: Post-publication, others at perimeters, practice shared, "He listened"
+- Emotional progression: Ch 41 = the record exists, the record is public, the record found its audience (academic, media, military silence). Ch 46 = the audience arrived at perimeters, the practice is shared, the practice is enough. The publication was necessary. The publication was insufficient. The practice is the continuation.
+
+**Character State (Nikolai):** Phase 4 B3 (new equilibrium found). ~16 months post-Broadcast, ~30 months post-BLACKWEIR. Vladivostok breach perimeter. Civilian clothes. Jacket from Lagos (wearing through at both elbows). Datapad in interior pocket (hairline crack lower third). Field log published (civilian scientific archive, open access, cited). Entry 112 — documenting other observers. Hum 5.0/5.2 (gap 0.2, baseline drifting down). Tremor present, fading. Standing at wall. Others at perimeter (woman with folding chair, former Stalker with notebook, scattered observers). Sergeant's accommodation extended. Military silence holds. The practice: stand where the thing is, observe honestly, write it down. Not orders. Not doctrine. Discipline. The soldier's discipline applied to something that resists every other form of engagement. It would have to be enough. He listened.
 
 ---

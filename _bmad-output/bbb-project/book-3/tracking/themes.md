@@ -1606,3 +1606,113 @@ The pattern: individual work → institutional submission → analytical extract
 
 ---
 
+### Chapter 45 — "The Confession" (Malachi)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Dominant | The institution absorbs confession by making it history. The Luminarch's silence is institutional management — not refutation, not acknowledgment, but reception without response. "The institution was absorbing the confession the way institutions absorbed everything — by making it history." The confession is filed. The confession is on the record. The institution continues. |
+| Systemic Complicity | Strong | The confession documents complicity. Transmitting it does not end the complicity. Malachi confesses and remains Malachi. The institutional man cannot separate from the institution by confession. Vestments not removed. Title not revoked. "The institutional identity remained because the institution did not have a protocol for what had happened." |
+| Where Identity Ends | Supporting | The confession does not separate the man from the office. "The institution and the person could not be separated and the pretense of separation was the last lie." The institutional man who confessed has nothing left to hide and nothing left to act on. The carrying was the practice. The practice is over. The vestments remain. |
+| What We Owe | Ambient | The confession is sent to Imani (Cathedral archive) — fulfilling what Nephthys needed ("She needed you to say it to the record"). The debt acknowledged. The debt unpayable (Nephthys is dead). The confession reaches the Cathedral but not the person. |
+
+**Key Resonance:** Architecture of Power ↔ Systemic Complicity. The institution that suppressed the truth for 130 years absorbs the confession of suppression through the same mechanism: institutional silence. The Luminarch does not respond because responding would require the institution to process its own indictment through its own administrative infrastructure. The confession is managed by silence. The silence is the institution's final complicity.
+
+**Epigraph Integration:** *Principles of Impoundment Decommissioning*, Federal Hydrology Authority, 2147 ed., §7.3: Downstream Morphological Response
+- Thematic function: Dam removal as metaphor for confession. Stored water (suppressed truth) enters downstream channel (the world). Channel morphology adjusts to unmanaged flow. Erosion pattern persists at new equilibrium.
+- "The water does not retain the shape of the reservoir. The channel retains the shape of the release."
+- Rewards reread: The confession (decommissioning) releases the truth (impounded water). The world adjusts slowly, partially, through erosion not transformation. The truth does not retain the shape of the suppression. The world retains the shape of the release — the institutional damage, the downstream morphological response.
+- Secondary resonance: "managed flow conditions" = Church's filtered signal; "unmanaged flow" = confession's full disclosure; "downstream morphology" = institutional/public structures formed under managed version.
+
+**Confession as Institutional Artifact:**
+- 47 pages, handwritten, institutional hand, correspondence stock
+- Four sections: seminary question (3pp), suppressed cases (11pp), correspondence (23pp), Silencing documentation (10pp)
+- Three recipients: Black Babel (public), Luminarch (institutional record), Imani (Cathedral archive)
+- Transmission via institutional routing protocols — the same channels that carried the tribunal findings now carry the confession that reveals the tribunal's fraudulence
+- The institutional voice confessing in institutional form — not because the form is appropriate, but because the form is what the institution recognizes
+
+**Nothing Changes as Thematic Core:**
+- "Nothing changed." — single-line paragraph, chapter's thesis
+- Church continues, Threshold continues, resonance chapels continue, grid continues, breach perimeters continue
+- The confession enters public record as confirmation of what everyone already suspected
+- "The confession did not create a new understanding. The confession provided the archival foundation for the understanding that already existed."
+- The confession was necessary. The confession was insufficient. The two qualities coexist without contradiction.
+- "They coexisted the way every quality in his tenure had coexisted — the pastoral care and the suppression, the private knowledge and the public silence, the institutional man and the person who had asked the question at nineteen."
+
+**The Empty Desk as Symbolic Object:**
+- Empty for first time since B2 Ch 50 (correspondence placed in open)
+- 14 months of accumulated documents (correspondence, notes, paper, blank page) now in transmission log
+- Physical pages in outgoing tray (empty for 14 months)
+- "The desk without documents was a desk. A piece of furniture in a room where a man sat."
+- The weight carried every morning now distributed across three channels
+- "The weight had been released into the downstream channels, and the channels would carry it or they would not, and the carrying or not-carrying was no longer his."
+
+**Institutional Silence as Violence:**
+- The Luminarch does not respond — not refutation, not acknowledgment, institutional silence meeting institutional confession
+- "The silence was institutional. He recognized it — the same silence the institution had deployed for every crisis it could not accommodate."
+- The confession will be logged, filed, entered into institutional record — the same archival system that contains the suppressed cases
+- The institution absorbs the confession by making it history
+- The institution has no protocol for institutional confession published by institutional leadership
+- The institution responds to the unprecedented by continuing
+
+**Malachi Tracking:**
+- Ink on thumb: present, lighter (new confession mark, not old institutional mark)
+- Vestments: still worn (institution has not revoked them)
+- Hands: do not fold (functional on desk surface, not postural)
+- Key on cord: opens empty room (significance now historical)
+- Forty-three steps: referenced once as historical, not performed
+- Hum: inhabited, filtered (See's domesticated version)
+- Correspondence: transmitted, desk empty
+- Blank page: historical (in outgoing tray)
+- Locked study: empty, historical
+- Deliberative status: complete, confessant complete, nothing left to act on
+
+**Forward Implications:**
+- Ch 51 ("The Study"): Malachi's final chapter, "the continuation is—"
+- Desk empty (inherited by Ch 51)
+- Vestments still worn (institution has not acted)
+- Nothing left to hide, nothing left to act on
+- The institutional man in the chair, the confession sent, the institution continuing
+
+**Cross-Thread Connections:**
+- Nikolai (B3C41): Field log published under his name, changes nothing formally, record exists
+- Zeyad (B3C42): Document absorbed without his name, changes policy partially, record exists in archive
+- Malachi (B3C45): Confession published under his name and title, changes nothing structurally, record exists
+- All three: the record is permanent, the institutional response is absorption (military silence / co-option / historical filing), the function is complete, the continuation is institutional
+
+**The Confession Achieved:**
+- "The confession had been necessary. The confession had been insufficient."
+- The truth is in the record. The record does not change the institution.
+- The institutional man confessed. The institutional man remains institutional.
+- He has nothing left to hide. He has nothing left to act on.
+- The carrying was the practice. The practice is over.
+- The desk is empty. The vestments remain. The hum continues through the stone.
+
+---
+
+### Chapter 46 — "The Practice" (Nikolai Volkov)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth as Weapon | Strong | The field log found its audience — not the institution but the people at perimeters. The truth did not change the institution (military silence holds). The truth found the people the truth was for. Others arrived independently: São Paulo researcher (cited the throughput-correlation data), Mumbai civilian (recognized what he'd been experiencing), former Stalker (recognized the compulsion). The practice spreads through recognition, not recruitment. |
+| Where Identity Ends | Moderate | Functional identity rebuilt — not protector, not soldier, but observer. The practice as the new discipline. "Without rank, unit, and orders" — answered definitively. He operates. He has built a practice. Others have found the practice. The dossier's prediction ("weapon without a hand") refuted: without rank, unit, and orders, he is an observer who published his observations and the observations found an audience. |
+| Systemic Complicity | Moderate | Observer outside the system. Informal accommodation continues — sergeant processes what institution cannot classify by not processing them. "The observers stayed outside the tape. The observers did not interfere with operations." Military silence holds — institution processes the record by not processing it. The informal channel carries what institution cannot say aloud. |
+
+**Key Resonance:** Truth as Weapon ↔ Where Identity Ends. The field log as weapon — not against the institution (which absorbed it through silence) but for the people who needed the language. The practice as identity — the discipline of honest observation. The soldier's discipline applied to something that resists every other form of engagement.
+
+**Epigraph Integration:** *Coastal Erosion and the Formation of Tidal Pools*, University of Reykjavík Press, 2087 ed.
+- Thematic function: Geological register for boundary-zone formation. "Tidal pools do not form where the coast is intact. They form in the fractures."
+- The practice forms where the institution has broken people. The perimeter is the fracture. The observers are the organisms requiring shelter — not the institution's shelter (doctrine, rank, orders) but the shelter of honest observation, the geometry of the damage retained.
+
+**The Practice as Thematic Object:**
+- Not a movement (no organizers, objectives, institutional structure)
+- Not doctrine (no authority to author it, no institution to enforce it)
+- A practice: stand where the thing is, observe honestly, write it down
+- The discipline of presence at the boundary, honest observation, not looking away
+- The soldier's discipline applied to a problem the soldier's tools cannot solve
+
+**Forward Connections:**
+- Ch 52 (new order): "It would have to be enough" → "It is enough." The conditional transitioning to declarative.
+- Sofia connection: São Paulo researcher's arrival connects academic citation thread (B3C41) to physical presence at perimeters.
+
+---
+

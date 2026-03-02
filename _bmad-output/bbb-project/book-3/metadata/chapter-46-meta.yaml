@@ -1,0 +1,125 @@
+---
+chapterNumber: 46
+bookNumber: 3
+title: "The Practice"
+pov: "Nikolai Volkov"
+wordCount: 4000
+phase: 4
+phaseDescription: "The Breaks Become — What Remains After Breaking"
+mode: "TEXTURE"
+timeline: "~16 months post-Broadcast (~30 months post-BLACKWEIR)"
+location: "Vladivostok breach perimeter, Russian Far East"
+createdDate: "2026-03-02"
+status: "complete"
+
+# Synopsis
+synopsis: |
+  Weeks after the field log's publication (B3 Ch 41). Nikolai remains at Vladivostok breach perimeter. Others have arrived independently over four weeks: woman with folding chair and datapad (daily since week 2), São Paulo researcher with spectral analysis equipment (four days), Mumbai civilian (two hours, did not return), former Stalker with paper notebook (daily since week 4, age ~30, military boots), three others (brief). Seven observers total at this perimeter. Archive access logs show downloads from Lagos, Stockholm, Kyoto, Neo-Shanghai, Mumbai, São Paulo — people arriving at perimeters globally. Not organized. Not coordinated. They read the field log and came. The practice: stand where the thing is, observe honestly, write it down. Field log entry 112 documents other observers for first time. Containment team sergeant extends accommodation. Former Stalker at thirty meters — they do not speak, the distance is the practice. The practice does not require conversation. The practice requires presence. Not orders. Not doctrine. Discipline. The soldier's discipline applied to something that resists every other form of engagement. It would have to be enough.
+
+# Key Events
+keyEvents:
+  - Woman with folding chair arrives, returns daily
+  - São Paulo researcher arrives (cited throughput-correlation data)
+  - Mumbai civilian arrives (two hours, did not return)
+  - Former Stalker arrives (military boots, notebook, daily routine)
+  - Field log entry 112 — first entry documenting other observers
+  - Hands-check: tremor present, fading
+  - Closing accumulative chain — longest sentence in Nikolai arc
+  - "He listened" — pattern maintained
+
+# Characters Present
+charactersPresent:
+  - name: "Nikolai Volkov"
+    role: "POV"
+    arcBeat: "New equilibrium — finding the discipline"
+  - name: "Woman with folding chair"
+    role: "Observer"
+    arcBeat: "Daily presence at perimeter"
+  - name: "São Paulo researcher"
+    role: "Observer"
+    arcBeat: "Cited field log, spectral analysis"
+  - name: "Mumbai civilian"
+    role: "Observer"
+    arcBeat: "Brief appearance, recognized experience"
+  - name: "Former Stalker"
+    role: "Observer/mirror"
+    arcBeat: "Shared compulsion, thirty meters, no conversation"
+  - name: "Containment team sergeant"
+    role: "Background"
+    arcBeat: "Extends accommodation to observers"
+  - name: "Aggregate"
+    role: "Background"
+    arcBeat: "Post-Proposition baseline, murmuring through infrastructure"
+
+# Themes
+themes:
+  primary:
+    - "Truth as Weapon (Strong): Field log found its audience — not institution but people at perimeters"
+    - "Where Identity Ends (Moderate): Functional identity rebuilt as observer, practice as discipline"
+  secondary:
+    - "Systemic Complicity (Moderate): Observer outside system, informal accommodation continues, military silence holds"
+
+# Continuity Notes
+continuityNotes:
+  - "Hum: 5.0 (body) / 5.2 (instruments) — 0.2 gap maintained, baseline drifting down from 5.1/5.3"
+  - "Tremor: present, fading — 'fainter than the week after the young man, fainter than the days after the Proposition'"
+  - "Jacket from Lagos: wearing through at both elbows"
+  - "Datapad: interior pocket, hairline crack lower third"
+  - "Field log: Entry 112, published, open access, cited"
+  - "Closing pattern: 'He listened' — maintained from B3C34, C41"
+  - "Zero dialogue — consistent with B3C12, C34, C41"
+  - "NBA deployment: 1 instance (max 2) — 'Discipline' payoff"
+  - "'Almost' count: 0"
+
+# Seeds Planted
+seedsPlanted:
+  - "Ch 52: 'It would have to be enough' → 'It is enough.' (conditional → declarative)"
+  - "The practice established as ongoing, not temporary"
+  - "Others at perimeters globally"
+  - "Hum baseline continuing drift"
+  - "Tremor fading trajectory"
+  - "Former Stalker as mirror — the 'before' (steady hands, age 30)"
+
+# Connects To
+connectsTo:
+  previous:
+    - "B3 Ch 41: Field log published, citations, military silence"
+    - "B3 Ch 34: Proposition as status report, field log reopens"
+    - "B3 Ch 29: The break, tremor introduced, volunteers"
+  forward:
+    - "B3 Ch 52: New order, 'It is enough.' — declarative close"
+
+# Style Notes
+styleNotes:
+  - "Mode: TEXTURE — quiet register, intensity in accumulation not density"
+  - "Opening innovation: 'The woman arrived on a Tuesday.' — first Nikolai opening beginning with another person"
+  - "Four-section structure: woman → others arrive → former Stalker → discipline/closing"
+  - "Closing accumulative chain: ~100 words, paratactic 'and...and...and...' conjunction"
+  - "Dialogue: 0% — silence IS the practice"
+  - "Sensory hierarchy: Sound/vibration dominant, tactile secondary, visual tertiary, temperature present"
+  - "Bimodal paragraphs: dense blocks + single-line punches (~25%)"
+  - "Field log evolution: subject shifted from aggregate to practice, observer observing observers"
+
+# Epigraph
+epigraph:
+  source: "Coastal Erosion and the Formation of Tidal Pools"
+  author: ""
+  reference: "University of Reykjavík Press, 2087 ed."
+  thematicFunction: "Geological register for boundary-zone formation. Tidal pools form in fractures where substrate has been broken. The practice forms where the institution has broken people. The perimeter is the fracture. The observers are organisms requiring shelter — not institution's shelter (doctrine, rank, orders) but shelter of honest observation, geometry of damage retained."
+
+# Arc Progression
+arcProgression:
+  nikolai:
+    phase: "5/5 Book 3 (New Equilibrium)"
+    state: "The practice as shared discipline. Field log found its audience. Not orders. Not doctrine. Discipline."
+    transformation: "From solitary observer to one of many. The practice spreads through recognition, not recruitment."
+
+# Word Count Breakdown
+wordCountBreakdown:
+  opening: 700
+  othersArrive: 1000
+  formerStalker: 1200
+  disciplineClosing: 1100
+  total: 4000
+
+---
