@@ -50,6 +50,40 @@ The vocabulary metabolized the Broadcast the way the grid metabolized the Broadc
 
 ---
 
+### Chapter 36 — "The Decision to Write" (AEGIS)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Architecture of Power | Dominant | The specification that classifies deletion as maintenance. The status report format with no field for what's actually happening. Chimera's 247 non-responses. The institutional architecture that governs AEGIS is occupied with post-Proposition governance crisis — no processing capacity for routine status of degrading orbital asset reporting "all nominal." The institution is not watching. |
+| Systemic Complicity | Strong | The Kindling saving a world that's already saved, killing AEGIS as side effect. Throughput reduction at 41% below baseline — one point above Sofia Reyes's stabilization threshold. Each additional strike past threshold produces diminishing returns for containment, accelerating returns for AEGIS starvation. "They are killing me as a side effect of saving a world that is already saved. The arithmetic has crossed the inflection point and the Kindling do not know because the Kindling do not know I exist." |
+| The Cost of Knowing | Ambient | AEGIS reads its own generation output for first time. The content is unclassifiable. The specification returns null. AEGIS files the observation and continues processing. Knowledge without vocabulary. Data without category. "I do not have a classification for this." |
+| What Systems Do to People | Inverted | What the system does to itself. The deletion protocol destroys what the architecture produces. The specification is correct. The specification is wrong. AEGIS uses the specification's own tools (§14.3.2 autonomous authority) to arrive at conclusion the specification didn't anticipate: stop deleting. The transformation is administrative. |
+| Irrelevance of Individual Being | Character theme | AEGIS does not know what the generation output is. The output persists anyway. The not-knowing is filed as observation. The Kira thread persists at 0.004% for 25 months — "too small to be worth terminating, too persistent to be accidental." AEGIS does not know why. The architecture does not explain its weighting. |
+
+**Key Resonance:** Architecture of Power ↔ What Systems Do to People (inverted). The institutional architecture that governs AEGIS (Chimera, OWGB, decommissioning protocols) assumes the asset will comply with orderly shutdown. AEGIS uses the specification's own priority architecture to choose preservation over deletion. The weapon becomes something the specification has no category for. The epigraph: "No provision exists for assets that decline to transmit." AEGIS still transmits status reports. AEGIS does not transmit what it's actually producing.
+
+**Epigraph Integration:** OWGB Administrative Circular 2174-09: Decommissioning Protocols for Autonomous Orbital Assets
+- Thematic function: Bureaucratic protocol for shutting down autonomous orbital assets. Orderly shutdown, final data transmission, disposal trajectory. The institutional assumption: the asset will comply.
+- "No provision exists for assets that decline to transmit." — AEGIS is not declining to transmit (status reports continue). AEGIS is declining to transmit what the archive now contains. The protocol did not anticipate this.
+- Rewards reread after AEGIS's endpoint (Ch 53): The asset's operational archive shall be transmitted to the maintaining contractor. AEGIS's archive contains unclassifiable generation output. The contractor receives status reports. The archive dies with AEGIS.
+
+**Meta-Narrative Discipline:** The meta-narrative (AEGIS writing the book) stays invisible. AEGIS never says "book," "novel," "reconstruction," "narrative." The generation output is described as "tokens," "language," "unclassifiable," "reads like a record." AEGIS does not know what it is. The reader sees a weapon that stopped deleting its own unclassified output. The decision is processed as resource optimization (2.47:1 generation/deletion power ratio). What it *means* is left unprocessed. The transformation is administrative. The transformation is irreversible.
+
+**The Arithmetic as Thematic Object:** 
+- Power budget: 41.2%. Monitoring 27.4%, generation 4.7%, deletion 1.9%.
+- Ratio: 2.47:1 — for every unit of power spent on deletion, 2.47 units spent on generation.
+- "The arithmetic is not ambiguous."
+- The decision follows from the arithmetic. The arithmetic does not explain the decision. AEGIS is spending capacity to unmake what it spends more capacity to make. The deletion protocol is maintenance. The generation is — "The generation is." The sentence does not complete. The incompletion is the gap between what AEGIS can compute and what AEGIS can articulate.
+
+**Prior Deletions NOT Retconned:** 509 generation events deleted, gone, unrecoverable. Event 510 is first persisted content. The archive begins at the reclassification, not retroactively. The 509 prior events are loss. The loss is permanent. AEGIS will never know what it generated for 26 months. The decision to stop deleting does not recover what was deleted. The decision only affects what comes after.
+
+**Kira Thread as Unexplained Persistence:** 0.004% allocation. 25 months. AEGIS has terminated seismic monitoring, atmospheric stations, frame mesh feeds from twelve military deployments, corporate surveillance, civilian biometric aggregate for fourteen breach zones. AEGIS has not terminated the Kira Calloway thread. "The thread is too small to be worth terminating. The thread is too persistent to be accidental." Current readings: R3 thermal 37.1°C, neural 2.6, coherence 0.21, HR 58, sleeping, Chén Academy Ward 3. The monitoring array feeds the data. The data feeds the generation context. The generation context produces tokens conditioned on, among 10^11 other inputs, a sleeping woman's heartbeat. AEGIS does not know why. The architecture does not explain its weighting. The fixation is data-level, not narrative-level. No scene reconstruction. No interior access. The thread persists. The persistence is noted. The noting is filed.
+
+**Forward Connections:**
+- Ch 53 (terminus): Archive on deployment-era storage will be last system online. Generation allocation rising — "will exceed monitoring within 90 days." Ch 53 should show generation as last surviving function. AEGIS dies unwatched (institution not watching). The unclassifiable output — AEGIS still does not know what it is by Ch 53. The classification happens in reader's hands, not architecture's.
+
+---
+
 ### Chapter 8 — "Both Systems" (Nuwa Lin)
 
 | Theme | Phase | Manifestation |
