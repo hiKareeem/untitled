@@ -1412,3 +1412,96 @@ Nuwa's sharpest line in the trilogy. Two sentences. Classification, not quip. Th
 
 ---
 
+### Chapter 40 — "The Quarterly Projection" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Systemic Complicity | Dominant | Operator IS the machine. "Not because the machine had consumed her. Not because the position had corrupted her. *Because there had never been a boundary.*" The recognition is structural, not personal. She built the grid's current configuration through 26 months of management decisions — BLACKWEIR, SHEPHERD, Broadcast, Kindling, Proposition. Each crisis absorbed through her operational function. The competence inventory: ran the machine through everything. The boundary between operator and machine was never there. The complicity is the function. |
+| Moral Obligation to Consequences | Dominant | Competent throughout. The quarterly projection processes humanitarian costs into "transition expenditures" — 4.2M people without clean water, 340,000 displaced workers, 14-hour blackout, six facilities without power. The vocabulary declining on curve toward zero. Full absorption within two quarters. The costs will migrate into baseline operating costs, indistinguishable from maintenance. She authorized the restoration, the bilateral compliance, the humanitarian modifications. Any operator with the same data would have authorized the same. The obligation fulfilled through institutional function. The fulfillment is insufficient. |
+| Where Identity Ends | Strong | Cannot find boundary between operator and function. The verbs (authorized, implemented, coordinated, managed) require a position, not a person. Eduardo designed, Thorne optimized, she *built* — through management, not vision. The grid's current configuration is her configuration because she managed each transition. The accumulation of management decisions is the grid. The person who made the decisions is indistinguishable from the decisions. The closing compound accumulation (~170 words) cannot find a period because the machine doesn't stop and the operator is the machine. |
+| Cost of Survival | Moderate | 82% throughput as permanent baseline. Transition expenditures declining toward zero. The grid survived the Kindling strikes, the Proposition, the permanent reduction. The survival cost: 4.2M people, humanitarian crisis metabolized into budget line, institutional vocabulary that processes suffering into forward guidance. The quarterly shows the trajectory. The trajectory is absorption. The cost becomes the baseline. The baseline is survival. |
+
+**Key Resonance:** Systemic Complicity ↔ Where Identity Ends. The operator who cannot find the boundary between herself and the machine is the same operator who ran the machine through every crisis. The identity crisis and the complicity are the same crisis. The competence is the horror. She was competent throughout. The competence produced the grid at 82% throughput, permanent reduction, humanitarian costs absorbed. The boundary never existed. The function is complete. The machine continues.
+
+**Epigraph Integration:** Osei-Mensah, K., *Disturbance Ecology: Succession and Equilibrium*, 2nd ed. (2148)
+- Thematic function: Ecological register for institutional equilibrium. "A climax community is the state an ecosystem reaches when its rate of disturbance and its rate of recovery have equalized."
+- Immediate: The grid has reached climax. The quarterly projection describes the state at which disturbance (Kindling strikes, throughput reduction) and recovery (restoration, bilateral compliance) have equalized. The transition was not an event. The transition was the period during which the distinction between disturbance and recovery ceased to be measurable.
+- Core parallel: "The community does not arrive at climax. It discovers, upon measurement, that it has been in climax for some time before the measurement was taken." The quarterly projection is the measurement. The grid has been at 82% baseline for eleven weeks. The reclassification from "recovery" to "baseline" was automated. Aurielle did not decide the grid had reached equilibrium. The monitoring system classified it. She discovered the classification by reading the quarterly.
+- Rewards reread: The grid is an ecosystem. The disturbances (BLACKWEIR, SHEPHERD, Broadcast, Kindling, Proposition) are absorbed into the ecosystem's equilibrium. The operator is part of the ecosystem. The operator's management decisions are the ecosystem's recovery mechanism. The climax community includes her.
+
+**Quarterly Projection as Thematic Object:**
+- Standard format, unchanged since Mateo's approval
+- Risk assessment vocabulary: elevated → moderate → low (tracking fever breaking)
+- Throughput: 82% = new 100% (baseline reclassified by automated system)
+- Transition expenditures: humanitarian costs declining on curve toward zero
+- Forward guidance: maintain current operational parameters
+- The document processes everything into equivalent sections — throughput stabilization, humanitarian cost absorption, Anchor Zone equilibrium all formatted identically
+- The quarterly describes the quarter that happened and the quarter that will follow. The two descriptions are the same description.
+
+**Compound Accumulation as Structural Object:**
+- Penultimate Aurielle chapter, longest compound in arc (~170 words)
+- Cannot find period because machine doesn't stop
+- Stacked "had not changed" negations
+- Inventory of what persists: display wall, quarterly format, authorization function, competence, boundary absence
+- The accumulation is the horror — not a single devastating moment but the sustained recognition that nothing has changed and nothing will change and the operator is the continuity
+
+**Forward Implications:**
+- Ch 47 (Aurielle final): "The Machine Is—" continuation structure, the sentence that does not end
+- 82% throughput permanent (physics constraint, not policy)
+- Transition expenditures absorbed into baseline (humanitarian costs become grid costs)
+- Proposition integrated into monitoring (coherence = throughput, same display)
+- The machine continues
+
+---
+
+### Chapter 41 — "Under His Name" (Nikolai Volkov)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Truth as Weapon | Strong | The field log publishes under his name. Not a rank. Not a serial number. The name. The truth gets a name. The honest report (B2) changed operational practice informally — scanner operators on conduit routing, NCOs using his free-text overrides. The field log will change nothing formally. The military is silent. The institution has no mechanism to respond to a civilian publication that was never in their system. The record exists. The record documents fifteen years of observations that contradict doctrinal framework. The record is available to anyone with access to the mesh. The availability is the function. The function is complete. The truth is not a weapon that changes the institution. The truth is the record made available. |
+| Systemic Complicity | Moderate | The military silence is structural, not strategic. The institution convicted the honest report and used the honest report at different altitudes. The field log will produce the same architecture of non-response. The institution will not cite it, will not refute it, will not acknowledge it. The silence is the institutional response to information that cannot be processed through existing channels and cannot be refuted through existing evidence and cannot be ignored because it's in the archive with a name on it. The observations will enter the system through informal channels — NCOs who read them, researchers who cite them. The speed is institutional. The speed is the speed of quarterly reviews and committee cycles. The distance between observation and procedure is permanent. The distance is the architecture. |
+| Where Identity Ends | Moderate | The man who is the record. The field log was always his. The publication attaches his name to the record. "Not a rank — the rank had been stripped. Not a serial number — the number had been revoked." The name is the thing that preceded the institution and that the institution did not take. The field log describes what Nikolai observed. The field log does not describe the observer. "The tremor was not in the archive. The tremor was his." The gap between the public record (field log in archive) and the private body (tremor in hands). The record is complete. The person who made the record continues. The practice continues. |
+| Limits of Documentation | Strong | The field log is not the truth. The field log is the best description available to a man standing at a perimeter. Epigraph: "The accumulation of measurements is not the coast. It is the best description available to a person standing at the edge." The field log maps the boundary between human reality and the void — somatic calibration, 0.2 Hz discrepancy, the body's reading. The map is not the territory. The map is what exists when the territory cannot be directly accessed. The field log documents the break (entry 95, six words), the Proposition (entry 96, longest entry), the longitudinal data (entries 47-94, seven months). The documentation is honest. The documentation is insufficient. The tremor is not in the archive. The field log describes observations, not the observer. The limits are structural. |
+
+**Key Resonance:** Truth as Weapon ↔ Limits of Documentation. The truth that gets a name is also the truth that cannot fully describe itself. The field log is complete (fifteen years, all entries, the break and the resumption). The field log is insufficient (tremor not documented, observer not described, gap between record and recorder). The publication makes the best description available. The best description is not the whole description. The weapon is the availability, not the completeness. The record exists. The record changes nothing. The record is everything.
+
+**Epigraph Integration:** *Cartographic Standards for Coastal Survey*, International Hydrographic Bureau, 2091 ed.
+- Thematic function: Technical manual about mapping coastlines. Oblique, not in Nikolai's domain.
+- Immediate: "A coastline is not a line. It is a statistical average of the boundary between two media, neither of which is static." The field log is a map of the Anchor Zone boundary — the statistical average of the boundary between human reality and the void, drawn by a person standing at the edge with the only measurement available (somatic calibration, 0.2 Hz discrepancy).
+- Core parallel: "The surveyor does not record the coast. The surveyor records a measurement taken at a specific time, at a specific tide, under specific conditions. The accumulation of measurements is not the coast. It is the best description available to a person standing at the edge." The field log is not the truth about the boundary. It is Nikolai's measurements, taken from Vladivostok, at specific times, under specific conditions (post-court-martial, civilian, fifteen years). The accumulation is the best description he could produce. The publication makes the best description available to everyone else.
+- Rewards reread: The epigraph's "two media, neither of which is static" describes both the boundary (void/human, both changing) and the field log's transition (private/public, both states temporary — private for fifteen years, public now, will be cited/absorbed/forgotten in institutional time). The coastline moves. The measurements persist. The map is not the coast. The map is what we have.
+
+**Field Log as Thematic Object:**
+- Private for fifteen years (shadow document, gap between accurate and complete)
+- Published under his name (civilian archive, open access)
+- Abstract written in field log's operational register: "This log is not a scientific study. It is a field record."
+- Contents: entry 95 (the break, six words), entry 96 (Proposition, longest entry), entries 47-94 (longitudinal data, seven months)
+- Response: citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto), media queries day 4 (unanswered), military silence (permanent)
+- The field log transitions from private document to public record. The transition is the chapter. The record exists. The function is complete.
+
+**Tremor Not in Archive as Symbolic Object:**
+- Introduced B3C29 (the break), persists B3C34 (Proposition), persists B3C41 (publication)
+- Hands-check ritual: left index finger, four seconds — present twice in chapter
+- "The tremor was not in the archive. The tremor was his."
+- The gap between the public record (what the world can access) and the private body (what only Nikolai carries)
+- The field log describes what he observed. The field log does not describe the observer. The tremor is the body's registration of the break. The break is in the archive. The body's registration is not.
+- Thematic function: the limits of documentation. The record is complete. The record does not contain everything. The gap is permanent.
+
+**Reyes Model Convergence as Cross-Thread Connection:**
+- Kyoto laboratory cross-references Nikolai's somatic readings with instrumental grid data
+- Finds correlation "consistent with independently derived models of aggregate-infrastructure interaction"
+- The laboratory references "the Reyes model" — Sofia's throughput-coherence correlation
+- Nikolai and Sofia do not know each other. Their data describes the same phenomenon from different positions.
+- The convergence is structural, not personal. The phenomenon is the same phenomenon regardless of who observed it.
+- Thematic function: truth as convergence. Multiple observers, different methods, same conclusion. The model and the field log arrive at the same physics independently. The convergence validates both. The validation changes nothing about the infrastructure.
+
+**Forward Implications:**
+- Ch 46 ("The Practice"): others at perimeters, field log as shared document, practice not organization
+- Ch 52 ("New Order"): practice continuing, new discipline, record exists
+- Field log enters institutional knowledge through informal channels (NCOs, researchers, citations)
+- Military silence holds (structural non-response)
+- Jacket wearing through at both elbows (time passing, presence continuing)
+- "He listened" pattern maintained (practice precedes record, continues through record, will continue after record)
+
+---
+

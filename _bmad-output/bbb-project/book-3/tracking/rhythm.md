@@ -1787,3 +1787,102 @@ The motif integrated through Nuwa's observational register — she inventories t
 - "Mid-truth" → "initial publication" (3 instances — Sofia's own naming, not institutional)
 
 ---
+
+### Chapter 40 — "The Quarterly Projection" (Aurielle Vasquez)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (quarterly processing) → sustained-crushing (institutional absorption) → quiet peak (compound accumulation) → resolving-quiet (closing)
+**Pacing:** Four-section structure. Quarterly projection ~1,000 words (31%). Display wall/Kindling ~800 words (25%). Operations summary (Eduardo/Thorne/operator) ~900 words (28%). Closing compound accumulation ~500 words (16%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Quarterly projection (last page first) | ~1,000 | Low-sustained | Institutional processing, risk vocabulary, transition expenditures, 82% = new 100% |
+| Display wall + Kindling disbandment | ~800 | Medium-sustained | Proposition integrated, coherence = throughput, Kindling irrelevant |
+| Operations summary (built/designed/optimized) | ~900 | Medium-high | Eduardo/Thorne/operator sequence, BLACKWEIR→SHEPHERD→Broadcast→Kindling→Proposition |
+| Closing compound accumulation | ~500 | High-quiet | Penultimate chapter, longest compound in arc (~170 words), "She opened the next report" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "Eighty-two percent was the new hundred percent." / "The pen performed its function." / "Competent throughout." / "She opened the next report."
+- TEXTURE mode = quiet register. Horror in normalcy, not intensity. Weight through institutional vocabulary metabolizing crises.
+- Single NBA deployment: "Not because the machine had consumed her. Not because the position had corrupted her. *Because there had never been a boundary.*" — chapter's pivot, longest payoff in B3 Aurielle arc (7 words)
+- Closing compound accumulation (~170 words) = longest in arc, earned by position (penultimate Aurielle chapter). Cannot find period because machine doesn't stop.
+- Bimodal paragraphs: dense institutional blocks (~75%) + single-line declarations (~25%)
+- Dialogue 0%: alone with the data. Consistent with trajectory since C21 (Thorne departure) and C30 (alone in suite).
+- Hum appears 3x in Section 4 only (through desk, through hands, "did not distinguish between wood and skin")
+- "Transition expenditures" vocabulary — humanitarian costs metabolized into budget line declining toward zero
+
+**Pacing Concern:** Risk of sustained institutional register feeling inert. Mitigated by: (1) quarterly vocabulary shifts tracking absorption (risk: elevated→moderate→low, transition expenditures category); (2) Kindling disbandment data (19 arrested, irrelevant now); (3) Eduardo/Thorne/operator sequence as competence inventory; (4) NBA deployment at boundary recognition; (5) compound accumulation as penultimate devastation.
+
+**Structural Note:** B3C40 is Phase 4 penultimate Aurielle chapter. The quarterly projection describes the grid at 82% throughput (permanent reduction, new baseline). The Proposition integrated into monitoring architecture. Kindling disbanded (correct, irrelevant). The operator built the grid's current configuration through management decisions, not design/optimization. The chapter rhythm enacts this: steady institutional processing → accumulation of absorbed crises → recognition that operator and machine share no boundary → the machine continues. "She opened the next report" — same closing as B3C1, bracketing Phase 4.
+
+**Comparison to B3 C1:**
+- B3 C1: "The Machine Continues" — six months post-Broadcast, quarterly review, "She opened the next report"
+- B3 C40: "The Quarterly Projection" — ~15 months post-Broadcast, quarterly review, "She opened the next report"
+- Together they bracket Phase 4: the machine absorbed the Broadcast (C1) → the machine absorbed everything (C40). Same closing. Same function. The horror is continuity.
+
+**Sensory Hierarchy:** Sound/vibration dominant (hum through desk/hands, 3x in Section 4). Tactile secondary (hands on walnut, wear on left side, pen on paper). Visual tertiary (display wall, afternoon light, twelve-minute window). Temperature absent (consistent with B3 progression).
+
+**Thematic Weight:** Systemic Complicity (Dominant — operator IS the machine, boundary never existed), Moral Obligation to Consequences (Dominant — competent throughout, absorbed everything), Where Identity Ends (Strong — cannot find boundary between operator and function), Cost of Survival (Moderate — transition expenditures declining, costs absorbed into baseline).
+
+**Meta-Narrative Seeds:**
+- 82% throughput as permanent baseline (new 100%)
+- Transition expenditures declining toward zero (full absorption within FY)
+- Kindling disbanded, irrelevant (objective achieved by physics)
+- Proposition integrated into monitoring architecture (coherence = throughput, same display)
+- Forward: Ch 47 (Aurielle final — continuation structure, "the machine is—")
+
+---
+
+### Chapter 41 — "Under His Name" (Nikolai Volkov)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat-sustained (archive submission) → rising-quiet (field log contents) → sustained (response: citations, queries, silence) → resolving-quiet (closing)
+**Pacing:** Four-section structure. Publication ~1,100 words (27%). Contents ~1,000 words (24%). Response ~1,300 words (32%). The record ~700 words (17%).
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Publication (archive submission, 03:14) | ~1,100 | Low-sustained | Interface fields, metadata, name in field, "The field log was public" |
+| The contents (what the archive holds) | ~1,000 | Medium-rising | Entry 95 (the break), entry 96 (Proposition), entries 47-94 (longitudinal), hands-check |
+| The response (citations, queries, silence) | ~1,300 | Medium-sustained | 19 hours (São Paulo), 1 week (4 citations), day 4 (media), military silence |
+| The record (what exists now) | ~700 | Resolving-quiet | Hum 5.1/5.3, tremor, aggregate murmur, wall, "He listened" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The field log was public." / "The silence was the response." / "The record existed." / "He listened."
+- TEXTURE mode = quiet register. Weight in accumulation (citations arriving, queries arriving, silence holding) and structural repetition, not intensity.
+- Zero NBA deployments (considered for publication moment, rejected — action not perceptual shift). One single-negation instance: "The field log was not a contribution to a discourse. The field log was a man standing at a wall writing what he observed." (cataloging register, not signature technique)
+- Closing rhythm: paratactic declarations building to two-word close. "He listened." — pattern resumed in B3C34, maintained here.
+- Bimodal paragraphs: dense blocks (archive mechanics, log contents, institutional response) + single-line punches ("The field log was public" / "The silence was the response" / "The record existed")
+- Dialogue 0%: Nikolai does not speak. The field log abstract functions as quasi-dialogue — document speaking to world.
+- Field log abstract shown in full (~100 words) — written in field log's operational register, not academic language
+- "Almost" count: 0 (declarative throughout — publishes, citations arrive, military silent)
+
+**Pacing Concern:** Risk of publication mechanics feeling procedural. Mitigated by: (1) name in the field (his name, not rank, not serial number) as emotional anchor; (2) field log contents summary (the break, the Proposition) as weight; (3) response architecture (citations within 19 hours, military silence) as institutional processing; (4) tremor not in archive (gap between record and recorder) as closing devastation.
+
+**Structural Note:** B3C41 is Phase 4 transformation. Nikolai's arc: field log private for 15 years → field log public under his name. The publication executes the decision made in B3C34. The chapter rhythm enacts this: submission mechanics → reflection on contents → world's response → what remains. The honest report (B2) changed practice informally. The field log will change nothing formally. Both true. Both insufficient. The record exists. The function is complete. The practice continues.
+
+**Comparison to B3 C34:**
+- B3 C34: "Status Report" — Proposition arrives, decision to publish, "I am going to publish this log. Under my name."
+- B3 C41: "Under His Name" — publication executed, record exists, "He listened."
+- Together they bracket the publication arc: decision → execution. Both chapters resume the practice after disruption. C34: "He listened" resumed after the break. C41: "He listened" maintained after the publication. The practice precedes the record, continues through the record, will continue after the record.
+
+**Sensory Hierarchy:** Sound/vibration dominant (hum 5.1/5.3, aggregate murmur, post-Proposition baseline, conduit architecture). Tactile secondary (datapad weight against ribs, jacket wearing through at both elbows, wall concrete warmth, tremor). Visual tertiary (datapad screen, hairline crack, orange tape, archive interface). Temperature present (Corridor cold, concrete warmth).
+
+**Thematic Weight:** Truth as Weapon (Strong — truth gets a name, record exists, changes nothing formally), Systemic Complicity (Moderate — military silence, institutional non-response), Where Identity Ends (Moderate — man who is the record, tremor not in archive), Limits of Documentation (Strong — field log describes observations not observer, "best description available to a person standing at the edge").
+
+**Meta-Narrative Seeds:**
+- Field log published, open access, under his name (civilian archive)
+- Citations within 19 hours (São Paulo), 4 citations within 1 week (Lagos, Stockholm, Kyoto)
+- Reyes model convergence (Kyoto lab cross-references somatic data, finds correlation with "independently derived models")
+- Media queries day 4 (not answered — field log is the response)
+- Military silence (structural, not strategic — log never in their system)
+- Jacket wearing through at both elbows (advanced from left only)
+- Tremor not in archive (gap between record and recorder)
+- Forward: Ch 46 (the practice — others at perimeters, field log as shared document), Ch 52 (new order — practice continuing)
+
+**User Edits:**
+- "internet connection" → "access to the mesh" (worldbuilding consistency)
+- "Sofia Vasquez's" model → "the Reyes model" (scientific community naming, Nikolai/Sofia don't know each other)
+
+---

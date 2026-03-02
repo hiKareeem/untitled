@@ -1080,3 +1080,105 @@ Emotional evolution: pen writes questions (B2 Ch 7) → pen writes framework (B2
 **Character State:** Phase 4 B3 (Transformation — "returning to the institution that broke you"). ~25 months post-BLACKWEIR, same day as B3C36 (AEGIS deciding to write). Lumina 0mg, 43 days clean (taper complete). R3 dampened (threshold raised, signal sub-threshold, reception at minimum viable resolution). Metacognition returning (cruelty-catching, apology). Filing system operational but encountering limits (dashes for parents, self-assessment). Quiet room → quiet window (metaphoric architecture replaced). Signal: foreground → background (fundamental reclassification). Tinnitus gone (post-dampening). Stream-voice absent. HUD dark. Neon roots growing out. Network 214/31, Nuwa coordinating. Parents' house Bay Area (recovery location). The person post-dampening is undefined. The filing system cannot categorize her. The antenna is dampened. The person is someone she would have to learn.
 
 ---
+
+### Chapter 40 — "The Quarterly Projection" (Aurielle Vasquez)
+
+**Emotional Arc:** Quarterly projection (last page first) → risk vocabulary tracking fever breaking → transition expenditures declining → display wall (Proposition integrated) → Kindling disbanded (correct, irrelevant) → operations summary (Eduardo/Thorne/operator) → NBA deployment (boundary never existed) → compound accumulation (cannot find period) → she opened the next report
+
+**Emotional Register:** TEXTURE sustained. Flat-crushing. Phase 4 penultimate. The institutional register is the only register. The horror is normalcy. The quarterly projection processes humanitarian costs into budget lines declining toward zero. The competence is the horror. She was competent throughout. The boundary between operator and machine never existed. The recognition is structural, not personal. The weight conveyed through institutional vocabulary metabolizing crises, not through named emotion.
+
+**Physical Tells:**
+- Hands flat on walnut surface (left side wear, Eduardo's elbows)
+- Pen on paper (NitroCore standard issue, annotation function)
+- Hum through desk (3x in Section 4 only) — through walnut, through hands, "did not distinguish between wood and skin"
+- Display wall (afternoon light, twelve-minute window geometry)
+- Quarterly projection on desk (standard format, unchanged since Mateo)
+
+**Emotional Beats:**
+
+1. **Last page first** — Low-sustained. Forward guidance: maintain current operational parameters. Risk: low. The vocabulary tracking the grid's convergence on post-Proposition baseline. Emotional weight: institutional processing. The quarterly describes the quarter that happened and the quarter that will follow. The two descriptions are the same description.
+
+2. **82% = new 100%** — Low-sustained. Throughput stable for eleven weeks. The monitoring system reclassified from "recovery" to "baseline" automatically. She did not authorize the reclassification. The system classified. She discovered the classification by reading the quarterly. Emotional weight: automated equilibrium. The grid reached climax. The measurement confirmed what had already happened.
+
+3. **Transition expenditures** — Medium-sustained. 4.2M people without clean water, 340,000 displaced workers, 14-hour blackout, six facilities without power. The vocabulary that processes humanitarian crisis into budget line declining on curve toward zero. Full absorption within two quarters. The costs will migrate into baseline operating costs, indistinguishable from maintenance. Emotional weight: vocabulary as metabolism. The suffering absorbed into the grid's permanent function.
+
+4. **Display wall** — Medium-sustained. Proposition's data integrated into standard display. Anchor Zone coherence and grid throughput occupy same visual hierarchy. The appendix (B3C1, unopened) is now the wall. The correlation is the organizing principle. Emotional weight: structural integration. The void's description of its own physics and the grid's description of its own performance are equivalent data streams.
+
+5. **Kindling disbanded** — Medium-sustained. 19 arrested, network dispersed. They were correct. They are irrelevant. The equilibrium they sabotaged toward is the equilibrium the void's physics confirmed. The throughput level they forced (78%) is within 2% of the level the boundary stabilized around independently (82%). Correctness and irrelevance occupy the same cell. Emotional weight: pyrrhic vindication (theirs, not hers). The quarterly does not contain a category for correctness.
+
+6. **Eduardo designed** — Medium-high. The grid she built is not the grid Eduardo designed. The design survived its designer, survived its conditions. The grid at 82% is not the grid designed to operate at 100%. It is the grid Eduardo's design made possible. Emotional weight: inheritance without presence. The walnut surface wear (left side, his elbows). The design persists. The designer is buried.
+
+7. **Thorne optimized** — Medium-high. SHEPHERD's throughput targets, scaling timelines, strategic vision. The thesis is dead. SHEPHERD terminated. The co-option strategy is historical line item. The optimizer resigned in three sentences. The optimizer is not in the quarterly. Emotional weight: absence as data. The quarterly describes the grid. The grid no longer contains a variable called Thorne.
+
+8. **She built** — High. Not designed, not optimized. Built through 26 months of management decisions. BLACKWEIR, SHEPHERD, Broadcast, Kindling, Proposition. Each crisis absorbed through her operational function. The grid's current configuration is her configuration because she managed each transition. The accumulation of management decisions is the grid. Emotional weight: competence as horror. She ran the machine through everything. The verbs require a position, not a person.
+
+9. **NBA deployment** — High (chapter pivot). "Not because the machine had consumed her. Not because the position had corrupted her. *Because there had never been a boundary.*" Emotional weight: recognition. The boundary between operator and function never existed. The complicity is structural. The identity crisis and the complicity are the same crisis. Longest NBA payoff in B3 Aurielle arc (7 words). The recognition is devastating. The recognition changes nothing.
+
+10. **Compound accumulation** — High-sustained. Penultimate chapter, longest compound in arc (~170 words). Cannot find period because machine doesn't stop and operator is machine. Stacked "had not changed" negations. Inventory of what persists: display wall, quarterly format, authorization function, competence, boundary absence. Emotional weight: sustained recognition without resolution. The accumulation is the horror — not a single moment but the sustained awareness that nothing has changed and nothing will change and she is the continuity.
+
+11. **"She opened the next report"** — Resolving-quiet. Same closing as B3C1. The machine continues. Emotional weight: continuity. The quarterly processed. The next report opened. The function persists. The operator persists. The boundary never existed. The machine is her. The machine continues.
+
+**Emotional Restraint Technique:** Aurielle's register does not name emotions. Weight conveyed through: (1) Institutional vocabulary metabolizing crises (transition expenditures, risk assessment shifts, baseline reclassification), (2) Competence inventory (Eduardo/Thorne/operator sequence), (3) NBA deployment at boundary recognition, (4) Compound accumulation (cannot find period), (5) Physical tells minimal (hum through desk/hands, pen annotation, walnut wear), (6) Closing repetition (same as B3C1). Devastation conveyed through recognition that operator and machine share no boundary. The horror is competence. The horror is continuity. The horror is the quarterly projection describing equilibrium and the operator discovering she is part of the equilibrium being described.
+
+**Character State:** Phase 4 B3 (penultimate Aurielle chapter). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Grid at 82% throughput (permanent baseline, reclassified by automated system). Proposition integrated into monitoring architecture. Kindling disbanded. Transition expenditures declining toward zero. Thorne departed (three sentences, B3C21). Eduardo buried (B2C46). Hargrave present but not in this chapter. Alone with the quarterly projection. Competent throughout. Boundary between operator and machine never existed. The recognition is complete. The machine continues.
+
+---
+
+### Chapter 41 — "Under His Name" (Nikolai Volkov)
+
+**Emotional Arc:** Archive submission (03:14, name in field) → field log public → contents (entry 95, entry 96, longitudinal data) → hands-check (tremor present) → response (citations 19 hours, media day 4, military silence) → institutional non-response architecture → the record exists → hum 5.1/5.3 → tremor not in archive → he listened
+
+**Emotional Register:** TEXTURE sustained. Quiet register throughout. Phase 4 transformation. The field log transitions from private document to public record. The transition is the chapter. Weight conveyed through: name in the field (not rank, not serial number), tremor not in archive (gap between record and recorder), military silence (structural non-response), "the record existed" (repetition as weight). No named emotions. The devastation is in the gap between what the archive holds and what only Nikolai carries.
+
+**Physical Tells:**
+- Datapad balanced on forearm, weight against ribs
+- Datapad hairline crack (lower third, bisecting institutional affiliation field)
+- Hands-check ritual: left index finger, four seconds — 2x deployment
+- Tremor: present both times, explicitly NOT in archive
+- Jacket from Lagos: wearing through at both elbows now (advanced from left only)
+- Wall: concrete, day's warmth, residential block Vladivostok
+- Orange tape: between stanchions, perimeter
+- Hum: 5.1 (body) / 5.3 (instruments), 0.2 gap maintained
+- Aggregate murmur: post-Proposition baseline, conduit architecture
+
+**Emotional Beats:**
+
+1. **Upload completed 03:14** — Low-sustained. Archive interface. Fields filled. Author name: Nikolai Volkov. Not a rank. Not a serial number. The name. Emotional weight: naming. The thing that preceded the institution and that the institution did not take. The field log was always his. The publication attaches his name to the record.
+
+2. **Institutional affiliation: None** — Low-sustained. The field accepted the entry. The system does not require an institution. The system requires a name and a document. Emotional weight: civilian status. The hairline crack bisecting the field. The crack does not affect function.
+
+3. **Abstract written** — Medium-rising. Field log's operational register, not academic language. "This log is not a scientific study. It is a field record." The abstract is the field log's summary written in the field log's language. Emotional weight: voice consistency. The document speaking to the world in Nikolai's voice. The only quasi-dialogue in the chapter.
+
+4. **Submission confirmed** — Medium-rising. Document received, processing, available within 24 hours. Open-access protocol. The field log will be searchable, downloadable. His name attached. No institution between the name and the observations. No classification between the observations and anyone who chooses to read them. Emotional weight: availability. "The field log was public." Single-sentence paragraph. The boundary removed.
+
+5. **The log contained the break** — Medium-high. Entry 95. Six words. "The perimeter is not a perimeter." Written after dark on the day the young man walked through him. The entry is in the archive. The six words that had been the field log's encounter with a category it could not process are now available to anyone with access to the mesh. Emotional weight: the break made public. The shortest entry in the log's history. The moment he could not write. Now readable.
+
+6. **The log contained the Proposition** — Medium-high. Entry 96. Longest entry in the log's history. The aggregate's 47-minute unified output. The body's translation. "Boundary: permanent. Absorbed: collective, integrated. Response function: continuous. The relationship is physics." Emotional weight: the Proposition documented. The body's honest reading of the aggregate's honest report. The only remaining credential: the calibration his mother taught him.
+
+7. **The log contained the months between** — Medium-sustained. Entries 47-94. Seven months. The aggregate responding to throughput. The aggregate learning. The anticipatory frequency shifts. The correlation documented in the field log's expanding vocabulary. The data no institutional deployment ever produced because no institutional deployment ever stayed. Emotional weight: longitudinal presence. Nikolai stayed. The data is his staying, converted into entries, converted into document, converted into file in archive with his name on it.
+
+8. **Hands-check (first)** — Medium-sustained. Left index finger. Four seconds. The tremor was there. Present since the young man. Present through the Proposition. Present through the weeks of resumed practice and the writing of the abstract and the filling of the fields. Emotional weight: physical continuity. The hands that had been steady through BLACKWEIR are not steady now. The tremor is the body's honest record of the break.
+
+9. **First citation (19 hours)** — Medium-rising. University of São Paulo, Breach Studies Institute. Formal citation: *Volkov, N., "Field observations from a breach perimeter..."* His name in academic citation. The observation recorded against a wall in civilian clothes, processed through academic system's citation architecture. Emotional weight: institutional processing (academic, not military). The field log — private for fifteen years, shadow document — being cited. Being read. Being processed by a system that does not know him and does not care about his discharge.
+
+10. **Citations within one week** — Medium-sustained. Lagos, Stockholm, Kyoto. The Kyoto laboratory extracted throughput-correlation data, cross-referenced with instrumental grid data, found correlation "consistent with independently derived models." The Reyes model. Nikolai and Sofia do not know each other. Their data describes the same phenomenon. Emotional weight: convergence without coordination. The phenomenon is the same phenomenon regardless of who observed it.
+
+11. **Media queries (day 4)** — Medium-sustained. Three outlets. Requests for interviews, comment on "implications for public understanding." The vocabulary of journalism processing scientific documents into public narrative. Emotional weight: translation refused. He did not respond. The field log is the response. The field log is the only language he has. The queries ask him to translate the field log into interview vocabulary. The translation would be reduction.
+
+12. **Military silence** — High. No communication from Theater Command, Stalker Corps, PCC public affairs. The discharge agreement's security review protocol does not apply because the field log was never in institutional system. The field log existed outside the institution for fifteen years. The institution has no claim on what it never held. Emotional weight: structural non-response. The silence is the response. The same silence that followed the honest report. The institution will not cite, will not refute, will not acknowledge. The silence will hold.
+
+13. **Honest report parallel** — High. The honest report changed operational practice informally. Scanner operators on conduit routing. The NCOs who used his free-text overrides. The field log will change nothing that the honest report has not already changed. The field log adds the data. The data will sit in the archive. The data will be cited. The data will be read by people who recognize what it describes. Emotional weight: insufficient sufficiency. The record will not save anyone. The record will not change policy. The record exists. The existence is the function.
+
+14. **The record existed** — High. Repetition as structural weight. "The record existed." The man stood at a perimeter and wrote what he observed and attached his name to the record and placed the record in the world. The record will not change the institution. The institution changes through quarterly cycles and committee processes. The distance between observation and procedure is permanent. The distance is the architecture. Emotional weight: completion without resolution. The function is complete. The record exists.
+
+15. **Hands-check (second)** — Medium-sustained. Left index finger. Four seconds. The tremor. Still there. The body's registration of the break, carried forward through the resumption, through the publication, through the citations and the queries and the silence. Emotional weight: private persistence. The tremor is not in the archive. The tremor is his.
+
+16. **Tremor not in archive** — High. "The tremor was not in the archive. The tremor was his." The gap between the public record (field log in archive) and the private body (tremor in hands). The field log describes what he observed. The field log does not describe the observer. Emotional weight: limits of documentation. The record is complete. The record does not contain everything. The gap is permanent. The devastation is in the separation.
+
+17. **"He listened"** — Resolving-quiet. Pattern resumed in B3C34, maintained here. The publication does not change the practice. The man who published the field log is still standing at the wall, still listening. Emotional weight: continuity. The practice precedes the publication, continues through the publication, will continue after the publication. Two words. The weight of fifteen years. The record is in the world. The man is at the wall. The listening continues.
+
+**Emotional Restraint Technique:** Nikolai's register does not name emotions. Weight conveyed through: (1) Name in the field (not rank, not serial number), (2) Field log contents summary (the break, the Proposition, longitudinal data), (3) Response architecture (citations arriving, queries arriving, military silence), (4) Tremor not in archive (gap between record and recorder), (5) "The record existed" (repetition), (6) Physical tells (hands-check 2x, jacket wearing through both elbows, hum 5.1/5.3, aggregate murmur), (7) "He listened" (closing pattern maintained). Devastation conveyed through the gap between what the world can access (field log in archive) and what only Nikolai carries (tremor in hands). The horror is the limits of documentation. The record is complete. The record is insufficient. The function is complete. The practice continues.
+
+**Character State:** Phase 4 B3 (transformation). ~15 months post-Broadcast, ~29 months post-BLACKWEIR. Vladivostok perimeter. Civilian clothes. Field log published under his name (civilian scientific archive, open access). Citations within 19 hours (São Paulo), 4 citations within one week (Lagos, Stockholm, Kyoto). Media queries day 4 (unanswered). Military silence (permanent, structural). Tremor persists (introduced B3C29, present B3C34/C41). Jacket wearing through both elbows. Datapad hairline crack maintained. Hum 5.1/5.3 (0.2 gap). Aggregate murmuring at post-Proposition baseline. Standing at wall. Hands-check ritual maintained. "He listened" pattern maintained. The record exists. The function is complete. The practice continues.
+
+---
