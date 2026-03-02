@@ -187,6 +187,43 @@ The story follows a **ratchet** pattern — each event raises the baseline:
 
 ---
 
+### B3 Ch 43 — "The Count Is Final" (Nuwa Lin)
+
+**Timeline:** ~24 months post-BLACKWEIR, post-Proposition
+**Location:** Neo-Shanghai Mid-Levels — Nuwa's room, residential corridor
+
+**Events:**
+- Proposition confirmed: boundary permanent, absorbed will not return, count final
+- Nuwa acquires composition books from Shuang (blue and green, 40 pages each)
+- Writes the count longhand with implant-maintenance stylus:
+  - 47 names from Broadcast (Mrs. Huang, Yuto, Lin Wei, mother Lin Mei + 43 others)
+  - Names from Fuxi's data chip metadata (14 pages, junction coordinates cross-referenced)
+  - 4,211 verified names from testimony network
+  - Global cities: Lagos (1.2M absorbed, 892 verified names), Mumbai (killed not absorbed), threshold volunteers, smaller breaches
+- Runs out of pages at 3,847 names, acquires second book from Shuang
+- Four hours of data entry: submits count to testimony network archive with open access classification
+- Network receives the count: 17 green notifications (Yara, Lagos coordinator, Dharavi correspondent, mages, coordinators)
+- Composition books become first possessions Nuwa cannot pack in four minutes
+
+**Character States:**
+- Nuwa: Phase 4 transformation. The count completes. First non-packable possessions (rootedness marker). "The inventory was open. She was not done."
+- Mother Lin Mei: Name written in count — died pre-BLACKWEIR from chronic nitro-exposure, not absorbed
+
+**Objects:**
+- Composition books (blue and green) — acquired, filled, placed on table
+- Implant-maintenance stylus — repurposed as writing instrument
+- Business card (B3C24) — still on counter
+
+**Continuity:**
+- 22 creds, oil gone, rice borrowed from Fen
+- Adhesive day 11 of 12
+- Frozen notification unchanged
+- Green notifications: 14 → 17+
+- Two years (24 months) post-BLACKWEIR noted as round number
+- Fen and Shuang exchanges follow margin protocol
+
+---
+
 ## Timeline
 
 ### Prologue — Arctic-7 (2174, December)

@@ -98,6 +98,54 @@ An object deserves documentation if it:
 **Significance:**
 - Symbolism: The commodification of suffering made literal — civilization's fuel IS anguish
 - Stakes: Reducing nitro throughput = reducing the void's signal, but also economic collapse. The fuel is the threat.
+
+---
+
+### Composition Books (Nuwa's Count)
+
+**Origin:**
+- Provenance: Education distribution program (institutional, standardized format)
+- Acquired: B3 Ch 43, from Shuang (Unit 2, Level 4) in exchange for topology update
+- Circumstances: Nuwa needed paper to write the count longhand. Shuang's children received three composition books each from education distribution. Shuang provided two (blue and green covers).
+
+**Description:**
+- Appearance: Blue cover (40 pages) and green cover (40 pages). Education-grade lined paper, ruled margins, standardized institutional format. Manufactured for education programs.
+- Function: Physical record of the count — 4,211 verified names from testimony network, 47 names from Broadcast, names from Fuxi's data chip metadata, global city totals. Written longhand with implant-maintenance stylus.
+- Condition: Filled completely. Blue book: 47 names (Broadcast) + partial Fuxi metadata. Green book: remaining Fuxi metadata + 4,211 testimony network names + global cities + total.
+
+**Significance:**
+- Symbolism: First possessions Nuwa owns that she cannot pack in four minutes. Paper record exists outside digital classification architecture — cannot be reclassified, deaccessioned, or deleted by the system. Rootedness marker. Transformation from packable to rooted.
+- Stakes: The count is permanent. The names are preserved in a format the institutional system cannot erase. The books are the counter-archive to the system that deaccessioned the Sump's residential records.
+- Thematic Weight: Irrelevance of Individual Being (makes individuals legible against aggregate), Cost of Survival (first non-packable possessions), resistance to institutional erasure.
+
+**Current Owner:** Nuwa Lin
+
+**History:**
+- B3 Ch 43: Acquired from Shuang (blue book first, green book second after running out of pages). Filled with 4,211+ names over ~6 hours of writing. Placed on table beside bowl — first objects whose value exceeds portability. Cannot be folded without creasing the names.
+
+---
+
+### Implant-Maintenance Stylus (Nuwa's Writing Tool)
+
+**Origin:**
+- Provenance: Overlay repair kit component
+- Acquired: Pre-existing possession (part of cracked implant maintenance supplies)
+- Circumstances: Designed for cleaning cracked housing contacts when moisture residue accumulates on pins. Repurposed as writing instrument for the count.
+
+**Description:**
+- Appearance: Fine-tip stylus, designed for precision cleaning of implant contacts
+- Function: Primary function — cleaning cracked housing contacts. Repurposed function — writing instrument. Fine tip holds ink, produces thin consistent line on education-grade paper.
+- Condition: Functional for both maintenance and writing purposes
+
+**Significance:**
+- Symbolism: The tool that maintains the damaged implant becomes the tool that writes the count. The implant carries Fuxi's data chip (13 years of junction maps, foundation of the count). The stylus maintains the implant and writes the names the implant's data identified. Object connects maintenance and memorial.
+- Stakes: Practical solution to material scarcity. Nuwa does not have a pen. She has a maintenance tool. The tool becomes the instrument of record-keeping. Consistent with her material economy — everything serves multiple functions, nothing is single-use.
+- Thematic Weight: Cost of Survival (repurposing as resistance to scarcity), material specificity as emotional weight.
+
+**Current Owner:** Nuwa Lin
+
+**History:**
+- B3 Ch 43: Repurposed from implant maintenance to writing the count. Used to write 4,211+ names across two composition books over ~6 hours. Iridescent chemical staining on Nuwa's fingertips visible during writing.
 - Potential Conflicts: Every faction depends on it; no faction can afford to stop using it. The Free African States' partial independence is the control group proving the correlation
 
 **Current Owner:** Civilization (infrastructure), NitroCore (corporate control of refinement patents)

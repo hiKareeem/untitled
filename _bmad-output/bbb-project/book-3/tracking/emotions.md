@@ -79,6 +79,53 @@ This document tracks emotional beats, character interiority, and affective reson
 
 6. **Compound effect discussion on channel** — "Factor of 2.4 on the first data point." Lam: "We need replication." Sofia: "We need replication." Emotional weight: scientific register as emotional restraint. The discovery that could lower global target from 20% to 12-15%. One data point. The methodology demands confirmation. The excitement (if present) is compressed into clipped exchange, immediate quantification demand, silence of recalculation.
 
+---
+
+### Chapter 43 — "The Count Is Final" (Nuwa Lin)
+
+**Emotional Arc:** Counting ritual → Proposition confirmation (the counting has stopped) → composition book acquisition → writing the 47 names → mother's name (Lin Mei) → running out of pages → second book → writing remaining names → four hours of data entry → archive submission (open access) → network receives the count → composition books as first non-packable possessions → the work continues
+
+**Emotional Register:** Memorial labor delivered through inventory register. No named emotions. Weight conveyed through material specificity (running out of pages, battery failing, four hours), physical detail (stylus movement, iridescent staining visible, spatial compression of handwriting), and the mother's name passage (grief as record-keeping).
+
+**Physical Tells:**
+- Iridescent staining on fingertips (chemical residue from textile reclamation, visible during writing)
+- Stylus movement across lined paper (small characters, spatial compression as pages run out)
+- Hand against masonry wall (cool, dense, body confirming what body knows)
+- Adhesive ritual (day 11 of 12, thumbnail into split, count to thirty)
+- Composition books stacked beside bowl (blue on bottom, green on top — first non-packable possessions)
+- Head tilted (dead zone compensation, overlay interface)
+- Battery warning pulsing (cracked housing, unreliable power management)
+
+**Emotional Beats:**
+
+1. **"The counting had stopped"** — Emotional weight: cessation. Not Nuwa's counting — the system's. The Proposition confirmed: boundary permanent, absorbed will not return. The number is final. For the first time since BLACKWEIR, the count has stopped climbing. The finality is the datum. The datum is the foundation for what follows.
+
+2. **Composition book acquisition** — Emotional weight: material exchange. Fen's brief assessment. Shuang's children drawing (one draws the building, one draws the building on fire — children draw what children draw). The exchange economy: composition book for topology update. "Shuang doesn't sell to neighbors." The margin protocol. The providing is the architecture.
+
+3. **Writing the 47 names** — Emotional weight: memorial specificity. Mrs. Huang. Yuto. Lin Wei. Each name with junction coordinates from Fuxi's data chip. The stylus moving across education-grade paper. The iridescent staining catching light from ventilation shaft window. The writing is not the counting. The counting is not the mourning. The mourning is not the point. The point is the record.
+
+4. **Mother's name (Lin Mei)** — Emotional weight: grief as line item. *Lin Mei. Block 14, Unit 7. Junction coordinates: 14-East-7.2. Cause of death: chronic nitro-exposure respiratory failure — pre-BLACKWEIR.* Not absorbed. Dead before the absorption. The institutional vocabulary called it "occupational environmental factor." The factor filled her lungs. The lungs stopped. The stopping was called "natural causes." The natural causes were the infrastructure. The writing is the correction. The correction is the record. The record is the grief.
+
+5. **Running out of pages** — Emotional weight: material scarcity. 3,847 names written. 364 remaining. The spatial compression of handwriting — characters smaller as pages run out, the inventory shrinking as the work expands. The arithmetic of scarcity applied to memorial labor. She needs another book.
+
+6. **Second book acquisition** — Emotional weight: logistics. Shuang's unit on Level 4. The exchange complete. The work continues. No ceremony. No pause. The memorial labor is labor — it requires materials, it requires tools, it requires the ongoing provision of what the work needs.
+
+7. **Writing remaining names** — Emotional weight: completion approaching. 4,211 verified names from testimony network. Then the other cities: Lagos (1.2M absorbed, 892 verified names), Mumbai (not absorbed — killed, the distinction preserved), threshold volunteers, smaller breaches. The total written as inventory, not as single number. Each source, each city, each category. The sum is the sum.
+
+8. **"The stylus stopped"** — Emotional weight: cessation. Two composition books filled. Blue and green. Forty pages each. The longest document of her life. The document is names. The names are the count. The count is complete.
+
+9. **Archive submission (four hours)** — Emotional weight: labor sustained. Four hours of data entry. Battery warning pulsing (cracked housing, unreliable). Open access classification chosen — deliberate refusal of institutional gatekeeping. No review. No classification tier. No six-to-eight-week processing. Anyone on the network can read it. The choice is the political choice. The count does not require the system's permission to exist.
+
+10. **Network receives the count** — Emotional weight: validation. 17 green notifications. Yara: *Received. Integrating with Lagos database. This is the first consolidated ground-truth record from the testimony network.* Lagos coordinator: *Cross-referencing with local archive.* Dharavi correspondent: *The distinction — killed, not absorbed — is preserved. Thank you for preserving the distinction.* The count is received. The count is permanent. The count is hers.
+
+11. **Composition books as first non-packable possessions** — Emotional weight: transformation. Everything Nuwa has owned since B1C42 could be packed in four minutes. The books cannot be packed without folding. Folding would crease the names. This is rootedness — the first object whose value exceeds its portability. The books are on the table beside the bowl. Blue on bottom, green on top. The first thing she owns that she would carry differently.
+
+12. **"The inventory was open. She was not done."** — Emotional weight: continuation. The count is complete. The work is not. Topology updates. Network coordination. Path-poor classifications for Shuang's sector. The margin residents who need junction data. The documentation group's integration. The mages' queries. The corridors that need mapping. The count is a period. The work is the sentence that continues after it.
+
+**Emotional Restraint:** All grief, determination, exhaustion, and satisfaction conveyed through material detail and physical action. No emotions named. The mother's name passage is the emotional center — delivered through the counting register ("The writing was not the counting and the counting was not the mourning and the mourning was not the point. The point was the record."). The transformation (composition books as rootedness) is delivered through material fact (cannot be folded without creasing the names). The validation (network response) is delivered through green notifications, not through emotional reaction.
+
+**Arc Position:** Phase 4 transformation. The count completes. Nuwa is now the person who archives, not just the person who is archived. The frozen grey notification (the system that archived her) sits beside 17 green notifications (the count she archived). Both systems. The difference: the count is hers.
+
 7. **"Three people were arrested today"** — Sofia says it at dinner. Does not know why she said it. "The statement arrived at the dinner table the way data arrived on the monitor — present, unprocessed, requiring acknowledgment before it could be filed." Emotional weight: processing delay. The human cost entering domestic space. Miguel's fork set down. Elena's fork continues. The differential response.
 
 8. **Elena's line** — "Your model is improving. Their arrests are not." Emotional weight: moral thesis delivered through data juxtaposition. Eight words. Subject-verb, subject-verb. The gap between scientific progress and human consequence compressed into parallel construction. Elena does not tell Sofia what to feel. Elena presents the juxtaposition. The register is scientific. The meaning is maternal. The line carries both.

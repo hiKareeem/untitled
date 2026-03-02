@@ -79,6 +79,49 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 
 **Pacing Concern:** Risk of tourism economy feeling like worldbuilding exposition. Mitigated by: (1) filtering all visuals through Nuwa's inventory register (counts, prices, measurements); (2) 47 names vs tourists' counts as thematic anchor; (3) recognition scene as physical tension peak; (4) polymer fragment horror ("The hand was now a product") as emotional climax.
 
+---
+
+### Chapter 43 — "The Count Is Final" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat accumulation (counting ritual → Proposition confirmation) → material acquisition (composition books) → sustained writing labor (names filling pages) → archive submission → resolving (network receives the count)
+**Pacing:** Slow, deliberate. Memorial work delivered through inventory register. Weight in material specificity, not atmospheric intensity.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening count (before eyes) | ~300 | Low-sustained | Counting ritual, 24 months marker, frozen notification, adhesive cycle |
+| Proposition confirmation | ~200 | Low-medium | Feed summary, institutional language, "the counting had stopped" |
+| Composition book acquisition | ~400 | Low-sustained | Fen exchange, Shuang exchange, margin protocol |
+| Writing the 47 names | ~400 | Medium (emotional center) | Mrs. Huang, Yuto, Lin Wei, mother's name (Lin Mei) |
+| Writing Fuxi's metadata | ~300 | Medium-sustained | 14 pages, overlap noted, spatial compression beginning |
+| Running out of pages | ~200 | Medium-high (material tension) | 364 names remaining, need another book |
+| Second book acquisition | ~200 | Low | Shuang's unit, children drawing, exchange complete |
+| Writing remaining names | ~400 | Medium-sustained | 4,211 completed, other cities, total as inventory |
+| Archive submission | ~600 | Medium-high (labor peak) | Four hours data entry, battery warning, open access choice |
+| Network response | ~400 | Resolving | 17 green notifications, Yara/Lagos/Dharavi, count received |
+| Closing (evening) | ~400 | Resolving | Rice borrowed, composition books on table, first non-packable possessions, "not done" |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The counting had stopped." / "364 names remaining. She needed another book." / "The stylus stopped." / "She submitted." / "The count was complete. The work was not."
+- TEXTURE mode = quiet register. Weight in material labor (four hours, running out of pages, battery failing), not in atmospheric density. Paragraph density moderate.
+- Zero NBA deployment (deliberate — counting is accumulation, not revelation)
+- Closing rhythm: paratactic declarations, inventory expansion (composition books added to count), final lines shortest sentences in section
+- Bimodal paragraphs: dense blocks (writing passages, archive submission, network response) + single-line punches (~20% 1-line)
+- Dialogue ~3% (minimal, functional — "A count." / "If you have one." / "I'll have it by tomorrow.")
+- Mother's name passage: emotional peak delivered through counting register, not through named grief
+
+**Pacing Concern:** Risk of four-hour data entry feeling repetitive or inert. Mitigated by: (1) battery warning as material tension; (2) open access classification choice as political moment; (3) network response as validation/resolution; (4) composition books as transformation marker (first non-packable possessions).
+
+**Structural Note:** Phase 4 transformation. The count completes. The work continues. Nuwa now owns something she cannot pack in four minutes — the composition books cannot be folded without creasing the names. This is rootedness. The chapter rhythm enacts memorial labor: slow, deliberate, exhausting, material. The weight is in the doing (four hours, stylus movement, spatial compression, running out of pages), not in the feeling.
+
+**Comparison to B3 C8:**
+- B3 C8: Both systems established, recognition scene (Yara), 47 names counted, dual visibility
+- B3 C43: Count finalized, 4,211 names written, open access archive, composition books as rootedness
+- Together they bracket Nuwa's transformation: C8 = in both systems (archived + named). C43 = the person who archives (the count is hers).
+
+**Dialogue Percentage:** ~3% (deliberate — memorial work is solitary, exchanges minimal and functional)
+
 **Structural Note:** B3C8 establishes Nuwa's dual-network role and loss of invisibility. Phase 1 equilibrium. The district has formed. The tourism has normalized. The commodification is complete. The horror is the speed (6 months). Chapter rhythm enacts this: steady accumulation, inventory-driven, the pace of normalcy. The counting continues. The inventory expands. She is not done.
 
 **Comparison to B2 C8:**
