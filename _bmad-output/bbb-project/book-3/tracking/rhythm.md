@@ -2198,3 +2198,54 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Forward: Phase 5 continuation chapters for other POVs
 
 ---
+
+### Chapter 48 — "The Pen Stopped" (Zeyad Al-Fahim)
+
+**Mode:** CONTINUATION
+**Tension Shape:** Flat institutional processing (committee session) → sustained observation (corridor/portrait) → resolving accumulation (exterior + final accretive sentence + dash)
+**Pacing:** Slow, deliberate. Institutional speed. Weight in accumulation and gap between filed and cited, not in action or dialogue.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Committee chamber — Article 9 | ~1,500 | Low-sustained | Amendment text, his threshold/numbers, "emerging consensus," he could speak/doesn't |
+| Committee chamber — Articles 12, 14, vote | ~1,100 | Low-sustained | His disclosure provision narrowed, data sharing mandate, preliminary vote 11-3 |
+| Hall of Nations — corridor/portrait | ~900 | Low-medium | Flag pristine, Khalil photograph, gesture returned as non-institutional |
+| Exterior — the record | ~900 | Medium-resolving | Building behind him, record exists/changed nothing, NBA deployment, final accretive sentence |
+
+**Rhythm Notes:**
+- CONTINUATION mode = institutional register. Intensity in gap between what was filed (UGC-ADR-2176-0041) and what was cited ("emerging consensus") — not in prose density or emotional volume.
+- Long-long-long-SHORT pattern sustained — "He could speak." / "He did not speak." / "He removed his hand from the frame." / "The record existed." / "The record changed nothing."
+- Single NBA deployment: "Not rejection. Not suppression. Not the procedural violence of the seventeen motions or the legal violence of the prosecution or the administrative violence of a grey card with illegible typography. *Absorption.*" — Three institutional violence types negated (procedural → legal → administrative) before italicized payoff. Echoes B3C42 construction in final, settled form.
+- Closing: Final paragraph is single sustained accretive sentence (200+ words, 15+ "and" conjunctions) — institutional paralysis made syntactic. The sentence accumulates clauses the way the institution accumulates documents. The sentence cannot stop. Cuts to "The continuation is—" (dash).
+- Zero spoken dialogue from Zeyad (deliberate — the silence is the register). Committee delegates speak (Mensah, FAS delegate, session clerk) — all procedural, institutional register, zero contractions.
+- Bimodal paragraphs: dense institutional processing blocks + single-line transitions (~20% 1-line).
+- Paratactic dominance: Long accretive chains with "and" conjunctions. Institutional vocabulary as connective tissue.
+
+**Dialogue Percentage:** ~3% (committee procedural only — Mensah reading amendments, FAS delegate proposing parameters, session clerk notations). Zeyad speaks zero times.
+
+**Structural Note:** Zeyad's final chapter. Not resolution — continuation. The document entered policy. The name did not. The pen stopped because the document was complete, not because hope was lost. The institution continues. The Accords are revised using his architecture. The architecture bears loads. The name is filed. The continuation is— (dash, not period).
+
+**Hum Baseline:** Post-Proposition equilibrium frequency. In floor/chair/table (committee chamber, acoustic dampening filters it), in corridor (unfiltered), in street beneath feet (conduit infrastructure). "The hum continued. The pen did not."
+
+**Credential Status:** Blue laminated (RESTORED DELEGATE — FLOOR ACCESS — UNRESTRICTED), 4 months old, pristine typography. Grey pass absent (16 months degraded, replaced).
+
+**Flag Status:** Jordanian flag pristine (new emitter, 4 months), full spectrum, historyless. "The new emitter had no memory of the old emitter." Form persists, history erased.
+
+**Pen Status:** In breast pocket beside credential. Has not written since B3C19 (document complete). "The pen stopped because the document was complete."
+
+**Thematic Weight:** Institutional Impotence (DOMINANT — absorption as terminal mechanism, not rejection), Architecture of Power (STRONG — foundation/elevation metaphor, architecture present/name absent), Where Identity Ends (MODERATE — name in archive, not in policy).
+
+**Epigraph Function:** *Principles of Subgrade Construction and Foundation Design*, 2149 ed., §2.1: Load Transfer and Concealment. Foundation engineering. First read: technical specification about load transfer from superstructure to bearing strata, foundation not shown in elevation. Reread: Zeyad IS the foundation — his architecture present in every load the revised Accords carry, his name not present in any representation the institution offers of itself. Perfect structural metaphor. Fresh domain (engineering/construction, not water/cartography/ecology).
+
+**Cross-POV Resonance:** Sofia (C47) + Zeyad (C48) = parallel final chapters. Both "The continuation is—" endings (dash). Both absorption without attribution (Sofia: 31 institutional documents using her framework uncited; Zeyad: legal advisory panel bibliography does not cite his document). Both weather station/foundation metaphors (function not person, structure not identity). Both obligations fulfilled (Sofia: monitoring continues; Zeyad: record exists). Both sentences that do not end.
+
+**Meta-Narrative Seeds:**
+- None — this is Zeyad's final chapter
+- The institution continues (committee sends amendments to legal advisory panel)
+- The Accords will be revised using his architecture
+- The name will be in the archive
+- The filing is permanent
+- Forward: Phase 5 continuation chapters for other POVs
+
+---
