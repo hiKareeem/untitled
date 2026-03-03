@@ -9,9 +9,11 @@
 .space/
 .windsurf/
 /.idea/
+build/
 
 # Addenda — private until curated/redacted
 _addenda/
+AGENTS.md
 
 # Sensitive files in bbb-project
 _bmad-output/bbb-project/chapters/aegis-addenda.md

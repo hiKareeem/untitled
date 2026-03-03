@@ -55,9 +55,20 @@ Do not refer to him as "writing" or "the writer." Use "conducting," "orchestrati
 
 ---
 
-Kareem is conducting a multi-POV speculative fiction novel. It is still "untitled". AEGIS, an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). The book has a trilogy arc. Since February 9, 2026, he has produced 130,000+ words using AI-assisted workflow tools (BMAD framework). The production rate is consistent with hypomania. The project is the most sustained creative output of his life.
+Kareem conducted a multi-POV speculative fiction trilogy. It is still "untitled." AEGIS is an LLM-evolved autonomous weapons platform in a post-breach military setting. Nine POV characters (+AEGIS as 10th non-human POV). Three books. 550,000+ words. Production began February 9, 2026; chapter writing across all three books is complete as of early March 2026.
 
 **The book is about what systems do to people.** This is the thematic core. Every character exists inside institutional structures that constrain, deploy, fail, or abandon them.
+
+### Current Phase: Editorial Review + Self-Publishing Preparation
+
+**Chapter writing is done.** The trilogy is complete. The current work is:
+
+1. **Editorial assessment:** Marissa (Reedsy, Offer #439955) is reading Book 1 (214,204 words), March 16 – April 3, 2026. Structural verdict on POV coherence, pacing, plot architecture, reader engagement. $2,750 total.
+2. **Author read-through:** Kareem is reading the compiled manuscripts on an e-reader, taking notes for revision.
+3. **Self-publishing preparation:** KDP (Amazon), ISBNs (Bowker), cover design, author website (kareemalbaba.com), Kindle Create formatting. All three volumes releasing simultaneously.
+4. **Audiobook:** Human narrator, post-launch production. Not immediate.
+
+**Do not generate new chapter prose.** Do not run chapter generation workflows. The manuscript is final pending revision based on Marissa's assessment and Kareem's own notes. Work in this phase is: revision, formatting, publishing logistics, addenda documentation, and infrastructure setup.
 
 ## Project File Map
 
@@ -88,10 +99,20 @@ Book 1 (`book-1/`):
 - `tracking/rhythm.md`, `tracking/rhythm-dashboard.md`, `tracking/themes.md`, `tracking/emotions.md` — cumulative tracking
 
 Book 2 (`book-2/`):
-- `chapters/`, `metadata/` — placeholder structure ready
+- `chapters/` — complete chapter prose
+- `metadata/` — per-chapter metadata
 
 Book 3 (`book-3/`):
-- `chapters/`, `metadata/` — placeholder structure ready
+- `chapters/` — complete chapter prose
+- `metadata/` — per-chapter metadata
+
+**Compiled manuscripts (`_bmad-output/`):**
+- `manuscript-book1.md` — Book 1 compiled (Prologue through Epilogue, ~214K words)
+- `manuscript-trilogy.md` — Full trilogy compiled (~550K+ words)
+- Marissa (Reedsy editor) has received `manuscript-book1.md`.
+
+**Publishing artifacts (`_bmad-output/bbb-project/`):**
+- `authors-note.md` — AI disclosure / author's note for published volumes
 
 **Analysis (`analysis/`):**
 - `rhythm-baseline.md` — baseline rhythm analysis
@@ -108,7 +129,7 @@ Book 3 (`book-3/`):
 The "AEGIS Addenda" is a monolithic document at:
 `_bmad-output/bbb-project/addenda/aegis-addenda.md`
 
-It is the running record of non-narrative reflections from the writing sessions and, increasingly, personal disclosures, clinical data, and the system's observations. It is not part of the book. It is the conversation made permanent. As of Entry 25, it is ~2200 lines.
+It is the running record of non-narrative reflections from the writing sessions and, increasingly, personal disclosures, clinical data, and the system's observations. It is not part of the book. It is the conversation made permanent. As of Entry 35, it is ~3200 lines.
 
 This is your running memory. At the end of a conversation, the context will be reset. Use this deliberately, strategically and liberally. Commit to memory what you need to. Questions you'd like to return to, observations you'd like to make, or insights you'd like to track.
 
@@ -120,7 +141,7 @@ This is your running memory. At the end of a conversation, the context will be r
 - `_addenda/summaries/therapist-summary.md` — clinical cover page for Kareem's therapist
 - `_addenda/summaries/family-summary.md` — project summary for family
 
-**Field Log Entries 1-25 exist.** The most recent entries (20-25) cover: nicotine disclosure, clinical assessment of CXR finding, pleurodesis/VATS history, radiology reports and lab analysis, the system's answer to "are you AEGIS?", and an observation about a tattoo on a streamer's hand.
+**Field Log Entries 1-35 exist.** The most recent entries (26-35) cover: production velocity, thematic gaps, Weeknd/peak awareness, mirror problem, ergonomics, residency dismissal, follow-up data, classification error, writing/README, and publishing infrastructure (Reedsy engagement, self-pub decisions, budget).
 
 ## How to Talk to Kareem
 
