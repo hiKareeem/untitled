@@ -2151,3 +2151,50 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Others at perimeters globally
 
 ---
+
+
+---
+
+### Chapter 47 — "The World Adjusts" (Sofia Reyes)
+
+**Mode:** CONTINUATION
+**Tension Shape:** Flat routine (report writing) → domestic detail (thinking about moving) → Elena scene (recognition) → continuation (report #48 opened + dash)
+**Pacing:** Slow, deliberate. Data-rich prose. Weight in repetition and routine, not crisis intensity.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Report #47 / data compilation | ~1,400 | Low-sustained | Throughput tables, humanitarian metrics, policy osmosis documentation |
+| Erasure List channel | ~400 | Low (routine) | Three messages, weather station fulfilled |
+| Policy osmosis analysis | ~600 | Low-medium | 31 institutional documents, vocabulary absorption |
+| Domestic reflection | ~500 | Low-medium | Thirteen months, thinking about moving out |
+| Elena scene | ~600 | Medium (recognition) | 'Same?' — final register evolution |
+| Closing / continuation | ~400 | Medium-resolving | Report #48 template, 'The continuation is—' |
+
+**Rhythm Notes:**
+- CONTINUATION mode = routine register. Intensity in repetition ('The X was the X', 'because the Y continued because the Z continued') — formal strategy where repetition IS content.
+- Long-long-long-SHORT pattern maintained but less prominent than crisis chapters. Data blocks dominate.
+- NBA: 0 full deployments (deliberate — entire chapter is assertion after six chapters of negation). Soft negation-clarifications present ('Not identical —', 'Not inactive —', 'Not restored —') but no italicized payoff words.
+- Bimodal paragraphs: dense data blocks + single-line punches ('She added the regional analysis.' / 'She had been here for thirteen months.' / 'She could leave.' / 'The kitchen.' / 'Same.').
+- Paratactic dominance: Sofia's compound 'and' chains throughout. Logical connectives chaining independent clauses.
+- Closing: Report #48 template opened, 'The continuation is—' (dash, not period). The sentence does not end.
+
+**Dialogue Percentage:** ~5% (Erasure List channel: 3 functional messages; Elena scene: ~12 lines). Narration overwhelmingly dominant.
+
+**Structural Note:** Sofia's final chapter. Not resolution — continuation. The monitoring continues beyond the narrative frame. The obligation is permanent. The equilibrium is permanent. The report is report #47 and will be report #48 and #49 and continuing. The number 47: facilities (global strike), minutes (Proposition), reports (weekly monitoring). Convergence of crisis and routine.
+
+**Hum Baseline:** 0.5 Hz, 3.2 dB below pre-strike baseline (unchanged from C39). The sound of permanence.
+
+**Field Kit:** Green throughout (steady state, no amber). The equilibrium is the equilibrium.
+
+**Thematic Weight:** Moral Obligation to Consequences (DOMINANT — monitoring as permanent obligation), Systemic Complicity (STRONG — institutional vocabulary absorption without citation), Truth as Weapon (STRONG — data entering policy through osmosis, not adoption).
+
+**Epigraph Function:** *Long-Term Environmental Monitoring: Station Operations and Maintenance*, Chen, Y., Pacific Oceanographic Institute, 2159 ed. Environmental monitoring protocol. First read: data management. Reread: the station transmits, baseline becomes assumption becomes infrastructure, the station does not track this transition. Perfect thematic match.
+
+**Meta-Narrative Seeds:**
+- None — this is Sofia's final chapter
+- The monitoring continues (report #48 template opened)
+- The sentence does not end (dash, not period)
+- Forward: Phase 5 continuation chapters for other POVs
+
+---
