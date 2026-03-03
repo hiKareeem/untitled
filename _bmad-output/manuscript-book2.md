@@ -5548,7 +5548,7 @@ He closed the notebook. He placed it in his jacket pocket beside the pen. The CO
 
 The hum continued.
 
-# Chapter 34
+# Chapter 32
 ## The Relay
 
 > *"My daughter asked why the radio stays on after the broadcast ends. I told her it doesn't. She said: then what is the sound it makes when no one is talking. I did not have an answer. The radio stays on."*
@@ -5727,7 +5727,7 @@ The relay was over. The data was saved. The seven were in hospitals. The network
 
 She sat with it. The ceiling low. The shape unnamed. Mumbai in the chord, São Paulo in the chord, fourteen names she would carry because she had built the thing that burned them and the building had worked.
 
-# Chapter 30
+# Chapter 33
 ## Fifteen Minutes
 
 > "The countermand window was designed to ensure human oversight of autonomous targeting decisions. The Board notes that no countermand has been issued in seventeen years of operation and considers this a mark of the system's reliability."
@@ -6313,7 +6313,7 @@ She stood in front of it. The hum through the building. The wrist she did not re
 
 She did not open the next report.
 
-# Chapter 33
+# Chapter 35
 ## Three Walked In
 
 > *"I asked a woman in the Outlands what she believed happened to the dead. She said: they continue. I asked her what that meant. She said: they continue. I wrote it down as a failure of articulation. I have not stopped thinking about it."*
@@ -9457,3 +9457,7 @@ She closed the overlay. The room was dark. The hum through the walls was the not
 Forty-seven names. Nineteen more from Dharavi. The topology data forwarded to Lagos. The junction coordinates being integrated into a database she had not built and did not control and could not have imagined when she sat on the floor of the masonry annex with a wet cloth on her face and counted the seconds until the sound stopped.
 
 The inventory was open. She was not done.
+
+---
+
+*End of Book Two*

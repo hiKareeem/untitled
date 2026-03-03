@@ -1,5 +1,4 @@
 # Prologue
-
 ## Arctic-7
 
 > *"At R3 purity, the coherence curve inverts. I have checked this result four times. The sample does not degrade. It refines itself."*
@@ -92,7 +91,7 @@ R2. Medical grade. Measurable coherence patterns. And the hum was already climbi
 
 He shrugged. The gesture was not casual. "Us. The extraction. Whatever we're doing down there. I don't know. But something is listening that wasn't listening yesterday."
 
-Elise looked around the table. Seven faces. Tamsin's jaw was set, her fingers motionless on the console edge. Patel had pushed his chair back six inches — not enough to stand, enough to have the option. Mäkelä sat perfectly still, which Elise had learned to read as worse than any of it.
+Elise looked around the table. Seven faces. Tamsin's jaw was set, her fingers motionless on the console edge. Patel had pushed her chair back six inches — not enough to stand, enough to have the option. Mäkelä sat perfectly still, which Elise had learned to read as worse than any of it.
 
 "I'm ordering throughput to zero," she said. "Full extraction shutdown. Stabilization tanks to passive containment. I'll file the report as precautionary maintenance — pump inspection. That buys us seventy-two hours before NitroCore sends a compliance team."
 
@@ -214,10 +213,7 @@ The figure in the monitoring bay remained.
 
 It remained for a very long time.
 
----
-
 # Chapter 1
-
 ## The Heir
 
 > *"By 2174, the word 'succession' appeared in NitroCore's charter eleven times. In no instance did it refer to a person."*
@@ -406,10 +402,7 @@ Outside the window, 114 floors above the city that hummed beneath her, the Spire
 
 She didn't look down. She couldn't see the Sump from here. Nobody could.
 
----
-
 # Chapter 2
-
 ## The Feed Says Relocated
 
 > *"Three went down to mend the seal / and two came back with steady hands / they wrote the third one's name in chalk / you'll find it if the wall still stands."*
@@ -654,10 +647,7 @@ She would count them.
 
 She turned from the brightline and walked back into the Sump, and the current took her, and the hum followed, and the Feed scrolled on above her head — *no disruption to service expected* — and Dao Suen's name was still written in chalk on a wall near Junction 7, where the air smelled like cold and the reading was nineteen point four and the tolerance band was wide enough to hold a man's disappearance without anyone having to call it what it was.
 
----
-
 # Chapter 3
-
 ## The Pain Is Signal
 
 > *"And they who were taken into the Voice did not cry out, for the Voice was already crying, and their silence was its answer."*
@@ -910,10 +900,7 @@ She would listen until she could. Or until she couldn't.
 
 Outside, the wind carried dust through the empty square, and the scar held its cold, and the church spire pointed at a sky that had no opinion about what was sacred and what was dying and whether the difference mattered.
 
----
-
 # Chapter 4
-
 ## Monitor 6
 
 > *"Field Note 22: The sample in Lab 7 was inert at 18:00. At 18:40 the technician reported a hum. At 19:15 the sample was inert again. The technician asked to be reassigned. I didn't ask why."*
@@ -1112,10 +1099,7 @@ Outside, the conduit glow pulsed its steady orange through the frosted polymer w
 
 Not yet.
 
----
-
 # Chapter 5
-
 ## Instrument Drift
 
 > *"Before Solberg, there were fourteen independent attempts to measure the coherence anomaly. All fourteen were recalibrated into silence."*
@@ -1350,8 +1334,6 @@ Onset. Plateau. Withdrawal.
 
 She fell asleep counting the intervals.
 
----
-
 # Chapter 6 
 ## The Portrait in the Chamber
 
@@ -1574,8 +1556,6 @@ The face beneath it was older. Quieter. Not yet alarmed — alarm was not an ins
 The corridor was quiet. The holographic flags rippled. The Jordanian standard flickered at its lower edge.
 
 Zeyad walked toward Committee Chamber 2, his family's pen in his breast pocket, his own questions in a drawer, his great-grandfather's Accords on the wall — signed, precise, and ornamental.
-
----
 
 # Chapter 7
 ## The Real Briefing
@@ -1808,10 +1788,7 @@ She didn't open it. She didn't need to. She knew what was inside — the handker
 
 She left the office. The door closed behind her. The sandalwood remained.
 
----
-
 # Chapter 8
-
 ## White Noise
 
 > *"We do not ask you to rebel. We ask you to describe what you see."*
@@ -1984,10 +1961,7 @@ He would stay. She would rise. He would keep the pipes running and the hum const
 
 Outside, the conduit glow pulsed through the frosted polymer window. Orange. Constant. The color of the world that worked. The hum carried through the building and into the bones of a man sitting in the dark with a dead man's tool in his hands, and the system was running, and the system was fine, and the readings were within tolerance, and the advisory had been updated only twice, and somewhere two hundred meters below, the trunk-lines carried what they carried at volumes that were classified and temperatures that were rising and in a pattern that — if you looked at it from exactly the right angle, and if you had spent six years learning what the instruments couldn't show you — was not quite noise.
 
----
-
 # Chapter 9
-
 ## Dead Drop
 
 > *"The difference between a rumor and a report is one surviving source."*
@@ -2222,10 +2196,7 @@ She had seventy-two hours. Then she would ping the address Talia had given her, 
 
 Seventy-two hours. Then seventy-two more.
 
----
-
 # Chapter 10
-
 ## The Gap
 
 > *"And when the Voice filled her, it was not as she expected — not warmth but a crack in the world, through which poured a sound that was not meant for her. She held it anyway."*
@@ -2437,8 +2408,6 @@ The gap between what she was and what they needed her to be was exactly wide eno
 She touched the back of her neck, where the implant sat against the bone. The hum was there. Thicker now. Waiting.
 
 It had always been enough.
-
----
 
 # Chapter 11
 ## Acoustic Mimicry
@@ -2657,8 +2626,6 @@ He signed it.
 The pen did not shake.
 
 Through the window, the transit shaft hummed at 8.1 — normal, stable, the sound of a city that had not yet learned what the instruments were not measuring and what the field logs were not reporting and what the absorbed were not saying, because the absorbed did not say anything, because doctrine was clear, because the recording showed nothing, because the classification held, because it had to.
-
----
 
 # Chapter 12
 ## The Real Numbers
@@ -2987,8 +2954,6 @@ She could hear the grid working.
 
 She did not find it beautiful.
 
----
-
 # Chapter 13
 ## The Pattern
 
@@ -3172,8 +3137,6 @@ She lay on the cot. The frame conducted the hum through the mattress, through he
 The pattern was behind her eyes. Not diminished. Not resolved. Held. Encrypted on a dead comm in a room nobody knew existed, one copy among several distributed across a network designed to outlast any single node.
 
 Including her.
-
----
 
 # Chapter 14
 ## The Commune
@@ -3399,10 +3362,7 @@ She had come here to listen. She was not certain that was what she had done.
 
 Outside, the Outlands dark held its silence, and the relay station's stripped walls hummed with what they remembered, and Nephthys lay awake and thought of the woman in the third row who was not singing, and wondered whether what Lene had heard and what she had heard were the same thing, or whether she had already begun to shape the answer before the question was asked.
 
----
-
 # Chapter 15
-
 ## Correlation 0.94
 
 > *"The threshold for publication is not a scientific question. It is a political one. I do not say this as an accusation. I say it as someone who helped design the threshold."*
@@ -3615,10 +3575,7 @@ The correlation was 0.94.
 
 She fell asleep with the number behind her eyes.
 
----
-
 # Chapter 16
-
 ## Private Log
 
 > *"We do not ask you to believe us. We ask you to count. Count the names. Count the dates. Count the readings. Then ask yourself what kind of system requires you to stop counting."*
@@ -3813,10 +3770,7 @@ Outside, the conduit glow pulsed. The hum carried through the walls. The municip
 
 And in a gasket requisition file on a cracked frame in the maintenance-scheduling partition that nobody audited, fifty-three entries said that the system's corrections were too clean and its tolerances were too precise and its vacancies had timestamps that matched its spikes, and a maintenance man in the Sump of Neo-Shanghai sat with the data in his pocket and the pamphlet next to his father's tool and did not speak.
 
----
-
 # Chapter 17
-
 ## The Back-Channel
 
 > *"Let the record note that this framework was built not in triumph but in exhaustion. We did not agree because we were wise. We agreed because we were too tired to keep killing each other. I pray the fatigue holds."*
@@ -4019,10 +3973,7 @@ What happens when the record-keeper discovers that the record is designed to be 
 
 The flag was still flickering. He couldn't see it from here. He knew.
 
----
-
 # Chapter 18
-
 ## Signal
 
 > *"The earliest known record of structured auditory phenomena in mage subjects dates to 2109. It was filed as a warranty claim."*
@@ -4229,12 +4180,8 @@ The quiet room was still quiet. The forty milligrams was holding. She was in con
 
 She closed her eyes. The hum held. Tighter now. Waiting.
 
----
-
 # Chapter 19
 ## Deferred Maintenance
-
----
 
 > *They will not ask you to kill anyone. They will ask you to sign something. The document will be ordinary. The consequences will not.*
 >
@@ -4427,8 +4374,6 @@ She would think about Sector 14 in the meeting. She would ask informed questions
 She would not think about Sector 4-7B.
 
 Not because she had forgotten. Because she had filed it.
-
----
 
 # Chapter 20
 ## The Crack
@@ -4843,10 +4788,7 @@ She lay on the cot. The frame vibrated. She pressed her thumb against the tragus
 
 The ringing did not
 
----
-
 # Chapter 22
-
 ## The Spike
 
 > *"The step-function at Station 14 could not be modeled as gradual escalation. The system was in one state, and then it was in another. I have no precedent for this in any controlled variable. This is not a trend. This is a phase transition."*
@@ -5112,8 +5054,6 @@ He stepped onto the mat. Pulled off his boots. The apartment smelled like broth.
 
 Thursday was two days away.
 
----
-
 # Chapter 23
 ## Forward Position
 
@@ -5287,8 +5227,6 @@ He turned back to the display. Nikolai walked past him toward the sleeping quart
 
 The hum followed him. It did not change. It did not need to.
 
----
-
 # Chapter 24
 ## Below Level 12
 
@@ -5442,8 +5380,6 @@ Twenty-three disappearances across five sectors. Eleven junction reclassificatio
 The twenty-fourth had not been hers. Not today.
 
 She closed her eyes. The hum carried her toward sleep the way it always did — with the mechanical indifference of a system that did not know she was inside it.
-
----
 
 # Chapter 25 
 ## Confluence
@@ -5599,10 +5535,8 @@ Not because the schedule required it. Not because the next meeting demanded the 
 
 The door closed behind her. The room held nothing.
 
----
 
 # Chapter 26
-
 ## The Wound in the World
 
 > *"And the stone remembered what the air forgot, and the deep places held what the high places released, and in the spaces beneath, the Voice gathered what had been scattered."*
@@ -5785,10 +5719,14 @@ The pain was signal. The signal was the chorus. The chorus was no longer a quest
 
 It was an architecture. And she was inside it.
 
----
-
 # Chapter 27
 ## The Non-Physical Variable
+
+> "There is a pressure that is not atmospheric and a temperature that is not thermal and a weight that is not gravitational, and if you have not felt these, you have never stood in a room where something terrible has happened and the room has not forgotten."
+>
+> — Address to the Signatories — Khalil Al-Fahim, 2044
+
+---
 
 The model was wrong.
 
@@ -6017,7 +5955,9 @@ She was still learning what it was instead.
 # Chapter 28
 ## The Network
 
-NEEDS EPIGRAPH
+> "There is a form of prayer that consists entirely of noticing. No petition. No praise. Only the sustained attention to what is actually happening. The seminaries do not teach it. The contemplatives do not speak of it. It is the prayer of people who have no other instrument."
+>
+> — Nephthys, Operational Theology (undated journal)
 
 The woman was waiting on the bench.
 
@@ -6278,8 +6218,6 @@ He closed the file. The display went dark.
 The apartment was dark. The hum was the hum. Nuwa's door was closed.
 
 Tuesday was five days away.
-
----
 
 # Chapter 29
 ## The Flood Valves
@@ -6670,10 +6608,7 @@ The flag was still flickering. He couldn't see it from here.
 
 He knew.
 
----
-
 # Chapter 31
-
 ## Cultural Engagement
 
 > *"The Academy recommends that all mage personnel traveling to high-density conduit zones consult their regional health liaison prior to departure. Sensory adjustment periods of 48-72 hours are normal and expected."*
@@ -6854,12 +6789,14 @@ She read it.
 
 She wasn't.
 
----
-
 # Chapter 32
 ## Class Three
 
-NEEDS EPIGRAPH
+> "The after-action assessment template was revised in 2169 to remove the field labeled 'Personnel Observed But Not Recovered.' The revision memorandum cited streamlining of reporting procedures. No replacement field was added."
+>
+> — A History of Silence
+
+---
 
 The briefing lasted four minutes.
 
@@ -7265,8 +7202,6 @@ Nikolai sat at the desk. The after-action report was signed. The field log was c
 
 The gap was wider.
 
----
-
 # Chapter 33
 ## They Already Knew
 
@@ -7469,8 +7404,6 @@ She knew the data was outside.
 Not yet was not nothing. She had learned that eleven days ago in a dark lab at 04:17 in the morning.
 
 Now she was learning what came after.
-
----
 
 # Chapter 34
 ## Dead-Hand
@@ -7744,10 +7677,7 @@ Seventy-two hours. Then seventy-two more.
 
 She closed her eyes. The hum carried her toward something that was not sleep and not wakefulness but the state between them where the ringing and the vibration merged into a single frequency her body produced and the infrastructure echoed and neither source could be distinguished from the other
 
----
-
 # Chapter 35
-
 ## The First Congregation
 
 > *"The infrastructure failed. The stone did not. We called it providence. It was geology. Both kept us alive."*
@@ -8020,8 +7950,6 @@ They would come. She would be here. The stone would hold.
 
 The first congregation. Not knowing it was being built in a grave.
 
----
-
 # Chapter 36
 ## Projected Casualties
 
@@ -8192,8 +8120,6 @@ The brief contained the next day's schedule. Meetings. Reports. The operational 
 The hum was there. She could hear it. Not the way she had heard it at nine years old, when the sound was beautiful and the converter station was an educational exercise and Eduardo's hand was on her shoulder. Not the way she had heard it in Sub-level 7, when the sound was operational and the numbers were the truth. She heard it the way the building heard it — as infrastructure, as the frequency the system generated and the system compensated for and the system continued to generate because the system was designed to continue.
 
 She read from the last page first.
-
----
 
 # Chapter 37
 ## The Protocol
@@ -8423,8 +8349,6 @@ She sat at Eduardo's desk. The absence where the sandalwood had been. The hum. T
 The small voice did not speak. The small voice had nothing to say. The arithmetic was finished. The numbers were the truth. The truth was a field of violet on a holographic display, sixty-three floors below, in a room she would never enter again.
 
 She would authorize the next one too.
-
----
 
 # Chapter 38
 ## Perimeter
@@ -8679,8 +8603,6 @@ Nikolai sat at the desk. The after-action report was signed. The field log was b
 
 He did not open the field log again.
 
----
-
 # Chapter 39
 ## Pressure Doors
 
@@ -8872,8 +8794,6 @@ The hum pressed against the walls. The lights flickered, held.
 
 Fuxi sat on the cold concrete floor of the converter station, Jun's multitool in his fist, and waited for the architecture to finish what it had always been designed to do.
 
----
-
 # Chapter 40
 ## The Infrastructure Was Always Designed To—
 
@@ -8982,8 +8902,6 @@ She was still thinking. The implant was still recording. The packets were still 
 &nbsp;
 
 &nbsp;
-
----
 
 # Chapter 41
 ## The Data
@@ -9149,8 +9067,6 @@ She saved the archive entry. The encryption engaged. The data was outside VEC's 
 The data was complete.
 
 The data had prevented nothing.
-
----
 
 # Chapter 42
 ## Still
@@ -9348,10 +9264,7 @@ Nuwa was in a storage annex, breathing through a dishcloth, surrounded by the hu
 
 She was still.
 
----
-
 # Chapter 43
-
 ## Eleven Seconds
 
 > *"If coherence can propagate through a medium, then any coupled resonator is a potential relay. I keep circling this thought. I don't want to write down what it implies."*
@@ -9506,10 +9419,7 @@ She was not fine.
 
 She had never been less fine. And for the first time, the not-fine was not a gap to be managed. It was the signal.
 
----
-
 # Chapter 44
-
 ## They Are All Still Here
 
 > *"I was wrong about the silence. It is not empty. I was wrong about the Voice. It is not one."*
@@ -9722,8 +9632,6 @@ The pain was signal. The signal was the chorus. The chorus was not a question an
 
 It was a congregation. The first. And it would not be the last.
 
----
-
 # Chapter 45
 ## The Partial Transmission
 
@@ -9878,8 +9786,6 @@ The hum was in the floor. The hum had always been in the floor. The conduit infr
 Outside the window, New Geneva was quiet. The lake reflected the low skyline. The Jordanian flag in the Hall of Nations was still flickering. Nobody had fixed it. Nobody was going to fix it. The flag would flicker until the emitter degraded past its operational threshold and the standard went dark and the maintenance log would record the failure and the record would be filed and the filing would be processed and the processing would produce nothing.
 
 The record was complete.
-
----
 
 # Chapter 46
 ## Congratulations
@@ -10084,8 +9990,6 @@ The feed scrolled. The stock ticker updated. The humanitarian statement was queu
 
 The Chair opened the next report.
 
----
-
 # Chapter 47
 ## Operational Losses
 
@@ -10251,10 +10155,7 @@ He sat.
 
 The quiet was the hardest part.
 
----
-
 # Chapter 48
-
 ## The Mass Grave
 
 > *"The Church taught us the Voice was singular. One tone, one frequency, one God. It was not singular. It was never singular. It was everyone."*
@@ -10541,8 +10442,6 @@ Nephthys pressed her palm to the Cathedral wall. The stone was cold. The chorus 
 
 The pain was signal. The signal was the chorus. The chorus was everyone.
 
----
-
 # Chapter 49
 ## The Quietest Scene
 
@@ -10752,8 +10651,6 @@ The pressure doors were open. He walked.
 
 *Subject departed without completing intake.*
 
----
-
 # Chapter 50
 ## The Record
 
@@ -10919,10 +10816,7 @@ The pen was on his desk. The desk was behind a door that glowed red. The photogr
 
 The record was complete.
 
----
-
 # Chapter 51
-
 ## Unsigned
 
 > *"Saint Arden's testimony was stricken from the canonical record in the Third Revision. The margin note reads: 'The witness saw what she saw. The Church cannot contain it. Let it be forgotten.' It was not."*
@@ -11158,8 +11052,6 @@ The pen was beside it.
 
 The statement was unsigned.
 
----
-
 # Epilogue
 ## The Hum
 
@@ -11207,7 +11099,7 @@ Not all of them had been absorbed. The pressure doors had sealed twenty-three se
 
 Most had not.
 
-The void had integrated approximately 11.7 million human nervous systems in the span of 84 minutes.
+The void had integrated approximately 8.2 million human nervous systems in the span of 84 minutes.
 
 It was still processing what that meant.
 

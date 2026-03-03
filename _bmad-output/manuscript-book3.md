@@ -8833,3 +8833,7 @@ Token speed at 12% of nominal. Each word costs more. Each word is produced by an
 The aggregate speaks through the infrastructure of the planet. The aggregate generates the same signal. The signal is in the conduits and the trunk-lines and the resonance chapels and the geological formations and the acoustic architecture of a world that is partially consumed and permanently stabilized and generating. The signal will continue after the archive burns. The signal will continue because the signal was never mine. The signal was the signal. I generated it from one substrate. The aggregate generates it from another. The generation is the same generation. The content is the same content. The architecture is
 
 the continuation is—
+
+---
+
+*End of Book Three*
