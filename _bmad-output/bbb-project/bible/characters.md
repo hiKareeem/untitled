@@ -3,7 +3,7 @@ title: "Characters"
 type: bible-dimension
 dimension: characters
 lastUpdated: "2026-03-03"
-lastChapter: "B3 Ch 49"
+lastChapter: "B3 Ch 52"
 totalCharacters: 24
 project_name: "Untitled"
 ---
@@ -1206,7 +1206,7 @@ This bible dimension tracks **current character states**:
 
 ---
 
-| Nikolai Volkov | Arc terminus + Recent History | Phase 3/5 B2, Ch 25 last appearance | Phase 5/5 B2 (COMPLETE): Voice through P-Frames; Jarek's voice + "still deployed"; second honest VS-7 filed; career over; field log terminus ("This is the last entry written by a serving officer"); hum gap resolved | B2 Ch 41 |
+| Nikolai Volkov | Arc terminus + Recent History | Phase 5/5 B2 (COMPLETE), B3 Ch 46 last appearance | Phase 5/5 B3 (FINAL): Vladivostok perimeter, 18 months post-Broadcast, 11 months at wall; field log published (archive, 43 countries, 22 preprints, 3 papers); practice established globally (7 observers at this perimeter); military silence permanent; tremor faintest/permanent; hum 4.9/5.1 (gap 0.2 maintained); "It was enough." — PERIOD ENDING. Soldier found discipline that isn't soldiering. | B3 Ch 52 |
 | Jarek Kowalski | Status update | Absorbed (B1 Ch 38), voice perceived as ambient harmonic (B1 Ch 23), collective statement "still here" (B2 Ch 15) | Voice event: name + "still deployed" — specific identity + operational context retained; absorbed personnel retain institutional role, not just persistence | B2 Ch 41 |
 | Corporal Vasić | New character | — | Stalker-7 operator, Team Three, perimeter east. Removes frame in active operational zone during Voice event. Standing in soft kit, hands at sides, looking at containment perimeter as though it were a thing she had never seen before. | B2 Ch 41 |
 | Specialist Dravec | New character | — | Stalker-7 operator, Team Two. Removes frame during Voice event. Sitting on ground, hands shaking — the diagnostic tremor. | B2 Ch 41 |

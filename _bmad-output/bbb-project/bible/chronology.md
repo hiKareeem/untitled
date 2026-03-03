@@ -3,8 +3,8 @@ title: "Chronology"
 type: bible-dimension
 dimension: chronology
 lastUpdated: "2026-03-03"
-lastChapter: "B3 Ch 50"
-totalDays: "Weeks to months (Phase 1-3), compressed to Days 1-5 (Phase 4), then 6 months post-Broadcast (Book 3 Phase 1)"
+lastChapter: "B3 Ch 52"
+totalDays: "Weeks to months (Phase 1-3), compressed to Days 1-5 (Phase 4), then 6-18 months post-Broadcast (Book 3 Phase 1-5)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
 ---
