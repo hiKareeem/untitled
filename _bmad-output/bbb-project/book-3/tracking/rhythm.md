@@ -2249,3 +2249,49 @@ The motif integrated through Nuwa's observational register — she inventories t
 - Forward: Phase 5 continuation chapters for other POVs
 
 ---
+
+### Chapter 49 — "The Position" (Aurielle Vasquez)
+
+**Mode:** CONTINUATION
+**Tension Shape:** Flat accumulation (quarterly cycle as permanence) → brief observational rise (balcony approach) → resolving (step back to desk + terminal sentence + dash)
+**Pacing:** Slow, deliberate. Institutional speed. Weight in quarterly accumulation and balcony step back, not in action or dialogue.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| The quarterly cycle | ~1,400 | Low-sustained | Quarterly projection, transition expenditures absorbed, display wall, forward template, multiple projections, Chair has learned her shape |
+| The balcony | ~900 | Medium (observational peak) | She stands, walks to glass, Neo-Shanghai night, Anchor Zone shimmer, glass is cool (temperature arrives), hum through floor/bones, she does not step toward balcony |
+| The return and continuation | ~800 | Medium-resolving | She turns, three meters, desk, sits, hands on walnut, NBA deployment, closing echo returns, terminal sentence |
+
+**Rhythm Notes:**
+- CONTINUATION mode = institutional register. Intensity in the balcony step back and the sentence that does not end — not in prose density or emotional volume.
+- Long-long-long-SHORT pattern sustained — "She stood." / "She sat." / "She did not step toward the balcony." / "The shimmer shimmered." / "The hum hummed."
+- Single NBA deployment: "Not consumed. Not corrupted. Not transformed by the position into something she had not been." Three negations eliminating available frameworks (consumption, corruption, transformation) before payoff arrives as paragraph's continuation: same person, machine did not change her, machine did not need to change her. Horror is continuity. Distinction had been absent from beginning.
+- Closing: "She opened the next quarterly projection." (echo returns one final time) → "The continuation is—" (dash). The sentence does not end. The machine does not stop.
+- Zero dialogue (deliberate — consistent with B3C40, alone with the cycle).
+- Bimodal paragraphs: dense institutional processing blocks (quarterly cycle, Chair calibration, NBA section) + single-line structural punctuation (~15% 1-line: "She stood." / "She sat.").
+- Paratactic dominance: Long accretive chains with "and" conjunctions. Institutional vocabulary as connective tissue. "The function was the position and the position was the desk and the desk was the quarterly and the quarterly was the grid and the grid was the machine."
+
+**Dialogue Percentage:** 0% (zero dialogue — Aurielle alone with quarterly cycle)
+
+**Structural Note:** Aurielle's final chapter. Not resolution — continuation. More horrifying than suicide: she does not escape. She steps back to the desk. The quarterly cycle is permanent. The Chair has learned her shape. The operator and the machine indistinguishable. The continuation is— (dash, not period).
+
+**Temperature Arrival:** Glass is cool — first conscious temperature processing in B3 Aurielle arc. Last temperature was B2C23 ground-level corridors. Temperature arrives at balcony moment (choice point), exits on return to desk. Significant sensory marker.
+
+**Closing Echo Trajectory — Complete:** B1: "She opened the next report" (original) → B2C37: "The wrist did not rotate" (broken) → B2C46: "She opened the next report" (returns) → B3C1: "She opened the next report" → B3C9: "She opened the first facility file" → B3C13: "She opened the restoration timeline" → B3C21: "She opened the quarterly projection" → B3C30: "She opened the next quarterly projection" + "The machine continued" (split) → B3C40: "She opened the next report" (full circle) → B3C49: "She opened the next quarterly projection. / The continuation is—" (echo returns, then terminal sentence with dash). Arc complete.
+
+**Thematic Weight:** Institutional Absorption (DOMINANT — operator/machine convergence, diffusion bonding, boundary absent from beginning), The Horror of Continuity (STRONG — not consumed/corrupted/transformed, step back to desk, sentence does not end), Architecture as Identity (MODERATE — Chair/desk/building, position and person indistinguishable).
+
+**Epigraph Function:** Yılmaz, E. & Nakamura, T., *Advanced Joining Processes for Composite Alloys*, 4th ed. (2144) — Diffusion bonding technical specification. First read: metallurgical process, two surfaces under sustained pressure exchange atoms until boundary undetectable. Reread: Aurielle and the machine bonded. Not joined — bonded. "The bond is the absence of the distinction that made joining necessary." Perfect structural metaphor. Fresh domain (materials science, not institutional/systems theory).
+
+**Cross-POV Resonance:** Zeyad (C48) + Aurielle (C49) = parallel final chapters. Both "The continuation is—" endings (dash). Both absorption without transformation (Zeyad: document enters policy without name; Aurielle: operator becomes machine without consumption). Both architecture metaphors (Zeyad: foundation/elevation; Aurielle: diffusion bonding). Both irrelevance of individual being (Zeyad: name in archive, not in policy; Aurielle: operator replaceable, Chair learns next shape). Both obligations fulfilled (Zeyad: record exists; Aurielle: grid runs). Both sentences that do not end.
+
+**Meta-Narrative Seeds:**
+- None — this is Aurielle's final chapter
+- The machine continues (quarterly projections populate desk)
+- The grid operates at 82% (permanent baseline)
+- The Chair learns the next operator's shape
+- The function is permanent
+- Forward: Phase 5 continuation chapters for other POVs
+
+---

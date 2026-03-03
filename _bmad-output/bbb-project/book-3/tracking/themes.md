@@ -1716,3 +1716,74 @@ The pattern: individual work → institutional submission → analytical extract
 
 ---
 
+### Chapter 49 — "The Position" (Aurielle Vasquez)
+
+| Theme | Phase | Manifestation |
+|-------|-------|---------------|
+| Institutional Absorption | Dominant | Operator/machine convergence. Diffusion bonding. "Not consumed. Not corrupted. Not transformed by the position into something she had not been... The distinction between those two statements had been absent from the beginning." The Chair has learned her shape. The hum does not distinguish between wood and skin. Transition expenditures absorbed into baseline. |
+| The Horror of Continuity | Strong | More horrifying than suicide: she does not escape. The balcony is available. She does not step toward it. She steps back to the desk. Opens the next quarterly projection. "The continuation is—" (dash). The sentence does not end. The machine does not stop. |
+| Architecture as Identity | Moderate | The Chair (furniture) has learned her shape (body). The desk bears her weight the way it bore Eduardo's. The building's skeleton / her skeleton parallel structure. The position and the person indistinguishable. "The function was the position and the position was the desk and the desk was the quarterly and the quarterly was the grid and the grid was the machine." |
+| Systemic Complicity | Background | Transition expenditure category eliminated. Genocide's humanitarian costs (BLACKWEIR aftermath) fully absorbed into baseline operating budget. Indistinguishable from maintenance, capacity investment, grid's permanent function. The complicity is structural, permanent, invisible. |
+| Irrelevance of Individual Being | Background | The operator is replaceable. The Chair learns the next shape. The machine does not notice who operates it. The machine does not need to notice. Eduardo → Aurielle → next operator. The function continues. |
+
+**Key Resonance:** Institutional Absorption ↔ The Horror of Continuity. The operator has not been consumed by the machine. The operator has not been corrupted by the position. At sufficient duration, under sufficient pressure, the operator and the machine exchange atoms until the boundary is undetectable. The horror is not transformation. The horror is continuity. She is the same person. The machine did not change her. The machine did not need to change her. The distinction had been absent from the beginning.
+
+**Epigraph Integration:** Yılmaz, E. & Nakamura, T., *Advanced Joining Processes for Composite Alloys*, 4th ed. (2144) — Diffusion bonding
+- Thematic function: Metallurgical register for operator/machine convergence. "The bond is not a joint. The bond is the absence of the distinction that made joining necessary."
+- Two surfaces under sustained pressure exchange atoms across interface until boundary undetectable. Aurielle and the machine, held together under pressure of quarterly cycles and grid crises for sufficient duration, have bonded.
+- Rewards reread after trilogy completion: Every Aurielle chapter is diffusion bonding in progress. B1C1 (gala) = surfaces brought into contact. B2C37 (Voice) = pressure increases. B3C40 (boundary recognition) = boundary undetectable. B3C49 (continuation) = the bond is permanent.
+
+**The Balcony as Thematic Object:**
+- The option to escape, available, not taken
+- Manual release (not biometric, not institutional — the choice is hers)
+- She walks to the glass, registers the door, the cool temperature (first conscious temperature in B3)
+- She does not step toward the balcony
+- She turns, three meters, desk, sits
+- The step back is unmarked — no drama, no decision narrated, just the action
+- More horrifying than suicide: she continues
+
+**The Chair as Thematic Object:**
+- Institutional furniture, five-year replacement cycle
+- Replaced twice since she arrived (now two years into third cycle)
+- Ergonomic architecture calibrates to operator's posture over 26 months
+- Lumbar support matches spine curve, armrest height matches forearm angle, seat depth matches distance between spine and knees
+- "The Chair had learned her shape"
+- The furniture outlasts the person, the position outlasts the operator
+- The Chair is replaced, the next Chair learns the next shape, the function continues
+- The Chair as institutional memory — learns the operator, forgets the operator, learns the next operator
+
+**Transition Expenditures as Thematic Object:**
+- Category introduced post-BLACKWEIR to describe humanitarian costs of permanent throughput reduction
+- Desalination infrastructure, hospital networks, manufacturing corridors, workforce displacement programs, regional development funds
+- Classified as "transition" (temporary category, costs expected to decline)
+- B3C49: category eliminated, costs migrated into baseline operating budget
+- Indistinguishable from maintenance, capacity investment, grid's permanent function
+- The genocide's aftermath is now a line item
+- The complicity is structural — the costs are the grid, the grid is the costs
+
+**Closing Echo Completion:**
+- Trilogy-long pattern: "She opened the next report/projection"
+- B1: established, maintained through BLACKWEIR authorization
+- B2C37: broken ("The wrist did not rotate")
+- B2C46: returns (shell hardened)
+- B3: evolves (report → facility file → restoration timeline → quarterly projection)
+- B3C40: full circle ("She opened the next report")
+- B3C49: returns one final time ("She opened the next quarterly projection") then terminal sentence ("The continuation is—")
+- The echo completes. The sentence does not end.
+
+**Cross-POV Resonance:** Zeyad (C48) + Aurielle (C49) = parallel final chapters
+- Both "The continuation is—" endings (dash, not period)
+- Both absorption without transformation (Zeyad: document enters policy without name; Aurielle: operator becomes machine without consumption)
+- Both architecture metaphors (Zeyad: foundation/elevation; Aurielle: diffusion bonding)
+- Both irrelevance of individual being (Zeyad: name in archive, not in policy; Aurielle: operator replaceable, Chair learns next shape)
+- Both obligations fulfilled (Zeyad: record exists; Aurielle: grid runs)
+- Both sentences that do not end (institution continues, machine continues)
+
+**Forward Connections:**
+- None — this is Aurielle's final chapter
+- The machine continues (quarterly projections populate desk, grid operates at 82%, Chair learns next operator's shape)
+- The function is permanent
+- The continuation is—
+
+---
+
