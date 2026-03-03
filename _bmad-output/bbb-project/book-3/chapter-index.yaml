@@ -1,0 +1,332 @@
+---
+# Book 3 Chapter Index — Fast POV Lookup
+# Generated: 2026-02-22
+# Use: Quick reference for chapter-writer workflow to locate preceding POV chapters
+# Status: DRAFT — chapters not yet written
+
+book: 3
+total_chapters: 48  # Estimated 45-50 chapters
+word_count: ~200000  # Estimated
+status: "PLANNING"
+
+chapters:
+  1:
+    pov: "Aurielle"
+    title: "The Machine Continues"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    
+  2:
+    pov: "Nephthys"
+    title: "Seren's Question"
+    phase: 1
+    location: "Neo-Shanghai Cathedral"
+    
+  3:
+    pov: "Malachi"
+    title: "The Deliberative"
+    phase: 1
+    location: "European See"
+    
+  4:
+    pov: "Sofia"
+    title: "The Erasure List"
+    phase: 1
+    location: "Mobile / Black Babel"
+    
+  5:
+    pov: "Nikolai"
+    title: "Voluntary"
+    phase: 1
+    location: "Breach perimeter"
+    
+  6:
+    pov: "Kira"
+    title: "Lumina"
+    phase: 1
+    location: "Neo-Shanghai"
+    
+  7:
+    pov: "Zeyad"
+    title: "The Pen Continues"
+    phase: 1
+    location: "New Geneva"
+    
+  8:
+    pov: "Nuwa"
+    title: "Both Systems"
+    phase: 1
+    location: "Neo-Shanghai Mid-Levels"
+    
+  9:
+    pov: "Aurielle"
+    title: "Thorne's Recalculation"
+    phase: 1
+    location: "Neo-Shanghai Spires"
+    
+  10:
+    pov: "Sofia"
+    title: "Proof of Concept"
+    phase: 2
+    location: "Kindling coordination site"
+    
+  11:
+    pov: "Kira"
+    title: "Ninety Milligrams"
+    phase: 2
+    location: "Neo-Shanghai"
+    
+  12:
+    pov: "Aurielle"
+    title: "The Grid Holds"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  13:
+    pov: "Nephthys"
+    title: "The Acceleration"
+    phase: 2
+    location: "Neo-Shanghai Cathedral"
+    
+  14:
+    pov: "Malachi"
+    title: "The Cathedral Visit"
+    phase: 2
+    location: "Neo-Shanghai Cathedral"
+    
+  15:
+    pov: "Nikolai"
+    title: "Aggregate"
+    phase: 2
+    location: "Breach perimeter"
+    
+  16:
+    pov: "Nuwa"
+    title: "This Way"
+    phase: 2
+    location: "Neo-Shanghai Mid-Levels / Anchor margin"
+    
+  17:
+    pov: "Zeyad"
+    title: "The Document Is Complete"
+    phase: 2
+    location: "New Geneva"
+    
+  18:
+    pov: "AEGIS"
+    title: "The 340"
+    phase: 2
+    location: "Orbit"
+    
+  19:
+    pov: "Aurielle"
+    title: "Thorne Leaves"
+    phase: 2
+    location: "Neo-Shanghai Spires"
+    
+  20:
+    pov: "Kira"
+    title: "The Blackout Stream"
+    phase: 2
+    location: "Neo-Shanghai Anchor Zone margin"
+    
+  21:
+    pov: "Nephthys"
+    title: "The Fracture"
+    phase: 2
+    location: "Neo-Shanghai Cathedral"
+    
+  22:
+    pov: "Sofia"
+    title: "The Model Works"
+    phase: 3
+    location: "Multi-region / monitoring"
+    
+  23:
+    pov: "Nikolai"
+    title: "The Break"
+    phase: 3
+    location: "Breach perimeter"
+    
+  24:
+    pov: "Kira"
+    title: "Hospitalized"
+    phase: 3
+    location: "Neo-Shanghai medical"
+    
+  25:
+    pov: "Aurielle"
+    title: "Alone"
+    phase: 3
+    location: "Neo-Shanghai Spires"
+    
+  26:
+    pov: "Nuwa"
+    title: "Bring Water"
+    phase: 3
+    location: "Neo-Shanghai medical"
+    
+  27:
+    pov: "Malachi"
+    title: "The Voluntarist Heresy"
+    phase: 3
+    location: "European See"
+    
+  28:
+    pov: "Zeyad"
+    title: "No Counterparty"
+    phase: 3
+    location: "New Geneva"
+    
+  29:
+    pov: "Nephthys"
+    title: "The Last Reckoning"
+    phase: 3
+    location: "Neo-Shanghai Cathedral"
+    
+  30:
+    pov: "AEGIS"
+    title: "Recognition"
+    phase: 3
+    location: "Orbit"
+    
+  31:
+    pov: "Sofia"
+    title: "The Proposition"
+    phase: 4
+    location: "Monitoring / instruments"
+    note: "The Proposition event"
+    
+  32:
+    pov: "Nephthys"
+    title: "The Chorus Is What She Said"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    note: "The Proposition event"
+    
+  33:
+    pov: "Nikolai"
+    title: "Status Report"
+    phase: 4
+    location: "Breach perimeter"
+    note: "The Proposition event"
+    
+  34:
+    pov: "Kira"
+    title: "Just Being Kira"
+    phase: 4
+    location: "Neo-Shanghai medical → apartment"
+    
+  35:
+    pov: "Aurielle"
+    title: "The Step"
+    phase: 4
+    location: "Neo-Shanghai Spires (balcony)"
+    note: "Choice-based ending"
+    
+  36:
+    pov: "Nephthys"
+    title: "Biology"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    note: "Choice-based ending"
+    
+  37:
+    pov: "Malachi"
+    title: "The Pilgrimage"
+    phase: 4
+    location: "Neo-Shanghai Cathedral"
+    note: "Choice-based ending"
+    
+  38:
+    pov: "Nuwa"
+    title: "The Count Is Final"
+    phase: 4
+    location: "Neo-Shanghai"
+    
+  39:
+    pov: "Sofia"
+    title: "Correct and Insufficient"
+    phase: 5
+    location: "Mobile / monitoring"
+    note: "Choice-based ending"
+    
+  40:
+    pov: "Nikolai"
+    title: "Under His Name"
+    phase: 5
+    location: "Breach perimeter → digital"
+    note: "Choice-based ending"
+    
+  41:
+    pov: "Zeyad"
+    title: "Filed"
+    phase: 5
+    location: "New Geneva"
+    note: "'Continuation is—' ending"
+    
+  42:
+    pov: "Kira"
+    title: "Streaming Again"
+    phase: 5
+    location: "Neo-Shanghai"
+    note: "Choice-based ending"
+    
+  43:
+    pov: "Sofia"
+    title: "The World Adjusts"
+    phase: 5
+    location: "Mobile / monitoring"
+    
+  44:
+    pov: "Malachi"
+    title: "The Study"
+    phase: 5
+    location: "European See"
+    note: "'Continuation is—' ending"
+    
+  45:
+    pov: "Nikolai"
+    title: "New Order"
+    phase: 5
+    location: "Breach perimeter"
+    
+  46:
+    pov: "Zeyad"
+    title: "The Pen Stopped"
+    phase: 5
+    location: "New Geneva"
+    
+  47:
+    pov: "Nuwa"
+    title: "What Remains"
+    phase: 5
+    location: "Neo-Shanghai Mid-Levels"
+    
+  48:
+    pov: "AEGIS"
+    title: "The Continuation Is—"
+    phase: 5
+    location: "Orbit"
+    note: "Final chapter. AEGIS dies mid-sentence."
+
+# POV Chapter Distribution (estimated)
+pov_distribution:
+  Aurielle: [1, 9, 12, 19, 25, 35]
+  Nephthys: [2, 13, 21, 29, 32, 36]
+  Malachi: [3, 14, 27, 37, 44]
+  Sofia: [4, 10, 22, 31, 39, 43]
+  Kira: [6, 11, 20, 24, 34, 42]
+  Nikolai: [5, 15, 23, 33, 40, 45]
+  Zeyad: [7, 17, 28, 41, 46]
+  Nuwa: [8, 16, 26, 38, 47]
+  AEGIS: [18, 30, 48]
+
+# Key Notes
+notes:
+  - "Fuxi absent from Book 3"
+  - "Mirelle diegetic only (no POV)"
+  - "The Proposition: Phase 3-4 boundary convergence event (Ch 31-33)"
+  - "Selective 'continuation is—' endings for institutional paralysis characters"
+  - "Choice-based endings for characters who make decisions"
+  - "Final line is AEGIS dying mid-sentence"

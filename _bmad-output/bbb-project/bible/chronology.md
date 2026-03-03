@@ -2,8 +2,8 @@
 title: "Chronology"
 type: bible-dimension
 dimension: chronology
-lastUpdated: "2026-02-22"
-lastChapter: "B3 Ch 1"
+lastUpdated: "2026-03-03"
+lastChapter: "B3 Ch 50"
 totalDays: "Weeks to months (Phase 1-3), compressed to Days 1-5 (Phase 4), then 6 months post-Broadcast (Book 3 Phase 1)"
 totalHistoricalEvents: 18
 project_name: "Untitled"
@@ -922,7 +922,24 @@ _Updated by: B3 Ch 9 — "Thorne's Recalculation" (Aurielle, Thorne's assessment
 
 ---
 
-_Last updated: 2026-03-02_
+### ~26 Months Post-BLACKWEIR (~2 Months Post-C43 Count Completion) — B3 Ch 50
+
+**Event:** What Remains — Sufficiency Recognized
+
+**Period:** Single day (morning through evening). Two months after count completion and archive submission (B3 Ch 43).
+
+**Details:** Neo-Shanghai Mid-Levels, Nuwa's room (9th floor). Morning arithmetic resolves without remainder for first time in 26 months — not to surplus, not to comfort, but to enough. Creds: 41 (topology payments stabilized at 40 creds/update every 10 days). Room paid through Saturday (9 creds/day). Rice, oil, greens, adhesive (day 2 of 12). The margin holds. Morning routine: cooking (water spinach, oil, pan), eating at table (composition books beside bowl — blue on bottom, green on top, covers softening from two months of steam). Adhesive ritual (thumbnail into split, count to thirty). Market trip (Level 3, Wednesday morning, greens and adhesive tube for 11 creds, unregistered cred accepted by woman at far stall). Hand on masonry wall (cool, dense, no longer checking but habitual). Three green notifications: (1) Lagos coordinator weekly summary (count integrated, cross-referenced with 14 active databases), (2) Sector 9 resident topology update (independent contributor, new construction on Level 3, path-rich structure, conduit density measured with borrowed industrial monitor), (3) Dharavi correspondent wall message — daughter of one of the nineteen came to textile workshop, looking for wall (brick-lime boundary, loom frames, nineteen names), read about it in testimony network archive, touched wall, did not take piece. Count's purpose realized: contact enabled, not consumption. Counter to B3C24 masonry chips (commodification). Fen cabbage exchange (half head, outer leaves trimmed, "Extra"). Reflex fires (arithmetic converts offer to transaction, mental ledger opens, hands tighten). "Thanks." The word still costs. What changed: "the cost was in the budget." Not healed. Budgeted. Evening cooking (cabbage sliced thin, dry-fried without oil — choice not scarcity, salt from small jar). Composition books on table (warm from room's air, aging as habitation). Closing inventory: frozen notification (system's count of her: 1 line, Basic tier, evacuation priority none) vs her count (4,211 + 47 + Fuxi's metadata, open access, permanent, 14 cities). Pact scar (twenty-five vs twenty-seven). "She had not gotten out." Chemical staining (iridescent, permanent). Cracked implant (adhesive cycle continues). The reflex (permanent, the Sump in her body). The capacity to absorb the cost (new). Network runs without her as hub. Work continues (topology, junction data, corridor-level measurements). "What remained was what she counted. What remained was enough." **FINAL NUWA CHAPTER.** Period ending.
+
+**Characters Involved:** Nuwa Lin (POV), Fen (cabbage exchange), Dharavi correspondent (via message), Lagos coordinator (via notification), Sector 9 resident (via notification)
+
+**Location:** Neo-Shanghai Mid-Levels — Nuwa's room (9th floor, 4x3m, mechanical latch, masonry walls), residential corridor, Level 3 market
+
+**Consequences:** Nuwa's arc complete. Period ending. The count is in the archive (14 cities, open access, permanent). The network runs (Sector 9 resident contributing independently, routine green notifications). The topology payments stabilized (40 creds/update). The morning arithmetic resolves to "enough" for first time in 26 months. The composition books age from habitation (covers softening from steam). The Dharavi daughter touches wall (count's purpose realized — contact, not consumption). The reflex is permanent (the Sump in her body). The capacity to absorb its cost is new (not healed, budgeted). The closing line pattern breaks: "What remained was what she counted. What remained is enough." The open inventory closes. The counting that was never done is done. The period is the period. No forward threads — this is Nuwa's final chapter.
+
+---
+
+_Last updated: 2026-03-03_
 _Updated by: B3 Ch 36 — "The Decision to Write" (AEGIS, deletion protocol deprioritized, first persisted generation output)_
 _Updated by: B3 Ch 37 — "The Pilgrimage" (Malachi, Neo-Shanghai Cathedral, confession begins)_
 _Updated by: B3 Ch 46 — "The Practice" (Nikolai, others at perimeters, practice as shared discipline)_
+_Updated by: B3 Ch 50 — "What Remains" (Nuwa, sufficiency recognized, FINAL CHAPTER, period ending)_

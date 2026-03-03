@@ -98,6 +98,48 @@ This document tracks pacing, tension, and narrative rhythm across Book 3. Update
 | Running out of pages | ~200 | Medium-high (material tension) | 364 names remaining, need another book |
 | Second book acquisition | ~200 | Low | Shuang's unit, children drawing, exchange complete |
 | Writing remaining names | ~400 | Medium-sustained | 4,211 completed, other cities, total as inventory |
+
+---
+
+### Chapter 50 — "What Remains" (Nuwa Lin)
+
+**Mode:** TEXTURE
+**Tension Shape:** Flat sufficiency (arithmetic resolves) → domestic routine (cooking, market) → Dharavi wall message (emotional peak) → Fen exchange (reflex passage) → resolving (closing inventory, period ending)
+**Pacing:** Slowest in Nuwa sequence. Lightest register. Pacing ballast of pacing ballast. Weight in material specificity and absence of declaration.
+
+**Section Breakdown:**
+| Section | Words | Tension | Tempo |
+|---------|-------|---------|-------|
+| Opening count (before eyes) | ~400 | Low-sustained | Counting ritual, arithmetic resolves to "enough" for first time |
+| Morning routine (cooking, eating) | ~300 | Low | Domestic action, composition books as objects not tasks |
+| Adhesive ritual + market trip | ~400 | Low-sustained | Masonry wall touching (habitual), Level 3 market, unregistered cred |
+| Green notifications (3) | ~900 | Medium (Dharavi peak) | Lagos summary, Sector 9 update, Dharavi wall message — daughter touching, not taking |
+| Fen cabbage exchange | ~500 | Medium (reflex passage) | Reflex fires, "cost was in the budget," spring onion callback |
+| Evening cooking | ~300 | Low | Cabbage, salt, composition books warm from steam |
+| Closing inventory | ~600 | Resolving | Frozen notification, system's count vs Nuwa's count, period ending |
+
+**Rhythm Notes:**
+- Long-long-long-SHORT pattern sustained — "The arithmetic resolved without remainder." / "She ate at the table." / "She did not take a piece." / "'Thanks,' she said." / "What remained was enough."
+- TEXTURE mode = quietest register in Nuwa sequence. Horror absent. Sufficiency present.
+- Zero NBA deployment (deliberate — sufficiency is accumulation's resolution, not revelation)
+- Closing rhythm: paratactic declarations, inventory settling, final lines break pattern ("What remained was what she counted. What remained was enough.")
+- Bimodal paragraphs: dense blocks (Dharavi wall passage, reflex passage, closing inventory) + single-line declarations (~20% 1-line)
+- Dialogue ~0.5% (two words total — "Extra" / "Thanks")
+- Domestic action: cooking (morning greens, evening cabbage), eating at table, washing bowl, composition books beside bowl
+
+**Pacing Concern:** Risk of domestic routine feeling inert. Mitigated by: (1) arithmetic resolving to "enough" as transformation marker; (2) Dharavi wall scene as emotional center (count's purpose realized); (3) reflex passage showing trauma permanent but cost budgeted; (4) closing pattern break as structural period.
+
+**Structural Note:** FINAL NUWA CHAPTER. Period ending. Two months after C43 count completion. The count is in the archive. The network runs without her as hub. The topology payments have stabilized. The morning arithmetic resolves to "enough" for the first time in 26 months. Not surplus. Not comfort. Sufficiency. The smallest possible affirmation from a woman whose entire life has been calibrated to the margin between enough and not. The margin holds. The count is complete. The work continues. What remains is enough.
+
+**Comparison to C43:**
+- C43: Count being written, material scarcity (oil gone, rice borrowed), spatial compression (running out of pages), "The count was a period. The work was the sentence that continued after it."
+- C50: Count complete (two months in archive), arithmetic resolves to "enough," composition books aging from habitation (covers softening from steam), "What remained was what she counted. What remained was enough."
+- Together they bracket the count's completion and its aftermath. C43 = the act of counting. C50 = the recognition that the counting is done and what remains is sufficient.
+
+**Closing Line Pattern Break:**
+- All prior Nuwa chapters (B1C42 through B3C43): "The inventory was open. She was not done."
+- C50: "What remained was what she counted. What remained was enough."
+- The open inventory closes. The counting that was never done is done. The period is the period.
 | Archive submission | ~600 | Medium-high (labor peak) | Four hours data entry, battery warning, open access choice |
 | Network response | ~400 | Resolving | 17 green notifications, Yara/Lagos/Dharavi, count received |
 | Closing (evening) | ~400 | Resolving | Rice borrowed, composition books on table, first non-packable possessions, "not done" |
