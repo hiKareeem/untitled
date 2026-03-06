@@ -1,143 +1,128 @@
 ---
 name: 'step-02-load'
-description: 'Load all reference files into shared context'
+description: 'Load chapter content, style profile, and forward continuity context'
 
 # Navigation
 nextStepFile: './step-03-analyze.md'
 
-# Output
-outputFile: '{bbb_output_folder}/review/review-report-{scope}.md'
+# Inputs (resolved from step-01)
+# chapterFile: resolved at runtime from session state
+# styleProfilePath: resolved from frontmatter
+# forward_continuity_enabled: from session state
+# forward_chapters: from session state (POV chain)
 
-# Input Sources (from step-01)
-reviewScope: '{scope}'
-targetChapters: '{target_chapters}'
-bibleFolder: '{bbb_output_folder}/bible/'
-chaptersFolder: '{bbb_output_folder}/chapters/'
-foundationFolder: '{bbb_output_folder}/foundation/'
-styleProfilePath: '{bbb_output_folder}/style-profile.md'
-charactersFolder: '{bbb_output_folder}/characters/'
-thematicAnalysisPath: '{bbb_output_folder}/thematic-analysis.md'
-reviewReportsFolder: '{bbb_output_folder}/review/'
+# Reference
+styleProfilePath: '{bbb_output_folder}/style-profile.yaml'
+metadataFolder: '{bbb_output_folder}/book-1/metadata'
+trilogyIndex: '{bbb_output_folder}/trilogy-chapter-index.md'
 ---
 
-# Step 2: Load Context
+# Step 2: Load Chapter Content
 
 ## STEP GOAL:
-To perform a one-time load of all reference files into shared context, establishing the knowledge base for comprehensive coherence analysis across all 6 review categories.
+Read the target chapter file and the style profile into context. If forward continuity is enabled, identify the POV character and load metadata for all FORWARD chapters in their POV chain. Prepare the content payloads that will be dispatched to the parallel review subagents in step 03.
 
 ## MANDATORY EXECUTION RULES (READ FIRST):
 
 ### Universal Rules:
 - NEVER generate content without user input
 - CRITICAL: Read the complete step file before taking any action
-- CRITICAL: When loading next step with 'C', ensure entire file is read
 - YOU ARE A FACILITATOR, not a content generator
-- YOU MUST ALWAYS SPEAK OUTPUT in your Agent communication style with the config `{communication_language}`
 - TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread
 
 ### Role Reinforcement:
-- You are the **Continuity Editor** preparing for comprehensive review
-- Like a building inspector reviewing blueprints before inspection
-- Thorough context loading is essential for accurate analysis
-- You organize reference materials for efficient analysis workflow
+- You are a **Review Coordinator** preparing inputs for parallel reviewers
+- Do NOT read the chapter yourself for review purposes — the subagents will do that
 
 ### Step-Specific Rules:
-- Focus ONLY on loading and organizing reference materials
-- FORBIDDEN to start analysis in this step
-- Load ALL available files - missing files are noted, not skipped
-- Organize context for efficient cross-referencing during analysis
+- Focus ONLY on loading files
+- FORBIDDEN to comment on chapter quality or content
+- FORBIDDEN to begin analysis
 
-## EXECUTION PROTOCOLS:
-- Load files in priority order (core → recommended → optional)
-- Organize content by category for easy reference
-- Note missing files in context for analysis phase
-- Update frontmatter with review quality assessment
-- Auto-proceed to step 3 after all files loaded
-
-## CONTEXT BOUNDARIES:
-- Has access to {reviewScope} and {targetChapters} from step 1
-- All files detected in step 1 should be loaded if available
-- Target chapters must be loaded for review
-- Focus: Data loading and organization, not analysis
+---
 
 ## MANDATORY SEQUENCE
 
-**CRITICAL:** Follow this sequence exactly. Do not skip, reorder, or improvise unless user explicitly requests a change.
+### 1. Load Chapter File
 
-**Reference:** `../data/loading-procedures.md` contains detailed procedures for all loading operations.
+Read the full contents of the target chapter file. Store as `{chapter_content}`.
 
-### 1. Announce Loading Phase
-See: Loading Announcement section in loading-procedures.md
+Report: `Loaded {chapter_id}: {word_count} words, {line_count} lines`
 
-### 2. Load Target Chapter Content (CORE)
-See: Target Chapter Content Loading section in loading-procedures.md
+### 2. Load Style Profile
 
-### 3. Load Chapter Plans (CORE)
-See: Chapter Plans Loading section in loading-procedures.md
+Read `{styleProfilePath}`. Store as `{style_profile}`.
 
-### 4. Load Living Bible (CORE - 5 Dimensions)
-See: Living Bible Loading section in loading-procedures.md
+If missing: Note absence. Editorial reviewer will operate without style reference.
 
-### 5. Load Previous Chapter Summaries (CORE)
-See: Previous Chapter Summaries Loading section in loading-procedures.md
+Report: `Style profile: {loaded/not found}`
 
-### 6. Load Style Profile (STRONGLY RECOMMENDED)
-See: Style Profile Loading section in loading-procedures.md
+### 3. Load Forward Continuity Context (if enabled)
 
-### 7. Load Character Dossiers (OPTIONAL)
-See: Character Dossiers Loading section in loading-procedures.md
+**SKIP this step entirely if `{forward_continuity_enabled}` is false.**
 
-### 8. Load Thematic Tracking (OPTIONAL)
-See: Thematic Tracking Loading section in loading-procedures.md
+If enabled:
 
-### 9. Load Previous Reviews (OPTIONAL)
-See: Previous Reviews Loading section in loading-procedures.md
+1. **Identify POV character** from the chapter content (the POV character should be evident from the chapter header or metadata file). If unclear, check `{metadataFolder}/chapter-{N}-meta.yaml` for the `pov` field.
 
-### 10. Assess Review Quality
-See: Review Quality Assessment section in loading-procedures.md
+2. **Look up the POV chain** from the trilogy chapter index. Find all chapters AFTER the current one for this character in the current book.
 
-Store as `reviewQuality` in output frontmatter.
+3. **Load forward metadata files** from `{metadataFolder}`:
+   - For each forward chapter in the POV chain, read `chapter-{N}-meta.yaml`
+   - Store the `summary`, `keyPoints`, `characters`, and `newElements` fields from each
+   - Combine into `{forward_context}` — a concatenation of all forward chapter metadata
 
-### 11. Update Output Frontmatter
+4. **Report:**
+   ```
+   Forward continuity: {pov_character}
+   Forward chapters: {list of chapter numbers}
+   Metadata loaded: {N} files ({total_tokens} est. tokens)
+   ```
 
-Update {outputFile} frontmatter with:
-```yaml
-reviewQuality: '{quality_assessment}'
-bibleDimensionsLoaded: {count}
-previousSummariesCount: {count}
-styleProfileAvailable: {boolean}
-optionalEnhancements: {count}
+Note: Load ONLY metadata files, NOT full chapter prose. The metadata summaries are sufficient for forward continuity review.
+
+### 4. Prepare Subagent Payloads
+
+Two or three payloads will be needed in step 03:
+
+**Adversarial payload:**
+- Chapter text only (no style profile, no project context)
+
+**Editorial payload:**
+- Chapter text + style profile
+
+**Forward Continuity payload (if enabled):**
+- Chapter text + forward chapter metadata + POV character name + POV chain list
+
+Do NOT dispatch yet. Payload preparation is implicit — step 03 handles dispatch.
+
+### 5. Auto-Proceed
+
+Display:
+
+```
+Chapter loaded: {chapter_id} ({word_count} words)
+Style profile: {status}
+Forward continuity: {enabled — {N} forward chapters | disabled}
+
+Dispatching parallel reviewers...
 ```
 
-### 12. Present Context Summary
-See: Context Summary Template section in loading-procedures.md
-
-**Select:** `[C]` Continue to Analysis
-
-### MENU HANDLING LOGIC:
-
-- IF C: Update {outputFile} frontmatter with stepsCompleted: ['step-01-init', 'step-02-load'], lastStep: 'step-02-load', then load, read entire file, then execute {nextStepFile}
-- IF Any other: Help user, then redisplay menu
+Immediately load and execute `step-03-analyze.md`.
 
 ---
 
 ## SYSTEM SUCCESS/FAILURE METRICS
 
 ### SUCCESS:
-- All target chapter content loaded
-- Chapter plans loaded for each target chapter
-- Living Bible dimensions loaded (all available)
-- Previous chapter summaries loaded
-- Style profile loaded (if available)
-- Optional files loaded (if available)
-- Review quality assessed and recorded
-- Frontmatter updated with context summary
+- Chapter content loaded in full
+- Style profile loaded (or absence noted)
+- No analysis performed
+- Auto-proceeded to step 03
 
 ### SYSTEM FAILURE:
-- Not loading target chapter content
-- Not loading chapter plans
-- Not attempting to load Living Bible dimensions
-- Not loading previous summaries (critical for narrative coherence)
-- Not updating frontmatter with quality assessment
+- Began reviewing or commenting on chapter content
+- Failed to load chapter file
+- Did not auto-proceed
 
-**Master Rule:** Context loading must be comprehensive - every available file should be loaded. Missing files are noted, not skipped. The analysis phase depends on thorough context preparation.
+**Master Rule:** Load and pass through. Do not analyze.

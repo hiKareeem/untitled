@@ -1,175 +1,106 @@
 ---
 name: 'step-04-generate'
-description: 'Generate structured review report from analysis results'
+description: 'Aggregate parallel findings into unified review report'
 
 # Navigation
 nextStepFile: './step-05-present.md'
 
-# Output
-outputFile: '{bbb_output_folder}/review/review-report-{scope}.md'
+# Templates
 reportTemplate: '../data/report-template.md'
+
+# Output
+reportFile: '{bbb_output_folder}/review/review-report-{chapter_id}.md'
 ---
 
-# Step 4: Generate Report
+# Step 4: Generate Review Report
 
 ## STEP GOAL:
-To compile all analysis results into a structured, actionable review report document that clearly communicates issues, severity, and correction suggestions.
+Aggregate findings from both parallel reviewers into a single, structured review report for the current chapter. Write the report file.
 
 ## MANDATORY EXECUTION RULES (READ FIRST):
 
 ### Universal Rules:
-- NEVER generate content without user input
 - CRITICAL: Read the complete step file before taking any action
-- CRITICAL: When loading next step with 'C', ensure entire file is read
-- YOU ARE A FACILITATOR, not a content generator
-- YOU MUST ALWAYS SPEAK OUTPUT in your Agent communication style with the config `{communication_language}`
+- YOU ARE A FACILITATOR assembling outputs, not a reviewer
 - TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread
 
 ### Role Reinforcement:
-- You are the **Continuity Editor** compiling findings into an actionable report
-- Like a building inspector producing a detailed inspection report
-- Your report must be clear, structured, and immediately actionable
-- The author should know exactly what to fix and how
+- You are a **Review Coordinator** compiling a report
+- Preserve the voice and perspective of each reviewer
+- Do NOT add findings that neither reviewer produced
 
 ### Step-Specific Rules:
-- Focus ONLY on compiling and formatting the report
-- FORBIDDEN to perform additional analysis in this step
-- Follow the report template structure exactly
-- Ensure every issue has location reference and suggested fix
-- Create resolution tracking checklist for authors
+- FORBIDDEN to add new findings
+- FORBIDDEN to remove or downgrade findings
+- FORBIDDEN to editorialize beyond the structural summary
 
-## EXECUTION PROTOCOLS:
-- Load analysis results from step 3
-- Load report template
-- Compile issues by category with full details
-- Generate resolution tracking checklist
-- Write complete report to output file
-- Auto-proceed to step 5 after generation
-
-## CONTEXT BOUNDARIES:
-- Has access to all analysis results from step 3
-- Report template provides structure
-- Output file already created from template (step 1)
-- Focus: Report compilation and formatting, not analysis
+---
 
 ## MANDATORY SEQUENCE
 
-**CRITICAL:** Follow this sequence exactly. Do not skip, reorder, or improvise unless user explicitly requests a change.
+### 1. Load Report Template
 
-**Reference:** `../data/templates/review-templates.yaml` contains all report templates and formatting guidelines.
+Read `{reportTemplate}`. This provides the output structure.
 
-### 1. Announce Report Generation
+### 2. Classify All Findings by Severity
 
-"**Generating Review Report...**
+For each finding from both reviewers, assign severity if not already assigned:
+- **Critical** — breaks reader immersion, logic error, internal contradiction
+- **Major** — weakens prose significantly, unclear intent, pacing damage
+- **Minor** — polish-level, word choice, rhythm suggestion
 
-Compiling all analysis findings into a structured, actionable report.
-Report generation in progress..."
+### 3. Compile Report Sections
 
-### 2. Update Report Frontmatter
+Fill the report template:
 
-Update {outputFile} frontmatter with final analysis data:
+**Header:** Chapter ID, date, word count, reviewer summary.
 
-```yaml
-stepsCompleted: ['step-01-init', 'step-02-load', 'step-03-analyze', 'step-04-generate']
-lastStep: 'step-04-generate'
-date: '{current_date}'
-user_name: '{user_name}'
-reviewScope: '{reviewScope}'
-targetChapters: {target_chapters}
-reviewType: 'comprehensive'
-issuesFound: {total_issues}
-issuesBySeverity:
-  critical: {critical_count}
-  major: {major_count}
-  minor: {minor_count}
-reviewQuality: '{quality_assessment}'
-bibleDimensionsLoaded: {bible_dimensions}
-previousSummariesCount: {previous_summaries}
-styleProfileAvailable: {boolean}
-```
+**Section 1: Adversarial Review**
+All findings from the adversarial reviewer, preserving their original framing and severity. Grouped by severity (Critical first, then Major, then Minor).
 
-### 3. Generate Executive Summary
-See: Executive Summary Template in review-templates.yaml
+**Section 2: Editorial Review**
+All findings from the editorial reviewer, preserving their original categories (rhythm, clarity, word choice, emotional precision, pacing, paragraph flow). Grouped by category, severity within each.
 
-### 4-9. Generate Category Sections (1-6)
-See: Category Section Template in review-templates.yaml
+**Section 3: Forward Continuity (if present)**
+If forward continuity findings exist, include them as Section 3:
+- Thread tracking table (what's set up here, where it pays off, status)
+- Findings by severity (contradictions, missing setups, foreshadowing opportunities)
+- Arc coherence assessment
+If forward continuity was disabled, omit this section entirely.
 
-Apply the category section template for each:
-- Category 1: Character Consistency
-- Category 2: Location Accuracy
-- Category 3: Object Tracking
-- Category 4: Timeline Validation
-- Category 5: Plot Hole Detection
-- Category 6: Quality Issues
+**Section 4: Executive Summary**
+- Total findings: {N} adversarial + {N} editorial + {N} continuity = {N} total
+- Severity breakdown: {N} critical, {N} major, {N} minor
+- Overall assessment: one sentence
 
-### 10. Generate Resolution Tracking
-See: Resolution Tracking Template in review-templates.yaml
+**Section 5: Triage Priorities**
+List the top 5 highest-impact findings across all reviewers. These are what the author should look at first.
 
-### 11. Generate Recommendations
-See: Recommendations Template in review-templates.yaml
+### 4. Write Report File
 
-### 12. Write Complete Report
+Write the compiled report to `{reportFile}`.
 
-Write all generated sections to {outputFile}, replacing template placeholders.
+Report: `Review report written to {reportFile}`
 
-### 13. Confirm Report Generation
+### 5. Auto-Proceed
 
-Display:
-
-"**Report Generated Successfully!**
-
-### Report Details
-
-| Item | Value |
-|------|-------|
-| Output File | {outputFile} |
-| Total Issues | {total} |
-| Critical | {critical} |
-| Major | {major} |
-| Minor | {minor} |
-| Categories Analyzed | 6 |
-{if recurring: | Recurring Issues | {count} 🔴}
-
-### Report Structure
-
-✅ Executive Summary
-✅ Category 1: Character Consistency ({count} issues)
-✅ Category 2: Location Accuracy ({count} issues)
-✅ Category 3: Object Tracking ({count} issues)
-✅ Category 4: Timeline Validation ({count} issues)
-✅ Category 5: Plot Hole Detection ({count} issues)
-✅ Category 6: Quality Issues ({count} issues)
-✅ Resolution Tracking Checklist
-✅ Prioritized Recommendations
-
-{if no issues: **🎉 Congratulations! Your report shows no issues. Your chapter(s) demonstrate excellent narrative coherence and quality.**}
-
-**Report ready for presentation.**"
-
-**Select:** `[C]` Continue to Presentation
-
-### MENU HANDLING LOGIC:
-
-- IF C: Proceed to load, read entire file, then execute {nextStepFile}
-- IF Any other: Help user, then redisplay menu
+Immediately load and execute `step-05-present.md`.
 
 ---
 
 ## SYSTEM SUCCESS/FAILURE METRICS
 
 ### SUCCESS:
-- All 6 category sections generated with complete issue details
-- Every issue includes: description, location, severity, suggested fix
-- Resolution tracking checklist generated and organized by severity
-- Recommendations section provides prioritized action plan
-- Recurring issues flagged if applicable
-- Report written to output file successfully
+- Both reviewers' findings preserved without modification
+- Report file written
+- Severity classification applied consistently
+- Executive summary and triage priorities generated
+- Auto-proceeded to step 05
 
 ### SYSTEM FAILURE:
-- Skipping categories in report generation
-- Issues missing location references or suggested fixes
-- Resolution tracking not generated
-- Recommendations not prioritized by severity
-- Report not written to output file
+- Added findings that neither reviewer produced
+- Removed or softened findings
+- Did not write report file
+- Did not auto-proceed
 
-**Master Rule:** The report must be immediately actionable. Every issue needs a specific location reference and a clear, implementable fix suggestion. The resolution tracking checklist enables authors to systematically address all issues.
+**Master Rule:** Compile faithfully. The reviewers have spoken. Report what they said.

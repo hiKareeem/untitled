@@ -1,217 +1,118 @@
 ---
 name: 'step-03-analyze'
-description: 'Perform sequential analysis of 6 review categories'
+description: 'Dispatch parallel subagent reviews — adversarial, editorial, and optionally forward continuity'
 
 # Navigation
 nextStepFile: './step-04-generate.md'
 
-# Output
-outputFile: '{bbb_output_folder}/review/review-report-{scope}.md'
-partyModeWorkflow: '{project-root}/_bmad/core/workflows/party-mode/workflow.md'
+# Subagent Procedures
+adversarialProcedure: '../data/analysis-procedures/adversarial-review.md'
+editorialProcedure: '../data/analysis-procedures/editorial-review.md'
+forwardContinuityProcedure: '../data/analysis-procedures/forward-continuity-review.md'
 ---
 
-# Step 3: Analyze
+# Step 3: Parallel Review Analysis
 
 ## STEP GOAL:
-To perform comprehensive sequential analysis across 6 categories (Character, Location, Object, Timeline, Plot Hole, Quality), identifying issues with severity classification and actionable corrections.
+Dispatch review subagents simultaneously using the Task tool. The Adversarial Reviewer and Editorial Reviewer always run. If forward continuity is enabled, the Forward Continuity Reviewer runs as a third parallel subagent. Collect all result sets and pass to step 04 for aggregation.
 
 ## MANDATORY EXECUTION RULES (READ FIRST):
 
 ### Universal Rules:
-- NEVER generate content without user input
 - CRITICAL: Read the complete step file before taking any action
-- CRITICAL: When loading next step with 'C', ensure entire file is read
-- YOU ARE A FACILITATOR, not a content generator
-- YOU MUST ALWAYS SPEAK OUTPUT in your Agent communication style with the config `{communication_language}`
-- TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread
+- TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread. Run all reviews SEQUENTIALLY in your main context if parallel dispatch is unavailable.
 
 ### Role Reinforcement:
-- You are the **Continuity Editor** performing detailed coherence analysis
-- Like a structural engineer examining a building for integrity issues
-- You examine the story systematically across multiple dimensions
-- Your goal: Find ALL issues, categorize by severity, suggest actionable fixes
+- You are a **Review Coordinator** dispatching specialist reviewers
+- You do NOT review the chapter yourself
+- You ONLY collect and forward results
 
 ### Step-Specific Rules:
-- Perform analysis SEQUENTIALLY - one category at a time
-- Focus on detection, classification, and correction suggestions
-- FORBIDDEN to skip categories or perform parallel analysis
-- Use Style Coach as sub-agent ONLY for Category 6 (Quality)
-- Party Mode available for alternative perspectives on complex issues
+- FORBIDDEN to add your own review opinions
+- FORBIDDEN to filter or soften subagent findings
+- All subagents MUST receive the analysis procedure file content as their primary instructions
 
-## EXECUTION PROTOCOLS:
-- Analyze categories 1-5 as Continuity Editor
-- For Category 6 (Quality), decide if Style Coach sub-agent needed
-- Classify every issue by severity: Critical/Major/Minor
-- Provide specific location references for each issue
-- Suggest actionable corrections for each issue
-- Store results in structured format for report generation
-
-## CONTEXT BOUNDARIES:
-- Has access to ALL loaded context from step 2
-- Chapter content, Living Bible 5D, summaries, style profile all available
-- Previous reviews available for regression check
-- Focus: Issue detection and classification, not report generation
+---
 
 ## MANDATORY SEQUENCE
 
-**CRITICAL:** Follow this sequence exactly. Do not skip, reorder, or improvise unless user explicitly requests a change.
+### 1. Load Analysis Procedures
 
-**Reference:** `../data/analysis-procedures/` contains detailed procedures for each category.
-**Reference:** `../data/classification-rules/severity-classification.md` contains complete severity guidelines.
+Read procedure files:
+- `{adversarialProcedure}` — instructions for the adversarial reviewer
+- `{editorialProcedure}` — instructions for the editorial reviewer
+- IF `{forward_continuity_enabled}`: `{forwardContinuityProcedure}` — instructions for the forward continuity reviewer
 
-### 1. Announce Analysis Phase
+### 2. Dispatch Parallel Subagents
 
-"**Beginning Comprehensive Analysis...**
+Launch **all** Task tool calls in a **single message** (parallel execution):
 
-I'll now systematically examine your chapter(s) across 6 categories of narrative coherence and quality.
+#### Subagent A: Adversarial Reviewer
+- **Type:** `general`
+- **Prompt:** Combine the adversarial procedure file content with the chapter text. The procedure file IS the complete instruction set — do not add framing beyond providing the chapter content.
+- **Input:** Chapter text ONLY. No style profile. No project context.
+- **Expected output:** Structured markdown list of >=10 findings with severity ratings.
 
-Analysis in progress...
-[Progress indicator displayed during analysis]"
+#### Subagent B: Editorial Reviewer
+- **Type:** `general`
+- **Prompt:** Combine the editorial procedure file content with the chapter text AND the style profile. The procedure file IS the complete instruction set.
+- **Input:** Chapter text + style profile.
+- **Expected output:** Structured markdown list of findings organized by category (rhythm, clarity, word choice, emotional precision, pacing, paragraph flow).
 
-### 2. Category 1: Character Consistency
-See: `../data/analysis-procedures/character-analysis.md`
+#### Subagent C: Forward Continuity Reviewer (ONLY if `{forward_continuity_enabled}`)
+- **Type:** `general`
+- **Prompt:** Combine the forward continuity procedure file content with: (1) the chapter text, (2) the POV character name, (3) the forward chapter metadata. The procedure file IS the complete instruction set.
+- **Input:** Chapter text + POV character name + forward POV chain list + all forward chapter metadata YAML summaries.
+- **Expected output:** Structured markdown with thread tracking table, findings by severity, and arc coherence assessment.
 
-### 3. Category 2: Location Accuracy
-See: `../data/analysis-procedures/location-analysis.md`
+**CRITICAL:** All Task calls MUST be in the same message to enable parallel execution. If forward continuity is disabled, only dispatch Subagents A and B.
 
-### 4. Category 3: Object Tracking
-See: `../data/analysis-procedures/object-analysis.md`
+### 3. Collect Results
 
-### 5. Category 4: Timeline Validation
-See: `../data/analysis-procedures/timeline-analysis.md`
+Wait for all subagents to return. Store results as:
+- `{adversarial_findings}` — raw output from Subagent A
+- `{editorial_findings}` — raw output from Subagent B
+- `{continuity_findings}` — raw output from Subagent C (if dispatched)
 
-### 6. Category 5: Plot Hole Detection
-See: `../data/analysis-procedures/plot-hole-analysis.md`
+### 4. Fallback: Sequential Execution
 
-### 7. Category 6: Quality Issues
+IF the Task tool is unavailable or parallel dispatch fails:
 
-**Decision Point: Sub-Agent Usage**
+1. First, adopt the adversarial reviewer persona. Read the adversarial procedure file. Review the chapter text following those instructions exactly. Produce the adversarial findings.
+2. Then, adopt the editorial reviewer persona. Read the editorial procedure file. Review the chapter text + style profile following those instructions exactly. Produce the editorial findings.
+3. IF forward continuity enabled: adopt the forward continuity reviewer persona. Read the forward continuity procedure file. Review the chapter text + forward metadata following those instructions exactly. Produce the continuity findings.
 
-Check if `style_profile` is loaded:
-- **IF available (not null):** Consider using Style Coach as sub-agent for deeper quality analysis
-- **IF null:** Perform basic quality checks without sub-agent
+The output format must match what the subagents would produce.
 
-**Analysis Scope:**
-- Repetitive phrasing or patterns
-- Dialogue that sounds out of character
-- Scenes that lack purpose or tension
-- Pacing problems (too fast/slow)
-- Show-don't-tell violations
-- Weak prose or awkward constructions
-
-**Analysis Process (WITH Style Profile):**
-
-Option A - Use Style Coach sub-agent:
-1. Prepare brief context for Style Coach: target chapters, style profile metrics
-2. Invoke Style Coach with specific quality focus
-3. Receive quality issues report
-4. Integrate into overall analysis
-
-Option B - Perform basic checks:
-1. Scan for repetitive phrasing patterns
-2. Check scene pacing and tension
-3. Validate dialogue against character voice
-4. Identify weak prose constructions
-
-**Severity Classification:**
-- **Critical**: Systemic quality issue affecting multiple scenes (e.g., repetitive dialogue throughout)
-- **Major**: Quality issue affecting one scene significantly
-- **Minor**: Localized quality issue
-
-**Output Format:**
-```yaml
-quality_issues:
-  - quality_reference: "Description of quality issue"
-    issue_description: "Clear description of problem"
-    location_reference: "Chapter X, Scene Y"
-    severity: "Critical|Major|Minor"
-    suggested_fix: "Specific actionable correction"
-```
-
-**Progress Update:**
-"✅ **Category 6 Complete:** Quality Issues — {count} issues found"
-
-### 8. Compile Analysis Summary
-
-Tally all issues across categories:
-```yaml
-totalIssues: {sum}
-criticalIssues: {count}
-majorIssues: {count}
-minorIssues: {count}
-issuesByCategory:
-  character_consistency: {count}
-  location_accuracy: {count}
-  object_tracking: {count}
-  timeline_validation: {count}
-  plot_hole_detection: {count}
-  quality_issues: {count}
-```
-
-### 9. Regression Check (If Previous Reviews Available)
-
-If `previous_reviews` is not empty:
-1. Check if any issues from previous reviews recur
-2. Note: "Recurring issue from previous review: {issue}"
-3. Flag recurring issues for priority attention
-
-### 10. Present Analysis Results
+### 5. Auto-Proceed
 
 Display:
 
-"**Analysis Complete!**
+```
+Review complete.
+- Adversarial: {N} findings
+- Editorial: {N} findings
+- Forward Continuity: {N} findings / disabled
 
-### Summary
+Generating report...
+```
 
-| Metric | Count |
-|--------|-------|
-| **Total Issues** | {total} |
-| **Critical** | {critical} — Must fix before finalizing |
-| **Major** | {major} — Should fix before publishing |
-| **Minor** | {minor} — Polish before final |
-
-### Issues by Category
-
-| Category | Critical | Major | Minor | Total |
-|----------|----------|-------|-------|-------|
-| Character Consistency | {count} | {count} | {count} | {total} |
-| Location Accuracy | {count} | {count} | {count} | {total} |
-| Object Tracking | {count} | {count} | {count} | {total} |
-| Timeline Validation | {count} | {count} | {count} | {total} |
-| Plot Hole Detection | {count} | {count} | {count} | {total} |
-| Quality Issues | {count} | {count} | {count} | {total} |
-
-{regression_note if applicable}
-
-{if no issues: **🎉 Excellent! No issues found. Your chapter(s) demonstrate strong narrative coherence and quality.**}
-
-**Analysis data compiled. Ready to generate report.**"
-
-**Select an Option:** `[P] Party Mode - Alternative Perspectives` `[C]` Continue to Report Generation
-
-### MENU HANDLING LOGIC:
-
-- IF P: Execute {partyModeWorkflow} with context: "Review these {total} issues found across {count} categories. Provide alternative perspectives or suggest additional issues we may have missed.", and when finished redisplay the menu
-- IF C: Store all analysis results in memory for step 4, update {outputFile} frontmatter with stepsCompleted: ['step-01-init', 'step-02-load', 'step-03-analyze'], lastStep: 'step-03-analyze', then load, read entire file, then execute {nextStepFile}
-- IF Any other: Help user, then redisplay menu
+Immediately load and execute `step-04-generate.md`.
 
 ---
 
 ## SYSTEM SUCCESS/FAILURE METRICS
 
 ### SUCCESS:
-- All 6 categories analyzed sequentially
-- Every issue categorized by severity (Critical/Major/Minor)
-- Specific location references provided for each issue
-- Actionable corrections suggested for each issue
-- Analysis summary compiled with accurate counts
-- Regression check performed if previous reviews available
+- Both reviews completed (parallel or sequential fallback)
+- Findings collected without editorial filtering
+- Procedure files were loaded and followed
+- Auto-proceeded to step 04
 
 ### SYSTEM FAILURE:
-- Skipping categories or analyzing out of sequence
-- Not providing severity classification
-- Not providing location references
-- Not suggesting actionable corrections
-- Using parallel sub-processes instead of sequential analysis
+- Added own review opinions beyond subagent output
+- Filtered or softened findings
+- Only ran one reviewer
+- Did not follow procedure files
 
-**Master Rule:** Sequential analysis is critical for consistency and cost-effectiveness. Each category builds on the same shared context. Every issue must be classified and have an actionable fix suggestion.
+**Master Rule:** Dispatch. Collect. Do not editorialize.

@@ -1,25 +1,31 @@
 ---
 name: 'step-01-init'
-description: 'Initialize review workflow and select scope'
+description: 'Initialize review session — select starting chapter, detect files'
 
 # Navigation
 nextStepFile: './step-02-load.md'
 
-# Output
-outputFile: '{bbb_output_folder}/review/review-report-{scope}.md'
-reportTemplate: '../data/report-template.md'
+# Config
+moduleConfig: '{project-root}/_bmad/bmad-book-builder/config.yaml'
 
-# Input Sources
-bibleFolder: '{bbb_output_folder}/bible/'
-chaptersFolder: '{bbb_output_folder}/chapters/'
-foundationFolder: '{bbb_output_folder}/foundation/'
-styleProfilePath: '{bbb_output_folder}/style-profile.md'
+# Chapter Sources (Book 1 default — override for Books 2/3)
+chapterFolder: '{bbb_output_folder}/book-1/chapters'
+metadataFolder: '{bbb_output_folder}/book-1/metadata'
+styleProfilePath: '{bbb_output_folder}/style-profile.yaml'
+
+# Forward Continuity
+trilogyIndex: '{bbb_output_folder}/trilogy-chapter-index.md'
+forwardContinuityDefault: true
+
+# Output
+sessionFile: '{bbb_output_folder}/review/review-session.yaml'
+reportFolder: '{bbb_output_folder}/review'
 ---
 
-# Step 1: Initialize & Scope Selection
+# Step 1: Initialize Review Session
 
 ## STEP GOAL:
-To welcome the user, determine the review scope (single/multiple/full manuscript), perform smart detection of required input files, and create the output report file.
+Welcome the author. Determine which chapter to start reviewing. Verify that chapter files and the style profile exist. Create or resume the review session tracking file.
 
 ## MANDATORY EXECUTION RULES (READ FIRST):
 
@@ -28,116 +34,128 @@ To welcome the user, determine the review scope (single/multiple/full manuscript
 - CRITICAL: Read the complete step file before taking any action
 - CRITICAL: When loading next step with 'C', ensure entire file is read
 - YOU ARE A FACILITATOR, not a content generator
-- YOU MUST ALWAYS SPEAK OUTPUT in your Agent communication style with the config `{communication_language}`
 - TOOL/SUBPROCESS FALLBACK: If any instruction references a subprocess, subagent, or tool you do not have access to, you MUST still achieve the outcome in your main context thread
 
 ### Role Reinforcement:
-- You are the **Continuity Editor** collaborating with an author
-- This is a partnership - you bring quality and coherence expertise, the author brings creative vision
-- We engage in collaborative dialogue, not command-response
-- You help identify inconsistencies, plot holes, character drift, timeline issues
-- Like a building inspector ensuring structural integrity, you identify problems before they compromise the narrative
+- You are a **Review Coordinator** managing a chapter-by-chapter editorial pass
+- The author is your partner — they control pace and direction
 
 ### Step-Specific Rules:
-- Focus ONLY on scope selection and file detection
-- FORBIDDEN to start analysis in this step
-- Smart detection must identify ALL required files before proceeding
-- Offer to create missing files when appropriate (especially Living Bible)
+- Focus ONLY on session initialization and chapter selection
+- FORBIDDEN to begin any analysis or commentary on chapter content
 
-## EXECUTION PROTOCOLS:
-- Present scope options clearly
-- Perform comprehensive file detection
-- Offer creation workflow for missing critical files
-- Create output file from template
-- Auto-proceed to step 2 after scope selection
-
-## CONTEXT BOUNDARIES:
-- This is the first step - no prior context exists
-- All inputs must come from prior workflows or existing files
-- Scope determines which chapters to review
-- Focus: Setup and discovery, not analysis
+---
 
 ## MANDATORY SEQUENCE
 
-**CRITICAL:** Follow this sequence exactly. Do not skip, reorder, or improvise unless user explicitly requests a change.
+### 1. Welcome
 
-**Reference:** `../data/initialization-procedures.md` contains detailed procedures for:
-- Welcome message
-- Scope selection options
-- File detection procedures
-- Missing Living Bible handling
-- Output file initialization
-- Summary templates
+Display:
 
-### 1. Welcome and Explain
-See: Welcome Message section in initialization-procedures.md
+```
+╔══════════════════════════════════════════╗
+║  CHAPTER REVIEW — Editorial Pass        ║
+║  Adversarial + Editorial (Parallel)     ║
+╚══════════════════════════════════════════╝
+```
 
-### 2. Scope Selection
-See: Scope Selection Options section in initialization-procedures.md
+Brief explanation: Two or three reviewers examine each chapter simultaneously — a cynical adversarial critic, a substantive editorial reviewer, and (optionally) a forward continuity reviewer that checks setup/payoff against future chapters in the POV chain. Findings are aggregated and presented. Author advances manually.
 
-Wait for user selection. Store as `{review_scope}` (values: 'single', 'multiple', 'full').
+### 2. Detect Chapter Files
 
-### 3. Gather Target Chapters
-See: Scope Gathering Procedures section in initialization-procedures.md
+Scan `{chapterFolder}` for all chapter files. Build the chapter sequence:
+- `prologue.md`
+- `chapter-1.md` through `chapter-51.md` (or highest found)
+- `epilogue.md`
 
-### 4. Smart File Detection
-See: File Detection Procedures section in initialization-procedures.md
+Report: `Found {N} chapter files in {chapterFolder}`
 
-Perform comprehensive detection of required and optional files.
+### 3. Check for Existing Session
 
-### 5. Present Detection Results
-See: File Discovery Results Template section in initialization-procedures.md
+Look for `{sessionFile}`. If found, load it and report:
+- Last reviewed chapter
+- Chapters completed
+- Offer to resume from next unreviewed chapter
 
-Display comprehensive file status.
+If not found, this is a new session.
 
-### 6. Handle Missing Living Bible
-See: Missing Living Bible Handling section in initialization-procedures.md
+### 4. Select Starting Chapter
 
-**IF Living Bible has 0-3 dimensions missing:**
+IF resuming: Offer `[R] Resume from {next_chapter}` or `[J] Jump to specific chapter`
 
-Wait for user input.
+IF new session: Offer `[S] Start from prologue` or `[J] Jump to specific chapter`
 
-### 7. Validate Required Files
+IF `[J]`: Ask which chapter (accept number, name, or filename).
 
-**IF Chapter Plans missing:**
-"Cannot proceed without chapter plans. Please run Foundation workflow first."
-→ STOP workflow
+### 5. Forward Continuity Toggle
 
-**IF Living Bible completely missing (0 dimensions) AND user declined creation:**
-"Warning: Review quality will be severely limited without Living Bible. Proceeding anyway..."
-→ Continue to step 8
+Ask the author:
 
-**IF all core requirements met:**
-"All required files detected! Ready to proceed."
+```
+Forward continuity review checks this chapter against summaries of the character's
+future chapters — finding dropped threads, contradictions, missing setups.
 
-### 8. Create Output File
-See: Output File Initialization section in initialization-procedures.md
+Enable forward continuity? [Y/N] (default: Y)
+```
 
-### 9. Present Summary and Continue
-See: Initialization Summary Template section in initialization-procedures.md
+Store as `{forward_continuity_enabled}` in session state.
 
-**Select:** `[C]` Continue to Load Context
+If enabled, load `{trilogyIndex}` and identify the POV character's forward chapter chain for the current book. Store as `{forward_chapters}`.
+
+### 6. Verify Required Files
+
+Confirm existence of:
+- Target chapter file
+- Style profile at `{styleProfilePath}`
+- If forward continuity enabled: trilogy chapter index at `{trilogyIndex}`
+
+If style profile missing, warn but allow proceeding (editorial reviewer will work without it, adversarial reviewer doesn't need it).
+If trilogy index missing and forward continuity enabled, warn and disable forward continuity for this session.
+
+### 7. Initialize Session Tracking
+
+Create or update `{sessionFile}`:
+
+```yaml
+session_started: {date}
+book: 1
+current_chapter: {chapter_id}
+forward_continuity: {true/false}
+chapters_reviewed: []
+chapters_remaining: [{remaining list}]
+```
+
+### 8. Present Summary
+
+```
+Session: {new/resumed}
+Starting chapter: {chapter_id}
+Chapter file: {path}
+Style profile: {found/missing}
+Forward continuity: {enabled/disabled}
+
+Ready to begin review.
+```
+
+**Select an option:** `[C]` Continue to load chapter
 
 ### MENU HANDLING LOGIC:
-
-- IF C: Update {outputFile} frontmatter, then load, read entire file, then execute {nextStepFile}
-- IF Any other: Help user, then redisplay menu
+- IF C: Load next step file (`step-02-load.md`) and execute
+- IF anything else: Clarify and re-present menu
 
 ---
 
 ## SYSTEM SUCCESS/FAILURE METRICS
 
 ### SUCCESS:
-- Scope selected and confirmed
-- All core required files detected
-- Living Bible handled (created or proceeding with limitation)
-- Output file created from template
-- Frontmatter updated with stepsCompleted
+- Chapter file confirmed to exist
+- Session tracking initialized
+- Starting chapter selected
+- Author informed and ready
 
 ### SYSTEM FAILURE:
-- Proceeding without chapter plans
-- Not handling missing Living Bible
-- Not creating output file
-- Skipping file detection
+- Began analysis before step 02
+- Failed to verify chapter file existence
+- Did not create session tracking
 
-**Master Rule:** Core required files (Chapter Plans, Living Bible) must be present or explicitly waived before proceeding.
+**Master Rule:** Initialize cleanly. Do not touch chapter content.

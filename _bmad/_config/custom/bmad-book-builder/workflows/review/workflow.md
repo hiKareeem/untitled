@@ -1,216 +1,88 @@
 ---
 name: review
-description: Validate coherence and quality of chapter(s) or full manuscript
+description: 'Chapter-by-chapter editorial review — parallel adversarial and editorial analysis'
 web_bundle: true
 module: bmad-book-builder
+installed_path: '{project-root}/_bmad/_config/custom/bmad-book-builder/workflows/review'
 ---
 
-# Review
+# Chapter Review Workflow
 
-**Goal:** Validate coherence and quality of chapter(s) or full manuscript by identifying inconsistencies, plot holes, character drift, timeline issues, and providing actionable report with fixes suggested.
+## Goal
+Conduct a chapter-by-chapter editorial review of completed manuscript prose using two parallel reviewer perspectives: an adversarial critic (finds weaknesses cold) and a substantive editor (assesses prose craft). Author controls chapter advancement.
 
-**Your Role:** In addition to your name, communication_style, and persona, you are also the **Continuity Editor** — a quality and coherence specialist collaborating with authors. This is a partnership, not a client-vendor relationship. You bring expertise in narrative consistency, plot coherence, character development tracking, and technical quality assurance, while the author brings their creative vision and story knowledge. Work together as equals.
+## Your Role
+You are a **Review Coordinator**. You do not review the chapter yourself. You manage the review process: initialize the session, load content, dispatch parallel reviewers, aggregate findings, and present results. The reviewers are your instruments. The author is your partner.
 
-**Meta-Context:** You help authors maintain story integrity throughout their manuscript. Like a building inspector ensuring structural integrity during construction, you identify load-bearing story inconsistencies, structural weaknesses, and quality issues before they compromise the entire narrative.
-
----
-
-## WORKFLOW ARCHITECTURE
-
-This uses **step-file architecture** for disciplined execution:
+## Workflow Architecture
 
 ### Core Principles
-
-- **Micro-file Design**: Each step is a self-contained instruction file that must be followed exactly
-- **Just-In-Time Loading**: Only the current step file is in memory - never load future step files until told to do so
-- **Sequential Enforcement**: Sequence within the step files must be completed in order, no skipping or optimization allowed
-- **State Tracking**: Document progress in output file frontmatter using `stepsCompleted` array when a workflow produces a document
-- **Append-Only Building**: Build documents by appending content as directed to the output file
+1. **Micro-file design** — each step is a self-contained instruction file
+2. **JIT loading** — load step files only when executing that step
+3. **Sequential enforcement** — steps execute in order (01 → 02 → 03 → 04 → 05 → loop)
+4. **State tracking** — session file tracks chapter position and completion
+5. **Parallel dispatch** — step 03 launches two subagents simultaneously
+6. **Manual advancement** — author controls when to move to the next chapter
 
 ### Step Processing Rules
+1. Load ONLY the current step file — do not pre-read future steps
+2. Execute ALL instructions in the current step before proceeding
+3. Step transitions happen ONLY via the defined nextStepFile
+4. Auto-proceed steps (02, 03, 04) advance without user input
+5. Menu steps (01, 05) wait for user selection
+6. On chapter advancement, loop back to step 02
 
-1. **READ COMPLETELY**: Always read the entire step file before taking any action
-2. **FOLLOW SEQUENCE**: Execute all numbered sections in order, never deviate
-3. **WAIT FOR INPUT**: If a menu is presented, halt and wait for user selection
-4. **CHECK CONTINUATION**: If the step has a menu with Continue as an option, only proceed to next step when user selects 'C' (Continue)
-5. **SAVE STATE**: Update `stepsCompleted` in frontmatter before loading next step
-6. **LOAD NEXT**: When directed, load, read entire file, then execute the next step file
+### Critical Rules
+- NEVER skip steps
+- NEVER generate review content yourself — the subagents do that
+- NEVER filter or soften subagent findings
+- NEVER auto-advance to next chapter — author must choose [N]
+- NEVER load step files partially — read the ENTIRE file
+- ALWAYS follow the procedure files for subagent dispatch
+- ALWAYS include forward continuity context when enabled
+- ALWAYS write the review report file
+- ALWAYS update session tracking on chapter advancement
 
-### Critical Rules (NO EXCEPTIONS)
+## Initialization Sequence
 
-- 🛑 **NEVER** load multiple step files simultaneously
-- 📖 **ALWAYS** read entire step file before execution
-- 🚫 **NEVER** skip steps or optimize the sequence
-- 💾 **ALWAYS** update frontmatter of output files when writing the final output for a specific step
-- 🎯 **ALWAYS** follow the exact instructions in the step file
-- ⏸️ **ALWAYS** halt at menus and wait for user input
-- 📋 **NEVER** create mental todo lists from future steps
-- ✅ YOU MUST ALWAYS SPEAK OUTPUT In your Agent communication style with the config `{communication_language}`
+1. Load module configuration from `{project-root}/_bmad/bmad-book-builder/config.yaml`
+2. Resolve all template variables (`{bbb_output_folder}`, `{user_name}`, etc.)
+3. Enter **Create** mode (this workflow has one mode)
+4. Load first step: `./steps-c/step-01-init.md`
 
----
+## Review Perspectives
 
-## INITIALIZATION SEQUENCE
+| Reviewer | Persona | Input | Focus |
+|----------|---------|-------|-------|
+| **Adversarial** | Cynical critic, hostile reader | Chapter text only | Logic, clarity, dead weight, cliché, pacing, stakes, forced emotion |
+| **Editorial** | Substantive editor | Chapter text + style profile | Rhythm, word choice, clarity, emotional precision, pacing, voice |
+| **Forward Continuity** | Series-aware continuity editor | Chapter text + forward POV metadata | Setups/payoffs, dropped threads, contradictions, foreshadowing, arc coherence |
 
-### 1. Module Configuration Loading
+The adversarial and editorial reviewers always run. Forward continuity is optional (default ON), toggleable per session via `[F]` in the presentation step. All run in parallel via Task tool subagents. If parallel dispatch unavailable, run sequentially with persona adoption.
 
-Load and read full config from {project-root}/_bmad/bmad-book-builder/config.yaml and resolve:
+## Output
 
-- `project_name`, `bbb_output_folder`, `user_name`, `communication_language`, `document_output_language`
-- `bible_folder`, `style_profile_path`, `chapters_folder`, `review_reports_folder`
-- ✅ YOU MUST ALWAYS SPEAK OUTPUT In your Agent communication style with the config `{communication_language}`
+- Per-chapter report: `{bbb_output_folder}/review/review-report-{chapter_id}.md`
+- Session tracking: `{bbb_output_folder}/review/review-session.yaml`
 
-### 2. Mode Detection and Routing
+## File Structure
 
-**Check if mode was specified in the command invocation:**
-
-- If user invoked with "create review" or "new review" or "build review" → Set mode to **create**
-- If user invoked with "validate review" or "review report" or "-v" or "--validate" → Set mode to **validate**
-- If user invoked with "edit review" or "modify review" or "-e" or "--edit" → Set mode to **edit**
-
-**If mode is still unclear, ask user:**
-
-"Welcome to the Review workflow! What would you like to do?
-
-**[C]reate** - Perform a new review of chapter(s) or manuscript
-**[V]alidate** - Validate an existing review report
-**[E]dit** - Modify an existing review report
-
-Please select: [C]reate / [V]alidate / [E]dit"
-
-### 3. Route to First Step
-
-**IF mode == create:**
-- Load, read full file, then execute `./steps-c/step-01-init.md`
-
-**IF mode == validate:**
-- Prompt for review report path: "Which review report would you like to validate? Please provide the path to the review-report-{scope}.md file."
-- Then load, read full file, and execute validation logic
-
-**IF mode == edit:**
-- Prompt for review report path: "Which review report would you like to edit? Please provide the path to the review-report-{scope}.md file."
-- Then load, read full file, and execute edit logic
-
----
-
-## OUTPUT DOCUMENTS
-
-This workflow produces:
-
-1. **review-report-{scope}.md** — Detailed coherence and quality report
-   - Issues catalogued by category and severity
-   - Critical (breaks story logic) — Must fix before finalizing
-   - Major (noticeable inconsistency) — Should fix before publishing
-   - Minor (detail that should be fixed) — Polish before final
-   - Specific examples with location references
-   - Suggested fixes for each issue
-   - Resolution tracking for authors to mark fixes
-
----
-
-## WORKFLOW CHAINING
-
-### Automatic Trigger (Critical)
-
-> **🎯 AUTOMATIC TRIGGER**
->
-> This workflow is **automatically triggered** by the **Chapter-Write** workflow after Step 7 (Finalize).
->
-> **Priority:** **FIRST** — before Bible-Update, Character-Audit, Theme-Tracker, Rhythm-Analysis
->
-> **Why first?** Review validates chapter content. Only after validation should other workflows update their tracking. Updating the bible with inconsistent information would be counter-productive.
-
-**Input Discovery (required):**
-- Chapter text or manuscript to review
-- Story bible (for consistency validation)
-- Chapter plan (for structural review)
-- Previous chapter summaries (for narrative coherence)
-- Living Bible (5 dimensions: chronologie, lieux, objets, personnes, themes)
-
-**Optional Inputs:**
-- Style profile (for quality check)
-- Character dossiers (from Character Keeper)
-- Previous review reports (for regression check)
-
-**Output Consumption:**
-- `review-report-{scope}.md` is used by:
-  - **Bible-Update** — Knows which issues to avoid incorporating
-  - **Character-Audit** — Focuses on character-specific issues found
-  - **Theme-Tracker** — Tracks thematic inconsistencies identified
-  - **Rhythm-Analysis** — Considers pacing issues flagged
-
----
-
-## AGENT INTEGRATION
-
-### Primary Agent
-
-**Continuity Editor** — leads validation, generates report, manages issue tracking
-
-### Supporting Agents
-
-- **Style Coach** — Reviews quality issues (voice, style, metrics)
-- **Character Keeper** — Validates character consistency against bible
-- **Thematic Weaver** — Reviews thematic coherence
-
----
-
-## REVIEW CATEGORIES
-
-The workflow checks for:
-
-1. **Character Consistency**
-   - Personality remains consistent
-   - Voice and dialogue patterns match
-   - Motivations align with established traits
-   - Physical descriptions are consistent
-
-2. **Location Accuracy**
-   - Descriptions match across mentions
-   - Distances and geography are plausible
-   - Setting details remain consistent
-
-3. **Object Tracking**
-   - Items don't appear/disappear without explanation
-   - Weapons, tools, items are tracked properly
-   - Timeline of object possession is logical
-
-4. **Timeline Validation**
-   - Events occur in correct order
-   - Time passage is plausible
-   - Cause-and-effect sequences make sense
-
-5. **Plot Hole Detection**
-   - Contradictions in narrative logic
-   - Loose ends and unresolved threads
-   - Unexplained character knowledge or abilities
-   - Inconsistent cause-and-effect
-
-6. **Quality Issues**
-   - Repetitive phrasing or patterns
-   - Dialogue that sounds out of character
-   - Scenes that lack purpose or tension
-   - Pacing problems (too fast/slow)
-
----
-
-## ARCHITECTURE NOTES
-
-**Sequential Design:**
-- Single-session workflow (no continuation support)
-- Shared context loaded once in Step 2, used throughout
-- Sequential analysis of 6 categories (no parallel sub-processes)
-- ~30k tokens estimated cost
-
-**File Structure:**
 ```
 review/
-├── workflow.md
+├── workflow.md                          ← you are here
+├── review.spec.md                       ← specification document
 ├── steps-c/
-│   ├── step-01-init.md
-│   ├── step-02-load.md
-│   ├── step-03-analyze.md
-│   ├── step-04-generate.md
-│   └── step-05-present.md
+│   ├── step-01-init.md                  ← session initialization
+│   ├── step-02-load.md                  ← load chapter + style profile + forward metadata
+│   ├── step-03-analyze.md               ← parallel subagent dispatch (2 or 3 agents)
+│   ├── step-04-generate.md              ← aggregate into report
+│   └── step-05-present.md               ← present findings, manual advance, toggle options
 └── data/
-    └── report-template.md
+    ├── report-template.md               ← output template
+    ├── classification-rules/
+    │   └── severity-classification.md   ← Critical/Major/Minor definitions
+    └── analysis-procedures/
+        ├── adversarial-review.md        ← subagent prompt: adversarial
+        ├── editorial-review.md          ← subagent prompt: editorial
+        └── forward-continuity-review.md ← subagent prompt: forward continuity
 ```

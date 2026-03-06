@@ -1,147 +1,110 @@
-# Workflow Specification: Review
+# Review Workflow Specification
 
-**Module:** bmad-book-builder
-**Status:** Placeholder — To be created via create-workflow workflow
-**Created:** 2026-01-24
-
----
-
-## Workflow Overview
-
-**Goal:** Validate coherence and quality of chapter(s) or full manuscript
-
-**Description:** Continuity Editor checks for inconsistencies, plot holes, character drift, timeline issues, and provides actionable report with fixes suggested.
-
-**Workflow Type:** Create-only
+> **Status:** Active — v2.0 (upgraded from placeholder)
+> **Module:** bmad-book-builder
+> **Last Updated:** 2026-03-06
 
 ---
 
-## Workflow Structure
+## Purpose
 
-### Entry Point
+Post-hoc chapter-by-chapter review of completed manuscript prose. Two parallel review perspectives — **Adversarial** (cynical critic finding weaknesses) and **Editorial** (prose quality, clarity, polish) — run simultaneously via subagents. Findings are aggregated into a unified report per chapter. Author advances to the next chapter manually.
 
-```yaml
----
-name: review
-description: Validate coherence and quality of chapter(s)
-web_bundle: true
-installed_path: '{project-root}/_bmad/bmad-book-builder/workflows/review'
----
-```
-
-### Mode
-
-- [X] Tri-modal (steps-b/, steps-c/, steps-v/)
+This workflow is designed for the current project phase: **all chapters are written**. Continuity, character consistency, style compliance, and thematic tracking were handled during the chapter-write workflow (steps 04/05) and are not repeated here. This review focuses on what a fresh reader and a hostile critic would find.
 
 ---
 
-## Planned Steps
+## Architecture
 
-| Step | Name | Goal |
-|------|------|------|
-| 1 | Load Content | Load chapter(s) for review |
-| 2 | Load Reference | Load bible, previous chapters, plan |
-| 3 | Validate Coherence | Check characters, locations, objects, timeline |
-| 4 | Identify Issues | Catalog problems by category and severity |
-| 5 | Generate Report | Create actionable report with fixes |
-| 6 | Present Findings | Walk through issues with user |
-| 7 | Track Resolutions | Allow user to mark issues as fixed |
+### Execution Model: Parallel Subagents
 
----
+Step 03 dispatches **two or three subagents simultaneously** using the Task tool:
 
-## Workflow Inputs
+1. **Adversarial Reviewer** — receives only the chapter text and the adversarial review procedure. No project context. Finds >=10 issues with the prose as if encountering it cold. Derived from `review-adversarial-general.xml`.
 
-### Required Inputs
+2. **Editorial Reviewer** — receives the chapter text plus the style profile and the editorial review procedure. Assesses prose quality: sentence rhythm, word choice, clarity, emotional precision, pacing within scenes, paragraph-level flow. Not a copyeditor — a substantive editor.
 
-- Chapter text or full manuscript
-- Story bible
-- Chapter plan (for structural review)
+3. **Forward Continuity Reviewer** (optional, default ON) — receives the chapter text, the POV character name, and metadata summaries for all future chapters in that character's POV chain. Checks: setups without payoffs, dropped threads, contradictions with future developments, missing foreshadowing, arc coherence. Uses chapter metadata YAML files (~1500 tokens each) rather than full chapter text to manage context.
 
-### Optional Inputs
+All run in parallel via Task tool subagents. If parallel dispatch unavailable, run sequentially with persona adoption.
 
-- Previous chapters (for context)
-- Style profile (for quality check)
+### Chapter Progression: Manual
 
----
+After reviewing findings for a chapter, the author chooses:
+- **[N] Next Chapter** — advance to next chapter in sequence
+- **[R] Re-review** — re-run analysis on current chapter (e.g., after making edits)
+- **[F] Toggle Forward Continuity** — enable/disable the forward continuity reviewer
+- **[Q] Quit** — end the review session
 
-## Workflow Outputs
+There is no automatic advancement. The author controls pace.
 
-### Output Format
+### Chapter Sequence
 
-- [X] Document-producing
-- [ ] Non-document
-
-### Output Files
-
-- `review-report-{scope}.md` — Detailed coherence report with issues catalogued and prioritized
+Default order: `prologue`, `chapter-1` through `chapter-51`, `epilogue`. The workflow tracks current position and offers the next in sequence. Author can override and jump to any chapter.
 
 ---
 
-## Agent Integration
+## Steps (Create Mode)
 
-### Primary Agent
+| Step | File | Purpose |
+|------|------|---------|
+| 01 | `step-01-init.md` | Welcome, select starting chapter, detect files |
+| 02 | `step-02-load.md` | Load chapter content + style profile |
+| 03 | `step-03-analyze.md` | Dispatch parallel subagents (adversarial + editorial) |
+| 04 | `step-04-generate.md` | Aggregate findings into review report |
+| 05 | `step-05-present.md` | Present findings, manual chapter advancement |
 
-**Continuity Editor** — leads validation, generates report
-
-### Other Agents Referenced
-
-- Character Keeper (bible validation)
-- Thematic Weaver (thematic coherence)
-- Rhythm Monitor (pacing review)
-
----
-
-## Automatic Trigger
-
-> **🎯 DÉCLENCHEMENT AUTOMATIQUE**
->
-> Ce workflow est **automatiquement déclenché** par le workflow **Chapter-Write** après la finalisation de chaque chapitre.
->
-> **Quand :** Après Step 7 (Finalize) de Chapter-Write
-> **Condition :** Toujours déclenché (**PREMIER PRIORITÉ** — avant les autres workflows)
-> **Mode :** L'utilisateur peut choisir d'exécuter immédiatement ou différer
->
-> **Pourquoi en priorité ?** Review identifie les problèmes de cohérence qui doivent être corrigés **avant** que la bible, les audits de personnages et le suivi thématique soient mis à jour. Mettre à jour la bible avec des informations incohérentes serait contre-productif.
-
-**Ceci garantit que chaque chapitre est validé pour sa cohérence et sa qualité avant d'être considéré comme "finalisé".**
+Step 05 loops back to Step 02 when the author selects [N] Next Chapter or [R] Re-review.
 
 ---
 
-## When to Use This Workflow
+## Agents
 
-- **After each chapter** — Automatic trigger from Chapter-Write (recommended)
-- **During revision** — Comprehensive review of multiple chapters
-- **Before final manuscript** — Full manuscript coherence check
-- **Manually** — When author wants independent review at any time
+| Agent | Role | Context Given |
+|-------|------|---------------|
+| Adversarial Reviewer | Cynical critic, finds weaknesses | Chapter text only |
+| Editorial Reviewer | Substantive editor, prose quality | Chapter text + style profile |
+| Forward Continuity Reviewer | Forward setup/payoff checker | Chapter text + forward POV chapter metadata |
 
----
-
-## Implementation Notes
-
-**Key Features to Implement:**
-- Character consistency (personality, voice, motivation)
-- Location accuracy (descriptions match, distances plausible)
-- Object tracking (items don't appear/disappear)
-- Timeline validation (events in correct order, plausible timing)
-- Plot hole detection (contradictions, loose ends)
-- Actionable issue reporting (specific examples, suggested fixes)
-
-**Issue Categories:**
-- Critical (breaks story logic) — Must fix before finalizing
-- Major (noticeable inconsistency) — Should fix before publishing
-- Minor (detail that should be fixed) — Polish before final
+The adversarial and editorial reviewers receive no bible data, character dossiers, or worldbuilding references. The forward continuity reviewer receives metadata summaries (not full text) of the character's future chapters.
 
 ---
 
-## Integration with Other Workflows
+## Output
 
-This workflow is **triggered first by Chapter-Write** because:
-1. Review validates the chapter content
-2. Once validated, THEN update the bible (Bible-Update)
-3. THEN run specialized analysis (Character-Audit, Theme-Tracker, Rhythm-Analysis)
+- **Per-chapter report:** `{bbb_output_folder}/review/review-report-{chapter_id}.md`
+- **Session tracking:** `{bbb_output_folder}/review/review-session.yaml` (tracks which chapters have been reviewed, current position)
 
-**Logical flow:** Chapter-Write → **Review** → (if passes) → Bible-Update → Character-Audit → Theme-Tracker → Rhythm-Analysis
+### Issue Severity
+
+- **Critical** — breaks reader immersion, logic error, contradicts what the text itself establishes
+- **Major** — weakens the prose significantly, unclear intent, pacing damage
+- **Minor** — polish-level, word choice, rhythm suggestion
 
 ---
 
-_This is a specification. Use the create-workflow workflow to build this workflow._
+## Triggering
+
+Invoked manually via `/review` or equivalent. Not auto-triggered. This is an author-driven editorial pass.
+
+---
+
+## Dependencies
+
+- Chapter files in `{bbb_output_folder}/book-{N}/chapters/`
+- Chapter metadata in `{bbb_output_folder}/book-{N}/metadata/` (for forward continuity)
+- Trilogy chapter index at `{bbb_output_folder}/trilogy-chapter-index.md` (for forward continuity)
+- Style profile at `{bbb_output_folder}/style-profile.yaml`
+- Subagent/Task tool capability for parallel dispatch
+
+---
+
+## Data Files
+
+| File | Purpose |
+|------|---------|
+| `data/report-template.md` | Output template for per-chapter reports |
+| `data/analysis-procedures/adversarial-review.md` | Subagent prompt for adversarial reviewer |
+| `data/analysis-procedures/editorial-review.md` | Subagent prompt for editorial reviewer |
+| `data/analysis-procedures/forward-continuity-review.md` | Subagent prompt for forward continuity reviewer |
+| `data/classification-rules/severity-classification.md` | Issue severity definitions |
