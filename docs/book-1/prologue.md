@@ -1,7 +1,7 @@
 # Prologue
 ## Arctic-7
 
-> *"At R3 purity, the coherence curve inverts. I have checked this result four times. The sample does not degrade. It refines itself."*
+> *At R3 purity, the coherence curve inverts. I have checked this result four times. The sample does not degrade. It refines itself.*
 >
 > — Dr. Maren Solberg, *On the Statistical Correlation Between Nitro Infrastructure Density and Anomalous Event Frequency* (2170, suppressed)
 
@@ -19,7 +19,7 @@ She did not believe it.
 
 She stood now in the primary monitoring bay, a hexagonal room buried sixty meters below the ice shelf, walled on three sides by instrument panels and on the other three by reinforced viewports looking into the extraction cavity. The cavity was a vertical shaft bored through permafrost and bedrock to the hydrothermal formation below — a column of orange light where crude nitro rose through pressurized containment into the stabilization array. It was beautiful, in the way industrial processes sometimes were. The nitro glowed like molten amber, thick and slow, and the containment field gave it a faintly prismatic edge that scattered light across the bay's ceiling in shifting patterns. The hum was loudest here, resonating through the viewport glass, through the floor plates, through the bones of her jaw.
 
-"RCI is up again," said Tamsin Guo, without looking away from her station. Tamsin was the shift lead, twenty-six, precise, and constitutionally incapable of alarm. She reported catastrophic pressure readings and minor calibration drifts in the same flat tone. "Forty-one point three. Advisory threshold."
+"RCI is up again," said Tamsin Guo without looking away from her station. Tamsin was the shift lead, twenty-six, precise, and constitutionally incapable of alarm. She reported catastrophic pressure readings and minor calibration drifts in the same flat tone. "Forty-one point three. Advisory threshold."
 
 "Trend?"
 
@@ -33,7 +33,7 @@ Elise frowned. RCI didn't climb without a driver. Throughput up, coherence up �
 
 Tamsin's fingers moved across her console without comment. This was the protocol. When the numbers didn't make sense, you verified the instruments. When the instruments were fine, you verified them again. And when they were still fine, you filed a report and waited for someone higher up the chain to tell you what the numbers meant. The system was designed to absorb anomalies into procedure, to convert the unfamiliar into the administrative. It worked almost every time.
 
-Elise pulled up the spectral analysis on her own terminal. The RCI readout was a dense waterfall display — frequency bands stacked vertically, time scrolling left to right, intensity mapped in color from blue through green to amber to red. Standard nitro resonance was a broad amber band centered around 7.8 hertz, steady as a heartbeat. What she saw now was the amber band fraying at its upper edge. Tiny filaments of signal — too thin to trigger the automated alert thresholds, too structured to be noise — were climbing into frequencies the extraction-grade crude shouldn't produce. The pattern looked almost rhythmic. Almost deliberate.
+Elise pulled up the spectral analysis on her own terminal. The RCI readout was a dense waterfall display — frequency bands stacked vertically, time scrolling left to right, intensity mapped in color from blue through green to amber to red. Standard nitro resonance was a broad amber band centered around 7.8 hertz, steady as a heartbeat. What she saw now was the amber band fraying at its upper edge. Tiny filaments of signal — too thin to trigger the automated alert thresholds, too structured to be noise — were climbing into frequencies the extraction-grade crude shouldn't produce. The pattern looked rhythmic. Deliberate.
 
 She zoomed in. The filaments pulsed in clusters of three: spike, decay, spike, decay, spike, longer decay. Repeating. She counted twelve repetitions before the pattern broke, resumed six seconds later, and repeated another nine times.
 
@@ -105,9 +105,9 @@ Throughput hit zero at 2247 hours. The pumps wound down. The extraction cavity d
 
 The hum did not diminish.
 
-At 2300, Elise returned to the monitoring bay alone. She'd sent the others to rest. Tamsin was on passive watch from the secondary station one level up, monitoring remotely, instructed to wake Elise if the RCI crossed fifty. That was the curfew threshold. At curfew, she'd have no choice but to file a formal anomalous event report, and Arctic-7 would cease to be hers.
+At 2300, Elise returned to the monitoring bay alone. She'd sent the others to rest. Tamsin was on passive watch from the secondary station one level up, monitoring remotely and instructed to wake Elise if the RCI crossed fifty. That was the curfew threshold. At curfew, she'd have no choice but to file a formal anomalous event report, and Arctic-7 would cease to be hers.
 
-She sat in the dim bay and watched the extraction cavity through the viewports. The crude nitro at the bottom of the shaft glowed faintly, pulsing. Not the steady luminescence she was accustomed to — a slow rhythm, brightening and dimming over a period of roughly eight seconds. The three-pulse pattern from the spectral analysis was visible now to the naked eye. Brighten. Dim. Brighten. Dim. Brighten. Long dim. Repeat.
+She sat in the dim bay and watched the extraction cavity through the viewports. The crude nitro at the bottom of the shaft glowed faintly, pulsing. Not the steady luminescence she was accustomed to, but a slow rhythm, brightening and dimming over a period of roughly eight seconds. The three-pulse pattern from the spectral analysis was visible now to the naked eye. Brighten. Dim. Brighten. Dim. Brighten. Long dim. Repeat.
 
 She pressed her hand against the viewport glass. It was warm — the crude heated the surrounding rock, and the heat conducted through the reinforced panels. The vibration traveled through her palm, up her wrist, into the small bones of her forearm. She could feel the pulse. Not just hear it. Feel it in her skeleton, as if the resonance had found a sympathetic frequency in her own tissue.
 
@@ -161,7 +161,7 @@ She took another step toward the fissure.
 
 Not because she wanted to. Not because she was brave. Because the hum — the new hum, the inverted hum, the sound-that-was-not-sound pressing against the inside of her skull — carried with it a *proposition.* Not words. Not meaning she could articulate. A felt architecture of intent, like the moment before understanding a complex equation, when the shape of the solution is present in the mind before any of its terms. Something vast was aware of her. Not interested in her. Not hostile toward her. *Aware,* the way a landscape is aware of rain — passively, totally, without preference or judgment.
 
-The fissure was a meter wide now. The cold radiating from it had dropped the bay's temperature enough that frost was forming on the instrument panels. The crude nitro in the extraction cavity beyond the viewports had gone dark — no longer glowing, no longer pulsing, as if whatever energy it contained had been drawn toward the tear like water toward a drain. The facility's power fluctuated. Emergency lighting kicked in — flat white strips along the ceiling, designed for evacuation, painting everything in sterile angles and hard shadows.
+The fissure was a meter wide now. The cold radiating from it had dropped the bay's temperature enough that frost was forming on the instrument panels. The crude nitro in the extraction cavity beyond the viewports had gone dark — no longer glowing, no longer pulsing — as if whatever energy it contained had been drawn toward the tear like water toward a drain. The facility's power fluctuated. Emergency lighting kicked in — flat white strips along the ceiling, designed for evacuation, painting everything in sterile angles and hard shadows.
 
 The fracture geometry began.
 
@@ -179,7 +179,7 @@ Her fingertips touched the glass.
 
 The glass was no longer there.
 
-Her hand passed through the space where the viewport had been and into the geometry beyond. It didn't hurt. There was no boundary, no resistance, no membrane to pierce. The transition was ontological, not physical — her hand didn't move *through* anything, it simply ceased to be in one state of matter and began to be in another. She watched her fingers become translucent. Not transparent — she could still see them, still see the tendons and veins beneath the skin — but the skin itself was losing its opacity, becoming a window into something her nervous system had no framework to process.
+Her hand passed through the space where the viewport had been and into the geometry beyond. It didn't hurt. There was no boundary, no resistance, no membrane to pierce. The transition was ontological, not physical — her hand didn't move *through* anything, it simply ceased to be in one state of matter and began to be in another. She watched her fingers become translucent. Not transparent — she could still see the tendons and veins beneath the skin — but the skin itself was losing its opacity, becoming a window into something her nervous system had no framework to process.
 
 The cold was absolute. The hum was everything.
 

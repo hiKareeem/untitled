@@ -9460,4 +9460,4 @@ The inventory was open. She was not done.
 
 ---
 
-*End of Book Two*
+*End of Volume Two*
